@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "KNm25",
+    "FEN": "r2q1rk1/ppp2ppp/2nb4/2n5/2B3b1/4BN2/PPP2PPP/RN1Q1RK1 w - - 8 10",
+    "Moves": "c2c3 g4f3 d1f3 d8h4 g2g3 h4c4",
+    "Rating": "2362",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "176",
+    "Themes": "crushing long opening",
+    "GameUrl": "https://lichess.org/dsdUvMYq#19",
+    "OpeningTags": "Russian_Game Russian_Game_Modern_Attack"
+  },
+  {
+    "PuzzleId": "KRBoF",
+    "FEN": "r3k2r/ppp2p2/2pq1n2/2b3Bp/4P3/2NP3p/PPP1BP2/R2Q1RK1 w kq - 0 12",
+    "Moves": "g5f6 d6g3 g1h1 g3g2",
+    "Rating": "2016",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "703",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/KvL2H8pu#23",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "KRCAh",
+    "FEN": "r1b3k1/ppp2ppp/2p5/8/3br2q/2P4P/PP2Q1P1/RNBK1B1R w - - 0 12",
+    "Moves": "e2f3 c8g4 h3g4 e4e1 d1c2 h4h1 b1d2 d4e3 f1c4 e3d2",
+    "Rating": "2362",
+    "RatingDeviation": "88",
+    "Popularity": "84",
+    "NbPlays": "52",
+    "Themes": "crushing exposedKing middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/A3Gms5on#23",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "KRazD",
+    "FEN": "r2q1rk1/pp3ppp/1npb4/7b/P2P4/1BP2N1P/5PP1/R1BQR1K1 b - - 2 15",
+    "Moves": "d8f6 g2g4 h5g4 h3g4",
+    "Rating": "2205",
+    "RatingDeviation": "93",
+    "Popularity": "90",
+    "NbPlays": "31",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/B33fR2Ry/black#30",
+    "OpeningTags": "Russian_Game Russian_Game_Classical_Attack"
+  },
+  {
+    "PuzzleId": "KRp6r",
+    "FEN": "r1b1k2r/ppp2p2/1bp5/5q1B/3P4/2P4P/PP3PP1/RN1QK2R w KQkq - 0 14",
+    "Moves": "h5g4 f5g4 d1g4 c8g4",
+    "Rating": "2095",
+    "RatingDeviation": "152",
+    "Popularity": "41",
+    "NbPlays": "8",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/KcLqAY73#27",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "KS3Rr",
+    "FEN": "1r3rk1/p3bppp/2p1b3/qp2p3/2P5/3BB3/PPP1QPPP/1K1R3R w - - 1 16",
+    "Moves": "b2b3 e5e4 d3e4 b5c4",
+    "Rating": "2164",
+    "RatingDeviation": "81",
+    "Popularity": "71",
+    "NbPlays": "43",
+    "Themes": "advantage deflection middlegame short",
+    "GameUrl": "https://lichess.org/6T7dnphk#31",
+    "OpeningTags": "Russian_Game Russian_Game_Nimzowitsch_Attack"
+  },
+  {
+    "PuzzleId": "KTzTL",
+    "FEN": "2k4r/ppp2pp1/2p2n2/4bP2/6p1/2PP2N1/PP1BBPPr/1R3RK1 w - - 1 19",
+    "Moves": "f2f4 g4f3 f1f3 e5g3 f3g3 h2h1 g1f2 h1b1",
+    "Rating": "2088",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "439",
+    "Themes": "crushing enPassant kingsideAttack middlegame skewer veryLong",
+    "GameUrl": "https://lichess.org/veAfkwdk#37",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "KUkAQ",
+    "FEN": "rn3rk1/pp3p2/1b3p1p/3N4/7P/1B1N1Pq1/PPPQ4/R3K2R w KQ - 2 17",
+    "Moves": "e1d1 g3f3 d2e2 f3h1 d1d2 h1h4",
+    "Rating": "2328",
+    "RatingDeviation": "92",
+    "Popularity": "87",
+    "NbPlays": "308",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/9m59u6Rg#33",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  },
+  {
+    "PuzzleId": "KWAkP",
+    "FEN": "2kr3r/ppp2pp1/1qp5/4n2p/3PP1b1/2N5/P1PQBKPP/R2R4 b - - 4 16",
+    "Moves": "h5h4 c3a4 b6d4 d2d4 d8d4 d1d4 g4e2 f2e2",
+    "Rating": "2209",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "3383",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/u1LrYqJb/black#32",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  }
+]

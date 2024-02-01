@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "04NEq",
+    "FEN": "rnb1kbr1/pppp1Npp/5q2/2n5/2B5/5P2/PPPP2PP/RNBQK2R w KQq - 1 7",
+    "Moves": "b1c3 f6h4 g2g3 h4c4",
+    "Rating": "1685",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "889",
+    "Themes": "advantage fork opening short",
+    "GameUrl": "https://lichess.org/uZ73yQJE#13",
+    "OpeningTags": "Russian_Game Russian_Game_Damiano_Variation"
+  },
+  {
+    "PuzzleId": "0CGCw",
+    "FEN": "rnb3k1/ppp2rp1/3p1qNP/8/4P1n1/3P4/PPP1Qb1P/RNB2R1K b - - 3 13",
+    "Moves": "g4e5 h6h7 g8h7 e2h5 h7g8 h5h8",
+    "Rating": "1732",
+    "RatingDeviation": "89",
+    "Popularity": "82",
+    "NbPlays": "30",
+    "Themes": "advancedPawn attraction kingsideAttack long mate mateIn3 opening",
+    "GameUrl": "https://lichess.org/gU0bUOfZ/black#26",
+    "OpeningTags": "Russian_Game Russian_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "0Cedo",
+    "FEN": "r1b1k1r1/pp3p1p/3b4/3p1p2/3p4/5P2/PPP2NPP/2KR1B1R b q - 1 15",
+    "Moves": "d6e5 d1e1 e8d7 e1e5",
+    "Rating": "1658",
+    "RatingDeviation": "95",
+    "Popularity": "83",
+    "NbPlays": "28",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/dDJZvVPu/black#30",
+    "OpeningTags": "Russian_Game Russian_Game_Modern_Attack"
+  },
+  {
+    "PuzzleId": "0Deuc",
+    "FEN": "r4r2/ppq2pkp/2n1b1p1/3p2Q1/2pP3N/2P1R3/PP3PPP/R4BK1 b - - 7 19",
+    "Moves": "c7e7 h4f5 e6f5 e3e7",
+    "Rating": "1616",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "19501",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/uGdVi6dl/black#38",
+    "OpeningTags": "Russian_Game Russian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "0IFVj",
+    "FEN": "rnbqkb1r/pp3ppp/2p5/4p3/2p1P3/5N2/PPP2PPP/RNBQK2R w KQkq - 0 7",
+    "Moves": "f3e5 d8a5 b1c3 a5e5",
+    "Rating": "1718",
+    "RatingDeviation": "89",
+    "Popularity": "64",
+    "NbPlays": "54",
+    "Themes": "advantage fork opening short",
+    "GameUrl": "https://lichess.org/wQa1dt72#13",
+    "OpeningTags": "Russian_Game Russian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "0IkHe",
+    "FEN": "r4rk1/pp3ppp/3b4/3p4/3Nn1n1/2P5/PPB2PPP/R1B2RK1 w - - 0 18",
+    "Moves": "f2f3 d6h2 g1h1 e4g3",
+    "Rating": "1797",
+    "RatingDeviation": "83",
+    "Popularity": "73",
+    "NbPlays": "126",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/BuoP9KRk#35",
+    "OpeningTags": "Russian_Game Russian_Game_Cozio_Attack"
+  },
+  {
+    "PuzzleId": "0Nfwh",
+    "FEN": "4r1k1/pppn1ppp/2np4/4q3/7B/2PB1P2/PPPQ2PP/2K4R b - - 3 18",
+    "Moves": "d7c5 h1e1 c5d3 c2d3",
+    "Rating": "1632",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "336",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/rgFKpgPQ/black#36",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  },
+  {
+    "PuzzleId": "0QaIX",
+    "FEN": "r3r1k1/pp3ppp/2p5/2np4/5B2/1PPP1P2/P5PP/R3R1K1 w - - 1 18",
+    "Moves": "d3d4 e8e1 a1e1 c5d3 f4d2 d3e1",
+    "Rating": "1713",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "53",
+    "Themes": "attraction crushing endgame fork long",
+    "GameUrl": "https://lichess.org/XWV97REI#35",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  },
+  {
+    "PuzzleId": "0RT9G",
+    "FEN": "r3kb1r/1p3pp1/p2p1q2/3Pp3/7p/P2QBnPB/1PP2P1P/R4R1K w kq - 0 18",
+    "Moves": "d3f5 f6f5 h3f5 h4g3",
+    "Rating": "1710",
+    "RatingDeviation": "82",
+    "Popularity": "67",
+    "NbPlays": "33",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/qz4hrK8S#35",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  }
+]

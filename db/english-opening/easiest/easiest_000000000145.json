@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "S4b5o",
+    "FEN": "rnbq1rk1/pppp2bp/8/4ppNQ/2P5/2N1P3/PP1P1PP1/R1B1KB2 b Q - 0 9",
+    "Moves": "f5f4 h5h7",
+    "Rating": "939",
+    "RatingDeviation": "167",
+    "Popularity": "50",
+    "NbPlays": "14",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/srTde2Gn/black#18",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Dutch_Defense"
+  },
+  {
+    "PuzzleId": "S4qec",
+    "FEN": "rn5r/pp3ppp/2k1bn2/1N2p3/N3P3/8/PP3PPP/2KR1B1R b - - 9 15",
+    "Moves": "a7a6 d1d6",
+    "Rating": "892",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "145",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/KEr8gzDk/black#30",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "S5jhM",
+    "FEN": "r3k2r/ppp2ppp/3p4/2bNp3/2P1P1b1/P7/1PQP1q1P/R1BK1B1R w kq - 2 13",
+    "Moves": "f1e2 g4e2",
+    "Rating": "795",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "114",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/eWGa32d0#25",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "S7hwz",
+    "FEN": "r1bqk2r/ppp2ppp/2n5/b3p3/8/2PP1NP1/P2BPP1P/R2QKB1R w KQkq - 1 9",
+    "Moves": "f3e5 c6e5",
+    "Rating": "984",
+    "RatingDeviation": "205",
+    "Popularity": "-100",
+    "NbPlays": "5",
+    "Themes": "advantage hangingPiece oneMove opening",
+    "GameUrl": "https://lichess.org/NvTTMkvA#17",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "S8bwp",
+    "FEN": "r1b1r1k1/pp3ppp/5n2/2b5/8/2NQ1BPP/PP1P1P2/R1B1qK1R w - - 1 17",
+    "Moves": "f1g2 e1f2",
+    "Rating": "967",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "219",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Bb073l1i#33",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "S8qbP",
+    "FEN": "rq2r1k1/ppp2ppp/3p4/3Pn3/1PP2Pb1/P1QB4/1B4PP/R4RK1 b - - 0 17",
+    "Moves": "e5d3 c3g7",
+    "Rating": "766",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "153",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/YtIM6TMq/black#34",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "SBv24",
+    "FEN": "r4rk1/ppp2ppp/1b3N2/8/1P3R2/P2nP1P1/1B1P2KP/R7 b - - 2 19",
+    "Moves": "g7f6 f4g4 g8h8 b2f6",
+    "Rating": "949",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "1783",
+    "Themes": "intermezzo kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/BkNZ0Zih/black#38",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "SFAeD",
+    "FEN": "r4rk1/ppp2ppp/2np2qn/3Np1B1/2PN2b1/3P2P1/PP2PPBP/1R1Q1RK1 b - - 0 11",
+    "Moves": "c6d4 d5e7 g8h8 e7g6",
+    "Rating": "932",
+    "RatingDeviation": "81",
+    "Popularity": "84",
+    "NbPlays": "400",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/y69r1Fhw/black#22",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "SH2vI",
+    "FEN": "rn2qknN/p1ppb1p1/1p2p2p/5PB1/2PP3Q/2NB1b2/PP3P1P/2K1R3 w - - 1 16",
+    "Moves": "f5e6 e7g5 h4g5 h6g5",
+    "Rating": "974",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "1004",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/cR54XPI8#31",
+    "OpeningTags": "English_Opening English_Opening_Other_variations"
+  }
+]

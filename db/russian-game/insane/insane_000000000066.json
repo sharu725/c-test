@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "jB5nX",
+    "FEN": "rn3r1k/pp3ppB/2p1b3/2bp2NQ/5q2/8/P4PPP/R4RK1 b - - 2 16",
+    "Moves": "e6g4 h5h4 g7g6 h4h6 f4g5 h6g5",
+    "Rating": "2619",
+    "RatingDeviation": "102",
+    "Popularity": "90",
+    "NbPlays": "1238",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/isu74nxa/black#32",
+    "OpeningTags": "Russian_Game Russian_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "jRRFi",
+    "FEN": "r1b1k1r1/pp1pbp1p/2p5/4Q3/4P3/2N4P/P1q1BPP1/1R3RK1 b q - 5 15",
+    "Moves": "d7d6 e5d4 e7g5 f1d1",
+    "Rating": "2736",
+    "RatingDeviation": "100",
+    "Popularity": "79",
+    "NbPlays": "147",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/hQXkrJVs/black#30",
+    "OpeningTags": "Russian_Game Russian_Game_Modern_Attack"
+  },
+  {
+    "PuzzleId": "jSeAz",
+    "FEN": "3r1r2/pp1qbppk/2p2n2/3pR1B1/8/2P2Q1P/PPP2PP1/3R2K1 b - - 1 17",
+    "Moves": "d7d6 d1e1 d8d7 g5f4",
+    "Rating": "2722",
+    "RatingDeviation": "117",
+    "Popularity": "90",
+    "NbPlays": "354",
+    "Themes": "advantage defensiveMove middlegame quietMove short",
+    "GameUrl": "https://lichess.org/1dXQNWyT/black#34",
+    "OpeningTags": "Russian_Game Russian_Game_Nimzowitsch_Attack"
+  },
+  {
+    "PuzzleId": "jTyTz",
+    "FEN": "r3kbr1/p4p1p/2p1bQ2/1pq5/8/2N5/PPP2PPP/3RR1K1 b q - 2 15",
+    "Moves": "c5g5 f6f3 g5g2 f3g2 g8g2 g1g2",
+    "Rating": "2515",
+    "RatingDeviation": "98",
+    "Popularity": "80",
+    "NbPlays": "76",
+    "Themes": "advantage long master middlegame",
+    "GameUrl": "https://lichess.org/tshlujr1/black#30",
+    "OpeningTags": "Russian_Game Russian_Game_Modern_Attack"
+  },
+  {
+    "PuzzleId": "jlWRC",
+    "FEN": "r1b1kb1r/pppp1ppp/8/8/1q1Pn3/8/PP1BQPPP/RN2KB1R b KQkq - 2 9",
+    "Moves": "b4b2 e2e4 e8d8 f1c4",
+    "Rating": "2432",
+    "RatingDeviation": "88",
+    "Popularity": "79",
+    "NbPlays": "59",
+    "Themes": "advantage hangingPiece opening short",
+    "GameUrl": "https://lichess.org/hrOHZyX3/black#18",
+    "OpeningTags": "Russian_Game Russian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "jnIZz",
+    "FEN": "rnb1Q1kq/pp4r1/2pb1p2/3p4/2PP1P2/2P3R1/P5PP/R1B3K1 b - - 3 17",
+    "Moves": "d6f8 e8c8 g7g3 h2g3 h8g7 c1a3 b8d7 c8a8",
+    "Rating": "2505",
+    "RatingDeviation": "80",
+    "Popularity": "91",
+    "NbPlays": "94",
+    "Themes": "crushing hangingPiece middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/l0jHZ8YW/black#34",
+    "OpeningTags": "Russian_Game Russian_Game_Modern_Attack"
+  },
+  {
+    "PuzzleId": "jsE7V",
+    "FEN": "r1b1r1k1/ppp2ppp/2p5/8/8/3P3P/PPPKB1q1/RNBQ3R w - - 0 13",
+    "Moves": "c2c3 c8f5 d1f1 e8e2 f1e2 g2h1",
+    "Rating": "2461",
+    "RatingDeviation": "85",
+    "Popularity": "50",
+    "NbPlays": "58",
+    "Themes": "advantage deflection long middlegame",
+    "GameUrl": "https://lichess.org/yi9jtVtI#25",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "k0kFb",
+    "FEN": "r3r1k1/ppp2ppp/2p5/2b3q1/4Pn2/2NB3P/PPPPQP2/R1B2R1K w - - 5 13",
+    "Moves": "f1g1 g5h6 e2f3 f4h3 h1g2 h3g1 g2g1 e8e6",
+    "Rating": "2562",
+    "RatingDeviation": "107",
+    "Popularity": "72",
+    "NbPlays": "68",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/zOKOdinU#25",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "k8G10",
+    "FEN": "r3r3/ppp3kp/3b2p1/1Q2n3/1P5q/P7/R1PP1PPP/1NB2RK1 w - - 5 17",
+    "Moves": "f2f4 e5f3 f1f3 e8e1 f3f1 d6f4 b5d7 g7h6 d7h3 f4h2 g1h2 h4h3 h2h3 e1f1",
+    "Rating": "2799",
+    "RatingDeviation": "100",
+    "Popularity": "92",
+    "NbPlays": "1099",
+    "Themes": "advantage attraction clearance fork middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/2C8bw5i1#33",
+    "OpeningTags": "Russian_Game Russian_Game_Italian_Variation"
+  }
+]

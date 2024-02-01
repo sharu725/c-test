@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "P3zGN",
+    "FEN": "r2q2k1/pp3pBp/3p2p1/2p5/2P3Pn/1P5P/P2Q1P2/R4RK1 w - - 1 19",
+    "Moves": "g7h6 h4f3 g1g2 f3d2",
+    "Rating": "840",
+    "RatingDeviation": "111",
+    "Popularity": "53",
+    "NbPlays": "46",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Fy6kEkhv#37",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "P4GYI",
+    "FEN": "r4r1k/pp3p1p/2ppb1q1/6BQ/2PpPP2/P2P3P/1P6/R3K1R1 b Q - 0 19",
+    "Moves": "g6h5 g5f6",
+    "Rating": "754",
+    "RatingDeviation": "79",
+    "Popularity": "69",
+    "NbPlays": "151",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/b5Way0q6/black#38",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "P5p6m",
+    "FEN": "r4rk1/1p2q1bp/pn1pp3/2p1p2R/2P5/PPN1P3/1BQP1PP1/R3K3 b Q - 0 16",
+    "Moves": "e7f7 c2h7",
+    "Rating": "804",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "156",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/XNoxP1uX/black#32",
+    "OpeningTags": "English_Opening English_Opening_Great_Snake_Variation"
+  },
+  {
+    "PuzzleId": "P6Ynt",
+    "FEN": "r2qk2r/1p3ppp/p1b2n2/2bpN3/8/1QN1P3/PP3PPP/R1B1K2R b KQkq - 1 12",
+    "Moves": "d5d4 b3f7",
+    "Rating": "912",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "213",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/OQ2h7YAd/black#24",
+    "OpeningTags": "English_Opening English_Opening_Agincourt_Defense"
+  },
+  {
+    "PuzzleId": "P7U0m",
+    "FEN": "r2q1rk1/ppp3pp/1n2bp2/n3p3/P3N3/2QP1NP1/1P1KPP1P/R4B1R w - - 1 14",
+    "Moves": "c3a5 b6c4 d2c1 c4a5",
+    "Rating": "952",
+    "RatingDeviation": "81",
+    "Popularity": "87",
+    "NbPlays": "212",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/kpa1vemd#27",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Scandinavian_Defense"
+  },
+  {
+    "PuzzleId": "P7mSf",
+    "FEN": "rnbq1rk1/pp2bppn/2pp3p/4p3/2P4B/2NPPN2/PP2BPPP/R2QK2R w KQ - 4 9",
+    "Moves": "e1g1 e7h4 f3h4 d8h4",
+    "Rating": "730",
+    "RatingDeviation": "89",
+    "Popularity": "97",
+    "NbPlays": "319",
+    "Themes": "crushing opening short",
+    "GameUrl": "https://lichess.org/CkhDqs2W#17",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "PBrBt",
+    "FEN": "r2q1rk1/ppp2ppp/2n1bB2/3p4/1bP4Q/4P3/P1BP1PPP/RN3RK1 b - - 0 12",
+    "Moves": "g7f6 h4h7",
+    "Rating": "952",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "179",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/nS6aEvMV/black#24",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "PEg6g",
+    "FEN": "1r1q1rk1/p1p2ppp/2n5/2b1p3/4P3/P5P1/1R1PQPBP/2B2RK1 b - - 2 16",
+    "Moves": "c5a3 b2b8 d8b8 c1a3",
+    "Rating": "893",
+    "RatingDeviation": "84",
+    "Popularity": "87",
+    "NbPlays": "106",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/AzcwmTsk/black#32",
+    "OpeningTags": "English_Opening English_Opening_The_Whale"
+  },
+  {
+    "PuzzleId": "PFFxy",
+    "FEN": "1br1k2r/1pqb1pp1/p3p2p/1P1p4/P2n4/2NBPN2/3Q1PPP/1R3RK1 w k - 0 18",
+    "Moves": "f3d4 c7h2",
+    "Rating": "791",
+    "RatingDeviation": "80",
+    "Popularity": "100",
+    "NbPlays": "128",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/R7I8J95n#35",
+    "OpeningTags": "English_Opening English_Opening_Caro-Kann_Defensive_System"
+  }
+]

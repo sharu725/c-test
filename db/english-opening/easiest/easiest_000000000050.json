@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "94YTv",
+    "FEN": "r1b2rk1/pp3pbp/n2p2p1/2pPp1q1/2P1Pn2/P1N1B3/1P1NBPPP/R2Q1RK1 w - - 1 12",
+    "Moves": "d2f3 g5g2",
+    "Rating": "852",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "100",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/UMmknlpo#23",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "94f1v",
+    "FEN": "r1qr2k1/1p3pbp/p4np1/2nNpP2/PP2P1P1/7P/4N1K1/1RBQ1R2 b - - 2 19",
+    "Moves": "c5e4 d5e7 g8h8 e7c8 d8d1 f1d1",
+    "Rating": "991",
+    "RatingDeviation": "80",
+    "Popularity": "89",
+    "NbPlays": "153",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/KJGv0xo4/black#38",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "95c5d",
+    "FEN": "rn2k2r/p1p1bpp1/Bp2p2p/3qP3/3P1B1P/5N2/PP3PP1/R2QK2R b KQkq - 0 12",
+    "Moves": "b8a6 d1a4 b6b5 a4a6",
+    "Rating": "794",
+    "RatingDeviation": "109",
+    "Popularity": "42",
+    "NbPlays": "23",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/h24dWGXL/black#24",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "95rX2",
+    "FEN": "1r3rk1/p4ppp/1p1b1q2/3Pp3/3pB3/1P4PQ/P2P1P1P/R4RK1 b - - 1 18",
+    "Moves": "f6g5 h3h7",
+    "Rating": "850",
+    "RatingDeviation": "85",
+    "Popularity": "90",
+    "NbPlays": "95",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/mVOu6tHx/black#36",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "961BL",
+    "FEN": "r3k1nr/pp3ppp/4p3/q2p4/b1Pb4/PQN5/3PPPPP/R1B1KB1R w KQkq - 4 11",
+    "Moves": "b3a4 a5a4 c3a4 d4a1",
+    "Rating": "909",
+    "RatingDeviation": "205",
+    "Popularity": "71",
+    "NbPlays": "16",
+    "Themes": "advantage opening short",
+    "GameUrl": "https://lichess.org/zsbRPOK4#21",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "97PB0",
+    "FEN": "r1q1k2r/pp2bp2/2p2n2/4B1pp/2P1P3/1P4P1/P1QRNPKP/5R2 w kq - 0 19",
+    "Moves": "c2c3 f6e4 e5h8 e4c3",
+    "Rating": "980",
+    "RatingDeviation": "83",
+    "Popularity": "81",
+    "NbPlays": "68",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/GPhOrV4P#37",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "97vDz",
+    "FEN": "2r1k2r/1pp1qpp1/3p4/p3n2p/2Pb4/P3P1P1/1P3P1P/R1BQK2R w KQk - 0 14",
+    "Moves": "d1d4 e5f3 e1d1 f3d4",
+    "Rating": "882",
+    "RatingDeviation": "138",
+    "Popularity": "71",
+    "NbPlays": "22",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/GpyTP5k4#27",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "997ln",
+    "FEN": "r1b1kb1r/1q3ppp/p1p2n2/4p1B1/4N3/6P1/PP2PPBP/R2Q1RK1 b kq - 3 14",
+    "Moves": "f6e4 d1d8",
+    "Rating": "868",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "1027",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/XobSut1o/black#28",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "9ABCT",
+    "FEN": "rnb1k3/pp1pnpp1/2p5/4P3/2P4q/4b3/PP1N1P1P/R1BQKB1R w KQq - 0 10",
+    "Moves": "d2f3 h4f2",
+    "Rating": "951",
+    "RatingDeviation": "84",
+    "Popularity": "93",
+    "NbPlays": "681",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/vwO4W8bt#19",
+    "OpeningTags": "English_Opening English_Opening_Caro-Kann_Defensive_System"
+  }
+]

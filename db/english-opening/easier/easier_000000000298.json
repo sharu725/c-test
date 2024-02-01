@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "lvInt",
+    "FEN": "2r1k2r/bp3p2/2nq1pp1/1p1Np3/Q7/3P2P1/P3PPBP/2R2RK1 w k - 0 18",
+    "Moves": "a4a7 c6a7 c1c8 a7c8",
+    "Rating": "1182",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "444",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/1cbDkvJX#35",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "lvnd2",
+    "FEN": "r1bqk2r/p1p2ppp/2p5/3P4/1b2n3/2N3P1/PPQ1PP1P/R1B1KB1R b KQkq - 0 9",
+    "Moves": "c6d5 c2a4 c8d7 a4b4",
+    "Rating": "1184",
+    "RatingDeviation": "182",
+    "Popularity": "33",
+    "NbPlays": "6",
+    "Themes": "crushing fork opening short",
+    "GameUrl": "https://lichess.org/L46Xrl5d/black#18",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "lzrmm",
+    "FEN": "r5rk/pppq1p1p/3p1p2/8/1NP5/5P1b/PP3P1P/R2QRB1K w - - 7 17",
+    "Moves": "f1h3 d7h3 e1g1 g8g1",
+    "Rating": "1150",
+    "RatingDeviation": "78",
+    "Popularity": "83",
+    "NbPlays": "433",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/Tcp13hzJ#33",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "m0PVs",
+    "FEN": "rBbqk2r/pp3ppp/5n2/3p4/1b1Pp3/2N3P1/PP2PPBP/R2QK1NR b KQkq - 0 8",
+    "Moves": "a8b8 d1a4 b7b5 a4b4",
+    "Rating": "1185",
+    "RatingDeviation": "80",
+    "Popularity": "71",
+    "NbPlays": "113",
+    "Themes": "advantage fork opening short",
+    "GameUrl": "https://lichess.org/UVeuDalL/black#16",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "m17C7",
+    "FEN": "r1bq1rk1/1ppn1pbp/p2pp1p1/8/1PPnPP2/P1NP2P1/4N1BP/1RBQ1RK1 w - - 1 13",
+    "Moves": "e2d4 g7d4 g1h1 d4c3",
+    "Rating": "1172",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "71",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/VIt7J8ig#25",
+    "OpeningTags": "English_Opening English_Opening_Great_Snake_Variation"
+  },
+  {
+    "PuzzleId": "m1FzF",
+    "FEN": "r1bqkbnr/pppppppp/8/8/2n5/5NP1/PP1PPPBP/RNBQK2R b KQkq - 1 4",
+    "Moves": "d7d6 d1a4 c7c6 a4c4",
+    "Rating": "1123",
+    "RatingDeviation": "81",
+    "Popularity": "80",
+    "NbPlays": "219",
+    "Themes": "advantage fork master opening short",
+    "GameUrl": "https://lichess.org/YhpagsWz/black#8",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Lithuanian_Variation"
+  },
+  {
+    "PuzzleId": "m3JzV",
+    "FEN": "r1bqk1nr/ppp2ppp/8/3p4/1bPPp3/2NP4/PP3PPP/R1BQKB1R b KQkq - 2 7",
+    "Moves": "g8f6 d1a4 d8d7 a4b4",
+    "Rating": "1152",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "514",
+    "Themes": "advantage fork opening short",
+    "GameUrl": "https://lichess.org/grPrfGAl/black#14",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "m3MTE",
+    "FEN": "r1bqk2r/ppp3pp/2nb4/4pp2/8/2QP1NP1/PP2PP1P/R1B1KB1R w KQkq - 3 9",
+    "Moves": "f1g2 d6b4 c3b4 c6b4",
+    "Rating": "1012",
+    "RatingDeviation": "79",
+    "Popularity": "85",
+    "NbPlays": "200",
+    "Themes": "crushing opening pin short",
+    "GameUrl": "https://lichess.org/B3EyPUgy#17",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "m3lnN",
+    "FEN": "r2q1rk1/pp2bpp1/3p1n1p/4pb2/1nP5/1PN1PN2/PB1QBPPP/R4RK1 b - - 1 12",
+    "Moves": "f6e4 c3e4 f5e4 d2b4",
+    "Rating": "1188",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "821",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/xJ4WoOFi/black#24",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  }
+]

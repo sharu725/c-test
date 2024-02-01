@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "P14LO",
+    "FEN": "r2q1rk1/pp1b1p1p/3b4/2p3pQ/2PpP3/3n1NPP/PP4B1/R1B2RK1 b - - 1 17",
+    "Moves": "d3c1 f3g5 c1e2 g1h2 d6g3 h2h1 d8g5 h5g5",
+    "Rating": "2214",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "89",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/sFGyLcse/black#34",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "P1OZo",
+    "FEN": "2rq1rk1/1b1nbpp1/p3pn1p/6N1/1p2N2P/1P1QP3/1B1PBPP1/1K1R3R b - - 3 17",
+    "Moves": "d7e5 e4f6 g7f6 d3h7",
+    "Rating": "2044",
+    "RatingDeviation": "79",
+    "Popularity": "84",
+    "NbPlays": "117",
+    "Themes": "clearance kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/kkQpDHA2/black#34",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "P2hNm",
+    "FEN": "r2N2k1/ppp1q1p1/4bn1p/4p3/2BnP2P/bP1Q4/P2B1PP1/1K1R3R b - - 0 19",
+    "Moves": "e6c4 d3c4 g8f8 d8b7",
+    "Rating": "2183",
+    "RatingDeviation": "97",
+    "Popularity": "74",
+    "NbPlays": "32",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/mCw4BLqD/black#38",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Grunfeld_Defense"
+  },
+  {
+    "PuzzleId": "P4qMN",
+    "FEN": "r1b3k1/pp3ppp/2p5/3n4/8/PQ1P2P1/1B2qPBP/1R4K1 b - - 1 18",
+    "Moves": "a8b8 g2d5 c6d5 b3c3 f7f6 b1e1 e2e6 e1e6",
+    "Rating": "2265",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "4736",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/Csu96OpL/black#36",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "P6V2a",
+    "FEN": "rn1k3r/pbNp1ppp/1p6/6q1/8/8/PP3PPP/R2QKB1R w KQ - 2 13",
+    "Moves": "c7a8 h8e8 f1e2 g5g2",
+    "Rating": "2069",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "125",
+    "Themes": "crushing deflection master middlegame short",
+    "GameUrl": "https://lichess.org/w0nAeXVt#25",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "P7fec",
+    "FEN": "2r2rk1/pb1Qbppp/1p6/n6q/8/P4N2/1B2BPPP/3R1RK1 b - - 3 18",
+    "Moves": "c8c2 d7e7 h5c5 e7c5",
+    "Rating": "2015",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "149",
+    "Themes": "crushing hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/cTli03KC/black#36",
+    "OpeningTags": "English_Opening English_Opening_Agincourt_Defense"
+  },
+  {
+    "PuzzleId": "P7ui4",
+    "FEN": "r2q1rk1/ppp3pp/8/1P3b2/1nP5/1Q2PNn1/5PPP/R1B1KB1R w KQ - 3 17",
+    "Moves": "h2g3 f5c2 f1e2 c2b3",
+    "Rating": "2185",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "85",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/1I3ZZZ0m#33",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "P8o7K",
+    "FEN": "2k3r1/ppp2p1p/2npq2b/4p3/2P1P1b1/3P1N2/PP2BPPP/R2Q1RK1 w - - 0 13",
+    "Moves": "h2h3 g4f3 e2f3 e6h3 g2g3 h6e3 f3g4 g8g4 d1g4 h3g4",
+    "Rating": "2281",
+    "RatingDeviation": "97",
+    "Popularity": "71",
+    "NbPlays": "39",
+    "Themes": "crushing discoveredAttack middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/3MjQSBHi#25",
+    "OpeningTags": "English_Opening English_Opening_Four_Knights_System"
+  },
+  {
+    "PuzzleId": "PBEdM",
+    "FEN": "rn1q1rk1/1b2bpp1/2p4p/3pN3/Pp1P4/1Q4P1/1P1B1PBP/R4RK1 w - - 2 18",
+    "Moves": "d2b4 d8b6 e5d3 b8a6 a4a5 b6b5 f1e1 e7b4",
+    "Rating": "2281",
+    "RatingDeviation": "101",
+    "Popularity": "52",
+    "NbPlays": "35",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/Dy6JfSQt#35",
+    "OpeningTags": "English_Opening English_Opening_Agincourt_Defense"
+  }
+]

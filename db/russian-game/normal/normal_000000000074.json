@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HyHgo",
+    "FEN": "r2q1rk1/ppp1bp1R/2bp4/6P1/3QP1p1/2N1B3/PPP2PP1/2KR4 b - - 0 15",
+    "Moves": "g8h7 d1h1 h7g6 h1h6",
+    "Rating": "1317",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "1258",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/zE9T0ph7/black#30",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  },
+  {
+    "PuzzleId": "I0PLp",
+    "FEN": "r4rk1/p1p2ppp/2p1b3/qpQ5/2Pb1P2/8/PPP3PP/1K1R1B1R w - - 0 17",
+    "Moves": "d1d4 a5e1 d4d1 e1d1",
+    "Rating": "1254",
+    "RatingDeviation": "100",
+    "Popularity": "82",
+    "NbPlays": "44",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/EjVQCfrF#33",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "I1J9O",
+    "FEN": "rnb2b1r/ppp4k/7p/3qB1p1/3P4/3Q4/PPP2PPP/RN2K2R b KQ - 3 13",
+    "Moves": "h7g8 d3g6 f8g7 g6g7",
+    "Rating": "1289",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "261",
+    "Themes": "kingsideAttack mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/9tFUBtmN/black#26",
+    "OpeningTags": "Russian_Game Russian_Game_Cochrane_Gambit"
+  },
+  {
+    "PuzzleId": "I1TGe",
+    "FEN": "r1bqkb1r/ppp2ppp/3p4/2n1P3/2B5/8/PPP2PPP/RNBQ1RK1 b kq - 1 8",
+    "Moves": "d6e5 c4f7 e8f7 d1d8",
+    "Rating": "1296",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "291",
+    "Themes": "attackingF2F7 crushing deflection opening short",
+    "GameUrl": "https://lichess.org/JtrP0Eiu/black#16",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "I2aMS",
+    "FEN": "r1b1kb1r/ppp1qppp/2np4/8/4n3/2P1N3/PP1PQPPP/RNB1KB1R b KQkq - 0 7",
+    "Moves": "c8d7 e3d5 e7e5 d5c7",
+    "Rating": "1245",
+    "RatingDeviation": "93",
+    "Popularity": "68",
+    "NbPlays": "45",
+    "Themes": "crushing opening short",
+    "GameUrl": "https://lichess.org/tWN3GMrO/black#14",
+    "OpeningTags": "Russian_Game Russian_Game_Paulsen_Attack"
+  },
+  {
+    "PuzzleId": "I2gul",
+    "FEN": "rnbq1rk1/pp2bpp1/7p/2pp4/6nN/3PB3/PPPQBPPP/RN3RK1 w - - 2 12",
+    "Moves": "h4f5 c8f5 e2g4 f5g4",
+    "Rating": "1391",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "952",
+    "Themes": "crushing hangingPiece opening short",
+    "GameUrl": "https://lichess.org/YolsZ9iu#23",
+    "OpeningTags": "Russian_Game Russian_Game_French_Attack"
+  },
+  {
+    "PuzzleId": "I3SJh",
+    "FEN": "r1bqrbk1/pppn1ppp/3p1n2/8/3NPP2/2NBB3/PPP3PP/R2Q1R1K b - - 4 10",
+    "Moves": "b7b6 d4c6 c8b7 c6d8",
+    "Rating": "1292",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "174",
+    "Themes": "crushing opening short trappedPiece",
+    "GameUrl": "https://lichess.org/qFzjdAiM/black#20",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  },
+  {
+    "PuzzleId": "I6l97",
+    "FEN": "rn2k2N/pQp3pp/4bn2/4p3/2q5/6P1/PPPP2KP/RNB1R3 w q - 1 14",
+    "Moves": "b7a8 e6d5 a8d5 c4d5",
+    "Rating": "1370",
+    "RatingDeviation": "77",
+    "Popularity": "83",
+    "NbPlays": "128",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/WoAAXZU1#27",
+    "OpeningTags": "Russian_Game Russian_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "I7boy",
+    "FEN": "r3q1k1/p4ppp/2QR1n2/1p6/8/2P2N2/PPP1rPPP/2K4R w - - 1 17",
+    "Moves": "c6c5 f6e4 c5c6 e4d6",
+    "Rating": "1393",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "16124",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/MXt6GF59#33",
+    "OpeningTags": "Russian_Game Russian_Game_Nimzowitsch_Attack"
+  }
+]
