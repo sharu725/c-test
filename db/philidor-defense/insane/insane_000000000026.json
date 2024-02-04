@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "N8ig8",
+    "FEN": "2k4r/4bppp/1BBp2b1/2n1p1Pn/4P2P/2qP1N2/P1P2P2/3Q1RK1 b - - 0 18",
+    "Moves": "c5d3 f3d4 d3f2 f1f2 c3g3 f2g2",
+    "Rating": "2664",
+    "RatingDeviation": "103",
+    "Popularity": "90",
+    "NbPlays": "101",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/FfQY9TEE/black#36",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "NHSnX",
+    "FEN": "r4r2/1p1R1ppk/pqp2n1p/4QN2/2B1P3/2N4P/PPP2bP1/4R2K b - - 1 18",
+    "Moves": "f2e1 c4f7 h7h8 e5f6 g7f6 f7g6",
+    "Rating": "2639",
+    "RatingDeviation": "93",
+    "Popularity": "96",
+    "NbPlays": "60",
+    "Themes": "crushing defensiveMove long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/HlLko6m1/black#36",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "NKrzR",
+    "FEN": "r1b1k2r/pp1n4/2pb1q1p/5pp1/2B1p3/2NQ1NPP/PPP3P1/2KRR3 b kq - 1 16",
+    "Moves": "d6g3 c3e4 f5e4 e1e4 e8d8 f3d4 g3f4 c1b1",
+    "Rating": "2551",
+    "RatingDeviation": "100",
+    "Popularity": "79",
+    "NbPlays": "207",
+    "Themes": "advantage defensiveMove exposedKing middlegame veryLong",
+    "GameUrl": "https://lichess.org/lrqEymAD/black#32",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Lion_Variation"
+  },
+  {
+    "PuzzleId": "NSwHJ",
+    "FEN": "r1b1kb1r/pp1q1pp1/2p2n1p/1B2p3/8/1QN5/PB3PPP/3R1RK1 b kq - 1 14",
+    "Moves": "d7e6 b5c4 e6e7 f1e1",
+    "Rating": "2522",
+    "RatingDeviation": "112",
+    "Popularity": "89",
+    "NbPlays": "216",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/9uqUaYkg/black#28",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Morphy_Gambit"
+  },
+  {
+    "PuzzleId": "NaxB6",
+    "FEN": "r1bq1rk1/1pp1bp2/p1np1n1Q/4p3/2B1P3/P2P1N1P/1PP2PP1/RN2K2R b KQ - 0 10",
+    "Moves": "f6h7 h3h4 d6d5 f3g5 h7f6 c4d5",
+    "Rating": "2530",
+    "RatingDeviation": "84",
+    "Popularity": "82",
+    "NbPlays": "178",
+    "Themes": "advantage long opening quietMove",
+    "GameUrl": "https://lichess.org/gaWYgWlw/black#20",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "NcAsp",
+    "FEN": "rn1r2k1/4b1p1/pq1Bbp1p/1p2P3/8/2N2P2/PPPQ2PP/2KR1B1R w - - 0 17",
+    "Moves": "d2f4 f6e5 f4e4 e7d6",
+    "Rating": "2528",
+    "RatingDeviation": "80",
+    "Popularity": "77",
+    "NbPlays": "222",
+    "Themes": "advantage opening short",
+    "GameUrl": "https://lichess.org/kEfGxsGZ#33",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "NkavR",
+    "FEN": "r1b1kbnr/pppq1pp1/2nP3p/8/2B4B/1Q3N2/PPPNKP1P/R7 b kq - 0 14",
+    "Moves": "c6a5 b3e3 f8e7 c4f7 e8f7 f3e5 f7e8 e5d7",
+    "Rating": "2431",
+    "RatingDeviation": "109",
+    "Popularity": "90",
+    "NbPlays": "361",
+    "Themes": "advantage attackingF2F7 attraction fork middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/nmiKMGLt/black#28",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Notdr",
+    "FEN": "r3k2r/pp2qppp/3p1n2/4pb2/1PP4N/3B4/P1Q2nPP/R1B1K2R w KQkq - 0 13",
+    "Moves": "e1f2 f6e4 d3e4 e7h4 g2g3 h4e4 c2e4 f5e4",
+    "Rating": "2448",
+    "RatingDeviation": "91",
+    "Popularity": "89",
+    "NbPlays": "661",
+    "Themes": "advantage discoveredAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/h8HQgBXR#25",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Hanham_Variation"
+  },
+  {
+    "PuzzleId": "NqvC7",
+    "FEN": "r3k3/pR3bb1/2p3r1/4p3/4P3/q1N4Q/P1P2PPP/3R2K1 b q - 0 19",
+    "Moves": "f7e6 h3h5 e6f7 b7f7 e8f7 d1d7 f7g8 h5g6",
+    "Rating": "2414",
+    "RatingDeviation": "85",
+    "Popularity": "83",
+    "NbPlays": "266",
+    "Themes": "attackingF2F7 attraction crushing deflection exposedKing middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/EgCqbTUx/black#38",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  }
+]

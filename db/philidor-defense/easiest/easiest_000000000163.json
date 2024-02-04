@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "gj8xg",
+    "FEN": "r1b1k1nr/ppn2p1p/3Q2p1/1q4B1/4P3/2bR1N2/2P1KPPP/5B1R b kq - 5 14",
+    "Moves": "c3b4 d6d8",
+    "Rating": "989",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "191",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/rE0cOWKT/black#28",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "gjQoB",
+    "FEN": "r2qr1k1/ppp2p1p/2np1bpN/8/4P1Q1/2N5/PPP2PPP/R4RK1 b - - 1 13",
+    "Moves": "g8h8 h6f7 h8g7 f7d8",
+    "Rating": "793",
+    "RatingDeviation": "178",
+    "Popularity": "-60",
+    "NbPlays": "7",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/pfCGBSJl/black#26",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "gl6HI",
+    "FEN": "rnbq1r1k/pp3Bp1/2pp2PQ/3Np3/4P3/3P4/PPP2PP1/R3K2R b KQ - 0 14",
+    "Moves": "g7h6 h1h6 h8g7 h6h7",
+    "Rating": "992",
+    "RatingDeviation": "258",
+    "Popularity": "-60",
+    "NbPlays": "3",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/HZXAwZ97/black#28",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "gnGDi",
+    "FEN": "r3k1nr/3n1pQp/2pp1q2/1p2p3/p3P3/P1NP3P/BPP2PP1/R3K2R w KQkq - 1 15",
+    "Moves": "a2f7 f6f7 g7f7 e8f7",
+    "Rating": "801",
+    "RatingDeviation": "95",
+    "Popularity": "94",
+    "NbPlays": "199",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/y0p04cmL#29",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "gqVjv",
+    "FEN": "r1bqr1k1/1ppnbp2/p2p1n1B/6Q1/4P3/2N2P2/PPP3PP/R3KB1R b KQ - 2 12",
+    "Moves": "g8h7 g5g7",
+    "Rating": "852",
+    "RatingDeviation": "82",
+    "Popularity": "86",
+    "NbPlays": "105",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/PG5Uq6pR/black#24",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "gvLz6",
+    "FEN": "rn1qk1nr/ppp1bppp/3p4/4p3/2B1P1b1/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 4 5",
+    "Moves": "c4f7 e8f7 f3e5 d6e5",
+    "Rating": "861",
+    "RatingDeviation": "82",
+    "Popularity": "95",
+    "NbPlays": "554",
+    "Themes": "advantage hangingPiece opening short",
+    "GameUrl": "https://lichess.org/8qtYEy96#9",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "gvjlg",
+    "FEN": "r3k2r/pb1nPppp/2p5/5N2/1p3P2/8/PPP3PP/2K1RB1n b kq - 3 18",
+    "Moves": "h8g8 f5d6",
+    "Rating": "989",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "818",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/9zHlRIY8/black#36",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Hanham_Variation"
+  },
+  {
+    "PuzzleId": "gz4VG",
+    "FEN": "rnbq1rk1/4bppp/p2p1n2/1ppB4/4P3/1PQ2N2/PBP2PPP/RN3RK1 b - - 1 10",
+    "Moves": "f6d5 c3g7",
+    "Rating": "697",
+    "RatingDeviation": "84",
+    "Popularity": "100",
+    "NbPlays": "328",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/gv3ZiOLj/black#20",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "h0Xfe",
+    "FEN": "2r2rk1/3bqppp/p4n2/1p1p4/1n2P3/1QN2B2/PP3PPP/R1B1R1K1 w - - 0 18",
+    "Moves": "e4d5 e7e1",
+    "Rating": "964",
+    "RatingDeviation": "176",
+    "Popularity": "33",
+    "NbPlays": "15",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4aWcc91c#35",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  }
+]

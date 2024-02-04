@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EugsK",
+    "FEN": "2kr1b1r/ppp2ppp/8/3Pn2q/4N1n1/4BN2/PPP1BPP1/R2Q1RK1 w - - 1 13",
+    "Moves": "e4g3 e5f3 e2f3 h5h2",
+    "Rating": "1353",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "451",
+    "Themes": "kingsideAttack mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/cRzs3Y7S#25",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "EuxdW",
+    "FEN": "r1b1k2r/1p1n1ppp/p3p3/8/1P6/P1qB1Q2/2P3PP/R4RK1 b kq - 1 18",
+    "Moves": "e8g8 d3h7 g8h7 f3c3",
+    "Rating": "1396",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "66",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/0nxXUTUv/black#36",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "EwGMa",
+    "FEN": "rnb1kb1r/1pp1pppp/p3q3/2P3N1/3P4/2NBn3/PP3PPP/R2QK2R w KQkq - 0 11",
+    "Moves": "f2e3 e6e3 d1e2 e3g5",
+    "Rating": "1225",
+    "RatingDeviation": "97",
+    "Popularity": "73",
+    "NbPlays": "72",
+    "Themes": "advantage fork opening short",
+    "GameUrl": "https://lichess.org/pTjlAIYo#21",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "EwPVp",
+    "FEN": "2k2br1/1pp1pp1p/p7/5q2/QP4p1/P3P3/1B3PPP/3R2K1 b - - 0 18",
+    "Moves": "h7h5 a4e8",
+    "Rating": "1203",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "898",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/aiWT6nR6/black#36",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Scandinavian_Defense"
+  },
+  {
+    "PuzzleId": "ExUGc",
+    "FEN": "r2q1rk1/1pp1bp2/p3Nnpp/7N/2PP2nP/P3B3/1PQ2PP1/R3K2R b KQ - 0 19",
+    "Moves": "f7e6 c2g6 g8h8 g6g7",
+    "Rating": "1382",
+    "RatingDeviation": "78",
+    "Popularity": "76",
+    "NbPlays": "138",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Zn9Get8V/black#38",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Kiel_Variation"
+  },
+  {
+    "PuzzleId": "Exnlm",
+    "FEN": "r3kq1r/pp1n1p1p/2p1pQ2/8/2B5/1P6/P1P2PPP/3RR1K1 w kq - 3 17",
+    "Moves": "c4e6 d7f6 e6c8 f8e7 e1e7 e8e7",
+    "Rating": "1212",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "475",
+    "Themes": "crushing hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/s7fCH5BN#33",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Gubinsky-Melts_Defense"
+  },
+  {
+    "PuzzleId": "EykJQ",
+    "FEN": "r2q1rk1/pp3ppp/3b1n2/4pQ2/1n2N3/8/PPPPNPPP/R1B2RK1 b - - 7 11",
+    "Moves": "b4c2 e4f6 d8f6 f5c2",
+    "Rating": "1275",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "384",
+    "Themes": "crushing discoveredAttack opening short",
+    "GameUrl": "https://lichess.org/P8FsDVtN/black#22",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "F1Kmo",
+    "FEN": "r2qk2r/pp1nbppp/2p1pn2/6B1/8/2NP1B2/PPP1QPPP/2KR3R w kq - 2 11",
+    "Moves": "f3e4 f6e4 c3e4 e7g5",
+    "Rating": "1233",
+    "RatingDeviation": "78",
+    "Popularity": "38",
+    "NbPlays": "53",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/zTHdJ4Ol#21",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "F6zYW",
+    "FEN": "2krr3/ppp2ppp/8/3Pq3/1b1n4/4BB1P/PPQ2PP1/R4K1R w - - 3 16",
+    "Moves": "e3d4 e5e1 a1e1 e8e1",
+    "Rating": "1327",
+    "RatingDeviation": "76",
+    "Popularity": "80",
+    "NbPlays": "391",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/DTjQzD0R#31",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  }
+]

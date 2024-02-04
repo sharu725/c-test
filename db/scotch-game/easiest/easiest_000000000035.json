@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "7aZrV",
+    "FEN": "r4r2/ppp3kp/3pbqp1/4n3/3pP3/5P2/PPPQ2PP/RNB2RK1 w - - 3 16",
+    "Moves": "d2d4 e5f3 g2f3 f6d4",
+    "Rating": "804",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "161",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/rTcBpk7c#31",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "7bWfQ",
+    "FEN": "1k1q2nr/ppp3p1/2p1b3/4b2p/8/1B6/PPP1QPPP/RNB3K1 w - - 0 14",
+    "Moves": "e2e5 d8d1 e5e1 d1e1",
+    "Rating": "676",
+    "RatingDeviation": "84",
+    "Popularity": "63",
+    "NbPlays": "62",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/H3a12Ksz#27",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "7cgyA",
+    "FEN": "r4rk1/1pp2ppp/p2pb1q1/5N2/4P3/2PQ4/PP3PPP/R3R1K1 b - - 1 18",
+    "Moves": "b7b5 f5e7 g8h8 e7g6",
+    "Rating": "795",
+    "RatingDeviation": "92",
+    "Popularity": "77",
+    "NbPlays": "263",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/vQzMUTuJ/black#36",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "7csqD",
+    "FEN": "3r1rk1/ppp1bppp/2p3b1/4P3/5B2/6Q1/PP3PPP/3q1RK1 w - - 0 18",
+    "Moves": "f1d1 d8d1",
+    "Rating": "873",
+    "RatingDeviation": "124",
+    "Popularity": "57",
+    "NbPlays": "20",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/k01xH3I0#35",
+    "OpeningTags": "Scotch_Game Scotch_Game_Benima_Defense"
+  },
+  {
+    "PuzzleId": "7d8gF",
+    "FEN": "r2q1rk1/p1p2ppp/8/2Q5/4n1b1/3B4/PPP2PPP/R1B1K2R w KQ - 0 13",
+    "Moves": "d3e4 d8d1",
+    "Rating": "712",
+    "RatingDeviation": "89",
+    "Popularity": "79",
+    "NbPlays": "136",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/GWBWV5gV#25",
+    "OpeningTags": "Scotch_Game Scotch_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "7dKTI",
+    "FEN": "r3k1nr/ppp2ppp/3p2q1/2b1n3/3NP3/1BP1B2b/PP3PPP/RN1Q1RK1 w kq - 6 10",
+    "Moves": "d4f5 g6g2",
+    "Rating": "954",
+    "RatingDeviation": "90",
+    "Popularity": "87",
+    "NbPlays": "118",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Xyu3vRJs#19",
+    "OpeningTags": "Scotch_Game Scotch_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "7eBCj",
+    "FEN": "r2qr1k1/4bpp1/p2p1n1p/1pp5/4P2B/2N5/PPP1QPPP/3RR1K1 w - - 2 17",
+    "Moves": "c3d5 f6d5 d1d5 e7h4",
+    "Rating": "836",
+    "RatingDeviation": "89",
+    "Popularity": "82",
+    "NbPlays": "97",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/foF64RSh#33",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "7eSN0",
+    "FEN": "3r4/ppN1npkp/2n3p1/8/8/2Q3P1/PPP1NP1P/2KR1b1q b - - 5 17",
+    "Moves": "f7f6 c7e6 g7f7 e6d8",
+    "Rating": "966",
+    "RatingDeviation": "86",
+    "Popularity": "93",
+    "NbPlays": "544",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/JpmoHeq6/black#34",
+    "OpeningTags": "Scotch_Game Scotch_Game_Modern_Defense"
+  },
+  {
+    "PuzzleId": "7iGtq",
+    "FEN": "2b2k1r/p1ppqp1p/2p2Qp1/2r1P1P1/4R3/2N1P3/PPP4P/2K4R b - - 1 19",
+    "Moves": "h7h6 f6h8",
+    "Rating": "948",
+    "RatingDeviation": "81",
+    "Popularity": "93",
+    "NbPlays": "556",
+    "Themes": "hangingPiece master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/0ebwicws/black#38",
+    "OpeningTags": "Scotch_Game Scotch_Game_Schmidt_Variation"
+  }
+]
