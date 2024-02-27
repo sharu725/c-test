@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ukl15",
+    "FEN": "3r1r1k/pQp1p1b1/6p1/7p/6bP/1PP5/1P1N2P1/R1B1Kq2 w Q - 0 27",
+    "Moves": "d2f1 d8d1",
+    "Rating": "1288",
+    "RatingDeviation": "196",
+    "Popularity": "85",
+    "NbPlays": "35",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/SAopH2kG#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uklO3",
+    "FEN": "r1b2b1r/pp4pp/2p1kn2/1n6/2NPP3/2P3Pq/PP3P1P/RNBQ1RK1 w - - 1 13",
+    "Moves": "a2a4 f6g4 d1g4 h3g4",
+    "Rating": "1327",
+    "RatingDeviation": "198",
+    "Popularity": "-76",
+    "NbPlays": "11",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/mRq8ydQ2#25",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Bird_Variation"
+  },
+  {
+    "PuzzleId": "uknws",
+    "FEN": "1k1r3r/N1p2pp1/Q2bp2p/8/1q2b3/4B1P1/PP3P1P/R4RK1 b - - 2 20",
+    "Moves": "e4b7 a7c6 b8c8 c6b4 b7a6 b4a6",
+    "Rating": "1286",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "13325",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/eH6EUh5u/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ukp1M",
+    "FEN": "rn1q1rk1/ppp2ppp/8/3pPp2/4n3/3BP3/PPP2PPP/RN1QK2R w KQ - 1 10",
+    "Moves": "f2f3 d8h4 g2g3 e4g3 h2g3 h4h1",
+    "Rating": "1313",
+    "RatingDeviation": "75",
+    "Popularity": "79",
+    "NbPlays": "312",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/xMUzg7Ov#19",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "ukpFb",
+    "FEN": "5rk1/4ppbp/6pq/R7/2QB2n1/1P4P1/5P1P/3R2K1 w - - 1 31",
+    "Moves": "d4g7 h6h2 g1f1 h2f2",
+    "Rating": "1353",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "8911",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/bcz1i7Dd#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ukpV2",
+    "FEN": "2kr3r/Rbp2p2/1p2pn2/1B6/1N4p1/2PP1P2/1P1K3p/R7 b - - 1 27",
+    "Moves": "b7f3 a7a8 f3a8 a1a8 c8b7 b5c6",
+    "Rating": "1370",
+    "RatingDeviation": "389",
+    "Popularity": "33",
+    "NbPlays": "4",
+    "Themes": "long mate mateIn3 middlegame queensideAttack sacrifice",
+    "GameUrl": "https://lichess.org/tbg7dZQu/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ukxF6",
+    "FEN": "r1b2rk1/1p4pp/p3pp2/3pP3/1n1P4/1P2P3/1P2N1PP/RB3RK1 b - - 1 17",
+    "Moves": "f6e5 b1h7 g8h7 f1f8",
+    "Rating": "1286",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "2206",
+    "Themes": "crushing deflection kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/9p7SxgqL/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "ukyDe",
+    "FEN": "2rk2r1/1pqn1pN1/p3pP1p/3p4/bP1Q2P1/7P/P1P3B1/2R2RK1 w - - 4 25",
+    "Moves": "g7e6 f7e6 f6f7 g8f8",
+    "Rating": "1287",
+    "RatingDeviation": "79",
+    "Popularity": "79",
+    "NbPlays": "62",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/2Viifjbs#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ukzJO",
+    "FEN": "3r1r2/1pq1bppk/p1p1p2p/4PP2/nP1B2Q1/PN4P1/2P4P/R4RK1 b - - 0 22",
+    "Moves": "c6c5 f5f6 e7f6 e5f6",
+    "Rating": "1346",
+    "RatingDeviation": "79",
+    "Popularity": "85",
+    "NbPlays": "63",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/5K8pclRk/black#44",
+    "OpeningTags": ""
+  }
+]

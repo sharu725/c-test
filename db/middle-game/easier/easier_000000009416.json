@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SajpZ",
+    "FEN": "1r2r1k1/2p2ppp/8/p1Np1P2/3n2P1/1P4KP/P1bN4/4RR2 b - - 0 26",
+    "Moves": "b8b5 e1e8",
+    "Rating": "1025",
+    "RatingDeviation": "92",
+    "Popularity": "73",
+    "NbPlays": "54",
+    "Themes": "backRankMate hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/VvB3hHQi/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SakTr",
+    "FEN": "1Q1r3k/4q1pp/p4p2/1pN2b2/1P6/P5R1/2p2PPP/2R3K1 w - - 2 28",
+    "Moves": "b8f4 d8d1 c1d1 c2d1q",
+    "Rating": "1180",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "744",
+    "Themes": "advancedPawn backRankMate mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/46ehVJI9#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SamAj",
+    "FEN": "r2rn1k1/6b1/p1pN1p1p/P1P1pRp1/1PP1P3/6PP/3B3K/1R6 w - - 4 32",
+    "Moves": "d6e8 d8d2 h2g1 a8e8",
+    "Rating": "1044",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "461",
+    "Themes": "advantage discoveredAttack hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/OeIt2vDn#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SanUG",
+    "FEN": "r4r2/pp3p1k/2pq2p1/3p2Qn/3P4/2P4R/PP3P1P/5R1K b - - 3 24",
+    "Moves": "f7f6 h3h5 h7g7 g5h6 g7f7 h6h7",
+    "Rating": "1118",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "357",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/M2XF1Tav/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SanXt",
+    "FEN": "r1bqr1k1/ppbp1p1Q/2p3n1/4p1N1/4P1P1/1PNP4/1PP2P1P/R3K2R b KQ - 4 14",
+    "Moves": "g8f8 h7f7",
+    "Rating": "1140",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "420",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/7KlA1PVQ/black#28",
+    "OpeningTags": "Kings_Knight_Opening Kings_Knight_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "SaoSN",
+    "FEN": "2r3k1/pb1nqp2/1p5p/3n2p1/3P4/P3PNB1/1P3PPP/2Q1KB1R w K - 1 17",
+    "Moves": "c1d1 d5e3 f2e3 e7e3",
+    "Rating": "1149",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1137",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/Uyp6CCzs#33",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "Saq4W",
+    "FEN": "r1b3k1/1pp5/1p1p1pqp/4p3/3nP3/3P1Q1P/PPP2PPN/R4RK1 w - - 0 18",
+    "Moves": "f3g3 d4e2 g1h1 e2g3",
+    "Rating": "1055",
+    "RatingDeviation": "79",
+    "Popularity": "88",
+    "NbPlays": "292",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/70n08r44#35",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "SaqiX",
+    "FEN": "r3kb1r/5p1p/p4Pp1/1pp1N1P1/1n5P/1P6/4K3/3R3R b kq - 0 29",
+    "Moves": "a8d8 d1d8 e8d8 e5f7",
+    "Rating": "1051",
+    "RatingDeviation": "77",
+    "Popularity": "78",
+    "NbPlays": "71",
+    "Themes": "advantage attraction middlegame short",
+    "GameUrl": "https://lichess.org/j0LpyOKd/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Sas6m",
+    "FEN": "r1bqk2r/1p1p1p2/p3pbpp/2p5/2P1PQ2/P1N5/1PP2PPP/2KR2NR w kq - 0 12",
+    "Moves": "e4e5 f6g5 g1h3 g5f4",
+    "Rating": "1070",
+    "RatingDeviation": "85",
+    "Popularity": "90",
+    "NbPlays": "90",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/DfzDbVUX#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  }
+]

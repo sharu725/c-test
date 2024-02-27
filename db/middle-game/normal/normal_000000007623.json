@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "MEAmr",
+    "FEN": "N2k1br1/pp2p3/8/3pn2p/3P2q1/8/PPP1P1P1/RN1QKB1R w KQ - 0 16",
+    "Moves": "d4e5 g4g3 e1d2 f8h6 e2e3 g3e3",
+    "Rating": "1346",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "10291",
+    "Themes": "dovetailMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/cS3gnroU#31",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "MEBXG",
+    "FEN": "r3k2r/1pp2ppp/3p4/p2BP3/1b1nP3/2KP1P2/PPP2q1P/R1BQ1R2 w kq - 2 14",
+    "Moves": "c3c4 b7b5",
+    "Rating": "1300",
+    "RatingDeviation": "77",
+    "Popularity": "70",
+    "NbPlays": "290",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/48BRtKCX#27",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Classical_Variation"
+  },
+  {
+    "PuzzleId": "MEDxe",
+    "FEN": "rn2k2r/p4ppp/4b3/3n4/1R2p3/4B2P/q2NKPP1/3Q1BNR w kq - 1 16",
+    "Moves": "d1a4 a2a4 b4a4 d5c3 e2e1 c3a4",
+    "Rating": "1316",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "861",
+    "Themes": "attraction crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/D3iNQW4U#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_King_Davids_Opening"
+  },
+  {
+    "PuzzleId": "MEEah",
+    "FEN": "rr6/3pkp2/p4p1p/1b2p3/1P1nP3/P1NB1P2/6PP/1R3RK1 w - - 0 21",
+    "Moves": "c3b5 a6b5",
+    "Rating": "1322",
+    "RatingDeviation": "86",
+    "Popularity": "56",
+    "NbPlays": "73",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/uWKdIMg9#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MEH8l",
+    "FEN": "r2qk2r/p1p2pb1/1p2p1pp/3n4/3P1B1P/5N2/PPPQ1PP1/2KR3R b kq - 1 14",
+    "Moves": "d8f6 f4e5 f6f5 e5g7",
+    "Rating": "1228",
+    "RatingDeviation": "355",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/g2jHbfWE/black#28",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "MELSN",
+    "FEN": "4rk2/pp3pp1/3q1n1p/7P/3p1N2/4nQNB/Pr6/4R1RK b - - 1 32",
+    "Moves": "d4d3 e1e3 e8e3 f3e3",
+    "Rating": "1321",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "5265",
+    "Themes": "advantage middlegame short superGM",
+    "GameUrl": "https://lichess.org/cAyywKWq/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MELqL",
+    "FEN": "r1r3k1/1q3ppp/2b1p3/1pRpP3/pP6/P2B4/2Q2PPP/2R3K1 b - - 8 28",
+    "Moves": "g7g6 c5c6 b7c6 c2c6 c8c6 c1c6",
+    "Rating": "1398",
+    "RatingDeviation": "76",
+    "Popularity": "76",
+    "NbPlays": "202",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/VB9M19YF/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MEM9x",
+    "FEN": "r1qk1br1/5p1p/p2p1Np1/1pp5/3RP3/5P2/PPQ2P1P/2K4R w - - 2 19",
+    "Moves": "f6g8 c5d4 c2c8 a8c8",
+    "Rating": "1254",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "3779",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/q4qdUuPq#37",
+    "OpeningTags": "Danish_Gambit Danish_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "MEN9t",
+    "FEN": "3r3k/pBp3pp/1b2b3/3P4/8/5N2/Pq3PPP/R2Q2K1 w - - 0 21",
+    "Moves": "d1e1 b6f2 e1f2 b2a1",
+    "Rating": "1381",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "200",
+    "Themes": "crushing deflection fork middlegame short",
+    "GameUrl": "https://lichess.org/0GkwJShU#41",
+    "OpeningTags": ""
+  }
+]

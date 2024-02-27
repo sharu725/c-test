@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "0tDu6",
+    "FEN": "1k1Q1b1r/1pp2ppp/p1n1p1q1/4n3/1r6/4B1N1/PPP1BPPP/3R1RK1 b - - 1 19",
+    "Moves": "c6d8 d1d8",
+    "Rating": "790",
+    "RatingDeviation": "97",
+    "Popularity": "91",
+    "NbPlays": "657",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/XhJgFbb6/black#38",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "0tFZ9",
+    "FEN": "1r5r/pNp1kpp1/1np1b2p/4P3/2PN4/7P/PP3PP1/R2R2K1 b - - 0 18",
+    "Moves": "b8b7 d4c6 e7f8 d1d8",
+    "Rating": "780",
+    "RatingDeviation": "79",
+    "Popularity": "98",
+    "NbPlays": "1134",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/qMpumEqi/black#36",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "0tGwC",
+    "FEN": "2k2r2/1p1r3p/p7/n3B1p1/2bPB1Q1/P7/1P4PP/2R1N1KR w - - 4 32",
+    "Moves": "e5g7 f8f1",
+    "Rating": "552",
+    "RatingDeviation": "85",
+    "Popularity": "100",
+    "NbPlays": "143",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/stu1TYqe#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0tHPI",
+    "FEN": "r1bqk1nr/1p1p1pp1/p1n5/2p1p1p1/2B1P3/P1NP1Q2/1PP2PPP/R1B2RK1 b kq - 1 9",
+    "Moves": "c6d4 f3f7",
+    "Rating": "547",
+    "RatingDeviation": "88",
+    "Popularity": "100",
+    "NbPlays": "52",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/C18Kis0s/black#18",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "0tKOi",
+    "FEN": "2krr3/Q4ppp/2np4/2R5/4qB2/P7/5PPP/3R2K1 w - - 1 24",
+    "Moves": "d1c1 e4e1 c1e1 e8e1",
+    "Rating": "599",
+    "RatingDeviation": "103",
+    "Popularity": "85",
+    "NbPlays": "892",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/JHVoLFWf#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0tKVO",
+    "FEN": "5rk1/pppr2pp/2n2q2/2P1p3/4b3/2QBP1RP/PP3P2/R3K3 w Q - 3 22",
+    "Moves": "d3e4 f6f2",
+    "Rating": "924",
+    "RatingDeviation": "80",
+    "Popularity": "80",
+    "NbPlays": "168",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/mySkaFLv#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0tLVy",
+    "FEN": "1n4nr/rpRqkBb1/p2p2pp/4p3/4PB2/1Q6/PP3PPP/4K1NR b K - 3 15",
+    "Moves": "d7c7 b3e6 e7f8 e6e8",
+    "Rating": "829",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "128",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/4tWZiSVm/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "0tNC9",
+    "FEN": "rn2r1k1/4qp1p/b1p3pQ/4P1N1/pb6/4P3/PPB3PP/R5KR b - - 7 19",
+    "Moves": "e7e5 h6h7 g8f8 h7f7",
+    "Rating": "983",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "1163",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/qEiGhUwb/black#38",
+    "OpeningTags": "Slav_Defense Slav_Defense_Slav_Gambit"
+  },
+  {
+    "PuzzleId": "0tPyE",
+    "FEN": "rn4rk/pp1b2np/2pb1qpB/3P1pN1/P1PQ1p2/1PN4P/2B3P1/R3K2R b KQ - 1 23",
+    "Moves": "f6d4 g5f7",
+    "Rating": "716",
+    "RatingDeviation": "80",
+    "Popularity": "100",
+    "NbPlays": "336",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/4dHrqiSb/black#46",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SISh2",
+    "FEN": "5rk1/2Q2ppp/4p3/8/3q1B2/P1N5/1r3PPP/R3R1K1 w - - 0 26",
+    "Moves": "e1d1 d4f2 g1h1 f2g2",
+    "Rating": "1202",
+    "RatingDeviation": "120",
+    "Popularity": "59",
+    "NbPlays": "53",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/GYt2zlJX#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SITAy",
+    "FEN": "N5k1/4ppbp/3p2p1/2pP4/3rP3/R3BP2/1qQ3PP/3R3K w - - 0 32",
+    "Moves": "c2b1 d4d1 b1d1 b2a3",
+    "Rating": "1306",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "425",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/B8LlPhzo#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SITZC",
+    "FEN": "2r5/5kpp/p2qpp2/3p4/1n1B1P2/bP3NN1/P3R1PP/4Q1K1 w - - 0 28",
+    "Moves": "e1d1 c8c1 d1c1 a3c1",
+    "Rating": "1395",
+    "RatingDeviation": "93",
+    "Popularity": "87",
+    "NbPlays": "25",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/N5sa06T6#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SIUjg",
+    "FEN": "r4rk1/ppp2p2/2p4p/6q1/N1P2p2/3P2P1/PP1QPPKP/R4R2 w - - 2 17",
+    "Moves": "f1h1 f4f3 g2f3 g5d2",
+    "Rating": "1279",
+    "RatingDeviation": "85",
+    "Popularity": "63",
+    "NbPlays": "34",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/WqLYIxuB#33",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "SIWDE",
+    "FEN": "r1b1n1k1/p1p2pbp/2N5/6p1/N1P5/BP1pP1PP/P4PK1/R7 w - - 0 24",
+    "Moves": "a1d1 c8b7 f2f3 b7c6",
+    "Rating": "1205",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2290",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/gA2u2H4N#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SIXeD",
+    "FEN": "r2q2nr/2pkb3/b1p1p3/B2pPp2/N1PP3p/1P3Q2/P4PPP/3RR1K1 b - - 0 17",
+    "Moves": "d5c4 a4c5 e7c5 d4c5 d7e7 d1d8",
+    "Rating": "1290",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "1111",
+    "Themes": "crushing discoveredAttack long middlegame skewer",
+    "GameUrl": "https://lichess.org/p9t1dyvn/black#34",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Franco-Nimzowitsch_Variation"
+  },
+  {
+    "PuzzleId": "SIYO0",
+    "FEN": "r4rk1/pp3pp1/1q2p2p/2bn4/6R1/2P2N1P/PPQ2PP1/2BR2K1 b - - 6 19",
+    "Moves": "c5f2 c2f2 b6f2 g1f2",
+    "Rating": "1390",
+    "RatingDeviation": "161",
+    "Popularity": "-27",
+    "NbPlays": "8",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/09eovrSV/black#38",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Slav_Invitation"
+  },
+  {
+    "PuzzleId": "SIady",
+    "FEN": "3r1rk1/pb4pp/1bp4q/1p2PpR1/1P2N3/P5P1/2Q1PPBP/4R1K1 w - f6 0 25",
+    "Moves": "e4f6 f8f6 e5f6 h6g5",
+    "Rating": "1238",
+    "RatingDeviation": "79",
+    "Popularity": "96",
+    "NbPlays": "16763",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/kTQM6tll#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SIaeL",
+    "FEN": "r1b1k2r/pp2npQp/2n1p3/1qb1P3/3pN3/8/PPPBNPPP/R3K2R b KQkq - 0 11",
+    "Moves": "h8g8 e4f6 e8d8 f6g8",
+    "Rating": "1357",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "16266",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/UnVIiXrs/black#22",
+    "OpeningTags": "French_Defense French_Defense_Winawer_Variation"
+  }
+]

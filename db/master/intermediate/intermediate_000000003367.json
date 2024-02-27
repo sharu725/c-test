@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ttBse",
+    "FEN": "r4r2/1p6/2p5/2kp3P/p5Q1/2P5/6P1/7K b - - 1 39",
+    "Moves": "a4a3 g4b4",
+    "Rating": "1410",
+    "RatingDeviation": "90",
+    "Popularity": "76",
+    "NbPlays": "93",
+    "Themes": "endgame master mate mateIn1 oneMove queenRookEndgame",
+    "GameUrl": "https://lichess.org/OyFHxAWA/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ttUbe",
+    "FEN": "3r1nk1/1Q4pp/p3p3/1p6/6B1/P1q5/2P3PP/5R1K b - - 1 23",
+    "Moves": "c3c4 b7f7 g8h8 f7f8 d8f8 f1f8",
+    "Rating": "1467",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1519",
+    "Themes": "backRankMate deflection endgame long master mate mateIn3",
+    "GameUrl": "https://lichess.org/FB0G5Xj3/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ttjvo",
+    "FEN": "8/1k4pp/5p2/1K2pP2/4P3/4Bn2/1P5P/8 b - - 0 39",
+    "Moves": "f3g5 e3g5 f6g5 b5c5",
+    "Rating": "1580",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "988",
+    "Themes": "crushing defensiveMove endgame master short",
+    "GameUrl": "https://lichess.org/ctP1qHTV/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tto8D",
+    "FEN": "r3qrk1/1bp1bppp/p1n5/P2Bp3/1p6/5N1P/1PPR2P1/RNBQ2K1 w - - 2 15",
+    "Moves": "f3e5 e7c5 g1h1 e8e5",
+    "Rating": "1413",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "6460",
+    "Themes": "advantage discoveredAttack master opening short",
+    "GameUrl": "https://lichess.org/7gTAgDrL#29",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "ttwON",
+    "FEN": "r4rk1/1p2Rq2/2bQ3p/3p1pp1/3p4/P4p2/2P2P1B/6RK b - - 1 27",
+    "Moves": "a8d8 e7f7 d8d6 f7f8 g8f8 h2d6",
+    "Rating": "1539",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1797",
+    "Themes": "advantage attraction exposedKing intermezzo kingsideAttack long master middlegame",
+    "GameUrl": "https://lichess.org/qGqSza2D/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tu7f0",
+    "FEN": "8/5kpp/5p2/3pp3/p1nPP1P1/2K2P2/1PN4P/8 b - - 0 38",
+    "Moves": "f7e6 e4d5 e6d5 c2b4",
+    "Rating": "1571",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2330",
+    "Themes": "attraction crushing endgame knightEndgame master short",
+    "GameUrl": "https://lichess.org/X0sxdoMu/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tuEII",
+    "FEN": "2b2kr1/4rp2/p1q2Rnp/1p2P2N/1Pp5/P1P3Q1/6PP/5R1K b - - 8 36",
+    "Moves": "c8e6 f6g6 g8g6 g3g6",
+    "Rating": "1574",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "4764",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/RiiLS6Vn/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tuHVH",
+    "FEN": "r1bqk2r/3p1ppp/p3pn2/1pb5/3pP1Q1/1BP5/PP1P1PPP/RNB2RK1 w kq - 4 10",
+    "Moves": "g4g7 h8g8 g7g8 f6g8",
+    "Rating": "1527",
+    "RatingDeviation": "129",
+    "Popularity": "88",
+    "NbPlays": "11",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/7Fco2Oza#19",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "tuO0P",
+    "FEN": "r4rk1/1p2pp1p/1pnq2p1/3N1b2/8/1B6/PP3PPP/R1Q2RK1 w - - 2 17",
+    "Moves": "d5b6 c6d4 c1e3 d6b6",
+    "Rating": "1484",
+    "RatingDeviation": "215",
+    "Popularity": "23",
+    "NbPlays": "6",
+    "Themes": "advantage discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/jtHA4C0z#33",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Exchange_Variation"
+  }
+]

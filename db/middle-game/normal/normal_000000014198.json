@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "fVBto",
+    "FEN": "r2qk2r/2pb1pQp/p2b2p1/8/4p1n1/1BP5/PPP2PPP/R1B1K2R b KQkq - 5 16",
+    "Moves": "d6e5 g7f7",
+    "Rating": "1228",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "750",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/8RK1OZAs/black#32",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Tennison_Gambit"
+  },
+  {
+    "PuzzleId": "fVC06",
+    "FEN": "Q7/p2brkpp/1b1q4/5p2/3PP3/1P4P1/PB5P/4RR1K w - - 3 26",
+    "Moves": "e4e5 d7c6 a8c6 d6c6",
+    "Rating": "1291",
+    "RatingDeviation": "75",
+    "Popularity": "74",
+    "NbPlays": "363",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/WP3WIf1b#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fVD97",
+    "FEN": "4kb1r/2r1pppp/5n2/1B6/1p4b1/R1N5/1P1PPP1P/2K3NR b k - 1 16",
+    "Moves": "g4d7 a3a8 c7c8 a8c8",
+    "Rating": "1386",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1331",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/zTRCmQnT/black#32",
+    "OpeningTags": "Grob_Opening Grob_Opening_Grob_Gambit"
+  },
+  {
+    "PuzzleId": "fVDRM",
+    "FEN": "r3k2r/p1p2p2/1bp5/1p4Pp/4P3/P2P2P1/1KPB2bP/1N2RR2 w kq - 4 22",
+    "Moves": "f1f2 b6f2 e1e2 f2d4",
+    "Rating": "1294",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "5039",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/ZhOk4zeS#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fVDp9",
+    "FEN": "5rk1/pR3pbp/3B2p1/q2p4/5Q2/2r4P/P4PP1/5RK1 b - - 3 20",
+    "Moves": "a5a6 d6f8 a6b7 f8g7",
+    "Rating": "1281",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "334",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/xChUZlI1/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fVHCk",
+    "FEN": "rn2kb1r/2pqp1pp/p3bp2/1p1pP3/3P1P1n/P1NBB3/1PPQN1PP/R3K2R w KQkq - 3 11",
+    "Moves": "g2g3 h4f3 e1f2 f3d2",
+    "Rating": "1224",
+    "RatingDeviation": "80",
+    "Popularity": "86",
+    "NbPlays": "983",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Fs5XVtHu#21",
+    "OpeningTags": "St_George_Defense St_George_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "fVIYu",
+    "FEN": "rqr3k1/1b3ppp/p4n2/1pB1b3/1P2P3/2N4P/P1Q1BPP1/R2R2K1 b - - 0 18",
+    "Moves": "f6e4 c3e4 b7e4 c2e4",
+    "Rating": "1382",
+    "RatingDeviation": "340",
+    "Popularity": "-31",
+    "NbPlays": "1",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/plMosRCB/black#36",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Stoltz_Variation"
+  },
+  {
+    "PuzzleId": "fVJe9",
+    "FEN": "2r2rk1/1b3p1p/p3pBp1/1p5q/5P1P/1P1P2Q1/P4RP1/2R4K w - - 1 26",
+    "Moves": "f2c2 c8c2 c1c2 h5d1 h1h2 d1c2",
+    "Rating": "1322",
+    "RatingDeviation": "116",
+    "Popularity": "82",
+    "NbPlays": "28",
+    "Themes": "attraction crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/hPjSM65t#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fVJef",
+    "FEN": "r1b1k2r/2p2ppp/p1N5/1pbp4/4n3/1B6/PPPP1qPP/RNBQR2K w kq - 2 11",
+    "Moves": "d2d3 f2g1 e1g1 e4f2",
+    "Rating": "1352",
+    "RatingDeviation": "91",
+    "Popularity": "75",
+    "NbPlays": "624",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short smotheredMate",
+    "GameUrl": "https://lichess.org/gu1MiYEA#21",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Open"
+  }
+]

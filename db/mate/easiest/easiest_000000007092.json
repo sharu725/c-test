@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DgSJQ",
+    "FEN": "5rk1/pb3pp1/4p2p/2p3q1/4Q3/2Pr4/PP4PP/3RR1K1 w - - 0 22",
+    "Moves": "e4d3 g5g2",
+    "Rating": "867",
+    "RatingDeviation": "131",
+    "Popularity": "83",
+    "NbPlays": "27",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/kv9mphma#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DgSUH",
+    "FEN": "r5k1/pq2ppBp/6p1/5b2/3Q4/5P2/Pr4PP/1K1R1B1R w - - 0 19",
+    "Moves": "b1a1 b2b1 d1b1 b7b1",
+    "Rating": "592",
+    "RatingDeviation": "84",
+    "Popularity": "99",
+    "NbPlays": "713",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/9sBtuf0X#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  },
+  {
+    "PuzzleId": "DgVnN",
+    "FEN": "7k/1b4p1/p4pBp/1p2p3/1P6/q3P3/5PP1/3R2K1 b - - 0 35",
+    "Moves": "a3b4 d1d8 b4f8 d8f8",
+    "Rating": "654",
+    "RatingDeviation": "105",
+    "Popularity": "82",
+    "NbPlays": "329",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/oQeloLvs/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DgWfX",
+    "FEN": "2r2k2/pp3p2/8/3Q4/5q2/6R1/PP4PK/2r5 b - - 4 38",
+    "Moves": "c8c5 d5d8",
+    "Rating": "919",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "169",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/9UITSvNZ/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DgWsn",
+    "FEN": "4r1k1/1bpQ1ppp/p1p5/2P1q3/1nP5/1B2B3/PP3PPP/R5K1 w - - 4 22",
+    "Moves": "e3d4 e5e1 a1e1 e8e1",
+    "Rating": "974",
+    "RatingDeviation": "90",
+    "Popularity": "93",
+    "NbPlays": "316",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/hQ4stJm1#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DgWzH",
+    "FEN": "2r5/5p1p/1b2p1kp/p3P3/3P2R1/5N1P/5PPK/2r5 b - - 3 34",
+    "Moves": "g6f5 f3h4",
+    "Rating": "891",
+    "RatingDeviation": "88",
+    "Popularity": "94",
+    "NbPlays": "1022",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/7Dd94HnE/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DgXnk",
+    "FEN": "r2qk2r/pppn1p2/4pn2/6N1/3PN3/5QP1/PPP3P1/R4RK1 b kq - 0 16",
+    "Moves": "f6e4 f3f7",
+    "Rating": "994",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "443",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/v1kKAPAt/black#32",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "DgYgj",
+    "FEN": "6k1/4r1pp/8/1p1pq3/8/7P/5QP1/5R1K b - - 1 38",
+    "Moves": "e7e8 f2f7 g8h8 f7f8 e8f8 f1f8",
+    "Rating": "989",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "1056",
+    "Themes": "backRankMate endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/eA5mPgMN/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DgcGG",
+    "FEN": "r1q4k/1ppb2rQ/p4Nn1/8/5p2/1B1P3R/PPP3PP/5RK1 b - - 0 24",
+    "Moves": "g7h7 h3h7",
+    "Rating": "991",
+    "RatingDeviation": "81",
+    "Popularity": "71",
+    "NbPlays": "118",
+    "Themes": "arabianMate kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ctETcc8Q/black#48",
+    "OpeningTags": ""
+  }
+]

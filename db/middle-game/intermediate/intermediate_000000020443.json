@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "nEnlR",
+    "FEN": "2q1r1k1/pb4pp/1p1bnpn1/3p4/3P1PNQ/1P1B4/PB2N1PP/5RK1 w - - 4 22",
+    "Moves": "d3g6 h7g6 g4f6 g7f6",
+    "Rating": "1460",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "127",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/AJpJoOYH#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nEpZG",
+    "FEN": "5rk1/pr3pp1/5q1p/2ppRB1P/1p1p2Q1/1PnP2P1/P1P2P2/4R1K1 b - - 2 28",
+    "Moves": "f6g5 f5h7 g8h7 e5g5",
+    "Rating": "1528",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "18831",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/AcWmMAJf/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nEq31",
+    "FEN": "r1b2rk1/2q1bp1p/2nppnpP/6B1/4PN2/pPQB1N2/P4PP1/2KR3R b - - 0 18",
+    "Moves": "e6e5 g5f6 e7f6 f4d5",
+    "Rating": "1558",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "559",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/yJ51zCMk/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "nEqrI",
+    "FEN": "1n3k2/pB4pp/1ppp1q2/5p2/6n1/P1PP2p1/2P1PP1P/R2QR1K1 w - - 0 17",
+    "Moves": "h2g3 f6h6 e2e3 h6h2 g1f1 h2f2",
+    "Rating": "1529",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "7672",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame quietMove",
+    "GameUrl": "https://lichess.org/I5aqCbiX#33",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "nErjc",
+    "FEN": "2rq1rk1/1b2pp1p/p2p2p1/1p1P1PN1/3QP3/PPN3nP/6P1/2R2RK1 w - - 1 24",
+    "Moves": "f1f3 c8c3 d4c3 g3e2 g1h1 e2c3",
+    "Rating": "1493",
+    "RatingDeviation": "78",
+    "Popularity": "76",
+    "NbPlays": "90",
+    "Themes": "attraction crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/SbCJRClp#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nErvM",
+    "FEN": "4r1k1/rp1qbppp/5n2/1N2Q3/2P5/P2P1P2/1P3KPP/R6R b - - 0 18",
+    "Moves": "e7d6 e5d6 d7d6 b5d6",
+    "Rating": "1511",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "176",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/HBBO29Bv/black#36",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Panov_Transfer"
+  },
+  {
+    "PuzzleId": "nEs50",
+    "FEN": "7r/pp3k2/1np2b2/3q1B2/3P2p1/2P3P1/PP3P2/R2Q1RK1 w - - 1 26",
+    "Moves": "d1b3 h8h1",
+    "Rating": "1475",
+    "RatingDeviation": "92",
+    "Popularity": "86",
+    "NbPlays": "997",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/lI59USyv#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nEsBn",
+    "FEN": "3q1rk1/3n1pp1/4p2p/1pPpP3/3n2P1/P4Q1P/3B1P2/R4RK1 w - - 0 26",
+    "Moves": "f3d3 d7e5 d3d4 e5f3 g1g2 f3d4",
+    "Rating": "1442",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "12534",
+    "Themes": "crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/q2bTziJj#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nEtzy",
+    "FEN": "r4rk1/1p3pp1/pp1qb2p/3PR3/2B2Q2/2P5/1P4PP/5RK1 b - - 0 19",
+    "Moves": "b6b5 d5e6 f7e6 c4e6",
+    "Rating": "1460",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "3889",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/j05PxW4p/black#38",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  }
+]

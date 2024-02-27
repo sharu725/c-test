@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BjJXj",
+    "FEN": "5rk1/6b1/2n4p/1Qpb1p2/7P/2PPKN2/6rN/3RR3 w - - 3 33",
+    "Moves": "b5c5 f5f4",
+    "Rating": "1733",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "3899",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ndkJ1nBJ#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BjKFN",
+    "FEN": "4r1k1/1q2b1pp/p4p2/1p6/3P1B2/3N2Pb/PP2Q2P/4R1KR w - - 6 24",
+    "Moves": "d3f2 b7g2",
+    "Rating": "1745",
+    "RatingDeviation": "209",
+    "Popularity": "54",
+    "NbPlays": "53",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4XtFrseI#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BjKba",
+    "FEN": "3r1rk1/p1p3pp/3bR3/8/1n1p4/3P3P/PPP2PP1/RNB3K1 w - - 1 19",
+    "Moves": "c1g5 b4c2 g5d8 f8d8 b1d2 c2a1",
+    "Rating": "1670",
+    "RatingDeviation": "84",
+    "Popularity": "65",
+    "NbPlays": "26",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/pfZ3oCNO#37",
+    "OpeningTags": "Italian_Game Italian_Game_Schilling-Kostic_Gambit"
+  },
+  {
+    "PuzzleId": "BjMUi",
+    "FEN": "1rb2rk1/6pp/p2q1n2/2pp4/Q2Pp3/2P1P3/PP1N2PP/1R2NRK1 w - - 2 19",
+    "Moves": "a4a3 f6g4 f1f8 d6f8 a3c5 f8f2",
+    "Rating": "1718",
+    "RatingDeviation": "79",
+    "Popularity": "83",
+    "NbPlays": "91",
+    "Themes": "crushing long master middlegame",
+    "GameUrl": "https://lichess.org/UWiqLGZg#37",
+    "OpeningTags": "Indian_Defense Indian_Defense_London_System"
+  },
+  {
+    "PuzzleId": "BjNFa",
+    "FEN": "5rk1/pbp3p1/6n1/2PpPp2/1P3Pq1/P5p1/4QRBP/R5K1 w - - 0 25",
+    "Moves": "e2g4 g3f2 g1f2 f5g4",
+    "Rating": "1622",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "8418",
+    "Themes": "advancedPawn advantage intermezzo kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/FVspjbkH#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BjNoN",
+    "FEN": "r1bq1rk1/1p1nbpp1/5n1p/3pp3/1BB1P3/2NQ1N2/P1P2PPP/R4RK1 w - - 0 13",
+    "Moves": "c3d5 f6d5 b4e7 d5e7",
+    "Rating": "1650",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1733",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/zaCPYUfc#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "BjVXb",
+    "FEN": "r3r1k1/ppp2ppp/1bn5/5q2/3PNP2/1PP5/P3Q1PP/R1B1R1K1 w - - 0 17",
+    "Moves": "e2f3 c6d4 c3d4 b6d4 c1e3 d4a1",
+    "Rating": "1691",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "493",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/jRL7Cmf0#33",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit"
+  },
+  {
+    "PuzzleId": "BjXcC",
+    "FEN": "1rq1nr1k/2nb2bp/1p6/1N1Bpp2/1PP5/P3BN2/2Q3PP/2R1R1K1 w - - 2 25",
+    "Moves": "f3g5 c7d5 c4d5 c8c2",
+    "Rating": "1687",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2225",
+    "Themes": "advantage discoveredAttack master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/MsTH6zyl#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BjarW",
+    "FEN": "r4rk1/ppq1bpp1/5p1p/n6Q/2bP4/2N2N2/PP2BPPP/3RR1K1 b - - 1 17",
+    "Moves": "a8d8 e2c4 a5c4 c3d5 d8d5 h5d5",
+    "Rating": "1740",
+    "RatingDeviation": "96",
+    "Popularity": "85",
+    "NbPlays": "26",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/yfk6oXXl/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+  }
+]

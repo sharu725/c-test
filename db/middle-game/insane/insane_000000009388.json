@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "plunm",
+    "FEN": "rn2k2r/ppq1bppp/4p3/1N1pP3/3B4/P4Q2/5PPP/R4RK1 b kq - 4 18",
+    "Moves": "c7c4 b5d6 e7d6 a1c1 c4d4 c1c8 e8d7 c8h8 d4e5 f3f7",
+    "Rating": "2474",
+    "RatingDeviation": "84",
+    "Popularity": "85",
+    "NbPlays": "56",
+    "Themes": "advantage fork middlegame sacrifice skewer veryLong",
+    "GameUrl": "https://lichess.org/s0haEh8K/black#36",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "plw28",
+    "FEN": "r3r1k1/2p2p1n/ppn1p1pB/4P3/2Pq4/P2B1P2/3Q1P1P/1R4RK b - - 1 24",
+    "Moves": "a8d8 d3g6 d4d2 g6e4 h7g5 h6g5 g8f8 g5d2 d8d2 e4c6",
+    "Rating": "2529",
+    "RatingDeviation": "83",
+    "Popularity": "82",
+    "NbPlays": "61",
+    "Themes": "crushing discoveredAttack fork middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/kENJ7B8u/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "plwVM",
+    "FEN": "4Q3/ppp2r2/3p1rk1/3Pp1q1/2P1P3/5pB1/PP4R1/2K3R1 w - - 0 34",
+    "Moves": "c1c2 f3g2 g1g2 g5g4 e8g8 f7g7",
+    "Rating": "2708",
+    "RatingDeviation": "100",
+    "Popularity": "89",
+    "NbPlays": "503",
+    "Themes": "advancedPawn crushing long middlegame",
+    "GameUrl": "https://lichess.org/d3WY8G1d#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "plxHA",
+    "FEN": "r1b1k1r1/ppp2p1p/2n2Q2/1B1p4/1B2P2P/4KN2/P1P3q1/8 b q - 5 17",
+    "Moves": "c8d7 b5c6 d5d4 e3d3 g2f3 f6f3",
+    "Rating": "2662",
+    "RatingDeviation": "110",
+    "Popularity": "88",
+    "NbPlays": "281",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/XYg8zwMD/black#34",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "pm07y",
+    "FEN": "4rrk1/2pq2b1/p2p2P1/1p1P1p1Q/7R/1P1P4/1PP3P1/5RK1 b - - 0 24",
+    "Moves": "f8f6 g2g4 f5f4 g4g5 f6f5 h4f4",
+    "Rating": "2759",
+    "RatingDeviation": "121",
+    "Popularity": "89",
+    "NbPlays": "919",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/xrAdJz9b/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pm2lX",
+    "FEN": "1q2r3/6pk/3bp1Np/3p3P/2pP2Q1/2P1BRPK/1r6/8 b - - 4 39",
+    "Moves": "b2e2 f3f7 b8b1 g4e2",
+    "Rating": "2653",
+    "RatingDeviation": "112",
+    "Popularity": "90",
+    "NbPlays": "1961",
+    "Themes": "advantage discoveredAttack master masterVsMaster middlegame short superGM",
+    "GameUrl": "https://lichess.org/TfjJ9IzO/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pm4li",
+    "FEN": "4r2k/1b3ppp/1q2p3/pp6/5NQ1/7P/4NbP1/1BR4K b - - 1 26",
+    "Moves": "f2e3 g4h5 g7g6 b1g6 f7g6 h5e5 h8g8 c1c7 b6c7 e5c7",
+    "Rating": "2732",
+    "RatingDeviation": "101",
+    "Popularity": "91",
+    "NbPlays": "130",
+    "Themes": "crushing middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/oTSWCqM6/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pm6FI",
+    "FEN": "3q1rk1/2p2ppp/prpn4/2R5/5B2/2Q4P/P1P2PP1/R5K1 w - - 1 19",
+    "Moves": "c5c6 d6b5 c3c5 b6c6 c5c6 d8d4",
+    "Rating": "2583",
+    "RatingDeviation": "79",
+    "Popularity": "100",
+    "NbPlays": "111",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/w3VbkF2L#37",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "pmA50",
+    "FEN": "3r1r2/pp2Npk1/7p/4PRp1/3R4/3Q2Pq/PnP4P/6K1 w - - 2 25",
+    "Moves": "f5f7 g7f7 d3f5 h3f5",
+    "Rating": "2539",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "696",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/WoxD1qEw#49",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "XQI3o",
+    "FEN": "8/8/3k2B1/3p2P1/3K1P2/pb6/8/8 w - - 1 41",
+    "Moves": "g6b1 a3a2 b1a2 b3a2 g5g6 a2b1 g6g7 b1h7",
+    "Rating": "2317",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "331",
+    "Themes": "advancedPawn bishopEndgame crushing defensiveMove endgame master veryLong",
+    "GameUrl": "https://lichess.org/7ujGU093#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XQJTc",
+    "FEN": "4r1k1/ppRn3p/6pQ/3q4/8/3p2BP/PP3PP1/6K1 w - - 2 31",
+    "Moves": "g3e5 e8e5 c7c8 g8f7 h6h7 f7f6",
+    "Rating": "2137",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "251",
+    "Themes": "crushing endgame hangingPiece long master",
+    "GameUrl": "https://lichess.org/oC9rHyng#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XQL0p",
+    "FEN": "3k4/3n3Q/p2r3b/P3p2p/1R6/7P/1P3PPK/5r2 w - - 6 36",
+    "Moves": "b4b7 h6f4 g2g3 f1f2 h2g1 f4e3",
+    "Rating": "2338",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4502",
+    "Themes": "crushing defensiveMove endgame long master",
+    "GameUrl": "https://lichess.org/3hx56WYA#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XQPWm",
+    "FEN": "1r1q1rk1/p4ppp/b3pn2/P1b5/7Q/2N2NP1/1P2PPBP/1R3RK1 b - - 5 17",
+    "Moves": "d8a5 b1a1 a5b6 c3a4",
+    "Rating": "2102",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1893",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/kNk2f4E9/black#34",
+    "OpeningTags": "Catalan_Opening Catalan_Opening_Closed"
+  },
+  {
+    "PuzzleId": "XQW9k",
+    "FEN": "5k2/1b4b1/4p3/1P1p2PQ/p1p1q3/P7/KP3r2/1R3R2 b - - 3 34",
+    "Moves": "e4d4 h5h2 f2f1 b1f1",
+    "Rating": "2277",
+    "RatingDeviation": "103",
+    "Popularity": "83",
+    "NbPlays": "31",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/1QJ8e4FJ/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XQdkU",
+    "FEN": "r1b2rk1/pp2ppbp/2np1np1/q7/2PNP3/2N1B2P/PP1QBPP1/R3K2R b KQ - 0 10",
+    "Moves": "f6e4 d4c6 b7c6 c3e4",
+    "Rating": "2176",
+    "RatingDeviation": "80",
+    "Popularity": "89",
+    "NbPlays": "651",
+    "Themes": "advantage intermezzo master middlegame short",
+    "GameUrl": "https://lichess.org/JxXpNmNj/black#20",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Makogonov_Variation"
+  },
+  {
+    "PuzzleId": "XQll6",
+    "FEN": "2rq1rk1/1b2bp1p/p3pnp1/1p1P2B1/8/P1NQ4/BP3PPP/3RR1K1 b - - 0 19",
+    "Moves": "f6d5 a2d5 e7g5 d5b7 d8d3 d1d3",
+    "Rating": "2069",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "2003",
+    "Themes": "advantage long master middlegame",
+    "GameUrl": "https://lichess.org/n1mLrbrw/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+  },
+  {
+    "PuzzleId": "XQzLu",
+    "FEN": "r2q1rk1/p1b2ppp/1p3n2/8/2QPR3/5N2/PP3PPP/R1B3K1 w - - 1 17",
+    "Moves": "c1g5 d8c8 c4e2 f6e4",
+    "Rating": "2384",
+    "RatingDeviation": "89",
+    "Popularity": "85",
+    "NbPlays": "112",
+    "Themes": "advantage master middlegame quietMove short",
+    "GameUrl": "https://lichess.org/EuZfcUi0#33",
+    "OpeningTags": "Queens_Indian_Defense Queens_Indian_Defense_Kasparov_Variation"
+  },
+  {
+    "PuzzleId": "XR7ll",
+    "FEN": "2r1k2r/4bp1p/p2pP3/4p1PQ/4P3/2q1B3/2P1K3/3R3R b k - 1 25",
+    "Moves": "c3c2 e2f3 c8c4 e6f7",
+    "Rating": "2385",
+    "RatingDeviation": "99",
+    "Popularity": "79",
+    "NbPlays": "33",
+    "Themes": "advancedPawn advantage attackingF2F7 defensiveMove master middlegame pin short",
+    "GameUrl": "https://lichess.org/ZF8YKuIW/black#50",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ReW3x",
+    "FEN": "r4rk1/pb1Rqp2/6pQ/1p2p3/4N3/8/PP3PPP/4R1K1 b - - 1 21",
+    "Moves": "e7d7 e4f6",
+    "Rating": "759",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "401",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/KRNsyZIp/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ReXEI",
+    "FEN": "1nbqrbk1/5p1p/3p1R2/p5N1/2pP2PN/2P3BP/P1Q3B1/6K1 b - - 0 28",
+    "Moves": "d8f6 c2h7",
+    "Rating": "822",
+    "RatingDeviation": "101",
+    "Popularity": "94",
+    "NbPlays": "150",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4IZYiu1p/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ReXQt",
+    "FEN": "1k2r3/pbp2p2/1p3Q1p/1q6/4P3/7P/5PP1/2R3K1 b - - 2 27",
+    "Moves": "e8e4 f6d8 b7c8 d8c7 b8a8 c7c8",
+    "Rating": "992",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1881",
+    "Themes": "deflection endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/UUiCo6iR/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ReXdy",
+    "FEN": "r2q1rk1/pp2bppp/2pp3B/7n/P1BpP1Q1/3P4/1PP2PPP/R4RK1 b - - 3 15",
+    "Moves": "h5f6 g4g7",
+    "Rating": "719",
+    "RatingDeviation": "89",
+    "Popularity": "76",
+    "NbPlays": "132",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/77lkb9PB/black#30",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "ReY5n",
+    "FEN": "8/7p/1R6/4nN2/6pk/4P3/7r/6K1 b - - 5 60",
+    "Moves": "h4h3 b6h6",
+    "Rating": "850",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "128",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/dxhbZlWN/black#120",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ReZH3",
+    "FEN": "r2q1rk1/pb1pbppp/1pn1p3/4P3/3pQ1n1/2PB1N2/PP1N1PPP/R1B2RK1 b - - 2 11",
+    "Moves": "d4c3 e4h7",
+    "Rating": "870",
+    "RatingDeviation": "79",
+    "Popularity": "100",
+    "NbPlays": "94",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/TYPZIkjJ/black#22",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "ReZW7",
+    "FEN": "rn1qk2r/pp3ppp/2P5/4B3/2p1n3/5b2/PP3PPP/R2QKB1R w KQkq - 0 11",
+    "Moves": "d1f3 d8d2",
+    "Rating": "865",
+    "RatingDeviation": "83",
+    "Popularity": "79",
+    "NbPlays": "56",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/8JiRrJL8#21",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations"
+  },
+  {
+    "PuzzleId": "ReZwj",
+    "FEN": "r2q2k1/2QP1ppp/8/2p5/2P5/PP5P/5PP1/4R1K1 b - - 0 29",
+    "Moves": "d8c7 e1e8 a8e8 d7e8q",
+    "Rating": "778",
+    "RatingDeviation": "92",
+    "Popularity": "78",
+    "NbPlays": "86",
+    "Themes": "advancedPawn endgame mate mateIn2 promotion queenRookEndgame short",
+    "GameUrl": "https://lichess.org/cQX3ovPf/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Rea9b",
+    "FEN": "7r/ppp5/k2r3p/7N/8/q7/2K1QPPP/1R6 b - - 14 39",
+    "Moves": "b7b5 e2b5",
+    "Rating": "871",
+    "RatingDeviation": "105",
+    "Popularity": "91",
+    "NbPlays": "337",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/RcoQ3Hmg/black#78",
+    "OpeningTags": ""
+  }
+]

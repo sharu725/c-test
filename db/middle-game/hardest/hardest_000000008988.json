@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "IZgXz",
+    "FEN": "3r3k/ppp1q1pp/5n2/5bB1/1b1np3/1BN5/PPP1QPPP/R4RK1 w - - 6 16",
+    "Moves": "e2c4 f5e6 c4e6 d4e6",
+    "Rating": "2331",
+    "RatingDeviation": "86",
+    "Popularity": "90",
+    "NbPlays": "1065",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/erpfKoAo#31",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Schliemann_Defense"
+  },
+  {
+    "PuzzleId": "IZgdC",
+    "FEN": "4rqk1/p6p/6pP/1P1Np1B1/4P3/1Q6/PPP1n1PK/R4r2 b - - 0 26",
+    "Moves": "f1a1 d5e7 g8h8 b3g8 f8g8 g5f6 g8g7 f6g7",
+    "Rating": "2347",
+    "RatingDeviation": "82",
+    "Popularity": "89",
+    "NbPlays": "1259",
+    "Themes": "doubleCheck kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/a8TJlE1N/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IZgkz",
+    "FEN": "1r1q2k1/pp3p1p/4b1p1/3P4/6n1/4P1P1/P2Q1P1P/1R3RK1 b - - 0 24",
+    "Moves": "e6d5 b1d1 g4f6 e3e4 f6e4 d2d5 d8d5 d1d5",
+    "Rating": "2200",
+    "RatingDeviation": "110",
+    "Popularity": "100",
+    "NbPlays": "55",
+    "Themes": "advantage deflection middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/fFw947lG/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IZjMC",
+    "FEN": "r1bqkb1r/2p3pp/p5n1/1p1pn1N1/4PB2/1BP5/PP3PPP/RN1Q1RK1 w kq - 1 12",
+    "Moves": "b3d5 g6f4 g5f7 e5f7 d5f7 e8e7 d1d8 e7d8",
+    "Rating": "2128",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "4547",
+    "Themes": "advantage hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/rygc8naj#23",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "IZlLM",
+    "FEN": "r2qr1k1/ppp2p1p/3pb1p1/8/2P1B3/PPb5/5PPP/1RBQ1RK1 b - - 1 14",
+    "Moves": "e6c4 b3c4 e8e4 d1d3 d8e7 d3c3",
+    "Rating": "2076",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "642",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/oD84QvpG/black#28",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Semi-Classical_Variation"
+  },
+  {
+    "PuzzleId": "IZlLV",
+    "FEN": "7k/p2q2pn/1p1p1rQ1/3Pp3/2P3R1/4Br2/P4P1P/2R4K w - - 4 26",
+    "Moves": "g6h5 f3e3 f2e3 f6h6 g4g7 d7g7",
+    "Rating": "2051",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "101",
+    "Themes": "crushing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/Ho2IdWVy#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IZoEw",
+    "FEN": "rn2k2r/p1p1nppp/1p4q1/2bNp1B1/2B1P3/1Q6/PPP2PPP/2KR3R b kq - 7 11",
+    "Moves": "g6g5 f2f4 e8g8 f4g5",
+    "Rating": "2053",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "297",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/GbVR2vhE/black#22",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "IZqdD",
+    "FEN": "2rqk2r/5p2/p1b1pb2/1p4p1/2p1N3/5Q2/PPPB1P1P/2KR3R b k - 5 19",
+    "Moves": "f6e7 d2c3 d8c7 c3h8 c7f4 f3f4",
+    "Rating": "2284",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4687",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/UpyE3T1h/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "IZs9I",
+    "FEN": "7r/pQ1Rbk2/4q2p/2p3p1/4b3/P3B2P/1PP3P1/R5K1 w - - 0 31",
+    "Moves": "e3c5 e4b7 d7e7 e6e7 a1f1 f7e8 c5e7 e8e7",
+    "Rating": "2006",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "272",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/7eTqofv6#61",
+    "OpeningTags": ""
+  }
+]

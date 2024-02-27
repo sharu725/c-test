@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BEYxG",
+    "FEN": "5b1r/pp1q1k2/2p2p2/3n3r/3PR3/5NR1/PPPBQP1p/7K b - - 2 28",
+    "Moves": "f8d6 f3e5 d6e5 d4e5",
+    "Rating": "2115",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "94",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/9QiJJyJ9/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BEZjU",
+    "FEN": "1r4k1/4ppbp/6p1/n2PNq1n/2p5/2N4P/PrPBQPP1/R1R3K1 w - - 1 20",
+    "Moves": "e5c4 a5c4 e2c4 b8c8 c4f1 g7c3 d2c3 c8c3",
+    "Rating": "2348",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "121",
+    "Themes": "crushing master middlegame veryLong",
+    "GameUrl": "https://lichess.org/epJyTgHq#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BEaSU",
+    "FEN": "r6r/2p2k2/pbn1qp2/1p2pN1p/4P1bB/2PR1N2/PP2QPP1/3R2K1 b - - 8 22",
+    "Moves": "g4f5 e4f5 e6f5 f3g5",
+    "Rating": "2208",
+    "RatingDeviation": "131",
+    "Popularity": "91",
+    "NbPlays": "13",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/PVgbxHTR/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BEaXH",
+    "FEN": "7r/1pBrnk1p/pq2Nbp1/3P1p1P/4p3/7Q/PP3PP1/3RR1K1 b - - 0 31",
+    "Moves": "d7c7 e6c7 b6c7 d5d6",
+    "Rating": "2061",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "142",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/L5TzAAx9/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BEdjT",
+    "FEN": "r3r1k1/p1p2ppb/1p1b1q1p/8/1P2B2N/PQ4PP/5P2/RN3RK1 b - - 0 17",
+    "Moves": "f6a1 e4a8",
+    "Rating": "2036",
+    "RatingDeviation": "163",
+    "Popularity": "-100",
+    "NbPlays": "8",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/i6nTC2nK/black#34",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Old_Indian_Attack"
+  },
+  {
+    "PuzzleId": "BEgSM",
+    "FEN": "3Q1k2/p3n3/6p1/2p1p2p/2N1P3/2P5/qr3rPP/2KR3R b - - 1 25",
+    "Moves": "f8f7 c4e5 f7g7 d8e7 g7h6 e5g4 h5g4 e7h4 h6g7 d1d7",
+    "Rating": "2001",
+    "RatingDeviation": "99",
+    "Popularity": "75",
+    "NbPlays": "19",
+    "Themes": "crushing deflection middlegame veryLong",
+    "GameUrl": "https://lichess.org/b7KZfP6n/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BEj45",
+    "FEN": "r1bq1r1k/ppp2pb1/3p3p/4n1NQ/2B1P2P/2N2R2/PP3PP1/R3K3 w Q - 2 16",
+    "Moves": "g5f7 f8f7 c4f7 c8g4 h5g4 e5g4",
+    "Rating": "2271",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "293",
+    "Themes": "crushing fork long middlegame sacrifice trappedPiece",
+    "GameUrl": "https://lichess.org/gOReaEwB#31",
+    "OpeningTags": "Scotch_Game Scotch_Game_Benima_Defense"
+  },
+  {
+    "PuzzleId": "BEjFD",
+    "FEN": "r5k1/p1p3pR/1p4r1/n3Qp2/3PpP2/4P3/1PP3B1/qNK4R w - - 0 26",
+    "Moves": "e5e7 a5b3 c2b3 g6c6 e7c5 b6c5",
+    "Rating": "2033",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1121",
+    "Themes": "crushing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/GDRY1ZVe#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BEnMy",
+    "FEN": "2kr1bnr/1p2ppp1/p1p3p1/6P1/4PP2/2Ppq2P/PP1N4/R1BQ1K1R b - - 2 14",
+    "Moves": "h8h3 d1g4 e7e6 h1h3",
+    "Rating": "2001",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "1199",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/wFsRBjZn/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  }
+]

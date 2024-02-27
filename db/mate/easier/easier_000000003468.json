@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "D5MVg",
+    "FEN": "r1bq1rk1/3nbppp/p1p1p3/3nP3/1p1P4/P1NQ1N2/1PB2PPP/R1B2RK1 b - - 1 13",
+    "Moves": "b4c3 d3h7",
+    "Rating": "1007",
+    "RatingDeviation": "79",
+    "Popularity": "83",
+    "NbPlays": "168",
+    "Themes": "kingsideAttack master mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/EAIeyGZp/black#26",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Rosenthal_Variation"
+  },
+  {
+    "PuzzleId": "D5OGf",
+    "FEN": "8/pk3p2/7p/2bN4/2P2pr1/8/P4PPK/3R4 w - - 2 30",
+    "Moves": "f2f3 g4h4",
+    "Rating": "1012",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "308",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/6PDN5fJn#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D5Q9I",
+    "FEN": "2r3k1/pp6/4R2p/1brP2p1/6P1/7P/PP4B1/1K1R4 w - - 3 29",
+    "Moves": "d5d6 b5d3 b1a1 c5c1 d1c1 c8c1",
+    "Rating": "1179",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "822",
+    "Themes": "backRankMate endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/kqmc91sa#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D5QKQ",
+    "FEN": "r3k2r/p1p3pp/2Nb1n2/3p4/4q3/1P2P1Pb/PBPP3P/RN1Q1RK1 w kq - 3 13",
+    "Moves": "f1f6 e4g2",
+    "Rating": "1170",
+    "RatingDeviation": "79",
+    "Popularity": "68",
+    "NbPlays": "72",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/EmDactYd#25",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  },
+  {
+    "PuzzleId": "D5QOa",
+    "FEN": "2bk1Q1r/q1p3Q1/p1Pb4/1p1P3r/7P/6P1/P7/2R2R1K b - - 0 36",
+    "Moves": "h8f8 f1f8 d6f8 g7f8",
+    "Rating": "1057",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "1668",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/S3Wsxf1Z/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D5SfP",
+    "FEN": "6k1/1p2n3/p2pNQpq/3P4/4p1p1/5p1P/P4P1K/8 w - - 2 33",
+    "Moves": "f6e7 h6h3 h2g1 h3g2",
+    "Rating": "1063",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "197",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/rcs2Hs2e#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D5UBA",
+    "FEN": "6R1/p2p4/7p/8/4Npp1/r2Pk3/1R6/4K3 w - - 2 36",
+    "Moves": "g8g4 a3a1 b2b1 a1b1",
+    "Rating": "1096",
+    "RatingDeviation": "215",
+    "Popularity": "54",
+    "NbPlays": "6",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/34yzzsM7#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D5Ucq",
+    "FEN": "8/3p4/3k4/8/2R3p1/r1bBP1P1/2P2P2/2K5 w - - 0 31",
+    "Moves": "c1d1 a3a1 d1e2 a1e1",
+    "Rating": "1152",
+    "RatingDeviation": "212",
+    "Popularity": "82",
+    "NbPlays": "3",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/E1UmiD3l#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D5VDM",
+    "FEN": "r4qk1/pp1bbrp1/2pppnQB/6N1/2PPN3/8/PP3PPP/R3K2R b KQ - 4 17",
+    "Moves": "f6e4 g6h7",
+    "Rating": "1193",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "863",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/zSfhktqq/black#34",
+    "OpeningTags": "French_Defense French_Defense_Steiner_Variation"
+  }
+]

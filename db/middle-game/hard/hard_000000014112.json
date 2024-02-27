@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "afi9p",
+    "FEN": "r3r1k1/3qbppp/p1p5/2pn2B1/N2p2P1/3P1P2/PPP1Q1P1/R3R1K1 w - - 2 18",
+    "Moves": "a4b6 d5b6 e2e7 e8e7",
+    "Rating": "1713",
+    "RatingDeviation": "76",
+    "Popularity": "80",
+    "NbPlays": "242",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/7QvvNK7W#35",
+    "OpeningTags": "French_Defense French_Defense_Two_Knights_Variation"
+  },
+  {
+    "PuzzleId": "afiQA",
+    "FEN": "r1bk4/p1ppq1pQ/1p6/2b5/2N5/2P1P1P1/P6P/5RK1 b - - 0 23",
+    "Moves": "d7d5 h7g8 e7e8 g8d5",
+    "Rating": "1771",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "557",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/AFv7La9s/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "afiRB",
+    "FEN": "rq2k3/1b1p1pp1/p3pn2/8/2PBP2r/P1N1QP2/1P2B2b/R4K1R b q - 2 18",
+    "Moves": "h2f4 h1h4 f4e3 h4h8 e8e7 h8b8",
+    "Rating": "1674",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "4173",
+    "Themes": "crushing long master middlegame sacrifice skewer",
+    "GameUrl": "https://lichess.org/gAbbMyKz/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kan_Variation"
+  },
+  {
+    "PuzzleId": "afogT",
+    "FEN": "r4rk1/1pp1bppp/2n1p3/p2q4/3PN3/P3P1P1/1PPB1P1P/R2QK2R w KQ - 1 13",
+    "Moves": "d1f3 f7f5 e4g5 e7g5 f3d5 e6d5",
+    "Rating": "1669",
+    "RatingDeviation": "73",
+    "Popularity": "97",
+    "NbPlays": "8003",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/g8LZDXdQ#25",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "afpiT",
+    "FEN": "r3kn1r/ppq1bp2/2p2n2/4p1pp/4P1b1/2PB1NB1/PPQN1PPP/2R2RK1 w kq - 0 14",
+    "Moves": "f3g5 h5h4 g3e5 c7e5",
+    "Rating": "1676",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "974",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/VLJrPHPb#27",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "afqEg",
+    "FEN": "r1bq3r/p1pk4/np2ppQB/3p4/1P1P4/2P5/P2K3P/nN3B1R b - - 0 20",
+    "Moves": "c7c5 g6g7 d7d6 h6f4",
+    "Rating": "1785",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "61",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/1MAedaN1/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "afqFl",
+    "FEN": "r7/p7/n1pp2k1/8/1qp1p1R1/4B3/P2b2PP/5R1K b - - 8 31",
+    "Moves": "g6h7 f1f7 h7h8 e3d4",
+    "Rating": "1648",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "86",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ndjLW8GK/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "afr5a",
+    "FEN": "rn1qr1k1/pp3pp1/2pb3p/3p2B1/B2Pn1bP/3Q1N2/PPP1NPP1/R3K2R b KQ - 6 12",
+    "Moves": "g4f3 g5d8 f3e2 d3e2",
+    "Rating": "1771",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "626",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/3b1G3cxr/black#24",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "afrtx",
+    "FEN": "2r1r3/pQ2bkpp/3pbn2/8/8/2N5/PPPP2KP/R1B5 w - - 1 18",
+    "Moves": "d2d3 c8c3 b2c3 e6d5 b7d5 f6d5",
+    "Rating": "1619",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1769",
+    "Themes": "crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/6DnqDKVY#35",
+    "OpeningTags": "Italian_Game Italian_Game_Blackburne-Kostic_Gambit"
+  }
+]

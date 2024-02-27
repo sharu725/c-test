@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CkAuC",
+    "FEN": "r4rk1/pp2bppB/2p1p3/3n2Q1/3q1P2/5pPN/P1P4P/3R1R1K b - - 0 22",
+    "Moves": "g8h7 g5h5 h7g8 d1d4",
+    "Rating": "1728",
+    "RatingDeviation": "77",
+    "Popularity": "78",
+    "NbPlays": "39",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/KZ1pQoC5/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CkEqE",
+    "FEN": "b2r1rk1/p6p/4pp2/Np1n2p1/3P4/1P3BPq/P2Q1P1P/3R1RK1 w - - 1 23",
+    "Moves": "f3g2 h3g2 g1g2 d5f4 g2g1 f4h3",
+    "Rating": "1750",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "776",
+    "Themes": "attraction doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/YobynAB9#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CkIFN",
+    "FEN": "r4r1k/pp1Q2p1/3P2P1/2p5/5P2/2b1B3/qPP5/2K4R b - - 1 28",
+    "Moves": "h8g8 h1h8 g8h8 d7h3 h8g8 h3h7",
+    "Rating": "1774",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "3235",
+    "Themes": "attraction long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/BfQsYMoq/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CkK4s",
+    "FEN": "6r1/pp2kp1p/1q1bpp2/1N1p1b2/Q2P4/4PN2/PP3PKP/2R2R2 w - - 1 16",
+    "Moves": "g2h1 f5e4 a4d1 b6b5",
+    "Rating": "1602",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "201",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/R1ahcGzm#31",
+    "OpeningTags": "Slav_Indian Slav_Indian_Other_variations"
+  },
+  {
+    "PuzzleId": "CkKTO",
+    "FEN": "r2q3r/pp1nbpk1/2p1b2p/3pNPpQ/3P4/2NBP1P1/PP4P1/2KR3R b - - 0 16",
+    "Moves": "d7e5 d4e5 e6f5 d3f5",
+    "Rating": "1799",
+    "RatingDeviation": "75",
+    "Popularity": "74",
+    "NbPlays": "200",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/kFrinZPA/black#32",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "CkL2s",
+    "FEN": "2r2r2/4ppk1/p3b1p1/1pn4p/2BRPB2/1P3P2/P5PP/3R2K1 w - - 0 21",
+    "Moves": "c4e6 c5e6 f4e5 f7f6 d4d7 f6e5 d7e7 g7f6",
+    "Rating": "1628",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1318",
+    "Themes": "advantage fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/QPyeWf4W#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CkLTy",
+    "FEN": "rn2kb1r/p3ppp1/2pp1n2/q5Bp/1p1PP1b1/P1N2N2/1PPQBPPP/R3K2R w KQkq - 0 9",
+    "Moves": "c3d1 f6e4 d2b4 a5b4 a3b4 g4f3",
+    "Rating": "1751",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "384",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/txy7zwJa#17",
+    "OpeningTags": "Czech_Defense Czech_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CkMLs",
+    "FEN": "r3k2r/4npp1/pp2p3/2B1P2p/2q2R2/2N4P/PP4P1/R2Q2K1 b kq - 0 19",
+    "Moves": "c4f4 c5e7",
+    "Rating": "1601",
+    "RatingDeviation": "76",
+    "Popularity": "75",
+    "NbPlays": "77",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/LIc5CaLL/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kan_Variation"
+  },
+  {
+    "PuzzleId": "CkNTo",
+    "FEN": "3r2k1/5pbp/p2Bn1p1/1p2P3/3r4/P1N5/1PP3PP/3R1RK1 w - - 0 19",
+    "Moves": "c3e2 d4d1 f1d1 g7e5",
+    "Rating": "1654",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "407",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/M39raDhd#37",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Byrne_Variation"
+  }
+]

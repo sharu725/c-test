@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HWVct",
+    "FEN": "4r1k1/5pbp/1Qb3p1/2p2q2/8/1BP1Pp1P/PP3P2/2NR1RK1 w - - 0 26",
+    "Moves": "b6c6 f5g5 g1h1 g5g2",
+    "Rating": "1138",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "327",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/WywibmBN#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HWYgK",
+    "FEN": "r3k2r/2q1b1pp/p1np4/1p1Qpb2/4n3/N3B2P/PPP1NPB1/R3K2R b KQkq - 1 14",
+    "Moves": "e4f6 d5c6 c7c6 g2c6",
+    "Rating": "1142",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "386",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/toX0un93/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "HWYs5",
+    "FEN": "rn2k2r/p3ppbp/1pb3p1/q1p5/3PP3/2P1BN2/P2QBPPP/1R2K2R w Kkq - 4 13",
+    "Moves": "d4d5 g7c3 e1g1 c3d2",
+    "Rating": "1042",
+    "RatingDeviation": "82",
+    "Popularity": "93",
+    "NbPlays": "352",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/TVVJ1cOJ#25",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "HWaxp",
+    "FEN": "r3k1nr/pp1n1bp1/2pp1p2/5Np1/P3P3/2PP3P/2P1BPP1/2KR3R b kq - 4 16",
+    "Moves": "e8c8 f5d6 c8c7 d6f7",
+    "Rating": "1014",
+    "RatingDeviation": "85",
+    "Popularity": "94",
+    "NbPlays": "1175",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/cDj215Qg/black#32",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_McConnell_Defense"
+  },
+  {
+    "PuzzleId": "HWd42",
+    "FEN": "r1bq2k1/pp3p1p/4r1p1/3p4/3Q4/1P4P1/P2P1PBP/R4RK1 w - - 0 17",
+    "Moves": "g2d5 e6d6 d5f7 g8f7",
+    "Rating": "1163",
+    "RatingDeviation": "79",
+    "Popularity": "88",
+    "NbPlays": "72",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/aY9cfNfL#33",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Indian_Variation"
+  },
+  {
+    "PuzzleId": "HWdhN",
+    "FEN": "rq3k1R/2pnN3/3p1p2/pp1Pp3/2b1P1P1/2N5/PP6/1K5R b - - 7 29",
+    "Moves": "f8e7 h1h7",
+    "Rating": "1145",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "341",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/lLVdm3Po/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HWfBB",
+    "FEN": "2kr3r/ppp1b1pp/2b5/6q1/5N2/2PP1QBP/PP3P2/R4RK1 w - - 1 21",
+    "Moves": "f4e6 c6f3 e6g5 e7g5",
+    "Rating": "1098",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "216",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/aS4KUuWy#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HWgCr",
+    "FEN": "r4k1r/ppp2Bp1/3p1q1p/3Qp3/3b4/8/PP3nPP/RNB2RK1 w - - 0 14",
+    "Moves": "f7h5 f2h3 g1h1 f6f1",
+    "Rating": "1073",
+    "RatingDeviation": "81",
+    "Popularity": "67",
+    "NbPlays": "81",
+    "Themes": "deflection discoveredAttack doubleCheck kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/XKS6FWn0#27",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "HWkpV",
+    "FEN": "rn3rk1/p5pp/4p3/2pp4/3b4/q3B1P1/P1P2PBP/1R1QR1K1 b - - 5 18",
+    "Moves": "d4e3 e1e3 a3e3 f2e3",
+    "Rating": "1114",
+    "RatingDeviation": "92",
+    "Popularity": "52",
+    "NbPlays": "54",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/LIiqQ4uA/black#36",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_French_Benoni"
+  }
+]

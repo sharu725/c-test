@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "hexet",
+    "FEN": "r4rk1/2p1b1pp/p2q4/1p1n1p2/3P1B2/1QPB1N1P/P4PP1/4R1K1 b - - 3 22",
+    "Moves": "d6f4 b3d5 g8h8 e1e7",
+    "Rating": "1336",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "190",
+    "Themes": "advantage hangingPiece kingsideAttack master middlegame short",
+    "GameUrl": "https://lichess.org/2W7CR4jB/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "heyBp",
+    "FEN": "2rr4/1p1bk1p1/2n1p2p/pBPpPp2/P2N1P2/1PR1K1P1/6P1/1R6 w - f6 0 27",
+    "Moves": "d4c2 d5d4 c2d4 c6d4 b5d7 d8d7",
+    "Rating": "1360",
+    "RatingDeviation": "99",
+    "Popularity": "43",
+    "NbPlays": "36",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/WvvTYomZ#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "heykm",
+    "FEN": "rq2kb1r/1b3ppp/p3p3/1pRpPN2/5P2/4B3/PP2B1PP/3Q1RK1 b kq - 0 18",
+    "Moves": "f8c5 f5g7 e8d7 e3c5",
+    "Rating": "1265",
+    "RatingDeviation": "207",
+    "Popularity": "-100",
+    "NbPlays": "6",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/yMXdG7vk/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_OKelly_Variation"
+  },
+  {
+    "PuzzleId": "heyrw",
+    "FEN": "r1bb3r/1pk2ppp/2nNp3/2B5/1PB1p3/P4N2/5PPP/3R2K1 b - - 5 19",
+    "Moves": "e4f3 d6b5 c7b8 c5d6 d8c7 d6c7",
+    "Rating": "1392",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "271",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/55oQhvjG/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hf3BF",
+    "FEN": "r1b1k2r/4B1pp/p1ppp3/7n/4P3/q1NQ4/P1P3PP/1R2K2R b Kkq - 0 15",
+    "Moves": "e8e7 c3d5 c6d5 d3a3",
+    "Rating": "1293",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "10580",
+    "Themes": "advantage discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/rDXNDxW8/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "hf3eY",
+    "FEN": "1rq2rk1/p4p1p/3b4/1p2ppn1/4B3/2PP1P2/PP4PP/RN1Q1RK1 w - - 0 20",
+    "Moves": "e4d5 c8c5 g1h1 c5d5",
+    "Rating": "1358",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "1169",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/5HTk74kF#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hf4Fd",
+    "FEN": "8/5pk1/2n1p3/p2p2p1/3P2Pr/2NQ3p/P4P1P/2qB2KR w - - 7 35",
+    "Moves": "f2f3 c6b4 c3e2 b4d3 e2c1 d3c1",
+    "Rating": "1351",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "677",
+    "Themes": "crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/X7HryvjK#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hf4WN",
+    "FEN": "8/2B1kr1p/p3p3/2p2q2/8/P4P2/1bpQ2PP/4R2K b - - 0 32",
+    "Moves": "c2c1q d2d8",
+    "Rating": "1398",
+    "RatingDeviation": "91",
+    "Popularity": "79",
+    "NbPlays": "157",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/5bX3OKP0/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hf4XB",
+    "FEN": "r5k1/p4ppp/1qn5/5Q2/3R3P/2P3b1/PP5N/5RK1 b - - 0 28",
+    "Moves": "c6d4 f5f7 g8h8 f7f8 a8f8 f1f8",
+    "Rating": "1326",
+    "RatingDeviation": "83",
+    "Popularity": "53",
+    "NbPlays": "37",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/PWWyc0su/black#56",
+    "OpeningTags": ""
+  }
+]

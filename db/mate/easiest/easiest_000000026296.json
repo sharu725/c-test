@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pAB0P",
+    "FEN": "6rk/pp3p1p/2n1p3/7b/2B1P3/3P3r/PPPN1RP1/R5K1 w - - 0 21",
+    "Moves": "g1f1 h3h1",
+    "Rating": "668",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "75",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/2Hs9nGQp#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pAB6s",
+    "FEN": "5b2/5Q1p/5p1k/4pP2/P3Pn2/1Pr4P/5PK1/8 w - - 7 48",
+    "Moves": "g2f1 c3c1",
+    "Rating": "682",
+    "RatingDeviation": "99",
+    "Popularity": "92",
+    "NbPlays": "91",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/QtU5e7yg#95",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pABP2",
+    "FEN": "6k1/5p1p/p1R3p1/Pr1rp3/4p3/4P3/5PPP/3R2K1 w - - 0 29",
+    "Moves": "d1d5 b5b1 c6c1 b1c1 d5d1 c1d1",
+    "Rating": "647",
+    "RatingDeviation": "92",
+    "Popularity": "70",
+    "NbPlays": "300",
+    "Themes": "backRankMate endgame long mate mateIn3 rookEndgame",
+    "GameUrl": "https://lichess.org/VvR2I7Cz#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pACVq",
+    "FEN": "7k/p2q2Bb/1p5P/n1p1p3/P3P1P1/2P2Q2/1P6/6K1 b - - 0 35",
+    "Moves": "h8g8 f3f8",
+    "Rating": "648",
+    "RatingDeviation": "84",
+    "Popularity": "100",
+    "NbPlays": "80",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/Y0JASRVa/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pACuL",
+    "FEN": "r2B3k/p2n2pp/1bp5/5p2/2Q1r3/8/PPP2PPP/R3R1K1 b - - 0 18",
+    "Moves": "e4c4 e1e8 d7f8 e8f8",
+    "Rating": "574",
+    "RatingDeviation": "85",
+    "Popularity": "100",
+    "NbPlays": "57",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/wReQhYcS/black#36",
+    "OpeningTags": "Russian_Game Russian_Game_Damiano_Variation"
+  },
+  {
+    "PuzzleId": "pAEWQ",
+    "FEN": "2rqk2r/pp3p2/b3pn1p/3pN1p1/1b1P4/N4QB1/PP3PPP/1R1K3R b k - 1 15",
+    "Moves": "f6e4 f3f7",
+    "Rating": "735",
+    "RatingDeviation": "83",
+    "Popularity": "88",
+    "NbPlays": "212",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/eQkAxqrH/black#30",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "pAEYj",
+    "FEN": "8/p3rppk/Qp2r2p/2p5/8/3P4/P4PPP/q4RK1 w - - 0 26",
+    "Moves": "f1a1 e6e1 a1e1 e7e1",
+    "Rating": "616",
+    "RatingDeviation": "104",
+    "Popularity": "70",
+    "NbPlays": "209",
+    "Themes": "backRankMate endgame mate mateIn2 queenRookEndgame short",
+    "GameUrl": "https://lichess.org/I63lsd3r#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pAEfi",
+    "FEN": "8/Q1Rnk1pp/8/3pqb2/P7/4P3/5PPP/R5K1 w - - 0 25",
+    "Moves": "a4a5 e5a1 c7c1 a1c1",
+    "Rating": "702",
+    "RatingDeviation": "88",
+    "Popularity": "73",
+    "NbPlays": "131",
+    "Themes": "backRankMate endgame hangingPiece mate mateIn2 short",
+    "GameUrl": "https://lichess.org/zsjJUcCE#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pAFpQ",
+    "FEN": "rn3rk1/pp2RQpp/2p5/8/1B1P2q1/8/PP3PPP/5KNR b - - 0 17",
+    "Moves": "f8f7 e7e8 f7f8 e8f8",
+    "Rating": "620",
+    "RatingDeviation": "92",
+    "Popularity": "91",
+    "NbPlays": "930",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/p7i1L25z/black#34",
+    "OpeningTags": "Slav_Defense Slav_Defense_Other_variations"
+  }
+]

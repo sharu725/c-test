@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "TSZsS",
+    "FEN": "2k2bnr/ppp4p/6p1/2q1pp2/3B4/1P1PQ2P/P1P2PP1/R4RK1 b - - 0 16",
+    "Moves": "e5d4 e3e8",
+    "Rating": "703",
+    "RatingDeviation": "98",
+    "Popularity": "95",
+    "NbPlays": "361",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/wKIiPCAL/black#32",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "TScVb",
+    "FEN": "2r1k2r/p3q2p/2p2p1Q/8/1p4b1/3P4/PPP2PPP/RN2K2R w KQk - 0 18",
+    "Moves": "e1f1 e7e2 f1g1 e2d1",
+    "Rating": "995",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "933",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/QLWDhrSh#35",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "TSdjl",
+    "FEN": "2kr3r/1ppqN1p1/p2p1p1p/5P2/2nBB3/7P/PPP2PP1/R3R1K1 b - - 0 18",
+    "Moves": "d7e7 e4b7 c8b7 e1e7",
+    "Rating": "835",
+    "RatingDeviation": "95",
+    "Popularity": "90",
+    "NbPlays": "388",
+    "Themes": "advantage discoveredAttack middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/4sg6i0oF/black#36",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "TSdsJ",
+    "FEN": "2rqb1k1/p2nrpp1/2p4p/3P4/2N2p2/P2Q1P2/1P4PP/1B1R2K1 b - - 1 27",
+    "Moves": "c6d5 d3h7 g8f8 h7h8",
+    "Rating": "810",
+    "RatingDeviation": "80",
+    "Popularity": "100",
+    "NbPlays": "116",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/2abNKFd4/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TSeQ6",
+    "FEN": "r4rk1/pp1q1ppp/2p5/3p2n1/P2P4/RPN1P1P1/5PKP/2Q2R2 w - - 1 18",
+    "Moves": "h2h4 d7h3 g2g1 g5f3",
+    "Rating": "933",
+    "RatingDeviation": "131",
+    "Popularity": "69",
+    "NbPlays": "31",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/jCGDOsOI#35",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "TSeka",
+    "FEN": "r3r1k1/ppp2ppp/8/8/2Qn1p2/P3qN2/1PPN2PP/R1B2K1R w - - 0 16",
+    "Moves": "f3d4 e3e1",
+    "Rating": "807",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "83",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/2giJtfBi#31",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Cunningham_Defense"
+  },
+  {
+    "PuzzleId": "TShi0",
+    "FEN": "r2qk2r/p2p3p/3B1bb1/2pQp3/4Pp2/2P2P2/PP1N2R1/2K3R1 b kq - 0 23",
+    "Moves": "g6f7 g2g8 h8g8 g1g8 f7g8 d5g8",
+    "Rating": "917",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "1750",
+    "Themes": "long mate mateIn3 middlegame sacrifice xRayAttack",
+    "GameUrl": "https://lichess.org/gR8WoUWc/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TSjMq",
+    "FEN": "2r2rk1/3Qbpp1/pq2p1p1/3p4/1P2nBP1/P3P2P/4NP2/2R2RK1 b - - 4 21",
+    "Moves": "e7f6 c1c8 f8c8 d7c8",
+    "Rating": "996",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "1525",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/WGzqOCh5/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TSkEm",
+    "FEN": "3rr3/1p1b2kp/p3pqp1/3pN2n/3P1b1P/P1NB2P1/1PR1QPK1/5R2 w - - 4 25",
+    "Moves": "g3f4 h5f4 g2g3 f4e2",
+    "Rating": "995",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "1285",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/vjdWjgPg#49",
+    "OpeningTags": ""
+  }
+]

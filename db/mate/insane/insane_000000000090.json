@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QLEMX",
+    "FEN": "1r2brk1/1p6/p3p2Q/2b1qp2/7B/3B1R2/PPP3PP/7K b - - 2 26",
+    "Moves": "g8f7 h6h7 e5g7 f3f5 e6f5 d3c4",
+    "Rating": "2434",
+    "RatingDeviation": "87",
+    "Popularity": "90",
+    "NbPlays": "706",
+    "Themes": "deflection long mate mateIn3 middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/eE0Gg53I/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QMqxJ",
+    "FEN": "QR6/5p2/2N1pk2/3p2p1/3P2Pp/8/3nr1K1/8 w - - 2 43",
+    "Moves": "g2h3 d2f3 c6b4 f3g1",
+    "Rating": "2422",
+    "RatingDeviation": "117",
+    "Popularity": "83",
+    "NbPlays": "41",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/2CWN0NIr#85",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QNGj8",
+    "FEN": "4rr2/ppq2pk1/2pb3N/3p3Q/3PR3/2P4P/PP3PP1/R5K1 b - - 0 21",
+    "Moves": "d5e4 h6f5 g7f6 h5h6 f6f5 g2g4",
+    "Rating": "2433",
+    "RatingDeviation": "80",
+    "Popularity": "82",
+    "NbPlays": "512",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/d0L1hjCx/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QNwRO",
+    "FEN": "rn3b1r/p5p1/k1Q5/Pp2p2p/3qNB2/8/2P2P2/RR3BK1 b - - 0 21",
+    "Moves": "b8c6 b1b5 d4a1 b5b6 a6a5 b6a6 a5b4 f4d2 a1c3 d2c3",
+    "Rating": "2780",
+    "RatingDeviation": "100",
+    "Popularity": "92",
+    "NbPlays": "1845",
+    "Themes": "doubleCheck fork mate mateIn5 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/saDbAyFc/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QOqIf",
+    "FEN": "4r1k1/Q4pp1/2p5/7p/3P2n1/2N2qP1/PP3P1P/5RK1 w - - 0 25",
+    "Moves": "a7a4 g4f2 f1f2 e8e1 f2f1 e1f1",
+    "Rating": "2510",
+    "RatingDeviation": "90",
+    "Popularity": "88",
+    "NbPlays": "351",
+    "Themes": "endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/vQjvJIP4#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QRMxC",
+    "FEN": "2b2rk1/5ppp/2N1pn2/qn1p4/2pP4/2P1P1P1/2B2PP1/1N1QK2R b K - 1 19",
+    "Moves": "a5a1 c2h7 f6h7 c6e7 g8h8 h1h7 h8h7 d1h5",
+    "Rating": "2510",
+    "RatingDeviation": "106",
+    "Popularity": "95",
+    "NbPlays": "161297",
+    "Themes": "anastasiaMate attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/pWIYiZ87/black#38",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "QU8U1",
+    "FEN": "3qk2r/pQr2ppp/5n2/2b1B3/6b1/8/PPP3PP/R3KBNR w KQk - 0 12",
+    "Moves": "b7c7 c5f2 e1f2 f6e4 f2e3 d8d2 e3e4 f7f5",
+    "Rating": "2443",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "2284",
+    "Themes": "attraction exposedKing mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/ZNm51htJ#23",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Ryder_Gambit"
+  },
+  {
+    "PuzzleId": "QUATT",
+    "FEN": "r2q2n1/3bbkQ1/p1pp4/1p2p3/4P3/1PNP1r2/1PP2P2/R3K1R1 b Q - 1 22",
+    "Moves": "f7e6 g7g4 e6f7 g4g6 f7f8 g6g8",
+    "Rating": "2408",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "175",
+    "Themes": "fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/zhMbh4Gh/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QXKUG",
+    "FEN": "2r3k1/pp1n1p2/4p1P1/3p4/3P4/8/q1P2r2/2QK2RR b - - 0 25",
+    "Moves": "c8c2 h1h8 g8h8 c1h6 h8g8 g6f7 g8f7 g1g7 f7e8 h6e6 e8f8 e6e7",
+    "Rating": "2413",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2685",
+    "Themes": "advancedPawn attraction deflection doubleCheck mate mateIn5 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/0LspfOzk/black#50",
+    "OpeningTags": ""
+  }
+]

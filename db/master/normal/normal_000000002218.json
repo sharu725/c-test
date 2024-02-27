@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "fbrNC",
+    "FEN": "3k3r/r2b1Bpp/p2B1p2/1pQ1p3/3p4/5N2/P1PK1PPP/7q b - - 3 27",
+    "Moves": "a7b7 d6e7",
+    "Rating": "1285",
+    "RatingDeviation": "123",
+    "Popularity": "85",
+    "NbPlays": "71",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/pVTyHgV8/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fc5jL",
+    "FEN": "1Q6/6K1/6p1/5q2/8/4k2P/8/8 b - - 3 54",
+    "Moves": "f5h3 b8b3 e3f4 b3h3",
+    "Rating": "1357",
+    "RatingDeviation": "75",
+    "Popularity": "76",
+    "NbPlays": "380",
+    "Themes": "crushing endgame master queenEndgame short skewer",
+    "GameUrl": "https://lichess.org/tm4v6fEK/black#108",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fcA2s",
+    "FEN": "1r1r2k1/5pp1/p6p/5N2/2p3P1/5PB1/P6P/K1R5 b - - 0 34",
+    "Moves": "b8b4 f5e7 g8h7 e7c6 d8d3 c6b4",
+    "Rating": "1336",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "2174",
+    "Themes": "crushing endgame fork long master masterVsMaster",
+    "GameUrl": "https://lichess.org/hP2Qhty8/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fcDJc",
+    "FEN": "2r5/5p2/4k1p1/pBrp3p/P2KbP2/2P3P1/1P1R3P/4R3 w - - 9 32",
+    "Moves": "e1e3 c5c4 b5c4 c8c4",
+    "Rating": "1395",
+    "RatingDeviation": "94",
+    "Popularity": "44",
+    "NbPlays": "31",
+    "Themes": "endgame master mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/zVu4GBrN#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fcIGc",
+    "FEN": "3n4/2K3pp/1P3k2/7P/5p2/8/4p3/3R4 w - - 0 45",
+    "Moves": "d1e1 f4f3 c7d8 f3f2 e1e2 f2f1q",
+    "Rating": "1388",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "5238",
+    "Themes": "advancedPawn crushing endgame long master promotion sacrifice",
+    "GameUrl": "https://lichess.org/qvu4jwXN#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fcKdx",
+    "FEN": "5rk1/5p1p/1p4p1/4p3/3rB1Q1/3P3P/5q2/1R4RK w - - 2 36",
+    "Moves": "b1b6 d4e4 g4e4 f2b6",
+    "Rating": "1358",
+    "RatingDeviation": "389",
+    "Popularity": "67",
+    "NbPlays": "3",
+    "Themes": "crushing discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/iskObsxc#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fcLh9",
+    "FEN": "1k4q1/pp1Q2r1/2p2b2/3np3/4Bp2/2P5/PP3PPB/3R3K w - - 6 31",
+    "Moves": "e4d5 g7d7 d5g8 d7d1",
+    "Rating": "1259",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "477",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/RbP4pCwe#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fcQlx",
+    "FEN": "2k5/1p2bpp1/1pp1p1p1/6Pn/2P1P1KP/P1Br1B1R/1P3r2/R7 b - - 4 26",
+    "Moves": "d3f3 h3f3 f2g2 g4h3",
+    "Rating": "1263",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "259",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/MU7PGEDN/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fcUpr",
+    "FEN": "1rb2rk1/2q1bp1p/2p2npP/ppn1p1B1/P3P3/2N1Q3/BPP2PP1/2KR2NR b - - 1 15",
+    "Moves": "b5a4 g5f6 e7f6 e3c5",
+    "Rating": "1231",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2278",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/YrtVMFYl/black#30",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  }
+]

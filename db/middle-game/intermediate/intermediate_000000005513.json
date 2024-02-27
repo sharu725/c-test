@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DFRFS",
+    "FEN": "r4rk1/1p2Qppp/2pp1n2/p3p2n/1qB1P3/3PBbP1/PPP2P2/1R2R1K1 b - - 5 18",
+    "Moves": "b7b5 c2c3 b5c4 c3b4",
+    "Rating": "1583",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "1",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/hdEjtGzc/black#36",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DFS0z",
+    "FEN": "rn5k/p3q2p/b3p1pP/2ppNrP1/5P2/2Q1P3/PPP5/R3K2R b KQ - 0 22",
+    "Moves": "h8g8 e5g6 h7g6 h6h7 e7h7 h1h7",
+    "Rating": "1509",
+    "RatingDeviation": "82",
+    "Popularity": "67",
+    "NbPlays": "67",
+    "Themes": "advancedPawn crushing kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/XqgJqbks/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DFULD",
+    "FEN": "rn1qk2r/1b1pnN2/p3p1pp/1pp1P2Q/3P1P2/P2B4/P1P3PP/R1B2RK1 b kq - 0 12",
+    "Moves": "e8f7 d3g6 e7g6 f4f5 d8g8 f5g6",
+    "Rating": "1441",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "994",
+    "Themes": "crushing doubleCheck long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/uVLfwzlX/black#24",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "DFUeO",
+    "FEN": "3r2k1/pp3rpp/7n/3Npp2/2P3b1/BP1BP3/P4KPP/R6R w - - 2 20",
+    "Moves": "e3e4 f5e4 f2e3 e4d3",
+    "Rating": "1474",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "discoveredAttack equality middlegame short",
+    "GameUrl": "https://lichess.org/YXn9mM23#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DFWRH",
+    "FEN": "2kr1b1r/pbp1pp1p/1p2q3/6p1/4Nn2/1P1B1Q2/PBPP1PPP/R4RK1 b - - 3 14",
+    "Moves": "f7f5 e4g5 b7f3 g5e6",
+    "Rating": "1591",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "803",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/JzuxpFsO/black#28",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "DFXbt",
+    "FEN": "3r1r1k/1p3pbp/p1p3p1/q2n4/8/1BP1BP2/PPQ3PP/3R1RK1 w - - 2 18",
+    "Moves": "e3d4 g7d4 d1d4 d5e3",
+    "Rating": "1428",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "1251",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/oTQgSVJe#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "DFY3x",
+    "FEN": "2bk3r/rp3p1p/p4p2/b2N4/8/8/PP2BPPP/2RK3R b - - 0 18",
+    "Moves": "h8g8 c1c8 d8c8 d5e7 c8c7 e7g8",
+    "Rating": "1433",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "11551",
+    "Themes": "attraction crushing exposedKing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/my9DajgE/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Open"
+  },
+  {
+    "PuzzleId": "DFYfw",
+    "FEN": "2kr1b1r/ppp2pp1/4pn1p/4nq2/1P1PN3/2PQBP2/P3N1PP/R4RK1 w - - 1 14",
+    "Moves": "d3b5 e5f3 f1f3 f5b5",
+    "Rating": "1558",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1250",
+    "Themes": "crushing discoveredAttack master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/Io2g5lMH#27",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Scandinavian_Variation"
+  },
+  {
+    "PuzzleId": "DFYxv",
+    "FEN": "1rn2rk1/qpNb1ppp/p7/4P3/2Rb1P2/5B2/PP4PP/3Q1R1K b - - 8 21",
+    "Moves": "d7b5 c7b5 a6b5 c4d4",
+    "Rating": "1572",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "5727",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Mt56zRTs/black#42",
+    "OpeningTags": ""
+  }
+]

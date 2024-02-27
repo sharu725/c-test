@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "y9Mos",
+    "FEN": "r1b2rk1/pp3ppp/8/2p1q3/8/1Q2P3/PP4PP/3R1RK1 b - - 1 19",
+    "Moves": "b7b6 b3f7 f8f7 d1d8 e5e8 d8e8 f7f8 f1f8",
+    "Rating": "1735",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "5638",
+    "Themes": "kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/4ePK3ooV/black#38",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Two_Pawn_Attack"
+  },
+  {
+    "PuzzleId": "y9Zw5",
+    "FEN": "3r2r1/ppq2p1p/3b4/2p1pQ1k/4P3/2P3R1/PP3P1P/R5K1 b - - 5 23",
+    "Moves": "h5h6 f5h3",
+    "Rating": "1667",
+    "RatingDeviation": "86",
+    "Popularity": "86",
+    "NbPlays": "553",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/EBlFbyqG/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "y9cQ7",
+    "FEN": "rn2r1k1/p4p1p/1p3p2/2p2N2/8/1qPQ4/5PPP/5RK1 b - - 1 19",
+    "Moves": "b8c6 d3g3 g8f8 g3g7",
+    "Rating": "1607",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "218",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/dPLO538A/black#38",
+    "OpeningTags": "French_Defense French_Defense_Steiner_Variation"
+  },
+  {
+    "PuzzleId": "y9g9D",
+    "FEN": "r3r1k1/5pb1/p3pqb1/1p1p4/3B2P1/1B3N2/PPP4R/2K4R b - - 3 23",
+    "Moves": "f6f3 h2h8 g7h8 h1h8",
+    "Rating": "1664",
+    "RatingDeviation": "290",
+    "Popularity": "54",
+    "NbPlays": "3",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/mrkGBTN5/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "y9oy2",
+    "FEN": "8/8/4k2p/N5p1/3PKpP1/2P2P1P/8/3n4 w - - 6 45",
+    "Moves": "c3c4 d1f2",
+    "Rating": "1661",
+    "RatingDeviation": "89",
+    "Popularity": "43",
+    "NbPlays": "219",
+    "Themes": "endgame knightEndgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/Al7JcZ7L#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "y9p1Y",
+    "FEN": "r2q2rk/6pp/p1pP1p2/1p2R3/6QN/8/3N1PPP/6K1 b - - 0 26",
+    "Moves": "f6e5 h4g6 h7g6 g4h3 d8h4 h3h4",
+    "Rating": "1695",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "10818",
+    "Themes": "endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/p3x9eRY4/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "y9wGz",
+    "FEN": "r3k2r/ppqnbpp1/2p2np1/3pN1B1/3P4/P1N1P3/1P3PPP/R2Q1RK1 w kq - 2 13",
+    "Moves": "e5d7 c7h2",
+    "Rating": "1630",
+    "RatingDeviation": "84",
+    "Popularity": "59",
+    "NbPlays": "396",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Z8spK2jO#25",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Leningrad_Variation"
+  },
+  {
+    "PuzzleId": "yA09B",
+    "FEN": "r1b2rk1/ppp1q1pR/4ppQ1/3p4/5P2/2P1P1P1/Pn1NK1P1/R7 b - - 3 18",
+    "Moves": "e7f7 h7h8 g8h8 a1h1 h8g8 g6h7",
+    "Rating": "1720",
+    "RatingDeviation": "75",
+    "Popularity": "79",
+    "NbPlays": "61",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/Wmu0ypqj/black#36",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "yA3NK",
+    "FEN": "r3r1k1/pP3pbp/5np1/2P4q/3N1Bn1/2N3P1/P4P2/2RQRbKB w - - 1 24",
+    "Moves": "b7a8q h5h2 g1f1 h2f2",
+    "Rating": "1665",
+    "RatingDeviation": "105",
+    "Popularity": "80",
+    "NbPlays": "41",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/jg8HbM1k#47",
+    "OpeningTags": ""
+  }
+]

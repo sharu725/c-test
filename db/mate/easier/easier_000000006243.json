@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "NZR25",
+    "FEN": "r1b2rk1/ppq1bppp/2n1p3/4P1N1/4Q3/2N1B3/PP3PPP/R2R2K1 b - - 4 15",
+    "Moves": "c7e5 e4h7",
+    "Rating": "1026",
+    "RatingDeviation": "83",
+    "Popularity": "93",
+    "NbPlays": "354",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/v3MKUsPP/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "NZRQz",
+    "FEN": "2r5/p7/kp1B3p/1b1pP3/2qP1P1Q/8/2p1NKPP/2R1N3 w - - 5 35",
+    "Moves": "h4g3 c4e2 f2g1 e2f1",
+    "Rating": "1036",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "369",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/8n3HLqYx#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NZSTd",
+    "FEN": "4B3/RP2Rp2/4prk1/8/6P1/8/5rK1/8 w - - 1 44",
+    "Moves": "g2g3 f6f3 g3h4 f2h2",
+    "Rating": "1026",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "287",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/blonVAam#87",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NZWFQ",
+    "FEN": "2r2bk1/1br2B1p/6pP/p1p3P1/4qQ2/PP3R2/2P5/1K4R1 b - - 0 32",
+    "Moves": "g8h8 f4f6 f8g7 h6g7",
+    "Rating": "1049",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "3136",
+    "Themes": "advancedPawn kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/kC5GbkSY/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NZYAf",
+    "FEN": "5rr1/p1n5/1p2k3/3PN1p1/2P1Kp2/8/P2B1P2/6R1 b - - 0 39",
+    "Moves": "e6d6 d2b4",
+    "Rating": "1095",
+    "RatingDeviation": "76",
+    "Popularity": "62",
+    "NbPlays": "106",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/DtEuQbJr/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NZaLK",
+    "FEN": "6r1/5p1k/5Pp1/4P1Rp/1pp1PK1P/5Q2/1P3qP1/8 b - - 5 40",
+    "Moves": "f2b2 g5h5 g6h5 f3h5",
+    "Rating": "1122",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "1412",
+    "Themes": "endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/h3abVPyd/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NZbLU",
+    "FEN": "4q2k/7p/b4np1/p1P1b1B1/3n4/P1Q5/B4PP1/R6K b - - 2 29",
+    "Moves": "d4e2 g5f6 e5f6 c3f6",
+    "Rating": "1051",
+    "RatingDeviation": "88",
+    "Popularity": "88",
+    "NbPlays": "272",
+    "Themes": "mate mateIn2 middlegame short xRayAttack",
+    "GameUrl": "https://lichess.org/QJM9SAd8/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NZiRC",
+    "FEN": "5q1k/pN4pp/2Q5/4P3/8/P2n4/5PPP/6K1 w - - 1 32",
+    "Moves": "c6d6 f8f2 g1h1 f2e1",
+    "Rating": "1114",
+    "RatingDeviation": "108",
+    "Popularity": "48",
+    "NbPlays": "20",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/wKJM3c1y#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NZiS0",
+    "FEN": "8/1p5R/pkn5/4p3/5pB1/2P2N2/PP3qP1/K6Q w - - 0 41",
+    "Moves": "h1h3 f2f1 f3e1 f1e1 g4d1 e1d1",
+    "Rating": "1048",
+    "RatingDeviation": "91",
+    "Popularity": "81",
+    "NbPlays": "55",
+    "Themes": "backRankMate endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/y96D8lYt#81",
+    "OpeningTags": ""
+  }
+]

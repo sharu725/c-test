@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PNV93",
+    "FEN": "1r2r1k1/pp1b1ppp/3q2n1/4p3/2PNQ3/1P4P1/P3RPBP/3R2K1 w - - 0 20",
+    "Moves": "e2d2 e5d4 e4d4 d6d4",
+    "Rating": "1287",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "145",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/0psFDEzv#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PNVyT",
+    "FEN": "r1r5/1p2qpk1/p1n1p1pR/3pP1N1/3P1PP1/2PQ4/8/1N3RK1 b - - 0 22",
+    "Moves": "g7h6 d3h3 h6g7 h3h7 g7f8 h7h8",
+    "Rating": "1376",
+    "RatingDeviation": "104",
+    "Popularity": "64",
+    "NbPlays": "62",
+    "Themes": "long master mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/LdXccouU/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PNXl5",
+    "FEN": "2kr3r/nppb1pp1/p3pq1p/8/1P1PQ3/2PB1NP1/P4PP1/R4RK1 w - - 1 16",
+    "Moves": "d3a6 d7c6",
+    "Rating": "1388",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "715",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/349oIo2A#31",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "PNZDy",
+    "FEN": "r2r2k1/1bb1qpp1/p3pn1p/8/npNB3Q/5NP1/1PP2PBP/3RR1K1 b - - 1 20",
+    "Moves": "d8d7 d4f6",
+    "Rating": "1304",
+    "RatingDeviation": "284",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/sVH4n1rK/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PNZlI",
+    "FEN": "6k1/6pp/1r4qn/1B2N3/2P5/P1Q3nb/1B3rP1/4R1K1 w - - 0 29",
+    "Moves": "e5g6 f2g2",
+    "Rating": "1380",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "172",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/9w2MPKjF#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PNcZm",
+    "FEN": "r3k2r/2pq1ppp/p2p1b2/1p1Np3/3nP1b1/1B1P1N1P/PPP2P2/R2Q1RK1 w kq - 0 14",
+    "Moves": "h3g4 d7g4 g1h2 d4f3 d1f3 g4f3",
+    "Rating": "1339",
+    "RatingDeviation": "76",
+    "Popularity": "81",
+    "NbPlays": "401",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/rssjq0Qn#27",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Spanish_Variation"
+  },
+  {
+    "PuzzleId": "PNeMY",
+    "FEN": "rnb2rk1/1ppq2pp/3p1n2/p1b1p1B1/P3P3/2P2NP1/1P3PBP/RN1Q1RK1 b - - 6 10",
+    "Moves": "f6e4 d1d5 d7f7 d5e4",
+    "Rating": "1249",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "2342",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/NJawOAox/black#20",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Leonardis_Variation"
+  },
+  {
+    "PuzzleId": "PNfDH",
+    "FEN": "r4r1k/pppb2pp/2nb4/3QppNq/2B4B/2P5/PPP2PPP/R4RK1 b - - 3 15",
+    "Moves": "h5h4 d5g8 f8g8 g5f7",
+    "Rating": "1382",
+    "RatingDeviation": "88",
+    "Popularity": "86",
+    "NbPlays": "1449",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short smotheredMate",
+    "GameUrl": "https://lichess.org/rLhSkTgV/black#30",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "PNhGv",
+    "FEN": "r1bqk2r/3p3p/p1p1pbp1/2p1N2Q/8/3P4/PPP2PPP/RN3RK1 w kq - 0 12",
+    "Moves": "e5g6 h7g6",
+    "Rating": "1217",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "6231",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/OnHNn73O#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  }
+]

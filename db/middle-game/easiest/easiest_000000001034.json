@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "333dp",
+    "FEN": "1n2kb1r/r3qBpp/p7/1p1Qp1p1/4P3/8/PPP2PPP/2KR3R b k - 2 14",
+    "Moves": "e7f7 d5d8",
+    "Rating": "888",
+    "RatingDeviation": "82",
+    "Popularity": "97",
+    "NbPlays": "387",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/naQQFM68/black#28",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "335SM",
+    "FEN": "4r2k/1b1R1p1p/p4pr1/2p1p2q/2P4Q/P4N1P/1P3PPK/6R1 b - - 1 24",
+    "Moves": "g6g2 g1g2 h5h4 f3h4",
+    "Rating": "862",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "237",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/dSBxLpkV/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "335YM",
+    "FEN": "r4rk1/4n2p/1p3p2/p1p3p1/2P1Ppq1/2Q2NPn/PP1R1BKP/3R4 b - - 1 24",
+    "Moves": "f8d8 d2d8 a8d8 d1d8",
+    "Rating": "987",
+    "RatingDeviation": "121",
+    "Popularity": "30",
+    "NbPlays": "17",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/TkL1VKwP/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "335wT",
+    "FEN": "k2r3r/1b3Q1p/q3NP2/3pp3/2n5/8/1PP3PP/1K1R3R b - - 1 27",
+    "Moves": "a6b5 e6c7 a8a7 c7b5",
+    "Rating": "911",
+    "RatingDeviation": "81",
+    "Popularity": "95",
+    "NbPlays": "1073",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/ijy7R3SX/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3367k",
+    "FEN": "2r3k1/1p3p2/6pp/1q1p4/1b6/2B4Q/PP2rPPP/2KR3R b - - 7 25",
+    "Moves": "b4c3 h3c8 g8h7 c8c3",
+    "Rating": "994",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "2413",
+    "Themes": "crushing fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/6LLfUjgN/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "336C0",
+    "FEN": "2kr3r/1ppb1p2/p1n5/1N1B4/Q7/8/Pq3PPP/4RK1R b - - 0 19",
+    "Moves": "a6b5 a4a8 c6b8 d5b7",
+    "Rating": "850",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "545",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/9xPjC1Vo/black#38",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Vienna_Variation"
+  },
+  {
+    "PuzzleId": "337FI",
+    "FEN": "r1kbr3/2pq1p1p/B1Np2b1/3P4/1Q6/BP2R1P1/P4P1P/6K1 b - - 0 35",
+    "Moves": "a8a6 b4b8",
+    "Rating": "865",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "185",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/XCIWshcn/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "337Ut",
+    "FEN": "r2r2k1/5p1p/n5p1/1pnR4/p7/P1B2N1P/2P2PP1/3R2K1 b - - 2 23",
+    "Moves": "c5e4 d5d8 a8d8 d1d8",
+    "Rating": "817",
+    "RatingDeviation": "106",
+    "Popularity": "78",
+    "NbPlays": "50",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/3ogYjPwE/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "337Wh",
+    "FEN": "6k1/3p3p/4p1p1/7q/4P1n1/r1bQ4/P3K1P1/R1R3B1 w - - 0 27",
+    "Moves": "c1c3 g4e5 e2d2 e5d3",
+    "Rating": "979",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "1665",
+    "Themes": "advantage discoveredAttack master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/QR5ZxtfE#53",
+    "OpeningTags": ""
+  }
+]

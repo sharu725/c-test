@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "z7dSQ",
+    "FEN": "4r1k1/pR2r1pp/5p2/3p3Q/3P3P/2PqR3/PP3PP1/6K1 b - - 0 29",
+    "Moves": "e7e3 h5f7 g8h8 f7g7",
+    "Rating": "1579",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "6512",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/7bvXefSY/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "z7dof",
+    "FEN": "3r4/p4p1k/1p2pQpp/2qr4/5P2/1P2P2R/P5PP/4R1K1 b - - 5 26",
+    "Moves": "d8d7 h3h6 h7h6 f6h8",
+    "Rating": "1441",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "20456",
+    "Themes": "attraction endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/75Oc4sWP/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "z7dvw",
+    "FEN": "r1bq2nr/ppp1k1b1/3p3p/6BQ/3nP3/2N3P1/PPP4P/R4RK1 b - - 3 13",
+    "Moves": "h6g5 h5f7",
+    "Rating": "1429",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "788",
+    "Themes": "master masterVsMaster mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/eSe99CG8/black#26",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Fischer_Defense"
+  },
+  {
+    "PuzzleId": "z7ebI",
+    "FEN": "3q1Q1r/1b1p2k1/rp2pR2/2p1P3/2Pn3P/2NB4/PB1P4/2KR4 b - - 0 27",
+    "Moves": "h8f8 d1g1 b7g2 g1g2 g7h8 f6h6",
+    "Rating": "1421",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "789",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/eynhi6mh/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "z7kFv",
+    "FEN": "r1b2rk1/pp1n2p1/2n1QP1p/3p4/5q2/2PB3P/PP3PP1/RN2R1K1 b - - 0 15",
+    "Moves": "g8h8 f6g7 h8g7 e6g6 g7h8 g6h7",
+    "Rating": "1492",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "196",
+    "Themes": "advancedPawn attraction kingsideAttack long mate mateIn3 opening",
+    "GameUrl": "https://lichess.org/EY0r6Aij/black#30",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "z7lnJ",
+    "FEN": "3rk3/4P1p1/p1Qp1q1p/2p3b1/8/P7/8/4R2K b - - 2 40",
+    "Moves": "e8f7 e7e8q d8e8 c6e8",
+    "Rating": "1446",
+    "RatingDeviation": "80",
+    "Popularity": "80",
+    "NbPlays": "55",
+    "Themes": "advancedPawn endgame mate mateIn2 promotion short",
+    "GameUrl": "https://lichess.org/kIysms1U/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "z7ni4",
+    "FEN": "2r4k/8/7R/5N2/1b6/5B1P/6PK/1rq5 b - - 0 41",
+    "Moves": "h8g8 f3d5 g8f8 h6h8",
+    "Rating": "1459",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "960",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/YQo9APoV/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "z7qva",
+    "FEN": "r4rk1/pp2bppp/2p1p3/q7/2nPNB2/2PQ4/PPB2PPP/R5K1 b - - 4 18",
+    "Moves": "c4b2 e4f6 g7f6 d3h7",
+    "Rating": "1529",
+    "RatingDeviation": "83",
+    "Popularity": "88",
+    "NbPlays": "110",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/rRK5J4Ic/black#36",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Gubinsky-Melts_Defense"
+  },
+  {
+    "PuzzleId": "z7rc1",
+    "FEN": "N1kr1b1r/1p2q3/p1n1Qp1p/3p2p1/3P4/6B1/PPP2PPP/R3R1K1 b - - 4 18",
+    "Moves": "e7e6 a8b6",
+    "Rating": "1440",
+    "RatingDeviation": "94",
+    "Popularity": "89",
+    "NbPlays": "117",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Y2VkorZs/black#36",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  }
+]

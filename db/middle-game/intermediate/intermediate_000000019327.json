@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "kXcM5",
+    "FEN": "2b2rk1/1Rb2qpp/p1p2r2/P1Pp1pQ1/3PpN2/2B1P3/5PPP/5RK1 w - - 1 23",
+    "Moves": "b7a7 c7f4 a7f7 f4g5",
+    "Rating": "1583",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2935",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/WKyX7Gtm#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kXcOo",
+    "FEN": "r1b1k2r/p1p2pp1/4p2p/2p5/3Pq3/8/PPP1NPP1/R2QR1K1 w kq - 0 15",
+    "Moves": "d4c5 c8b7 f2f3 e4e3",
+    "Rating": "1475",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "243",
+    "Themes": "crushing middlegame quietMove short",
+    "GameUrl": "https://lichess.org/kmlgsQrY#29",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "kXclY",
+    "FEN": "1k1r3r/pp2qp2/1b1p1n1p/n2P2p1/4P3/PBN2N1P/1B3P2/2RQ1RK1 w - - 4 19",
+    "Moves": "f3d4 b6d4 d1d4 a5b3 d4e3 b3c1",
+    "Rating": "1483",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "12338",
+    "Themes": "advantage capturingDefender fork long middlegame",
+    "GameUrl": "https://lichess.org/2m49hUI5#37",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "kXdnW",
+    "FEN": "r2qr1k1/pp1n2pp/2p2p2/3p4/3P3R/5Q1P/PPP1N1P1/R5K1 b - - 3 17",
+    "Moves": "d7b6 f3h5",
+    "Rating": "1542",
+    "RatingDeviation": "97",
+    "Popularity": "6",
+    "NbPlays": "25",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/CHai1eJs/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "kXip2",
+    "FEN": "r5k1/1pp3pp/p2np2r/3pNp1n/3P1P1q/2PBQP2/PP1N2RP/R6K w - - 6 21",
+    "Moves": "a1g1 h5g3 g2g3 h4h2",
+    "Rating": "1457",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "246",
+    "Themes": "deflection kingsideAttack mate mateIn2 middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/9rgIzHdm#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kXj6V",
+    "FEN": "r3k2r/pp1qb3/4p3/3pPp2/3PnBpp/1QN5/PP4PP/R4RK1 b kq - 1 19",
+    "Moves": "e7g5 c3e4 d5e4 f4g5",
+    "Rating": "1554",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "1613",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/RAhGtXZw/black#38",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Mason_Attack"
+  },
+  {
+    "PuzzleId": "kXjVo",
+    "FEN": "r2qk2r/pp3pp1/2nbpnp1/3p4/2pP4/P1N1PNB1/1PP2PPP/R2QR1K1 b kq - 5 11",
+    "Moves": "d8c7 c3b5 d6g3 b5c7",
+    "Rating": "1553",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "1161",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/zjjTm2SP/black#22",
+    "OpeningTags": "Rapport-Jobava_System Rapport-Jobava_System_Other_variations"
+  },
+  {
+    "PuzzleId": "kXjvU",
+    "FEN": "r3r1k1/5pp1/p2R2np/1p6/4N3/1Q3PPq/P4K1P/7R b - - 1 26",
+    "Moves": "a6a5 d6g6 e8e4 f3e4",
+    "Rating": "1524",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "2185",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/plAmFy9Q/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kXk1k",
+    "FEN": "r3qk2/pp1n1ppp/2pb1n2/3pN1B1/3P4/2N5/PPP1QPPP/4R1K1 b - - 6 15",
+    "Moves": "d7e5 d4e5 d6e5 e2e5 e8e5 e1e5",
+    "Rating": "1525",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "368",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/qqjtEZVm/black#30",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  }
+]

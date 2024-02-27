@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "H59G0",
+    "FEN": "2k2bnr/ppp1pppp/8/8/3rNP1q/5P1b/PPP1B2P/R1BQ2KR w - - 0 12",
+    "Moves": "d1d4 h4e1 e2f1 e1f1",
+    "Rating": "1205",
+    "RatingDeviation": "352",
+    "Popularity": "-33",
+    "NbPlays": "4",
+    "Themes": "fork mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/skJj9bNS#23",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "H5D2O",
+    "FEN": "4Q3/p5pp/1qp2b1k/8/P5P1/2pp1N1P/5PK1/8 b - - 0 36",
+    "Moves": "b6d8 e8h5",
+    "Rating": "1339",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "232",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/Ji1gY4RA/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "H5Dz5",
+    "FEN": "rnb3R1/pp2kp1p/4pb2/2P5/8/2PQ1N2/qP2Br1P/2KR4 b - - 0 15",
+    "Moves": "b8c6 d3d6",
+    "Rating": "1218",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "305",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/V0o5fu1y/black#30",
+    "OpeningTags": "French_Defense French_Defense_Rubinstein_Variation"
+  },
+  {
+    "PuzzleId": "H5Glx",
+    "FEN": "2k5/1bp1Q3/1p6/p6p/1P4n1/P1qP2B1/2P2PP1/6K1 w - - 0 26",
+    "Moves": "b4a5 c3a1 e7e1 a1e1",
+    "Rating": "1377",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "13179",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/7lSy0CX5#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "H5KEG",
+    "FEN": "r3k1nr/pppn4/4P3/2b4p/5Q2/4P1P1/Pq2BK1P/RN5R b kq - 0 17",
+    "Moves": "b2a1 f4f7 e8d8 f7d7",
+    "Rating": "1265",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "8790",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/uQVOa3fP/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "H5KEK",
+    "FEN": "6rk/6p1/2p1Q1Pp/1p1p3P/pq1P4/4R3/2P5/2K5 b - - 3 32",
+    "Moves": "b4d4 e6g8 h8g8 e3e8",
+    "Rating": "1350",
+    "RatingDeviation": "79",
+    "Popularity": "83",
+    "NbPlays": "200",
+    "Themes": "attraction endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/0wKQc7fu/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "H5RKG",
+    "FEN": "rn3rk1/pb3ppp/1p6/2b5/3N4/P1N1B1qP/1PP1B1P1/R2Q1RK1 w - - 3 16",
+    "Moves": "e3f2 g3g2",
+    "Rating": "1394",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "192",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/rIuj4bYE#31",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "H5WIm",
+    "FEN": "4r1rk/3n1ppQ/p4n2/1p2pPB1/2pqPP2/1P1B2RR/P1P4P/7K b - - 0 24",
+    "Moves": "f6h7 h3h7 h8h7 g3h3",
+    "Rating": "1239",
+    "RatingDeviation": "146",
+    "Popularity": "54",
+    "NbPlays": "13",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/TynvKIoW/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "H5YA0",
+    "FEN": "1k1r1b1r/pb1p1ppp/1pq1pn2/1N6/1P6/P2QPN2/2P2PPP/R1BR2K1 w - - 1 14",
+    "Moves": "f3e5 c6g2",
+    "Rating": "1291",
+    "RatingDeviation": "307",
+    "Popularity": "-41",
+    "NbPlays": "5",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/I7MPVQVe#27",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Benoni_Gambit_Accepted"
+  }
+]

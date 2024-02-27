@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "1HOE3",
+    "FEN": "1r4k1/p4ppp/5b2/1q2p3/4Q3/1P4P1/PB1rPPKP/RR6 w - - 9 20",
+    "Moves": "e2e3 b5e2 e4f5 d2b2 b1b2 e2b2",
+    "Rating": "1636",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "465",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/51hNndwm#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1HOcl",
+    "FEN": "4rrk1/ppp4p/5qp1/3Pn3/4Q3/2P2N2/PP3PPP/R3K2R w KQ - 1 19",
+    "Moves": "e1c1 e5f3 e4f3 f6g5 d1d2 f8f3",
+    "Rating": "1711",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1223",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/7qXMPKLw#37",
+    "OpeningTags": "French_Defense French_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "1HPi1",
+    "FEN": "r1bq1rk1/p3bppp/1p2pn2/8/Q4B2/3B1N2/PPP2PPP/3R1RK1 b - - 5 15",
+    "Moves": "d8e8 d3b5 e8b5 a4b5",
+    "Rating": "1612",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "91",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/g1oyK637/black#30",
+    "OpeningTags": "French_Defense French_Defense_Two_Knights_Variation"
+  },
+  {
+    "PuzzleId": "1HPtW",
+    "FEN": "r4rk1/pp1b1pbp/2p3q1/4P3/3PN1p1/1B1Q2B1/PPP4P/5RK1 b - - 2 20",
+    "Moves": "d7f5 f1f5 g6f5 e4f6 f5f6 e5f6",
+    "Rating": "1733",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "69",
+    "Themes": "crushing kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/toTQSd5a/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1HSuX",
+    "FEN": "r2q1rk1/p3bp1p/2p1p1p1/3pB2n/6Q1/5R1P/PPP1NPP1/1R4K1 b - - 1 19",
+    "Moves": "e7f6 g4h5 f6e5 h5e5",
+    "Rating": "1738",
+    "RatingDeviation": "151",
+    "Popularity": "36",
+    "NbPlays": "6",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/4cej64ls/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+  },
+  {
+    "PuzzleId": "1HTGt",
+    "FEN": "r1q1r3/5p2/p2p1Nkp/Pp1P2p1/1PpQbp2/2P4P/5PP1/4RR1K w - - 3 31",
+    "Moves": "f6e8 c8h3 h1g1 h3g2",
+    "Rating": "1630",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "56",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/HwAI2mB4#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1HTeQ",
+    "FEN": "1r6/5pk1/3p1np1/rnpPp3/p3P3/PqN4P/1PB1QPP1/1R3RK1 b - - 1 25",
+    "Moves": "b5c3 b2c3 b3a3 b1b8",
+    "Rating": "1631",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "1057",
+    "Themes": "crushing discoveredAttack middlegame short skewer",
+    "GameUrl": "https://lichess.org/iJmws5KJ/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1HV5O",
+    "FEN": "4r1kr/3n1p2/2p2q1p/p4Npb/1b1PP3/1P3PBP/2B1QP2/1R1R2K1 w - - 3 30",
+    "Moves": "g1g2 f6f5 e4f5 e8e2",
+    "Rating": "1605",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "98",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/VBOGX03U#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1HVt9",
+    "FEN": "r3qrk1/p2b2pp/1p1p1n2/n1pPp1N1/2P1P3/2PBB2P/4QRP1/1R4K1 b - - 2 22",
+    "Moves": "e8h5 f2f6 h5e2 f6f8 a8f8 d3e2",
+    "Rating": "1753",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "10496",
+    "Themes": "advantage kingsideAttack long master middlegame",
+    "GameUrl": "https://lichess.org/zWefj9ie/black#44",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "AC7D6",
+    "FEN": "1k1r3r/pp4b1/6q1/3p4/2Pn1p2/3Q4/P2N1PPP/3R1RK1 w - - 3 22",
+    "Moves": "d3g6 d4e2 g1h1 h8h2 h1h2 d8h8 g6h7 h8h7",
+    "Rating": "1389",
+    "RatingDeviation": "84",
+    "Popularity": "73",
+    "NbPlays": "397",
+    "Themes": "anastasiaMate attraction mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/7AwYL07F#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AC7S8",
+    "FEN": "r2q2rk/1p2p2p/p2p1p2/2pP1P2/2Pb1Pb1/2NQ2NP/PP4P1/R4R1K w - - 1 17",
+    "Moves": "h3g4 g8g4 g3e2 g4h4 d3h3 h4h3",
+    "Rating": "1354",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "11847",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/vvcuO2rK#33",
+    "OpeningTags": "Trompowsky_Attack Trompowsky_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "AC7YD",
+    "FEN": "r1b1k2r/p2pqpbp/2pQpnp1/8/2B1P3/1P6/PBP2PPP/RN2K2R w KQkq - 2 10",
+    "Moves": "b2e5 e7d6 e5d6 f6e4",
+    "Rating": "1235",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "1010",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/pHKgFsXj#19",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Open"
+  },
+  {
+    "PuzzleId": "AC7iF",
+    "FEN": "r1bq1r2/2p1bpnk/p2pP1pB/np1P4/8/3Q1N2/PPB2PPP/RN2R1K1 w - - 1 16",
+    "Moves": "f3g5 e7g5 h6g7 h7g7",
+    "Rating": "1262",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2815",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/5iZABd2c#31",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "AC8Sw",
+    "FEN": "r3k2r/1p1q1pp1/p2b2n1/3Q4/1P5p/P3P2P/4BP1N/R1B2RK1 w kq - 1 18",
+    "Moves": "e2g4 d6h2 g1h2 d7d5",
+    "Rating": "1310",
+    "RatingDeviation": "97",
+    "Popularity": "-43",
+    "NbPlays": "27",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/hKn94Oob#35",
+    "OpeningTags": "Tarrasch_Defense Tarrasch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "AC8iW",
+    "FEN": "3r2k1/bppq2pp/p4r2/3N1P1b/8/P2Q1P1P/1PB4K/R4R2 b - - 0 23",
+    "Moves": "d7d5 c2b3 h5f7 b3d5",
+    "Rating": "1377",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "4548",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/iFlYtJ5T/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AC9eS",
+    "FEN": "5rn1/2R4p/p4k1K/4ppr1/8/1P1p2P1/P5QP/4R1N1 w - - 3 37",
+    "Moves": "h6h7 g5h5",
+    "Rating": "1346",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "326",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/0r1tE93H#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AC9rX",
+    "FEN": "r5r1/5kp1/3b1p1p/3p1b2/2pP1P1P/pPB1P1N1/P2K2R1/6R1 b - - 1 28",
+    "Moves": "g7g6 g3f5 g6f5 g2g8 a8g8 g1g8",
+    "Rating": "1299",
+    "RatingDeviation": "179",
+    "Popularity": "63",
+    "NbPlays": "24",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/lq3LDAMi/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ACC0F",
+    "FEN": "1r3b1k/5q1p/p1p1bpp1/P3p3/1PB1P3/1Q2N2P/5PP1/3R2K1 b - - 0 31",
+    "Moves": "b8b4 c4e6 b4b3 e6f7",
+    "Rating": "1202",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "103",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/B7Rm6B4L/black#62",
+    "OpeningTags": ""
+  }
+]

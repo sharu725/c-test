@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "36Yrw",
+    "FEN": "r2r2k1/pp1b1ppp/1n2p3/n1B1P3/8/1BP2N2/P4PPP/3R1RK1 b - - 8 17",
+    "Moves": "a5c4 b3c4 b6c4 c5e7 c4b6 e7d8",
+    "Rating": "2163",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "181",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/N7mWq6EV/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "36Zh2",
+    "FEN": "5rk1/p2r1ppp/Bqpbpn2/3p1bB1/Q7/1NP1P3/PP3PPP/R4RK1 w - - 4 16",
+    "Moves": "b3d4 f6e4 a4c6 b6c6",
+    "Rating": "2165",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "1322",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/0XrB7C8G#31",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Steinitz_Countergambit"
+  },
+  {
+    "PuzzleId": "36aOl",
+    "FEN": "r4bnr/pppk1R2/2npq1Qp/8/4P2P/2NP4/PPP3P1/R1B3K1 b - - 10 17",
+    "Moves": "c6e7 h4h5 e6g6 h5g6",
+    "Rating": "2392",
+    "RatingDeviation": "97",
+    "Popularity": "55",
+    "NbPlays": "55",
+    "Themes": "advantage middlegame pin quietMove short",
+    "GameUrl": "https://lichess.org/Ev1Ud8Av/black#34",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kieseritzky_Gambit"
+  },
+  {
+    "PuzzleId": "36aqH",
+    "FEN": "2r1brk1/pp5n/1q2p1N1/1n1p1pbQ/3P4/2PB2N1/PP3PPP/R3R1K1 b - - 5 20",
+    "Moves": "f8f6 g6e7 g8h8 e7c8 b6d8 h5e2",
+    "Rating": "2083",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "1401",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/TdINHvVI/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "36b1H",
+    "FEN": "r4rk1/ppq1bpp1/5n1p/2Ppn3/6b1/P1N1BN2/1PB2PPP/R2Q1RK1 w - - 2 14",
+    "Moves": "c3d5 f6d5 d1d5 g4f3",
+    "Rating": "2347",
+    "RatingDeviation": "100",
+    "Popularity": "67",
+    "NbPlays": "31",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/EjCqZi0E#27",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "36dhA",
+    "FEN": "2rq2k1/1b4pp/5p2/pP6/P3Pn2/B2P3P/2p1B1P1/2R1Q1K1 w - - 2 33",
+    "Moves": "e1d2 d8d4 g1h2 d4f2",
+    "Rating": "2166",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "303",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/0v9sf093#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "36eYe",
+    "FEN": "4r2k/1b5p/6p1/p1q5/PpB2p2/1P1QpN2/2P4P/1K3R2 w - - 1 36",
+    "Moves": "h2h4 b7f3 d3d7 f3c6",
+    "Rating": "2194",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "3009",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/S66ydVuL#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "36f3s",
+    "FEN": "r1bq1rk1/ppp1nppp/3p4/8/2B1P3/8/PB3PPP/R2Q1RK1 b - - 1 12",
+    "Moves": "c8e6 d1d4 f7f6 c4e6",
+    "Rating": "2007",
+    "RatingDeviation": "84",
+    "Popularity": "73",
+    "NbPlays": "30",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/52vxYyT6/black#24",
+    "OpeningTags": "Danish_Gambit Danish_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "36gHh",
+    "FEN": "r4rk1/5p2/pp1p4/3Pp1b1/P1B1q1n1/6PQ/1PP1N3/R4RK1 w - - 2 26",
+    "Moves": "c4d3 g5e3 f1f2 g4f2 d3e4 f2h3",
+    "Rating": "2306",
+    "RatingDeviation": "90",
+    "Popularity": "75",
+    "NbPlays": "43",
+    "Themes": "crushing doubleCheck kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/Fx8v1gUR#51",
+    "OpeningTags": ""
+  }
+]

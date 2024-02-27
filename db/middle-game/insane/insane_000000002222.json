@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CHCuf",
+    "FEN": "4rr2/3b1pk1/1p1p4/1PpP2PQ/p2qP3/Pn5P/4R1B1/5R1K b - - 2 36",
+    "Moves": "e8e7 h5h6 g7g8 e4e5 d7f5 f1f5",
+    "Rating": "2631",
+    "RatingDeviation": "114",
+    "Popularity": "90",
+    "NbPlays": "600",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/cvEgQwy1/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CHDqR",
+    "FEN": "1k1r1r2/ppp2Bpp/1nn5/q1N5/1b1P4/1Q2BP2/PP3P1P/2KR3R w - - 3 17",
+    "Moves": "f7h5 c6d4 e3d4 d8d4 c5a6 b7a6 d1d4 a5c5 c1b1 c5d4",
+    "Rating": "2449",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "266",
+    "Themes": "crushing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/yAlVLEVW#33",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Scandinavian_Variation"
+  },
+  {
+    "PuzzleId": "CHGwU",
+    "FEN": "r2qk2r/1p2bp2/p2p1np1/4p1B1/3nP1pN/2N5/PPP1BPP1/R2Q1RK1 w kq - 0 14",
+    "Moves": "e2g4 f6g4 g5e7 d8e7 h4g6 e7g5",
+    "Rating": "2709",
+    "RatingDeviation": "99",
+    "Popularity": "91",
+    "NbPlays": "227",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/FXoMspCW#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CHM4B",
+    "FEN": "r5k1/pp2rpPp/2qpp3/2p3BQ/6B1/2Pn3P/PP4P1/5RK1 b - - 1 27",
+    "Moves": "e7d7 g4e6 f7e6 g5h6 d7g7 h6g7 c6e8 f1f8 e8f8 g7f8",
+    "Rating": "2516",
+    "RatingDeviation": "90",
+    "Popularity": "69",
+    "NbPlays": "99",
+    "Themes": "advantage fork middlegame quietMove sacrifice veryLong",
+    "GameUrl": "https://lichess.org/O7hvzuEo/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CHMjp",
+    "FEN": "r2qk2r/6pp/p7/1pbNQR2/8/4n2P/PP4P1/7K b kq - 1 23",
+    "Moves": "e8d7 f5f7 d7c6 e5e6 c5d6 d5e3",
+    "Rating": "2701",
+    "RatingDeviation": "101",
+    "Popularity": "91",
+    "NbPlays": "232",
+    "Themes": "crushing deflection exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/4MecRJcx/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CHNV8",
+    "FEN": "5r1k/p5pp/3pP3/2p5/2p1Nr1q/4Q1N1/P3P1KP/R7 w - - 0 28",
+    "Moves": "e4d6 f4f2 e3f2 f8f2 g2f2 h4d4 f2g2 d4d6",
+    "Rating": "2556",
+    "RatingDeviation": "84",
+    "Popularity": "82",
+    "NbPlays": "297",
+    "Themes": "advantage attraction fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/eza1oVY0#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CHOTn",
+    "FEN": "r7/pp2kppp/2p1p1q1/8/1nPr1N2/1P3Q2/P2R1PPP/2K1R3 b - - 1 18",
+    "Moves": "g6f5 f4e6 b4a2 d2a2",
+    "Rating": "2646",
+    "RatingDeviation": "114",
+    "Popularity": "90",
+    "NbPlays": "202",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/BDxd55it/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "CHUBj",
+    "FEN": "3q1rk1/p4ppp/5b2/8/1r1PQ3/8/PP3PPP/R1BR2K1 w - - 1 18",
+    "Moves": "b2b3 b4d4 d1d4 f6d4 a1b1 f8e8 c1g5 f7f6",
+    "Rating": "2650",
+    "RatingDeviation": "91",
+    "Popularity": "92",
+    "NbPlays": "404",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/KSigQYY6#35",
+    "OpeningTags": "Tarrasch_Defense Tarrasch_Defense_Two_Knights_Variation"
+  },
+  {
+    "PuzzleId": "CHXX7",
+    "FEN": "2QR1n2/2p1rqpk/p5np/1p5P/8/5N2/PP3PP1/6K1 b - - 0 33",
+    "Moves": "g6e5 f3g5 h6g5 d8f8 f7h5 f8h8",
+    "Rating": "2551",
+    "RatingDeviation": "92",
+    "Popularity": "97",
+    "NbPlays": "59",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/a9iIRXOb/black#66",
+    "OpeningTags": ""
+  }
+]

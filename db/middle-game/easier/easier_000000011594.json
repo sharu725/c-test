@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ZHVCD",
+    "FEN": "r4q1k/pp2p2p/2b1Q1p1/2p5/8/2NP1NbP/PPP3P1/R6K w - - 1 19",
+    "Moves": "f3e5 c6g2 h1g2 f8f2 g2h1 f2h2",
+    "Rating": "1102",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "4041",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/JrzBfnuq#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "ZHWDt",
+    "FEN": "5rk1/p4pp1/1p3n2/2r5/4NQ2/q3P3/P1p2PPP/2R2RK1 b - - 1 26",
+    "Moves": "c5c4 e4f6 g7f6 f4c4",
+    "Rating": "1057",
+    "RatingDeviation": "85",
+    "Popularity": "94",
+    "NbPlays": "3725",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/zcttWBuF/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZHXDL",
+    "FEN": "4r1k1/qbp2ppp/p1p2n2/3pr3/1P2P3/P1NB4/2P2PPP/1R1QR1K1 w - - 0 19",
+    "Moves": "e4d5 e5e1 d1e1 e8e1",
+    "Rating": "1059",
+    "RatingDeviation": "81",
+    "Popularity": "89",
+    "NbPlays": "45",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/59B9IN4U#37",
+    "OpeningTags": "Scotch_Game Scotch_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "ZHYAX",
+    "FEN": "r4rk1/pbp2pp1/1p2p3/4n1qp/Q1P5/2N2P2/PP2BRPP/3R2K1 b - - 1 16",
+    "Moves": "h5h4 f3f4 g5e7 f4e5",
+    "Rating": "1142",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "213",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/f3OeKO9s/black#32",
+    "OpeningTags": "Indian_Defense Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "ZHaao",
+    "FEN": "2r2rk1/1p2p1b1/p2p2p1/qb6/1n2PP2/P1N1B3/1PPQN2R/2KR4 w - - 1 21",
+    "Moves": "a3b4 a5a1 c3b1 g7b2",
+    "Rating": "1172",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "5101",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/ZmqKs7nS#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZHajs",
+    "FEN": "r4bnr/pkp2ppp/8/4p3/8/3PBQ2/P1q2P1P/4RK2 b - - 1 21",
+    "Moves": "c2c6 e1b1 b7c8 f3c6",
+    "Rating": "1069",
+    "RatingDeviation": "85",
+    "Popularity": "91",
+    "NbPlays": "745",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/aZrFro5l/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZHbSR",
+    "FEN": "r3k2r/p1q1bp1p/2pp1np1/4p1B1/Q3P3/2N2P2/PPP2P1P/2KR2R1 b kq - 1 13",
+    "Moves": "h7h6 g5f6 e7f6 c3d5 c7b7 d5f6",
+    "Rating": "1151",
+    "RatingDeviation": "157",
+    "Popularity": "-24",
+    "NbPlays": "9",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/R5Cv6yv3/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "ZHbSm",
+    "FEN": "4k2r/pb1n1pp1/1p2pn1p/1N1p4/8/2rB1PB1/P1P2P1P/R4RK1 b k - 3 17",
+    "Moves": "c3c5 b5d6 e8f8 d6b7",
+    "Rating": "1170",
+    "RatingDeviation": "78",
+    "Popularity": "50",
+    "NbPlays": "103",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/yGmyjI7e/black#34",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "ZHdRM",
+    "FEN": "2r3k1/3r1pp1/1pq1p2p/pN4n1/Pb1P4/3NP1P1/4QP1P/R2R2K1 w - - 6 26",
+    "Moves": "d3e5 g5h3 g1f1 c6h1",
+    "Rating": "1167",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "396",
+    "Themes": "kingsideAttack master mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/phnarO46#51",
+    "OpeningTags": ""
+  }
+]

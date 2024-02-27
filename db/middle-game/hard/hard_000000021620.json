@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "uFPoA",
+    "FEN": "q2r2k1/pb4bp/1p4p1/8/2P1p1B1/BP6/P4QPP/4R1K1 b - - 1 27",
+    "Moves": "g7d4 g4e6 g8g7 a3b2 d4b2 f2b2",
+    "Rating": "1788",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "6015",
+    "Themes": "crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/olHsTaYd/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uFQNJ",
+    "FEN": "3r1r2/p2nN1k1/1p1PQbp1/2p2p2/2P1pP2/1P3qPp/P2R1B1P/5RK1 w - - 0 32",
+    "Moves": "f2e1 f6d4 d2d4 f3g2",
+    "Rating": "1696",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "1020",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/8ol3o6M4#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uFRgr",
+    "FEN": "5nkb/1r3p1p/p2Q1Pp1/2pP4/8/2P3P1/bq3BBP/4R1K1 b - - 0 29",
+    "Moves": "b7b6 d6f8 g8f8 f2c5 b6d6 c5d6 f8g8 e1e8",
+    "Rating": "1763",
+    "RatingDeviation": "74",
+    "Popularity": "80",
+    "NbPlays": "233",
+    "Themes": "attraction fork mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/w1NfcXGX/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uFRxo",
+    "FEN": "3r2k1/pp4p1/5q1p/2p1Bb2/8/5n1P/PP1Q1PP1/3RR2K b - - 5 24",
+    "Moves": "f3d2 e5f6 g7f6 e1e2",
+    "Rating": "1688",
+    "RatingDeviation": "95",
+    "Popularity": "50",
+    "NbPlays": "35",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ztOA2rsb/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uFSJy",
+    "FEN": "2kr4/1b2Q3/p1q1p2p/5p2/8/1B3P2/PPP2nPP/R5K1 b - - 5 32",
+    "Moves": "c6b6 e7e6 b6e6 b3e6 c8c7 g1f2",
+    "Rating": "1782",
+    "RatingDeviation": "228",
+    "Popularity": "83",
+    "NbPlays": "8",
+    "Themes": "crushing exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/SbREuuSr/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uFTax",
+    "FEN": "r3k2r/1b3pp1/3b1n1p/qp2p1Q1/2pP4/P3P3/BB2NPPP/R4RK1 w kq - 0 18",
+    "Moves": "g5g7 h8g8 g7g8 f6g8",
+    "Rating": "1730",
+    "RatingDeviation": "155",
+    "Popularity": "67",
+    "NbPlays": "5",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/wzHNMLZ5#35",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "uFTcz",
+    "FEN": "3rr1k1/pp3pbp/2pB2p1/P2Pp3/2PnP3/3B1Q1P/P3KPP1/RR6 w - - 1 19",
+    "Moves": "e2e3 g7h6 f3f4 h6f4",
+    "Rating": "1736",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "2603",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/sPg2fYxq#37",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Zinnowitz_Variation"
+  },
+  {
+    "PuzzleId": "uFThR",
+    "FEN": "4rrk1/pbp4p/1bp3p1/3pN3/5PBq/2P3nP/PP4PK/R1BQR3 w - - 5 22",
+    "Moves": "e5g6 h7g6 e1e8 f8e8",
+    "Rating": "1730",
+    "RatingDeviation": "93",
+    "Popularity": "82",
+    "NbPlays": "23",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/yInpjlCo#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uFUnq",
+    "FEN": "r1bq1rk1/1p3pbp/p1nppnp1/8/3NP3/2N1BP2/PPPQB1PP/2KR3R w - - 0 11",
+    "Moves": "e3h6 c6d4 h6g7 d4e2 c3e2 g8g7",
+    "Rating": "1662",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1082",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/uiXWn2X4#21",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  }
+]

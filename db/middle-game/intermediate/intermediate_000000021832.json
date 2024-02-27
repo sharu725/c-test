@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "qbBM5",
+    "FEN": "1qk2br1/1p1b3p/1Q2p2p/Pp1pn3/2p5/2P4B/5PPP/RN3RK1 w - - 0 24",
+    "Moves": "h3e6 e5f3 g1h1 b8h2",
+    "Rating": "1599",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "1716",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/gcQQXhLC#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qbBxV",
+    "FEN": "5rk1/ppqrbp1p/2n1bnp1/3pN3/8/1P2P3/PBQN1PPP/1BR2RK1 b - - 1 15",
+    "Moves": "c6e5 c2c7 d7c7 c1c7",
+    "Rating": "1512",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "225",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/vu0xt4Gl/black#30",
+    "OpeningTags": "Indian_Defense Indian_Defense_Spielmann-Indian"
+  },
+  {
+    "PuzzleId": "qbDiZ",
+    "FEN": "3brrk1/1p3pp1/p4N2/5PpQ/1q1p1P2/3P1R2/P6P/6RK b - - 1 25",
+    "Moves": "d8f6 f3h3 g5g4 h5h7",
+    "Rating": "1558",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "751",
+    "Themes": "mate mateIn2 middlegame quietMove short",
+    "GameUrl": "https://lichess.org/wa6rdXPi/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qbIqJ",
+    "FEN": "2kr3r/pp4p1/2pp2b1/4qp2/1PP1P2p/P2P1BpP/2Q3K1/4RR2 b - - 1 24",
+    "Moves": "h8e8 e4f5 e5e1 f1e1",
+    "Rating": "1466",
+    "RatingDeviation": "78",
+    "Popularity": "37",
+    "NbPlays": "82",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/23rlkSFt/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qbJ8s",
+    "FEN": "r2q1n1k/4p1r1/b2p1p2/p2Q4/1p1PP3/5NN1/PP3PP1/2RR2K1 w - - 7 28",
+    "Moves": "g3f5 e7e6 d5a8 d8a8",
+    "Rating": "1433",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "3592",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/HYJZK51c#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qbJIY",
+    "FEN": "r2qk1r1/pppn1p2/2b1p2p/4B3/3P2pP/2N5/PPP2P1P/R2QK1R1 b Qq - 0 16",
+    "Moves": "c6f3 d1f3 g4f3 g1g8 d7f8 e5g7 e8d7 g8f8",
+    "Rating": "1507",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "465",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/dzgsLLML/black#32",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "qbKBm",
+    "FEN": "3rr3/k4pq1/P5p1/2Nb4/3p3p/Q7/3B1PPP/1R4K1 b - - 4 32",
+    "Moves": "d8b8 b1b7 d5b7 a6b7",
+    "Rating": "1567",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1492",
+    "Themes": "advancedPawn crushing discoveredAttack middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/Wt9vmS3P/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qbKE8",
+    "FEN": "2k1r2r/1pp2p2/p2q4/3Pnp1p/N7/1P6/P1P1QPPP/3R1RK1 w - - 4 21",
+    "Moves": "c2c4 e5g4 e2e8 h8e8",
+    "Rating": "1531",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "5990",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/F54NWoG8#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qbMmB",
+    "FEN": "r3r3/p4kpp/4p3/3p2q1/2pP2n1/2N5/PP3PP1/R1Q2RK1 b - - 1 18",
+    "Moves": "g5h4 c1f4 f7g8 f2f3 e8f8 f4g4 h4g4 f3g4",
+    "Rating": "1550",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "1217",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/5H41pwNX/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  }
+]

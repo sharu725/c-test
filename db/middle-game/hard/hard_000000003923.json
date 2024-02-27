@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "AEDSL",
+    "FEN": "r3r3/pp1nk2p/3q1pb1/8/2BN4/1PQ2P2/P5PP/3K3R b - - 8 23",
+    "Moves": "d6e5 h1e1 e7f8 e1e5",
+    "Rating": "1632",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "395",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/Ohj7s7BO/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AEFid",
+    "FEN": "r1bqrnk1/pp3pbp/3p1np1/2pP4/2P1p3/1PN1P3/PBQNBPPP/R3K2R w KQ - 2 12",
+    "Moves": "d2e4 f6e4 c3e4 g7b2 c2b2 e8e4",
+    "Rating": "1766",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "10869",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/K5XKeXsW#23",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Quiet_System"
+  },
+  {
+    "PuzzleId": "AEIRP",
+    "FEN": "rnr3k1/p4pp1/4p2p/3b4/R1NP4/B1P1P3/5PPP/3R2K1 w - - 3 23",
+    "Moves": "c4b6 a7b6 a4a8 d5a8",
+    "Rating": "1687",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "68",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/Q35OnIsL#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AEK23",
+    "FEN": "1r2k2r/B1p2ppp/2p2qb1/8/4p1P1/b1P5/PP1NQ2P/2KR1B1R w k - 1 15",
+    "Moves": "a7b8 f6c3 c1b1 c3b2",
+    "Rating": "1644",
+    "RatingDeviation": "77",
+    "Popularity": "83",
+    "NbPlays": "50",
+    "Themes": "mate mateIn2 middlegame pin queensideAttack short",
+    "GameUrl": "https://lichess.org/Hv05j3or#29",
+    "OpeningTags": "Ponziani_Opening Ponziani_Opening_Jaenisch_Counterattack"
+  },
+  {
+    "PuzzleId": "AEKQq",
+    "FEN": "r2q2n1/2p4k/p2p1Qp1/3P1b2/7R/8/P4PPP/5RK1 b - - 3 29",
+    "Moves": "g8h6 f6f7 h7h8 h4h6",
+    "Rating": "1739",
+    "RatingDeviation": "101",
+    "Popularity": "56",
+    "NbPlays": "44",
+    "Themes": "deflection mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/I9EZpnPL/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AEKR0",
+    "FEN": "Qn1r1r2/1pk2ppp/1q1bpn2/3pN3/5B2/3R2N1/PPP2PPP/2K4R w - - 9 18",
+    "Moves": "d3c3 b8c6 a8a4 d8a8",
+    "Rating": "1794",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1022",
+    "Themes": "advantage clearance defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/df6meth4#35",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "AEL0B",
+    "FEN": "1r3rk1/n2qnpbp/p3p1p1/Qp1pP3/P2P1B2/5N1P/5PP1/1RRB2K1 b - - 1 21",
+    "Moves": "d7b7 c1c7 a7c6 c7b7 c6a5 b7e7",
+    "Rating": "1666",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "7617",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/3PD3byMU/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AELrV",
+    "FEN": "rn1k3r/1b4p1/p1p1Q2p/1pbn4/P7/1B6/1PP2PPP/R1B3K1 w - - 1 18",
+    "Moves": "a4b5 h8e8 e6e8 d8e8",
+    "Rating": "1729",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "2417",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/IC3Tdtgb#35",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Breyer_Variation"
+  },
+  {
+    "PuzzleId": "AEO3H",
+    "FEN": "1br2rk1/pp3ppp/2pq4/3p4/1P6/P1NPP2P/4QPP1/2R2RK1 w - - 1 18",
+    "Moves": "e3e4 d6h2",
+    "Rating": "1643",
+    "RatingDeviation": "193",
+    "Popularity": "33",
+    "NbPlays": "19",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/1cjmYMkd#35",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Hartlaub-Charlick_Gambit"
+  }
+]

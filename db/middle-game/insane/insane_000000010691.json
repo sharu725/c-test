@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "wxPWA",
+    "FEN": "rn3r1k/4qpp1/2p1bn1p/pp1p4/8/2NP1N1P/PPPQBP2/1K2R1R1 w - - 1 18",
+    "Moves": "g1g7 h8g7 e1g1 g7h7 f3g5 h7h8 g5e6 f7e6 d2h6 f6h7",
+    "Rating": "2481",
+    "RatingDeviation": "120",
+    "Popularity": "84",
+    "NbPlays": "16",
+    "Themes": "advantage hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/jVicEHi3#35",
+    "OpeningTags": "Russian_Game Russian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "wxQ36",
+    "FEN": "r1bqr3/1p3kpp/2p5/p2p4/3Pn3/5N2/PP2QPPP/RN3RK1 b - - 1 14",
+    "Moves": "e4g3 f3e5 e8e5 f2g3 e5f5 e2h5 f7g8 f1f5 c8f5 h5f5",
+    "Rating": "2573",
+    "RatingDeviation": "81",
+    "Popularity": "91",
+    "NbPlays": "3161",
+    "Themes": "advantage discoveredAttack middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/BZttxHrR/black#28",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "wxSsH",
+    "FEN": "r4rk1/1b3ppp/p2p4/q1nNp1P1/1p2PP1P/5Q2/PPPRB3/1K5R w - - 4 19",
+    "Moves": "h1g1 b4b3 a2b3 a5d2 g1d1 c5e4",
+    "Rating": "2571",
+    "RatingDeviation": "82",
+    "Popularity": "83",
+    "NbPlays": "87",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/fBoKfkZC#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "wxUI0",
+    "FEN": "r3r1k1/2qn1pp1/5n1p/p2pNQ2/1ppP3N/2P3P1/PP4PP/4RRK1 b - - 1 19",
+    "Moves": "a5a4 e5f7 e8e1 f1e1 d7f8 f7h6",
+    "Rating": "2601",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "354",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/poXe7QDE/black#38",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "wxV9d",
+    "FEN": "3k1b1r/pp4pp/2p2n2/8/3QN1bP/5N2/qPP3B1/2K4R b - - 1 19",
+    "Moves": "f6d7 e4c3 a2a1 c1d2 a1b2 h1b1",
+    "Rating": "2570",
+    "RatingDeviation": "151",
+    "Popularity": "87",
+    "NbPlays": "38",
+    "Themes": "advantage clearance long middlegame",
+    "GameUrl": "https://lichess.org/JrTcXyyX/black#38",
+    "OpeningTags": "Grob_Opening Grob_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "wxVGH",
+    "FEN": "N4rk1/1p4b1/p1pq2p1/6N1/1PP3nP/8/P1Q2p2/1R3K1R w - - 1 25",
+    "Moves": "c2e2 d6g3 e2e6 g8h8",
+    "Rating": "2424",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "91",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/D1JeVi2b#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wxcZF",
+    "FEN": "5rk1/p5b1/1p1p1p2/2qP1PpQ/2P5/1P6/P2r2PP/2R2R1K b - - 0 29",
+    "Moves": "c5a3 c1e1 d2a2 h5g6 a3b2 f1g1",
+    "Rating": "2723",
+    "RatingDeviation": "91",
+    "Popularity": "86",
+    "NbPlays": "105",
+    "Themes": "advantage defensiveMove long middlegame quietMove",
+    "GameUrl": "https://lichess.org/LduYkPOy/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wxcdn",
+    "FEN": "2kr1b1r/pp1n1p1p/7n/q2NP3/1PPP1QP1/7P/P7/R4RK1 b - - 0 17",
+    "Moves": "a5a3 e5e6 d7e5 e6e7 f8e7 d5e7",
+    "Rating": "2565",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "199",
+    "Themes": "advancedPawn crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/BnhlPUq7/black#34",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "wxcmZ",
+    "FEN": "6kr/2pb4/p2p2pq/3P4/4P3/PP3rN1/2P2Q1P/3R1RK1 w - - 0 30",
+    "Moves": "f2d2 f3g3 h2g3 h6h1 g1f2 h1e4 f1h1 h8h1 d1h1 e4h1",
+    "Rating": "2449",
+    "RatingDeviation": "90",
+    "Popularity": "80",
+    "NbPlays": "159",
+    "Themes": "advantage kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/y2YMFU1X#59",
+    "OpeningTags": ""
+  }
+]

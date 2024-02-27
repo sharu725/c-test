@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DSHI9",
+    "FEN": "r1b2rk1/p3bppp/1p6/2p1P3/3qQ1n1/3B4/PPP3PP/RNB2R1K b - - 4 14",
+    "Moves": "c8e6 e4h7",
+    "Rating": "821",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "125",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/S0u8kKCt/black#28",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSKfp",
+    "FEN": "4rnk1/2q4p/p1r3pB/2b1pp2/8/2R3Q1/PP2B1PP/2R4K w - - 4 28",
+    "Moves": "c3c5 c6c5 c1c5 c7c5",
+    "Rating": "647",
+    "RatingDeviation": "94",
+    "Popularity": "72",
+    "NbPlays": "100",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/bS1lboX7#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSL6Q",
+    "FEN": "rn2k2r/2qp1p2/p3pn2/2b3B1/8/2N5/PP3PPP/R2Q1RK1 w kq - 1 18",
+    "Moves": "g5f6 c7h2",
+    "Rating": "758",
+    "RatingDeviation": "80",
+    "Popularity": "100",
+    "NbPlays": "144",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/TpARkJxc#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_OKelly_Variation"
+  },
+  {
+    "PuzzleId": "DSMOX",
+    "FEN": "3r2k1/r3bppp/3Q1n2/p1R5/Np6/1P6/P4PPP/3R2K1 b - - 0 25",
+    "Moves": "d8d6 c5c8 e7f8 d1d6",
+    "Rating": "896",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "235",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/Dd9KkG8o/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSO46",
+    "FEN": "1r3rk1/pp3ppp/4p3/3p4/5P2/1QP4n/PP4PP/1B2RRqK w - - 7 21",
+    "Moves": "f1g1 h3f2",
+    "Rating": "815",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "327",
+    "Themes": "master mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/DqZcR63m#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSRgw",
+    "FEN": "3r1rk1/pp4pp/8/3Np3/2P1b3/1Q4qP/PP1KB3/R6R b - - 2 21",
+    "Moves": "g3b3 a2b3 e4h1 a1h1",
+    "Rating": "950",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "112",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/fWFKTBjV/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSVBt",
+    "FEN": "r5k1/1p4b1/p1n2pp1/2pNp3/2P1P2q/P2BBRp1/1P4P1/4QR1K w - - 1 27",
+    "Moves": "h1g1 h4h2",
+    "Rating": "798",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "149",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/2wLyg5Jv#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSVRU",
+    "FEN": "r2q1r2/1b3pk1/2p1p1p1/p1QpP1Pp/P2P3n/1P3N2/2PR1P2/3NR1K1 w - - 0 31",
+    "Moves": "f3h4 d8g5 h4g2 g5d2",
+    "Rating": "881",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "2266",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/yxY6bd4A#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSXNO",
+    "FEN": "r4rk1/p4pp1/p1b4p/3q2bQ/3p4/NP1P4/PBP2PPP/R4RK1 w - - 3 17",
+    "Moves": "f2f3 g5e3 g1h1 d5h5",
+    "Rating": "900",
+    "RatingDeviation": "82",
+    "Popularity": "93",
+    "NbPlays": "1193",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/vHf0AK2h#33",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation"
+  }
+]

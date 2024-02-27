@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "jAtYH",
+    "FEN": "r1b1r3/1p1Bbp1k/2qp3B/p1p5/2P1P3/6QP/PP3PP1/R4RK1 b - - 2 19",
+    "Moves": "c8d7 g3g7",
+    "Rating": "770",
+    "RatingDeviation": "86",
+    "Popularity": "94",
+    "NbPlays": "540",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/zbvwSC3M/black#38",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "jAuSk",
+    "FEN": "r4rk1/p4ppp/1pN1pn2/b7/5P2/1QP3Pq/P2BR2P/5RK1 b - - 11 26",
+    "Moves": "h3f5 c6e7 g8h8 e7f5",
+    "Rating": "989",
+    "RatingDeviation": "79",
+    "Popularity": "81",
+    "NbPlays": "121",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/BvHuVHTY/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jAugh",
+    "FEN": "r1b1r1k1/pp4p1/1q5p/3p2pn/6P1/2P2N1P/PP1N2P1/R2Q1RK1 w - - 1 18",
+    "Moves": "g1h1 h5g3 h1h2 g3f1",
+    "Rating": "936",
+    "RatingDeviation": "92",
+    "Popularity": "85",
+    "NbPlays": "66",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/4KshygoQ#35",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "jAux8",
+    "FEN": "r1b2rk1/ppp1q1pp/3p1n2/3Pp3/2P1N3/6P1/PP3PBP/R2QR1K1 b - - 2 14",
+    "Moves": "c8g4 e4f6 f8f6 d1g4",
+    "Rating": "953",
+    "RatingDeviation": "83",
+    "Popularity": "84",
+    "NbPlays": "182",
+    "Themes": "advantage kingsideAttack master middlegame short",
+    "GameUrl": "https://lichess.org/TlMRo5p5/black#28",
+    "OpeningTags": "Kangaroo_Defense Kangaroo_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "jAv3R",
+    "FEN": "r3kb1r/p1q2pp1/4pnp1/3p4/3P4/2N1B2P/PP2QPP1/R3K2R b KQkq - 1 15",
+    "Moves": "f8b4 e2b5 e8f8 b5b4",
+    "Rating": "827",
+    "RatingDeviation": "89",
+    "Popularity": "94",
+    "NbPlays": "1274",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/EjbDkVSx/black#30",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "jAxLD",
+    "FEN": "1r6/bp2kp2/1q2p2Q/1p2P3/1P6/P6P/5rP1/RB3RK1 w - - 0 27",
+    "Moves": "f1f2 b6f2 g1h2 f2g1",
+    "Rating": "883",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "73",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ZaBITo7Y#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jAxaL",
+    "FEN": "r4k1r/pppq1pp1/8/3p1n2/3PpNnP/1PP1P1P1/P4PK1/RN1Q3R w - - 5 17",
+    "Moves": "d1g4 f5e3 f2e3 d7g4",
+    "Rating": "947",
+    "RatingDeviation": "84",
+    "Popularity": "90",
+    "NbPlays": "433",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/FU66DPY3#33",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  },
+  {
+    "PuzzleId": "jAyc6",
+    "FEN": "3r2k1/pp3ppp/2n2B2/8/4r1b1/5N2/PP3PPP/R3R1K1 b - - 0 16",
+    "Moves": "g7f6 e1e4 g4f3 g2f3",
+    "Rating": "903",
+    "RatingDeviation": "85",
+    "Popularity": "100",
+    "NbPlays": "39",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/SS5ZAkaz/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Declined"
+  },
+  {
+    "PuzzleId": "jAz1y",
+    "FEN": "r1bq1r1k/ppn3bp/2np2p1/1Np1ppN1/P3P3/1QPP4/1P3PPP/R1B1RBK1 b - - 5 13",
+    "Moves": "h7h6 g5f7 f8f7 b3f7",
+    "Rating": "815",
+    "RatingDeviation": "83",
+    "Popularity": "94",
+    "NbPlays": "505",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/RaqGApEj/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  }
+]

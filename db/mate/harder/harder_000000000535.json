@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "AFU4O",
+    "FEN": "rnk3nr/1bp2R1p/p2p2P1/1p1q1B2/3b3Q/8/PPP3PP/RNB4K b - - 10 18",
+    "Moves": "b8d7 f7f8",
+    "Rating": "1911",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "185",
+    "Themes": "mate mateIn1 oneMove opening pin",
+    "GameUrl": "https://lichess.org/5XTso9GQ/black#36",
+    "OpeningTags": "Modern_Defense Modern_Defense_Bishop_Attack"
+  },
+  {
+    "PuzzleId": "AFY2p",
+    "FEN": "4R3/5B2/8/4b1p1/2P2k1p/7P/2r5/7K w - - 22 57",
+    "Moves": "f7d5 f4g3 e8e5 c2c1 e5e1 c1e1",
+    "Rating": "1868",
+    "RatingDeviation": "73",
+    "Popularity": "97",
+    "NbPlays": "6992",
+    "Themes": "endgame exposedKing long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/OzSzXN1z#113",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AFj3Y",
+    "FEN": "r2q1rk1/ppn2p2/4b1pp/4Q3/2B5/3P1P1P/PPP2PR1/2K3R1 b - - 3 19",
+    "Moves": "e6c4 g2g6 f7g6 g1g6 g8f7 g6g7",
+    "Rating": "1820",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "7643",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/sVDKwdgL/black#38",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "AFmvN",
+    "FEN": "3r3k/pp3p1p/5p2/3q1N2/6Q1/1P4P1/P2r1P1P/4R1K1 b - - 3 29",
+    "Moves": "d8g8 g4g8 h8g8 e1e8",
+    "Rating": "1881",
+    "RatingDeviation": "79",
+    "Popularity": "56",
+    "NbPlays": "102",
+    "Themes": "attraction endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/BOiKcatj/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AFrn9",
+    "FEN": "7r/pBp5/4Nkp1/1Q2nn1p/1P6/2P4P/P5P1/R1Br3K w - - 1 24",
+    "Moves": "h1h2 e5g4 h3g4 h5g4 c1h6 h8h6",
+    "Rating": "1958",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "254",
+    "Themes": "discoveredAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/9BjcrNUJ#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AGYtK",
+    "FEN": "r1bbqrk1/ppp2ppp/8/4p3/2B1P3/4NQ2/PPP2PPP/3R1RK1 b - - 3 13",
+    "Moves": "e8c6 f3f7 f8f7 d1d8 c6e8 d8e8",
+    "Rating": "1973",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "8725",
+    "Themes": "deflection kingsideAttack long mate mateIn3 middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/ge10Ng2c/black#26",
+    "OpeningTags": "Italian_Game Italian_Game_Blackburne-Kostic_Gambit"
+  },
+  {
+    "PuzzleId": "AGosu",
+    "FEN": "r1bq1r2/1p2bpk1/p7/7Q/3ppR2/3P4/PP4PP/RN4K1 b - - 1 19",
+    "Moves": "f8h8 f4f7 g7g8 h5g6",
+    "Rating": "1902",
+    "RatingDeviation": "104",
+    "Popularity": "75",
+    "NbPlays": "40",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/LJhgIU8I/black#38",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "AGp46",
+    "FEN": "5R2/4k3/7B/p2pPB2/2p4P/2P1P1P1/P2b1KP1/3q4 w - - 5 41",
+    "Moves": "f8g8 d2e1 f2g1 e1g3",
+    "Rating": "1977",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "954",
+    "Themes": "deflection discoveredAttack endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/nEUAoGkr#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AGvax",
+    "FEN": "r2q1rk1/1bpn2pB/p2pp2R/1p6/3P2N1/2P5/PPQN1b2/2K5 b - - 1 20",
+    "Moves": "g8f7 c2g6 f7e7 g6e6",
+    "Rating": "1960",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "6381",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/V8H5SqrY/black#40",
+    "OpeningTags": ""
+  }
+]

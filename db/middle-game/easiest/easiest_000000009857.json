@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "TJc46",
+    "FEN": "4r1k1/pp3ppp/3p1n2/1QpP2P1/5r2/4q2P/PPPRB3/2K1R3 b - - 0 22",
+    "Moves": "f6e4 b5e8",
+    "Rating": "630",
+    "RatingDeviation": "106",
+    "Popularity": "62",
+    "NbPlays": "108",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Z42RFsch/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TJcVV",
+    "FEN": "2r2rk1/1p1b1p1p/4pP2/p2p4/1q4PP/4QP2/PPB5/K2R3R b - - 0 29",
+    "Moves": "c8c2 e3g5 g8h8 g5g7",
+    "Rating": "898",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "620",
+    "Themes": "middlegame",
+    "GameUrl": "https://lichess.org/R9c9QAVy/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TJcYE",
+    "FEN": "r2q1rk1/pp1n1ppp/1np1p3/4P1N1/1bPP4/2NQB3/PP4PP/R4RK1 b - - 4 13",
+    "Moves": "d7e5 d3h7",
+    "Rating": "691",
+    "RatingDeviation": "94",
+    "Popularity": "100",
+    "NbPlays": "43",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/HvENiT7Z/black#26",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+  },
+  {
+    "PuzzleId": "TJd9o",
+    "FEN": "r2qk2r/pppn1pp1/4p1p1/3p2P1/1b1P3P/2NQ1P2/PPP1P3/R3KB1R b KQkq - 2 12",
+    "Moves": "d7b6 d3b5 c7c6 b5b4",
+    "Rating": "944",
+    "RatingDeviation": "77",
+    "Popularity": "60",
+    "NbPlays": "72",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/cYBMjIsk/black#24",
+    "OpeningTags": "Richter-Veresov_Attack Richter-Veresov_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "TJeTN",
+    "FEN": "5rk1/pp1R3p/6p1/2b1B1P1/2P5/2Q2P2/PP3qK1/R7 w - - 3 33",
+    "Moves": "g2h3 f8f3 c3f3 f2f3",
+    "Rating": "924",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "2488",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/b8X2xX2T#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TJhoc",
+    "FEN": "rn1qr1k1/pb3ppB/1p2pb1p/4N3/2Pp4/PP5P/1BQ2PP1/R4RK1 b - - 1 17",
+    "Moves": "g8h8 e5f7",
+    "Rating": "691",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "159",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/HstfC9II/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Anti-Torre"
+  },
+  {
+    "PuzzleId": "TJiNZ",
+    "FEN": "r3q1k1/2p1b1p1/1p1p2rp/pP1Pp2Q/P1P1N3/7P/5PP1/R4RK1 w - - 4 21",
+    "Moves": "a1a3 g6g2 g1g2 e8h5",
+    "Rating": "906",
+    "RatingDeviation": "89",
+    "Popularity": "89",
+    "NbPlays": "564",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/k1rQDZpR#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TJm1H",
+    "FEN": "1k1r2r1/ppp1qp2/6b1/3p3p/3PP3/1PPQ1NpP/1P2R1P1/5RK1 w - - 0 27",
+    "Moves": "e4d5 g6d3 e2e7 d3f1",
+    "Rating": "846",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "700",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/tsdBJaRz#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TJmHs",
+    "FEN": "r2qk2r/ppp3pp/3pp3/4n1B1/4P3/3P1b2/PPP3PP/R2Q1RK1 w kq - 0 13",
+    "Moves": "g5d8 f3d1",
+    "Rating": "991",
+    "RatingDeviation": "96",
+    "Popularity": "78",
+    "NbPlays": "37",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/HqeXenUL#25",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  }
+]

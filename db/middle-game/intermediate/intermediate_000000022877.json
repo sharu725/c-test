@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "t66im",
+    "FEN": "r2k1b1r/1p1P1pp1/p1n4p/3p4/3q1BQ1/8/PPP2PPP/R3R1K1 b - - 2 15",
+    "Moves": "g7g5 e1e8",
+    "Rating": "1429",
+    "RatingDeviation": "92",
+    "Popularity": "86",
+    "NbPlays": "35",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/BJhUD4jf/black#30",
+    "OpeningTags": "French_Defense French_Defense_Two_Knights_Variation"
+  },
+  {
+    "PuzzleId": "t6BU6",
+    "FEN": "1q5k/6p1/b1p1ppBp/p1Pn4/4PP2/Pr4P1/2Q2K1P/B2R4 b - - 0 28",
+    "Moves": "d5e3 c2b3 e3d1 b3d1",
+    "Rating": "1583",
+    "RatingDeviation": "99",
+    "Popularity": "83",
+    "NbPlays": "32",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/zB13CP82/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "t6CjD",
+    "FEN": "r4qk1/1p5p/p2b2p1/2p3Q1/1n1pPpP1/NP1P4/P1P2P1P/R4RK1 w - - 0 20",
+    "Moves": "e4e5 d6e7 g5e7 f8e7",
+    "Rating": "1489",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "342",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/fhYAtnlm#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "t6FP2",
+    "FEN": "2rr2k1/1p1qbpp1/p2pbn2/P6p/R3PB2/2N2B1P/1PPQ1RP1/7K w - - 1 21",
+    "Moves": "h1h2 c8c3 d2c3 d7a4",
+    "Rating": "1510",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "1218",
+    "Themes": "capturingDefender crushing middlegame short",
+    "GameUrl": "https://lichess.org/FeQ3djLJ#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "t6FPJ",
+    "FEN": "r6k/p5p1/1p2P2p/3R1p2/3N4/4q3/Q5PP/2rR3K w - - 4 33",
+    "Moves": "d4f5 e3e1 d1e1 c1e1",
+    "Rating": "1518",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "20223",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short xRayAttack",
+    "GameUrl": "https://lichess.org/9MEP8OJt#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "t6FTh",
+    "FEN": "r1b2rk1/1p3ppp/pqnPp3/3pN3/Q2P4/4P3/PP2B1PP/R4RK1 w - - 5 17",
+    "Moves": "a1c1 c6e5 d4e5 b6e3",
+    "Rating": "1568",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "631",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/gvgi9mdm#33",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "t6GgB",
+    "FEN": "5rk1/5ppp/3p4/3Nb3/3qP1R1/1P3P2/1P2nPK1/7Q b - - 3 26",
+    "Moves": "d4b2 d5e7 g8h8 h1h7 h8h7 g4h4",
+    "Rating": "1515",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "20996",
+    "Themes": "anastasiaMate attraction long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/iMpc7nI3/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "t6HJo",
+    "FEN": "r4rk1/p5b1/1p2q1pp/2pp4/5PPQ/2PP4/PP1B3P/R2B2K1 b - - 0 24",
+    "Moves": "d5d4 d1b3 c5c4 b3c4 e6c4 d3c4",
+    "Rating": "1593",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "15254",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/D7p6C3Ze/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "t6JCQ",
+    "FEN": "6k1/3q2p1/7p/pp1pPNb1/np1P2Q1/5P1P/4n3/B4RK1 w - - 6 35",
+    "Moves": "g1h1 d7f5 g4f5 e2g3 h1h2 g3f5",
+    "Rating": "1545",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "12733",
+    "Themes": "attraction crushing exposedKing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/mFX1sNV6#69",
+    "OpeningTags": ""
+  }
+]

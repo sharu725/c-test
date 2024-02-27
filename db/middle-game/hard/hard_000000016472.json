@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "gonkk",
+    "FEN": "4r1k1/1b3ppp/pq1bpN2/5n2/1p1P2Q1/P3B2P/1Pr2PP1/3R1RK1 b - - 1 22",
+    "Moves": "g8f8 f6d7 f8g8 d7b6",
+    "Rating": "1720",
+    "RatingDeviation": "77",
+    "Popularity": "83",
+    "NbPlays": "139",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/eFqHJt07/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gonpr",
+    "FEN": "4r2k/6R1/5n1p/3P1N1q/4P3/6P1/r2N1PKP/4Q3 w - - 3 35",
+    "Moves": "h2h3 h5f5 e4f5 e8e1",
+    "Rating": "1757",
+    "RatingDeviation": "79",
+    "Popularity": "83",
+    "NbPlays": "41",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/A1oP5AjN#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gooss",
+    "FEN": "r5k1/2p2pbp/1p1p1qp1/r2P4/B3P3/2N1RP1P/1Q4P1/R5K1 b - - 0 25",
+    "Moves": "a5a4 a1a4 a8a4 c3a4 f6b2 a4b2",
+    "Rating": "1699",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1018",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/nqk5CFmC/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "goq6u",
+    "FEN": "r1bq1rk1/pp3ppp/4pb2/2p1p3/2B1N3/3P1Q2/PPP2PPP/R3K2R b KQ - 1 12",
+    "Moves": "b7b5 e4f6 g7f6 f3a8",
+    "Rating": "1615",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "1436",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/auxTnLBh/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "gorsC",
+    "FEN": "r1bq2k1/ppp1b1pp/4pn2/4N3/3P1r2/2PB1P2/P1Q3PP/R4RK1 b - - 0 14",
+    "Moves": "f6d7 d3h7 g8h8 e5g6",
+    "Rating": "1674",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1322",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/jzBy3p2w/black#28",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "gosOJ",
+    "FEN": "r2qk2r/p1p2pp1/2p2n1p/3pp3/1b2P3/2NP1Q1P/PPPB1PP1/R3K2R w KQkq - 1 10",
+    "Moves": "c3d5 b4d2 e1d2 c6d5",
+    "Rating": "1665",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "1342",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/Ss39iIUr#19",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Other_variations"
+  },
+  {
+    "PuzzleId": "gossd",
+    "FEN": "r2qr1k1/p3bpp1/2p2n1p/5Q2/3p3B/2N5/PPP1RPPP/R5K1 w - - 0 17",
+    "Moves": "c3e4 f6e4 h4e7 d8e7",
+    "Rating": "1792",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1207",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/mvYmfaEC#33",
+    "OpeningTags": "Scotch_Game Scotch_Game_Schmidt_Variation"
+  },
+  {
+    "PuzzleId": "gotR9",
+    "FEN": "r1b2rk1/pp4pp/2n2q2/3pn3/8/P2B1NN1/1P3PPP/R2QK2R w KQ - 0 16",
+    "Moves": "f3e5 f6f2",
+    "Rating": "1602",
+    "RatingDeviation": "83",
+    "Popularity": "86",
+    "NbPlays": "1125",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/A5aOU5xH#31",
+    "OpeningTags": "French_Defense French_Defense_Two_Knights_Variation"
+  },
+  {
+    "PuzzleId": "gotiu",
+    "FEN": "rnb1kb1r/1p3ppp/p3p3/1N2n1B1/2B5/q1N5/P1PQ2PP/1R2K2R b Kkq - 1 13",
+    "Moves": "a6b5 d2d8",
+    "Rating": "1720",
+    "RatingDeviation": "84",
+    "Popularity": "60",
+    "NbPlays": "220",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/6ZVEYa8w/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  }
+]

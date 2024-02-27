@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "URAZ3",
+    "FEN": "r1b3k1/p1qr1Np1/2p1p2p/8/2PP4/4P3/P2Q2PP/1R3RK1 w - - 1 20",
+    "Moves": "d2f2 d7f7 f2f7 c7f7 f1f7 g8f7",
+    "Rating": "1205",
+    "RatingDeviation": "284",
+    "Popularity": "67",
+    "NbPlays": "2",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/ftjYzThH#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "URC9S",
+    "FEN": "r1q5/ppkb4/2pp1R1Q/2nPp3/2P1P3/6rP/PPBN2P1/R5K1 w - - 1 21",
+    "Moves": "f6f8 c8f8 h6f8 a8f8",
+    "Rating": "1372",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "196",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/4NsUKFbP#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "URD64",
+    "FEN": "r2r1k2/pN3pp1/4b3/8/5P1Q/8/PqP3PP/3R1R1K b - - 0 24",
+    "Moves": "b2b7 d1d8 a8d8 h4d8",
+    "Rating": "1205",
+    "RatingDeviation": "137",
+    "Popularity": "54",
+    "NbPlays": "7",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/4hCUI3sA/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "URD9N",
+    "FEN": "3r1rk1/p4qp1/1p1bp2p/3n1p2/5P2/1BB4P/PP4QK/5RR1 b - - 0 27",
+    "Moves": "d5c3 b3e6 g8h8 e6f7",
+    "Rating": "1367",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "745",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/t3t7t7Ch/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "URH2c",
+    "FEN": "6bN/kp4Qp/1q6/8/8/8/PP1r1nPP/2R2RK1 w - - 0 27",
+    "Moves": "g7g8 f2h3 g1h1 b6g1 f1g1 h3f2",
+    "Rating": "1359",
+    "RatingDeviation": "91",
+    "Popularity": "71",
+    "NbPlays": "469",
+    "Themes": "doubleCheck long mate mateIn3 middlegame sacrifice smotheredMate",
+    "GameUrl": "https://lichess.org/GP4KFYwi#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "URI0C",
+    "FEN": "r1bBkb1r/1p3p1p/p3p1p1/2pp4/6n1/2P1P3/PP1NBPPP/R3K2R b KQkq - 1 12",
+    "Moves": "g4e5 d8f6 h8g8 f6e5",
+    "Rating": "1305",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1203",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/8w6jrTyn/black#24",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "URJ2P",
+    "FEN": "5r1k/6pp/p7/1pQ5/2p2q2/2P2N1r/PP3P2/R2B1R1K w - - 0 28",
+    "Moves": "h1g1 f4g4",
+    "Rating": "1235",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "870",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/NC0Bkm45#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "URP0g",
+    "FEN": "2r4k/5rpp/1pNP1p2/pP2p3/P1Q2nq1/8/3R1PPP/3R2K1 w - - 9 30",
+    "Moves": "g2g3 f4h3 g1g2 g4c4",
+    "Rating": "1370",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "4250",
+    "Themes": "crushing discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/fpCHFYwr#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "URSgf",
+    "FEN": "r1b2r2/ppp2ppk/3p4/6q1/3pn1P1/1P1B3P/PNPP4/R2Q1RK1 b - - 1 17",
+    "Moves": "f7f5 d3e4 f5e4 f1f8",
+    "Rating": "1237",
+    "RatingDeviation": "89",
+    "Popularity": "83",
+    "NbPlays": "38",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/AapPF1wu/black#34",
+    "OpeningTags": "Kings_Pawn_Opening Kings_Pawn_Opening_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "oHJE8",
+    "FEN": "r3r1k1/ppq2ppp/2p2n2/4n3/1P1N1Nb1/2PB2Q1/P5PP/R4RK1 b - - 1 19",
+    "Moves": "g7g5 f4e6 f7e6 f1f6",
+    "Rating": "2188",
+    "RatingDeviation": "85",
+    "Popularity": "82",
+    "NbPlays": "48",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/fNjAn8A3/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oHJEK",
+    "FEN": "r1b4k/ppp5/2np2Q1/4q1B1/3b3P/8/P4PP1/3R2K1 b - - 0 20",
+    "Moves": "d4f2 g1h1 f2d4 d1d4 c6d4 g5f6 e5f6 g6f6",
+    "Rating": "2105",
+    "RatingDeviation": "80",
+    "Popularity": "86",
+    "NbPlays": "48",
+    "Themes": "advantage defensiveMove exposedKing fork middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/WjkNa57n/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oHJcn",
+    "FEN": "3r1rk1/5ppp/p2q1b2/np2p2Q/2pPP3/2P2N1P/PPB3P1/R4RK1 b - - 0 18",
+    "Moves": "e5d4 e4e5 g7g6 h5h6 f6g7 h6g7 g8g7 e5d6",
+    "Rating": "2204",
+    "RatingDeviation": "78",
+    "Popularity": "65",
+    "NbPlays": "72",
+    "Themes": "advantage fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/buJZhIec/black#36",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "oHKk1",
+    "FEN": "r1bq1rk1/2p2ppp/p2b4/1p1N4/2Pp1n2/3P4/PPB2PPP/R1BQ1RK1 b - - 1 15",
+    "Moves": "d8g5 d1f3 g5g2 f3g2 f4g2 g1g2",
+    "Rating": "2135",
+    "RatingDeviation": "116",
+    "Popularity": "88",
+    "NbPlays": "18",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/z5eK0xKg/black#30",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "oHMIy",
+    "FEN": "r2q2k1/2p2rb1/p1n1p1p1/1pNP1nP1/4p3/2BB3Q/PPP5/2K4R b - - 0 20",
+    "Moves": "e6d5 h3h8 g7h8 h1h8",
+    "Rating": "2217",
+    "RatingDeviation": "79",
+    "Popularity": "87",
+    "NbPlays": "243",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/1hO6C4Yr/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oHMXO",
+    "FEN": "r4r2/pp3k2/1q1pNppQ/4p3/4P3/2P3bP/PP4P1/R3R2K w - - 4 28",
+    "Moves": "e1e3 f8h8 e6g5 f6g5",
+    "Rating": "2351",
+    "RatingDeviation": "79",
+    "Popularity": "78",
+    "NbPlays": "57",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/oPuNflmI#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oHMre",
+    "FEN": "2r4r/1p1q4/2n1pk2/1p1p1ppp/3P4/P1R1PNPP/4KP2/1QR5 w - - 0 23",
+    "Moves": "b1b5 g5g4 b5b2 g4f3",
+    "Rating": "2071",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "117",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/P6dG6nwJ#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oHQhP",
+    "FEN": "5rk1/p4p1p/3bpQp1/2pp4/3P1N2/2q2P2/P2n2PP/R2R2K1 w - - 0 22",
+    "Moves": "f4e6 c3e3 g1h1 f7e6",
+    "Rating": "2044",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "8004",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/6bzCewM3#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oHR44",
+    "FEN": "r1q4r/pp1nk3/2p1Nn2/5Q2/8/3P4/PPP2PPP/4R1K1 b - - 0 25",
+    "Moves": "e7d6 f5f4 d6e7 e6g5 e7f8 f4d6 f8g7 e1e7 g7g6 g5e6",
+    "Rating": "2342",
+    "RatingDeviation": "104",
+    "Popularity": "57",
+    "NbPlays": "26",
+    "Themes": "crushing defensiveMove discoveredAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/QfDpve46/black#50",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Tsd2t",
+    "FEN": "2r4k/pp1b3p/6p1/3B2N1/3b4/8/PP4PP/R1qQ3K b - - 5 26",
+    "Moves": "c1g5 d1d4 g5e5 d4e5",
+    "Rating": "640",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "160",
+    "Themes": "hangingPiece mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/LOJCkaTb/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TseqQ",
+    "FEN": "r4r2/ppp3kp/4bnp1/3qpn2/4N1P1/3P1P2/PPPQB3/1K1R2NR w - - 1 18",
+    "Moves": "g4f5 d5a2 b1c1 a2a1",
+    "Rating": "851",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1038",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/4TPLGWxs#35",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "TsfNn",
+    "FEN": "r4r1k/pp4pn/7p/4B3/4p2q/1QPP4/PP3PPP/R3R1K1 w - - 0 20",
+    "Moves": "e1e4 h4f2 g1h1 f2f1 a1f1 f8f1",
+    "Rating": "867",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "2095",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/mJB3VwpJ#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TsfjR",
+    "FEN": "5rk1/1b3ppp/4p3/6B1/2RNpP2/8/3R2PP/r6K w - - 1 25",
+    "Moves": "d2d1 a1d1",
+    "Rating": "601",
+    "RatingDeviation": "94",
+    "Popularity": "95",
+    "NbPlays": "240",
+    "Themes": "backRankMate hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/suDwKSrk#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TsgKf",
+    "FEN": "7k/1r5P/2n1prpQ/p2p2N1/3P4/P7/nq1p1P1P/5RK1 b - - 1 33",
+    "Moves": "f6f8 h6f8",
+    "Rating": "637",
+    "RatingDeviation": "88",
+    "Popularity": "86",
+    "NbPlays": "529",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ijtuPA2B/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TsiGE",
+    "FEN": "r1bq1rk1/p2nbppp/2pp1n2/1p6/3NPP2/2NB4/PPP3PP/R1BQ1RK1 w - - 2 10",
+    "Moves": "d4c6 d8b6 g1h1 b6c6",
+    "Rating": "984",
+    "RatingDeviation": "127",
+    "Popularity": "18",
+    "NbPlays": "16",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/pWAAX7hS#19",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "TsjXY",
+    "FEN": "4r3/1k4p1/1n6/8/3bq3/2PN4/5PPP/Q4RK1 b - - 0 28",
+    "Moves": "d4f6 d3c5 b7c6 c5e4",
+    "Rating": "868",
+    "RatingDeviation": "91",
+    "Popularity": "86",
+    "NbPlays": "111",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/dCSXVlzP/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TskJR",
+    "FEN": "r2q1rk1/4npp1/p1nb3p/1p6/1P6/P2QPN2/1B1N1PPP/R3K2R w KQ - 0 15",
+    "Moves": "e1g1 d6h2 f3h2 d8d3",
+    "Rating": "961",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "138",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/kYVp3Z7V#29",
+    "OpeningTags": "Englund_Gambit Englund_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "Tsl2q",
+    "FEN": "2rr2Qk/1b4bp/p6N/1p2p3/4P3/P1N4P/1Pq2PP1/R3R1K1 b - - 6 28",
+    "Moves": "d8g8 h6f7",
+    "Rating": "971",
+    "RatingDeviation": "95",
+    "Popularity": "87",
+    "NbPlays": "365",
+    "Themes": "master mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/R8jETby2/black#56",
+    "OpeningTags": ""
+  }
+]

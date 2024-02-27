@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CmDYM",
+    "FEN": "7k/7p/6pP/3ppp2/p6P/2q5/1RP2P2/1K6 b - - 1 46",
+    "Moves": "a4a3 b2b8 c3c8 b8c8",
+    "Rating": "715",
+    "RatingDeviation": "96",
+    "Popularity": "66",
+    "NbPlays": "130",
+    "Themes": "endgame mate mateIn2 queenRookEndgame short",
+    "GameUrl": "https://lichess.org/JhQfpV02/black#92",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CmDk9",
+    "FEN": "r1br2k1/3q3p/5pp1/1p2P2R/1P6/p2B3P/2Q1NPPB/3R2K1 w - - 0 27",
+    "Moves": "d3g6 d7d1 c2d1 d8d1",
+    "Rating": "837",
+    "RatingDeviation": "93",
+    "Popularity": "81",
+    "NbPlays": "156",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Ub0IwwIB#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CmE7K",
+    "FEN": "rnb1kb1r/pppp1Npp/5q2/8/4n3/8/PPPP1PPP/RNBQKB1R w KQkq - 1 5",
+    "Moves": "f7h8 f6f2",
+    "Rating": "907",
+    "RatingDeviation": "84",
+    "Popularity": "91",
+    "NbPlays": "1162",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/ewvVjGf0#9",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CmGT8",
+    "FEN": "r7/2p1kpR1/pp1p4/3Pp3/2P1P3/5p2/PPB2b2/R1N4K w - - 0 31",
+    "Moves": "c1d3 a8h8 g7h7 h8h7",
+    "Rating": "926",
+    "RatingDeviation": "94",
+    "Popularity": "69",
+    "NbPlays": "48",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/goXKiRAh#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CmGcG",
+    "FEN": "r1bq1rk1/4bppp/1np1p3/pp2P3/3PQ3/P1PB1N2/5PPP/R1B2RK1 b - - 4 14",
+    "Moves": "b6d5 e4h7",
+    "Rating": "671",
+    "RatingDeviation": "79",
+    "Popularity": "100",
+    "NbPlays": "96",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/v7eESMof/black#28",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Vienna_Variation"
+  },
+  {
+    "PuzzleId": "CmGpd",
+    "FEN": "5r1k/4R3/6Kp/8/7P/5P2/8/8 b - - 2 51",
+    "Moves": "f8f3 e7e8 f3f8 e8f8",
+    "Rating": "883",
+    "RatingDeviation": "102",
+    "Popularity": "92",
+    "NbPlays": "692",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/wrLRXJWZ/black#102",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CmHst",
+    "FEN": "4Qb2/2k2p2/4p1p1/3P2P1/1P3P2/P1PKP3/8/6q1 w - - 0 45",
+    "Moves": "e8f8 g1d1 d3e4 d1d5",
+    "Rating": "973",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "6073",
+    "Themes": "endgame mate mateIn2 queenEndgame short",
+    "GameUrl": "https://lichess.org/xWYCZomh#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CmIK5",
+    "FEN": "r1bq2kr/p1pp2pp/2p5/7Q/4n3/4P3/PPP3PP/RN3RK1 b - - 0 11",
+    "Moves": "d8g5 h5e8",
+    "Rating": "930",
+    "RatingDeviation": "85",
+    "Popularity": "93",
+    "NbPlays": "83",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/lVUqi7PM/black#22",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "CmJcQ",
+    "FEN": "1k1r3r/p1pnqpp1/BpQ1p2p/8/3P4/2P1PPP1/P4P2/2R2RK1 b - - 4 19",
+    "Moves": "e7d6 c6b7",
+    "Rating": "892",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "443",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/OPRsKf9V/black#38",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  }
+]

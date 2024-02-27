@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "jCzLh",
+    "FEN": "r1b4r/pp1pkppp/n7/2p2N2/2P3n1/4PN2/PP4PP/2KR1B1R b - - 8 13",
+    "Moves": "e7f6 d1d6 f6f5 f1d3",
+    "Rating": "1676",
+    "RatingDeviation": "96",
+    "Popularity": "88",
+    "NbPlays": "29",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/up8gUT8Q/black#26",
+    "OpeningTags": "Englund_Gambit Englund_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "jD3it",
+    "FEN": "Q7/1p4pk/2p4p/p7/3P3n/P1B1r1qP/1PP3P1/R5RK w - - 1 35",
+    "Moves": "c3e1 g3h3 g2h3 e3h3",
+    "Rating": "1664",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "855",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/n8QHi2rA#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jD6vX",
+    "FEN": "5r2/6p1/1Rk5/P3p3/6Pp/2PPP2P/1P2P1K1/5r2 b - - 1 36",
+    "Moves": "c6c5 b2b4 c5d5 c3c4",
+    "Rating": "1790",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "5043",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/qcxH6pMj/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jD8WH",
+    "FEN": "1Q6/5pkp/6p1/6r1/5n2/2P1q2P/PP1R2PK/3R4 w - - 3 31",
+    "Moves": "b8d6 g5g2 d2g2 e3h3 h2g1 h3g2",
+    "Rating": "1761",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "167",
+    "Themes": "attraction endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/EIZA0T3j#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jDFnI",
+    "FEN": "r1r3k1/p1R2ppp/b3p1q1/8/3B4/4PQ2/P4PPP/2R3K1 b - - 10 19",
+    "Moves": "c8c7 f3a8 a6c8 a8c8 c7c8 c1c8",
+    "Rating": "1759",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1185",
+    "Themes": "hangingPiece long mate mateIn3 middlegame xRayAttack",
+    "GameUrl": "https://lichess.org/5LaD6M1G/black#38",
+    "OpeningTags": "Tarrasch_Defense Tarrasch_Defense_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "jDIHu",
+    "FEN": "1r1q1rk1/2nbp1b1/p2p2Q1/1ppP2N1/2P5/1PN1P3/P4PP1/R3K2R b KQ - 2 17",
+    "Moves": "f8f6 h1h8 g8h8 g6h7",
+    "Rating": "1792",
+    "RatingDeviation": "78",
+    "Popularity": "54",
+    "NbPlays": "75",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/LXA4Reij/black#34",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  },
+  {
+    "PuzzleId": "jDQOS",
+    "FEN": "1r4k1/pb5p/2qpr3/2p2pBQ/2p2P2/2P4N/P1B2nPP/6RK w - - 6 29",
+    "Moves": "h3f2 c6g2 g1g2 e6e1",
+    "Rating": "1677",
+    "RatingDeviation": "82",
+    "Popularity": "76",
+    "NbPlays": "30",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/RbhJ93ta#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jDeoH",
+    "FEN": "5k2/6P1/5K2/1n6/4N3/3p4/8/8 b - - 0 60",
+    "Moves": "f8g8 f6g6 d3d2 e4f6",
+    "Rating": "1763",
+    "RatingDeviation": "83",
+    "Popularity": "89",
+    "NbPlays": "172",
+    "Themes": "endgame knightEndgame master mate mateIn2 short",
+    "GameUrl": "https://lichess.org/elEl3rsP/black#120",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jDiLH",
+    "FEN": "1rk2b1r/p1p2ppp/2B5/1N2p3/8/1P6/P4PPP/n1BR2K1 b - - 1 15",
+    "Moves": "b8b6 b5a7 c8b8 d1d8 b8a7 d8a8",
+    "Rating": "1642",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "116",
+    "Themes": "long mate mateIn3 middlegame queensideAttack sacrifice",
+    "GameUrl": "https://lichess.org/HRaWYhoM/black#30",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  }
+]

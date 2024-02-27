@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EHxzB",
+    "FEN": "r2q1rk1/pp3p1p/3bb1p1/3p4/2pP4/2P2Q2/PPB2PPP/R1B2RK1 w - - 2 16",
+    "Moves": "c1h6 d8h4 g2g3 h4h6",
+    "Rating": "1707",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "386",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ylcYZRlA#31",
+    "OpeningTags": "Rat_Defense Rat_Defense_Small_Center_Defense"
+  },
+  {
+    "PuzzleId": "EHzja",
+    "FEN": "2b2r2/4qpkp/1p1p2p1/pP1P2P1/r1n1PR1P/6Q1/4N3/1B3RK1 b - - 3 39",
+    "Moves": "c4d2 g3c3 e7e5 c3d2",
+    "Rating": "1680",
+    "RatingDeviation": "77",
+    "Popularity": "57",
+    "NbPlays": "71",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/bWzl5Bvr/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EHzny",
+    "FEN": "1r2k1r1/2bq1p2/8/4p3/1P1B3Q/P5P1/5P1P/4R1K1 b - - 0 30",
+    "Moves": "g8g4 h4h8 e8e7 e1e5 c7e5 h8e5",
+    "Rating": "1694",
+    "RatingDeviation": "107",
+    "Popularity": "100",
+    "NbPlays": "31",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/Ya0CW8h5/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EHztK",
+    "FEN": "k5r1/pp6/2pB1Q2/8/2PPb2N/1Pq5/P1NR4/2K5 w - - 5 39",
+    "Moves": "f6f1 e4c2 d6b4 c3a1 c1c2 a1f1",
+    "Rating": "1664",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "689",
+    "Themes": "crushing exposedKing long middlegame skewer",
+    "GameUrl": "https://lichess.org/4obPJfnc#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EI3OC",
+    "FEN": "rq2r1k1/2b1npp1/p3p2p/4P3/2N1Q1P1/B6P/5P2/1R3R1K b - - 4 30",
+    "Moves": "b8a7 b1b7 a7b7 e4b7",
+    "Rating": "1622",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "13427",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/193Otj8t/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EI4WG",
+    "FEN": "2r2rk1/1p3p2/p2p1Bpp/2qPp3/2n5/3B1P2/PP1Q2PP/RK2R3 w - - 0 25",
+    "Moves": "d2h6 c4a3 b2a3 c5b6 d3b5 b6b5",
+    "Rating": "1670",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "149",
+    "Themes": "long mate mateIn3 middlegame queensideAttack sacrifice",
+    "GameUrl": "https://lichess.org/94gb9Yxk#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EI5KX",
+    "FEN": "r1bqk2r/2p2p2/1p1p2p1/p2P2np/2PbPQN1/P1N4P/1P2BPP1/R3K2R w KQkq - 0 18",
+    "Moves": "g4e3 d4e5 f4e5 d6e5",
+    "Rating": "1685",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "83",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ADKVp7lu#35",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation"
+  },
+  {
+    "PuzzleId": "EI83q",
+    "FEN": "2r1kb1r/2q2p1p/1np1p1p1/Q2pN3/3P4/2P5/PP3PPP/R1B1R1K1 w k - 0 19",
+    "Moves": "c1g5 c8a8 a5a8 b6a8 g5f6 h8g8",
+    "Rating": "1639",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "792",
+    "Themes": "advantage defensiveMove long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/LoMZZJLs#37",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "EIAbz",
+    "FEN": "r1b2r1k/ppq3pp/3b2N1/3Bp3/3pPp2/3P2Q1/PPP3PP/2R2RK1 b - - 1 18",
+    "Moves": "h7g6 g3h4",
+    "Rating": "1604",
+    "RatingDeviation": "88",
+    "Popularity": "78",
+    "NbPlays": "272",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/qjfYZEop/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  }
+]

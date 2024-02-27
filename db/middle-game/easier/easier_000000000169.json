@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "0X99P",
+    "FEN": "5rk1/2p2ppp/2Q5/1b6/7q/1P2P2P/PBPr1PP1/R3R1K1 w - - 5 20",
+    "Moves": "c6c3 h4f2 g1h2 f2g2",
+    "Rating": "1088",
+    "RatingDeviation": "87",
+    "Popularity": "47",
+    "NbPlays": "37",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/r4FAKasH#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0XAVH",
+    "FEN": "r2q1rk1/1pp2ppp/1n2bb2/1P2N3/p2n4/P1NP2P1/4PPBP/1RBQ1RK1 w - - 1 14",
+    "Moves": "e5f3 d4f3 g2f3 f6c3",
+    "Rating": "1175",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1337",
+    "Themes": "advantage discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/UiQ9w47s#27",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "0XCI8",
+    "FEN": "r3r1k1/2b1qpp1/2p2N1p/ppnb4/3N4/2PQ1P1P/PPB3P1/1K1RR3 b - - 4 21",
+    "Moves": "e7f6 d3h7 g8f8 h7h8",
+    "Rating": "1095",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "3218",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/V6yninjn/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0XDRc",
+    "FEN": "r4rk1/pb3ppp/2N1pn2/1p2P3/8/P5P1/1P3PBP/2KR3R b - - 0 17",
+    "Moves": "f6g4 c6e7 g8h8 g2b7",
+    "Rating": "1077",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1469",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/s26NLBeA/black#34",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations"
+  },
+  {
+    "PuzzleId": "0XDXx",
+    "FEN": "r3k2r/ppp1qppp/8/8/1n4P1/2Nb4/1P1BNKPP/2RQ1B1R w kq - 0 15",
+    "Moves": "f2g1 e7c5 e2d4 c5d4 d2e3 d4e3",
+    "Rating": "1165",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "98",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/46YKxXJ3#29",
+    "OpeningTags": "Englund_Gambit Englund_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "0XFV1",
+    "FEN": "r1b1k2r/ppq1Bppp/2N1pn2/4p3/8/2PB4/P1P2PPP/R2QK2R b KQkq - 1 11",
+    "Moves": "c7c6 d3b5 e8e7 b5c6",
+    "Rating": "1151",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "882",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/nJGjwrIh/black#22",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Pin_Variation"
+  },
+  {
+    "PuzzleId": "0XG4S",
+    "FEN": "r3k2r/1bq2pp1/p3pn2/3Pn2p/1b6/2NBBP2/1PPQN1PP/1K1R3R b kq - 0 15",
+    "Moves": "f6d5 c3d5 b7d5 d2b4",
+    "Rating": "1086",
+    "RatingDeviation": "81",
+    "Popularity": "89",
+    "NbPlays": "799",
+    "Themes": "capturingDefender crushing discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/k8dHhDVl/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "0XHRB",
+    "FEN": "2r2rk1/1b3ppp/1q2pn2/ppbp4/3B4/PP2P2P/N1P1BPP1/R2Q1RK1 w - - 0 15",
+    "Moves": "a2c3 c5d4 d1d4 b6d4 e3d4 c8c3",
+    "Rating": "1165",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "2263",
+    "Themes": "capturingDefender crushing long middlegame",
+    "GameUrl": "https://lichess.org/Trh1Rw4U#29",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "0XHhR",
+    "FEN": "4r3/1R3pbk/3q2p1/p3r3/P6p/2P2B1P/b4PP1/Q2R2K1 w - - 0 31",
+    "Moves": "a1a2 e5e1 d1e1 e8e1",
+    "Rating": "1148",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "2574",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/t03ZLz8T#61",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "58pu4",
+    "FEN": "4R1rk/2qP1p2/1p6/p5rp/P7/6P1/1P2QP2/3R2K1 w - - 2 40",
+    "Moves": "d7d8q g5g3 f2g3 c7g3 g1h1 g3h3 e2h2 h3f3 h2g2 f3g2",
+    "Rating": "1492",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "508",
+    "Themes": "mate mateIn5 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/H27thoQb#79",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "58qRo",
+    "FEN": "7k/pq2b1pp/1p4b1/2p1Q3/6P1/P4r1P/1BP2P2/3R2K1 b - - 1 27",
+    "Moves": "f3f7 d1d8 e7d8 e5e8 f7f8 e8f8",
+    "Rating": "1484",
+    "RatingDeviation": "129",
+    "Popularity": "79",
+    "NbPlays": "37",
+    "Themes": "fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/wzAH3LYN/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "58rpA",
+    "FEN": "r1b2rk1/pp2bppp/1q1ppn2/6B1/4PP2/1NNP4/PP4PP/R2Q1R1K b - - 0 12",
+    "Moves": "c8d7 e4e5 g8h8 e5f6",
+    "Rating": "1497",
+    "RatingDeviation": "81",
+    "Popularity": "93",
+    "NbPlays": "51",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/sUlA0LF1/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Scheveningen_Variation"
+  },
+  {
+    "PuzzleId": "58snJ",
+    "FEN": "r3r1k1/1bp2p1p/1p4qp/p1p5/2Qp4/5PN1/PPP3PP/4RRK1 b - - 3 20",
+    "Moves": "b7a6 e1e8 g8g7 c4a4",
+    "Rating": "1579",
+    "RatingDeviation": "325",
+    "Popularity": "100",
+    "NbPlays": "4",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/lNG1NnLm/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "58tlC",
+    "FEN": "r1bqkb1r/1p3p1p/p1n3p1/1N2p1B1/3pP3/2P5/PP2BPPP/R2Q1RK1 b kq - 1 12",
+    "Moves": "f7f6 g5f6 d8f6 b5c7 e8d8 c7a8",
+    "Rating": "1560",
+    "RatingDeviation": "78",
+    "Popularity": "77",
+    "NbPlays": "77",
+    "Themes": "advantage exposedKing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/GhRl0rnw/black#24",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "58uK0",
+    "FEN": "5rk1/5ppp/3b1n2/p1pPN3/4pP2/P3P2P/1r1B2P1/R3KR2 b Q - 0 23",
+    "Moves": "f6d5 e5c4 b2c2 c4d6",
+    "Rating": "1558",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "1731",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/vkrW6NY6/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "58uUa",
+    "FEN": "rq1r3k/1b2nQpp/p5n1/Pp4P1/8/1NN1R3/1PP3BP/4R1K1 b - - 2 26",
+    "Moves": "b7g2 e3e7 g6e7 e1e7",
+    "Rating": "1538",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "298",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Nd7jlaxu/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "58vqw",
+    "FEN": "rn3rk1/p1p2ppp/1p2p3/4q3/4Bn2/2N2P2/PPQ2P1P/3R1RK1 w - - 2 16",
+    "Moves": "e4a8 e5g5 g1h1 g5g2",
+    "Rating": "1499",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "1451",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/qStZfAcH#31",
+    "OpeningTags": "Trompowsky_Attack Trompowsky_Attack_Classical_Defense"
+  },
+  {
+    "PuzzleId": "58w7K",
+    "FEN": "rr3qk1/5pp1/4p3/3pP1QN/2pP3P/1bP5/5PK1/R1R5 b - - 0 29",
+    "Moves": "a8a1 h5f6 g8h8 g5h5",
+    "Rating": "1453",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "3732",
+    "Themes": "master mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/XHC4qdEI/black#58",
+    "OpeningTags": ""
+  }
+]

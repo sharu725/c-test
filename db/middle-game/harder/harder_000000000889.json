@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "2eDJs",
+    "FEN": "r1b2rk1/ppp2pp1/3q3p/8/4R3/2PB4/PP4PP/RN2Q1K1 w - - 1 18",
+    "Moves": "d3c2 d6b6 g1h1 b6b2 b1a3 b2a3",
+    "Rating": "1859",
+    "RatingDeviation": "285",
+    "Popularity": "100",
+    "NbPlays": "6",
+    "Themes": "equality fork long middlegame",
+    "GameUrl": "https://lichess.org/EAKmygAk#35",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2eEOh",
+    "FEN": "3rnr1k/3q2pp/p2b4/1p1p1PP1/3p1BBP/1PpP2Q1/P1P2K2/4R2R w - - 0 28",
+    "Moves": "e1e6 d6f4 g3f4 d7e6 f5e6 f8f4 f2g3 f4g4",
+    "Rating": "1962",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1153",
+    "Themes": "advantage exposedKing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/DZARSjNi#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2eG0z",
+    "FEN": "r1b2r1k/bpp3p1/p1nq3p/3n1p2/1PB1p2N/P2P2NP/1BPQ1PP1/R4RK1 b - - 1 15",
+    "Moves": "d6g3 d2h6 h8g8 c4d5",
+    "Rating": "1827",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "10704",
+    "Themes": "crushing kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/9Wsf0wxL/black#30",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "2eHeT",
+    "FEN": "rr4k1/4bppp/4bn2/q2p4/B3P1PP/1PN1BP2/2PQ4/2KR3R w - - 0 20",
+    "Moves": "c3d5 e7a3 c1b1 a5a4",
+    "Rating": "1975",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "475",
+    "Themes": "crushing middlegame pin queensideAttack short",
+    "GameUrl": "https://lichess.org/ImMO3qiE#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2eHlK",
+    "FEN": "r3q2k/1pb3pp/p1n1bp2/2P1p3/1P2B2B/P2QPN1P/5PP1/3R2K1 w - - 3 28",
+    "Moves": "e4h7 a8d8 d3b1 d8d1 b1d1 h8h7",
+    "Rating": "1914",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "3051",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/3VWqiiNe#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2eKiK",
+    "FEN": "rn3rk1/pp2bpp1/2p4p/4p3/2B1P3/2NQBq1P/PPP2P1K/6R1 b - - 2 18",
+    "Moves": "e7h4 g1g7 g8g7 e3h6 g7h6 d3f3",
+    "Rating": "1839",
+    "RatingDeviation": "76",
+    "Popularity": "80",
+    "NbPlays": "77",
+    "Themes": "attraction crushing discoveredAttack kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/OgzYoeXh/black#36",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_McConnell_Defense"
+  },
+  {
+    "PuzzleId": "2eKpa",
+    "FEN": "1rb1r1k1/2p1qpp1/p3p2p/1p2n3/8/P3PB2/1PQ1NPPP/2RR2K1 b - - 3 18",
+    "Moves": "c8b7 f3b7 b8b7 c2e4 c7c5 e4e5",
+    "Rating": "1806",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "213",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/tsD0FPli/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "2eLm5",
+    "FEN": "1rq3k1/p1p2ppp/8/4r3/Q3P1n1/2N4K/PPP2PP1/1RB2R2 w - - 4 21",
+    "Moves": "c1f4 g4e3 h3h2 e5h5 h2g1 e3g2 f2f3 g2f4",
+    "Rating": "1960",
+    "RatingDeviation": "213",
+    "Popularity": "85",
+    "NbPlays": "10",
+    "Themes": "crushing discoveredAttack exposedKing middlegame veryLong",
+    "GameUrl": "https://lichess.org/wA8VZNft#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2eNrd",
+    "FEN": "r6k/pp3Bpp/2p2n2/1q6/4N2Q/P4PP1/1BP3K1/1R1r4 w - - 8 26",
+    "Moves": "b2f6 b5f1 g2h2 f1h1",
+    "Rating": "1962",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "1758",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/rqwE7l4I#51",
+    "OpeningTags": ""
+  }
+]

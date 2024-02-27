@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "kr57J",
+    "FEN": "r4rk1/pb1qppbp/1pn3p1/2p3N1/4NPnQ/P2P4/1PP3PP/R1BB1RK1 b - - 2 15",
+    "Moves": "g4f6 e4f6 e7f6 h4h7",
+    "Rating": "1090",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "367",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/DG7XmPLO/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "kr5S3",
+    "FEN": "r2q1rk1/pp3ppn/3p1b1p/2p1n3/2P1PPb1/1PN5/P1Q1N1PP/RBB1R1K1 b - - 0 14",
+    "Moves": "e5c6 e4e5 g7g6 e5f6",
+    "Rating": "1194",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "135",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/i5GjIJFE/black#28",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "kr6Uh",
+    "FEN": "r3r1k1/2b2pp1/p6p/3pn3/NP6/P7/1BP3PP/2KRR3 w - - 0 23",
+    "Moves": "d1d5 e5d3 d5d3 e8e1",
+    "Rating": "1012",
+    "RatingDeviation": "87",
+    "Popularity": "79",
+    "NbPlays": "33",
+    "Themes": "advantage discoveredAttack middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/djvewyvZ#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kr6ct",
+    "FEN": "2r4k/p4Qp1/1p2r2N/3qn3/8/2P4R/P5PP/5R1K b - - 0 30",
+    "Moves": "e5f7 h6f7 h8g8 h3h8",
+    "Rating": "1030",
+    "RatingDeviation": "78",
+    "Popularity": "85",
+    "NbPlays": "465",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/5Lyft3Sa/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kr7f7",
+    "FEN": "r1b3k1/ppp3pp/2p5/2b1N3/4P3/8/PPP2rPP/R1BR2K1 w - - 0 12",
+    "Moves": "d1d8 f2f8 g1h1 f8d8",
+    "Rating": "1079",
+    "RatingDeviation": "87",
+    "Popularity": "89",
+    "NbPlays": "63",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/rkhAkcvR#23",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Schliemann_Defense"
+  },
+  {
+    "PuzzleId": "krAho",
+    "FEN": "6k1/3q1p1b/p1p2b1p/1p2p1p1/4Pn2/P1N1QN1P/1PP1BPPK/8 w - - 0 27",
+    "Moves": "g2g3 d7h3 h2g1 h3g2",
+    "Rating": "1162",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "5595",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/cahCLkFA#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "krBwt",
+    "FEN": "r3r1k1/pp3ppp/2n5/5q2/4p3/2P1RNP1/PP2QP1P/K2R4 b - - 1 20",
+    "Moves": "e4f3 e3e8 a8e8 e2e8",
+    "Rating": "1113",
+    "RatingDeviation": "319",
+    "Popularity": "25",
+    "NbPlays": "7",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/kTeAbzVf/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "krC14",
+    "FEN": "r2q3r/p5kp/1pn2np1/2bpp1N1/6b1/1BPQ4/PP3PPP/RNBR2K1 b - - 5 16",
+    "Moves": "g4d1 g5e6 g7g8 e6d8",
+    "Rating": "1183",
+    "RatingDeviation": "75",
+    "Popularity": "70",
+    "NbPlays": "181",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/QBy4oLMs/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "krCLG",
+    "FEN": "2kr2nr/1pp2ppp/p1n1q3/4P3/3P2b1/2BB2NP/PPPQ2P1/2KR3R b - - 0 14",
+    "Moves": "g4d1 d3f5 e6f5 g3f5",
+    "Rating": "1141",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "9888",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/PW0iNIBQ/black#28",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit_Accepted"
+  }
+]

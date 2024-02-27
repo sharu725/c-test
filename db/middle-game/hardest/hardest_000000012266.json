@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PPRTK",
+    "FEN": "r1bk4/1p2b3/p1p5/5Q2/4PR2/2NP4/PqP3PP/R6K w - - 2 23",
+    "Moves": "f5a5 b7b6 c3d1 b2a1",
+    "Rating": "2032",
+    "RatingDeviation": "250",
+    "Popularity": "100",
+    "NbPlays": "4",
+    "Themes": "defensiveMove equality middlegame pin short",
+    "GameUrl": "https://lichess.org/3Ey55moW#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PPRdJ",
+    "FEN": "4r3/3Nkp2/p2pB3/qp4P1/3QP2p/5PK1/PPr5/7R w - - 0 27",
+    "Moves": "g3f4 f7e6 b2b4 a5c7",
+    "Rating": "2186",
+    "RatingDeviation": "103",
+    "Popularity": "78",
+    "NbPlays": "20",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/xp3nnlMw#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PPT1f",
+    "FEN": "6r1/3b1krp/1R2n3/pPn2p2/2P5/B1N2P2/P4P1P/3R1B1K w - - 11 29",
+    "Moves": "f1h3 c5d3 h3g4 d3f2 h1g2 f2d1",
+    "Rating": "2265",
+    "RatingDeviation": "81",
+    "Popularity": "94",
+    "NbPlays": "2404",
+    "Themes": "advantage fork long master middlegame pin",
+    "GameUrl": "https://lichess.org/9e4LKAch#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PPTQ1",
+    "FEN": "1n4k1/1b3pp1/4p2p/2pr4/1P1P4/2B2N1q/1P2B3/4QRK1 w - - 8 29",
+    "Moves": "e1h4 d5g5 g1f2 g5g2 f2e1 g2e2",
+    "Rating": "2061",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "1131",
+    "Themes": "crushing exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/eUTZinDm#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PPTdW",
+    "FEN": "Rnkr2nr/1pp1q2p/1P3p2/3bp3/7p/2P2NP1/2PQ1P1P/4KB1R b K - 0 17",
+    "Moves": "d5f3 f1h3 d8d7 h3d7 e7d7 a8b8 c8b8 d2d7",
+    "Rating": "2070",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "6812",
+    "Themes": "crushing deflection middlegame queensideAttack veryLong",
+    "GameUrl": "https://lichess.org/zeuV0AyG/black#34",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "PPU0U",
+    "FEN": "r1b2k1r/pp2b1p1/1q2ppQ1/2npP3/3N1PPp/2P4B/PP5P/R1B1K2R w KQ - 1 16",
+    "Moves": "f4f5 c5d3 e1d1 d3e5",
+    "Rating": "2342",
+    "RatingDeviation": "83",
+    "Popularity": "74",
+    "NbPlays": "49",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/Se942gRt#31",
+    "OpeningTags": "French_Defense French_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "PPURF",
+    "FEN": "r4rk1/ppp2p1p/4pQ2/4n2P/3qP3/1P6/P1Pb2BP/3R1R1K b - - 4 23",
+    "Moves": "d4c3 d1d2 c3d2 h5h6 d2h6 f6h6",
+    "Rating": "2375",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "107",
+    "Themes": "crushing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/qlXScQdp/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PPV8n",
+    "FEN": "5rk1/7p/R2P2p1/4R3/2Pp4/1P1QbrP1/6K1/2qB4 w - - 0 43",
+    "Moves": "d1f3 c1g1 g2h3 f8f3 e5e8 g8g7 a6a7 g7h6 a7h7 h6h7",
+    "Rating": "2050",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2326",
+    "Themes": "crushing deflection middlegame veryLong",
+    "GameUrl": "https://lichess.org/BpLwYn7W#85",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PPWDd",
+    "FEN": "3rk2r/pp2np1p/4b1p1/8/3N4/2NQ4/Pq3PPP/2R1R1K1 b k - 2 18",
+    "Moves": "e7f5 c1b1 d8d4 d3d4 f5d4 b1b2",
+    "Rating": "2180",
+    "RatingDeviation": "81",
+    "Popularity": "87",
+    "NbPlays": "293",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/zYOkJM6y/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  }
+]

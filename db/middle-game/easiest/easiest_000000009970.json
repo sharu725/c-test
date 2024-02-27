@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Te3FU",
+    "FEN": "3r1bk1/3r1p2/p4Qpp/qpp1p1N1/4P3/1P4PP/P4P2/3RR1K1 b - - 0 26",
+    "Moves": "d7d1 f6f7 g8h8 f7h7",
+    "Rating": "989",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "77",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/taSNUC03/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Te3GU",
+    "FEN": "2rq1rk1/1ppn1ppp/p3p3/3pP3/8/P1NQP1P1/1PP2PP1/R3K2R b KQ - 2 15",
+    "Moves": "d7e5 d3h7",
+    "Rating": "896",
+    "RatingDeviation": "86",
+    "Popularity": "75",
+    "NbPlays": "65",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/XKfp9YBK/black#30",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "Te5Ix",
+    "FEN": "r4rk1/pbp3pp/4p3/2R1Npq1/3P4/4P3/PP3PPP/3Q1RK1 w - - 1 18",
+    "Moves": "d1c1 g5g2",
+    "Rating": "800",
+    "RatingDeviation": "80",
+    "Popularity": "88",
+    "NbPlays": "130",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ij6vy2ep#35",
+    "OpeningTags": "English_Opening English_Opening_Agincourt_Defense"
+  },
+  {
+    "PuzzleId": "Te5LX",
+    "FEN": "r1r3kn/pp2qp2/4p1PQ/3pP2P/2bP4/P1P2N2/5P2/R3R1K1 b - - 0 22",
+    "Moves": "e7f8 h6h7",
+    "Rating": "990",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "219",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/IvtgWFZJ/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Te5MG",
+    "FEN": "2r2rk1/2q2p1p/p3pp2/2b5/1P2P3/3Q1N2/P4PPP/2RR2K1 b - - 0 21",
+    "Moves": "c5f2 g1f2 c7c1 d1c1",
+    "Rating": "821",
+    "RatingDeviation": "97",
+    "Popularity": "85",
+    "NbPlays": "343",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/Htifgwos/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Te8iH",
+    "FEN": "r5k1/1b2q1p1/1p2pr2/6p1/6R1/3B4/PP2Q1P1/4NR1K w - - 0 28",
+    "Moves": "g4g5 f6f1 e2f1 e7g5",
+    "Rating": "999",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "2154",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/lUbjKAJa#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Te9rR",
+    "FEN": "rnq2kr1/pN2np1Q/1p2p3/8/8/3R4/PPP2PP1/2K3NR b - - 0 20",
+    "Moves": "c8b7 d3d8",
+    "Rating": "711",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "307",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/8wxRfxTL/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TeAZX",
+    "FEN": "7r/2p2p2/2bp2k1/1rb1p1P1/p1N1P2P/P2P2K1/1P3P2/R6R b - - 6 40",
+    "Moves": "d6d5 c4e5 g6h5 e5c6",
+    "Rating": "889",
+    "RatingDeviation": "93",
+    "Popularity": "95",
+    "NbPlays": "1670",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/AzERCoop/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TeC9a",
+    "FEN": "r3k2r/ppp3pp/1b2p3/4P3/4nP2/2P2N2/PP4PP/R1B2R1K w kq - 0 16",
+    "Moves": "h2h3 e4g3 h1h2 g3f1",
+    "Rating": "896",
+    "RatingDeviation": "85",
+    "Popularity": "94",
+    "NbPlays": "1724",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/qyxwkgp4#31",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Beyer_Gambit"
+  }
+]

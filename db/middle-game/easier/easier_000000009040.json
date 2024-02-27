@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "RPXDb",
+    "FEN": "r3r1k1/1pp2ppp/p1nq4/3P4/2Q3b1/2B2N2/PP2RPPP/2KR4 b - - 0 17",
+    "Moves": "d6h6 c3d2",
+    "Rating": "1036",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "3237",
+    "Themes": "advantage defensiveMove middlegame oneMove",
+    "GameUrl": "https://lichess.org/Dx8BtI1O/black#34",
+    "OpeningTags": "Ponziani_Opening Ponziani_Opening_Jaenisch_Counterattack"
+  },
+  {
+    "PuzzleId": "RPXMD",
+    "FEN": "r2q2k1/pp3pp1/2p2n2/3p1b1r/5B2/P1N2QR1/1P3PPP/4R1K1 b - - 5 24",
+    "Moves": "f5g4 g3g4 f6g4 f3g4",
+    "Rating": "1023",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "585",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/XKfhhMpM/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RPXvA",
+    "FEN": "r2r4/ppp2Q1p/6Rk/3pq3/1P4b1/2PB2N1/P5PP/R6K b - - 0 25",
+    "Moves": "h7g6 f7g6",
+    "Rating": "1069",
+    "RatingDeviation": "89",
+    "Popularity": "79",
+    "NbPlays": "42",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ORMN2lDg/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RPYnU",
+    "FEN": "5r1k/pp2b1pp/3r1p2/2p5/6QN/P2nP3/1q1P1PPP/5RK1 b - - 1 22",
+    "Moves": "f8g8 h4g6 h7g6 g4h3",
+    "Rating": "1096",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "443",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/JJPUiS0U/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RPZE8",
+    "FEN": "r3k2r/p4p2/p1b1p1p1/2q2N1p/5Q1P/8/P1P2PP1/1R1R2K1 b kq - 0 20",
+    "Moves": "g6f5 b1b8 a8b8 f4b8 e8e7 b8h8",
+    "Rating": "1181",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "1872",
+    "Themes": "crushing long middlegame skewer",
+    "GameUrl": "https://lichess.org/4PF7fDRo/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RPb6w",
+    "FEN": "r1b3k1/2pq4/1pn1ppQ1/p7/3P4/2P1P3/PP4PP/R1B3K1 b - - 1 20",
+    "Moves": "d7g7 g6e8 g8h7 e8c6",
+    "Rating": "1086",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "352",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/amLoqbUm/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RPdV0",
+    "FEN": "3rr1k1/p3qppp/1p4n1/2pB1p2/8/1P2P3/P1PQ2PP/3R1RK1 b - - 0 20",
+    "Moves": "e7e3 d2e3 e8e3 d5f7 g8f7 d1d8",
+    "Rating": "1187",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "5388",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/pBzJrhUR/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RPe81",
+    "FEN": "2kr3r/1ppq1pp1/pbnpbn1p/3N4/2B1PB2/P2P4/1PPQ2PP/R3NR1K b - - 2 14",
+    "Moves": "f6d5 e4d5 e6d5 c4d5",
+    "Rating": "1004",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "8215",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/FH4Xgoq7/black#28",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "RPf4i",
+    "FEN": "r4rk1/1ppn2p1/p2pp2p/4p3/4Pq2/P1PP1N1P/1P2QPP1/R4RK1 b - - 8 19",
+    "Moves": "d7f6 g2g3 f4f3 e2f3",
+    "Rating": "1075",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "358",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/DDBe2utm/black#38",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  }
+]

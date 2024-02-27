@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "gX1Ga",
+    "FEN": "r1bk3N/ppp2Bpp/3p1n2/6B1/1b1PP3/3P4/PP2KP1q/RN1Q4 w - - 4 16",
+    "Moves": "d1a4 c8g4 e2e3 h2h3 f2f3 h3f3",
+    "Rating": "1702",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "65",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/bOsf0oca#31",
+    "OpeningTags": "Italian_Game Italian_Game_Blackburne-Kostic_Gambit"
+  },
+  {
+    "PuzzleId": "gX1si",
+    "FEN": "r1bk4/ppp1b1Q1/2p5/4P2p/3qn3/1B6/PPPP1rPP/RNB2RK1 w - - 0 14",
+    "Moves": "c2c3 f2f1 g1f1 d4f2",
+    "Rating": "1701",
+    "RatingDeviation": "75",
+    "Popularity": "80",
+    "NbPlays": "122",
+    "Themes": "attraction doubleCheck kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/1VxO1IAN#27",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "gXCNV",
+    "FEN": "5rk1/p1p2ppp/8/3B4/2Pq4/5Q2/n4PPP/1R4K1 b - - 0 23",
+    "Moves": "a2c3 f3f7 f8f7 b1b8",
+    "Rating": "1634",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "295",
+    "Themes": "endgame mate mateIn2 pin sacrifice short",
+    "GameUrl": "https://lichess.org/X7S5AmTr/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gXFCB",
+    "FEN": "r4k2/2p2ppp/pbPp4/8/4R3/2B2q1P/PPK5/4R3 b - - 1 23",
+    "Moves": "d6d5 c3b4 b6c5 b4c5 f8g8 e4e8 a8e8 e1e8",
+    "Rating": "1650",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "87",
+    "Themes": "backRankMate endgame mate mateIn4 veryLong",
+    "GameUrl": "https://lichess.org/HmZIRtFx/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gXLl6",
+    "FEN": "r2qk1r1/ppp2p2/1bPp3p/1B2p3/4P1nN/2P4b/PP3P1K/RNBQR3 w q - 3 14",
+    "Moves": "h2h3 g4f2 h3h2 d8h4",
+    "Rating": "1781",
+    "RatingDeviation": "108",
+    "Popularity": "90",
+    "NbPlays": "38",
+    "Themes": "deflection fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/CtNoKz6r#27",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "gXZ7P",
+    "FEN": "rr5k/6pp/3R4/2PQ1p2/5P2/1N4P1/1P2q2P/2K4R w - - 3 33",
+    "Moves": "h1d1 a8a1 b3a1 e2b2",
+    "Rating": "1699",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "8684",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/fy7e7TXS#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gXkD9",
+    "FEN": "2r2r1k/p5p1/4Q2p/b7/3Bp2P/2P1NbP1/P2qpP2/R3R1K1 b - - 2 29",
+    "Moves": "a5c3 e6h6 h8g8 h6g7",
+    "Rating": "1672",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "9413",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/eZvLZkyo/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gXrJz",
+    "FEN": "r2q3r/p3Nkpp/5p2/n4Q2/5p2/2P5/PP3PPP/4R1K1 b - - 3 24",
+    "Moves": "h8e8 f5e6 f7f8 e6g8",
+    "Rating": "1727",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "162",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/B98F9QMV/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gYIZP",
+    "FEN": "2R3k1/p3qpp1/1p5p/2P1pP1P/1P2P2b/PN4Q1/6K1/3r4 b - - 4 36",
+    "Moves": "g8h7 g3g6 f7g6 f5g6",
+    "Rating": "1621",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "13309",
+    "Themes": "endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/Bh3cAlzX/black#72",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "9CCCv",
+    "FEN": "r3k1nr/ppp2pQp/2p1b3/2q5/4P3/5PK1/P5PP/RN3B1R b kq - 5 15",
+    "Moves": "g8e7 g7h8 e8d7 h8a8 c5e5 g3f2",
+    "Rating": "2293",
+    "RatingDeviation": "78",
+    "Popularity": "82",
+    "NbPlays": "515",
+    "Themes": "advantage defensiveMove hangingPiece long middlegame skewer",
+    "GameUrl": "https://lichess.org/v7mucOiT/black#30",
+    "OpeningTags": "Scotch_Game Scotch_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "9CDdG",
+    "FEN": "r1q1k1nr/p6p/1p1R1ppB/2p1p3/4P2Q/2P5/P1PRb1PP/6K1 b kq - 3 21",
+    "Moves": "g8h6 h4f6 h6f7 d6e6 e8f8 e6e7",
+    "Rating": "2204",
+    "RatingDeviation": "82",
+    "Popularity": "89",
+    "NbPlays": "1542",
+    "Themes": "advantage exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/ZDR4Fl6E/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "9CF5t",
+    "FEN": "1r2r1k1/p1Q2p1p/6p1/4b3/3qB3/PP5P/2P2PP1/R3R1K1 w - - 3 20",
+    "Moves": "c7a5 e5g3 g1h1 g3f2",
+    "Rating": "2262",
+    "RatingDeviation": "106",
+    "Popularity": "86",
+    "NbPlays": "32",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/jcp0D24H#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "9CFGi",
+    "FEN": "2r1rk2/R1b2ppQ/5q1p/3P4/1Pp1p3/2P3PP/1B3P2/5RK1 w - - 0 28",
+    "Moves": "f1d1 e4e3 d1f1 e3f2",
+    "Rating": "2378",
+    "RatingDeviation": "79",
+    "Popularity": "81",
+    "NbPlays": "109",
+    "Themes": "advancedPawn advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/GO98mDL0#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "9CFbU",
+    "FEN": "r3k2r/pppb1p1p/2n4n/4P1q1/6pP/2N5/PPP1Q1P1/1K1R1BNR b kq h3 0 15",
+    "Moves": "g5e5 e2d2 e8c8 d2h6",
+    "Rating": "2191",
+    "RatingDeviation": "96",
+    "Popularity": "71",
+    "NbPlays": "44",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/MgEYkYBG/black#30",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "9CGTG",
+    "FEN": "4r1k1/p1p1r1pp/2pqbp2/2Np3Q/3P1P2/1P1P1R2/P1P3PP/R5K1 w - - 13 22",
+    "Moves": "a1e1 e6f7 e1e7 f7h5 e7e8 h5e8",
+    "Rating": "2300",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "105",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/u9wMldU5#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "9CHLh",
+    "FEN": "2kr3r/3nn1bp/pp3p2/1qpppP2/1P6/PNPP2PP/4N2K/R1BQ1R2 b - - 1 20",
+    "Moves": "c5c4 b3d4 e5d4 e2d4",
+    "Rating": "2140",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "357",
+    "Themes": "crushing middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/wsu5U2uE/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "9CJBS",
+    "FEN": "1k5r/ppp1p3/2n2b2/1Q5p/7P/8/P1Pq1PP1/1R3RK1 b - - 3 19",
+    "Moves": "c6d8 f1d1 a7a6 b5b3 d2d1 b1d1",
+    "Rating": "2153",
+    "RatingDeviation": "81",
+    "Popularity": "92",
+    "NbPlays": "40",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/pwpM40wa/black#38",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Scandinavian_Variation"
+  },
+  {
+    "PuzzleId": "9CJn0",
+    "FEN": "r1bqk2r/1p4pp/p2p1p2/4pPb1/1n2P3/2N3Q1/PPP1N1PP/R2K1B1R w kq - 0 14",
+    "Moves": "a2a3 d6d5 e4d5 b4d5 c3d5 d8d5",
+    "Rating": "2140",
+    "RatingDeviation": "80",
+    "Popularity": "70",
+    "NbPlays": "49",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/O1Nc1YIa#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  }
+]

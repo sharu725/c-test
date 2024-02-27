@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pWbbm",
+    "FEN": "r6k/ppp2p1p/3p2r1/4p3/2B1Pp1q/3P1b1P/PPPB1P1K/R3Q1R1 w - - 2 19",
+    "Moves": "c4f7 h4h3 h2h3 g6h6 f7h5 h6h5",
+    "Rating": "1849",
+    "RatingDeviation": "154",
+    "Popularity": "33",
+    "NbPlays": "20",
+    "Themes": "attraction long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/6NQfUpGh#37",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "pWbp9",
+    "FEN": "r1bq1r1k/ppp4p/6p1/2P3n1/2Bb1BP1/2N3K1/PP6/R2Q3R w - - 0 19",
+    "Moves": "f4g5 d4f2 g3g2 d8g5",
+    "Rating": "1898",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "99",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/QDFVCZse#37",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Four_Pawns_Attack"
+  },
+  {
+    "PuzzleId": "pWbvt",
+    "FEN": "5b1r/1b1k1p1p/2np4/1N1NpPq1/r7/8/PPP2PPP/R2Q1RK1 b - - 2 16",
+    "Moves": "a4g4 d1g4 g5g4 d5f6 d7e7 f6g4",
+    "Rating": "1964",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "2481",
+    "Themes": "attraction crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/UYL8HxtO/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  },
+  {
+    "PuzzleId": "pWcMQ",
+    "FEN": "1r5r/1Bpk1ppp/p5b1/8/1bpP2P1/4B2P/PP3P2/R4KR1 w - - 1 23",
+    "Moves": "b7a6 g6d3 f1g2 b8b6 a6c4 d3c4",
+    "Rating": "1931",
+    "RatingDeviation": "73",
+    "Popularity": "93",
+    "NbPlays": "6214",
+    "Themes": "advantage long master middlegame superGM trappedPiece",
+    "GameUrl": "https://lichess.org/MeGyLCg9#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pWdI0",
+    "FEN": "r2q1rk1/pp2npp1/2n1b2p/3p2B1/8/2PQ1N2/P1B2PPP/R4RK1 b - - 1 14",
+    "Moves": "e6f5 d3f5 e7f5 g5d8",
+    "Rating": "1858",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2846",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/qK4DKJoV/black#28",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations"
+  },
+  {
+    "PuzzleId": "pWduJ",
+    "FEN": "r4nk1/6p1/p1b1p2p/2N2p2/1q6/4QR2/2PR2PP/6K1 w - - 3 28",
+    "Moves": "f3g3 f5f4 g3g7 g8g7",
+    "Rating": "1878",
+    "RatingDeviation": "72",
+    "Popularity": "94",
+    "NbPlays": "9022",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/CNc8Al7S#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pWflK",
+    "FEN": "r4rk1/pppq1pp1/2n1b2B/2b1pN2/4N1P1/2Pn3P/PP3PB1/R2QR1K1 b - - 0 16",
+    "Moves": "e6f5 g4f5 d7f5 d1d3",
+    "Rating": "1972",
+    "RatingDeviation": "108",
+    "Popularity": "-24",
+    "NbPlays": "23",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/FU9pW3gk/black#32",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "pWgVf",
+    "FEN": "r7/3b3p/1p1k2p1/2rp1p2/1b3P2/2N1P1P1/1PK1B2P/2RR4 w - - 0 38",
+    "Moves": "c2d3 b4c3 c1c3 d7b5 d3d2 c5c3 d2c3 b5e2",
+    "Rating": "1878",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1690",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/rKrsPGiF#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pWhZx",
+    "FEN": "r1b1k2r/p1ppnpp1/1pn4p/4P3/3P2q1/P1PB1N1P/5PP1/R1BQK2R b KQkq - 0 12",
+    "Moves": "g4g2 h1h2 g2h2 f3h2",
+    "Rating": "1825",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "971",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/GmvU1slm/black#24",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  }
+]

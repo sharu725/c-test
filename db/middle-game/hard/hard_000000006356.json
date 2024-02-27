@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "GXHB5",
+    "FEN": "1r4k1/2rn1p2/4p1p1/4P3/p1N1b3/7R/PP2B1P1/K2R4 b - - 1 30",
+    "Moves": "d7c5 d1h1 g8g7 h3h7 g7f8 h7h8 f8e7 h8b8",
+    "Rating": "1750",
+    "RatingDeviation": "101",
+    "Popularity": "86",
+    "NbPlays": "27",
+    "Themes": "advantage middlegame quietMove skewer veryLong",
+    "GameUrl": "https://lichess.org/Io2b2w7a/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GXIqA",
+    "FEN": "2kr1b1r/pp1n1pp1/2p4p/3P4/PqBPn1b1/3QBN2/2P2PPP/R3R1K1 w - - 0 14",
+    "Moves": "d3e4 g4f3 e4f3 b4c4",
+    "Rating": "1693",
+    "RatingDeviation": "99",
+    "Popularity": "80",
+    "NbPlays": "28",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/TgQzsoZU#27",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "GXMqC",
+    "FEN": "r4rk1/pppq1p1p/3p1p2/2b5/2B1Pn2/5N1P/PP1N1P2/R2Q1RK1 w - - 1 15",
+    "Moves": "f3h4 d7h3 d1f3 h3h4",
+    "Rating": "1777",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "295",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/3zkzKcRx#29",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "GXNrM",
+    "FEN": "r4rk1/pp2bppp/3q1n2/2pP4/2PnpP2/2NQB3/PP2N1PP/R4RK1 w - - 0 14",
+    "Moves": "c3e4 d4e2 g1h1 f6e4",
+    "Rating": "1635",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1528",
+    "Themes": "advantage intermezzo kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/eN3exX6g#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "GXOxX",
+    "FEN": "r1bq2k1/ppp3pp/4pr2/3p4/2P1n3/4P3/PPQ2PPP/R1B1KB1R w KQ - 0 12",
+    "Moves": "f1d3 f6f2 d3e4 f2c2",
+    "Rating": "1676",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "103",
+    "Themes": "advantage attackingF2F7 middlegame short",
+    "GameUrl": "https://lichess.org/BMyeqXPt#23",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "GXSv1",
+    "FEN": "8/1r2k1p1/2p1p1p1/3p2P1/5P2/RBqP4/2P3r1/1KQ1R3 w - - 1 35",
+    "Moves": "b1a2 b7b3 a3b3 g2c2 c1c2 c3c2",
+    "Rating": "1701",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "3666",
+    "Themes": "crushing exposedKing fork long middlegame pin",
+    "GameUrl": "https://lichess.org/XqNPe78G#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GXT4Q",
+    "FEN": "5r1k/1pr3p1/p3p2p/3pR3/8/4R1P1/Pq4BP/3Q3K w - - 0 27",
+    "Moves": "e5e6 c7c1 d1c1 b2c1",
+    "Rating": "1711",
+    "RatingDeviation": "145",
+    "Popularity": "88",
+    "NbPlays": "6",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/wdVMCtlo#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GXUTt",
+    "FEN": "8/5Q1p/8/p1nrpRnk/8/2P1q1P1/PP2N1KP/8 b - - 12 38",
+    "Moves": "h5g4 h2h3 g5h3 f7h5",
+    "Rating": "1603",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "10692",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/4IAGkxus/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GXUkU",
+    "FEN": "1k1r3r/2pb3p/2Qb1qp1/1N1P4/4p3/8/PPP1NP1P/2KR3R w - - 1 20",
+    "Moves": "c6a6 d6f4 e2f4 f6a6",
+    "Rating": "1740",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "1351",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/RnumzclU#39",
+    "OpeningTags": ""
+  }
+]

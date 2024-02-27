@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "LCSBL",
+    "FEN": "r2qk2r/pp1nb1p1/2p1Qn2/6B1/8/2NB4/PPP2PPP/R5K1 b kq - 0 13",
+    "Moves": "d7c5 d3g6 e8f8 e6f7",
+    "Rating": "1006",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "263",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/bGQYUwsP/black#26",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "LCScE",
+    "FEN": "4r1k1/2p1q1p1/1p1b1p1p/3Ppb2/1PP1N3/2B5/5PPP/1Q2R1K1 w - - 7 24",
+    "Moves": "e4d6 f5b1",
+    "Rating": "1124",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "4298",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/3Br17dPG#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LCSjJ",
+    "FEN": "2k2r1N/ppp3pp/8/3Pp3/2Bn2n1/2PP3P/PP2b1P1/RNB1QqKR w - - 1 16",
+    "Moves": "e1f1 f8f1",
+    "Rating": "1082",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "912",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/YLeF7lCV#31",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "LCSlM",
+    "FEN": "rnb2k2/pppp1ppp/7q/3NpP2/2BbP3/3P2P1/PPP1K2P/1R1Q3R w - - 0 16",
+    "Moves": "d5c7 h6e3 e2f1 e3f2",
+    "Rating": "1008",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "402",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Zv09Ok3U#31",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Keenes_Defense"
+  },
+  {
+    "PuzzleId": "LCTdw",
+    "FEN": "1r2r3/1p5p/p2P2pk/6n1/6Pq/1B3R1P/P4P2/1RQ3K1 w - - 3 32",
+    "Moves": "d6d7 e8e1 c1e1 g5f3 g1g2 f3e1",
+    "Rating": "1080",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "596",
+    "Themes": "advantage attraction fork long middlegame",
+    "GameUrl": "https://lichess.org/S7L8zInv#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LCTfG",
+    "FEN": "1r2r1k1/5ppp/1P2p1q1/4P3/3Bp2Q/P3P3/3n1PPP/1R3RK1 w - - 11 28",
+    "Moves": "b1a1 d2f3 g1h1 f3h4",
+    "Rating": "1154",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "981",
+    "Themes": "crushing kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/hpJGK7e7#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LCUKj",
+    "FEN": "r2q1k1r/2pb2pp/p1nb1p2/1p1p4/3P1B2/3B4/PPPQ1PPP/2KR2NR b - - 1 12",
+    "Moves": "c6b4 f4d6 c7d6 d2b4",
+    "Rating": "1085",
+    "RatingDeviation": "90",
+    "Popularity": "68",
+    "NbPlays": "55",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/SURcNlHC/black#24",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "LCUT8",
+    "FEN": "r3r1k1/5pp1/1p1q3p/p5b1/P1Bp4/1P5P/3Q1PP1/3RR1K1 w - - 1 24",
+    "Moves": "d2d4 e8e1 d1e1 d6d4",
+    "Rating": "1100",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "122",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/7VQCQnBD#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LCV7O",
+    "FEN": "5rk1/rb1Q1ppp/p7/1p1B4/8/P7/1q3PPP/R4RK1 b - - 1 19",
+    "Moves": "b2d4 d5f7 f8f7 d7d4",
+    "Rating": "1165",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "5216",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/lTAoTDOP/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Accepted"
+  }
+]

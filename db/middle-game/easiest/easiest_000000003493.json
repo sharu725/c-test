@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "AIaG0",
+    "FEN": "r4rk1/1b3p1p/pp4pb/3q4/P1p1N3/N1Pp1P1P/1P4P1/R2Q1RK1 b - - 1 23",
+    "Moves": "b6b5 e4f6 g8h8 f6d5",
+    "Rating": "672",
+    "RatingDeviation": "96",
+    "Popularity": "86",
+    "NbPlays": "542",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/7cCbTxvk/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AIbAi",
+    "FEN": "r3R1k1/pp3ppp/6b1/2r3P1/Q4Pq1/8/P4PB1/5RK1 b - - 1 24",
+    "Moves": "a8e8 a4e8",
+    "Rating": "691",
+    "RatingDeviation": "102",
+    "Popularity": "57",
+    "NbPlays": "78",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/8iYDLyj9/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AIcGY",
+    "FEN": "r2qk1nr/ppp2pb1/3p3p/6P1/2B1P3/2N2Q2/PPP4P/R1B3K1 b kq - 0 12",
+    "Moves": "h6g5 f3f7",
+    "Rating": "963",
+    "RatingDeviation": "93",
+    "Popularity": "93",
+    "NbPlays": "877",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/8NIlYSRu/black#24",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Fischer_Defense"
+  },
+  {
+    "PuzzleId": "AIdym",
+    "FEN": "r4rk1/6pp/pbp3q1/1p1P4/5P2/2P3P1/PPB4P/R1BbR2K w - - 0 25",
+    "Moves": "c2g6 d1f3",
+    "Rating": "936",
+    "RatingDeviation": "99",
+    "Popularity": "73",
+    "NbPlays": "367",
+    "Themes": "doubleBishopMate master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/PtCAXaLb#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AIfl7",
+    "FEN": "r4rk1/1b3ppp/ppq1pn2/4n3/2Pp4/1P1P1NP1/P1Q1BPNP/1R3RK1 w - - 2 19",
+    "Moves": "c2d1 e5f3 e2f3 c6f3 d1f3 b7f3",
+    "Rating": "902",
+    "RatingDeviation": "94",
+    "Popularity": "91",
+    "NbPlays": "290",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/8RHZ0511#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "AIftH",
+    "FEN": "3r1rk1/p1pq1pp1/5nb1/2P4p/2Q1p1P1/Pn5P/1BP2P2/2KR2NR w - - 0 22",
+    "Moves": "c2b3 d7d1",
+    "Rating": "664",
+    "RatingDeviation": "90",
+    "Popularity": "84",
+    "NbPlays": "415",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/XVCxMnQp#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AIfyX",
+    "FEN": "r1b2qrk/1p3p2/p1n1pPpp/2p1P1Q1/2Bp1P2/P2P1R2/1PP4P/R1B3K1 b - - 1 19",
+    "Moves": "h6g5 f3h3 f8h6 h3h6",
+    "Rating": "641",
+    "RatingDeviation": "91",
+    "Popularity": "88",
+    "NbPlays": "694",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/GM4gQir1/black#38",
+    "OpeningTags": "French_Defense French_Defense_La_Bourdonnais_Variation"
+  },
+  {
+    "PuzzleId": "AIiDe",
+    "FEN": "5rk1/pp3q1p/2p2rp1/PPPp4/3P4/2N4n/3Q2PP/R4RK1 w - - 1 24",
+    "Moves": "g2h3 f6f1 a1f1 f7f1",
+    "Rating": "668",
+    "RatingDeviation": "87",
+    "Popularity": "81",
+    "NbPlays": "147",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/RKnVFkcY#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AIiDk",
+    "FEN": "3r2k1/p4pp1/3q1n1p/2n1p3/7Q/1NP1N3/PP3PPP/R5K1 w - - 6 29",
+    "Moves": "e3f5 d6d1 a1d1 d8d1",
+    "Rating": "578",
+    "RatingDeviation": "83",
+    "Popularity": "100",
+    "NbPlays": "76",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/yl76uWNQ#57",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Winpf",
+    "FEN": "2r3rk/1b1n2p1/pq2p1Rp/1p2Pp1Q/1P1p4/P1PB3P/5PP1/RN4K1 b - - 1 23",
+    "Moves": "d7e5 g6h6 g7h6 h5h6",
+    "Rating": "1275",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "1998",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/5ASbxZOw/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Wip2Q",
+    "FEN": "2b3k1/p1p3pp/2p5/2Bp1q2/3Q1P2/2P4P/PP2r1PK/R7 w - - 4 26",
+    "Moves": "a1f1 f5h3 h2g1 h3g2",
+    "Rating": "1332",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "355",
+    "Themes": "endgame mate mateIn2 pin short",
+    "GameUrl": "https://lichess.org/c5a79LJU#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WipAH",
+    "FEN": "4Q1k1/pp3r1p/2p3b1/4B3/3P4/7q/P2NrP1P/6RK b - - 10 30",
+    "Moves": "f7f8 g1g6 h7g6 e8g6",
+    "Rating": "1292",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "12067",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/FgDfbKev/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Wir7e",
+    "FEN": "r2qk2r/1p3pp1/p3p2p/1b1nN3/1bNP4/1P1QP1P1/2B1KPP1/R1R5 b kq - 8 18",
+    "Moves": "f7f6 d3g6 e8f8 g6f7",
+    "Rating": "1218",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "273",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/fUdWIyst/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "Wis6M",
+    "FEN": "k1r4r/p1pQ4/1p6/4P3/2RP1q1p/3P4/PP3PPP/2R3K1 w - - 3 28",
+    "Moves": "c4c7 f4c1 c7c1 c8c1",
+    "Rating": "1398",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "2290",
+    "Themes": "backRankMate endgame mate mateIn2 short xRayAttack",
+    "GameUrl": "https://lichess.org/11Owh7FH#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WizKP",
+    "FEN": "R7/6pk/7p/1P5r/8/5p1r/P4PRP/7K w - - 0 33",
+    "Moves": "g2g3 h3h2 h1g1 h2h1",
+    "Rating": "1287",
+    "RatingDeviation": "90",
+    "Popularity": "20",
+    "NbPlays": "70",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/nMXW8Jfz#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WizTU",
+    "FEN": "7k/ppnq1r2/2p3pQ/7p/3P4/2P5/PP3PPP/4R1K1 b - - 0 26",
+    "Moves": "f7h7 h6f8",
+    "Rating": "1286",
+    "RatingDeviation": "75",
+    "Popularity": "79",
+    "NbPlays": "102",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/rXutv9mV/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Wj03z",
+    "FEN": "6k1/5pP1/3r4/3N2R1/1p2K3/1P6/pr6/8 b - - 1 42",
+    "Moves": "a2a1q d5e7 g8h7 g7g8q h7h6 g8g7",
+    "Rating": "1315",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "6643",
+    "Themes": "advancedPawn endgame long mate mateIn3 promotion",
+    "GameUrl": "https://lichess.org/eyhlz7af/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Wj5Q5",
+    "FEN": "6k1/p4pp1/6p1/4q3/P7/6P1/7P/5RKR w - - 0 39",
+    "Moves": "h2h4 e5g3",
+    "Rating": "1398",
+    "RatingDeviation": "85",
+    "Popularity": "79",
+    "NbPlays": "170",
+    "Themes": "endgame mate mateIn1 oneMove queenRookEndgame",
+    "GameUrl": "https://lichess.org/Y1yEaBww#77",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "S2Wzk",
+    "FEN": "6k1/p1q1R1bp/1p3np1/2p5/2P5/5B1P/PP2QKP1/3r4 b - - 1 30",
+    "Moves": "d1d7 e2e6 g8h8 e7e8 f6e8 e6e8 g7f8 e8f8",
+    "Rating": "1962",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2296",
+    "Themes": "mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/xAGb93kJ/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "S2bAH",
+    "FEN": "r5k1/1pp2ppp/3p1n2/p1b1r2q/2P5/PPN1PpPP/1B1P1P1K/1R1Q3R w - - 4 19",
+    "Moves": "d2d4 h5h3 h2g1 h3g2",
+    "Rating": "1965",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "459",
+    "Themes": "master masterVsMaster mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/mBU9iI4Y#37",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "S3EW6",
+    "FEN": "r1bq1rk1/pp3ppp/8/1Np5/5Qn1/1BP5/PP3PP1/R3RK2 b - - 0 18",
+    "Moves": "d8h4 f4f7 f8f7 e1e8",
+    "Rating": "1906",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "8504",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/pZfhGlX3/black#36",
+    "OpeningTags": "Center_Game Center_Game_von_der_Lasa_Gambit"
+  },
+  {
+    "PuzzleId": "S3rRq",
+    "FEN": "4r1k1/pp1n1p2/3b2p1/2pq2P1/7Q/2PB4/3K1PP1/7R b - - 7 30",
+    "Moves": "g8g7 h4h6 g7g8 h6h8",
+    "Rating": "1834",
+    "RatingDeviation": "79",
+    "Popularity": "81",
+    "NbPlays": "696",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PJyonyxy/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "S3sy3",
+    "FEN": "7k/p1qn1ppp/8/5N2/3P4/3QP3/rr3PPP/R3KB1R w KQ - 0 20",
+    "Moves": "a1a2 c7c1 d3d1 c1c3 d1d2 c3d2",
+    "Rating": "1948",
+    "RatingDeviation": "100",
+    "Popularity": "54",
+    "NbPlays": "21",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/UWK99BDA#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "S3xuS",
+    "FEN": "k7/1R3R1p/pp6/8/P4BK1/6P1/2P2n1P/5q2 w - - 1 34",
+    "Moves": "g4h4 f1h3 h4g5 f2e4",
+    "Rating": "1818",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "2310",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/ENF4a3cd#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "S3ylC",
+    "FEN": "B6k/2pq1prp/p2p1Q2/1pb1p3/3nP2N/P1NP3b/1PP2PP1/R4RK1 w - - 0 18",
+    "Moves": "h4f5 d4f3 g1h1 h3g2",
+    "Rating": "1894",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "675",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/1ngcjvVW#35",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Piano"
+  },
+  {
+    "PuzzleId": "S42N0",
+    "FEN": "6R1/5p1p/6pk/4Q3/4P1PP/8/p4P1K/2q5 b - - 0 45",
+    "Moves": "a2a1q e5h5 g6h5 g4g5 c1g5 h4g5",
+    "Rating": "1952",
+    "RatingDeviation": "97",
+    "Popularity": "73",
+    "NbPlays": "50",
+    "Themes": "endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/A7IArjGC/black#90",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "S49vF",
+    "FEN": "2kr2r1/ppp1np2/3p4/3b4/4Q3/3BP3/P1PN1PPP/5RK1 w - - 6 20",
+    "Moves": "e4e7 g8g2 g1h1 g2g1 h1g1 d8g8 d3g6 g8g6 e7g5 g6g5",
+    "Rating": "1971",
+    "RatingDeviation": "101",
+    "Popularity": "67",
+    "NbPlays": "32",
+    "Themes": "attraction doubleCheck kingsideAttack mate mateIn5 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/CW6i6dnH#39",
+    "OpeningTags": ""
+  }
+]

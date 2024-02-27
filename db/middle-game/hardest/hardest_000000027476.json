@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "up8n2",
+    "FEN": "r4rk1/2q2p1p/p2b1npQ/1p1p1BP1/1P2p3/2P4R/P4P1P/RN4K1 b - - 0 26",
+    "Moves": "f6h5 h3h5 f7f6 f5e6 g8h8 h6g6",
+    "Rating": "2323",
+    "RatingDeviation": "79",
+    "Popularity": "83",
+    "NbPlays": "121",
+    "Themes": "advantage kingsideAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/blpGnfCA/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "up9T8",
+    "FEN": "4rrk1/pppn1pp1/2p3qp/4pR2/4P2Q/2NPP2P/PPP3P1/5RK1 b - - 5 17",
+    "Moves": "d7f6 f5f6 g7f6 f1f3",
+    "Rating": "2296",
+    "RatingDeviation": "92",
+    "Popularity": "82",
+    "NbPlays": "48",
+    "Themes": "advantage middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/es9fbsN6/black#34",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "upATO",
+    "FEN": "6k1/2Nn1q1p/3Q1bp1/3p1p2/2p2B2/3r1P1P/6P1/4R2K b - - 8 46",
+    "Moves": "c4c3 e1e8 d7f8 f4h6 f6g7 h6g7",
+    "Rating": "2048",
+    "RatingDeviation": "116",
+    "Popularity": "87",
+    "NbPlays": "10",
+    "Themes": "advantage long master middlegame",
+    "GameUrl": "https://lichess.org/wXUb1J1E/black#92",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "upAsW",
+    "FEN": "q1r3k1/4bppp/2b1p3/p2pN3/1p2nB2/4QPPB/PP2P2P/2R3K1 b - - 0 23",
+    "Moves": "e4d6 e5f7 d6f7 e3e6",
+    "Rating": "2371",
+    "RatingDeviation": "88",
+    "Popularity": "90",
+    "NbPlays": "799",
+    "Themes": "advantage capturingDefender discoveredAttack master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/D2ChOEiN/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "upBbA",
+    "FEN": "r4rk1/p1p4p/b1p5/3pPq1P/PP1BnpR1/5P2/2P5/R1Q1K3 b Q - 2 25",
+    "Moves": "g8h8 e5e6 e4f6 c1f4 f5f4 g4f4",
+    "Rating": "2365",
+    "RatingDeviation": "91",
+    "Popularity": "83",
+    "NbPlays": "78",
+    "Themes": "crushing discoveredAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/380rDcAF/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "upCSr",
+    "FEN": "5rk1/p3Brpp/1p1p4/8/1PQPp3/3q2P1/6PP/1R3R1K w - - 4 31",
+    "Moves": "c4d5 g8h8",
+    "Rating": "2079",
+    "RatingDeviation": "300",
+    "Popularity": "0",
+    "NbPlays": "2",
+    "Themes": "defensiveMove equality middlegame oneMove",
+    "GameUrl": "https://lichess.org/1RRvhqrJ#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "upDZh",
+    "FEN": "r1q1kr2/p2n1pQp/1p1Bp3/3p4/8/1N2P3/P1P2PPP/1n3RK1 b q - 2 18",
+    "Moves": "c8c2 g7g5 f7f6 g5g7",
+    "Rating": "2369",
+    "RatingDeviation": "79",
+    "Popularity": "63",
+    "NbPlays": "82",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/xNch6Ylz/black#36",
+    "OpeningTags": "Richter-Veresov_Attack Richter-Veresov_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "upEpO",
+    "FEN": "r3r1k1/pq2npp1/2pp1n1p/b7/8/2NBBN1P/PPP1Q1P1/1R3R1K w - - 10 19",
+    "Moves": "d3c4 e7f5 e2d3 f5e3",
+    "Rating": "2091",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "899",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/UkW5QcQD#37",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  },
+  {
+    "PuzzleId": "upGT5",
+    "FEN": "r2qr1k1/1p3pp1/p1nP1n1p/3p1Q2/5B2/5B2/PPP2PPP/R4RK1 w - - 0 17",
+    "Moves": "f3d5 c6d4 f5d3 d4e2 d3e2 e8e2",
+    "Rating": "2028",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "105",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/EMxkURjh#33",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  }
+]

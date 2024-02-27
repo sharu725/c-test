@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FWhTQ",
+    "FEN": "4r3/1p2rpk1/p3b1pN/6Q1/5P2/7P/P1q3P1/3R1R1K b - - 3 27",
+    "Moves": "c2b2 f4f5 b2f6 g5f6",
+    "Rating": "1612",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "672",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/79K3zyZO/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FWhip",
+    "FEN": "5r1r/4q1k1/p7/3p3p/P7/8/P3BbP1/2RQ1R1K w - - 2 28",
+    "Moves": "f1f2 e7h4 h1g1 h4f2",
+    "Rating": "1682",
+    "RatingDeviation": "82",
+    "Popularity": "72",
+    "NbPlays": "27",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/NwZC0fMO#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FWhvO",
+    "FEN": "3r1qk1/6p1/7p/4b3/2P1p1Q1/1P1nB2P/P4PP1/3R2K1 b - - 3 27",
+    "Moves": "d3c5 d1d8 f8d8 e3c5",
+    "Rating": "1709",
+    "RatingDeviation": "80",
+    "Popularity": "67",
+    "NbPlays": "64",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/vD99c9dB/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FWjV2",
+    "FEN": "5rk1/1pNb2pp/r2P2n1/p2P2q1/P5n1/6P1/1B3PB1/2RQ1RK1 w - - 1 25",
+    "Moves": "c7e6 g5h5 d1g4 h5g4",
+    "Rating": "1756",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "1318",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/fDGSuzaL#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FWkFX",
+    "FEN": "rnb2rk1/1pp3bp/p5p1/2PpPn1q/3P2pP/2N1P1B1/PP1QBN2/R2K3R w - - 1 19",
+    "Moves": "e2g4 f5e3 d2e3 c8g4 f2g4 h5g4",
+    "Rating": "1611",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "370",
+    "Themes": "crushing discoveredAttack exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/TKQAkex4#37",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Queens_Knight_Variation"
+  },
+  {
+    "PuzzleId": "FWkcn",
+    "FEN": "2r3k1/pp1b1p2/3pp1p1/4b3/P3P3/1Bq4P/R1P2QP1/4R1K1 w - - 4 33",
+    "Moves": "g1h1 e5g3 e1e3 g3f2 e3c3 c8c3",
+    "Rating": "1607",
+    "RatingDeviation": "76",
+    "Popularity": "81",
+    "NbPlays": "354",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/7kOhQwrx#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FWlsB",
+    "FEN": "r3r3/3q1pkp/1p2pnp1/p1np4/P7/2NP3P/BPPQ1PP1/R4RK1 b - - 1 17",
+    "Moves": "c5a4 c3a4 d7a4 a2d5 a4a1 f1a1",
+    "Rating": "1777",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "354",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/bgGOxPXm/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+  },
+  {
+    "PuzzleId": "FWlvb",
+    "FEN": "r3k1nr/1bp2p1p/p2p1qp1/8/8/2p1QN2/P1P2PPP/1R2KB1R b Kkq - 0 17",
+    "Moves": "e8d7 b1b7 a8e8 b7c7 d7c7 e3e8 g8e7 e8a4",
+    "Rating": "1707",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "7113",
+    "Themes": "advantage deflection hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/18Zl9n9Z/black#34",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "FWpOS",
+    "FEN": "r2qr1k1/pp1n1pp1/2pbbn1p/3p2B1/3P3P/2NB1N2/PPPQ1PP1/2K3RR b - - 3 12",
+    "Moves": "f6e4 c3e4 d5e4 g5d8",
+    "Rating": "1778",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "290",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/HTxqAUG2/black#24",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  }
+]

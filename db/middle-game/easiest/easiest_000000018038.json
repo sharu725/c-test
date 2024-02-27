@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "re6x0",
+    "FEN": "r1b2rk1/5ppp/2pqp3/1p6/Pp1PQ3/3BP3/RP3PPP/5RK1 b - - 1 19",
+    "Moves": "b5a4 e4h7",
+    "Rating": "831",
+    "RatingDeviation": "118",
+    "Popularity": "86",
+    "NbPlays": "62",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/u74ZGApt/black#38",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense"
+  },
+  {
+    "PuzzleId": "re9tA",
+    "FEN": "4rrk1/pb4bn/1pn1q2p/2p1Ppp1/2B2P2/1NP3B1/PP2Q1PP/4K1NR b K - 0 20",
+    "Moves": "g8h8 c4e6",
+    "Rating": "683",
+    "RatingDeviation": "112",
+    "Popularity": "81",
+    "NbPlays": "40",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/GDL8YODc/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "reBKL",
+    "FEN": "r1b2R1k/pppn2pp/3qp3/b7/3P4/2P2Q2/PP4PP/5RK1 b - - 2 18",
+    "Moves": "d7f8 f3f8 d6f8 f1f8",
+    "Rating": "613",
+    "RatingDeviation": "104",
+    "Popularity": "83",
+    "NbPlays": "309",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/xFK6NCmP/black#36",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Schallopp_Defense"
+  },
+  {
+    "PuzzleId": "reBxc",
+    "FEN": "2rr2k1/p2qb2p/1p3pp1/3np3/P2P4/5BB1/1P2QPPP/R4RK1 b - - 0 21",
+    "Moves": "e5d4 f3d5 d7d5 e2e7",
+    "Rating": "878",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "580",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/ozWAuWav/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "reCKM",
+    "FEN": "r2qr1k1/1p1bbpp1/5n1p/p1P5/1Pp2B2/2P2PN1/P1B3PP/R2Q1RK1 w - - 0 19",
+    "Moves": "d1e2 e7c5 b4c5 e8e2",
+    "Rating": "970",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "172",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/Kysy0Irk#37",
+    "OpeningTags": "French_Defense French_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "reCyh",
+    "FEN": "2r2rk1/pp4p1/4b2p/4p3/3pP3/P3qPP1/4B1PR/3QRK2 b - - 7 30",
+    "Moves": "e6c4 e2c4 c8c4 e1e3",
+    "Rating": "941",
+    "RatingDeviation": "123",
+    "Popularity": "85",
+    "NbPlays": "34",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/9KId4OxQ/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "reDA6",
+    "FEN": "r1b1r1k1/pp1pbppp/8/8/2P1Q3/2NB1N2/5PPP/q4RK1 b - - 6 17",
+    "Moves": "a1c3 e4h7 g8f8 h7h8",
+    "Rating": "938",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "138",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/yVUI31fI/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Wing_Gambit"
+  },
+  {
+    "PuzzleId": "reE4d",
+    "FEN": "r1b1r1k1/p2pnp1p/2pBp1p1/q6P/4P1P1/2P5/P1P2P2/R2QKB1R w KQ - 1 13",
+    "Moves": "h5g6 a5c3 d1d2 c3a1",
+    "Rating": "966",
+    "RatingDeviation": "86",
+    "Popularity": "93",
+    "NbPlays": "422",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/eTS9Y32R#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "reEbn",
+    "FEN": "r1b1k2r/2qpBpp1/pp2p3/2p4p/2BnP1n1/P1NP1N1P/1PP2PP1/R3QRK1 w kq - 1 12",
+    "Moves": "f3d4 c7h2",
+    "Rating": "589",
+    "RatingDeviation": "94",
+    "Popularity": "100",
+    "NbPlays": "69",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/kOLnwjYR#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "lc6aO",
+    "FEN": "8/8/1pK5/2p5/1r3p2/6r1/R6R/3k4 b - - 9 57",
+    "Moves": "b4b1 h2h1 g3g1 h1g1",
+    "Rating": "1415",
+    "RatingDeviation": "78",
+    "Popularity": "81",
+    "NbPlays": "104",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/HWSM8jan/black#114",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lc6cc",
+    "FEN": "6r1/1k6/2R1p3/pp6/4PQ1p/P2q3r/1P4P1/2R4K w - - 0 33",
+    "Moves": "g2h3 d3h3 f4h2 h3f3 h2g2 f3g2",
+    "Rating": "1442",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "4105",
+    "Themes": "endgame exposedKing long master mate mateIn3",
+    "GameUrl": "https://lichess.org/G68qktk6#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lc8EJ",
+    "FEN": "2r3k1/1p1n1p2/p3p1NB/3pP3/P4P1K/6QP/4q3/8 b - - 0 33",
+    "Moves": "g8h7 g6f8 c8f8 g3g7",
+    "Rating": "1497",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "15576",
+    "Themes": "clearance endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/kpgIwiek/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lc8t7",
+    "FEN": "6k1/6p1/p6p/1p3p2/3P1Q1P/1PP3Pb/P3q2r/R4N1K w - - 3 31",
+    "Moves": "f1h2 e2g2",
+    "Rating": "1407",
+    "RatingDeviation": "140",
+    "Popularity": "88",
+    "NbPlays": "87",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/lOv3Rx89#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lcAM8",
+    "FEN": "r3k1nr/pp3ppp/4b3/1B2P3/4p3/2P1B3/P4PPP/3RK2R b Kkq - 2 13",
+    "Moves": "e8e7 e3c5",
+    "Rating": "1517",
+    "RatingDeviation": "84",
+    "Popularity": "63",
+    "NbPlays": "371",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/61ujSVz0/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "lcJCs",
+    "FEN": "2rk4/2q5/3bQ3/p2P2P1/1p2p3/3N4/PPP5/1K3R2 w - - 2 38",
+    "Moves": "d3e5 c7c2 b1a1 c2c1 f1c1 c8c1",
+    "Rating": "1478",
+    "RatingDeviation": "83",
+    "Popularity": "81",
+    "NbPlays": "3229",
+    "Themes": "backRankMate endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/tTFmCry9#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lcLeF",
+    "FEN": "r3k2r/3p1pp1/ppb1p3/2q1P1Bp/2P1NPn1/3Q2PK/PP5P/3R1R2 b kq - 3 19",
+    "Moves": "c6e4 d3d7 e8f8 d7d8 a8d8 d1d8",
+    "Rating": "1545",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "3733",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/k3trnMDE/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kan_Variation"
+  },
+  {
+    "PuzzleId": "lcNHh",
+    "FEN": "6R1/2P1Np1k/p5pp/3p4/5p1P/1P6/1P2nPPK/2q5 w - - 5 34",
+    "Moves": "c7c8q c1g1 h2h3 g1h1 h3g4 h1g2",
+    "Rating": "1553",
+    "RatingDeviation": "78",
+    "Popularity": "96",
+    "NbPlays": "15142",
+    "Themes": "deflection endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/6CSluUVN#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lcRKy",
+    "FEN": "3r1rk1/1b3ppp/pp6/4N2q/2p2P2/Q1P1RPP1/P6P/4R1K1 b - - 2 27",
+    "Moves": "d8d2 a3f8 g8f8 e5d7 d2d7 e3e8",
+    "Rating": "1549",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "6608",
+    "Themes": "attraction clearance kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/DYFhuQEv/black#54",
+    "OpeningTags": ""
+  }
+]

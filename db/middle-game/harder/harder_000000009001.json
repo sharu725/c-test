@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "RIi3A",
+    "FEN": "r2k3r/1Q1bpB1p/p4Rp1/2q2n2/8/8/P1P3PP/3R3K b - - 0 25",
+    "Moves": "c5c8 d1d7 c8d7 b7a8 d8c7 a8a7",
+    "Rating": "1900",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "774",
+    "Themes": "crushing deflection long middlegame",
+    "GameUrl": "https://lichess.org/N24irlAA/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RIkOn",
+    "FEN": "2r3k1/p2b1pbp/3p1npB/3Pp2P/1pq1P1P1/5P2/PP1Q4/1KNN3R w - - 1 23",
+    "Moves": "h6g7 f6e4 f3e4 c4e4",
+    "Rating": "1914",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "48",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/1WRWJjfR#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RIlMN",
+    "FEN": "r1bqk2r/ppp2pp1/2p5/2b5/4P1pP/3P4/PPP2PP1/RNBQK2R w KQkq - 0 9",
+    "Moves": "c1g5 d8g5 h4g5 h8h1 e1e2 h1d1",
+    "Rating": "1832",
+    "RatingDeviation": "222",
+    "Popularity": "-100",
+    "NbPlays": "4",
+    "Themes": "advantage long middlegame skewer",
+    "GameUrl": "https://lichess.org/pfewkJoc#17",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "RIlUv",
+    "FEN": "r2q1rk1/4bppp/p1npbn2/1p2p1B1/2B1P3/2N2N2/PP2QPPP/2RR2K1 w - - 0 14",
+    "Moves": "g5f6 e6c4 f6e7 c4e2 e7d8 e2d1",
+    "Rating": "1805",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "233",
+    "Themes": "crushing long master middlegame",
+    "GameUrl": "https://lichess.org/9jGZ4ssB#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "RIlsq",
+    "FEN": "2r3k1/5Rr1/3pP1q1/3P4/P1Bp4/1N2bQPp/1P5P/7K w - - 1 36",
+    "Moves": "f7g7 g8g7 c4d3 g6d3",
+    "Rating": "1957",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2623",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/rzQZXOiR#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RImBT",
+    "FEN": "rnb1k2r/ppp1n1p1/5pqp/3Pp3/7Q/4BN2/P1PNBPPP/R5K1 b kq - 0 13",
+    "Moves": "e7d5 f3e5 f6e5 e2h5",
+    "Rating": "1871",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "1780",
+    "Themes": "clearance crushing master middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/6L6pjIJF/black#26",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Boi_Variation"
+  },
+  {
+    "PuzzleId": "RImIr",
+    "FEN": "r4rk1/1bqnbppp/p3p3/1pp1n3/P3N3/3PBN1P/1PP2PP1/R2QRBK1 w - - 1 16",
+    "Moves": "e3f4 e5f3 d1f3 e6e5",
+    "Rating": "1869",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1458",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/zuK6op4G#31",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Gubinsky-Melts_Defense"
+  },
+  {
+    "PuzzleId": "RImTs",
+    "FEN": "3rb1k1/R4pP1/1p4r1/2p5/2P1p2p/P1B1P2q/4QRP1/6K1 w - - 0 29",
+    "Moves": "f2f6 d8d1 f6f1 d1f1 e2f1 h3e3",
+    "Rating": "1806",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "884",
+    "Themes": "crushing kingsideAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/y7CAEl56#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RIn4Q",
+    "FEN": "rn3k2/ppp2ppp/8/8/5Bb1/5NP1/PPq1PKBP/RN5R w - - 0 11",
+    "Moves": "f4e5 g4f3 g2f3 c2c5 f2g2 c5e5",
+    "Rating": "1825",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "2660",
+    "Themes": "advantage fork long middlegame pin",
+    "GameUrl": "https://lichess.org/DwL7mCFO#21",
+    "OpeningTags": "Englund_Gambit Englund_Gambit_Other_variations"
+  }
+]

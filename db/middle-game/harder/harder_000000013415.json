@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ebwon",
+    "FEN": "5rk1/pprn1p1p/5Pp1/4Pp2/3P4/3Q1N1P/Pq1B2P1/3R2K1 b - - 8 24",
+    "Moves": "b2a2 d3e3 d7f6 e5f6",
+    "Rating": "1921",
+    "RatingDeviation": "76",
+    "Popularity": "55",
+    "NbPlays": "100",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/SeFIuhtM/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ebwor",
+    "FEN": "r1b2rk1/pp4p1/nq2p2p/2pP1pN1/2Q2B2/P3P3/1P3PPP/R4RK1 w - - 0 17",
+    "Moves": "d5e6 h6g5 e6e7 c8e6",
+    "Rating": "1910",
+    "RatingDeviation": "91",
+    "Popularity": "85",
+    "NbPlays": "23",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/2JsBrHYY#33",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "ebxX3",
+    "FEN": "4k2r/1b2pp1p/3p1npQ/p1q1n3/Pp1NP3/1BP2P2/2PK2PP/3RR3 w k - 0 20",
+    "Moves": "d4e2 b4c3 e2c3 c5d4 d2c1 d4c3",
+    "Rating": "1873",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "99",
+    "Themes": "advantage deflection long master middlegame",
+    "GameUrl": "https://lichess.org/gFNAcnaZ#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ebyeM",
+    "FEN": "2kr3r/ppp2ppp/5n2/2qnQ3/2B2P2/P1N2P1P/1P6/2KR3R b - - 1 17",
+    "Moves": "h8e8 e5f5 e8e6 c4d5 d8d5 d1d5 f6d5 f5d5 c5d5 c3d5",
+    "Rating": "1889",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "2177",
+    "Themes": "advantage middlegame queensideAttack veryLong",
+    "GameUrl": "https://lichess.org/1zgaGn9t/black#34",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "ebzEy",
+    "FEN": "r3r3/pp1q1pk1/2np2p1/1Bp1p3/4P3/P2P1N1b/1PPQ1PP1/1R3RK1 w - - 0 24",
+    "Moves": "f3g5 h3g2 f2f4 g2f1",
+    "Rating": "1892",
+    "RatingDeviation": "76",
+    "Popularity": "68",
+    "NbPlays": "57",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/yEbePjNW#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ec0Pv",
+    "FEN": "r3qbk1/5ppp/1p1pbP2/p1p3PP/4r3/4BN2/PPPQ4/2K1R2R b - - 0 23",
+    "Moves": "g7g6 h5g6 f7g6 h1h7",
+    "Rating": "1986",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "70",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/io3c79Pq/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ec0a7",
+    "FEN": "2rqr1k1/1p5p/pn1Pp1p1/3p4/3Q4/8/PPP1NRPP/5RK1 b - - 2 23",
+    "Moves": "d8d6 f2f7 d6c5 f7g7",
+    "Rating": "1931",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "5349",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/CaLNirDO/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ec3kz",
+    "FEN": "r4r2/ppp2k1p/4b3/4p3/1Q3q2/8/PB4PP/5RK1 b - - 1 19",
+    "Moves": "f7g8 f1f4 f8f4 b4e7",
+    "Rating": "1935",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "86",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/L8AeeGbz/black#38",
+    "OpeningTags": "Danish_Gambit_Accepted Danish_Gambit_Accepted_Other_variations"
+  },
+  {
+    "PuzzleId": "ec4Q1",
+    "FEN": "r2qk3/pp1n1pp1/2pbpn2/8/3P4/5NNr/PPP1QP1P/R1B1K1R1 w Qq - 4 13",
+    "Moves": "g3f5 d8a5 c1d2 a5f5",
+    "Rating": "1885",
+    "RatingDeviation": "88",
+    "Popularity": "80",
+    "NbPlays": "28",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/pVJjZqgI#25",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Main_Line"
+  }
+]

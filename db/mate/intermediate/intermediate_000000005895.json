@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "coZiG",
+    "FEN": "r4rk1/bb1p4/p3p2p/1P3pp1/8/P1NQ1BqP/1P2K1P1/3R3R w - - 6 24",
+    "Moves": "f3b7 g3f2",
+    "Rating": "1505",
+    "RatingDeviation": "99",
+    "Popularity": "71",
+    "NbPlays": "206",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/BTb6wMGx#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "coaPu",
+    "FEN": "7R/4Q3/3p2p1/2nP2k1/6P1/7P/5P1K/1r3q2 b - - 8 39",
+    "Moves": "g5f4 h8f8",
+    "Rating": "1479",
+    "RatingDeviation": "160",
+    "Popularity": "61",
+    "NbPlays": "83",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/IEWPCMjL/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "cobR0",
+    "FEN": "rn1r2k1/5pp1/7p/p3N3/2Bq3P/PQ2Rb2/1PP2P2/2K3R1 w - - 2 27",
+    "Moves": "e5f7 d4d1 g1d1 d8d1",
+    "Rating": "1582",
+    "RatingDeviation": "78",
+    "Popularity": "83",
+    "NbPlays": "61",
+    "Themes": "mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/IryyhbNx#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "codLm",
+    "FEN": "3k1br1/ppp4p/3p2q1/3Np3/B3P3/2PP2p1/PP3PPK/R2Q1R2 w - - 0 19",
+    "Moves": "f2g3 g6g3 h2g1 g3g2",
+    "Rating": "1425",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "3021",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/mT8dJwl5#37",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "cogGG",
+    "FEN": "r2qk2r/pp1bp1b1/1p1p4/3N2Np/2P2R2/3Bn3/PP4PP/R2Q2K1 b kq - 0 18",
+    "Moves": "e3d1 d3g6",
+    "Rating": "1461",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "540",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/PR1J0svc/black#36",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Four_Pawns_Attack"
+  },
+  {
+    "PuzzleId": "cogMD",
+    "FEN": "8/5pbk/2Q3pp/4P3/5P2/BB2r3/P2r1qPP/6RK w - - 9 36",
+    "Moves": "a3c5 f2g1 h1g1 e3e1",
+    "Rating": "1537",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "8017",
+    "Themes": "attraction mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/1PNXMfVJ#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "cohQe",
+    "FEN": "6rk/pp6/1b4rp/3Q1p2/3P1P2/P1PB3q/1P3RPP/5RK1 w - - 12 34",
+    "Moves": "d5f5 g6g2 g1h1 h3h2",
+    "Rating": "1451",
+    "RatingDeviation": "76",
+    "Popularity": "63",
+    "NbPlays": "86",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/C8NGwW4p#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "cohWg",
+    "FEN": "r1b2kn1/pp1n4/2p1p1Q1/q2p1pB1/2PP4/b1N1P3/PP3PPP/R3KB1R w KQ - 1 13",
+    "Moves": "e1c1 a5c3 c1b1 c3b2",
+    "Rating": "1506",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "350",
+    "Themes": "mate mateIn2 middlegame pin queensideAttack short",
+    "GameUrl": "https://lichess.org/nMABId74#25",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "cokI0",
+    "FEN": "r2r2k1/pp2qpp1/3pp1n1/2p3nQ/4P3/P1NP1N2/1PP2P2/2KR3R b - - 5 19",
+    "Moves": "g5f3 h5h7 g8f8 h7h8 g6h8 h1h8",
+    "Rating": "1455",
+    "RatingDeviation": "94",
+    "Popularity": "71",
+    "NbPlays": "238",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/prW9D2Cm/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  }
+]

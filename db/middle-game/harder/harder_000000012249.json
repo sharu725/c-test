@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "b32cm",
+    "FEN": "r1b1k3/pp6/2p2P2/4p2p/2B1Pn2/2P2P1r/P1P4P/3R1RK1 b q - 0 25",
+    "Moves": "b7b5 f6f7 e8e7 d1d8 f4g6 d8e8",
+    "Rating": "1850",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "616",
+    "Themes": "advancedPawn crushing long middlegame",
+    "GameUrl": "https://lichess.org/zws11469/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "b33GT",
+    "FEN": "4r3/3r4/8/7p/2Pb4/P2R4/3NB1bk/1R2K3 w - - 0 40",
+    "Moves": "d2f3 g2f3 d3f3 d7e7 e1d2 e7e2",
+    "Rating": "1830",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "181",
+    "Themes": "crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/AmIwpeBD#79",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "b35Ce",
+    "FEN": "r3r1k1/1p3pbp/2qR2p1/pNn1pb2/P1P5/B3P2P/2Q1BPP1/1R4K1 w - - 4 24",
+    "Moves": "c2d2 c5e4 d2c1 e4d6",
+    "Rating": "1891",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "3765",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/x2hqBZJ4#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "b35Xx",
+    "FEN": "r3k2r/p2qnppp/1p2p3/2Q1Pn2/3p4/2B2N2/PPP2PPP/2KR3R w kq - 0 14",
+    "Moves": "c5b4 e7d5 b4b3 d4c3",
+    "Rating": "1868",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "1734",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/KBd2fWi4#27",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Scandinavian_Variation"
+  },
+  {
+    "PuzzleId": "b35r5",
+    "FEN": "r1b2rk1/bpp2ppn/p6p/4P3/2N4B/2N5/PPP2PPP/R2R2K1 w - - 1 15",
+    "Moves": "d1d8 f8d8 h4d8 c8e6 d8c7 e6c4",
+    "Rating": "1922",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "56",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/hcnLXe3y#29",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "b36Rw",
+    "FEN": "2br2k1/B3ppbp/2B3p1/8/8/2P5/P2r1PPP/R2R2K1 w - - 2 19",
+    "Moves": "a7d4 d2d1 a1d1 e7e5",
+    "Rating": "1890",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "205",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/xETucVlS#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Hyperaccelerated_Fianchetto"
+  },
+  {
+    "PuzzleId": "b36yU",
+    "FEN": "r2q1rk1/1b1nbp1p/p3pnp1/1p1p2N1/3P1B2/P1NB1Q2/1PP2PPP/R3R1K1 w - - 0 13",
+    "Moves": "f3h3 f6h5 g5e6 f7e6",
+    "Rating": "1889",
+    "RatingDeviation": "85",
+    "Popularity": "70",
+    "NbPlays": "30",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/SlcNFG46#25",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "b37SB",
+    "FEN": "r3k3/p2n1p1p/2p4r/5p2/6q1/1N2P1P1/PQ3P1P/2R1R2K w q - 0 26",
+    "Moves": "c1c4 g4c4 b2h8 d7f8",
+    "Rating": "1982",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "265",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/IImeNcn8#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "b38hV",
+    "FEN": "r1bk3r/ppp2Qpp/4p3/4Pp2/1n1PpN2/3BB3/5PPP/q1KR3R w - - 2 16",
+    "Moves": "d3b1 a1c3 b1c2 c3c2",
+    "Rating": "1837",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "1785",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/SlNDkpNL#31",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Scandinavian_Variation"
+  }
+]

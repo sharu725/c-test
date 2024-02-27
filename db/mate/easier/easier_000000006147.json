@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "NCuKI",
+    "FEN": "8/8/1pB2K2/p1b3pk/P1P4p/8/1PbB2P1/8 b - - 5 46",
+    "Moves": "g5g4 c6e8 c2g6 e8g6",
+    "Rating": "1047",
+    "RatingDeviation": "87",
+    "Popularity": "87",
+    "NbPlays": "180",
+    "Themes": "bishopEndgame endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/LpJywxSl/black#92",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NCup5",
+    "FEN": "6k1/5Q2/p3r1p1/n7/7P/2P1q3/PP1r2PK/5R2 b - - 1 33",
+    "Moves": "g8h8 f7f8 h8h7 f1f7",
+    "Rating": "1017",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1026",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/GFV06hxO/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NCuqo",
+    "FEN": "2R5/3q4/Q4p2/3p1k2/8/6P1/5PP1/4r1K1 w - - 1 38",
+    "Moves": "g1h2 d7h7",
+    "Rating": "1074",
+    "RatingDeviation": "168",
+    "Popularity": "87",
+    "NbPlays": "41",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/0kbaR0kY#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NCv6E",
+    "FEN": "8/R7/2p1kr2/8/P1NP4/2n3P1/6P1/6K1 w - - 0 42",
+    "Moves": "a4a5 c3e2 g1h2 f6h6",
+    "Rating": "1139",
+    "RatingDeviation": "92",
+    "Popularity": "88",
+    "NbPlays": "44",
+    "Themes": "anastasiaMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/0zm7JqjH#83",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NCvfQ",
+    "FEN": "r4rk1/pp4pp/2pbp3/4Np2/3P1Nnq/P4Q2/1PP2PPP/R4RK1 w - - 4 19",
+    "Moves": "g2g3 h4h2",
+    "Rating": "1035",
+    "RatingDeviation": "79",
+    "Popularity": "86",
+    "NbPlays": "170",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/UIFk2GSt#37",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "NCyc3",
+    "FEN": "3k1b1r/1p2p3/2p2pB1/3P2p1/q1P5/4Q1Pp/P4P1P/3R2K1 w - - 3 30",
+    "Moves": "d5c6 a4d1 e3e1 d1e1",
+    "Rating": "1180",
+    "RatingDeviation": "76",
+    "Popularity": "78",
+    "NbPlays": "151",
+    "Themes": "endgame hangingPiece mate mateIn2 short",
+    "GameUrl": "https://lichess.org/sCjmeWJX#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NCziI",
+    "FEN": "4r1k1/1b3r2/p5Np/1pBp1qp1/3Qp3/P1P1RP2/6PP/4R1K1 w - - 2 28",
+    "Moves": "f3e4 f5f2 g1h1 f2f1 e1f1 f7f1",
+    "Rating": "1047",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2463",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/GGJL5cOd#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ND0mm",
+    "FEN": "r2qkb1r/ppp2p1p/2np1n2/6p1/2B1Ppb1/1QPP1N2/PP4PP/RNB2RK1 b kq - 1 8",
+    "Moves": "g4f3 c4f7 e8d7 b3e6",
+    "Rating": "1170",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "351",
+    "Themes": "attackingF2F7 mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/BYWmtIYY/black#16",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Fischer_Defense"
+  },
+  {
+    "PuzzleId": "ND1Tf",
+    "FEN": "r6k/pbpqbrBp/1pnpNn2/8/2PP2Q1/2N1R3/PP3PPP/R5K1 b - - 6 18",
+    "Moves": "f7g7 g4g7",
+    "Rating": "1076",
+    "RatingDeviation": "85",
+    "Popularity": "73",
+    "NbPlays": "65",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/iItkrmme/black#36",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  }
+]

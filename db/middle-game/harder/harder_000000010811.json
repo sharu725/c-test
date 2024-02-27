@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "WhjBa",
+    "FEN": "3q1rk1/rb2np1p/pp2pNp1/2p1P1Pn/P4B1Q/2pBP2P/1P3P2/R4RK1 b - - 3 21",
+    "Moves": "h5f6 g5f6 d8d3 f6e7",
+    "Rating": "1970",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "1164",
+    "Themes": "advancedPawn advantage middlegame short",
+    "GameUrl": "https://lichess.org/PRKKgfja/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Whl4M",
+    "FEN": "4r2k/7P/p2p1p2/q1pPr1b1/1pP1B3/1P6/P5Q1/1K2R2R w - - 1 41",
+    "Moves": "g2f2 e5e4 e1e4 e8e4 f2f5 e4e8",
+    "Rating": "1844",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2245",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/pG6edgt6#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WhlVT",
+    "FEN": "r5kr/1p1R2p1/2nB1bQp/2q5/p1b2N2/6P1/PPP4P/2K1R3 b - - 1 23",
+    "Moves": "c5g5 e1e8 a8e8 g6e8 g8h7 e8e4",
+    "Rating": "1976",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "2003",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/EpSPX52J/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Whln1",
+    "FEN": "2r2k1r/1b1p2pp/p2P1p2/1p3R2/5n1q/1B3PN1/PP3P1P/R2Q2K1 w - - 0 21",
+    "Moves": "a1c1 c8c1 d1c1 h4g3 f2g3 f4e2 g1f2 e2c1",
+    "Rating": "1970",
+    "RatingDeviation": "101",
+    "Popularity": "-17",
+    "NbPlays": "30",
+    "Themes": "advantage fork middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/chPrUqsT#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Whm93",
+    "FEN": "2kr1r2/Qpp1qppp/5n2/8/3p4/1PN1PP1P/P1P4P/R3K2R w KQ - 0 14",
+    "Moves": "e1c1 e7e3 c1b1 e3c3 d1d3 c3b4",
+    "Rating": "1974",
+    "RatingDeviation": "82",
+    "Popularity": "80",
+    "NbPlays": "38",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/vH4f0P3p#27",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Graz_Attack"
+  },
+  {
+    "PuzzleId": "WhmCC",
+    "FEN": "rn1q1rk1/1p2bppp/p1p2n2/5bB1/2BPN3/5PN1/PP4PP/R2Q1RK1 b - - 4 13",
+    "Moves": "f6e4 g5e7 d8e7 g3f5",
+    "Rating": "1920",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1388",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/na55TQye/black#26",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "WhnfS",
+    "FEN": "r1b1kn1r/1pp2Rpp/p1pqP3/6bQ/2B5/2P5/PP4PP/RN5K b kq - 4 17",
+    "Moves": "g5e7 f7f8 e8f8 h5f7",
+    "Rating": "1815",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2423",
+    "Themes": "attraction doubleCheck mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/n6SXMubc/black#34",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "WhnzG",
+    "FEN": "6k1/1b2np2/1p4p1/3q3p/rP6/3NQPPB/8/3R2K1 b - - 0 42",
+    "Moves": "e7c6 d3b2 a4a1 d1a1",
+    "Rating": "1968",
+    "RatingDeviation": "72",
+    "Popularity": "95",
+    "NbPlays": "5855",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ohIwnO0o/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Whq3m",
+    "FEN": "2r2rk1/1b3pp1/p3p2R/4q3/3p4/2PB4/PPQ5/1K4R1 b - - 0 26",
+    "Moves": "d4c3 d3h7 g8h8 h7g8 h8g8 c2h7",
+    "Rating": "1971",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "9340",
+    "Themes": "attraction discoveredAttack long mate mateIn3 middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/mNWhXE1n/black#52",
+    "OpeningTags": ""
+  }
+]

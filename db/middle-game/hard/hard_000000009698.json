@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PBRUK",
+    "FEN": "r6r/pp1kbppp/3p4/1qp5/1P1n4/2PQ3P/P4PP1/RNB1R1K1 w - - 1 16",
+    "Moves": "d3b5 d4b5",
+    "Rating": "1637",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "1",
+    "Themes": "equality middlegame oneMove",
+    "GameUrl": "https://lichess.org/tMktmnJh#31",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PBaRS",
+    "FEN": "3rr3/1bqn1pbk/pppp2p1/6Pn/2PNP3/1PN1B2P/P4QB1/3RR1K1 w - - 1 26",
+    "Moves": "f2f7 e8f8 d4e6 f8f7",
+    "Rating": "1645",
+    "RatingDeviation": "76",
+    "Popularity": "77",
+    "NbPlays": "316",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/JHHCoK3w#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PBdBp",
+    "FEN": "r4q1k/5r2/3p2QP/ppp1p1R1/n3P3/3P4/PPP2P2/2K4R b - - 0 26",
+    "Moves": "f8g8 g6g7 g8g7 h6g7 h8g8 h1h8",
+    "Rating": "1749",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "11420",
+    "Themes": "advancedPawn doubleCheck exposedKing kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/3swToQU4/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PBdlo",
+    "FEN": "r1b1r1k1/ppp2p1p/2n3p1/4q3/2B1Q3/2N5/PPP2PPP/R3R1K1 w - - 0 14",
+    "Moves": "c4f7 g8f7 e4f3 e5f5 e1e8 f7e8",
+    "Rating": "1726",
+    "RatingDeviation": "121",
+    "Popularity": "-92",
+    "NbPlays": "13",
+    "Themes": "advantage hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/8m5vPF9y#27",
+    "OpeningTags": "Russian_Game Russian_Game_Damiano_Variation"
+  },
+  {
+    "PuzzleId": "PBjIQ",
+    "FEN": "3n4/8/p2q2k1/1p3pb1/1P1r4/P5P1/5QK1/2RN2R1 w - - 0 39",
+    "Moves": "d1e3 d4d2 g1d1 d2f2",
+    "Rating": "1626",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1754",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/Oi2P16VV#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PBlLh",
+    "FEN": "r4rk1/pp1b1pbp/3p1np1/8/N1RBP3/qP1B4/P4PPP/3Q1R1K b - - 0 18",
+    "Moves": "a3a2 d3b1 a2a3 d4b2 a3b2 a4b2",
+    "Rating": "1723",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "235",
+    "Themes": "crushing long master middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/Cj20KOYS/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "PBlMA",
+    "FEN": "1rb2nk1/p1p2pp1/2Q5/8/N2q4/3B4/PPP2PP1/R5K1 w - - 1 22",
+    "Moves": "a1b1 c8d7 c6c7 b8c8",
+    "Rating": "1780",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "3412",
+    "Themes": "advantage clearance middlegame short",
+    "GameUrl": "https://lichess.org/PIxhAYnl#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PBlMF",
+    "FEN": "1r5k/2Q2P2/3bq2p/1pp1p1r1/P2nP3/7P/3R1RBK/8 w - - 3 37",
+    "Moves": "f7f8q b8f8 f2f8 d6f8",
+    "Rating": "1661",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1116",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/14PLu3bz#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PBmXq",
+    "FEN": "1r1qk2r/ppp2pp1/3p3p/4n2n/4P3/1QP2P1P/P3BP2/1RB1R1K1 b k - 4 16",
+    "Moves": "e5g6 b3b5 e8f8 b5h5",
+    "Rating": "1771",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "67",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Kq4VUPNE/black#32",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "eUgyF",
+    "FEN": "2r4k/1b2p1q1/pp1NP2p/2p5/1PP2P2/P2B3P/6P1/R2Q1nK1 w - - 0 25",
+    "Moves": "d6c8 g7g2",
+    "Rating": "1346",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "260",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/nflaL55b#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eUiiI",
+    "FEN": "r2q2k1/ppp2p1p/1b4p1/3P1N1r/4PP2/2PQ4/P5PP/3R1R1K w - - 0 21",
+    "Moves": "f5g3 h5h2 h1h2 d8h4",
+    "Rating": "1348",
+    "RatingDeviation": "76",
+    "Popularity": "67",
+    "NbPlays": "98",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/0TvtZAIL#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eUjKO",
+    "FEN": "rn2k1nr/pp3ppp/2p1p3/q2p1b2/1bPP1B2/PQN1P3/1P3PPP/R3KBNR b KQkq - 0 7",
+    "Moves": "g8f6 b3b4 a5b4 a3b4",
+    "Rating": "1329",
+    "RatingDeviation": "75",
+    "Popularity": "75",
+    "NbPlays": "162",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/esT19U8b/black#14",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "eUkUX",
+    "FEN": "1k1r3r/ppp4p/2q5/6Q1/4N2b/1P3P2/PB4PP/2R4K w - - 2 27",
+    "Moves": "g5h4 c6c1 b2c1 d8d1 h4e1 d1e1",
+    "Rating": "1274",
+    "RatingDeviation": "76",
+    "Popularity": "80",
+    "NbPlays": "736",
+    "Themes": "backRankMate fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/t0m7OtL2#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eUn6e",
+    "FEN": "3Qr1k1/1pp1nppp/1b6/1P6/5N2/2B1PqP1/5P1P/3R2K1 b - - 2 25",
+    "Moves": "e8f8 d8f8 g8f8 d1d8",
+    "Rating": "1395",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "17649",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/l9YyIPCH/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eUo8F",
+    "FEN": "1r3r2/p3ppk1/6B1/3pq2p/7P/P1n1PP2/1P4Q1/2K3RR b - - 0 24",
+    "Moves": "f7g6 g2g6 g7h8 g6h6",
+    "Rating": "1323",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2985",
+    "Themes": "master mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/A4N32GTK/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eUpc1",
+    "FEN": "r1r3k1/1p3p2/p4nbQ/3p4/4qP2/P1P4P/2P2PRK/6R1 b - - 2 29",
+    "Moves": "c8c3 g2g6 f7g6 g1g6 e4g6 h6g6 g8h8 g6f6",
+    "Rating": "1331",
+    "RatingDeviation": "397",
+    "Popularity": "43",
+    "NbPlays": "2",
+    "Themes": "crushing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/V0eByrDI/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eUs6j",
+    "FEN": "r3kbr1/1p1n3p/p1pP1p2/8/8/BP3R2/P1P2P1P/RN2K3 w Qq - 2 17",
+    "Moves": "b1c3 g8g1 e1e2 g1a1",
+    "Rating": "1285",
+    "RatingDeviation": "83",
+    "Popularity": "57",
+    "NbPlays": "36",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/KQf5R9vV#33",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_McConnell_Defense"
+  },
+  {
+    "PuzzleId": "eUttA",
+    "FEN": "r2q1rk1/pp2bppp/2n1pn2/3p2B1/Q5b1/2NP1NP1/PP2PPBP/R4RK1 b - - 5 10",
+    "Moves": "a7a6 g5f6 e7f6 a4g4",
+    "Rating": "1392",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "2635",
+    "Themes": "capturingDefender crushing middlegame short",
+    "GameUrl": "https://lichess.org/HNviwkns/black#20",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Slav_Formation"
+  }
+]

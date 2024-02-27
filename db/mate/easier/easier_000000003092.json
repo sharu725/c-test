@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Bghcs",
+    "FEN": "2r2rk1/3q1ppp/pnn1p3/1p5R/1P1PN3/P2Q1N2/5PPP/2R3K1 b - - 8 20",
+    "Moves": "c6b4 e4f6 g7f6 d3h7",
+    "Rating": "1190",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "162",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/IHL8HbLr/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BgjJ9",
+    "FEN": "r1b1r1k1/pppp1ppp/8/q5NQ/8/2PB2P1/P1P2K1P/8 b - - 0 19",
+    "Moves": "h7h6 h5f7 g8h8 f7e8",
+    "Rating": "1182",
+    "RatingDeviation": "75",
+    "Popularity": "65",
+    "NbPlays": "113",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/WCCrhaSd/black#38",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation"
+  },
+  {
+    "PuzzleId": "BgjkL",
+    "FEN": "rn2k2r/ppp2ppp/3bpn2/2P4q/3P4/5b2/PP2BPPP/RNBQ1RK1 w kq - 0 9",
+    "Moves": "e2f3 h5h2",
+    "Rating": "1032",
+    "RatingDeviation": "85",
+    "Popularity": "92",
+    "NbPlays": "569",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/tlpccx6q#17",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BglBB",
+    "FEN": "3r4/pp2kpp1/1q2b2p/4Q3/P1p1P3/2B5/5PPP/3R2K1 w - - 1 24",
+    "Moves": "d1d8 b6b1 d8d1 b1d1 c3e1 d1e1",
+    "Rating": "1155",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "92",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/IHiEa0Mq#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Bglf9",
+    "FEN": "r1bqr1k1/1pp1bpp1/2n1p2p/2Pn2B1/3P3P/P1N2N2/2Q2PPR/1BKR4 b - - 1 18",
+    "Moves": "a8a3 c2h7 g8f8 h7h8",
+    "Rating": "1125",
+    "RatingDeviation": "157",
+    "Popularity": "0",
+    "NbPlays": "9",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/6K8eaLtK/black#36",
+    "OpeningTags": "French_Defense French_Defense_Steiner_Variation"
+  },
+  {
+    "PuzzleId": "Bgllu",
+    "FEN": "r2qk2r/3b1ppp/p1n5/3pPpbQ/2NP4/2P5/P4PPP/R1B2RK1 b kq - 0 16",
+    "Moves": "g5c1 c4d6 e8e7 h5f7",
+    "Rating": "1132",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "3325",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/jbmDlVl2/black#32",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Bgm20",
+    "FEN": "6k1/pp3rpp/3b1q2/3B2N1/Pp4Q1/2PP3P/1P3PP1/R3r1K1 w - - 0 26",
+    "Moves": "a1e1 f6f2 g1h1 f2e1",
+    "Rating": "1058",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "253",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/LU9UGaiR#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BgmYh",
+    "FEN": "8/7R/3kpp2/2p5/5P2/r3K3/6PP/8 w - - 0 37",
+    "Moves": "e3e4 f6f5",
+    "Rating": "1029",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "672",
+    "Themes": "endgame master mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/Y4PTEeiz#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Bgwbl",
+    "FEN": "rnbq1rk1/5pp1/p2bp2p/1p6/3PQ3/P1NB1N2/1P3PPP/R3R1K1 b - - 1 15",
+    "Moves": "a8a7 e4h7",
+    "Rating": "1077",
+    "RatingDeviation": "182",
+    "Popularity": "-33",
+    "NbPlays": "9",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/QlM3QUcj/black#30",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation"
+  }
+]

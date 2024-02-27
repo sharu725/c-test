@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "woImX",
+    "FEN": "rnb2rk1/ppp2p1p/4p1pQ/6B1/3N4/3BK3/1q3PPP/7R b - - 3 17",
+    "Moves": "b8c6 g5f6 b2d4 f6d4 c6d4 e3d4",
+    "Rating": "1464",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "898",
+    "Themes": "crushing long middlegame quietMove",
+    "GameUrl": "https://lichess.org/NKY3527v/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Stonewall_Attack"
+  },
+  {
+    "PuzzleId": "woJlG",
+    "FEN": "r5k1/1b3ppp/2q2b2/1pp5/3p2Q1/1B1P3P/1PPB1PP1/4R1K1 w - - 0 20",
+    "Moves": "f2f3 c5c4 b3c4 b5c4",
+    "Rating": "1540",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "4031",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/XckVIcfB#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "woMIJ",
+    "FEN": "2rr3k/2q2Rb1/p5Pp/1p1Bp3/3P3Q/2p4P/P7/1R5K b - - 2 33",
+    "Moves": "c7d6 h4h6 g7h6 f7h7",
+    "Rating": "1561",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "2032",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/wTuXx9xO/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "woMt6",
+    "FEN": "r4rk1/3qnppp/4pnb1/ppbp4/7N/PBB1P1NP/1PP2PP1/R2QR1K1 b - - 3 17",
+    "Moves": "f6e4 h4g6 e7g6 g3e4",
+    "Rating": "1497",
+    "RatingDeviation": "98",
+    "Popularity": "-80",
+    "NbPlays": "18",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/z3HvKWGE/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "woNAi",
+    "FEN": "2r3k1/5R2/p2pr1p1/1p4Bn/2q5/P1b2Q1P/1PP3P1/5R1K w - - 0 29",
+    "Moves": "b2c3 c4f1 f3f1 h5g3 h1h2 g3f1",
+    "Rating": "1516",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "8197",
+    "Themes": "attraction crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/hryzGz7c#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "woOYG",
+    "FEN": "r3kb1r/p1p1qppp/2p5/3pP3/4n3/8/PPP1QPPP/RNB1K2R w KQkq - 0 11",
+    "Moves": "f2f3 e7h4 g2g3 e4g3",
+    "Rating": "1565",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "11409",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Udt4Hg1T#21",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "woSEl",
+    "FEN": "1r1r2k1/P7/1N1p2p1/3Pq2p/1Q4bP/3p2P1/6K1/1R3R2 b - - 0 36",
+    "Moves": "e5e2 f1f2 g4h3 g2g1",
+    "Rating": "1591",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "317",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/arTvLYJ7/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "woU2Y",
+    "FEN": "2r2rk1/1p3ppp/pqn1p3/3pPn2/1b1P4/P2Q1N2/1BR1NPPP/5RK1 w - - 0 18",
+    "Moves": "a3b4 c6b4 d3b3 c8c2",
+    "Rating": "1479",
+    "RatingDeviation": "72",
+    "Popularity": "96",
+    "NbPlays": "16235",
+    "Themes": "crushing discoveredAttack fork middlegame short",
+    "GameUrl": "https://lichess.org/R0m3alnn#35",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "woVRn",
+    "FEN": "4rr1k/pnp1Q1pp/8/8/3q4/2N5/PP3PPP/R1B2RK1 w - - 1 18",
+    "Moves": "e7c7 d4f2 f1f2 e8e1 f2f1 f8f1",
+    "Rating": "1458",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "3021",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/xUlsk9ho#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  }
+]

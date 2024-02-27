@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "nTteF",
+    "FEN": "r2q1rk1/pbp3pp/1p3p2/4pP2/3nN1P1/2PPB3/PP5P/R2Q1RK1 b - - 0 15",
+    "Moves": "d4b5 d1b3 f8f7 b3b5 a7a6 b5c4 b6b5 c4c5",
+    "Rating": "2505",
+    "RatingDeviation": "85",
+    "Popularity": "53",
+    "NbPlays": "67",
+    "Themes": "advantage fork master middlegame veryLong",
+    "GameUrl": "https://lichess.org/WCsnfMqP/black#30",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "nU2SN",
+    "FEN": "8/8/1k3n2/5B1p/4p1p1/2Bp4/6PP/6K1 w - - 0 46",
+    "Moves": "c3f6 d3d2 f6d4 b6c7 g1f2 d2d1q",
+    "Rating": "2439",
+    "RatingDeviation": "95",
+    "Popularity": "89",
+    "NbPlays": "852",
+    "Themes": "advancedPawn bishopEndgame crushing defensiveMove endgame long master promotion",
+    "GameUrl": "https://lichess.org/sQkZ52h7#91",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nUMO8",
+    "FEN": "8/8/4R3/6p1/7n/6pk/8/6K1 w - - 10 53",
+    "Moves": "e6f6 g3g2 f6h6 h3g3 h6h4 g3h4 g1g2 h4g4",
+    "Rating": "2458",
+    "RatingDeviation": "88",
+    "Popularity": "89",
+    "NbPlays": "1370",
+    "Themes": "advancedPawn crushing defensiveMove endgame master veryLong zugzwang",
+    "GameUrl": "https://lichess.org/dmsWa4HN#105",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nUTQN",
+    "FEN": "2r3k1/pp3pp1/5P2/2p1r1PP/3n2Q1/2BBq3/PPP5/5R1K b - - 2 35",
+    "Moves": "c8e8 g5g6 g7f6 f1f6 e3c1 d3f1",
+    "Rating": "2780",
+    "RatingDeviation": "97",
+    "Popularity": "85",
+    "NbPlays": "812",
+    "Themes": "crushing defensiveMove long master middlegame",
+    "GameUrl": "https://lichess.org/TSYN1Rbk/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nUaJF",
+    "FEN": "8/8/6R1/3k4/p2p3P/6P1/5r2/2K5 w - - 0 51",
+    "Moves": "h4h5 a4a3 g6a6 a3a2 h5h6 f2h2 h6h7 h2h7",
+    "Rating": "2552",
+    "RatingDeviation": "87",
+    "Popularity": "73",
+    "NbPlays": "87",
+    "Themes": "advancedPawn crushing endgame master masterVsMaster rookEndgame veryLong",
+    "GameUrl": "https://lichess.org/4hiZfvdc#101",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nUaj4",
+    "FEN": "8/4p3/R4kp1/4r2p/7K/5P1P/6P1/8 b - - 9 50",
+    "Moves": "e5e6 a6e6 f6e6 h4g5 e6f7 f3f4 e7e6 g5h6 f7f6 g2g4 h5h4 g4g5 f6f5 h6g7 f5f4 g7g6",
+    "Rating": "2677",
+    "RatingDeviation": "81",
+    "Popularity": "77",
+    "NbPlays": "58",
+    "Themes": "crushing endgame master quietMove rookEndgame veryLong",
+    "GameUrl": "https://lichess.org/dJPmPJ24/black#100",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nV8Ps",
+    "FEN": "8/5k2/p6p/1p1pPKpP/1P1P4/2P5/8/8 b - - 1 50",
+    "Moves": "f7f8 f5e6 g5g4 e6d7",
+    "Rating": "2454",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "1655",
+    "Themes": "crushing endgame master masterVsMaster pawnEndgame short",
+    "GameUrl": "https://lichess.org/FwYfzSxF/black#100",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nV9L5",
+    "FEN": "1r1r3k/2q5/3p1bQP/1p1np1B1/8/P4P2/2P5/2K3RR b - - 1 32",
+    "Moves": "c7e7 h6h7 f6g5 g1g5 e7g5 g6g5",
+    "Rating": "2556",
+    "RatingDeviation": "105",
+    "Popularity": "86",
+    "NbPlays": "210",
+    "Themes": "advancedPawn crushing long master middlegame",
+    "GameUrl": "https://lichess.org/DeFEIg1w/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nVGmr",
+    "FEN": "8/7p/4kpp1/8/p1K1P2P/5PP1/8/8 w - - 2 45",
+    "Moves": "f3f4 h7h5 c4b4 e6d6",
+    "Rating": "2681",
+    "RatingDeviation": "105",
+    "Popularity": "91",
+    "NbPlays": "829",
+    "Themes": "crushing defensiveMove endgame master pawnEndgame quietMove short",
+    "GameUrl": "https://lichess.org/RI4fjVJI#89",
+    "OpeningTags": ""
+  }
+]

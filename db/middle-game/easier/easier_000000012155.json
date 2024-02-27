@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "az6nq",
+    "FEN": "r1b2rk1/pp3ppp/2n5/q3p1N1/3pN3/bP1Q2P1/P1PP1PBP/1K1R3R b - - 1 15",
+    "Moves": "h7h6 e4f6 g7f6 d3h7",
+    "Rating": "1149",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "232",
+    "Themes": "clearance kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/lmgc2OE5/black#30",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "az87f",
+    "FEN": "rn3rk1/ppp2ppp/3q4/5b2/3Pp3/3BP2P/PP3PP1/R2QK1NR w KQ - 0 11",
+    "Moves": "d3c4 d6b4 d1d2 b4c4",
+    "Rating": "1096",
+    "RatingDeviation": "82",
+    "Popularity": "47",
+    "NbPlays": "43",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/MAQV4gyx#21",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "az8SH",
+    "FEN": "r4r1k/p1b2ppp/3q4/3Pn3/8/4BN2/PPPQ1PPP/R4RK1 w - - 5 19",
+    "Moves": "e3f4 e5f3 g2f3 d6f4 d2f4 c7f4",
+    "Rating": "1084",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "383",
+    "Themes": "advantage discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/5cb0MXpc#37",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Spanish_Variation"
+  },
+  {
+    "PuzzleId": "az8SN",
+    "FEN": "r1b1k2r/pp4pp/4pp2/8/3P3N/2P1p1q1/PP4P1/R1BQK2R w KQkq - 0 19",
+    "Moves": "e1f1 g3f2",
+    "Rating": "1151",
+    "RatingDeviation": "286",
+    "Popularity": "67",
+    "NbPlays": "11",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/WK85YV25#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Steinitz_Countergambit"
+  },
+  {
+    "PuzzleId": "azAo7",
+    "FEN": "r3r1k1/2p1P1pp/1b1P2p1/8/2Pp2P1/p5qP/Q7/1K1RR3 b - - 0 35",
+    "Moves": "g3d6 c4c5 g8h8 c5d6",
+    "Rating": "1124",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "92",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/iNLmj9xN/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "azBMk",
+    "FEN": "5rk1/1R3p1p/p3r3/q4p2/2p5/8/PPQ2BPP/3R2K1 w - - 1 32",
+    "Moves": "d1d7 e6e1 f2e1 a5e1",
+    "Rating": "1027",
+    "RatingDeviation": "150",
+    "Popularity": "38",
+    "NbPlays": "13",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/ntzfikaP#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "azCZB",
+    "FEN": "2r2bk1/2r2p1p/2p3p1/p3P3/Pq3P2/4B1P1/2QR3P/3R2K1 w - - 1 25",
+    "Moves": "d2d8 c8d8 d1d8 b4e1 g1g2 e1e3",
+    "Rating": "1156",
+    "RatingDeviation": "81",
+    "Popularity": "81",
+    "NbPlays": "102",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/sjMVhhxJ#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "azDv0",
+    "FEN": "6k1/2rb1p1p/1p2pbp1/3p2Nn/1p1q2PQ/1P1P4/P3PPBP/1R4K1 b - - 0 26",
+    "Moves": "h5f4 h4h7 g8f8 h7f7",
+    "Rating": "1028",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1198",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/W4TOLmCg/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "azGyY",
+    "FEN": "1k2r2r/ppp2pp1/2nq4/3p4/Q2PP3/3BnNPp/PP1N1P2/R4RK1 w - - 1 18",
+    "Moves": "f2e3 d6g3 g1h1 g3g2",
+    "Rating": "1049",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "804",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/kGkEEvHj#35",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  }
+]

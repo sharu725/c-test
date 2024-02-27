@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DPO16",
+    "FEN": "5rk1/p1qnbppp/2p1p3/P1Pp4/3PbP2/Q3PN2/2rBB1PP/R4RK1 b - - 4 18",
+    "Moves": "e4f3 e2f3 c2d2 a3c3 d2d4 e3d4",
+    "Rating": "1846",
+    "RatingDeviation": "227",
+    "Popularity": "100",
+    "NbPlays": "15",
+    "Themes": "equality long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/njch9ePe/black#36",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DPOJC",
+    "FEN": "2b2rk1/1p2bppp/4pn2/q2p4/3N4/nQN1P1P1/3B1P1P/R4BK1 b - - 3 23",
+    "Moves": "a5b4 c3d5 f6d5 d2b4",
+    "Rating": "1821",
+    "RatingDeviation": "95",
+    "Popularity": "86",
+    "NbPlays": "31",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/mXb8Q0uC/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DPOlD",
+    "FEN": "4r1k1/1b3pbp/p1q3p1/2P1n3/1P3n2/PQ3P2/5BPP/2RR1BK1 w - - 4 28",
+    "Moves": "d1d6 f4h3 g2h3 e5f3",
+    "Rating": "1906",
+    "RatingDeviation": "105",
+    "Popularity": "50",
+    "NbPlays": "48",
+    "Themes": "advantage deflection kingsideAttack middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/9Xo549PS#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DPOnK",
+    "FEN": "2r2k2/1b3p1p/pq1P1np1/4Q3/p7/P5PP/1P3PB1/3R2K1 b - - 0 29",
+    "Moves": "f8g7 d6d7 c8d8 d1d6 b6d6 e5d6",
+    "Rating": "1862",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "364",
+    "Themes": "advancedPawn advantage clearance long master middlegame",
+    "GameUrl": "https://lichess.org/w6sE3Wio/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DPPaM",
+    "FEN": "2rr2k1/5ppp/p3n3/3n4/NqNPpb2/1P2B2P/P1P1QPP1/R2R1K2 w - - 3 26",
+    "Moves": "e2e1 c8c4 e1b4 c4b4",
+    "Rating": "1980",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1793",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/p4INlAuG#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DPPbJ",
+    "FEN": "3r2k1/1R3p1p/3q2p1/8/p7/3n1QPP/P4P1K/2rBR3 b - - 0 27",
+    "Moves": "d6d5 e1e8 g8g7 e8d8 d5f3 d1f3",
+    "Rating": "1924",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "217",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/bxuPBAAR/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DPQcK",
+    "FEN": "2kr4/pppb1p1p/q7/4Q3/2N1n3/1P2P2P/P4PP1/2R3K1 b - - 6 21",
+    "Moves": "a6e6 e5e4 e6e4 c4d6 c8b8 d6e4",
+    "Rating": "1932",
+    "RatingDeviation": "86",
+    "Popularity": "69",
+    "NbPlays": "27",
+    "Themes": "advantage attraction long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/rrUw5gSm/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DPRCr",
+    "FEN": "2kr4/ppp3pp/4p3/2b4q/7P/4PnP1/PP2N1K1/R2Q1R2 w - - 0 19",
+    "Moves": "d1b3 f3h4 g3h4 h5e2",
+    "Rating": "1906",
+    "RatingDeviation": "74",
+    "Popularity": "81",
+    "NbPlays": "77",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/myaaqqgd#37",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "DPRf2",
+    "FEN": "r3k2r/1pp2pp1/p1pq1nbp/2b1N3/4P1P1/3P3P/PPPN1P2/R1BQR1K1 w kq - 1 12",
+    "Moves": "e5g6 d6g3 g1h1 g3h3",
+    "Rating": "1984",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "200",
+    "Themes": "crushing kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/y7WJlOGx#23",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  }
+]

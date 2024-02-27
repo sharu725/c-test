@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BEOM2",
+    "FEN": "2r2r1k/1b3ppp/pp2pB2/3nP3/q1B3Q1/6RP/1P3PP1/2R3K1 b - - 5 23",
+    "Moves": "f8g8 f6g7 g8g7 g4g7",
+    "Rating": "1249",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "85",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/HPDEKtOI/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BEQ8l",
+    "FEN": "7q/p1nk1P2/1p2p2r/3b3B/1P6/P4nP1/1B3P2/R2Q1RK1 w - - 1 27",
+    "Moves": "h5f3 h6h1 f3h1 h8h1",
+    "Rating": "1279",
+    "RatingDeviation": "83",
+    "Popularity": "67",
+    "NbPlays": "40",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/qeCXbPd8#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BEQs0",
+    "FEN": "1k5r/ppp3p1/2qp1b2/5Q1p/3B2nP/2P2N2/PP2rP2/2KR1R2 b - - 1 24",
+    "Moves": "b7b6 d4f6 g4f6 f3d4",
+    "Rating": "1296",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "604",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/iWrVxEFG/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BERYQ",
+    "FEN": "r6k/1bp3pp/1pn5/3B2q1/3P1n2/2N2P2/PP4PP/R2QR1K1 w - - 1 21",
+    "Moves": "d1d2 f4h3 g1h1 g5d2",
+    "Rating": "1379",
+    "RatingDeviation": "73",
+    "Popularity": "97",
+    "NbPlays": "12353",
+    "Themes": "advantage discoveredAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/kxRrveoh#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BEVCF",
+    "FEN": "r1b2r2/pp2Npbk/6p1/7P/3n1BB1/8/PqP2P2/R2QK1R1 b Q - 0 16",
+    "Moves": "b2a1 h5g6 f7g6 g1h1 g7h6 h1h6",
+    "Rating": "1332",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "949",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/Ec0eLeli/black#32",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "BEYgd",
+    "FEN": "r1b1k1nr/2pp1ppp/1b6/pN6/PpQ1P3/1B6/1PPK3P/R6q b kq - 1 17",
+    "Moves": "h1a1 c4f7 e8d8 f7f8",
+    "Rating": "1331",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "7894",
+    "Themes": "attackingF2F7 mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/rEXfTJbA/black#34",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "BEa02",
+    "FEN": "2r5/bpp2p1k/p5rp/P1qPR3/5P1N/2QB2P1/1P6/5K2 w - - 1 37",
+    "Moves": "h4g6 c5f2",
+    "Rating": "1205",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "323",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/0yPsuvaU#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BEaab",
+    "FEN": "r2q2k1/4b1p1/2b1p1B1/3pP2Q/p1p2p2/1pP5/PP3P2/R5K1 b - - 3 27",
+    "Moves": "e7g5 h5h7 g8f8 h7h8 f8e7 h8g7",
+    "Rating": "1302",
+    "RatingDeviation": "75",
+    "Popularity": "79",
+    "NbPlays": "141",
+    "Themes": "deflection kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/lXZZcxbC/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BEam2",
+    "FEN": "6k1/1pp2ppp/5n2/q2P4/1p1Qr1b1/1B6/1PP2PPP/2B2RK1 w - - 1 19",
+    "Moves": "d4d3 g4e2 d3d2 e2f1",
+    "Rating": "1378",
+    "RatingDeviation": "216",
+    "Popularity": "-100",
+    "NbPlays": "4",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/M2BUzMqH#37",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  }
+]

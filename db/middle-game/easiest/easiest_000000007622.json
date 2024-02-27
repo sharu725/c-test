@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "McSML",
+    "FEN": "r2k3r/1b1n4/2p1R1Bp/p1qp1P2/Pp3B2/3Q2P1/1P3nPK/4R3 b - - 5 29",
+    "Moves": "f2d3 e6e8 h8e8 e1e8",
+    "Rating": "683",
+    "RatingDeviation": "81",
+    "Popularity": "99",
+    "NbPlays": "648",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/JkFNGipC/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "McTLS",
+    "FEN": "3rn1k1/2p3pp/pb2p3/np4N1/8/8/PP3rPP/RNB2RK1 w - - 0 17",
+    "Moves": "f1f2 d8d1",
+    "Rating": "752",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "279",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/Q9GoOc7e#33",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Classical_Variation"
+  },
+  {
+    "PuzzleId": "McTLw",
+    "FEN": "4rqk1/pppn1pp1/7p/5b2/2BP4/1QP2NP1/PP4P1/5R1K w - - 0 21",
+    "Moves": "c4f7 f8f7 b3f7 g8f7",
+    "Rating": "643",
+    "RatingDeviation": "94",
+    "Popularity": "89",
+    "NbPlays": "704",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/tGsAH0MZ#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "McTfp",
+    "FEN": "r4rk1/p1R2ppp/4p1n1/4P3/5P2/1P1B3P/6n1/R3B1K1 w - - 0 26",
+    "Moves": "g1g2 g6f4 g2f1 f4d3",
+    "Rating": "615",
+    "RatingDeviation": "93",
+    "Popularity": "71",
+    "NbPlays": "104",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/nSM8yreZ#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "McV4T",
+    "FEN": "6k1/1p1b1r1p/p4RpQ/8/8/P7/2q2PPP/B2R2K1 w - - 0 33",
+    "Moves": "f6d6 c2f2 g1h1 f2f1 d1f1 f7f1",
+    "Rating": "998",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "1071",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/J7mc4BmC#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "McVa9",
+    "FEN": "r1b2rk1/4qpbp/p4p2/4p2Q/4p3/3BN3/PP3PPP/R3K2R w KQ - 0 17",
+    "Moves": "d3e4 e7b4 e1e2 b4e4",
+    "Rating": "844",
+    "RatingDeviation": "78",
+    "Popularity": "99",
+    "NbPlays": "897",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/H00nMDSe#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  },
+  {
+    "PuzzleId": "McWPC",
+    "FEN": "2rr2k1/pq2bp2/np2p1pQ/4P2p/3pN2P/B1P3P1/P4P2/2RR2K1 b - - 1 21",
+    "Moves": "e7a3 e4f6",
+    "Rating": "975",
+    "RatingDeviation": "90",
+    "Popularity": "95",
+    "NbPlays": "336",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/OlN0eylz/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "McWfr",
+    "FEN": "1r3r1k/pb4p1/7p/3P1p1q/1P3P2/PQN3P1/5KBP/R7 b - - 0 28",
+    "Moves": "h5h2 a1h1 h2h1 g2h1",
+    "Rating": "922",
+    "RatingDeviation": "82",
+    "Popularity": "94",
+    "NbPlays": "932",
+    "Themes": "crushing master middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/tNTjuZnN/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "McWsf",
+    "FEN": "1r4k1/p3q1rn/1pp1P2Q/4pp1p/2P3p1/6P1/PP2P1BP/R4RK1 w - - 0 22",
+    "Moves": "g2c6 e7c5 f1f2 c5c6",
+    "Rating": "919",
+    "RatingDeviation": "90",
+    "Popularity": "90",
+    "NbPlays": "200",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/zy6JvRzx#43",
+    "OpeningTags": ""
+  }
+]

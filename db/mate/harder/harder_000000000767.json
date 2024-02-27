@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EtlCD",
+    "FEN": "1k1r3r/ppp2pp1/1bP4q/1QPb4/3p4/P4BP1/1B2PP2/R2R1NK1 w - - 1 24",
+    "Moves": "d1d4 h6h1 f3h1 h8h1",
+    "Rating": "1950",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "441",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/rxBN4tiW#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EtvNK",
+    "FEN": "4kb1R/5pp1/p2p2P1/1p1N4/4P3/P6Q/KPr5/4q3 b - - 0 26",
+    "Moves": "e1e4 h8f8 e8f8 h3h8",
+    "Rating": "1887",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "10188",
+    "Themes": "attraction endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/ZSBWECeI/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EtvvL",
+    "FEN": "r3k1r1/pp3ppp/2pbpB2/5b2/q2P4/P1PN1B2/1P2QP1P/2KR2R1 w q - 1 20",
+    "Moves": "d3c5 d6f4 d1d2 a4c2",
+    "Rating": "1999",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "292",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/BUX4JGNv#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EuBwj",
+    "FEN": "1k1rr3/1pp5/1n4p1/3p4/4p1p1/4qP2/Q5B1/R6K b - - 1 32",
+    "Moves": "g4f3 a2a7 b8c8 g2h3 e8e6 h3e6 d8d7 a7a8 b6a8 a1a8",
+    "Rating": "1850",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "8444",
+    "Themes": "mate mateIn5 middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/RT057OOJ/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EueFN",
+    "FEN": "8/5Q2/6pk/P6p/3P4/5P1P/3q2K1/8 w - - 3 49",
+    "Moves": "g2g3 h5h4 g3h4 d2g5",
+    "Rating": "1937",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "10113",
+    "Themes": "attraction endgame mate mateIn2 queenEndgame short",
+    "GameUrl": "https://lichess.org/HjGR3SFa#97",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Eujdn",
+    "FEN": "5Q2/p6p/2p1p1pk/4P3/3P4/1q4P1/7P/7K b - - 5 32",
+    "Moves": "h6g5 f8f4 g5h5 f4h4",
+    "Rating": "1951",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "3089",
+    "Themes": "endgame mate mateIn2 queenEndgame short",
+    "GameUrl": "https://lichess.org/oVPakdaa/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EuzGE",
+    "FEN": "2r2r1k/4R1pp/pbP2p2/1p3q2/5P2/1Q6/1B4PP/5R1K b - - 2 28",
+    "Moves": "c8c6 b3f7 f8f7 e7e8 f7f8 e8f8",
+    "Rating": "1847",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "12888",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/R11Yf6Oh/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ev2OF",
+    "FEN": "8/p7/8/4R3/4Pp2/1P2k3/r6P/4K1R1 w - - 1 36",
+    "Moves": "e1f1 f4f3 e5c5 a2a1 c5c1 a1c1",
+    "Rating": "1915",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "6508",
+    "Themes": "endgame exposedKing long mate mateIn3 rookEndgame",
+    "GameUrl": "https://lichess.org/fdKYN1Al#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ev6ZE",
+    "FEN": "r1bqr1k1/pppn2pp/2nbpp2/3pN2Q/3P1P2/PP1BP3/1BP3PP/RN2K2R b KQ - 1 10",
+    "Moves": "d7f8 d3h7 f8h7 h5f7 g8h8 e5g6",
+    "Rating": "1941",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "7133",
+    "Themes": "kingsideAttack long mate mateIn3 opening sacrifice",
+    "GameUrl": "https://lichess.org/qrOBRhis/black#20",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "J6ZsT",
+    "FEN": "r4rk1/p4p1p/3p2pQ/1b1Pp1N1/8/2pnN1qP/P5B1/4R1K1 b - - 5 29",
+    "Moves": "g3e1 g1h2 e1h4 h6h4",
+    "Rating": "1846",
+    "RatingDeviation": "99",
+    "Popularity": "56",
+    "NbPlays": "25",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/kTvOXYsu/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J6cUH",
+    "FEN": "2Qnk1r1/1p6/p3p3/3R4/6qP/1P6/P4r2/1K2R3 b - - 0 31",
+    "Moves": "g4g6 b1c1 g6c2 c8c2 f2c2 c1c2",
+    "Rating": "1914",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1014",
+    "Themes": "advantage defensiveMove long middlegame pin",
+    "GameUrl": "https://lichess.org/nAL6a6uc/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J6cmG",
+    "FEN": "r1n2k2/7p/2npQ1p1/1Np5/P3PrN1/5qPK/1P3P1P/R2R4 w - - 9 25",
+    "Moves": "g4h6 f4h4 h3h4 f3h5",
+    "Rating": "1922",
+    "RatingDeviation": "72",
+    "Popularity": "94",
+    "NbPlays": "9485",
+    "Themes": "attraction mate mateIn2 middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/bSI9Ujlg#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J6dCn",
+    "FEN": "r4rk1/1b3ppp/pN2qb2/2p5/4P3/1PB2PQ1/P5PP/2K2B1R w - - 4 21",
+    "Moves": "c3f6 e6f6 b6a8 f6a1",
+    "Rating": "1957",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "773",
+    "Themes": "advantage middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/42dxaIVr#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J6eEg",
+    "FEN": "rn1r2k1/pp3ppp/2p2bb1/3pN3/3P1BP1/1BP2P2/PP5P/R3R1K1 b - - 0 19",
+    "Moves": "b8d7 e5g6 h7g6 g4g5 f6d4 c3d4",
+    "Rating": "1957",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "917",
+    "Themes": "crushing long master middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/UCaWoF6m/black#38",
+    "OpeningTags": "Vienna_Game Vienna_Game_Frankenstein-Dracula_Variation"
+  },
+  {
+    "PuzzleId": "J6eFp",
+    "FEN": "4rr2/1bknRp1p/1ppB1n2/8/2P5/2P3P1/P4PBP/3R2K1 b - - 0 21",
+    "Moves": "c7c8 g2h3",
+    "Rating": "1896",
+    "RatingDeviation": "86",
+    "Popularity": "85",
+    "NbPlays": "45",
+    "Themes": "advantage middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/BSjUOxR8/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J6i9Q",
+    "FEN": "r7/pp3rk1/3p1np1/1PpB2q1/8/1P6/PBQ1P1R1/6K1 b - - 4 30",
+    "Moves": "g5d5 c2g6 g7f8 b2f6 f8e8 g6g8 e8d7 g8a8 d5d1 g1h2 f7h7 h2g3",
+    "Rating": "1973",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "260",
+    "Themes": "crushing deflection middlegame skewer veryLong",
+    "GameUrl": "https://lichess.org/1D78rcHV/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J6lbb",
+    "FEN": "4r1k1/1pp2p1p/p1q2bp1/3p4/3P2b1/P1PB1N2/1P3PPP/R2Q2K1 w - - 0 18",
+    "Moves": "f3e5 g4d1 e5c6 e8e1 d3f1 b7c6",
+    "Rating": "1879",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "531",
+    "Themes": "crushing intermezzo long middlegame pin",
+    "GameUrl": "https://lichess.org/vZlcHinP#35",
+    "OpeningTags": "French_Defense French_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "J6m60",
+    "FEN": "r3k2r/ppp2p1p/4pp2/8/1qBn2b1/2PP1N2/PP3PPP/R2Q1RK1 b kq - 0 12",
+    "Moves": "g4f3 g2f3 h8g8 g1h1 b4b2 c3d4",
+    "Rating": "1900",
+    "RatingDeviation": "76",
+    "Popularity": "80",
+    "NbPlays": "94",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/28mgmbdT/black#24",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  }
+]

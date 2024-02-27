@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BOCWZ",
+    "FEN": "r1b1r1k1/ppp2ppp/8/8/2pqN3/P3BQ2/2P3PP/R4RK1 b - - 1 16",
+    "Moves": "d4e4 f3f7 g8h8 f7f8 e8f8 f1f8",
+    "Rating": "1168",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "443",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/LwX55F9Z/black#32",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "BOCir",
+    "FEN": "1R6/pb3p1k/6pp/P7/1qp5/5P2/6PP/3Q2K1 w - - 2 33",
+    "Moves": "d1d7 b4e1",
+    "Rating": "1099",
+    "RatingDeviation": "91",
+    "Popularity": "91",
+    "NbPlays": "144",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/2KiRqYgz#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BOD79",
+    "FEN": "r6k/3p1rpp/bq2p3/p1bpPp2/5N2/P5Q1/1PP2PPP/1RB1R1K1 b - - 3 17",
+    "Moves": "a8g8 f4g6 h7g6 g3h3",
+    "Rating": "1037",
+    "RatingDeviation": "79",
+    "Popularity": "86",
+    "NbPlays": "263",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/2aTM0D6p/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Open"
+  },
+  {
+    "PuzzleId": "BODNB",
+    "FEN": "r2q1rk1/pp1bpp2/3p1bB1/3P2Np/n1P4P/5P2/PPQ3P1/RN3RK1 b - - 0 17",
+    "Moves": "f7g6 c2g6 f6g7 g6h7",
+    "Rating": "1050",
+    "RatingDeviation": "82",
+    "Popularity": "92",
+    "NbPlays": "228",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/wi99d9FT/black#34",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "BOFwh",
+    "FEN": "6k1/1b4pp/1qp5/3pQp2/8/2P1PB2/5PPP/Rr4K1 w - - 1 33",
+    "Moves": "a1b1 b6b1 f3d1 b1d1",
+    "Rating": "1160",
+    "RatingDeviation": "150",
+    "Popularity": "54",
+    "NbPlays": "7",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/GVETSIod#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BOIaD",
+    "FEN": "8/8/r7/P5p1/6P1/R6K/5k1P/8 w - - 3 49",
+    "Moves": "a3a4 a6h6",
+    "Rating": "1001",
+    "RatingDeviation": "82",
+    "Popularity": "75",
+    "NbPlays": "82",
+    "Themes": "endgame master mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/WIYuvRLT#97",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BOIyr",
+    "FEN": "4k2r/1qpbbpp1/3p3p/4P3/5B2/p7/PPPQ1PPP/1K1RR3 w k - 2 17",
+    "Moves": "e5d6 b7b2",
+    "Rating": "1008",
+    "RatingDeviation": "86",
+    "Popularity": "93",
+    "NbPlays": "96",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/giCXHDEL#33",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "BOKgM",
+    "FEN": "8/pR6/8/6pk/8/rP5P/6K1/8 b - - 2 60",
+    "Moves": "h5h4 b7h7",
+    "Rating": "1056",
+    "RatingDeviation": "77",
+    "Popularity": "71",
+    "NbPlays": "153",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/G5iLxxQ5/black#120",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BOP7m",
+    "FEN": "r3brk1/1p5q/p3pp1Q/3pP3/2pP1P2/6R1/PPP3PP/6K1 b - - 4 29",
+    "Moves": "g8f7 h6h7",
+    "Rating": "1100",
+    "RatingDeviation": "80",
+    "Popularity": "91",
+    "NbPlays": "210",
+    "Themes": "endgame hangingPiece mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/WmR6121V/black#58",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "8vP5o",
+    "FEN": "rn1q1r1k/1b2bppB/2p1p1N1/1p1p4/3P1P2/P7/2Q2PPP/RN3RK1 b - - 2 15",
+    "Moves": "h8h7 g6f8 h7g8 c2h7 g8f8 h7h8",
+    "Rating": "1125",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "2270",
+    "Themes": "doubleCheck long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/za8c2qV0/black#30",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "8vQp3",
+    "FEN": "r4rk1/2q2pp1/p2bp2p/1p1b1P1P/3N4/P3Q3/1PP1B1P1/2KR3R w - - 1 20",
+    "Moves": "f5e6 d6f4 e3f4 c7f4",
+    "Rating": "1166",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "763",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/7J5gess9#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8vRXr",
+    "FEN": "r4rk1/pppq2pp/5p1b/8/4N2P/2PP2R1/PP2QP2/R3K3 b Q - 2 18",
+    "Moves": "f8e8 e4f6 g8h8 f6d7 e8e2 e1e2",
+    "Rating": "1111",
+    "RatingDeviation": "147",
+    "Popularity": "0",
+    "NbPlays": "11",
+    "Themes": "crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/2p90g6gf/black#36",
+    "OpeningTags": "Elephant_Gambit Elephant_Gambit_Paulsen_Countergambit"
+  },
+  {
+    "PuzzleId": "8vU9R",
+    "FEN": "r3r1k1/ppB2ppp/1q6/3P4/2P1R1b1/5Q2/P1P2PPP/4R1K1 b - - 2 18",
+    "Moves": "g4f3 e4e8 a8e8 e1e8",
+    "Rating": "1049",
+    "RatingDeviation": "86",
+    "Popularity": "69",
+    "NbPlays": "116",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/5db1RagQ/black#36",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "8vWwe",
+    "FEN": "rn2k2r/ppp2pp1/3p3p/4p3/2B1Pnq1/3P1NN1/PPP3K1/R1B1QR2 w kq - 3 13",
+    "Moves": "g2h1 g4h3 f3h2 h3g2",
+    "Rating": "1095",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "229",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/eu2AW2gZ#25",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Boi_Variation"
+  },
+  {
+    "PuzzleId": "8vb3u",
+    "FEN": "3rr1k1/p5pp/1p1p3q/n3pb2/Q1P5/P1P2N2/3RBPPP/3R2K1 b - - 1 22",
+    "Moves": "e5e4 d2d6 h6d6 d1d6",
+    "Rating": "1150",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1893",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Tkw3oX16/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8vdz7",
+    "FEN": "1b1r2k1/4Qppp/pp6/8/P3N2P/4qbP1/1P5K/R7 b - - 3 31",
+    "Moves": "d8f8 e4f6 g7f6 e7e3",
+    "Rating": "1060",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "3323",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/JHJvDZK7/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8veNZ",
+    "FEN": "5b2/8/1pr3k1/p2pp1r1/P1b2p2/2P2K1P/1P3P1N/3QR3 w - - 0 48",
+    "Moves": "d1c2 e5e4 e1e4 d5e4",
+    "Rating": "1093",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "216",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/lybxRy3l#95",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8veha",
+    "FEN": "1r4k1/2q1ppbp/2pp2p1/2p2P2/1rP1P3/1p1P3R/PB4PP/1R1Q2K1 w - - 0 21",
+    "Moves": "b2g7 b3a2 b1b4 b8b4",
+    "Rating": "1197",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "899",
+    "Themes": "advancedPawn crushing master middlegame short",
+    "GameUrl": "https://lichess.org/dnJfQ66s#41",
+    "OpeningTags": ""
+  }
+]

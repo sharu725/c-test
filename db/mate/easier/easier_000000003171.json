@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "C10Ju",
+    "FEN": "4rrk1/pp2q2p/5pp1/2p1P3/2bp1P1Q/P1B5/1P3RPP/4R1K1 w - - 0 31",
+    "Moves": "e5f6 e7e1 c3e1 e8e1 f2f1 e1f1",
+    "Rating": "1008",
+    "RatingDeviation": "88",
+    "Popularity": "88",
+    "NbPlays": "148",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/gcG6I3NF#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C13Az",
+    "FEN": "4r2k/1bp4p/pp1pN2q/3P1P2/1PP5/P3pPr1/2R1Qn1P/5RK1 w - - 0 39",
+    "Moves": "h2g3 h6h1",
+    "Rating": "1010",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "124",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Oj6KuDT5#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C13UT",
+    "FEN": "1k1r4/pp2N3/4q1pp/8/3b4/4Q3/PP4PP/4R1K1 w - - 1 27",
+    "Moves": "e3d4 e6e1",
+    "Rating": "1098",
+    "RatingDeviation": "84",
+    "Popularity": "89",
+    "NbPlays": "75",
+    "Themes": "endgame hangingPiece mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/K97jmP3h#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C15lr",
+    "FEN": "1k6/1r4p1/1Nn2pr1/p2N3p/P2Pp3/RP2Pn2/4KP2/2R5 b - - 2 32",
+    "Moves": "c6b4 c1c8 b8a7 c8a8",
+    "Rating": "1135",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1301",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/6SFgdG5v/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C16lG",
+    "FEN": "r1b2r1k/pp4pB/8/3pb2Q/1P6/P5Nn/6PP/1RB2RqK w - - 5 21",
+    "Moves": "f1g1 h3f2",
+    "Rating": "1129",
+    "RatingDeviation": "89",
+    "Popularity": "85",
+    "NbPlays": "221",
+    "Themes": "mate mateIn1 oneMove opening smotheredMate",
+    "GameUrl": "https://lichess.org/9TqYrOsR#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C1728",
+    "FEN": "1r4rk/pb4pp/1p3qR1/8/2p1p3/1P6/P1PP1PQP/1K4R1 b - - 3 26",
+    "Moves": "h7g6 g2h3 f6h4 h3h4",
+    "Rating": "1039",
+    "RatingDeviation": "87",
+    "Popularity": "63",
+    "NbPlays": "54",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/hYJCQFif/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C17yC",
+    "FEN": "r1b1r1k1/ppp2ppp/2p5/8/6P1/8/PPP1BP1P/2KRR3 b - - 2 14",
+    "Moves": "e8e2 d1d8 e2e8 e1e8",
+    "Rating": "1150",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "1183",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/x5rewba5/black#28",
+    "OpeningTags": "Scotch_Game Scotch_Game_Schmidt_Variation"
+  },
+  {
+    "PuzzleId": "C19b1",
+    "FEN": "5r2/pp4k1/3p3p/6p1/3R2Q1/6P1/1q4PP/3R2K1 w - - 2 30",
+    "Moves": "d4d6 b2f2 g1h1 f2f1 d1f1 f8f1",
+    "Rating": "1065",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "264",
+    "Themes": "backRankMate endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/QbGaASf5#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C1A8O",
+    "FEN": "r4rk1/1R1Q1Np1/7p/p2pP3/3P1q2/P4NPP/7K/8 b - - 0 32",
+    "Moves": "f4f3 f7h6 g7h6 d7g7",
+    "Rating": "1008",
+    "RatingDeviation": "87",
+    "Popularity": "93",
+    "NbPlays": "575",
+    "Themes": "clearance endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/2xQTmASO/black#64",
+    "OpeningTags": ""
+  }
+]

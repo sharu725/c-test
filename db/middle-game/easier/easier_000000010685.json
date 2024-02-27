@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "WT57W",
+    "FEN": "2kr4/ppp3pp/8/1b6/3qPn2/1P3P2/P1QN2PP/2RK1R2 b - - 1 34",
+    "Moves": "b5f1 c2c7",
+    "Rating": "1113",
+    "RatingDeviation": "226",
+    "Popularity": "63",
+    "NbPlays": "26",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/AZB2Bn27/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WT5g0",
+    "FEN": "Qn3r1k/5ppp/B5b1/3N4/8/1R3P2/5KPq/8 b - - 0 32",
+    "Moves": "b8a6 a8f8",
+    "Rating": "1158",
+    "RatingDeviation": "111",
+    "Popularity": "68",
+    "NbPlays": "79",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Hwz63A8f/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WT6I8",
+    "FEN": "r1b2rk1/ppp2ppp/2qp4/2bP4/8/3B4/PPPQ1PPP/R1B2RK1 b - - 0 11",
+    "Moves": "c6d5 d3h7 g8h7 d2d5",
+    "Rating": "1079",
+    "RatingDeviation": "82",
+    "Popularity": "84",
+    "NbPlays": "230",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/0r3lNqeB/black#22",
+    "OpeningTags": "Scotch_Game Scotch_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "WT7eY",
+    "FEN": "Rn3rk1/2r4p/2p3p1/NpPpp3/1P1n4/3P1qP1/3Q1PBP/5RK1 w - - 0 27",
+    "Moves": "g2f3 d4f3 g1g2 f3d2",
+    "Rating": "1007",
+    "RatingDeviation": "104",
+    "Popularity": "85",
+    "NbPlays": "21",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/GWFnBHz0#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WTB51",
+    "FEN": "3r2k1/R4pp1/p3r2p/n7/1p6/2q3BP/P1P2PP1/R4QK1 w - - 11 28",
+    "Moves": "a1d1 d8d1 f1d1 e6e1 d1e1 c3e1",
+    "Rating": "1088",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "185",
+    "Themes": "crushing fork long middlegame pin",
+    "GameUrl": "https://lichess.org/aZ2ZCJIO#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WTCOw",
+    "FEN": "1r3bk1/pq1b1p1p/6p1/3p2P1/2PBPp1P/2QR1P2/P1PK4/7R w - - 0 26",
+    "Moves": "e4d5 f8b4 a2a3 b4c3",
+    "Rating": "1094",
+    "RatingDeviation": "82",
+    "Popularity": "91",
+    "NbPlays": "451",
+    "Themes": "advantage master middlegame pin short",
+    "GameUrl": "https://lichess.org/9H9z9lcf#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WTCqt",
+    "FEN": "r6r/p4Rbp/2pk2p1/4q1Q1/8/8/P1P3PP/3R3K b - - 3 26",
+    "Moves": "d6e6 f7e7",
+    "Rating": "1179",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "167",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/iqnX3QlS/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WTCqw",
+    "FEN": "4r1rk/2q2ppQ/p1np1b2/2pR1P2/1p2PP2/4B1R1/PPP4P/2K2B2 b - - 0 20",
+    "Moves": "h8h7 g3h3 f6h4 h3h4",
+    "Rating": "1087",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "79",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/dgZ0CgtG/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WTDFx",
+    "FEN": "5r2/1b3pk1/4pqpp/2bp4/6Q1/2r3N1/P2R1PPP/1B1R2K1 b - - 1 28",
+    "Moves": "b7c6 g3h5 g7h8 h5f6",
+    "Rating": "1189",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "3915",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/ocSnLCAY/black#56",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "IKFe0",
+    "FEN": "r3r1k1/ppb2ppp/8/3p4/3P4/PN2PBqP/1P1K2n1/2RQ2R1 b - - 1 24",
+    "Moves": "g3f2 d1e2 f2e3 e2e3 e8e3 f3g2",
+    "Rating": "2048",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "608",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/HqiOIMJs/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IKG5c",
+    "FEN": "4r1k1/p4ppp/1pnb4/3N4/1P1P1pq1/P1PQ1N2/6PP/4rRK1 w - - 0 20",
+    "Moves": "f1e1 e8e1 f3e1 g4e6 e1f3 e6d5",
+    "Rating": "2142",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "267",
+    "Themes": "crushing fork long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/KCBMS8qG#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IKI99",
+    "FEN": "2r2rk1/4bppb/pqn4p/1p1N3P/1P1P4/PN2P1P1/5P2/2RQR1K1 b - - 0 21",
+    "Moves": "b6b7 c1c6 c8c6 b3a5",
+    "Rating": "2051",
+    "RatingDeviation": "80",
+    "Popularity": "89",
+    "NbPlays": "1115",
+    "Themes": "advantage middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/r29aIDRa/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IKIDD",
+    "FEN": "r6k/pp3p1q/4p2r/2Qp4/6R1/8/PP2BPP1/5RK1 w - - 1 28",
+    "Moves": "c5d4 e6e5 d4e5 f7f6 g4h4 f6e5 h4h6 h7h6",
+    "Rating": "2310",
+    "RatingDeviation": "87",
+    "Popularity": "86",
+    "NbPlays": "269",
+    "Themes": "attraction crushing defensiveMove middlegame veryLong",
+    "GameUrl": "https://lichess.org/WgsB6CTw#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IKMoi",
+    "FEN": "3rr1k1/ppqb1p2/2p2n2/6Q1/8/2N2BP1/PPP2PP1/4R1K1 b - - 0 22",
+    "Moves": "g8h7 f3e4 e8e4 e1e4",
+    "Rating": "2078",
+    "RatingDeviation": "106",
+    "Popularity": "81",
+    "NbPlays": "44",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/veEsXw6I/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IKNMG",
+    "FEN": "4rr1k/pp4p1/2P2p2/3Q4/P2PRbqN/2P2N1n/5P2/1R3K2 w - - 3 27",
+    "Moves": "e4f4 h3f4 d5f5 g4f5 h4f5 b7c6",
+    "Rating": "2031",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "144",
+    "Themes": "advantage hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/dsxcFwbi#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IKNMJ",
+    "FEN": "rn3rk1/ppp2ppp/4B3/4n3/4P3/3P3P/P1qN1QP1/1R3RK1 b - - 0 17",
+    "Moves": "e5d3 e6f7 g8h8 f7b3 d3f2 b3c2 f2h3 g2h3",
+    "Rating": "2276",
+    "RatingDeviation": "90",
+    "Popularity": "89",
+    "NbPlays": "251",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/U2Y2Y3co/black#34",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "IKPMf",
+    "FEN": "r4rk1/5p1p/4b1p1/1pp1q3/4P1P1/1B3Q1P/PpP1N3/1K1R1R2 w - - 0 23",
+    "Moves": "e2f4 a8a2 b3a2 e6a2 b1a2 f8a8",
+    "Rating": "2194",
+    "RatingDeviation": "89",
+    "Popularity": "83",
+    "NbPlays": "42",
+    "Themes": "attraction crushing long middlegame queensideAttack sacrifice xRayAttack",
+    "GameUrl": "https://lichess.org/FgxRtuAr#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IKPxH",
+    "FEN": "r3kb1r/1b1p1pp1/pqn1p3/1p2P2p/3PNPn1/5N2/PP4PP/RBBQ1RK1 b kq - 4 12",
+    "Moves": "c6d4 d1d4 b6d4 f3d4",
+    "Rating": "2051",
+    "RatingDeviation": "97",
+    "Popularity": "17",
+    "NbPlays": "29",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/8GKQpojv/black#24",
+    "OpeningTags": "St_George_Defense St_George_Defense_Other_variations"
+  }
+]

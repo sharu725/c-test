@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "t7hn3",
+    "FEN": "2r1r3/8/1Q2p1pk/6np/1P4q1/P5P1/5PKP/1B1R1R2 w - - 1 29",
+    "Moves": "d1e1 g4f3 g2g1 g5h3",
+    "Rating": "1437",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "479",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/TMZTLDUJ#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "t7iF6",
+    "FEN": "1k1r3r/pppbqp2/2nppn1p/1B6/3PP1p1/2P3P1/PP1NQPP1/1K1RN2R b - - 1 14",
+    "Moves": "c6d4 c3d4 d7b5 e2b5",
+    "Rating": "1575",
+    "RatingDeviation": "95",
+    "Popularity": "89",
+    "NbPlays": "33",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/iDnfCEgr/black#28",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "t7iUh",
+    "FEN": "r4rk1/pppq1p2/3p1p1p/4p2b/2BbP1PB/3P3P/PPP2P2/R2Q1RK1 w - - 0 14",
+    "Moves": "g4h5 d7h3 d1f3 h3f3",
+    "Rating": "1469",
+    "RatingDeviation": "113",
+    "Popularity": "60",
+    "NbPlays": "20",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/vXilREMZ#27",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "t7iXK",
+    "FEN": "2rqk3/1b3p1p/1p1ppn1b/pP3p2/P2P1Pr1/B1N1PNP1/5K1P/2RQ1R2 w - - 3 19",
+    "Moves": "d1d2 c8c3 c1c3 f6e4 f2e2 e4d2",
+    "Rating": "1542",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "6392",
+    "Themes": "crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/lMHzWy8p#37",
+    "OpeningTags": "Bird_Opening Bird_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "t7ih5",
+    "FEN": "rn1qk2r/pp3pp1/2p1p1p1/3n4/1b1P2P1/2N2P2/PP2P2P/R1BQKB1R w KQkq - 0 10",
+    "Moves": "c1d2 d8h4",
+    "Rating": "1477",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "834",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/8OlMCckL#19",
+    "OpeningTags": "Slav_Defense Slav_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "t7j84",
+    "FEN": "r2q1rk1/pb1nb1pp/1p2np2/2p3P1/3pPB1P/3P1N1N/PPP1Q1B1/4RRK1 b - - 2 18",
+    "Moves": "e6f4 h3f4 f6g5 f4e6",
+    "Rating": "1467",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "284",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/R7M5OW7m/black#36",
+    "OpeningTags": "Mieses_Opening Mieses_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "t7jGU",
+    "FEN": "r2q1rk1/pppbppbp/5np1/3p4/3PnBP1/2PBPN1P/PPQN1P2/R3K2R w KQ - 1 11",
+    "Moves": "d2e4 d5e4 d3e2 e4f3",
+    "Rating": "1440",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "5234",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/oIGSP5i3#21",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "t7k4m",
+    "FEN": "r2q1r1k/pp2bppp/4pn2/3p4/5B2/P1NP2QP/1PP1nPP1/2R1R1K1 w - - 0 18",
+    "Moves": "e1e2 f6h5 g3f3 h5f4 f3f4 e7g5 f4g5 d8g5",
+    "Rating": "1523",
+    "RatingDeviation": "73",
+    "Popularity": "92",
+    "NbPlays": "6234",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/19sklI6v#35",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "t7mCp",
+    "FEN": "5rk1/5ppp/2pp3q/1p2pRNn/4P3/1P1PP3/1P2NQRK/7r w - - 9 37",
+    "Moves": "h2h1 h5g3 h1g1 h6h1",
+    "Rating": "1468",
+    "RatingDeviation": "306",
+    "Popularity": "54",
+    "NbPlays": "6",
+    "Themes": "doubleCheck kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AVUBH6SY#73",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CIGf3",
+    "FEN": "r1b1Q2k/3n2b1/2p2qp1/pp6/3P1N2/PB6/1PP2PPP/R5K1 b - - 0 19",
+    "Moves": "h8h7 b3g8 h7h6 e8e3",
+    "Rating": "2099",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "1987",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/Cn1XGxLo/black#38",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Kholmov_System"
+  },
+  {
+    "PuzzleId": "CIGsP",
+    "FEN": "5r2/pp4k1/3p1np1/4p3/1n2P2P/2Q5/qPP2PP1/2KR1B1R w - - 0 19",
+    "Moves": "f1c4 a2a1 c1d2 f6e4 d2e3 a1a5 e3e4 f8f4 e4e3 a5c5",
+    "Rating": "2168",
+    "RatingDeviation": "110",
+    "Popularity": "50",
+    "NbPlays": "15",
+    "Themes": "advantage fork master masterVsMaster middlegame quietMove sacrifice veryLong",
+    "GameUrl": "https://lichess.org/uWZk6O6p#37",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Byrne_Variation"
+  },
+  {
+    "PuzzleId": "CIIZL",
+    "FEN": "r2q1rk1/1b2bppp/p3pn2/2p1N3/P2PP3/1QN1P1P1/1P4BP/2R2RK1 b - - 0 22",
+    "Moves": "c5d4 b3b7 d4c3 e5c6",
+    "Rating": "2043",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "1172",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/l7dlGdV0/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CIIeZ",
+    "FEN": "rn1r2k1/pp4pp/4b3/5p2/4P3/8/Pq1NB1PP/R2Q1R1K w - - 1 18",
+    "Moves": "e4f5 d8d2 f5e6 d2d1 a1d1 b8c6",
+    "Rating": "2059",
+    "RatingDeviation": "88",
+    "Popularity": "82",
+    "NbPlays": "26",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/MQRSVn0W#35",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Semi-Tarrasch_Defense"
+  },
+  {
+    "PuzzleId": "CIJUO",
+    "FEN": "r6k/4b1p1/3pBr1p/1qpPp3/4RPQ1/1P4P1/7P/5RK1 b - - 0 26",
+    "Moves": "e5f4 e6d7 b5d3 e4e7",
+    "Rating": "2139",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "2848",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/L8X1zBHK/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CIJtk",
+    "FEN": "r2n1rk1/3R3p/p3p1p1/1p6/5NP1/bB2P2P/P7/1R4K1 b - - 5 24",
+    "Moves": "f8f7 d7d8 a8d8 f4e6 d8d3 e6g5",
+    "Rating": "2239",
+    "RatingDeviation": "89",
+    "Popularity": "84",
+    "NbPlays": "26",
+    "Themes": "advantage long master masterVsMaster middlegame pin",
+    "GameUrl": "https://lichess.org/0CNAGPQD/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CIK31",
+    "FEN": "2r1R2k/5pb1/3p2p1/3P3p/2n5/Q1N5/P2B2qP/3KR3 b - - 3 32",
+    "Moves": "c8e8 e1e8 h8h7 a3c1",
+    "Rating": "2081",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "277",
+    "Themes": "advantage defensiveMove master middlegame short",
+    "GameUrl": "https://lichess.org/aYmIVW4P/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CIKc6",
+    "FEN": "4r1k1/p4pp1/2pb1p2/q7/2bP3P/1r5P/P1Q1NP2/K1BR2R1 w - - 0 22",
+    "Moves": "c2c4 e8b8 c4c2 b3b1 c2b1 b8b1 a1b1 a5b5 c1b2 b5e2",
+    "Rating": "2309",
+    "RatingDeviation": "82",
+    "Popularity": "85",
+    "NbPlays": "170",
+    "Themes": "advantage attraction fork master masterVsMaster middlegame pin quietMove veryLong",
+    "GameUrl": "https://lichess.org/Q6YkWJiI#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CILsU",
+    "FEN": "r2qk2r/pppnbppp/3p4/8/2BPP3/2N5/PP3PPP/R1BQ2K1 b kq - 2 12",
+    "Moves": "e7g5 d1h5 g7g6 h5g5 d8g5 c1g5",
+    "Rating": "2189",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "280",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/DtknS2uo/black#24",
+    "OpeningTags": "Italian_Game Italian_Game_Blackburne-Kostic_Gambit"
+  }
+]

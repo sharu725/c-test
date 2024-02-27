@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Xicyv",
+    "FEN": "1r1qkbnr/p1p1p1pp/2p1P3/3p4/8/5Q2/PPP2PPP/RNB1K2R b KQk - 0 9",
+    "Moves": "d8d6 f3f7 e8d8 f7f8",
+    "Rating": "1304",
+    "RatingDeviation": "102",
+    "Popularity": "83",
+    "NbPlays": "18",
+    "Themes": "deflection mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/2e6LFMoI/black#18",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "XidRE",
+    "FEN": "2r5/ppr1bpkp/3p2p1/3q4/1P1Np1P1/2P4P/P1RQ1P2/4R1K1 b - - 0 25",
+    "Moves": "e7f6 d4f5 d5f5 g4f5",
+    "Rating": "1363",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "75",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/cL5hm2t2/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Xif8p",
+    "FEN": "r2q2k1/1p6/p2p4/2pNp2Q/2PBPp1b/1P1P1P2/P5r1/3K3R b - - 2 29",
+    "Moves": "c5d4 h1h4 d8h4 h5h4",
+    "Rating": "1383",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "84",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/jbzEtb1b/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Xigsm",
+    "FEN": "rn1qk2r/ppp2ppp/3b4/3p4/3P4/5Q2/PPP2PPP/RNB1K2R w KQkq - 0 9",
+    "Moves": "f3d5 d6b4 c2c3 d8d5",
+    "Rating": "1220",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "318",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/uu8sEIJA#17",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "Xih9k",
+    "FEN": "r4rk1/pbp2p2/1p1p1n1p/8/2PBq3/3Q4/PP3PPP/2KR2R1 w - - 0 18",
+    "Moves": "d4f6 e4f4 d3e3 f4f6",
+    "Rating": "1262",
+    "RatingDeviation": "85",
+    "Popularity": "48",
+    "NbPlays": "62",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/p8b298BJ#35",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "XiioX",
+    "FEN": "r1b1r1k1/ppp2q1p/2n2p2/3N4/4p3/2Q5/PP2NPPP/3RK2R b K - 3 16",
+    "Moves": "c8g4 d5f6 f7f6 c3f6",
+    "Rating": "1326",
+    "RatingDeviation": "83",
+    "Popularity": "76",
+    "NbPlays": "75",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/hNW8leKO/black#32",
+    "OpeningTags": "Danish_Gambit Danish_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "Xij6s",
+    "FEN": "r2r2k1/pp3ppp/8/5b2/7P/1BPn4/P3NPP1/K2R3R b - - 9 19",
+    "Moves": "d3f2 d1d8 a8d8 h1f1 d8d2 f1f2",
+    "Rating": "1348",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "790",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/5MM66gbJ/black#38",
+    "OpeningTags": "Danish_Gambit_Declined Danish_Gambit_Declined_Sorensen_Defense"
+  },
+  {
+    "PuzzleId": "XijZx",
+    "FEN": "r3k2r/pppqbppp/3p4/3Pp3/3n4/3P1N1P/PPP2PP1/R1BQ1RK1 w kq - 0 11",
+    "Moves": "c1g5 d4f3 d1f3 e7g5",
+    "Rating": "1217",
+    "RatingDeviation": "78",
+    "Popularity": "84",
+    "NbPlays": "426",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/P9FKJHvO#21",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "XikK7",
+    "FEN": "r4rk1/pp3pp1/1qn1b2p/3p4/6n1/P1N1BN2/1PP2KPP/R2QRB2 w - - 3 15",
+    "Moves": "f2g3 g4e3 e1e3 b6e3",
+    "Rating": "1394",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1627",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/DHUOL3Hv#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_French_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "bOzXF",
+    "FEN": "r2q1rk1/pp3ppp/8/2b1p2b/4P3/1n4Q1/PPP2PPP/RNB1K2R w KQ - 0 15",
+    "Moves": "a2b3 d8d1",
+    "Rating": "1278",
+    "RatingDeviation": "96",
+    "Popularity": "83",
+    "NbPlays": "35",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gNLSAovI#29",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "bP0sn",
+    "FEN": "r1bq1rk1/pp1p1p2/4p2b/5nNQ/2P2P2/6P1/PP4BP/R4RK1 b - - 0 18",
+    "Moves": "f7f6 h5g6 h6g7 g6h7",
+    "Rating": "1234",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "9261",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/SqndjP9L/black#36",
+    "OpeningTags": "Blumenfeld_Countergambit Blumenfeld_Countergambit_Other_variations"
+  },
+  {
+    "PuzzleId": "bP4Iu",
+    "FEN": "1k2r2r/pbpn1pb1/1p1p1q1p/3P1N1n/2P1PB2/2NB4/PPQ4P/2KR3R w - - 9 19",
+    "Moves": "f5g7 f6f4 c1b1 h5g7",
+    "Rating": "1384",
+    "RatingDeviation": "74",
+    "Popularity": "84",
+    "NbPlays": "1181",
+    "Themes": "advantage hangingPiece intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/t5PfNfwR#37",
+    "OpeningTags": "Indian_Defense Indian_Defense_Medusa_Gambit"
+  },
+  {
+    "PuzzleId": "bP4Jv",
+    "FEN": "2r2r2/5p1k/p2p2pp/1p6/1Q1P2P1/2Pq1P2/bP1N2P1/2KR3R w - - 0 23",
+    "Moves": "b4d6 c8c3 b2c3 d3c3",
+    "Rating": "1330",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1774",
+    "Themes": "mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/sqTmdO5h#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bP4Uk",
+    "FEN": "1rb2rk1/4RN1p/4p1pP/p7/1p6/5B2/1PP2bP1/1K1R4 b - - 0 31",
+    "Moves": "f8f7 d1d8 f7f8 e7g7 g8h8 d8f8",
+    "Rating": "1288",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "14049",
+    "Themes": "deflection long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/ulErMj7P/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bP574",
+    "FEN": "3r4/pp2q1k1/5nb1/3P3r/4p3/2N3QB/P3KP2/2R4R b - - 0 33",
+    "Moves": "f6d5 c3d5 h5d5 c1c7 e7c7 g3c7",
+    "Rating": "1391",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1036",
+    "Themes": "clearance crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/gN2byApp/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bP5de",
+    "FEN": "2rr2k1/1b3ppp/p7/qP1p1N2/PRp5/2Q1P3/5PPP/4K2R b K - 1 26",
+    "Moves": "a6b5 c3g7",
+    "Rating": "1317",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "174",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/lRJQkrCR/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bP5to",
+    "FEN": "r1q2rkb/3b3p/1ppp1p1P/p1nPp1p1/P1P1P3/1PN2NQ1/2B2PP1/R3K2R w KQ - 1 23",
+    "Moves": "f3g5 f6g5 g3g5 g8f7",
+    "Rating": "1397",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "1514",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/6h6UstVk#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bP6Fb",
+    "FEN": "r2q1rk1/5pp1/pp1bbn1p/3pNP2/3Q3B/2N5/PP4PP/R4RK1 w - - 0 17",
+    "Moves": "f5e6 d6c5 d4c5 b6c5",
+    "Rating": "1341",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "1542",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/5gwud9E0#33",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Three_Knights_Variation"
+  }
+]

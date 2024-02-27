@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "T6AOf",
+    "FEN": "1r3rk1/pPp1qpb1/3p1np1/8/2P1p1b1/1P4P1/PB1NPPB1/R2Q1RK1 w - - 0 16",
+    "Moves": "d2e4 f6e4 b2g7 g8g7 d1d4 e4f6",
+    "Rating": "1609",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "2659",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/rSa83TCq#31",
+    "OpeningTags": "Indian_Defense Indian_Defense_Przepiorka_Variation"
+  },
+  {
+    "PuzzleId": "T6B5z",
+    "FEN": "2r2r1k/pnpq2pp/Qp3p2/3Pp3/1P2N3/7P/P3RPP1/4R2K b - - 2 22",
+    "Moves": "d7d5 e2d2 d5c6 b4b5 c6e4 e1e4",
+    "Rating": "1610",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "271",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/F7yHunIZ/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "T6DEz",
+    "FEN": "1k1r2r1/pppbqp2/2Nb1n2/1P6/Q1P4p/P3P1p1/1B2BPPP/2RR2K1 b - - 1 19",
+    "Moves": "b7c6 b5c6 d7c6 a4c6",
+    "Rating": "1699",
+    "RatingDeviation": "280",
+    "Popularity": "20",
+    "NbPlays": "10",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/UiW239jb/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "T6H8z",
+    "FEN": "r3r1k1/5p2/p1nb2p1/3q1p1p/1pQPb3/5NPP/PP3BB1/2R1R2K b - - 5 24",
+    "Moves": "e4f3 c4d5 f3d5 g2d5",
+    "Rating": "1627",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "5232",
+    "Themes": "advantage master middlegame short xRayAttack",
+    "GameUrl": "https://lichess.org/GSVItJJF/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "T6HOk",
+    "FEN": "4r1k1/2pq1ppp/p1n5/1p4b1/8/1BP2N1P/PP3PP1/R2Q2K1 b - - 5 19",
+    "Moves": "d7e7 f3g5",
+    "Rating": "1668",
+    "RatingDeviation": "84",
+    "Popularity": "52",
+    "NbPlays": "35",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/vCqPn7ah/black#38",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "T6ItO",
+    "FEN": "1r2k2r/R3bp2/2p1p1p1/3pPn1p/2qP3P/3NBR2/1P3PP1/3Q2K1 b k - 1 19",
+    "Moves": "f5h4 a7e7 e8e7 e3g5 e7f8 g5h4",
+    "Rating": "1642",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1551",
+    "Themes": "attraction crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/0qEcqghX/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "T6JS2",
+    "FEN": "2r2rk1/p4ppp/8/3BB3/2P2R2/3b2P1/PP1b2KP/2R5 w - - 9 25",
+    "Moves": "c1d1 d2f4 g3f4 d3c4 d5c4 c8c4",
+    "Rating": "1638",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "1399",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/CaROUp5y#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "T6MVO",
+    "FEN": "r1bq3k/ppp1n3/2n3pB/b2p4/2B1P2Q/2p5/P4PPP/RN3RK1 b - - 1 15",
+    "Moves": "d5c4 h4f6 h8h7 f6g7",
+    "Rating": "1773",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "5936",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/eeZd5Mmm/black#30",
+    "OpeningTags": "Italian_Game Italian_Game_Evans_Gambit"
+  },
+  {
+    "PuzzleId": "T6MoV",
+    "FEN": "r1b1k2r/pp2bppp/4p3/qB1pP3/P7/1Q6/5PPP/2R2RK1 b kq - 2 16",
+    "Moves": "c8d7 b5d7 e8f8 b3b7",
+    "Rating": "1606",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "61",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/NO72AEvq/black#32",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  }
+]

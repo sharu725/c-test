@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Aluas",
+    "FEN": "4r1k1/p3qpp1/b1B4p/8/3P4/4n3/P4PPP/RN1Q2K1 w - - 0 22",
+    "Moves": "f2e3 e7e3 g1h1 e3e1 d1e1 e8e1",
+    "Rating": "939",
+    "RatingDeviation": "115",
+    "Popularity": "54",
+    "NbPlays": "45",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/N7p2To9T#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AlvSI",
+    "FEN": "r3r3/1pb2ppk/p1nq1n1p/3p1b2/4p3/P2P2NP/1PPB1PP1/R1Q1RBK1 w - - 0 18",
+    "Moves": "g3f5 d6h2",
+    "Rating": "655",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "61",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/MBpfSmU3#35",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  },
+  {
+    "PuzzleId": "Am1HP",
+    "FEN": "5rk1/5pp1/p3pq1p/1p1r4/3P1n2/7P/PPQ2PP1/1BRR2K1 b - - 9 25",
+    "Moves": "f6g5 c2h7",
+    "Rating": "727",
+    "RatingDeviation": "79",
+    "Popularity": "71",
+    "NbPlays": "215",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/XKvQi2So/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Am1PX",
+    "FEN": "r1bq1rk1/pp3p1p/1np3p1/4Q3/2B5/3P3P/P1P2PP1/BR3RK1 b - - 1 17",
+    "Moves": "b6c4 e5g7",
+    "Rating": "658",
+    "RatingDeviation": "80",
+    "Popularity": "100",
+    "NbPlays": "165",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/bdgGBDoc/black#34",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "Am1hH",
+    "FEN": "r1b1k2r/1p1p1ppp/p2bp3/4P3/2B2Pn1/2N1B3/PPP3PP/R4RK1 w kq - 1 18",
+    "Moves": "e5d6 g4e3 c4d3 e3f1",
+    "Rating": "912",
+    "RatingDeviation": "94",
+    "Popularity": "92",
+    "NbPlays": "330",
+    "Themes": "advantage fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/hLGvSELA#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "Am2KG",
+    "FEN": "1r3rk1/p1q2ppp/2p2b2/4N3/3Q4/1P6/PBP2PPP/RN4K1 b - - 0 16",
+    "Moves": "f6e5 d4e5 c7e5 b2e5",
+    "Rating": "904",
+    "RatingDeviation": "88",
+    "Popularity": "91",
+    "NbPlays": "280",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/kZAVjlHq/black#32",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "Am4Y0",
+    "FEN": "q2r2k1/6pb/p3Pp2/1p1Nn3/4PQ2/P4B1P/6K1/5R2 b - - 4 38",
+    "Moves": "a8c8 d5e7 g8f8 e7c8",
+    "Rating": "779",
+    "RatingDeviation": "84",
+    "Popularity": "79",
+    "NbPlays": "315",
+    "Themes": "crushing fork master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/t7cNZj7p/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Am5MN",
+    "FEN": "3r3k/6pp/pp3p2/4p3/2P1Qn2/PP3P1q/4Nb1P/2N2R1K w - - 2 34",
+    "Moves": "e2f4 h3f1",
+    "Rating": "753",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "296",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/A0jdj8zn#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Am73Z",
+    "FEN": "r3r1k1/pp3p1p/6p1/8/2PQ4/1P4Pb/P4PBP/R3q1KR w - - 5 22",
+    "Moves": "a1e1 e8e1 g2f1 e1f1",
+    "Rating": "620",
+    "RatingDeviation": "92",
+    "Popularity": "91",
+    "NbPlays": "501",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/j7OKz8tK#43",
+    "OpeningTags": ""
+  }
+]

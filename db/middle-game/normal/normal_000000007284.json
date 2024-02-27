@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "LFA37",
+    "FEN": "3q1k2/3bb1r1/p3p2Q/1p2P3/4B3/P7/1P3PPP/2r2RK1 w - - 0 25",
+    "Moves": "f1c1 e7g5 h6h8 g7g8 h8g8 f8g8",
+    "Rating": "1227",
+    "RatingDeviation": "144",
+    "Popularity": "87",
+    "NbPlays": "12",
+    "Themes": "crushing defensiveMove fork long middlegame",
+    "GameUrl": "https://lichess.org/1gYZmqV1#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LFCNL",
+    "FEN": "r4r1k/p4pp1/2pqBn1p/1p2N3/1P1PR3/P3Q1PP/2P4K/5R2 b - - 0 24",
+    "Moves": "d6e6 e5g6 f7g6 e4e6 f6g4 h3g4",
+    "Rating": "1266",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "3345",
+    "Themes": "crushing discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/2ZWZ70cX/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LFCuW",
+    "FEN": "5r2/p1qnn1k1/bpp1R1p1/3p1rP1/3P2N1/1BN5/PPPQ1P2/R5K1 b - - 0 21",
+    "Moves": "f5f2 e6e7",
+    "Rating": "1286",
+    "RatingDeviation": "79",
+    "Popularity": "87",
+    "NbPlays": "1337",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/EeudmUb0/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LFGMg",
+    "FEN": "r4rk1/pb1n2pp/4pP2/1N2P3/3P4/Q5N1/PPq3PP/R1B2RK1 w - - 5 21",
+    "Moves": "a3c3 c2g2",
+    "Rating": "1254",
+    "RatingDeviation": "85",
+    "Popularity": "84",
+    "NbPlays": "46",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/GspmJ1Ba#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LFKQS",
+    "FEN": "1n2k2r/r1q2pp1/p6p/1pBp1P2/8/3B1P2/PbPQ2PP/1R2K2R w Kk - 2 17",
+    "Moves": "c5a7 b2c3 d2c3 c7c3",
+    "Rating": "1320",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "14664",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/odVnuRPQ#33",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "LFM4M",
+    "FEN": "5rk1/pp3pp1/2p3b1/2b1r1B1/4P3/P2n1P1P/BP2R1KP/R4N2 w - - 1 26",
+    "Moves": "h3h4 e5g5 h4g5 d3f4 g2g3 f4e2",
+    "Rating": "1322",
+    "RatingDeviation": "72",
+    "Popularity": "93",
+    "NbPlays": "13951",
+    "Themes": "advantage fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/jusHXBqk#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LFMwP",
+    "FEN": "r3r1k1/ppp2pp1/2nb2qp/5b2/3PN3/P2BP3/1PQ2PPP/R1B1K2R w KQ - 4 14",
+    "Moves": "e4d6 f5d3",
+    "Rating": "1300",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "128",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/ImuFQHHi#27",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "LFN6M",
+    "FEN": "1r3rk1/1pp2pp1/p2b1qnp/3Q4/1P2B3/P1P3PN/1B3P1P/1R4K1 b - - 2 18",
+    "Moves": "f6e6 d5e6 f7e6 e4g6",
+    "Rating": "1250",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "3431",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/HuEQL9BJ/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "LFNey",
+    "FEN": "2k4r/pp3q1p/2b2p2/b4Np1/2P1BN2/P3P1P1/3rQP1P/R4K1R b - - 0 22",
+    "Moves": "d2e2 f5d6 c8b8 d6f7 e2e1 a1e1",
+    "Rating": "1238",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "572",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/FivSsi9c/black#44",
+    "OpeningTags": ""
+  }
+]

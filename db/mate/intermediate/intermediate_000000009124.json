@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "yBQRJ",
+    "FEN": "r1bq1r2/pp3p1k/3bpn2/3p2Q1/8/1B1P1P1P/PPP2P2/RN2K1R1 b Q - 3 14",
+    "Moves": "f8g8 g5h4 f6h5 h4h5",
+    "Rating": "1404",
+    "RatingDeviation": "105",
+    "Popularity": "80",
+    "NbPlays": "25",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/pdNdKNF2/black#28",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+  },
+  {
+    "PuzzleId": "yBV7U",
+    "FEN": "2rq3k/5p1p/p6N/1p1p2R1/2b1p2N/2PnP1P1/PP6/R3Q2K b - - 0 30",
+    "Moves": "d3e1 h6f7",
+    "Rating": "1474",
+    "RatingDeviation": "101",
+    "Popularity": "61",
+    "NbPlays": "173",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/bCaYDjD8/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yBXXL",
+    "FEN": "3q2rk/5p1p/4pPpQ/p1p1P3/2P1P1N1/P5R1/1r5P/7K b - - 6 43",
+    "Moves": "d8f8 h6h7 h8h7 g3h3 f8h6 h3h6",
+    "Rating": "1442",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "296",
+    "Themes": "attraction endgame kingsideAttack long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/VGkRC5Ch/black#86",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yBYKJ",
+    "FEN": "r3r1k1/8/p1R1p3/1p1p1b2/3P3q/4QBpP/PP2N1K1/2R5 w - - 4 34",
+    "Moves": "e3f4 h4h3 g2g1 h3h2 g1f1 h2f2",
+    "Rating": "1479",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "551",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/WQb4x4nU#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yBYdT",
+    "FEN": "rnb1k2r/ppp3pp/8/3P1pq1/2BNp3/2NPn1K1/PPP2PP1/R1BQ1R2 w kq - 1 11",
+    "Moves": "g3h2 g5g2",
+    "Rating": "1479",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "1306",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/KeaUXhrT#21",
+    "OpeningTags": "Elephant_Gambit Elephant_Gambit_Maroczy_Gambit"
+  },
+  {
+    "PuzzleId": "yBYy3",
+    "FEN": "r2nkbn1/pppq2p1/5p2/1P2p3/2Pp3r/P2P2Pb/1B1NPPBP/R2Q1RK1 w q - 0 13",
+    "Moves": "g3h4 d7g4 e2e3 g4g2",
+    "Rating": "1580",
+    "RatingDeviation": "75",
+    "Popularity": "74",
+    "NbPlays": "136",
+    "Themes": "kingsideAttack mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/WXk8w9mp#25",
+    "OpeningTags": "Reti_Opening Reti_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "yBZOs",
+    "FEN": "6k1/pbp4p/1pqp2pb/8/1P3r2/P5PP/4QP1K/4R1R1 w - - 0 33",
+    "Moves": "g3f4 h6f4 g1g3 c6g2",
+    "Rating": "1584",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "98",
+    "Themes": "endgame mate mateIn2 pin short",
+    "GameUrl": "https://lichess.org/2cohzAiq#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yBagd",
+    "FEN": "1r3r1k/3n1p2/p2p1Pp1/2pPp1N1/2p1P3/2N4R/PP3QK1/2q5 b - - 1 34",
+    "Moves": "h8g8 h3h8 g8h8 f2h4 h8g8 h4h7",
+    "Rating": "1447",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "15092",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/RIenkjqE/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yBbOB",
+    "FEN": "6k1/2Q3pp/6P1/1p5K/1q5P/p7/2P5/8 b - - 0 35",
+    "Moves": "h7h6 c7f7 g8h8 f7e8 b4f8 e8f8",
+    "Rating": "1547",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "2192",
+    "Themes": "endgame long mate mateIn3 queenEndgame",
+    "GameUrl": "https://lichess.org/p2WlRW9I/black#70",
+    "OpeningTags": ""
+  }
+]

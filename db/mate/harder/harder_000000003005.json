@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "wrgIX",
+    "FEN": "rn2kb1r/pp2pppp/2p5/4qb2/4N3/3Q4/PPPB1PPP/2KR1B1R b kq - 2 10",
+    "Moves": "f5e4 d3d8 e8d8 d2a5 d8c8 d1d8",
+    "Rating": "1930",
+    "RatingDeviation": "89",
+    "Popularity": "93",
+    "NbPlays": "1080",
+    "Themes": "attraction doubleCheck long mate mateIn3 opening sacrifice",
+    "GameUrl": "https://lichess.org/aVs4nUKE/black#20",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "wrlhv",
+    "FEN": "1k1r4/ppb2Q2/2p5/4qp2/7p/2N2B1P/PPP2PP1/5RK1 w - - 1 22",
+    "Moves": "f1d1 d8d1 c3d1 e5e1",
+    "Rating": "1832",
+    "RatingDeviation": "115",
+    "Popularity": "76",
+    "NbPlays": "48",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/9HWXrlch#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wrtFQ",
+    "FEN": "4rrk1/b1p4p/2b2n2/3p1p2/NP2pQ2/4PpPq/1B3P1P/R1R3KB b - - 3 26",
+    "Moves": "f6g4 f4g5 g8f7 g5g7 f7e6 c1c6",
+    "Rating": "1836",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1707",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/jCzmOlJs/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wrweu",
+    "FEN": "6k1/pp3p1p/2b5/3p2B1/3P4/r6P/P3rN2/5KR1 b - - 6 34",
+    "Moves": "a3a2 g5e7 g8h8 e7f6",
+    "Rating": "1930",
+    "RatingDeviation": "112",
+    "Popularity": "77",
+    "NbPlays": "75",
+    "Themes": "discoveredAttack endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/hj4G3W4o/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ws68W",
+    "FEN": "r5k1/1p3ppp/1p3b2/3Rp3/4P3/5N2/rPP2PPP/2KR4 w - - 2 17",
+    "Moves": "f3e5 f6g5 f2f4 g5f4 c1b1 a2a1",
+    "Rating": "1813",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "98",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/lvxvJIL6#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Chekhover_Variation"
+  },
+  {
+    "PuzzleId": "ws6Vo",
+    "FEN": "r5r1/p4p1k/1p2p2p/1B1p4/4q3/1Q2P3/PP3PPP/R4RK1 w - - 0 20",
+    "Moves": "b5d3 g8g2 g1h1 g2g1 h1g1 a8g8",
+    "Rating": "1993",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "2168",
+    "Themes": "attraction doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/70SFUJe4#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wsJxJ",
+    "FEN": "8/7p/2N2kp1/5p2/1PB1pK1P/8/P4b2/8 w - - 1 44",
+    "Moves": "b4b5 h7h6 a2a3 g6g5 h4g5 h6g5",
+    "Rating": "1971",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "328",
+    "Themes": "endgame long mate mateIn3 quietMove",
+    "GameUrl": "https://lichess.org/ikeGTN02#87",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wt0y2",
+    "FEN": "3r2k1/1p3ppp/pqb5/8/Pb2nQ2/1B5P/1PP1NPP1/1R4K1 b - - 3 23",
+    "Moves": "d8d2 f4f7 g8h8 f7g8",
+    "Rating": "1801",
+    "RatingDeviation": "81",
+    "Popularity": "82",
+    "NbPlays": "35",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/c62fBGvF/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wt4MR",
+    "FEN": "r1b2rk1/ppp2ppp/2n5/6q1/2B5/2N2Q2/PPP2PPP/R3R1K1 b - - 5 14",
+    "Moves": "c6d4 f3f7 f8f7 e1e8",
+    "Rating": "1802",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "7403",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/EXxXsrnk/black#28",
+    "OpeningTags": "Elephant_Gambit Elephant_Gambit_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "naPpe",
+    "FEN": "r3k2r/ppp2p2/2nq4/3b1Q2/1PP1n3/P2BP3/Rb1P2PP/1N2K1NR b Kq - 3 17",
+    "Moves": "h8h2 h1h2 d6h2 c4d5 e4g3 f5f2",
+    "Rating": "1435",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality long middlegame",
+    "GameUrl": "https://lichess.org/D0hplRnH/black#34",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "naSI4",
+    "FEN": "R6Q/pppbkq2/n3p3/2Pp4/3P4/P1PBP3/5r1P/2K5 b - - 1 27",
+    "Moves": "f2g2 h8d8",
+    "Rating": "1589",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "1174",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Ht57jaHt/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "naSVo",
+    "FEN": "r2q1rk1/pp1b1p1p/5pn1/4p3/3P2N1/2PB4/P4PPP/2RQ1RK1 w - - 0 17",
+    "Moves": "d4e5 d7g4 d1g4 d8d3",
+    "Rating": "1494",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "15419",
+    "Themes": "advantage discoveredAttack master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/Ch0E4wVC#33",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "naTjI",
+    "FEN": "r1q1r1k1/1p4pp/p1p2p2/3pn2Q/3Nn3/1P2P3/PB3PPP/2RR2K1 b - - 11 24",
+    "Moves": "e4f2 g1f2 e5g4 f2g1",
+    "Rating": "1597",
+    "RatingDeviation": "89",
+    "Popularity": "78",
+    "NbPlays": "36",
+    "Themes": "advantage defensiveMove hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/HVSlozyp/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "naXIa",
+    "FEN": "r2qkbr1/1b3p2/p1p1p2p/1p2P2B/2p1P2P/2N5/PP4P1/R2Q1RK1 b q - 0 18",
+    "Moves": "d8d1 h5f7 e8e7 a1d1",
+    "Rating": "1542",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "475",
+    "Themes": "advantage attackingF2F7 fork intermezzo master middlegame short",
+    "GameUrl": "https://lichess.org/MUGLpIur/black#36",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Anti-Moscow_Gambit"
+  },
+  {
+    "PuzzleId": "naXxK",
+    "FEN": "r4r1k/1pp2q2/1p1p1P1p/4p1P1/2P1Qp1B/2P2P2/PPn4P/6RK b - - 0 25",
+    "Moves": "c2e3 g5g6 f7f6 h4f6",
+    "Rating": "1521",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "844",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/rhuRo77v/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "naYKa",
+    "FEN": "2b2rk1/2p3pp/1p1p3q/p2Pp3/P1P1P2r/2PBR2P/4QP2/5RNK w - - 14 26",
+    "Moves": "e3g3 c8h3 g1h3 h4h3 g3h3 h6h3",
+    "Rating": "1530",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "236",
+    "Themes": "crushing exposedKing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/Z5DCnDHC#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "naa3F",
+    "FEN": "1r4k1/prp2pp1/Q2b1q1p/8/3P4/4P2P/P1R1BPP1/3R2K1 w - - 5 28",
+    "Moves": "e2f3 d6h2 g1h2 f6a6",
+    "Rating": "1539",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "11461",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/WmXV8xe3#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "naaDf",
+    "FEN": "r5rk/ppqb1pbp/2n1p3/3p4/2pP1PBN/2P5/PP1N3P/1R2QR1K b - - 0 20",
+    "Moves": "f7f5 h4g6 h7g6 e1h4 g7h6 h4h6",
+    "Rating": "1443",
+    "RatingDeviation": "229",
+    "Popularity": "33",
+    "NbPlays": "3",
+    "Themes": "clearance kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/sjOjky2V/black#40",
+    "OpeningTags": ""
+  }
+]

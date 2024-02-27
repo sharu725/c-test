@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "XFZFE",
+    "FEN": "r4rk1/1pp2ppp/pq6/8/6n1/2N2PP1/PPQ4P/R3R2K b - - 2 18",
+    "Moves": "g4f2 h1g2 f2d3 c2d3",
+    "Rating": "1412",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "1194",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/gTPBfhbj/black#36",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "XFZQR",
+    "FEN": "r1bk3r/p4Qp1/2p1p2p/2ppq1N1/5P2/2NP4/PPP3PP/R5K1 b - - 0 15",
+    "Moves": "e5f6 f7f6 g7f6 g5f7 d8c7 f7h8",
+    "Rating": "1523",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "725",
+    "Themes": "crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/pfHcWqaj/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "XFaz7",
+    "FEN": "r3k2r/pp2bppp/2n5/7q/4Q1b1/5N1P/PP2BPP1/R1B1K2R b KQkq - 0 13",
+    "Moves": "e8g8 e4g4 h5g4 h3g4",
+    "Rating": "1586",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "415",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Tyw9QZQw/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kramnik_Variation"
+  },
+  {
+    "PuzzleId": "XFbt2",
+    "FEN": "r1b1r1k1/pp2qpbp/2p3p1/8/P1P1B3/1P2P3/2Q2PPP/R1BR2K1 b - - 0 15",
+    "Moves": "e7e4 c2e4 e8e4 d1d8 g7f8 c1a3",
+    "Rating": "1595",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1179",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/m6WuEHqJ/black#30",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "XFbwZ",
+    "FEN": "3r1rk1/1pq2pp1/p1bppb1p/2p5/PNP5/1P1PPNP1/5PBP/RQ3RK1 b - - 0 16",
+    "Moves": "f6a1 b4c6 b7c6 b1a1",
+    "Rating": "1556",
+    "RatingDeviation": "75",
+    "Popularity": "67",
+    "NbPlays": "146",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/pkUWVtGe/black#32",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "XFc5u",
+    "FEN": "r4r2/3qb1pk/p2p1n1p/1pp1p3/4P3/P1NP1N1P/1PPQ1PP1/R4RK1 w - - 0 18",
+    "Moves": "c3d5 f6d5 e4d5 f8f3 g2f3 d7h3",
+    "Rating": "1480",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "859",
+    "Themes": "advantage deflection discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/lbxY6kVB#35",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "XFcNV",
+    "FEN": "r1bQ4/pp2rppk/1n5p/6q1/3B4/P4BP1/1P3P1P/R2R2K1 w - - 4 22",
+    "Moves": "h2h4 e7e1 d1e1 g5d8",
+    "Rating": "1508",
+    "RatingDeviation": "81",
+    "Popularity": "79",
+    "NbPlays": "56",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/2WlHND33#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XFcfi",
+    "FEN": "4Q3/1p3p1k/p4P1p/3bP1q1/3p4/3P3B/1r4PP/R3R1K1 w - - 1 32",
+    "Moves": "e5e6 b2g2 h3g2 g5g2",
+    "Rating": "1509",
+    "RatingDeviation": "99",
+    "Popularity": "65",
+    "NbPlays": "59",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/pfPrgqri#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XFcuh",
+    "FEN": "r7/pp1bnk2/3p4/Q1p3p1/2P1P2p/5P2/P1qN2PP/1R2K2R w K - 2 21",
+    "Moves": "e1g1 b7b6 b1b6 a7b6",
+    "Rating": "1420",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "996",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/5eAeTblU#41",
+    "OpeningTags": ""
+  }
+]

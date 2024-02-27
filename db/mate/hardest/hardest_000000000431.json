@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "C0GE2",
+    "FEN": "1r2r1k1/2q2pb1/3B4/2n5/4P3/2n2PQ1/2pN1K2/R6R b - - 0 32",
+    "Moves": "c7b6 g3g7 g8g7 a1g1 g7f6 h1h6",
+    "Rating": "2030",
+    "RatingDeviation": "72",
+    "Popularity": "95",
+    "NbPlays": "9728",
+    "Themes": "attraction long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/Y4S3Mik4/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C0ezT",
+    "FEN": "rnb2rk1/ppppQppp/8/8/2q1N3/8/PPP2PPP/R1B1R1K1 b - - 1 12",
+    "Moves": "b8c6 e4f6 g7f6 e7f8 g8f8 c1h6 f8g8 e1e8",
+    "Rating": "2239",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "6680",
+    "Themes": "attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/MPOF7Bdq/black#24",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Boden-Kieseritzky_Gambit"
+  },
+  {
+    "PuzzleId": "C0sCt",
+    "FEN": "8/R2R3p/1p4p1/5pk1/8/q1P3PP/5P2/6K1 b - - 0 31",
+    "Moves": "a3c3 f2f4 g5h6 d7h7",
+    "Rating": "2162",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "4290",
+    "Themes": "endgame mate mateIn2 queenRookEndgame short",
+    "GameUrl": "https://lichess.org/ZDPD9XN2/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C1Ct9",
+    "FEN": "1k6/1pp4B/p7/4pQ1P/4P1P1/1PKP4/P1P3q1/4b3 w - - 11 36",
+    "Moves": "c3c4 g2c2 c4d5 c2c6 d5e5 c6d6",
+    "Rating": "2126",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1620",
+    "Themes": "dovetailMate endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/0DRz1ojz#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C1DC9",
+    "FEN": "r1b2rk1/pppq1ppp/3p1b2/6BQ/2B5/2P5/PPP2PPP/R3R1K1 b - - 5 12",
+    "Moves": "d7f5 h5f7 f8f7 e1e8",
+    "Rating": "2246",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "5946",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/8SPzvE4S/black#24",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "C1MWz",
+    "FEN": "6k1/3R2b1/6p1/1P3p2/8/1P1pB1Pq/1P1Q1Pb1/5RK1 w - - 1 35",
+    "Moves": "d7g7 g8h8 g7h7 h8h7 f2f3 h3h1 g1f2 h1f1",
+    "Rating": "2124",
+    "RatingDeviation": "92",
+    "Popularity": "60",
+    "NbPlays": "35",
+    "Themes": "defensiveMove endgame mate mateIn4 veryLong",
+    "GameUrl": "https://lichess.org/G8itY9XG#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C1a9i",
+    "FEN": "r2q1b1r/ppp1p2p/3k4/5Q2/3Pp3/3b4/PP3PPP/R1B1K2R b KQ - 3 15",
+    "Moves": "d8d7 f5e5 d6c6 e5c5",
+    "Rating": "2257",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "4673",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/aOMASRxQ/black#30",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Colorado_Countergambit_Accepted"
+  },
+  {
+    "PuzzleId": "C1ciY",
+    "FEN": "r4rk1/p4p2/Qp2p2p/8/P2Pn1Pq/4P3/1BR2PPb/2R1N1K1 w - - 3 25",
+    "Moves": "g1f1 h4f2 c2f2 e4g3",
+    "Rating": "2081",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "783",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/DS8U5bT1#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C1fQY",
+    "FEN": "r1b1kbnr/pppp1pp1/2n4p/8/2BNP2B/1P5q/P1P2P1P/RN1QK1R1 b Qkq - 0 10",
+    "Moves": "c6d4 c4f7 e8f7 d1h5 f7e6 h5d5",
+    "Rating": "2072",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "1163",
+    "Themes": "attackingF2F7 attraction long mate mateIn3 opening sacrifice",
+    "GameUrl": "https://lichess.org/0BDFIDTp/black#20",
+    "OpeningTags": "Gunderam_Defense Gunderam_Defense_Other_variations"
+  }
+]

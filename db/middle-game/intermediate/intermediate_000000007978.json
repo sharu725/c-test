@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "J7Z85",
+    "FEN": "r1bq1rk1/1p2bppp/p2Ppn2/8/2n1P3/1NN1B1P1/PP3PBP/R2Q1RK1 b - - 0 13",
+    "Moves": "c4e3 d6e7 d8e7 f2e3",
+    "Rating": "1505",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "360",
+    "Themes": "advancedPawn advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/gQtWiOmf/black#26",
+    "OpeningTags": "Indian_Defense Indian_Defense_Knights_Variation"
+  },
+  {
+    "PuzzleId": "J7ZNk",
+    "FEN": "r2q1rk1/p2nppbp/1p1p2p1/3NP3/3P1P2/4B3/PPQ3PP/R3K2R b KQ - 0 15",
+    "Moves": "a8c8 c2c8 d8c8 d5e7 g8h8 e7c8",
+    "Rating": "1463",
+    "RatingDeviation": "72",
+    "Popularity": "96",
+    "NbPlays": "19190",
+    "Themes": "attraction crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/FUCdETny/black#30",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Austrian_Attack"
+  },
+  {
+    "PuzzleId": "J7b5Y",
+    "FEN": "2r2rk1/1p3pp1/p3pn1p/q7/P1NP4/4PP2/1Q4PP/2R2RK1 b - - 0 24",
+    "Moves": "a5a4 c4b6 c8c1 b6a4",
+    "Rating": "1424",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "17430",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Gtk3Zyyo/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J7cZe",
+    "FEN": "r6k/p5pp/8/2Np1r2/3P1n1q/1QP5/PP4PP/5RRK w - - 2 28",
+    "Moves": "g2g3 h4h2 h1h2 f5h5",
+    "Rating": "1427",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "8245",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/BS8ykMWi#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J7ekR",
+    "FEN": "rn3rk1/ppp2pp1/8/5bPR/2PP4/1Q2P3/1P3Pq1/2KR4 b - - 1 19",
+    "Moves": "g2f2 d1h1 f2e1 h1e1",
+    "Rating": "1528",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "310",
+    "Themes": "crushing middlegame quietMove short",
+    "GameUrl": "https://lichess.org/NxFUHuVs/black#38",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "J7hGf",
+    "FEN": "5r2/2p2rqk/p2b4/1p1Q3p/4R1PP/P2P1p1K/5P2/4R3 b - - 2 35",
+    "Moves": "f8g8 d5h5 g7h6 h5f7",
+    "Rating": "1523",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "19450",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/Xnbs6zLr/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J7hNt",
+    "FEN": "3rr3/6kp/p3bp2/1pb5/3P1PN1/5BP1/P5KP/2RR4 b - - 0 33",
+    "Moves": "d8d4 c1c5 d4d1 f3d1",
+    "Rating": "1547",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "5124",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/VXrs55ot/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J7icp",
+    "FEN": "r4b1r/pp2k1p1/3p3p/4qb2/4n3/2NQ4/PPPB1PPP/2KR3R w - - 0 16",
+    "Moves": "c3e4 f5e4 d3c4 d6d5 c4b3 a8c8",
+    "Rating": "1597",
+    "RatingDeviation": "160",
+    "Popularity": "-100",
+    "NbPlays": "9",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/XaXdOwsE#31",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "J7jCf",
+    "FEN": "r4rk1/p1b2bpp/2pq4/3p1p1Q/2pP1P2/2P4P/PPBBR1P1/R5K1 w - - 3 19",
+    "Moves": "h5f5 f7g6 f5e6 d6e6 e2e6 g6c2",
+    "Rating": "1426",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "643",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/in1HSjv5#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Franco-Sicilian_Defense"
+  }
+]

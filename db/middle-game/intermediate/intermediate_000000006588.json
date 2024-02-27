@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FptXK",
+    "FEN": "2krq2r/Qpp2pp1/n7/1N1n3p/2P1p3/4B1PP/PP4P1/3R1RK1 b - - 1 22",
+    "Moves": "d5e3 a7a8 a6b8 b5a7",
+    "Rating": "1485",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "722",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/KKdxxzFS/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FpwhM",
+    "FEN": "r1b4k/p1q3p1/3Np1Qp/2ppP3/4pr2/7R/PPP3PP/R6K b - - 3 23",
+    "Moves": "c7e7 h3h6 g7h6 g6h6 h8g8 h6f4",
+    "Rating": "1569",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "255",
+    "Themes": "crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/o5NfyElm/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Fpx1h",
+    "FEN": "r1b3kr/pppp2p1/2n3P1/8/3b1B1q/8/P1P2RPP/1R1Q3K b - - 2 16",
+    "Moves": "d4f2 d1d5 g8f8 d5f7",
+    "Rating": "1493",
+    "RatingDeviation": "87",
+    "Popularity": "26",
+    "NbPlays": "32",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/uFPGYQOp/black#32",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "Fpxj2",
+    "FEN": "r1bq1rk1/pp4pp/8/3p1p2/3b4/1QN5/PP2BPPP/3R1RK1 b - - 1 14",
+    "Moves": "d8b6 b3d5 c8e6 d5d4 b6d4 d1d4",
+    "Rating": "1548",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "19045",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/lZOAMqqR/black#28",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Queens_Knight_Variation"
+  },
+  {
+    "PuzzleId": "Fpyft",
+    "FEN": "2r4r/ppN2kbp/5p2/4n3/5Q2/2Pq4/PP4PP/RN3RK1 w - - 3 20",
+    "Moves": "f4e5 d3f1 g1f1 f6e5",
+    "Rating": "1426",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "3262",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/70VZngJL#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Fpz0H",
+    "FEN": "2r2rk1/1p3ppp/p2p4/3Pq2n/3NP2n/P2BQ2P/1PP1N1K1/R4R2 w - - 7 23",
+    "Moves": "g2f2 e5h2 f2e1 h4g2 e1d2 g2e3",
+    "Rating": "1405",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "4506",
+    "Themes": "advantage exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/TcxgOY3j#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Fq12t",
+    "FEN": "r4r1k/ppp2Npp/3p4/3Qpb2/2Pn4/3P2q1/PP1K2B1/R1B5 b - - 1 22",
+    "Moves": "h8g8 f7h6 g8h8 d5g8 f8g8 h6f7",
+    "Rating": "1420",
+    "RatingDeviation": "82",
+    "Popularity": "93",
+    "NbPlays": "3251",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice smotheredMate",
+    "GameUrl": "https://lichess.org/09LuI35O/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Fq150",
+    "FEN": "r2q3r/pp2nk2/2p2pp1/3p2p1/3P2b1/5NP1/PPP1QPPN/R3R1K1 b - - 3 16",
+    "Moves": "g4f3 e2e6 f7g7 e6e7",
+    "Rating": "1461",
+    "RatingDeviation": "116",
+    "Popularity": "78",
+    "NbPlays": "25",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/whQCQv3N/black#32",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "Fq1Qg",
+    "FEN": "r1br2k1/1p4p1/p2Bpb1p/2p5/2Pn4/P4N2/1P1RBPPP/1R4K1 w - - 4 18",
+    "Moves": "d6c5 d4f3 e2f3 d8d2",
+    "Rating": "1462",
+    "RatingDeviation": "87",
+    "Popularity": "14",
+    "NbPlays": "49",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/9GyKlwZj#35",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  }
+]

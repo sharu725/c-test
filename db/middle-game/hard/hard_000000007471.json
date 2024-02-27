@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "JS7TX",
+    "FEN": "r2q1b1r/p1p1k1pp/1p3nn1/8/3p1B2/1QP5/PP4PP/RN2R1K1 b - - 3 15",
+    "Moves": "e7d7 b3e6",
+    "Rating": "1610",
+    "RatingDeviation": "80",
+    "Popularity": "75",
+    "NbPlays": "68",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/iG4bP732/black#30",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "JS8Cb",
+    "FEN": "r2qk2r/ppp2ppp/2n2n2/8/1bPP4/5B2/PP1B1PPP/RN1QK2R b KQkq - 0 9",
+    "Moves": "d8d4 f3c6 b7c6 d2b4",
+    "Rating": "1606",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "403",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/jZauH6hI/black#18",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "JSBYu",
+    "FEN": "2r2rk1/2q2ppp/p3p3/1pPn4/1Pp1PP2/P7/1B4PP/R2Q1RK1 b - - 0 20",
+    "Moves": "d5e3 d1d4 f7f6 d4e3",
+    "Rating": "1607",
+    "RatingDeviation": "91",
+    "Popularity": "45",
+    "NbPlays": "27",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ulq3hW9z/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JSCbR",
+    "FEN": "r5r1/p4p1k/1p1p3p/2p1p1n1/2P4q/3P3P/P1P2P1N/R3Q1RK b - - 4 22",
+    "Moves": "g5f3 h2f3 h4h3 f3h2 g8g1 e1g1 a8g8 g1f1",
+    "Rating": "1760",
+    "RatingDeviation": "74",
+    "Popularity": "78",
+    "NbPlays": "190",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/rvHfvxV4/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JSDI4",
+    "FEN": "5rk1/pB3p1p/5bp1/8/8/Pb2B3/1Pr2PPP/1R3RK1 w - - 1 22",
+    "Moves": "e3a7 c2c7 b7d5 b3d5",
+    "Rating": "1758",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "54",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/1ksaRxEv#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JSEGT",
+    "FEN": "r1bq1rk1/1p3p1p/p1n2P2/8/2n1PQ2/4B3/PP5P/R3KB1R b KQ - 0 17",
+    "Moves": "c4e3 f4g5 g8h8 g5g7",
+    "Rating": "1786",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "150",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/35sENK2g/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "JSF69",
+    "FEN": "2r2rk1/pp1n1pp1/4p2p/3pP3/1q1P4/bP1Q1N1P/P4PP1/1RBR2K1 b - - 8 19",
+    "Moves": "c8c6 c1d2 b4b6 b3b4",
+    "Rating": "1625",
+    "RatingDeviation": "144",
+    "Popularity": "-60",
+    "NbPlays": "12",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/954FuA6S/black#38",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Baltic_Defense"
+  },
+  {
+    "PuzzleId": "JSGnv",
+    "FEN": "2r5/p3qkpp/1n6/2p3b1/8/4PQ2/PR3PPP/5RK1 b - - 2 20",
+    "Moves": "e7f6 f3b7 f6e7 b2b6 e7b7 b6b7",
+    "Rating": "1729",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "2526",
+    "Themes": "crushing deflection long master middlegame",
+    "GameUrl": "https://lichess.org/U2i0sITE/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JSIEV",
+    "FEN": "rr6/6Q1/p1kqpp2/3p4/2pP1N2/2p1P2P/PP3P2/2KR3R w - - 1 28",
+    "Moves": "b2c3 d6a3 c1d2 b8b2 d2e1 a3c3 e1f1 c3c2 h1h2 c2d1",
+    "Rating": "1763",
+    "RatingDeviation": "92",
+    "Popularity": "56",
+    "NbPlays": "26",
+    "Themes": "crushing deflection exposedKing middlegame queensideAttack veryLong",
+    "GameUrl": "https://lichess.org/uVBmxOkP#55",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "1cAOr",
+    "FEN": "2k4r/ppp2ppp/2q1p3/4r3/8/3R3P/PPPQ1PP1/3R2K1 b - - 1 18",
+    "Moves": "h8e8 d3d8 e8d8 d2d8",
+    "Rating": "648",
+    "RatingDeviation": "100",
+    "Popularity": "38",
+    "NbPlays": "38",
+    "Themes": "endgame mate mateIn2 queensideAttack short",
+    "GameUrl": "https://lichess.org/CV20jYXB/black#36",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Scandinavian_Variation"
+  },
+  {
+    "PuzzleId": "1cAd8",
+    "FEN": "1r1q1rk1/1b3p1n/p3N1pp/1p1n4/3P4/P2Q1N2/1PB2PPP/R3R1K1 b - - 0 19",
+    "Moves": "f7e6 d3g6 g8h8 g6h7",
+    "Rating": "829",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "509",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/WzDfkiLt/black#38",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "1cAqH",
+    "FEN": "r6k/3nB2P/p7/2pPp3/2QbN3/8/PP4q1/K3R2R w - - 5 38",
+    "Moves": "e4f6 g2b2",
+    "Rating": "834",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "155",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/W7ytDESs#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1cAsg",
+    "FEN": "4rb2/pk5p/5Qp1/8/3p4/8/PPq2PPP/R4K1R w - - 0 24",
+    "Moves": "f6d4 c2e2 f1g1 e2e1 a1e1 e8e1",
+    "Rating": "999",
+    "RatingDeviation": "85",
+    "Popularity": "92",
+    "NbPlays": "111",
+    "Themes": "backRankMate endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/jDhJ7gct#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1cBgx",
+    "FEN": "3B4/R5p1/7k/5p2/6bp/3r4/7P/6RK w - - 2 44",
+    "Moves": "d8h4 g4f3 g1g2 d3d1 h4e1 d1e1",
+    "Rating": "994",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "197",
+    "Themes": "endgame long mate mateIn3 pin",
+    "GameUrl": "https://lichess.org/yt77Po6l#87",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1cC5N",
+    "FEN": "4r2k/pp2Np1p/3Q2p1/2n1b1B1/3pP3/7P/PP3PP1/6K1 b - - 0 24",
+    "Moves": "e5d6 g5f6",
+    "Rating": "904",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "269",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/z1AnL8NS/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1cCfP",
+    "FEN": "8/8/pp4pk/2pP2qp/P1Pb4/1P3Q1P/5N2/7K w - - 12 49",
+    "Moves": "f2d1 g5g1",
+    "Rating": "985",
+    "RatingDeviation": "190",
+    "Popularity": "94",
+    "NbPlays": "30",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/R65uJ4HI#97",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1cDHp",
+    "FEN": "2r2rk1/pp2bpp1/4p3/3p2P1/3PnB2/2PQ4/qP3PP1/2KR3R b - - 2 23",
+    "Moves": "e4f2 d3h7",
+    "Rating": "803",
+    "RatingDeviation": "95",
+    "Popularity": "95",
+    "NbPlays": "371",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/NraG10lA/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1cE5C",
+    "FEN": "2kr3r/1pp2pp1/p1n1p1b1/B6p/1P6/3P1NPn/P1PQB1PP/R3R1qK w - - 5 19",
+    "Moves": "f3g1 h3f2",
+    "Rating": "997",
+    "RatingDeviation": "97",
+    "Popularity": "92",
+    "NbPlays": "235",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/kWZFsf0O#37",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Other_variations"
+  }
+]

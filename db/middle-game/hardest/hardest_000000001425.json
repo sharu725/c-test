@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "2xdqt",
+    "FEN": "r3r1k1/ppp2ppp/3q4/2nN1b2/8/5P2/PPP2QBP/3R1RK1 b - - 3 19",
+    "Moves": "a8c8 d5c3 d6b6 d1d5",
+    "Rating": "2246",
+    "RatingDeviation": "115",
+    "Popularity": "78",
+    "NbPlays": "20",
+    "Themes": "advantage clearance middlegame quietMove short",
+    "GameUrl": "https://lichess.org/Yfb8nWeQ/black#38",
+    "OpeningTags": "Elephant_Gambit Elephant_Gambit_Paulsen_Countergambit"
+  },
+  {
+    "PuzzleId": "2xdyj",
+    "FEN": "2r2rk1/QR3pp1/4P2p/8/6nP/6P1/4qPB1/5NK1 b - - 0 33",
+    "Moves": "c8c2 b7f7 f8f7 a7f7 g8h8 f7f8 h8h7 f8f5",
+    "Rating": "2210",
+    "RatingDeviation": "116",
+    "Popularity": "24",
+    "NbPlays": "23",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/O9IaN2kv/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2xfb4",
+    "FEN": "7k/p1p3pp/1p6/7n/4P1q1/2P1QrB1/P1P2P2/R4RK1 w - - 5 24",
+    "Moves": "a1d1 h7h6 e3f3 g4f3",
+    "Rating": "2101",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "185",
+    "Themes": "advantage middlegame pin quietMove short",
+    "GameUrl": "https://lichess.org/gtVjyA0l#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2xfdG",
+    "FEN": "r6k/pQ4p1/3p3p/7n/3nP3/2NP3P/PPP2RPN/2q3K1 w - - 0 21",
+    "Moves": "f2f1 c1e3 f1f2 a8f8 h2g4 e3e1 g1h2 f8f2 b7a8 h8h7",
+    "Rating": "2050",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "167",
+    "Themes": "crushing deflection middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/Jt6QXKYz#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2xfsr",
+    "FEN": "3rr1kb/p1qn1p1p/1p4pB/2p1p1Q1/4b3/2P2N1P/PP2BPP1/3RR1K1 b - - 3 19",
+    "Moves": "h8f6 d1d7 f6g5 d7c7 g5h6 e2b5",
+    "Rating": "2201",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "534",
+    "Themes": "advantage long master middlegame",
+    "GameUrl": "https://lichess.org/4pNo05Rn/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Breyer_Variation"
+  },
+  {
+    "PuzzleId": "2xgfJ",
+    "FEN": "4r1k1/7p/1qb3p1/1p2pN2/4PpP1/1n1PnB1P/1B2Q2K/6R1 b - - 8 34",
+    "Moves": "b3d4 b2d4 e5d4 e2a2 g8f8 f5h6",
+    "Rating": "2294",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "86",
+    "Themes": "clearance crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/VfOGFMkB/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2xhpS",
+    "FEN": "2b2rk1/p1p1p1b1/1p5p/3P3q/2P3r1/4RNB1/PP3P1P/R2Q2K1 w - - 1 25",
+    "Moves": "f3e5 g7e5 e3e5 g4g3 h2g3 h5e5",
+    "Rating": "2256",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "4273",
+    "Themes": "advantage intermezzo kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/xeb4FfLe#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2xk2d",
+    "FEN": "r3r1k1/1bq3p1/p2b1n1p/3pN3/1p1B4/1P1B2Q1/2P2PPP/4RRK1 b - - 5 25",
+    "Moves": "f6e4 e1e4 d5e4 d3c4 c7c4 b3c4",
+    "Rating": "2164",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "139",
+    "Themes": "crushing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/KL71GFww/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2xkoB",
+    "FEN": "r3r1k1/pp3pp1/2nq3p/3pn3/8/2P2N2/PPBQ1PPP/3RR1K1 w - - 0 20",
+    "Moves": "d2d5 d6d5 d1d5 e5f3 g2f3 e8e1",
+    "Rating": "2077",
+    "RatingDeviation": "74",
+    "Popularity": "85",
+    "NbPlays": "100",
+    "Themes": "crushing discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/cCeRPeKg#39",
+    "OpeningTags": ""
+  }
+]

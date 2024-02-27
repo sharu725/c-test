@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Syf8w",
+    "FEN": "r2qnr1k/p2bppbp/4P1p1/8/2B5/2N1BQ2/PPP3PP/R4RK1 b - - 0 16",
+    "Moves": "f7e6 f3f8 g7f8 f1f8 h8g7 a1f1",
+    "Rating": "1720",
+    "RatingDeviation": "116",
+    "Popularity": "71",
+    "NbPlays": "11",
+    "Themes": "crushing defensiveMove kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/OChnccXv/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "SyfF9",
+    "FEN": "3q1rk1/Q3b1p1/p2pp2p/1p6/1P2N3/P2n3P/2r2PP1/BR3RK1 b - - 3 20",
+    "Moves": "d6d5 a7d4 d3b2 a1b2",
+    "Rating": "1796",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "9646",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/srFQ1eTu/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SygiE",
+    "FEN": "2kr1b1r/pp4p1/2q2pp1/1N2n3/3p2P1/4B2P/PPP1QP2/1K1R3R b - - 1 18",
+    "Moves": "d4e3 b5a7 c8b8 a7c6",
+    "Rating": "1612",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "621",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/YjNVBbQ6/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+  },
+  {
+    "PuzzleId": "Syh4c",
+    "FEN": "8/5p1k/2N3p1/P2p3q/3P1Q2/BQ3bP1/3n1b1P/7K w - - 3 41",
+    "Moves": "f4f3 d2f3 h1g2 h5h2 g2f3 h2g3 f3e2 g3b3",
+    "Rating": "1785",
+    "RatingDeviation": "103",
+    "Popularity": "67",
+    "NbPlays": "19",
+    "Themes": "crushing master middlegame skewer veryLong",
+    "GameUrl": "https://lichess.org/UiaJr7WU#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SyhcC",
+    "FEN": "2r1kr2/3b1p1Q/3Pp1P1/7P/p1q5/1p6/PPP5/1NKRR3 w - - 0 26",
+    "Moves": "g6g7 c4c2 h7c2 c8c2",
+    "Rating": "1758",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "7280",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/ah3J9PL4#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SyhoL",
+    "FEN": "1k4rr/p1b2pp1/Pp6/1Q6/3pPp2/3P1Pq1/P5B1/R3R1K1 b - - 0 26",
+    "Moves": "g3g6 b5d5 h8h1 g1h1 g8h8 h1g1",
+    "Rating": "1673",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "73",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/IXrkJ1MV/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SyiQn",
+    "FEN": "r4rk1/1b1nbpp1/p2ppn2/q5BP/Np1NP3/5P2/PPPQ4/2KR1B1R w - - 2 16",
+    "Moves": "b2b3 f6e4 g5e7 e4d2",
+    "Rating": "1657",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "873",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/rhSSIOgs#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Scheveningen_Variation"
+  },
+  {
+    "PuzzleId": "SyinC",
+    "FEN": "r2q3r/1kp5/p3R2Q/2pp1p2/3b1P2/2NP4/PPP3PP/5R1K w - - 3 27",
+    "Moves": "h6g6 h8h2 h1h2 d8h4",
+    "Rating": "1743",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "569",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/0jPmfb2W#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Syksm",
+    "FEN": "r2q1rk1/3b1pbp/p1nppnp1/8/2BPP3/1QN1BN2/PP3PPP/R3K2R w KQ - 3 12",
+    "Moves": "e1g1 c6a5 b3b4 a8b8 b4b8 d8b8",
+    "Rating": "1764",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1264",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/zvI8yCSB#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  }
+]

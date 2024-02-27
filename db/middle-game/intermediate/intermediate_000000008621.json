@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "KiDaU",
+    "FEN": "2bk1b1r/Q1p1q3/5n1p/4n1p1/3p4/1B4B1/PPP2PPP/RN3RK1 w - - 1 16",
+    "Moves": "f1e1 e5f3 g2f3 e7e1 g1g2 c8h3 g2h3 e1f1",
+    "Rating": "1499",
+    "RatingDeviation": "79",
+    "Popularity": "88",
+    "NbPlays": "59",
+    "Themes": "attraction discoveredAttack kingsideAttack mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/pOM5KKSj#31",
+    "OpeningTags": "Russian_Game Russian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "KiEdl",
+    "FEN": "1k1rn2r/nppq2pp/5p2/Q3pP2/4P3/2PP4/P3B1PP/RN3RK1 w - - 1 17",
+    "Moves": "c3c4 d7d4 g1h1 d4a1 b1c3 a1b2",
+    "Rating": "1525",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "229",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/hMxn4mvm#33",
+    "OpeningTags": "Bird_Opening Bird_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "KiFSI",
+    "FEN": "rnb2rk1/pp2qpp1/4p3/2pn2N1/2BP4/2N1P3/PP1Q1P1P/R3K2R w KQ - 2 14",
+    "Moves": "c3d5 e6d5 h1g1 d5c4",
+    "Rating": "1441",
+    "RatingDeviation": "76",
+    "Popularity": "79",
+    "NbPlays": "119",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Kia9Wafh#27",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Neo-Orthodox_Variation"
+  },
+  {
+    "PuzzleId": "KiI9P",
+    "FEN": "6rk/p1p2q1p/2pb1p2/5pr1/2NPp2Q/1PP3P1/P4P1P/R4R1K w - - 1 19",
+    "Moves": "f2f4 g5h5 h4h5 f7h5",
+    "Rating": "1483",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "568",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/jK4vahxh#37",
+    "OpeningTags": "Ponziani_Opening Ponziani_Opening_Spanish_Variation"
+  },
+  {
+    "PuzzleId": "KiJOI",
+    "FEN": "3rr3/pp2k1pp/4pq2/1B3p2/1P1n4/P1R2N2/3Q1PPP/R5K1 w - - 2 22",
+    "Moves": "b5e8 d4f3 g2f3 d8d2",
+    "Rating": "1539",
+    "RatingDeviation": "74",
+    "Popularity": "85",
+    "NbPlays": "142",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/LWCB41v7#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KiJmV",
+    "FEN": "5r1k/pp4bp/6p1/4p3/2QnN2q/P7/1PP2PPP/3RR1K1 w - - 8 25",
+    "Moves": "e4g3 d4f3 g2f3 h4c4",
+    "Rating": "1448",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "590",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/IoSU6lUo#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KiJqK",
+    "FEN": "r2qk2r/pp1n1ppp/2pb2n1/3p4/3P4/2NQB1N1/PPP2PPP/R3R1K1 b kq - 5 11",
+    "Moves": "d6g3 e3g5 e8f8 g5d8",
+    "Rating": "1456",
+    "RatingDeviation": "128",
+    "Popularity": "83",
+    "NbPlays": "15",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/Xyr9v23x/black#22",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "KiLAF",
+    "FEN": "4r1k1/ppp2ppp/3p4/7q/1P2r3/2P1P1Qb/1PN2RP1/R5K1 w - - 0 20",
+    "Moves": "g3h3 e4h4 f2f5 h4h3 f5h5 h3h5",
+    "Rating": "1563",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "813",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/KFnxMJYj#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KiLOD",
+    "FEN": "r1b3k1/2q4p/p2n2pb/3PQ3/1BP1P3/7P/3N2P1/1R4K1 b - - 0 31",
+    "Moves": "h6g7 e5d6 c7d6 b4d6",
+    "Rating": "1593",
+    "RatingDeviation": "98",
+    "Popularity": "63",
+    "NbPlays": "19",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/QLKgyhwH/black#62",
+    "OpeningTags": ""
+  }
+]

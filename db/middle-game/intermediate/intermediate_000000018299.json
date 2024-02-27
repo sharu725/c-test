@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "i1nci",
+    "FEN": "r4rk1/pp1qbppp/5n2/2pp1P2/8/1PN2Q1P/1PP2PP1/R1B2RK1 w - - 0 15",
+    "Moves": "c3d5 d7d5 f3d5 f6d5",
+    "Rating": "1533",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "2018",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/4vdXb8Di#29",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Lion_Variation"
+  },
+  {
+    "PuzzleId": "i1o7E",
+    "FEN": "rn2r3/pb3kbp/1p1Bpqp1/8/2BP2Q1/2P5/P4PPP/R3R1K1 b - - 1 16",
+    "Moves": "b7d5 c4d5 e6d5 e1e8",
+    "Rating": "1437",
+    "RatingDeviation": "74",
+    "Popularity": "75",
+    "NbPlays": "113",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/XzPBr4e6/black#32",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+  },
+  {
+    "PuzzleId": "i1oX5",
+    "FEN": "r4rk1/1p1n1ppp/2q1p3/1RPpP3/5B2/7P/P3QPP1/2R3K1 b - - 0 21",
+    "Moves": "b7b6 c5b6",
+    "Rating": "1590",
+    "RatingDeviation": "119",
+    "Popularity": "78",
+    "NbPlays": "16",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/1qYthHkK/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i1ofS",
+    "FEN": "r2q1rk1/3b1pbp/p5p1/1pp1p1NN/1P5P/4P3/P1BK4/R2Q2R1 w - - 0 22",
+    "Moves": "h5g7 d7g4 d2e1 g4d1",
+    "Rating": "1526",
+    "RatingDeviation": "86",
+    "Popularity": "65",
+    "NbPlays": "40",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/k4j3aFEE#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i1pHv",
+    "FEN": "r2q1rk1/1p4pp/p1pbbn2/4np2/QP1B4/P5PP/2PNNPB1/3RK2R w K - 0 16",
+    "Moves": "e1g1 b7b5 a4a5 d6c7",
+    "Rating": "1554",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "3758",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/dpJlyaWK#31",
+    "OpeningTags": "Creepy_Crawly_Formation Creepy_Crawly_Formation_Classical_Defense"
+  },
+  {
+    "PuzzleId": "i1qXN",
+    "FEN": "7k/1pr1r1b1/pq2pN1n/6Q1/3p4/P4N2/1PP4P/6RK b - - 0 35",
+    "Moves": "b6c6 g5h6 g7h6 g1g8",
+    "Rating": "1459",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1405",
+    "Themes": "arabianMate clearance mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/5I7Pck8w/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i1ry0",
+    "FEN": "r7/1pk1R3/1pp2p2/8/1PbN1n1N/r6P/6P1/3R3K b - - 1 28",
+    "Moves": "c7b8 d4c6 b7c6 d1d8",
+    "Rating": "1435",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "2403",
+    "Themes": "clearance mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/zxPRk4IN/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i1srd",
+    "FEN": "4r1k1/1Q2n1b1/p5p1/1p4P1/3pB1P1/P2P2K1/1q1B1r2/2RR4 b - - 0 33",
+    "Moves": "f2d2 e4d5 g8h7 d1h1",
+    "Rating": "1435",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "484",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/5sbAuv4i/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i1xch",
+    "FEN": "r1b1k2r/ppp2ppp/2p5/4q3/4P3/2NP2nP/PPP3P1/R1BQ2KR w kq - 5 13",
+    "Moves": "h1h2 e5d4 c1e3 d4e3",
+    "Rating": "1507",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "587",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/u5sjihJv#25",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  }
+]

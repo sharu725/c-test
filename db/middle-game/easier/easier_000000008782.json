@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QcJgW",
+    "FEN": "r4rk1/pp3ppp/2p1b3/q2nP3/2B5/2N3Q1/PPP3PP/2KR3R w - - 2 17",
+    "Moves": "a2a3 d5c3 g3c3 a5c3 b2c3 e6c4",
+    "Rating": "1007",
+    "RatingDeviation": "81",
+    "Popularity": "92",
+    "NbPlays": "300",
+    "Themes": "capturingDefender crushing long middlegame",
+    "GameUrl": "https://lichess.org/0WyNeFtp#33",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "QcMBp",
+    "FEN": "3r1rk1/1p3p2/4p1np/nB1pq3/Pp4PP/5Q1K/2R5/1N3R2 b - - 4 32",
+    "Moves": "d8c8 c2c8 f8c8 f3f7",
+    "Rating": "1190",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "5723",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/WPPOOvA4/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QcNIA",
+    "FEN": "3rr2k/p3Np1R/1p3Pn1/8/2P5/1P4Q1/q7/5RK1 b - - 0 32",
+    "Moves": "h8h7 g3h3 g6h4 h3h4",
+    "Rating": "1196",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "177",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/iRVHFUqz/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QcNmM",
+    "FEN": "r2qkbnr/pp3pp1/2n1p3/3pP2p/2pP3P/2Q1BN2/PPP2PP1/RN2K2R w KQkq - 2 10",
+    "Moves": "e1g1 f8b4 c3b4 c6b4",
+    "Rating": "1026",
+    "RatingDeviation": "81",
+    "Popularity": "92",
+    "NbPlays": "360",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/bwHPMEiF#19",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "QcPJw",
+    "FEN": "r4r2/p3N2k/1p6/2b1q3/5p2/2PQ4/P1P2PPP/R5K1 b - - 1 23",
+    "Moves": "h7g7 d3g6 g7h8 g6h6",
+    "Rating": "1184",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "196",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/5l7aNSrf/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QcSSd",
+    "FEN": "r3k2r/1bq1bppp/pp2pn2/2p1n3/P3P3/2N1BN2/1PP1BPPP/R2Q1RK1 w kq - 0 12",
+    "Moves": "e3f4 e5f3 e2f3 c7f4",
+    "Rating": "1054",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "646",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/hFhlwlNg#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Drazic_Variation"
+  },
+  {
+    "PuzzleId": "QcTFo",
+    "FEN": "r1bR1rk1/p3Qppp/n1p1p3/p7/2P5/8/PP3PPP/1q1BK1NR b K - 3 14",
+    "Moves": "c8b7 e7f8",
+    "Rating": "1012",
+    "RatingDeviation": "92",
+    "Popularity": "91",
+    "NbPlays": "55",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/NPT7I3pf/black#28",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Marshall_Gambit"
+  },
+  {
+    "PuzzleId": "QcVSp",
+    "FEN": "2kr1b1r/1pp1qpp1/p1n1bn1p/1N2p3/3PP2B/P4N2/1P2BPPP/R2Q1RK1 w - - 1 14",
+    "Moves": "d4e5 d8d1",
+    "Rating": "1187",
+    "RatingDeviation": "78",
+    "Popularity": "74",
+    "NbPlays": "285",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/J8HbbxrP#27",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "QcWBF",
+    "FEN": "r5k1/pp1qrpbp/2p1b1p1/3p4/3P1N2/2PB1Q2/PP3PPP/R3R1K1 b - - 2 18",
+    "Moves": "e6g4 e1e7 d7e7 f3g4",
+    "Rating": "1081",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "6396",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/cYEN3TN6/black#36",
+    "OpeningTags": "Russian_Game Russian_Game_Nimzowitsch_Attack"
+  }
+]

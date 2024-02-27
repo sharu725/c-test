@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pyXfI",
+    "FEN": "r1b2rk1/ppq1Pppp/3pp3/6B1/8/2NB2n1/PP3PPP/2R2RK1 b - - 2 15",
+    "Moves": "g3f1 d3h7 g8h7 e7f8q",
+    "Rating": "1741",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "11991",
+    "Themes": "advancedPawn advantage deflection kingsideAttack middlegame promotion short",
+    "GameUrl": "https://lichess.org/NpvNE2a6/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Sozin_Attack"
+  },
+  {
+    "PuzzleId": "pyZvp",
+    "FEN": "r2q1r2/pp1nbknQ/4p3/1P1p3p/3P1B1P/2PB4/1P3PP1/R3K2R b KQ - 6 21",
+    "Moves": "f8h8 d3g6 f7f6 f4g5",
+    "Rating": "1729",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "633",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/HC20vCTn/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pyc5I",
+    "FEN": "r4rk1/pp2b1pp/2p1p1b1/2qpQ3/5PP1/1PPBP1B1/P2K4/R6R b - - 0 21",
+    "Moves": "e7f6 e5e6 g6f7 d3h7",
+    "Rating": "1719",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1630",
+    "Themes": "advantage deflection kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/tzNEOeaB/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pycMh",
+    "FEN": "2r3k1/p3q1pp/1p2p3/3pP3/4bPPb/1BP1B2P/P6Q/5RK1 w - - 2 29",
+    "Moves": "e3d4 c8c3 d4c3 e7c5 h2f2 h4f2",
+    "Rating": "1692",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1403",
+    "Themes": "crushing exposedKing fork long master middlegame sacrifice",
+    "GameUrl": "https://lichess.org/inY1ZQ78#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pycO0",
+    "FEN": "r2qk2r/pp4p1/2pbppb1/3p3p/3Pn3/2PBP1B1/PP1NQPPP/R3K2R w KQkq - 0 13",
+    "Moves": "f2f3 d6g3 h2g3 e4g3",
+    "Rating": "1651",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2226",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Tw46RX1C#25",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "pycle",
+    "FEN": "2r2rk1/1p3ppp/p7/4Q3/4Nn2/5P2/4q1PP/6RK b - - 0 34",
+    "Moves": "f4g2 e4f6 g8h8 e5e2",
+    "Rating": "1774",
+    "RatingDeviation": "75",
+    "Popularity": "71",
+    "NbPlays": "261",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/tmUDGtfi/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pydwk",
+    "FEN": "r2q1rk1/5pb1/p2pp1p1/1pp4b/3nP3/P1NPB3/BPP4Q/R3K1NR w KQ - 0 16",
+    "Moves": "g1h3 d4f3 e1f1 f3h2",
+    "Rating": "1762",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1426",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/zjfhkdvw#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "pyefx",
+    "FEN": "4rbk1/Q1p1np1p/1p4p1/1q6/3P1p2/2P2N2/PP3PPP/4R1KN w - - 1 21",
+    "Moves": "a7c7 e7d5 c7b7 e8e1 f3e1 b5e2",
+    "Rating": "1637",
+    "RatingDeviation": "216",
+    "Popularity": "75",
+    "NbPlays": "14",
+    "Themes": "crushing discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/0cGMKraA#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pyf1u",
+    "FEN": "1rbk1bnr/3p3p/2p2p2/q3pP2/p6P/P1N1BB2/1PPQ2P1/2KR3R b - - 2 19",
+    "Moves": "g8e7 d2d6 b8b2 c1b2",
+    "Rating": "1733",
+    "RatingDeviation": "154",
+    "Popularity": "-50",
+    "NbPlays": "15",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/pKwuvwpx/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "bBFEZ",
+    "FEN": "rn2r1k1/ppp2ppp/5n2/2b5/2P2B2/2N2Q2/PPP2PPP/R3q1K1 w - - 0 14",
+    "Moves": "a1e1 e8e1",
+    "Rating": "604",
+    "RatingDeviation": "104",
+    "Popularity": "70",
+    "NbPlays": "268",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/tkYXNOuV#27",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Boehnke_Gambit"
+  },
+  {
+    "PuzzleId": "bBFPs",
+    "FEN": "r1q2rk1/p1pnb1pp/1p1p1n2/3Np1N1/2P5/6P1/PPQBPPKP/R4R2 b - - 2 14",
+    "Moves": "f6d5 c2h7",
+    "Rating": "742",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "149",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/9wRC7mmS/black#28",
+    "OpeningTags": "Queens_Indian_Defense Queens_Indian_Defense_Riumin_Variation"
+  },
+  {
+    "PuzzleId": "bBJry",
+    "FEN": "1kr5/5R1R/pp1r1b2/4p3/4b1p1/1NN3P1/PP4P1/K7 w - - 0 39",
+    "Moves": "c3e4 d6d1 b3c1 d1c1",
+    "Rating": "782",
+    "RatingDeviation": "91",
+    "Popularity": "71",
+    "NbPlays": "31",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/0JqF21Hm#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bBMIx",
+    "FEN": "r2q1k1r/pQp1n1pp/3p4/2n5/4P3/1BP2P2/P4P1P/R1B1K2R w KQ - 3 13",
+    "Moves": "b7b4 c5d3 e1e2 d3b4",
+    "Rating": "875",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "1374",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/gRM2lX4h#25",
+    "OpeningTags": "Danish_Gambit Danish_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "bBMQb",
+    "FEN": "5rk1/r2p2pp/qNpNpn2/2P5/p2P1n2/P7/2Q2PPP/1R3RK1 w - - 8 26",
+    "Moves": "b1b4 f4e2 c2e2 a6e2",
+    "Rating": "927",
+    "RatingDeviation": "89",
+    "Popularity": "94",
+    "NbPlays": "883",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/g51I8Z2V#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bBMs4",
+    "FEN": "5rk1/p4ppp/2Q1pn2/6N1/1n6/2Nq4/PP3PPP/R1B1K2R w KQ - 1 14",
+    "Moves": "c6f3 b4c2",
+    "Rating": "960",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "178",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gVuDTyRT#27",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Tennison_Gambit"
+  },
+  {
+    "PuzzleId": "bBNZS",
+    "FEN": "rn3r1k/1p1b1p1p/1q3p2/1PbppN2/P5Q1/3BP3/5PPP/RN3RK1 b - - 3 16",
+    "Moves": "e5e4 g4g7",
+    "Rating": "874",
+    "RatingDeviation": "79",
+    "Popularity": "81",
+    "NbPlays": "105",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ct3bymOs/black#32",
+    "OpeningTags": "Polish_Opening Polish_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "bBOWE",
+    "FEN": "r1b3k1/1p2q1b1/1np1N1pp/p2p4/P2P1r2/1P3N2/B1P1QPPP/R3R1K1 b - - 0 17",
+    "Moves": "c8e6 e2e6 e7e6 e1e6",
+    "Rating": "856",
+    "RatingDeviation": "286",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/BnMMxGJj/black#34",
+    "OpeningTags": "French_Defense French_Defense_Queens_Knight"
+  },
+  {
+    "PuzzleId": "bBSvl",
+    "FEN": "4r1k1/pp1r1ppp/2n3b1/3n2B1/2B3P1/2P2N1P/PP3K2/3RR3 b - - 6 19",
+    "Moves": "d5b6 e1e8",
+    "Rating": "930",
+    "RatingDeviation": "85",
+    "Popularity": "88",
+    "NbPlays": "604",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gWGqgYKL/black#38",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  }
+]

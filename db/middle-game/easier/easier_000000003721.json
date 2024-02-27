@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BJFGP",
+    "FEN": "2brr2k/pp4p1/2p2p2/2n3p1/2BP4/P3PN2/1P4K1/2R2R2 b - - 0 29",
+    "Moves": "c5e4 f1h1 c8h3 h1h3",
+    "Rating": "1119",
+    "RatingDeviation": "128",
+    "Popularity": "88",
+    "NbPlays": "39",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/weWrbSB7/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BJGbT",
+    "FEN": "r2q2k1/6pp/2np4/p3pr2/2P5/R3N3/1P3PPP/3Q1RK1 b - - 0 20",
+    "Moves": "f5f4 d1d5 g8h8 d5c6",
+    "Rating": "1079",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "205",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/HUCnKJTW/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BJMwd",
+    "FEN": "7k/1B4p1/R2B4/7r/1P4n1/6P1/5RKP/4r3 w - - 1 31",
+    "Moves": "b7f3 h5h2",
+    "Rating": "1072",
+    "RatingDeviation": "82",
+    "Popularity": "89",
+    "NbPlays": "128",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/b2d9hmud#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BJNt7",
+    "FEN": "r3k2r/ppq2ppp/3p1n2/3Pp3/2Pb4/8/PPQ1BPPP/R1B2RK1 b kq - 0 13",
+    "Moves": "f6d5 c2a4 c7c6 a4c6 b7c6 c4d5",
+    "Rating": "1174",
+    "RatingDeviation": "236",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/W5R4H20w/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Flohr_Variation"
+  },
+  {
+    "PuzzleId": "BJQvY",
+    "FEN": "3r3r/pkp1q1p1/1pn1p3/1QN3b1/2PP1p2/P7/1PK2PPP/3R4 b - - 7 29",
+    "Moves": "b7a8 b5c6 a8b8 c6b7",
+    "Rating": "1102",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "285",
+    "Themes": "hangingPiece mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/T0YfAewE/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BJRSY",
+    "FEN": "1k5r/ppp3Qp/6n1/3r4/8/8/PP1q1PPP/1KR4R b - - 3 22",
+    "Moves": "h8d8 g7c7 b8a8 c7c8 d8c8 c1c8",
+    "Rating": "1181",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "76",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/GLxloGNq/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BJRas",
+    "FEN": "r1b3k1/2p2ppp/p7/1p4NQ/8/P2qb3/BPn2KPP/RNB4R w - - 0 20",
+    "Moves": "c1e3 d3e3 f2f1 e3e1",
+    "Rating": "1183",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "400",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/nB88WVSV#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BJRmO",
+    "FEN": "3q3r/rb1nkp1p/p3N3/1p2p3/8/NBP4Q/PP3PPP/R5K1 b - - 0 18",
+    "Moves": "f7e6 h3e6 e7f8 e6f7",
+    "Rating": "1009",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "5882",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/jaopmqRy/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "BJS8X",
+    "FEN": "rn2kb1r/pp2pppp/3q4/3B4/8/4B3/PPP2PPP/R2QK2R w KQkq - 1 12",
+    "Moves": "d5b7 d6b4 d1d2 b4b7",
+    "Rating": "1053",
+    "RatingDeviation": "85",
+    "Popularity": "93",
+    "NbPlays": "1498",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/YHINHttz#23",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Gubinsky-Melts_Defense"
+  }
+]

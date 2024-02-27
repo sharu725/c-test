@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "O9882",
+    "FEN": "3r1rk1/1pp2ppp/p2b1n2/4q3/1P6/P3P3/2P1NPPP/R1B1QRK1 w - - 0 14",
+    "Moves": "a1b1 e5h2",
+    "Rating": "680",
+    "RatingDeviation": "85",
+    "Popularity": "70",
+    "NbPlays": "68",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/rN62bnXZ#27",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Hartlaub-Charlick_Gambit"
+  },
+  {
+    "PuzzleId": "O99eQ",
+    "FEN": "4r2k/3Q2p1/p4P1p/1p2r3/4q3/P1P3P1/1P1R1RKP/8 w - - 1 46",
+    "Moves": "g2h3 e5h5",
+    "Rating": "846",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "99",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/GtjKvD3I#91",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O99o9",
+    "FEN": "2k4r/1pp2pp1/p3bq1p/2Np4/8/P2B2N1/1r1Q1PPP/R3R1K1 w - - 0 22",
+    "Moves": "d2c1 f6f2 g1h1 f2g2",
+    "Rating": "899",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "857",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/zQVTW1AZ#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O9A34",
+    "FEN": "rn3r1k/pp3Npp/8/1p1Q1b1q/P1P1n3/6P1/1K5P/3R3R b - - 3 24",
+    "Moves": "f8f7 d5d8 f7f8 d8f8",
+    "Rating": "794",
+    "RatingDeviation": "81",
+    "Popularity": "79",
+    "NbPlays": "177",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/jFTqbOZc/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O9BD6",
+    "FEN": "r1k4r/3qb2p/p2pNpb1/3Qn1B1/1p6/8/PPP2PPP/R3R1K1 b - - 0 21",
+    "Moves": "f6g5 d5a8",
+    "Rating": "743",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "621",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/ppHYGxq3/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O9BMm",
+    "FEN": "r1b2rk1/pp1p1Qpp/2nP4/2p5/2B5/8/PqPB1PPP/R3R1K1 b - - 0 16",
+    "Moves": "f8f7 e1e8",
+    "Rating": "944",
+    "RatingDeviation": "86",
+    "Popularity": "95",
+    "NbPlays": "211",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/GG11mhIl/black#32",
+    "OpeningTags": "Vienna_Game Vienna_Game_Stanley_Variation"
+  },
+  {
+    "PuzzleId": "O9CFA",
+    "FEN": "r7/5p2/3p4/p1pPk1p1/2P1P1P1/4K3/5R2/8 b - - 3 50",
+    "Moves": "f7f5 f2f5",
+    "Rating": "938",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "143",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/MD6lxnsF/black#100",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O9D2n",
+    "FEN": "1rr1b1k1/5p1p/4pPp1/4N1B1/3R4/2b5/RP3PPP/6K1 w - - 0 25",
+    "Moves": "b2c3 b8b1 g5c1 b1c1 d4d1 c1d1",
+    "Rating": "693",
+    "RatingDeviation": "82",
+    "Popularity": "100",
+    "NbPlays": "57",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/hEnfYlDc#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O9EHB",
+    "FEN": "r2qb2r/pp2bkpQ/1nn1p1P1/3pPp2/2pP4/2P5/PPB2PP1/R1B1K2R b KQ - 0 18",
+    "Moves": "f7f8 h7h8",
+    "Rating": "732",
+    "RatingDeviation": "91",
+    "Popularity": "74",
+    "NbPlays": "90",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4brEJVuF/black#36",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  }
+]

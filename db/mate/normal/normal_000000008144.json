@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "gubr0",
+    "FEN": "1b1r2k1/1p3ppp/p7/3p4/3Nn3/1QrKBP1P/PP4q1/3RR3 w - - 0 27",
+    "Moves": "b2c3 e4c5",
+    "Rating": "1352",
+    "RatingDeviation": "111",
+    "Popularity": "91",
+    "NbPlays": "73",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/h4Khs7wR#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gucK4",
+    "FEN": "5k2/pbn1q1p1/1p3pBp/8/3p1N2/2Q3P1/PP3P1P/6K1 w - - 0 37",
+    "Moves": "c3c7 e7e1",
+    "Rating": "1397",
+    "RatingDeviation": "397",
+    "Popularity": "33",
+    "NbPlays": "5",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/0QM5o4yz#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gucVT",
+    "FEN": "8/Q7/5pkp/5p2/3P4/1PP5/P1KNrP2/R1b1q3 w - - 0 34",
+    "Moves": "a1c1 e1d2 c2b1 d2b2",
+    "Rating": "1295",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1096",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/26VAklRT#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gucXW",
+    "FEN": "r4k1r/pp2bPp1/2p2n1p/4NRq1/2B5/2NQ2n1/PPP3PP/R5K1 w - - 0 20",
+    "Moves": "f5g5 e7c5 d3e3 c5e3",
+    "Rating": "1291",
+    "RatingDeviation": "140",
+    "Popularity": "93",
+    "NbPlays": "42",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/e2fLWR5O#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gudiH",
+    "FEN": "rnbq3r/ppp3kR/3p1bB1/3Pp3/4N3/2P1PQ2/PP3PP1/R3K3 b Q - 0 17",
+    "Moves": "g7g6 f3h5",
+    "Rating": "1287",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "350",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/s1gEmmxl/black#34",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "guhuz",
+    "FEN": "3b2rk/1p5p/p1n2p1B/4p2Q/4q3/P1P3r1/1P3P2/3RR1K1 w - - 0 29",
+    "Moves": "f2g3 g8g3 g1f1 e4g2",
+    "Rating": "1287",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "473",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/TINnp2VO#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gui61",
+    "FEN": "3r4/p4p2/4P1pk/1pn5/5PK1/2B5/PP6/4R3 b - - 0 41",
+    "Moves": "c5e6 e1h1",
+    "Rating": "1210",
+    "RatingDeviation": "81",
+    "Popularity": "94",
+    "NbPlays": "135",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/aTxAH0qa/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gukug",
+    "FEN": "rn1q1rk1/1b2bppB/pp2pn2/2pp4/5PN1/1P2P1Q1/PBPP2PP/RN3RK1 b - - 0 13",
+    "Moves": "f6h7 g4h6 g8h8 g3g7",
+    "Rating": "1273",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "4031",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 opening pin short",
+    "GameUrl": "https://lichess.org/spkGjna0/black#26",
+    "OpeningTags": "Bird_Opening Bird_Opening_Lasker_Variation"
+  },
+  {
+    "PuzzleId": "guqiT",
+    "FEN": "6k1/p4r1p/1p2p1pQ/4Bp2/5P2/5BP1/q1r2b1P/3R3K b - - 7 32",
+    "Moves": "f2c5 d1d8 c5f8 d8f8 f7f8 h6g7",
+    "Rating": "1295",
+    "RatingDeviation": "78",
+    "Popularity": "81",
+    "NbPlays": "99",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/zp0sD6IO/black#64",
+    "OpeningTags": ""
+  }
+]

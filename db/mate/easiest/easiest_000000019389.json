@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "bj4Mz",
+    "FEN": "2r3k1/1Q3ppp/5b2/p4b1q/1p1P1B2/6P1/PP1N1P1P/4R1K1 b - - 6 26",
+    "Moves": "f6d4 b7c8 f5c8 e1e8",
+    "Rating": "779",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "2032",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/h7VzfGcj/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bj4xK",
+    "FEN": "5rk1/ppq4p/6pB/8/1P1Qp1pP/8/PPr5/K6R w - - 5 36",
+    "Moves": "h6f8 c2c1 h1c1 c7c1",
+    "Rating": "636",
+    "RatingDeviation": "100",
+    "Popularity": "86",
+    "NbPlays": "478",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/PXJOkhn5#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bj5Jv",
+    "FEN": "3rr2k/pp1bn1pQ/1b1p1p2/5P2/2BpP3/5R2/PPN3PP/R6K b - - 0 22",
+    "Moves": "h8h7 f3h3",
+    "Rating": "643",
+    "RatingDeviation": "84",
+    "Popularity": "100",
+    "NbPlays": "116",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/qg4tZpwp/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bj5si",
+    "FEN": "8/1BR5/6kp/6p1/2P3n1/2B1p1nP/rP4P1/5K2 w - - 1 45",
+    "Moves": "f1e1 a2a1",
+    "Rating": "971",
+    "RatingDeviation": "207",
+    "Popularity": "67",
+    "NbPlays": "6",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/QKKDtKtj#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bj7IV",
+    "FEN": "r1bqkb1r/pp1ppppp/2n5/3Q4/2B1n3/8/PPPP1PPP/RNB1K1NR b KQkq - 1 5",
+    "Moves": "e4f6 d5f7",
+    "Rating": "832",
+    "RatingDeviation": "93",
+    "Popularity": "86",
+    "NbPlays": "443",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/dHJmbTRI/black#10",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bj7df",
+    "FEN": "r3r1k1/1bp2ppp/p2p1q2/1p1Pn3/3Q1B2/1B2R3/PPP2PPP/4R1K1 b - - 5 16",
+    "Moves": "e5g4 e3e8 a8e8 e1e8",
+    "Rating": "962",
+    "RatingDeviation": "89",
+    "Popularity": "79",
+    "NbPlays": "61",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/6votzQRL/black#32",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "bj7hR",
+    "FEN": "2q2rk1/5ppp/p4b2/3Q4/8/P5P1/2r2PBP/3RR1K1 b - - 0 25",
+    "Moves": "f8d8 d5d8 c8d8 d1d8 f6d8 e1e8",
+    "Rating": "871",
+    "RatingDeviation": "93",
+    "Popularity": "86",
+    "NbPlays": "386",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/mQ9aTQA9/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bj7qx",
+    "FEN": "3qk2r/p2n1ppp/2Q5/4pb2/8/2N2NP1/PP1PPbBP/n1BK3R w k - 0 13",
+    "Moves": "f3e5 f5c2",
+    "Rating": "891",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "681",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/3tfReSJo#25",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "bj95E",
+    "FEN": "rnbq1r1k/ppp2pp1/6BB/3pP2Q/3P3P/8/PPP3P1/RN2K2n b Q - 0 13",
+    "Moves": "h1g3 h6g7 h8g7 h5h7",
+    "Rating": "970",
+    "RatingDeviation": "102",
+    "Popularity": "87",
+    "NbPlays": "113",
+    "Themes": "attraction doubleCheck kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/IsTQSwNc/black#26",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Cunningham_Defense"
+  }
+]

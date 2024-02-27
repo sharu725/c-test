@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BwsdQ",
+    "FEN": "3r1rk1/1pp3pp/2n1bn2/8/p1P5/P2q1NP1/1P1NQPBP/2R1K2R b K - 1 16",
+    "Moves": "e6c4 d2c4 f8e8 c4e3",
+    "Rating": "2358",
+    "RatingDeviation": "76",
+    "Popularity": "79",
+    "NbPlays": "176",
+    "Themes": "advantage defensiveMove master middlegame short",
+    "GameUrl": "https://lichess.org/crsU8dtD/black#32",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Albin_Countergambit"
+  },
+  {
+    "PuzzleId": "Bx1ZQ",
+    "FEN": "8/3k1p2/P4n1p/4b1p1/2Pp4/1N1P2P1/2P2P2/5K2 b - - 0 33",
+    "Moves": "d7c6 b3a5 c6b6 a6a7 b6a7 a5c6 a7b6 c6e5",
+    "Rating": "2145",
+    "RatingDeviation": "83",
+    "Popularity": "82",
+    "NbPlays": "49",
+    "Themes": "advancedPawn attraction crushing endgame exposedKing fork master veryLong",
+    "GameUrl": "https://lichess.org/VxeiXipO/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Bx2Uc",
+    "FEN": "b1r3k1/1q3pbp/1p1B1np1/pP2N3/P1NP4/6P1/5P1P/3QR1K1 w - - 4 29",
+    "Moves": "e5c6 c8c6 b5c6 b7c6 d4d5 c6c4 d1c1 a8d5 c1c4 d5c4",
+    "Rating": "2329",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "77",
+    "Themes": "crushing master middlegame veryLong",
+    "GameUrl": "https://lichess.org/4Oj1sWr0#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Bx4Vk",
+    "FEN": "1rbr2kb/2q2p2/2ppn1p1/p3p3/2P1P3/1PN1BNPn/P1BQ1P1K/2RR4 w - - 0 25",
+    "Moves": "h2h3 e6g5 h3g2 c8h3 g2h2 g5f3",
+    "Rating": "2158",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "105",
+    "Themes": "advantage deflection doubleCheck long master middlegame",
+    "GameUrl": "https://lichess.org/HPXCf8k7#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Bx7Wj",
+    "FEN": "6r1/6pk/2q1P1p1/1p1p4/3B1Q2/p4P2/6K1/8 b - - 6 41",
+    "Moves": "g6g5 f4f5 h7h6 d4e3 c6c2 f5c2",
+    "Rating": "2341",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "667",
+    "Themes": "crushing endgame long master",
+    "GameUrl": "https://lichess.org/ffsWM276/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BxB5t",
+    "FEN": "6k1/6p1/4p3/3pPb1Q/Bp1Pp2P/4P1P1/1q4K1/8 w - - 0 38",
+    "Moves": "g2f1 f5h3 f1e1 b2c1",
+    "Rating": "2121",
+    "RatingDeviation": "84",
+    "Popularity": "86",
+    "NbPlays": "46",
+    "Themes": "crushing endgame master short",
+    "GameUrl": "https://lichess.org/iQtiwvzJ#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BxJei",
+    "FEN": "6kr/pp2n3/5Q2/6N1/3P2P1/Pq6/1P3P2/4R1K1 w - - 1 46",
+    "Moves": "e1e7 b3d1 e7e1 d1g4 g1f1 h8h1",
+    "Rating": "2238",
+    "RatingDeviation": "82",
+    "Popularity": "82",
+    "NbPlays": "196",
+    "Themes": "endgame long master mate mateIn3",
+    "GameUrl": "https://lichess.org/xyF5McZu#91",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BxOlw",
+    "FEN": "8/p7/1p1b4/1P1P1k2/P4Pp1/3N3p/7P/6K1 w - - 1 43",
+    "Moves": "g1f2 f5e4 d3e5 e4f4",
+    "Rating": "2303",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1725",
+    "Themes": "crushing endgame master short",
+    "GameUrl": "https://lichess.org/jFy7Q8t1#85",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BxPCq",
+    "FEN": "8/2kn4/3p3p/K2Ppp2/Np2P1p1/5PP1/PP5P/8 w - - 0 42",
+    "Moves": "f3g4 f5f4 g3f4 e5f4 a5b4 f4f3 a4c3 f3f2",
+    "Rating": "2067",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "5989",
+    "Themes": "advancedPawn crushing endgame knightEndgame master veryLong",
+    "GameUrl": "https://lichess.org/UUbH8S3P#83",
+    "OpeningTags": ""
+  }
+]

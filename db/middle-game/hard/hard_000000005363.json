@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DxMtq",
+    "FEN": "r2r1k1Q/1p3pp1/2b1pb2/8/1qPN4/8/2B2PPP/3RR1K1 b - - 3 25",
+    "Moves": "f8e7 d4f5",
+    "Rating": "1621",
+    "RatingDeviation": "80",
+    "Popularity": "86",
+    "NbPlays": "744",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/4OVdraaI/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DxNqv",
+    "FEN": "rn1qk2r/ppN2ppp/2p1p3/6b1/3P4/5B2/PPPQ1PPP/R4RK1 b kq - 1 12",
+    "Moves": "e8f8 d2b4 g5e7 b4b7",
+    "Rating": "1617",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "9345",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/PFiLkmjU/black#24",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "DxQii",
+    "FEN": "r3k2r/pp1np1b1/1qp2pQ1/3p3p/3P2pP/1NP1P1n1/PP3PPN/R3K2R b KQkq - 1 14",
+    "Moves": "e8d8 g6g7 d8c7 f2g3",
+    "Rating": "1772",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "876",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/4rrESvvM/black#28",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "DxRiI",
+    "FEN": "r4rk1/1b1n1ppp/4pn2/q5B1/2pP4/P3PN2/2B2PPP/R2Q1RK1 w - - 1 18",
+    "Moves": "d1e2 b7f3 e2f3 a5g5",
+    "Rating": "1675",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "13293",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/mCOJlNRU#35",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "DxUDy",
+    "FEN": "r3rbk1/pp1q1p2/1np2n1p/3p2pb/3P4/2P2NBP/PPBNQPP1/R3R1K1 w - - 2 18",
+    "Moves": "e2d3 h5g6 d3f1 g6c2",
+    "Rating": "1798",
+    "RatingDeviation": "72",
+    "Popularity": "93",
+    "NbPlays": "6529",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/uXeKhh9t#35",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "DxXJw",
+    "FEN": "8/1Q6/p2bk3/1p2nq2/3p4/PP4pr/6B1/5RK1 b - - 1 50",
+    "Moves": "f5h7 g2d5",
+    "Rating": "1798",
+    "RatingDeviation": "81",
+    "Popularity": "60",
+    "NbPlays": "245",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/0H5OrJ71/black#100",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DxYse",
+    "FEN": "5r1k/3q2p1/p4b1p/1p5b/3N1Q2/1P2R2P/P5P1/5RK1 b - - 0 28",
+    "Moves": "d7d4 f4d4 f6d4 f1f8 h8h7 g1f2",
+    "Rating": "1797",
+    "RatingDeviation": "77",
+    "Popularity": "64",
+    "NbPlays": "52",
+    "Themes": "crushing defensiveMove discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/hT4wTz95/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DxZ1q",
+    "FEN": "rn3rk1/ppp2ppp/2q5/3Bp3/8/2NP1Q2/PPP4P/5R1K b - - 2 17",
+    "Moves": "c6b6 d5b7 c7c6 b7a8",
+    "Rating": "1796",
+    "RatingDeviation": "167",
+    "Popularity": "-100",
+    "NbPlays": "7",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/zebHYvWp/black#34",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Tennison_Gambit"
+  },
+  {
+    "PuzzleId": "DxZ20",
+    "FEN": "r2q1rk1/pp1n1p2/2p1p1p1/3pPn2/1P3PQ1/2P3N1/P2B2PP/R4RK1 b - - 0 20",
+    "Moves": "d8h4 g3f5 h4g4 f5h6 g8g7 h6g4",
+    "Rating": "1710",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "85",
+    "Themes": "advantage fork long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/5pJb99AO/black#40",
+    "OpeningTags": ""
+  }
+]

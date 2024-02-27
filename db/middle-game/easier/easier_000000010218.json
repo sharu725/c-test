@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "V198g",
+    "FEN": "r1b2rk1/pp1ppp1p/5bp1/6N1/2B2Q1P/8/Pq3PP1/1N3RK1 b - - 0 19",
+    "Moves": "b2b4 c4f7 f8f7 f4b4",
+    "Rating": "1170",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "200",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/d2ZKkMiV/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "V1AIQ",
+    "FEN": "r2qr1k1/ppp3p1/3p4/6p1/1PbbP3/P1N4P/1BQ3P1/R2R3K b - - 9 20",
+    "Moves": "d4c3 c2c3 d8e7 c3c4",
+    "Rating": "1181",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "6334",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/ORHipqdl/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "V1CCn",
+    "FEN": "1k1r1r2/ppp3pp/2n5/2qN4/P3n1Q1/8/1P3PPP/R1B1R1K1 w - - 3 16",
+    "Moves": "g4e4 c5f2 g1h1 f2f1 e1f1 f8f1",
+    "Rating": "1123",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "2543",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/2EJDkjdo#31",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Urusov_Gambit"
+  },
+  {
+    "PuzzleId": "V1CZH",
+    "FEN": "r3rk2/2pnqp1b/p2b1n2/1p1PpN2/4P1P1/PBNP3P/1P1Q1P2/R4RK1 b - - 4 18",
+    "Moves": "e7d8 d2h6 f8g8 h6g7",
+    "Rating": "1085",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "1546",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/UD9dOTK5/black#36",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "V1CeA",
+    "FEN": "rq6/4k2p/2p2p2/p2p2p1/2Pnr3/NP1Q4/P4PPP/R4RK1 w - - 1 24",
+    "Moves": "f2f3 d4e2 d3e2 e4e2",
+    "Rating": "1162",
+    "RatingDeviation": "76",
+    "Popularity": "53",
+    "NbPlays": "159",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/B6hjiUIb#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "V1Cix",
+    "FEN": "r1b1q1k1/p4ppp/1bp1rn2/3p2B1/1P6/P1NB1Q2/2P2PPP/R3R1K1 w - - 6 18",
+    "Moves": "g5f6 e6e1 a1e1 e8e1",
+    "Rating": "1040",
+    "RatingDeviation": "279",
+    "Popularity": "-100",
+    "NbPlays": "2",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/CHF6zosB#35",
+    "OpeningTags": "Scotch_Game Scotch_Game_Schmidt_Variation"
+  },
+  {
+    "PuzzleId": "V1Cof",
+    "FEN": "5rk1/1p4pp/p3q1p1/2p5/P1P4b/1P1B2BP/4N1QK/8 b - - 3 30",
+    "Moves": "e6e3 g2d5 g8h8 g3h4",
+    "Rating": "1193",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "919",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/MZJDgE65/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "V1Cvd",
+    "FEN": "r4rk1/p2p1pp1/1pnPpq1p/8/2P5/1P3B2/P2N1PPb/R2QK2R w KQ - 1 15",
+    "Moves": "h1h2 f6e5 f3e4 e5h2",
+    "Rating": "1130",
+    "RatingDeviation": "75",
+    "Popularity": "75",
+    "NbPlays": "84",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/crmKP2iR#29",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Queenside_Fianchetto_Variation"
+  },
+  {
+    "PuzzleId": "V1Etz",
+    "FEN": "2r5/ppp2Qpk/b4b1N/1q6/5B2/6R1/P2r1PPP/1R4K1 w - - 1 27",
+    "Moves": "b1b5 d2d1",
+    "Rating": "1018",
+    "RatingDeviation": "90",
+    "Popularity": "89",
+    "NbPlays": "58",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/135EZbYZ#53",
+    "OpeningTags": ""
+  }
+]

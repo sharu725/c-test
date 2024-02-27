@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "vaSTA",
+    "FEN": "r4rk1/p5pp/1p1R4/2p2p2/2P2Pnq/1BP1PQ2/P7/2KR4 b - - 2 25",
+    "Moves": "a8d8 f3d5 g8h8 d6d8 h4d8 d5d8",
+    "Rating": "1539",
+    "RatingDeviation": "175",
+    "Popularity": "82",
+    "NbPlays": "4",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/tos1CpAs/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vaSXv",
+    "FEN": "r1b1kb1r/pp2pppp/n1p5/4P3/2QP1B1q/2N5/PP2NP2/R3K1R1 b Qkq - 0 15",
+    "Moves": "c8e6 d4d5 e6d5 c3d5",
+    "Rating": "1460",
+    "RatingDeviation": "74",
+    "Popularity": "85",
+    "NbPlays": "169",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/W4cYQO4G/black#30",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Central_Variation"
+  },
+  {
+    "PuzzleId": "vaSsS",
+    "FEN": "r1bq1k1r/ppppn1pp/6B1/4N1B1/3b4/1Q6/P4PPP/5RK1 b - - 1 14",
+    "Moves": "h7g6 b3f7",
+    "Rating": "1528",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "3297",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/SLnE4BOP/black#28",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "vaTCx",
+    "FEN": "r4rk1/1b1nb1pp/pqn5/1ppB1pP1/3p1P1N/3P3P/PPP1N3/R1B1QR1K b - - 1 17",
+    "Moves": "g8h8 h4g6 h7g6 e1h4",
+    "Rating": "1469",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "316",
+    "Themes": "clearance kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/9FLvTPgG/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "vaTyG",
+    "FEN": "r1b1k2r/pp4p1/2p4p/2Qq1p2/8/8/PP4PP/R1B1R1K1 b kq - 1 21",
+    "Moves": "c8e6 c5d5 c6d5 e1e6",
+    "Rating": "1436",
+    "RatingDeviation": "76",
+    "Popularity": "47",
+    "NbPlays": "130",
+    "Themes": "advantage capturingDefender middlegame pin short",
+    "GameUrl": "https://lichess.org/IlnZs7Ec/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vaVVJ",
+    "FEN": "1r1q1rk1/p1p1b1p1/2pppn1p/8/4P2B/1PN5/P1PQ1PPP/R4RK1 b - - 1 14",
+    "Moves": "f6e4 h4e7 e4d2 e7d8",
+    "Rating": "1417",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1358",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/bWtlTE7I/black#28",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "vaVnN",
+    "FEN": "2r2rk1/p2QNppp/4pq2/8/8/5B2/P4bPP/2R2b1K b - - 1 25",
+    "Moves": "g8h8 c1c8 f6e7 d7e7",
+    "Rating": "1566",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "5065",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/K7S7aVFJ/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vaYrw",
+    "FEN": "8/r1q3kp/1p2B1p1/p1pP2QP/4r3/PP3p2/4bR2/R5K1 b - - 0 34",
+    "Moves": "c7f4 h5h6 g7h8 g5d8 f4f8 d8f8",
+    "Rating": "1566",
+    "RatingDeviation": "74",
+    "Popularity": "81",
+    "NbPlays": "79",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/3xFIxn0f/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vaZEt",
+    "FEN": "r2qkb1r/pQp1pppp/8/5bB1/8/8/PPn2KPP/R4BNR b kq - 1 10",
+    "Moves": "c2a1 f1b5 f5d7 b5d7 d8d7 b7a8",
+    "Rating": "1522",
+    "RatingDeviation": "78",
+    "Popularity": "85",
+    "NbPlays": "352",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/CaTnOKKw/black#20",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Scandinavian_Variation"
+  }
+]

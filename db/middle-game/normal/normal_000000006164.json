@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "I166d",
+    "FEN": "r2qk2r/pp3ppp/2p2n2/2p4b/2B1P3/2P2P2/PP1N3P/R1BQK2R w KQkq - 0 12",
+    "Moves": "d2b3 d8d1 e1d1 h5f3",
+    "Rating": "1243",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "3869",
+    "Themes": "attraction crushing master middlegame short",
+    "GameUrl": "https://lichess.org/157HBd8y#23",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Queens_Knight_Defense"
+  },
+  {
+    "PuzzleId": "I18Vt",
+    "FEN": "r1bqk2r/p4ppp/2p2n2/8/Q1P5/B1P5/P3pPPP/R3R1K1 b kq - 1 14",
+    "Moves": "c8e6 a4c6 f6d7 e1e2",
+    "Rating": "1209",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "7338",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/VJDYSSB1/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kramnik_Variation"
+  },
+  {
+    "PuzzleId": "I19Dy",
+    "FEN": "r4rk1/ppp3pp/8/4n1q1/3pPn2/3P1B1P/PPPN2PK/R2Q1R2 w - - 3 16",
+    "Moves": "d1e1 e5f3 f1f3 g5g2",
+    "Rating": "1338",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "3512",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/mn7GtF7I#31",
+    "OpeningTags": "Bird_Opening Bird_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "I1AvM",
+    "FEN": "4rrk1/pppbbppp/6n1/7N/4N3/1BPP4/PP4PP/4RRK1 b - - 0 19",
+    "Moves": "d7f5 f1f5",
+    "Rating": "1366",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "914",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/dl52StMq/black#38",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "I1BVC",
+    "FEN": "r2qr1k1/pp2np1p/3p2pB/b3N3/4N1b1/2PBP3/PP3PPP/R2Q1RK1 b - - 0 13",
+    "Moves": "g4d1 e4f6 g8h8 e5f7",
+    "Rating": "1284",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "853",
+    "Themes": "deflection fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/5v4YoXtP/black#26",
+    "OpeningTags": "Englund_Gambit Englund_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "I1CHa",
+    "FEN": "1rn1r1kb/p1q2p1p/1p2N1pB/8/4P3/2P5/PP3QPP/R4R1K b - - 0 20",
+    "Moves": "f7e6 f2f8 e8f8 f1f8",
+    "Rating": "1371",
+    "RatingDeviation": "77",
+    "Popularity": "68",
+    "NbPlays": "333",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/Yu14vdRb/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "I1DdV",
+    "FEN": "r2qr1k1/pbpp1ppp/1p6/3P4/QPP1nB2/P4N2/4BRPP/R5K1 w - - 0 18",
+    "Moves": "f2f1 e4c3 e2d1 c3a4",
+    "Rating": "1373",
+    "RatingDeviation": "75",
+    "Popularity": "71",
+    "NbPlays": "199",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/giWudJLR#35",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "I1E4U",
+    "FEN": "1k1r3r/1p1b1pp1/2n1p2p/1B1pP3/8/P4NP1/1P3PP1/1K1R3R b - - 0 21",
+    "Moves": "c6e5 f3e5 d7b5 e5f7 h8f8 f7d8",
+    "Rating": "1338",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "175",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/tGmV6SxB/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "I1G4L",
+    "FEN": "3qkb1r/1p3ppp/p3pn2/3p1b2/1P1P1B2/2r1P3/3NBPPP/R2QK2R b KQk - 1 14",
+    "Moves": "f8b4 d1a4 c3c6 a4b4",
+    "Rating": "1225",
+    "RatingDeviation": "80",
+    "Popularity": "74",
+    "NbPlays": "151",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/1XyJUkMy/black#28",
+    "OpeningTags": "Slav_Defense Slav_Defense_Exchange_Variation"
+  }
+]

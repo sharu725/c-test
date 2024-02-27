@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "nyzsh",
+    "FEN": "4r3/r3b3/p3Pkp1/1p1p1p1p/8/1qP3Q1/3K4/4R1R1 b - - 5 38",
+    "Moves": "b3b2 d2d3 b2b1 e1b1",
+    "Rating": "1376",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "111",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/qTKnEX8x/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nz01m",
+    "FEN": "rn1bk1r1/pp1q1ppp/2pp1n2/4p3/3PP3/1BN2P1P/PPPB1P1K/R1Q3R1 w q - 5 14",
+    "Moves": "d2h6 g7h6 g1g8 f6g8",
+    "Rating": "1308",
+    "RatingDeviation": "75",
+    "Popularity": "74",
+    "NbPlays": "369",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/UAvSOj4i#27",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "nz0cU",
+    "FEN": "r3k2r/2p1qpp1/2np1n1p/p3p3/2P1P3/P3BN1P/1P1Q1PP1/R3K2R b KQkq - 0 15",
+    "Moves": "f6e4 d2d5 e7d7 d5e4",
+    "Rating": "1252",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "690",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/ICnn7bS1/black#30",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "nz1Do",
+    "FEN": "r2qk2r/5pp1/2pp2bp/p3p3/np1P2Pb/4B2P/BPPNQP2/2KR3R b kq - 0 18",
+    "Moves": "e5d4 e3g5 e8d7 g5d8",
+    "Rating": "1280",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "15286",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/3U3qSSoj/black#36",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "nz4Fv",
+    "FEN": "2kr3r/1b1nqB2/pp1p1b1p/3Pp3/2P1N3/4BQ2/PP4PP/R3N1K1 b - - 0 19",
+    "Moves": "e7f7 e4d6 c8b8 d6f7",
+    "Rating": "1293",
+    "RatingDeviation": "80",
+    "Popularity": "85",
+    "NbPlays": "75",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/VBmFLOOb/black#38",
+    "OpeningTags": "Rat_Defense Rat_Defense_Small_Center_Defense"
+  },
+  {
+    "PuzzleId": "nz5Js",
+    "FEN": "4r1k1/pp1r1p1p/1b4p1/2pp2Pn/5P1P/2P1P1NR/PP1N4/2K3R1 b - - 1 23",
+    "Moves": "e8e3 g3h5 e3h3 h5f6 g8g7 f6d7",
+    "Rating": "1264",
+    "RatingDeviation": "81",
+    "Popularity": "44",
+    "NbPlays": "55",
+    "Themes": "advantage fork long master middlegame sacrifice",
+    "GameUrl": "https://lichess.org/UP5wIgQH/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nz67m",
+    "FEN": "r1r2bk1/pb2qp1p/6p1/P2pPP2/2pP2P1/2P2Q2/6B1/R1B1R2K w - - 1 25",
+    "Moves": "f5g6 e7h4 h1g1 h4e1 f3f1 e1f1",
+    "Rating": "1370",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1301",
+    "Themes": "crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/gJeUJKaz#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nz7R6",
+    "FEN": "r1b4r/pp2qpp1/1nn1N1k1/4p3/2pP2QP/2P5/PP3PP1/RN3RK1 b - - 0 16",
+    "Moves": "g6h7 g4g7",
+    "Rating": "1380",
+    "RatingDeviation": "91",
+    "Popularity": "90",
+    "NbPlays": "97",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/hXqRPGWh/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "nz80R",
+    "FEN": "r2r2k1/1b2q1p1/p3p2p/1pp1Rp2/6n1/P1PP2N1/1PQ2PP1/1B2NRK1 w - - 1 24",
+    "Moves": "e5e2 e7h4 e1f3 b7f3",
+    "Rating": "1333",
+    "RatingDeviation": "113",
+    "Popularity": "77",
+    "NbPlays": "18",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/HhJZqyOK#47",
+    "OpeningTags": ""
+  }
+]

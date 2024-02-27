@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Ps4j9",
+    "FEN": "r3r1k1/pp1b1p2/2p1pq2/3pN1p1/2PPn3/P3P3/1P3PP1/R2QKB1R w KQ - 1 18",
+    "Moves": "e5d7 f6f2",
+    "Rating": "917",
+    "RatingDeviation": "83",
+    "Popularity": "79",
+    "NbPlays": "234",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/3dQE53RF#35",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Levitsky_Attack"
+  },
+  {
+    "PuzzleId": "Ps5BF",
+    "FEN": "r1r3k1/4qp2/p3b1Pp/4P3/4Q3/b2B1N2/1p3PP1/1K2R2R b - - 0 27",
+    "Moves": "f7g6 e4g6 g8f8 g6h6",
+    "Rating": "914",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "2205",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/n0brK60o/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ps5mb",
+    "FEN": "2r4k/4Rppp/q7/3p2Bn/1p6/1P3PQP/2r3P1/4R1K1 b - - 2 37",
+    "Moves": "h5g3 e7e8 c8e8 e1e8",
+    "Rating": "605",
+    "RatingDeviation": "97",
+    "Popularity": "90",
+    "NbPlays": "293",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/unuwfWqx/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ps6Me",
+    "FEN": "4r1k1/ppp2bpp/5p2/3r3P/5QP1/P4P2/1PP5/2KRq1NR w - - 0 23",
+    "Moves": "g1h3 d5d1",
+    "Rating": "958",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "216",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/UArByzrz#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ps6as",
+    "FEN": "2kr3r/1b3pp1/2N5/7p/2Q1PB2/2P2N1n/2B3PP/4R1qK w - - 5 26",
+    "Moves": "f3g1 h3f2",
+    "Rating": "663",
+    "RatingDeviation": "96",
+    "Popularity": "73",
+    "NbPlays": "208",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/JzkcOKaO#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ps6xD",
+    "FEN": "1r3rk1/pb3ppp/1p6/2p4q/8/P2PQN2/1P3PPP/R3R1K1 b - - 3 18",
+    "Moves": "f8e8 e3e8 b8e8 e1e8",
+    "Rating": "619",
+    "RatingDeviation": "86",
+    "Popularity": "69",
+    "NbPlays": "77",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/LYHkSuuQ/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Staunton-Cochrane_Variation"
+  },
+  {
+    "PuzzleId": "Ps9RD",
+    "FEN": "r7/5p1k/pq4pp/1p1N4/4R1n1/2Q3P1/PP3r1P/2R3K1 b - - 3 36",
+    "Moves": "f2g2 g1g2 b6f2 g2h3",
+    "Rating": "906",
+    "RatingDeviation": "97",
+    "Popularity": "91",
+    "NbPlays": "271",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/7ZLrVXWK/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ps9nW",
+    "FEN": "r1b2rk1/ppp2pp1/7p/3B2B1/8/P2P4/1Pn3PP/1R3KNR w - - 0 16",
+    "Moves": "g5h4 c2e3 f1f2 e3d5",
+    "Rating": "820",
+    "RatingDeviation": "82",
+    "Popularity": "85",
+    "NbPlays": "43",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/VunnUueZ#31",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "PsAtk",
+    "FEN": "2k4r/ppp3Rp/3p1np1/8/2PP4/5b2/PP2rPPP/RNB3K1 w - - 0 16",
+    "Moves": "g2f3 e2e1 g1g2 e1c1",
+    "Rating": "814",
+    "RatingDeviation": "80",
+    "Popularity": "90",
+    "NbPlays": "537",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/1Hb5VMxV#31",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Modern_Variation"
+  }
+]

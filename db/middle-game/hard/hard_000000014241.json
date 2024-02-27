@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "b0upZ",
+    "FEN": "2r4k/pb1R2p1/4r1Pp/1pb1qN2/2p1Pp2/2P2B1P/PP2Q2K/4R3 b - - 3 32",
+    "Moves": "b7c6 d7g7 e5g7 f5g7",
+    "Rating": "1606",
+    "RatingDeviation": "99",
+    "Popularity": "67",
+    "NbPlays": "15",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/cAHaGb1M/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "b0vUO",
+    "FEN": "r2qkb1r/1Q2pppp/p7/5b2/3P4/P4p2/1PP2PPP/R1B2RK1 b kq - 0 14",
+    "Moves": "f5c2 b7c6 d8d7 c6a8",
+    "Rating": "1644",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1602",
+    "Themes": "crushing deflection fork middlegame short",
+    "GameUrl": "https://lichess.org/ae5YqKHH/black#28",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "b0xJg",
+    "FEN": "5rrk/1b5p/p1n2Pp1/1p2p3/3pP3/P2PqNK1/1P1Q2B1/R6R b - - 2 30",
+    "Moves": "e3d2 h1h7 h8h7 a1h1 d2h6 f3g5 h7h8 h1h6",
+    "Rating": "1763",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "8074",
+    "Themes": "attraction kingsideAttack mate mateIn4 middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/KJVG2Mup/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "b0yW6",
+    "FEN": "2r3k1/1p3pp1/3q1n1p/pP1Pr3/2p5/2Nn3P/1PQ1R1P1/1B3RK1 b - - 3 28",
+    "Moves": "d6b4 e2e5 d3e5 f1f6",
+    "Rating": "1650",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "108",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/dt26ZIoL/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "b0zJk",
+    "FEN": "r4b1B/p2R3p/2p3p1/5k2/1q6/2N2p2/PPP3PP/2KR4 w - - 0 21",
+    "Moves": "g2f3 f8h6 c1b1 a8h8",
+    "Rating": "1774",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "87",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/1VoQvYiW#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "b11Xs",
+    "FEN": "r1bq1r1k/pp2b1pp/2p5/3p1p2/2nPn3/P1NQPN1P/1PB2PPB/R3R1K1 w - - 8 16",
+    "Moves": "f3e5 c4b2 d3e2 e4c3",
+    "Rating": "1708",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "12493",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/NBR5d4dR#31",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "b11e5",
+    "FEN": "r2qk2r/ppp2ppp/8/5b2/3pn3/3Q1N2/PPP3PP/R3KB1R b KQkq - 1 13",
+    "Moves": "e4g3 d3b5 c7c6 b5e5",
+    "Rating": "1622",
+    "RatingDeviation": "75",
+    "Popularity": "74",
+    "NbPlays": "63",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Zqm0QwVO/black#26",
+    "OpeningTags": "French_Defense French_Defense_Winawer_Variation"
+  },
+  {
+    "PuzzleId": "b11xx",
+    "FEN": "3k3r/1p6/p4Qn1/3p4/3N2b1/1PP3q1/P6P/4bR1K b - - 2 32",
+    "Moves": "d8c8 f6h8 g6h8 h2g3 e1d2 f1f8",
+    "Rating": "1672",
+    "RatingDeviation": "93",
+    "Popularity": "86",
+    "NbPlays": "28",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/F36vtXJ2/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "b16D4",
+    "FEN": "2kr4/ppp3pp/2n2b2/7q/6b1/1QN1PNP1/PPP1BP1P/2K4R w - - 0 17",
+    "Moves": "f3g1 f6c3 b3c3 g4e2 g1e2 h5e2",
+    "Rating": "1612",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "265",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/fdP9537I#33",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Stockholm_Variation"
+  }
+]

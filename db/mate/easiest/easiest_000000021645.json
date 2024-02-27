@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "g8Heg",
+    "FEN": "4rrk1/1pqn1p1b/2p4P/p2p2Q1/3N4/2P5/PP1R4/2K4R b - - 0 27",
+    "Moves": "g8h8 g5g7",
+    "Rating": "924",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "259",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/GlNWpVMO/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "g8I9e",
+    "FEN": "1k1r2nr/ppp2ppp/3p4/3Pq3/4P2Q/8/PPP3B1/R2K1R2 b - - 0 17",
+    "Moves": "e5b2 h4d8",
+    "Rating": "689",
+    "RatingDeviation": "101",
+    "Popularity": "76",
+    "NbPlays": "65",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/SztzugJI/black#34",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Fischer_Defense"
+  },
+  {
+    "PuzzleId": "g8IUm",
+    "FEN": "4r1k1/4Bp1p/3P2p1/4R3/2p5/2P5/P4PPP/1r4K1 w - - 1 30",
+    "Moves": "e5e1 b1e1",
+    "Rating": "649",
+    "RatingDeviation": "92",
+    "Popularity": "85",
+    "NbPlays": "919",
+    "Themes": "backRankMate endgame hangingPiece mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/59ojNcPN#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "g8JZI",
+    "FEN": "r3R1k1/5Npp/p2N1p2/1p6/5pb1/8/Pr4PP/4R1K1 b - - 1 29",
+    "Moves": "a8e8 e1e8",
+    "Rating": "942",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "118",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/kFDY0pfO/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "g8K28",
+    "FEN": "4r1k1/3R2pp/8/1q1Q1p2/4b3/8/PP4PP/3KR3 b - - 3 31",
+    "Moves": "e4d5 e1e8",
+    "Rating": "946",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "750",
+    "Themes": "endgame hangingPiece master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/J0Y5bYS3/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "g8KQk",
+    "FEN": "r2qr1k1/pp3p1p/2p1b1pB/3pQB2/8/P1P5/1PP2PPP/R4RK1 b - - 0 16",
+    "Moves": "e6f5 e5g7",
+    "Rating": "754",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "124",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/6YaD6Bz4/black#32",
+    "OpeningTags": "French_Defense French_Defense_Queens_Knight"
+  },
+  {
+    "PuzzleId": "g8KYk",
+    "FEN": "2rq3k/p5pp/1p3NN1/n1b5/3n2Q1/P3B1P1/1P5P/5RK1 b - - 7 25",
+    "Moves": "h7g6 g4h4",
+    "Rating": "939",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "138",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4WcqY8WB/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "g8N8y",
+    "FEN": "6k1/6p1/R5K1/1r3P2/8/8/8/8 b - - 5 48",
+    "Moves": "b5b4 a6a8 b4b8 a8b8",
+    "Rating": "531",
+    "RatingDeviation": "94",
+    "Popularity": "90",
+    "NbPlays": "344",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/XkqyhEvO/black#96",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "g8NG5",
+    "FEN": "r2q1rk1/pp3ppp/5n2/3p1b2/3Q4/P1B1P2P/1P3PP1/R3KB1R b KQ - 0 14",
+    "Moves": "f6e4 d4g7",
+    "Rating": "782",
+    "RatingDeviation": "81",
+    "Popularity": "86",
+    "NbPlays": "90",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gdqXpPt0/black#28",
+    "OpeningTags": "Englund_Gambit_Declined Englund_Gambit_Declined_Reversed_French"
+  }
+]

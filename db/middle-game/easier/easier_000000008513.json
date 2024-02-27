@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PpS0S",
+    "FEN": "2r2b1r/1b1q1kpp/1p1PpP2/pP3P2/8/8/PP4PP/R1BQ1RK1 b - - 0 19",
+    "Moves": "f8d6 f6g7 d6c5 g1h1",
+    "Rating": "1061",
+    "RatingDeviation": "435",
+    "Popularity": "-75",
+    "NbPlays": "3",
+    "Themes": "advancedPawn advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/EmjCWSG4/black#38",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation"
+  },
+  {
+    "PuzzleId": "PpSsA",
+    "FEN": "4r1k1/Q1p1qppp/3b1nb1/4N3/3P4/2P4P/Pr1B1PP1/RN2R1K1 w - - 0 19",
+    "Moves": "e5g6 e7e1 d2e1 e8e1",
+    "Rating": "1114",
+    "RatingDeviation": "83",
+    "Popularity": "85",
+    "NbPlays": "215",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/wWWw2pxb#37",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "PpUWy",
+    "FEN": "r1b2rk1/4Rpbp/p1q2np1/2p3B1/1p2N3/N2P3P/PPP2PP1/R2Q2K1 w - - 0 18",
+    "Moves": "e4f6 g7f6 g5f6 c6f6",
+    "Rating": "1102",
+    "RatingDeviation": "138",
+    "Popularity": "56",
+    "NbPlays": "12",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/KtviK3Wy#35",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "PpVTq",
+    "FEN": "3qrk2/pp2n2p/2pB1np1/3p1bP1/3P4/2N1Q2P/PP4BK/4R3 w - - 0 29",
+    "Moves": "g5f6 d8d6 h2h1 d6f6",
+    "Rating": "1085",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "447",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/ePdOgbWo#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PpVwD",
+    "FEN": "r4rk1/2qb1ppp/1pn1p3/pB1p4/3b1P2/2P1QN2/PP3PPP/R2R2K1 w - - 0 18",
+    "Moves": "f3d4 c6d4 c3d4 d7b5",
+    "Rating": "1187",
+    "RatingDeviation": "87",
+    "Popularity": "54",
+    "NbPlays": "43",
+    "Themes": "advantage capturingDefender discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/Cvt7Ms9Z#35",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Benoni-Indian_Defense"
+  },
+  {
+    "PuzzleId": "PpWZr",
+    "FEN": "2rr4/p7/5nk1/qp2b1pp/2P1P3/P2Q3P/1P1NN1P1/1K1R3R w - - 2 26",
+    "Moves": "d3b3 d8d2 d1d2 a5d2",
+    "Rating": "1100",
+    "RatingDeviation": "106",
+    "Popularity": "86",
+    "NbPlays": "21",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/qmxUbFan#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PpWsa",
+    "FEN": "r4rk1/4ppb1/pp3qp1/2p4p/5B2/2PBRQPb/PPP2P2/4R1K1 b - - 1 18",
+    "Moves": "g7h6 f4h6 f6f3 e3f3",
+    "Rating": "1019",
+    "RatingDeviation": "84",
+    "Popularity": "95",
+    "NbPlays": "285",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/y6HkMGyZ/black#36",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "PpXKW",
+    "FEN": "3q2k1/1Qp3pp/2n5/1b2rp2/4P3/P5P1/1P3PBP/RNR3K1 w - - 0 21",
+    "Moves": "c1c6 d8d1 g2f1 d1f1",
+    "Rating": "1012",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "82",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/J3tKBbct#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PpXUZ",
+    "FEN": "3r2r1/3k1p2/2p1p2p/2BbP3/Q2P2P1/7P/Pq4P1/2R1R1K1 w - - 0 28",
+    "Moves": "c1b1 b2g2",
+    "Rating": "1184",
+    "RatingDeviation": "128",
+    "Popularity": "54",
+    "NbPlays": "31",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/9esecwZl#55",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "T2LZG",
+    "FEN": "R4rk1/1bp2ppp/8/1p1qb3/3p4/1P1B1P1P/2P3P1/2BQ1RK1 b - - 0 17",
+    "Moves": "f8a8 d3e4 d5c5 e4b7 d4d3 g1h1",
+    "Rating": "1609",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "1301",
+    "Themes": "advantage defensiveMove long middlegame skewer",
+    "GameUrl": "https://lichess.org/qM5FiNF1/black#34",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Gunsberg_Variation"
+  },
+  {
+    "PuzzleId": "T2Lfi",
+    "FEN": "r3r2k/pp2n1pp/1bpqPp2/8/Q1BP4/2P1B3/P4PPP/3R1RK1 w - - 0 19",
+    "Moves": "e3c1 b6c7 g2g3 b7b5 c4b5 c6b5",
+    "Rating": "1642",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "140",
+    "Themes": "advantage fork long middlegame quietMove",
+    "GameUrl": "https://lichess.org/kYfd2lGn#37",
+    "OpeningTags": "Mieses_Opening Mieses_Opening_Reversed_Rat"
+  },
+  {
+    "PuzzleId": "T2LpA",
+    "FEN": "7k/pppb2bp/5r1q/3Bp3/P3P1p1/1P3pP1/2PNnP1P/R2R1Q1K w - - 7 25",
+    "Moves": "d5c4 h6h2 h1h2 f6h6 f1h3 h6h3",
+    "Rating": "1621",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "1780",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/Q0M8hKj8#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "T2M9T",
+    "FEN": "2kr3r/ppq1bpp1/2p1p1p1/4P3/3PN3/2PB1P2/Q5PP/1R4K1 b - - 4 26",
+    "Moves": "a7a6 d3a6 b7a6 a2a6 c8d7 b1b7",
+    "Rating": "1696",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "1204",
+    "Themes": "advantage long middlegame pin queensideAttack",
+    "GameUrl": "https://lichess.org/5iGkRu43/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "T2NIw",
+    "FEN": "r6r/2q1kpQ1/p1np1n1p/1pp5/4P3/2P1B3/P1P1BPPP/R4RK1 w - - 1 18",
+    "Moves": "f2f4 a8g8 g7h8 g8h8",
+    "Rating": "1635",
+    "RatingDeviation": "72",
+    "Popularity": "95",
+    "NbPlays": "12482",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/sBwx70ZB#35",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "T2OJI",
+    "FEN": "r4k1r/2q1bp2/pRb1p1pp/P2pP1N1/2pP4/2P4Q/3B1PPP/1R4K1 b - - 5 26",
+    "Moves": "f8g7 g5e6 f7e6 h3e6",
+    "Rating": "1649",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "354",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/XoTUweeG/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "T2QFf",
+    "FEN": "4r1k1/1p3rpp/p2b4/P2pnB2/1P3B2/2P5/4R1PP/3R2K1 w - - 2 27",
+    "Moves": "f4e5 f7f5 e5d6 e8e2",
+    "Rating": "1660",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "3841",
+    "Themes": "crushing hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/DC84mVWu#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "T2R5g",
+    "FEN": "r2q1rk1/ppp1b1pp/5n2/4p3/4N1b1/1P3N2/1PPB1PPP/R2QR1K1 w - - 0 15",
+    "Moves": "d1e2 f6e4 e2c4 g8h8",
+    "Rating": "1629",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "110",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/UFCQOeju#29",
+    "OpeningTags": "Italian_Game Italian_Game_Rousseau_Gambit"
+  },
+  {
+    "PuzzleId": "T2SwQ",
+    "FEN": "7r/6p1/1bp2nk1/5R2/1P6/1N3B1P/P1r3PK/3R4 w - - 4 36",
+    "Moves": "f5e5 b6c7 h2g1 c7e5",
+    "Rating": "1614",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "14295",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/PUJnRKqH#71",
+    "OpeningTags": ""
+  }
+]

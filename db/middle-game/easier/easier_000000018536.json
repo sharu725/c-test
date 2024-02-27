@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "uLpk8",
+    "FEN": "3r2k1/1q3pbp/p4np1/1p1r4/3P4/PP4NP/N4PP1/2RQ1RK1 w - - 1 23",
+    "Moves": "c1c5 d5c5 d4c5 d8d1",
+    "Rating": "1169",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "821",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/zjC7FiFT#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLqXZ",
+    "FEN": "r4rk1/1b1nbppp/p1q2n2/1p6/3BN3/PN1B4/1PP3PP/R2QR1K1 b - - 4 16",
+    "Moves": "f6e4 d3e4 c6e4 e1e4",
+    "Rating": "1074",
+    "RatingDeviation": "167",
+    "Popularity": "57",
+    "NbPlays": "30",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/SUIBv9wo/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "uLt28",
+    "FEN": "r6k/p4p1p/2pp1pr1/7q/8/3PRN1b/PPPQ1PP1/R6K w - - 0 19",
+    "Moves": "g2h3 h5h3 f3h2 h3g2",
+    "Rating": "1099",
+    "RatingDeviation": "83",
+    "Popularity": "63",
+    "NbPlays": "60",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/XlEdxTtu#37",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Boehnke_Gambit"
+  },
+  {
+    "PuzzleId": "uLtsr",
+    "FEN": "r2n3r/ppp1kpp1/3b1n1p/1B1PN1B1/8/8/PPP2PPP/2KRR3 b - - 0 13",
+    "Moves": "h6g5 e5g6",
+    "Rating": "1196",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "900",
+    "Themes": "doubleCheck master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/3aDCAhRX/black#26",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "uLvCK",
+    "FEN": "1k1r3r/pp1n2pp/1nq2B2/1Npp4/5PPP/8/PPP1Q1B1/2KR3R b - - 0 22",
+    "Moves": "d7f6 e2e5 b8a8 b5c7 c6c7 e5c7",
+    "Rating": "1193",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "318",
+    "Themes": "advantage long middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/SDKl1nL1/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLyWB",
+    "FEN": "2kr2nr/ppp3pp/8/2P1p1q1/2b1P3/3B1Q2/PB3PPP/R3K2R w KQ - 0 16",
+    "Moves": "d3c4 g5d2 e1f1 d2b2",
+    "Rating": "1191",
+    "RatingDeviation": "133",
+    "Popularity": "71",
+    "NbPlays": "12",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/TYQevaNU#31",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "uLzro",
+    "FEN": "4r1k1/p2rpp1p/1p2q1p1/2p5/2Pb1B2/P2b1B1P/1P1Q1PP1/1R1R2K1 w - - 0 21",
+    "Moves": "d2d3 d4f2 g1f2 d7d3",
+    "Rating": "1063",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "110",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/Rf4wIXa1#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uM0OJ",
+    "FEN": "2kr3r/1bpp2p1/1nP4p/1Q2qp2/8/2P2B2/1P1N2PP/R1B2RK1 b - - 0 19",
+    "Moves": "e5b5 c6b7 c8b8 a1a8 b6a8 b7a8q",
+    "Rating": "1069",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "1935",
+    "Themes": "advancedPawn long mate mateIn3 middlegame promotion queensideAttack",
+    "GameUrl": "https://lichess.org/3ODhwMm6/black#38",
+    "OpeningTags": "Bird_Opening Bird_Opening_Myers_Defense"
+  },
+  {
+    "PuzzleId": "uM0YH",
+    "FEN": "r2q1rk1/ppp2ppp/4b3/3nn3/2BP4/P1N5/1P3PPP/R2QR1K1 w - - 0 15",
+    "Moves": "e1e5 d5c3 b2c3 e6c4",
+    "Rating": "1090",
+    "RatingDeviation": "82",
+    "Popularity": "90",
+    "NbPlays": "54",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/pt6cIYQc#29",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Piano"
+  }
+]

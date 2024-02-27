@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "kra0s",
+    "FEN": "r1b2rk1/ppp1qppp/3p1n2/6B1/2P5/P1Q2P1B/1P2PP1P/R3K1R1 b Q - 1 13",
+    "Moves": "c8h3 g5f6 e7f6 c3f6",
+    "Rating": "1008",
+    "RatingDeviation": "78",
+    "Popularity": "78",
+    "NbPlays": "134",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/s1ggV1vG/black#26",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "kraYE",
+    "FEN": "qb3rk1/3b1ppp/p7/2pPP3/2Q2Pn1/P1N3P1/1P5P/R1B2RK1 w - - 1 18",
+    "Moves": "c4c5 b8a7 c5a7 a8a7",
+    "Rating": "1107",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "1815",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/YXVJFtuY#35",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations"
+  },
+  {
+    "PuzzleId": "krbOZ",
+    "FEN": "rbb3k1/1pq1Bpp1/2P2n1p/p7/P1B5/1Q3p2/5PPP/RN2R1K1 w - - 0 20",
+    "Moves": "e7f6 c7h2 g1f1 h2g2",
+    "Rating": "1158",
+    "RatingDeviation": "82",
+    "Popularity": "81",
+    "NbPlays": "39",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/CXoHM8Fl#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "krbci",
+    "FEN": "8/k2q1pp1/p5b1/N2P3p/2P1pQn1/6K1/4N1PP/1r6 b - - 4 35",
+    "Moves": "b1a1 a5c6 d7c6 d5c6 a1a3 g3h4",
+    "Rating": "1179",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "182",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/4ZELDZli/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "krelJ",
+    "FEN": "r2q1rk1/2pb2bR/4p1p1/p1Np1p2/1n1P4/2QBPNP1/PP3PP1/2K4R w - - 2 18",
+    "Moves": "f3e5 b4a2 c1d2 a2c3",
+    "Rating": "1081",
+    "RatingDeviation": "78",
+    "Popularity": "78",
+    "NbPlays": "139",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/MT2Voqty#35",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "krfL3",
+    "FEN": "r1bkr3/1pNp1ppp/p1n2n2/8/1b6/2NBB3/PPPQ1P1q/2KRR3 b - - 0 13",
+    "Moves": "d8c7 e3f4 h2f4 d2f4",
+    "Rating": "1003",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "215",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/BxRd4Opp/black#26",
+    "OpeningTags": "Scotch_Game Scotch_Game_Braune_Variation"
+  },
+  {
+    "PuzzleId": "krgnN",
+    "FEN": "r1b2r1k/1p2Np1p/p4Pp1/4b2q/4N3/1B2Q3/P5PP/1R2R2K w - - 3 26",
+    "Moves": "e4g5 h5h2",
+    "Rating": "1131",
+    "RatingDeviation": "78",
+    "Popularity": "89",
+    "NbPlays": "91",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/CnqPVCQF#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "krkx2",
+    "FEN": "2r2rk1/5p1p/pn1bp1p1/1p3nP1/1P1pNP2/P2PP2R/1B2BK2/2R5 b - - 1 23",
+    "Moves": "c8c1 e4f6 g8g7 h3h7",
+    "Rating": "1192",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1395",
+    "Themes": "hookMate kingsideAttack master mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/yV6T0GFh/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "krmEn",
+    "FEN": "r6r/pp2kppp/1q6/4p2b/Qb2P3/3P1PPP/PP1Nn1B1/R1B2R1K w - - 1 17",
+    "Moves": "d2c4 e2g3 h1h2 g3f1 g2f1 b6f2",
+    "Rating": "1147",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "254",
+    "Themes": "advantage exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/EGtNbAwU#33",
+    "OpeningTags": "English_Opening English_Opening_Caro-Kann_Defensive_System"
+  }
+]

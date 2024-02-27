@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "OHna2",
+    "FEN": "r4rk1/1bp3p1/pp1b1pq1/3p2B1/4PPQ1/2PP3P/PP1N2P1/R4RK1 w - - 0 18",
+    "Moves": "f4f5 g6g5 g4g5 f6g5",
+    "Rating": "1320",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "545",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/2Ja15NbJ#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "OHoUG",
+    "FEN": "Q1bk2r1/5p1p/p2p1b2/1pp5/8/7n/PPPN1qPP/R1B1R2K w - - 0 22",
+    "Moves": "e1f1 f2g1 f1g1 h3f2",
+    "Rating": "1372",
+    "RatingDeviation": "86",
+    "Popularity": "83",
+    "NbPlays": "755",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short smotheredMate",
+    "GameUrl": "https://lichess.org/BMZT42an#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OHoUj",
+    "FEN": "rnb1k2r/pp3ppp/2p1pn2/q2pN1B1/1b1P3P/2N1P3/PPP2PP1/R2QKB1R w KQkq - 3 8",
+    "Moves": "d1d2 f6e4 c3e4 b4d2",
+    "Rating": "1315",
+    "RatingDeviation": "88",
+    "Popularity": "25",
+    "NbPlays": "34",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ydaoW8oj#15",
+    "OpeningTags": "Richter-Veresov_Attack Richter-Veresov_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "OHoec",
+    "FEN": "2rqk1r1/p1pb1p2/Q2b3p/2p5/5Pn1/2NP4/PP2P2P/R1B1KBR1 w Q - 5 17",
+    "Moves": "f1h3 d8h4",
+    "Rating": "1243",
+    "RatingDeviation": "76",
+    "Popularity": "71",
+    "NbPlays": "352",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/Mv2FixjT#33",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "OHofJ",
+    "FEN": "2kr3r/ppp2ppp/2P2n2/5q2/8/P1N2B1P/2P2QP1/R5K1 b - - 0 17",
+    "Moves": "b7b6 f3g4 f5g4 h3g4",
+    "Rating": "1339",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "110",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/DaJj9aH8/black#34",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "OHpAK",
+    "FEN": "r4rk1/4bppp/p2p1n2/1p2p3/3PP3/PB1P3q/1P2NP2/R1BQ1RK1 w - - 0 17",
+    "Moves": "e2g3 f6g4 d1g4 h3g4",
+    "Rating": "1358",
+    "RatingDeviation": "93",
+    "Popularity": "47",
+    "NbPlays": "31",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/LKHOgV5X#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "OHrFj",
+    "FEN": "1rbq1rk1/2p4p/p1p3p1/2N2p2/3bP3/4P3/P1P3PP/1R1Q1RK1 w - - 0 17",
+    "Moves": "e3d4 b8b1 d1b1 d8d4",
+    "Rating": "1277",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "9619",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/O59FPtH0#33",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Cozio_Defense"
+  },
+  {
+    "PuzzleId": "OHtB4",
+    "FEN": "r2qk1nr/pp3ppp/8/3pn3/2p5/2P1PB2/PP3PP1/RN1QK2R w KQkq - 0 12",
+    "Moves": "f3d5 e5d3 e1f1 d8d5",
+    "Rating": "1333",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "4420",
+    "Themes": "crushing interference intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/g95IJDX2#23",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "OHuAh",
+    "FEN": "r4k2/2qn3p/5pb1/1p6/3P3B/7P/PPP3P1/2K1RRQ1 w - - 0 27",
+    "Moves": "g1e3 c7c2",
+    "Rating": "1244",
+    "RatingDeviation": "88",
+    "Popularity": "70",
+    "NbPlays": "260",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/2PD0nPjL#53",
+    "OpeningTags": ""
+  }
+]

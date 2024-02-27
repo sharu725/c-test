@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CYArR",
+    "FEN": "r1b2rk1/ppp2ppp/2q1p3/6B1/3P2Q1/P5n1/1PP4P/2KR1B1R b - - 1 17",
+    "Moves": "g3h1 g5f6 g7g6 g4f4 e6e5 d4e5 c8f5 d1d2 h1g3 h2g3",
+    "Rating": "2369",
+    "RatingDeviation": "93",
+    "Popularity": "65",
+    "NbPlays": "63",
+    "Themes": "advantage middlegame pin quietMove veryLong",
+    "GameUrl": "https://lichess.org/zLU7JpHJ/black#34",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "CYCLE",
+    "FEN": "3r1rk1/pp3pp1/2p1pn1p/q6P/2PP4/P4QR1/1P1N1PP1/R3K3 b Q - 8 21",
+    "Moves": "d8d4 f3f6 a5d2 e1f1 d2d3 g3d3",
+    "Rating": "2152",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "2213",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/K1ukA3Lt/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CYClt",
+    "FEN": "1r2r1k1/pQb2ppp/2p2n2/q1Pp4/8/4BPPP/PP3PB1/2R2RK1 w - - 1 18",
+    "Moves": "b7c6 e8e6 b2b4 b8b4 c6e6 f7e6",
+    "Rating": "2309",
+    "RatingDeviation": "121",
+    "Popularity": "75",
+    "NbPlays": "40",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/lXF64Wd3#35",
+    "OpeningTags": "English_Opening English_Opening_Agincourt_Defense"
+  },
+  {
+    "PuzzleId": "CYCyS",
+    "FEN": "6r1/p1p1k3/3b2r1/4p3/4Q2p/1P1P3P/P1P2qP1/R1B3RK w - - 0 23",
+    "Moves": "c2c4 g6g2 c1g5 g2g5",
+    "Rating": "2184",
+    "RatingDeviation": "82",
+    "Popularity": "80",
+    "NbPlays": "74",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/wVL3zPUv#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CYDMy",
+    "FEN": "rnb4k/ppRq2pp/3P4/8/4p1nP/1Q4P1/P4P2/1R4K1 b - - 7 24",
+    "Moves": "d7f5 c7f7 c8e6 f7f5",
+    "Rating": "2283",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "4016",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/U7OfXB6t/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CYEga",
+    "FEN": "r3rqk1/1bp3p1/p3pn2/1p6/1P3Q2/P7/1B1P1PPP/2R1R1K1 b - - 0 22",
+    "Moves": "f8e7 c1c7 e6e5 c7e7 e5f4 b2f6",
+    "Rating": "2259",
+    "RatingDeviation": "76",
+    "Popularity": "67",
+    "NbPlays": "194",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/w80a0Ghi/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CYEnJ",
+    "FEN": "1rb2rk1/5p2/p1nqp1p1/6Bp/Pp1pB2R/7P/2P2PP1/R1Q3K1 b - - 2 23",
+    "Moves": "c8b7 g5f6 e6e5 c1g5",
+    "Rating": "2243",
+    "RatingDeviation": "80",
+    "Popularity": "91",
+    "NbPlays": "2644",
+    "Themes": "clearance crushing middlegame short",
+    "GameUrl": "https://lichess.org/d5k3DaGl/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CYFvl",
+    "FEN": "r1b2rk1/p1qp1pp1/2p4p/7Q/3PN3/3N2P1/PPP3PP/5RK1 b - - 0 19",
+    "Moves": "d7d5 e4f6 g7f6 f1f6 c7e7 h5h6 e7f6 h6f6",
+    "Rating": "2042",
+    "RatingDeviation": "132",
+    "Popularity": "19",
+    "NbPlays": "16",
+    "Themes": "crushing kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/4qFyhbxQ/black#38",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "CYG9Q",
+    "FEN": "2kr4/2p3p1/6q1/p2b1p2/P6R/1P2p1P1/2QN1P2/6KR w - - 0 36",
+    "Moves": "f2e3 g6g3 g1f1 d5g2 f1e2 g2f3 d2f3 g3g2 e2e1 g2c2",
+    "Rating": "2157",
+    "RatingDeviation": "101",
+    "Popularity": "53",
+    "NbPlays": "35",
+    "Themes": "clearance crushing exposedKing fork middlegame sacrifice skewer veryLong",
+    "GameUrl": "https://lichess.org/GqetzyMq#71",
+    "OpeningTags": ""
+  }
+]

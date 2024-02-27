@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "w7EpR",
+    "FEN": "rnb1r1k1/ppp2ppp/7b/8/2QNq1P1/7P/PPP1B3/R3KR2 b Q - 1 16",
+    "Moves": "c7c5 c4f7 g8h8 f7f8 e8f8 f1f8",
+    "Rating": "1186",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "525",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/dPkAlWZ3/black#32",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit"
+  },
+  {
+    "PuzzleId": "w7Hfh",
+    "FEN": "2rqkr2/pb1p1pQp/1p2pb2/8/2P1P3/2N1BP2/PP4PP/2R2RK1 w - - 3 16",
+    "Moves": "g7h7 f8h8 h7h8 f6h8",
+    "Rating": "1176",
+    "RatingDeviation": "78",
+    "Popularity": "89",
+    "NbPlays": "752",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/TBf00q5T#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Open"
+  },
+  {
+    "PuzzleId": "w7IFm",
+    "FEN": "5B2/2q2kpQ/2p2p2/p2n4/7R/2PP2PP/P3r2K/5R2 w - - 1 35",
+    "Moves": "h2g1 c7g3 g1h1 e2h2",
+    "Rating": "1035",
+    "RatingDeviation": "83",
+    "Popularity": "90",
+    "NbPlays": "504",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/SQljv8Ci#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "w7IHa",
+    "FEN": "1k1r3r/p4ppp/1p1qpn2/8/5P2/1P1nP2P/P2NQ1P1/R1B2RK1 w - - 1 21",
+    "Moves": "a2a4 d3c1 a1c1 d6d2",
+    "Rating": "1150",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "3197",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/bmmoFe3x#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "w7J3i",
+    "FEN": "r2q3r/1p2bpk1/p2p1pp1/5N2/2b1P2Q/2N1R3/PPP2PPP/R5K1 b - - 10 20",
+    "Moves": "g6f5 e3g3 g7f8 h4h8",
+    "Rating": "1097",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "4049",
+    "Themes": "deflection mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/WQY0ZoI9/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "w7Jg1",
+    "FEN": "r2q1rk1/3nbppp/2p2n2/pp1p1PB1/8/2NB2Q1/PPP2PPP/R3R1K1 b - - 1 13",
+    "Moves": "f6h5 g5e7 h5g3 e7d8",
+    "Rating": "1084",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2257",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/yw3lrXQA/black#26",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "w7JuS",
+    "FEN": "5k1r/1rp2ppp/p1q2n2/8/8/P4P1P/P2Q2P1/2R1R2K b - - 3 26",
+    "Moves": "c6d6 d2d6 c7d6 c1c8 f6e8 e1e8",
+    "Rating": "1169",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "279",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/Fik1mgD5/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "w7K3L",
+    "FEN": "rnb2rk1/pp2bppp/4p3/8/3N4/P1NBq3/5RPP/R2Q2K1 b - - 1 16",
+    "Moves": "e3d4 d3h7 g8h7 d1d4",
+    "Rating": "1199",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "142",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/p56VTllh/black#32",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Benoni_Gambit_Accepted"
+  },
+  {
+    "PuzzleId": "w7Kgc",
+    "FEN": "r2qk1nr/pp4pp/3bp3/3pN3/1P6/8/2PP2PP/RNBQK2R b KQkq - 0 11",
+    "Moves": "d6e5 d1h5 e8d7 h5e5",
+    "Rating": "1054",
+    "RatingDeviation": "78",
+    "Popularity": "85",
+    "NbPlays": "169",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/plnMTrIv/black#22",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Wing_Gambit"
+  }
+]

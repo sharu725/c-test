@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "i7VNi",
+    "FEN": "2r3k1/2r2p1p/p3p3/2bp2p1/1p1Rn3/1B2BN2/PP3PPP/2R3K1 w - - 4 23",
+    "Moves": "d4d1 c5e3 c1c7 e3f2 g1f1 c8c7",
+    "Rating": "1648",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "16902",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/F4FMDvQf#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i7Wkv",
+    "FEN": "r3r1k1/pp1q1ppp/2n5/2bp2B1/4n3/1NPQ1N2/PP3PPP/R4RK1 b - - 7 14",
+    "Moves": "e4g5 f3g5 g7g6 b3c5",
+    "Rating": "1637",
+    "RatingDeviation": "155",
+    "Popularity": "7",
+    "NbPlays": "9",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/YsnIDbgJ/black#28",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "i7ZnH",
+    "FEN": "2r3k1/1bqprppp/p7/4PR2/2PQ4/3B4/P5PP/5RK1 w - - 3 22",
+    "Moves": "f5f7 e7f7 d3h7 g8h7",
+    "Rating": "1742",
+    "RatingDeviation": "178",
+    "Popularity": "67",
+    "NbPlays": "6",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/dngoDred#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i7bFJ",
+    "FEN": "r4r1k/pp3p1p/2pp1qpB/4p2Q/2B1P2b/3P4/PPP1NP2/2K3R1 w - - 3 18",
+    "Moves": "h6f8 g6h5 f8g7 f6g7 g1g7 h8g7",
+    "Rating": "1797",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "228",
+    "Themes": "crushing hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/yvPDRFvT#35",
+    "OpeningTags": "Italian_Game Italian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "i7bz5",
+    "FEN": "r3k2r/ppqnbppp/2p1pnb1/6B1/3PN3/3Q1N1P/PPP1BPP1/R3R1K1 w kq - 9 13",
+    "Moves": "e4f6 g7f6 d3d2 f6g5",
+    "Rating": "1724",
+    "RatingDeviation": "78",
+    "Popularity": "67",
+    "NbPlays": "53",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/gCtPXReU#25",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Gubinsky-Melts_Defense"
+  },
+  {
+    "PuzzleId": "i7cDN",
+    "FEN": "1r3rk1/1p2ppb1/pR4P1/2pq4/4b3/4B3/4BPP1/2Q3KR b - - 1 24",
+    "Moves": "e4g6 b6g6 f7g6 e2c4",
+    "Rating": "1794",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "74",
+    "Themes": "crushing master middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/zneN3Lnx/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i7e5f",
+    "FEN": "r1b2rk1/pp2nNbp/2n3p1/q7/8/1B1P1Q2/P1PBKPPP/q6R b - - 1 15",
+    "Moves": "f8f7 f3f7 g8h8 f7e8 g7f8 e8f8 e7g8 f8g8",
+    "Rating": "1651",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "820",
+    "Themes": "kingsideAttack mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/yFDy4ncl/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "i7e8L",
+    "FEN": "2rr2k1/pp4pp/2nBp1q1/1Q2P3/8/5N2/P3KPPP/1R1R4 w - - 1 24",
+    "Moves": "g2g3 g6e4 e2f1 e4f3",
+    "Rating": "1609",
+    "RatingDeviation": "354",
+    "Popularity": "100",
+    "NbPlays": "1",
+    "Themes": "deflection equality middlegame short",
+    "GameUrl": "https://lichess.org/GndtShr4#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i7egd",
+    "FEN": "2r3k1/5ppp/p3b3/2qp4/P1p2r2/N1P3Q1/1P2R1PP/4R2K b - - 2 29",
+    "Moves": "f4g4 e2e6 g4g3 e6e8 c5f8 e8f8 c8f8 h2g3",
+    "Rating": "1634",
+    "RatingDeviation": "77",
+    "Popularity": "77",
+    "NbPlays": "48",
+    "Themes": "advantage kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/FgoKmmGh/black#58",
+    "OpeningTags": ""
+  }
+]

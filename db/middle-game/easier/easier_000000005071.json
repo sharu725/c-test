@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FPAOp",
+    "FEN": "2k1rr2/2p2p1p/p2bb3/1p2B3/8/PB1P4/1PP2PPP/R3R1K1 b - - 0 19",
+    "Moves": "e6b3 e5d6 e8e1 a1e1 c7d6 c2b3",
+    "Rating": "1150",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "408",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/mF4rjq6m/black#38",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "FPDMO",
+    "FEN": "2k5/p1r2p2/B5p1/2b5/1p6/1Pp3K1/2n2r2/B2R4 b - - 13 40",
+    "Moves": "c8b8 d1d8 c7c8 d8c8",
+    "Rating": "1080",
+    "RatingDeviation": "204",
+    "Popularity": "50",
+    "NbPlays": "16",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/5vE68NRd/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FPDWA",
+    "FEN": "2k4r/2pr3p/R3Q3/n5p1/4pp2/q6P/P4PP1/5NK1 b - - 3 27",
+    "Moves": "h8d8 a6a8 c8b7 e6a6",
+    "Rating": "1141",
+    "RatingDeviation": "86",
+    "Popularity": "91",
+    "NbPlays": "138",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/fw4Iuo4H/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FPDXJ",
+    "FEN": "r3r1k1/pp3ppp/2p5/7q/2P5/PPQ1nNP1/1B3K1P/5R2 b - - 1 25",
+    "Moves": "e3f1 c3g7",
+    "Rating": "1173",
+    "RatingDeviation": "102",
+    "Popularity": "-56",
+    "NbPlays": "28",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/UrfHc5j9/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FPDdm",
+    "FEN": "r4rk1/pbpp1ppp/1p1b1n2/4q1B1/4P3/2NB1Q2/PPP2PPP/R4RK1 w - - 14 13",
+    "Moves": "g5f4 e5f4 f3f4 d6f4",
+    "Rating": "1149",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "339",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/1F3EbmSP#25",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "FPDvi",
+    "FEN": "r6r/p1p1bkpp/2p1qp2/8/5Q2/2NP1N2/PPP2PPP/R5K1 b - - 0 17",
+    "Moves": "e7d6 f3g5 f7e8 g5e6",
+    "Rating": "1083",
+    "RatingDeviation": "77",
+    "Popularity": "73",
+    "NbPlays": "207",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/0cfVNFmD/black#34",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "FPDyz",
+    "FEN": "8/p1k1qp1p/2pp4/3P2rQ/3P4/1B3Pr1/P4RPK/R7 w - - 1 33",
+    "Moves": "h5h4 g3g2 f2g2 g5g2 h2g2 e7h4",
+    "Rating": "1138",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "127",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/KGNZ3wiK#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FPFSs",
+    "FEN": "r4r1k/pb2b1p1/1q3pQp/2p5/1PB5/P6P/1BP3P1/R4RK1 w - - 2 21",
+    "Moves": "c4d3 c5c4 g1h1 c4d3",
+    "Rating": "1030",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "4512",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/7HwSe4dm#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FPFhb",
+    "FEN": "r2qkb1r/3npppp/1p1p4/1N1b4/1p1B4/5N2/PPP1QPPP/R3K2R b KQkq - 1 12",
+    "Moves": "d5c6 b5d6",
+    "Rating": "1109",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "801",
+    "Themes": "mate mateIn1 middlegame oneMove pin smotheredMate",
+    "GameUrl": "https://lichess.org/9LHwORBw/black#24",
+    "OpeningTags": "English_Defense English_Defense_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "AmMBe",
+    "FEN": "3b2k1/3Q2pp/5p2/q3p3/8/4BP2/6PP/6K1 b - - 1 32",
+    "Moves": "a5c7 d7e8",
+    "Rating": "1599",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "661",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/8LgfMyMp/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AmSTE",
+    "FEN": "2Q3k1/5ppp/p3b3/1p1p4/6nq/2PB3P/P4PP1/2R1R1K1 b - - 4 29",
+    "Moves": "e6c8 e1e8",
+    "Rating": "1470",
+    "RatingDeviation": "460",
+    "Popularity": "67",
+    "NbPlays": "6",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/9XMyBInV/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AmSTO",
+    "FEN": "6rk/6b1/p3Q2p/1p3pq1/8/2P2P2/PP4PP/3R1RK1 w - - 1 28",
+    "Moves": "d1d5 g7d4 g1h1 g5g2",
+    "Rating": "1401",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "500",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/w37ugXgE#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AmT36",
+    "FEN": "3r2k1/7R/2p3P1/1p6/pq2P3/5P2/2P4Q/1K3B2 w - - 5 36",
+    "Moves": "b1c1 b4a3 c1b1 d8d1",
+    "Rating": "1573",
+    "RatingDeviation": "83",
+    "Popularity": "86",
+    "NbPlays": "76",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/zQSk55oM#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AmTRT",
+    "FEN": "r1r4k/5Qp1/3p2Pp/2qPp3/pp6/5P2/PPP5/1KR4R b - - 0 27",
+    "Moves": "c5c7 h1h6 g7h6 g6g7 h8h7 g7g8q",
+    "Rating": "1484",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "17896",
+    "Themes": "advancedPawn doubleCheck endgame kingsideAttack long mate mateIn3 promotion sacrifice",
+    "GameUrl": "https://lichess.org/jDPeBIJI/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AmUWq",
+    "FEN": "8/1pp5/8/5Q2/8/6rk/PPP4r/4K3 b - - 17 52",
+    "Moves": "h3g2 f5f1",
+    "Rating": "1478",
+    "RatingDeviation": "88",
+    "Popularity": "80",
+    "NbPlays": "866",
+    "Themes": "endgame mate mateIn1 oneMove queenRookEndgame",
+    "GameUrl": "https://lichess.org/8FKGZDYC/black#104",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AmUZv",
+    "FEN": "1R6/1P6/6p1/5P2/8/5k2/1r5p/6K1 w - - 0 51",
+    "Moves": "g1h1 f3g3 b8e8 b2b1 e8e1 b1e1",
+    "Rating": "1486",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1622",
+    "Themes": "endgame exposedKing long mate mateIn3 rookEndgame",
+    "GameUrl": "https://lichess.org/McDRD2Ak#101",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AmWIk",
+    "FEN": "6k1/R5P1/5K2/8/1p6/8/pr6/8 b - - 1 76",
+    "Moves": "b2g2 a7a8 g8h7 a8h8",
+    "Rating": "1403",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "179",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/9cKSaXsI/black#152",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AmXVO",
+    "FEN": "rn2k2r/ppp2ppp/4b3/8/1bPqn3/1PN5/PB1P1PPP/R2QKBNR w KQkq - 5 8",
+    "Moves": "g1f3 d4f2",
+    "Rating": "1453",
+    "RatingDeviation": "84",
+    "Popularity": "33",
+    "NbPlays": "88",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/gY4fhh1k#15",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Icelandic-Palme_Gambit"
+  }
+]

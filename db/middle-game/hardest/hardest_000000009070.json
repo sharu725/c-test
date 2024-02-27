@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "IkZmr",
+    "FEN": "r4rk1/pppb1pp1/3p2qp/n2P4/2P1P3/P3B3/B1PQ1PPP/R4RK1 w - - 1 19",
+    "Moves": "d2a5 d7h3 g2g3 g6e4 f2f3 e4e3",
+    "Rating": "2019",
+    "RatingDeviation": "83",
+    "Popularity": "57",
+    "NbPlays": "326",
+    "Themes": "advantage kingsideAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/DjIzBSFn#37",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "IkcCH",
+    "FEN": "r3k2r/pppq1pp1/2np1n2/4p1Nb/2B1P2P/2NPP3/PPP3Q1/R3K2R w KQkq - 1 14",
+    "Moves": "g5f7 h5f7 g2g7 h8f8 g7f6 f7c4",
+    "Rating": "2273",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "72",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/xfqRBoZk#27",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "Ikcj6",
+    "FEN": "rn1r2k1/pQ3pp1/5q1p/8/1b1N4/4P3/PP3PPP/R2K1B1R b - - 2 14",
+    "Moves": "d8d4 e3d4 f6d4 d1c2 d4d2 c2b3",
+    "Rating": "2001",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "889",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/JYte86lb/black#28",
+    "OpeningTags": "Indian_Defense Indian_Defense_Anti-Nimzo-Indian"
+  },
+  {
+    "PuzzleId": "Ike2b",
+    "FEN": "r1b1rk2/ppp2ppp/3p2q1/8/2PP4/5NnP/PPBNQ1P1/R5KR w - - 2 17",
+    "Moves": "e2f2 g3h1 c2g6 h1f2",
+    "Rating": "2328",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "919",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/W5o4dl5v#33",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Piano"
+  },
+  {
+    "PuzzleId": "Ikfbx",
+    "FEN": "3rr1k1/p2P1pp1/1p3q1p/4p3/8/5B1b/PP3PP1/2RQR1K1 b - - 0 23",
+    "Moves": "e8e7 g2h3 e7d7 d1e2 d7d2 e2e4",
+    "Rating": "2267",
+    "RatingDeviation": "91",
+    "Popularity": "64",
+    "NbPlays": "42",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/ix5UPM9z/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ikfp4",
+    "FEN": "4rbk1/1RB2pp1/3p3p/N2qp3/1P3n2/6QP/5P1K/5R2 w - - 0 34",
+    "Moves": "c7b6 e8e6 b6e3 e6g6 e3f4 e5f4 g3g6 f7g6",
+    "Rating": "2290",
+    "RatingDeviation": "86",
+    "Popularity": "78",
+    "NbPlays": "72",
+    "Themes": "crushing middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/X22hDJ8u#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ikieu",
+    "FEN": "rn3r2/2b1qp1k/b3p2p/3pN3/pp1p2QP/5NP1/PPP2PB1/1K1R3R b - - 1 21",
+    "Moves": "b4b3 f3g5 h7h8 g5f7 f8f7 e5g6 h8h7 g6e7",
+    "Rating": "2245",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "6318",
+    "Themes": "crushing fork middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/GDGgZSLr/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ikijk",
+    "FEN": "r5k1/3n1rp1/2p2pRB/p3pP2/4P2Q/q6P/2PK4/3R4 b - - 3 27",
+    "Moves": "d7c5 h6g7 a3b4 d2e3 b4e4 h4e4",
+    "Rating": "2332",
+    "RatingDeviation": "106",
+    "Popularity": "68",
+    "NbPlays": "16",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/APYaSD5S/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ikk0w",
+    "FEN": "2r1k2r/pp1qb2p/6pQ/2pNp3/3nP3/1P1P3P/PBP3P1/5RK1 b - - 1 18",
+    "Moves": "h8f8 f1f8 e7f8 d5f6 e8e7 h6h7 e7f6 h7d7",
+    "Rating": "2288",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "199",
+    "Themes": "crushing deflection exposedKing fork interference middlegame skewer veryLong",
+    "GameUrl": "https://lichess.org/4En6oFtL/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "G3UDF",
+    "FEN": "rn3rk1/pbpp1p1p/1p1bpnp1/8/1PN1P1P1/P1qP1P1N/2PBK2P/3Q1B1R b - - 5 11",
+    "Moves": "c3d4 c2c3 d4c4 d3c4",
+    "Rating": "2132",
+    "RatingDeviation": "146",
+    "Popularity": "73",
+    "NbPlays": "17",
+    "Themes": "equality middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/CoFwMOpe/black#22",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G3UhO",
+    "FEN": "3r2k1/3b1pp1/1p3b2/6q1/1P1P1NPp/4QP2/5R1P/3R2K1 w - - 1 39",
+    "Moves": "f2d2 d8e8 e3f2 g5f4",
+    "Rating": "2104",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "58",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/YqdovIit#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G3VpC",
+    "FEN": "3r2k1/1p1r1ppp/p1pNn3/8/1q6/2P2QP1/PP1R1P1P/3R2K1 b - - 0 23",
+    "Moves": "b4c5 d6b7 d7d2 d1d2 d8d2 b7c5",
+    "Rating": "2317",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1705",
+    "Themes": "crushing long master middlegame",
+    "GameUrl": "https://lichess.org/g5xHgEc6/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G3WB3",
+    "FEN": "5rk1/p4pp1/qn1Np1n1/4P2p/1p6/1P4B1/P4PPP/1QR3K1 w - - 0 29",
+    "Moves": "d6f7 g8f7 c1c7 g6e7",
+    "Rating": "2050",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "8743",
+    "Themes": "advantage defensiveMove hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/wz2Z3NIg#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G3Wt2",
+    "FEN": "r4rk1/1b3pp1/pq4np/1pp3NQ/8/1B6/PP3PPP/2R1R1K1 w - - 0 19",
+    "Moves": "g5f7 c5c4 b3c2 f8f7 h5g6 b6f2",
+    "Rating": "2271",
+    "RatingDeviation": "80",
+    "Popularity": "86",
+    "NbPlays": "94",
+    "Themes": "crushing interference intermezzo long middlegame",
+    "GameUrl": "https://lichess.org/5vt3FFKg#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "G3Ywg",
+    "FEN": "r3k2r/ppp2pp1/2np1n1p/1B1Pp3/4P3/2P2Nq1/PP3b2/RNBQR2K w kq - 0 14",
+    "Moves": "d5c6 f6g4 c6b7 e8e7",
+    "Rating": "2288",
+    "RatingDeviation": "87",
+    "Popularity": "83",
+    "NbPlays": "32",
+    "Themes": "crushing defensiveMove middlegame quietMove short",
+    "GameUrl": "https://lichess.org/p3biSX91#27",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "G3Z6n",
+    "FEN": "r5rk/5Bp1/3p3p/1p2pP2/pP1pPbQP/P1qP4/K1P2P2/3R2R1 w - - 0 27",
+    "Moves": "f7g8 c3c2 a2a1 a8g8 f5f6 c2c3",
+    "Rating": "2238",
+    "RatingDeviation": "94",
+    "Popularity": "85",
+    "NbPlays": "49",
+    "Themes": "advantage intermezzo long middlegame",
+    "GameUrl": "https://lichess.org/di8xoJAs#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G3ZaJ",
+    "FEN": "r1b2rk1/pp3pp1/3qpn1p/3pN3/3P4/P2B2Q1/1PP3PP/2KR1R2 b - - 3 16",
+    "Moves": "f6e4 d3e4 d5e4 f1f6",
+    "Rating": "2243",
+    "RatingDeviation": "80",
+    "Popularity": "90",
+    "NbPlays": "558",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/HnHv7wqd/black#32",
+    "OpeningTags": "Indian_Defense Indian_Defense_Paleface_Attack"
+  },
+  {
+    "PuzzleId": "G3Zna",
+    "FEN": "r4rk1/pp2ppbp/6p1/3N1bB1/qPPnp3/8/3RBPPP/2Q2RK1 b - - 3 17",
+    "Moves": "e7e6 d5f6 g7f6 g5f6",
+    "Rating": "2314",
+    "RatingDeviation": "88",
+    "Popularity": "86",
+    "NbPlays": "128",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/tI2bG151/black#34",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Stockholm_Variation"
+  }
+]

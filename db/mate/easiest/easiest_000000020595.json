@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "e3IsN",
+    "FEN": "rnb2k1N/2p5/pn1pqppp/8/3P4/5Q2/PP3PPP/RNB2RK1 w - - 0 18",
+    "Moves": "f1e1 e6e1",
+    "Rating": "605",
+    "RatingDeviation": "95",
+    "Popularity": "67",
+    "NbPlays": "108",
+    "Themes": "hangingPiece kingsideAttack master mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/HT45UCnn#35",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "e3JmX",
+    "FEN": "5r1k/6pp/n7/3Q4/p2P2q1/8/PPPN3P/1K1R4 w - - 0 23",
+    "Moves": "d5d6 g4d1",
+    "Rating": "746",
+    "RatingDeviation": "109",
+    "Popularity": "75",
+    "NbPlays": "45",
+    "Themes": "endgame hangingPiece mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/UsjYewrM#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "e3Kv4",
+    "FEN": "4rQ1k/1pp3pp/p1b5/2p1P1q1/2P5/1P4B1/P7/5RK1 b - - 2 27",
+    "Moves": "e8f8 f1f8",
+    "Rating": "643",
+    "RatingDeviation": "108",
+    "Popularity": "78",
+    "NbPlays": "263",
+    "Themes": "backRankMate endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/AN2eM4nc/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "e3Kw6",
+    "FEN": "rnbqk2r/pp1pnp1p/3p2p1/4P3/5BQ1/2N5/PPP3PP/R4BKR w kq - 0 13",
+    "Moves": "e5d6 d8b6 f4e3 b6e3",
+    "Rating": "812",
+    "RatingDeviation": "81",
+    "Popularity": "99",
+    "NbPlays": "1011",
+    "Themes": "kingsideAttack mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/mLCSvGFm#25",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "e3Nfc",
+    "FEN": "r1b1kb1r/1pqp1ppp/p3pn2/8/3NP1n1/2P1B3/PPB2PPP/RN1Q1RK1 w kq - 8 10",
+    "Moves": "e3c1 c7h2",
+    "Rating": "964",
+    "RatingDeviation": "94",
+    "Popularity": "62",
+    "NbPlays": "72",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/zXZrndCx#19",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "e3O0f",
+    "FEN": "8/p5k1/3p2pb/2p1p2p/2P4P/P1NPn1Pq/8/2Q2RK1 w - - 2 38",
+    "Moves": "f1f3 h3g2",
+    "Rating": "993",
+    "RatingDeviation": "170",
+    "Popularity": "100",
+    "NbPlays": "8",
+    "Themes": "mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/8nFrg8X9#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "e3Ows",
+    "FEN": "5r1k/1p4p1/p1p5/4R3/7p/P2P2pP/1P4P1/3Q1q1K w - - 3 34",
+    "Moves": "d1f1 f8f1",
+    "Rating": "600",
+    "RatingDeviation": "99",
+    "Popularity": "65",
+    "NbPlays": "101",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/DGMjGN9w#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "e3PbQ",
+    "FEN": "4Rrk1/p4ppp/q2b4/2pn1P2/1p6/1PpP2BP/P1P1Q1P1/4R1K1 b - - 0 23",
+    "Moves": "d6g3 e8f8 g8f8 e2e8",
+    "Rating": "748",
+    "RatingDeviation": "97",
+    "Popularity": "81",
+    "NbPlays": "674",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/LDVWwtvX/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "e3Rtx",
+    "FEN": "r4rk1/1pp2pp1/p7/3NP1p1/B7/8/PP3K2/4R3 b - - 0 22",
+    "Moves": "c7c6 d5e7 g8h7 e1h1",
+    "Rating": "967",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "4490",
+    "Themes": "anastasiaMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/GloLvuFn/black#44",
+    "OpeningTags": ""
+  }
+]

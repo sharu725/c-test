@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "dMfOr",
+    "FEN": "2r3k1/p1p1q2p/3p1p2/3P1b1p/3Nr3/P1Q3b1/2P3P1/1R3RK1 b - - 1 30",
+    "Moves": "e4e3 d4f5 e3c3 f5e7 g8f8 e7c8",
+    "Rating": "1067",
+    "RatingDeviation": "87",
+    "Popularity": "100",
+    "NbPlays": "45",
+    "Themes": "advantage fork hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/vXlBLSeP/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dMggQ",
+    "FEN": "6k1/1p4pp/p1p2q2/3p3n/6Q1/1BNP2bP/PPPB4/5K2 w - - 1 25",
+    "Moves": "f1g2 f6f2 g2h1 f2f1",
+    "Rating": "1095",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "208",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/G2UKqKTT#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dMgqv",
+    "FEN": "1n1r2k1/1p4p1/1P2ppnp/P7/4P3/3rBN2/5PPP/R1R3K1 w - - 1 25",
+    "Moves": "c1c7 d3d1 f3e1 d1a1",
+    "Rating": "1112",
+    "RatingDeviation": "198",
+    "Popularity": "-60",
+    "NbPlays": "8",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/XEIrlKla#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dMitO",
+    "FEN": "rnbq1rk1/p4ppp/2p2n2/1p6/1P1P1N2/P1NB4/5PPP/R2Q1RK1 b - - 0 13",
+    "Moves": "d8d4 d3h7 f6h7 d1d4",
+    "Rating": "1192",
+    "RatingDeviation": "79",
+    "Popularity": "71",
+    "NbPlays": "87",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/pIHdUYbf/black#26",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations"
+  },
+  {
+    "PuzzleId": "dMk8e",
+    "FEN": "1r2k3/2pbq2p/p7/5pN1/nbB1pPP1/1P6/P2Q3P/1K1RR3 w - - 1 25",
+    "Moves": "d2d5 a4c3 b1c2 c3d5",
+    "Rating": "1182",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "150",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/CGUQjkys#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dMkFe",
+    "FEN": "r2qnrk1/1p3ppp/p1bpp3/4P3/P7/1PPQPN2/1b2N1PP/1B3RK1 b - - 0 19",
+    "Moves": "d6e5 d3h7",
+    "Rating": "1124",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "3287",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/wERGdoPr/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "dMlmn",
+    "FEN": "3r2k1/pp2qpp1/2p3p1/8/PPPrn3/2Q2B1P/5PP1/1R1R2K1 w - - 0 26",
+    "Moves": "f3e4 d4d1 b1d1 d8d1",
+    "Rating": "1063",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "769",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/4Wp2b1cG#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dMmPv",
+    "FEN": "rn1q1rk1/4ppbp/b1pp1np1/8/1p1PPP1Q/2NB1N2/1PP3PP/R1B2RK1 w - - 0 12",
+    "Moves": "c3e2 a6d3 a1a8 d3e2",
+    "Rating": "1149",
+    "RatingDeviation": "79",
+    "Popularity": "87",
+    "NbPlays": "150",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/OSy81rTW#23",
+    "OpeningTags": "Czech_Defense Czech_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "dMrjZ",
+    "FEN": "r1b1k2r/pp1p1ppp/3p1n2/4P3/8/2P1BB2/PP3P1q/R2QKR2 b Qkq - 0 14",
+    "Moves": "d6e5 f1h1 h2h1 f3h1",
+    "Rating": "1168",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "481",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/Nav6l5gE/black#28",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  }
+]

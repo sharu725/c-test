@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BkNDZ",
+    "FEN": "5k2/R7/b3pp2/1p6/1P1R2P1/p2P3P/5rBK/2r5 b - - 2 35",
+    "Moves": "c1c2 d4d8",
+    "Rating": "1052",
+    "RatingDeviation": "119",
+    "Popularity": "77",
+    "NbPlays": "36",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/tEjJ6aPi/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BkOCv",
+    "FEN": "r1bqkb1r/pp1npppp/2p2n2/8/2NP4/2N5/PPP1QPPP/R1B1KB1R b KQkq - 5 8",
+    "Moves": "g7g6 c4d6",
+    "Rating": "1082",
+    "RatingDeviation": "123",
+    "Popularity": "65",
+    "NbPlays": "105",
+    "Themes": "master mate mateIn1 oneMove opening pin smotheredMate",
+    "GameUrl": "https://lichess.org/m3iBtIs4/black#16",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BkZC6",
+    "FEN": "6k1/p2bq1pp/5p2/2pp2n1/5N1N/2P2PP1/PPQ4P/6K1 w - - 0 29",
+    "Moves": "f4d5 e7e1 g1g2 d7h3",
+    "Rating": "1199",
+    "RatingDeviation": "247",
+    "Popularity": "76",
+    "NbPlays": "3",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/yDLpqMdQ#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BkZrz",
+    "FEN": "1b1Q4/pp1R3p/5pkP/8/4p1P1/4PpNK/PP3q2/8 w - - 5 46",
+    "Moves": "d8b8 f2g2 h3h4 g2h2",
+    "Rating": "1092",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "5860",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/9ukn5evS#91",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Bkaa3",
+    "FEN": "r5k1/5rpp/bqp1Q3/2bp4/p1P5/1Pn2NP1/P2N3P/R1B1KR2 w Q - 1 18",
+    "Moves": "f3g5 c5f2 f1f2 b6f2",
+    "Rating": "1063",
+    "RatingDeviation": "83",
+    "Popularity": "90",
+    "NbPlays": "425",
+    "Themes": "attackingF2F7 mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/oQmeTbnj#35",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "BkamZ",
+    "FEN": "rqk3r1/pp1n3p/2b1Np2/2P5/P7/2PB4/1P4Pb/R1BQ1R1K w - - 2 19",
+    "Moves": "d1h5 c6g2",
+    "Rating": "1154",
+    "RatingDeviation": "124",
+    "Popularity": "44",
+    "NbPlays": "20",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/nQ2rXKAg#37",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Euwe_Defense"
+  },
+  {
+    "PuzzleId": "BkbHb",
+    "FEN": "r2q1bk1/ppp2Bp1/2np1n1p/5P2/5B2/2N5/PPP2PPP/R3Q1K1 b - - 0 13",
+    "Moves": "g8f7 e1e6",
+    "Rating": "1131",
+    "RatingDeviation": "221",
+    "Popularity": "54",
+    "NbPlays": "19",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/cFve1qZu/black#26",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Bkc3q",
+    "FEN": "1Q6/6pp/6k1/6N1/p2q4/P6P/1Pr2PP1/R5K1 w - - 4 35",
+    "Moves": "b8h8 d4f2 g1h2 f2g2",
+    "Rating": "1074",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "1472",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/O1vBMSBn#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BkdVd",
+    "FEN": "3k4/6R1/1pBp4/5pp1/7n/5P1P/PP1r3K/8 w - - 4 39",
+    "Moves": "h2g3 d2g2",
+    "Rating": "1165",
+    "RatingDeviation": "254",
+    "Popularity": "-35",
+    "NbPlays": "7",
+    "Themes": "endgame hookMate mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/oW9VlBxk#77",
+    "OpeningTags": ""
+  }
+]

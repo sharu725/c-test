@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "9dyoo",
+    "FEN": "3R2k1/pbp1p2p/1pq1p1pB/4nP2/8/2P5/P4P1P/5RK1 b - - 0 23",
+    "Moves": "g8f7 d8f8",
+    "Rating": "733",
+    "RatingDeviation": "86",
+    "Popularity": "100",
+    "NbPlays": "39",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/uE9qrIVp/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "9dz9L",
+    "FEN": "r1bqrk1Q/1p4p1/p1nbp3/6N1/3P4/8/PP3PPP/R1B2RK1 b - - 6 18",
+    "Moves": "f8e7 h8g7",
+    "Rating": "830",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "139",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/v3YjYebB/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  },
+  {
+    "PuzzleId": "9e14O",
+    "FEN": "r4rk1/ppp2pp1/3p2qp/8/P1B1P3/2PP1N1b/1P3P2/R2Q1RK1 w - - 0 18",
+    "Moves": "g1h2 g6g2",
+    "Rating": "772",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "168",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/MgXWGimt#35",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "9e1Q2",
+    "FEN": "r2qk2r/2pp3p/npn1p2P/p3Pp2/2PP1P2/B1P3p1/P3Q1PN/R3KR2 b Qkq - 0 23",
+    "Moves": "g3h2 e2h5",
+    "Rating": "732",
+    "RatingDeviation": "181",
+    "Popularity": "88",
+    "NbPlays": "37",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/04zTI6KC/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "9e1Xu",
+    "FEN": "1br2rk1/pp3ppp/1npqpn2/8/N2P4/P3PB1P/1P1B1PP1/R2Q1RK1 w - - 9 17",
+    "Moves": "d2b4 d6h2",
+    "Rating": "962",
+    "RatingDeviation": "88",
+    "Popularity": "100",
+    "NbPlays": "42",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/NW5uGxzM#33",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Slav_Invitation"
+  },
+  {
+    "PuzzleId": "9e1dd",
+    "FEN": "8/8/2r2p2/p4N1r/8/PP1p2R1/4RP1k/b4K2 w - - 0 41",
+    "Moves": "e2d2 c6c1 d2d1 c1d1",
+    "Rating": "853",
+    "RatingDeviation": "79",
+    "Popularity": "75",
+    "NbPlays": "70",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/R2dORIG5#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "9e2KX",
+    "FEN": "7k/p5p1/5p1p/2P1r3/2PpB3/3Pb2r/P5K1/1R6 b - - 1 41",
+    "Moves": "h3h4 b1b8 e5e8 b8e8",
+    "Rating": "534",
+    "RatingDeviation": "97",
+    "Popularity": "95",
+    "NbPlays": "892",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/v1sCO5Ti/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "9e2v9",
+    "FEN": "r4r1k/1pp2pp1/1b1p2qp/pB1Pp3/P3Pn2/1NP2N1P/1P3P2/R2Q1RK1 w - - 1 18",
+    "Moves": "g1h2 g6g2",
+    "Rating": "853",
+    "RatingDeviation": "179",
+    "Popularity": "83",
+    "NbPlays": "20",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/heR5vbRc#35",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation"
+  },
+  {
+    "PuzzleId": "9e3bx",
+    "FEN": "6k1/ppp2ppp/8/b7/3q3P/PQ1b4/3PrPP1/4RK1R w - - 0 21",
+    "Moves": "e1e2 d4a1 b3d1 a1d1",
+    "Rating": "974",
+    "RatingDeviation": "78",
+    "Popularity": "96",
+    "NbPlays": "9578",
+    "Themes": "endgame mate mateIn2 pin short",
+    "GameUrl": "https://lichess.org/sptCWINz#41",
+    "OpeningTags": ""
+  }
+]

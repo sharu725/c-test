@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Go8s6",
+    "FEN": "4r1k1/p4pp1/7p/4q3/2P1b1P1/1rN1Q2P/4R1P1/2R3K1 w - - 0 37",
+    "Moves": "e3e4 e5c5 g1h1 e8e4",
+    "Rating": "2212",
+    "RatingDeviation": "92",
+    "Popularity": "73",
+    "NbPlays": "36",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/vVjBG3O2#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Go9bf",
+    "FEN": "2r2rk1/Bp1n1pb1/3p2p1/1N1P1b1p/2P1p2q/PP3P2/R2QN1P1/5RK1 w - - 0 21",
+    "Moves": "b5d6 g7e5 g2g3 e5g3 e2g3 h4g3 d2g2 g3d6",
+    "Rating": "2058",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "964",
+    "Themes": "advantage fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/XS4A5uWF#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GoAPM",
+    "FEN": "4b3/4kp1Q/p1pp1bn1/1p6/4PP2/1BN1qn1P/PPP5/R4R1K w - - 3 32",
+    "Moves": "e4e5 f3h4 c3d5 c6d5",
+    "Rating": "2216",
+    "RatingDeviation": "104",
+    "Popularity": "78",
+    "NbPlays": "31",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/hfMgAksB#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GoAmC",
+    "FEN": "4rrk1/2qn3p/6p1/pp1Q4/3Pp3/P1N3P1/1P4P1/2K2R1R b - - 1 23",
+    "Moves": "g8h8 f1f7 f8f7 d5f7",
+    "Rating": "2188",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "93",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/wkTzsNgN/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GoBma",
+    "FEN": "r2q1rk1/ppp1R1bp/6p1/5p2/8/B1Pn3P/P3QPP1/R5K1 b - - 1 17",
+    "Moves": "g7c3 a1d1 c3f6 d1d3 f6e7 d3d8",
+    "Rating": "2347",
+    "RatingDeviation": "97",
+    "Popularity": "88",
+    "NbPlays": "587",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/o6hdvt5A/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  },
+  {
+    "PuzzleId": "GoD3D",
+    "FEN": "2q1kb1r/3n1ppp/b3pn2/1Q2N3/B4B2/8/PP3PPP/3R2K1 w k - 3 18",
+    "Moves": "e5d7 a6b5 d7f6 e8e7 f6d5 e6d5",
+    "Rating": "2242",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "5024",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/qynRCZfW#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_OKelly_Variation"
+  },
+  {
+    "PuzzleId": "GoDSc",
+    "FEN": "k1b3r1/2p5/1PNp1p2/3Pp2p/7P/2P1K3/2P1Bnr1/1R5R b - - 3 32",
+    "Moves": "f2h1 b6b7 c8b7 b1a1 b7a6 e2a6 g8g3 e3e4 f6f5 e4f5 g2f2 f5e6",
+    "Rating": "2247",
+    "RatingDeviation": "117",
+    "Popularity": "54",
+    "NbPlays": "18",
+    "Themes": "advancedPawn crushing exposedKing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/iVxUezN6/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GoDsf",
+    "FEN": "4r1k1/p4pp1/1pq4r/4p3/2P3Q1/P1R3P1/1B3P2/R5K1 w - - 1 29",
+    "Moves": "c3f3 f7f5 g4f5 h6f6",
+    "Rating": "2242",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "2425",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/01e7fRzM#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GoEHT",
+    "FEN": "r4k1r/p1p2ppp/bpp2nq1/8/3B4/2N5/PPPQ1PPP/R5KR b - - 7 14",
+    "Moves": "a8d8 d4c5 f8e8 a1e1 f6e4 d2f4",
+    "Rating": "2316",
+    "RatingDeviation": "162",
+    "Popularity": "43",
+    "NbPlays": "27",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/O5TabNW9/black#28",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Classical_Variation"
+  }
+]

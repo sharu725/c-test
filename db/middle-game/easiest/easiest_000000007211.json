@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "LM11Q",
+    "FEN": "2k1r3/pbppBR2/1p1q2p1/4p3/2B1P3/2QP2P1/PPP4r/2K5 b - - 0 22",
+    "Moves": "e8e7 f7f8 e7e8 f8e8",
+    "Rating": "854",
+    "RatingDeviation": "83",
+    "Popularity": "90",
+    "NbPlays": "199",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Siyq8gWp/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LM3c2",
+    "FEN": "r3k1n1/ppp1bN2/2b5/3q3p/3P2p1/1PP3B1/P5PP/R2Q1R1K w q - 1 22",
+    "Moves": "f7e5 d5g2",
+    "Rating": "891",
+    "RatingDeviation": "96",
+    "Popularity": "97",
+    "NbPlays": "292",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/zvmzJDVj#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LM3jM",
+    "FEN": "6k1/4b1pp/q1p3rn/p1PpP3/Pr1P4/RN3R2/3N1Q2/K7 b - - 10 36",
+    "Moves": "e7g5 f3f8",
+    "Rating": "668",
+    "RatingDeviation": "91",
+    "Popularity": "78",
+    "NbPlays": "160",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ufS6elCa/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LM5wC",
+    "FEN": "r2q1rk1/ppp2ppp/2nbp3/n2pN3/3P4/P1Q1P1B1/1PPN1PPP/R4RK1 b - - 6 13",
+    "Moves": "b7b5 e5c6 a5c6 c3c6",
+    "Rating": "900",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1079",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Rq2zxH23/black#26",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "LM7n6",
+    "FEN": "r1bqrbnk/1p1n1ppp/p1p1p3/2PpN3/3P1B2/1QNBP2P/PP3PP1/R3R1K1 b - - 8 13",
+    "Moves": "f7f6 e5f7",
+    "Rating": "795",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "195",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/HfLx080H/black#26",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "LM8eU",
+    "FEN": "6k1/1q1nrppp/4p3/2PpPn2/Q2P4/2N1P3/3B2PP/R5K1 w - - 0 32",
+    "Moves": "a4b4 b7b4",
+    "Rating": "676",
+    "RatingDeviation": "100",
+    "Popularity": "79",
+    "NbPlays": "71",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/JsuZdShr#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LM9hD",
+    "FEN": "r4rk1/pp5p/4R1p1/4Q3/3p4/3p4/Pq3PPP/2R2NK1 w - - 0 24",
+    "Moves": "c1d1 b2f2 g1h1 f2f1 d1f1 f8f1",
+    "Rating": "999",
+    "RatingDeviation": "84",
+    "Popularity": "91",
+    "NbPlays": "290",
+    "Themes": "backRankMate deflection long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/SkAvIBto#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LM9zW",
+    "FEN": "2r3k1/p1N1p2p/1p1rb1pb/1P5n/3P3N/2R1p1P1/P3P1BP/2R3K1 b - - 1 28",
+    "Moves": "h6g7 c7e6 c8c3 c1c3",
+    "Rating": "847",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "112",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/rEq4LFDh/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LMAZZ",
+    "FEN": "r6r/1b2kp2/1q1p1n2/ppp5/3pP3/PP3QN1/1P3PPP/2KR3R b - - 1 19",
+    "Moves": "h8h6 g3f5 e7d8 f5h6",
+    "Rating": "888",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "827",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Q6kiGheD/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+  }
+]

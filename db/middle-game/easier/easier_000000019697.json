@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "xpnrg",
+    "FEN": "r2k3r/p1p3pp/2n1Q3/6N1/8/8/PPP2bqP/R1BKR3 b - - 5 19",
+    "Moves": "f2e1 g5f7",
+    "Rating": "1135",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "918",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/oZEUKxeT/black#38",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Petrovs_Defense"
+  },
+  {
+    "PuzzleId": "xpo9A",
+    "FEN": "2kr1bnr/pp3p1p/B1n5/3p2pq/Q4Bb1/2N2N2/PP3PPP/R3K2R b KQ - 1 12",
+    "Moves": "g5f4 a4c6 c8b8 c6b7",
+    "Rating": "1164",
+    "RatingDeviation": "92",
+    "Popularity": "88",
+    "NbPlays": "38",
+    "Themes": "mate mateIn2 middlegame pin queensideAttack short",
+    "GameUrl": "https://lichess.org/6G28oMw3/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "xps4E",
+    "FEN": "r1b1k3/p1pp1p2/1pn5/2b5/4P3/2N2qP1/PPPQN3/R3KB2 w Qq - 0 16",
+    "Moves": "e1c1 c5e3 d2e3 f3e3",
+    "Rating": "1126",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "92",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/dgGFSkRt#31",
+    "OpeningTags": "Center_Game Center_Game_Berger_Variation"
+  },
+  {
+    "PuzzleId": "xpsUK",
+    "FEN": "5rk1/1ppn1ppp/2P1qn2/6B1/p1Q3N1/2P5/P4PPP/5RK1 w - - 0 22",
+    "Moves": "c6d7 e6c4 g4f6 g7f6",
+    "Rating": "1088",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "3786",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/rNr4nfEN#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xpt5A",
+    "FEN": "r2qr1k1/pp3pp1/3p3p/2p4n/2P1P3/P2Q1P1P/1P4PK/R1B2R2 b - - 2 17",
+    "Moves": "h5f4 c1f4",
+    "Rating": "1070",
+    "RatingDeviation": "322",
+    "Popularity": "-100",
+    "NbPlays": "1",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/BEx4Gy07/black#34",
+    "OpeningTags": "Vienna_Game Vienna_Game_Stanley_Variation"
+  },
+  {
+    "PuzzleId": "xpvXp",
+    "FEN": "2b1r1k1/p4ppp/3b4/8/3BpPq1/P5Q1/1r4PP/3RR1K1 w - - 4 27",
+    "Moves": "g3g4 c8g4 d4b2 g4d1",
+    "Rating": "1173",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "887",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/MzGFxlWc#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xpvwc",
+    "FEN": "q4rk1/5pp1/3Np2p/1RPn4/8/5QP1/5PP1/rR4K1 w - - 3 31",
+    "Moves": "f3b3 a1b1 b3b1 d5c3",
+    "Rating": "1047",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "1063",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/naiPw0Wm#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xpy8t",
+    "FEN": "r3k2r/pb1p4/1p1Qp1np/4P1p1/8/1P3qP1/P4P1P/RNB1R1K1 w kq - 0 19",
+    "Moves": "e1e3 f3h1",
+    "Rating": "1044",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "307",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/jzSikfvS#37",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xpylr",
+    "FEN": "r3r1k1/pp3pbp/2pp2p1/8/2PNPP2/2N2Qnq/P4B2/R3R1K1 w - - 0 19",
+    "Moves": "f3g3 h3g3 f2g3 g7d4 g1g2 d4c3",
+    "Rating": "1195",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "275",
+    "Themes": "crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/TTIteKrv#37",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Fianchetto_Variation"
+  }
+]

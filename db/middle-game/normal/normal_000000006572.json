@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "JB9R8",
+    "FEN": "r4r2/ppq2pk1/4pbp1/7p/1pPPQP1P/1P1B4/P7/1K1R2R1 b - - 0 23",
+    "Moves": "f8d8 g1g6 f7g6 e4g6 g7f8 g6f6",
+    "Rating": "1301",
+    "RatingDeviation": "78",
+    "Popularity": "63",
+    "NbPlays": "105",
+    "Themes": "advantage deflection long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/cDm8e6HJ/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JB9uB",
+    "FEN": "r1br2kR/1pp1qp2/p3pb2/8/2Bn4/2N1P1P1/PPQ2PP1/2K4R b - - 1 18",
+    "Moves": "f6h8 c2h7 g8f8 h7h8",
+    "Rating": "1232",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "55",
+    "Themes": "deflection kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/KT9OUOUa/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Harrwitz_Attack"
+  },
+  {
+    "PuzzleId": "JBALa",
+    "FEN": "2q3k1/1b2bpp1/4pn1p/4N3/2p1PP2/5B2/1BP1Q1PP/5K2 w - - 0 28",
+    "Moves": "e2c4 b7a6 c4a6 c8a6",
+    "Rating": "1234",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "233",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/EuEM3mKt#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JBCPA",
+    "FEN": "r4r2/pp2kBpp/2p1P3/2b5/3n4/8/PP1P2PP/1RB2R1K w - - 1 19",
+    "Moves": "d2d3 d4e6 c1g5 e6g5",
+    "Rating": "1373",
+    "RatingDeviation": "154",
+    "Popularity": "71",
+    "NbPlays": "7",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/eTPqhI8O#37",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Queens_Knight_Defense"
+  },
+  {
+    "PuzzleId": "JBCb0",
+    "FEN": "5rk1/3q1ppp/1pn1pn2/r2p4/P2P4/RQ2PN1P/3N1PP1/5RK1 w - - 3 19",
+    "Moves": "b3b6 f8b8 b6b8 c6b8",
+    "Rating": "1320",
+    "RatingDeviation": "119",
+    "Popularity": "56",
+    "NbPlays": "37",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/d8HroeKJ#37",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "JBD1s",
+    "FEN": "4r3/p1Qbb1pp/6k1/5p2/P2P4/5R1P/1PPN2q1/3K4 b - - 0 27",
+    "Moves": "d7a4 f3g3 g2g3 c7g3",
+    "Rating": "1388",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "95",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/J8kufdV9/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JBD7W",
+    "FEN": "2r1k2r/1p2pp2/1qn2bpp/p3P3/8/5N1P/PP1Q1PP1/1K1R1B1R b k - 0 16",
+    "Moves": "c6e5 f3e5 f6e5 d2d7 e8f8 d7c8",
+    "Rating": "1269",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2549",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/G6WV2hVU/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "JBDco",
+    "FEN": "r2qk2r/pp3ppp/2n1b3/1B1pP3/5B2/2n5/PPP3PP/R2QR1K1 w kq - 0 14",
+    "Moves": "b2c3 d8b6 f4e3 b6b5",
+    "Rating": "1317",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "102",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/OuOI1ZiG#27",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Schallopp_Defense"
+  },
+  {
+    "PuzzleId": "JBDvi",
+    "FEN": "2kr3r/pppn4/8/8/3p3q/4bBpP/PPP3P1/R3QR1K b - - 2 25",
+    "Moves": "h4f4 f3b7 c8b7 f1f4 e3f4 e1e4 b7b8 e4f4",
+    "Rating": "1260",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "8841",
+    "Themes": "advantage discoveredAttack fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/rrlpd2p9/black#50",
+    "OpeningTags": ""
+  }
+]

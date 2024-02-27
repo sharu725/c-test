@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SRWqa",
+    "FEN": "r1b3k1/1pp1nrpp/5q2/1N2p3/p3P3/2P1P3/PP4PP/R2Q1RK1 b - - 0 15",
+    "Moves": "f6b6 d1d8 f7f8 d8f8",
+    "Rating": "1078",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "278",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/VSbTjlTL/black#30",
+    "OpeningTags": "Scotch_Game Scotch_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "SRX5Q",
+    "FEN": "r3kb1r/1b1p1pp1/pN2p3/2p1P2p/2B4q/2B2P2/PPP1K1nP/R2Q3R b kq - 7 17",
+    "Moves": "h4h3 d1d7",
+    "Rating": "1183",
+    "RatingDeviation": "101",
+    "Popularity": "57",
+    "NbPlays": "41",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/GIrUVcQP/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "SRXLf",
+    "FEN": "1k6/1p6/p7/P4P1p/1P6/8/2Qpq1PP/6RK w - - 0 36",
+    "Moves": "g1d1 e2e1 d1e1 d2e1q",
+    "Rating": "1063",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "869",
+    "Themes": "advancedPawn backRankMate endgame mate mateIn2 promotion short",
+    "GameUrl": "https://lichess.org/ugM426Hl#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SRbdm",
+    "FEN": "r4rk1/5ppp/1qn1p3/1p1p4/1P1Pn3/P2Q1N1P/2B2PP1/R2R2K1 b - - 6 20",
+    "Moves": "e4d6 d3h7",
+    "Rating": "1059",
+    "RatingDeviation": "156",
+    "Popularity": "92",
+    "NbPlays": "54",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/nOaWJdse/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SRg1e",
+    "FEN": "6k1/6pp/3RK3/4p3/8/p3r3/7P/8 b - - 1 39",
+    "Moves": "a3a2 d6d8",
+    "Rating": "1174",
+    "RatingDeviation": "89",
+    "Popularity": "71",
+    "NbPlays": "47",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/AlZuwopN/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SRgaH",
+    "FEN": "r3k2r/1pqn1pp1/p3p3/3p3p/3P2n1/b1P1B2P/PP1QBPP1/R4RK1 w kq - 0 15",
+    "Moves": "b2a3 c7h2",
+    "Rating": "1029",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "100",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/pfHPGPUZ#29",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "SRhcC",
+    "FEN": "2r5/6b1/2q4k/p4Qp1/1p1p2Pp/1P1P1P2/P3PK2/7R b - - 8 51",
+    "Moves": "c8f8 h1h4 g5h4 f5h5",
+    "Rating": "1016",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "3605",
+    "Themes": "endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/Dyot6Yvg/black#102",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SRnrB",
+    "FEN": "r4k2/1p1R1p1p/4pbp1/1PP5/2B2P2/pKP1BbP1/P6P/8 w - - 3 27",
+    "Moves": "e3d4 f3d1 b3b4 a8a4",
+    "Rating": "1085",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "2571",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/hgqGTn60#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SRpbJ",
+    "FEN": "4rk2/1P3pp1/2R5/8/3r1K2/p7/6PP/1R6 w - - 3 33",
+    "Moves": "f4g5 e8e5",
+    "Rating": "1056",
+    "RatingDeviation": "87",
+    "Popularity": "93",
+    "NbPlays": "87",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/WUiZz2EU#65",
+    "OpeningTags": ""
+  }
+]

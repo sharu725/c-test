@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "JOkqv",
+    "FEN": "q3r1k1/2bn1ppp/2p5/2Pp1bB1/3Pn3/2N2N1P/4BPP1/2Q1R1K1 w - - 3 19",
+    "Moves": "g5e3 e4c3 c1c3 c7a5 c3c1 a5e1",
+    "Rating": "1801",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "3406",
+    "Themes": "advantage long middlegame skewer",
+    "GameUrl": "https://lichess.org/LL1l4qtV#37",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "JOlDI",
+    "FEN": "r3r1k1/p4pbp/bq4p1/2n3B1/2Np4/1B3PP1/PP1Q1K1P/R3R3 b - - 2 19",
+    "Moves": "c5b3 c4b6 b3d2 b6a8",
+    "Rating": "1907",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "994",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/LzxfGmV2/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "JOlLG",
+    "FEN": "r4rk1/p2pq1pp/1pbNpp2/2p5/2P2P2/4Q3/PPP3PP/2KR3R b - - 1 18",
+    "Moves": "c6g2 h1g1 f6f5 g1g2",
+    "Rating": "1857",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "384",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ZdURU8c1/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "JOm9I",
+    "FEN": "r2q2r1/1pp1b2p/pk1p1n2/4p3/2QPb3/N1P1B3/PP3PPP/R4BK1 b - - 1 17",
+    "Moves": "b6a7 d4e5 b7b6 e5f6 e4g2 f1g2",
+    "Rating": "1946",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "1515",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/ccSuVffU/black#34",
+    "OpeningTags": "Italian_Game Italian_Game_Blackburne-Kostic_Gambit"
+  },
+  {
+    "PuzzleId": "JOnNL",
+    "FEN": "6rk/ppp3qp/4p1nr/2N1p3/4P1P1/2P2PQN/PP3R1K/6R1 w - - 11 30",
+    "Moves": "h2g2 h6h3 g2h3 g6f4 g3f4 e5f4",
+    "Rating": "1882",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "5948",
+    "Themes": "advantage attraction long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/C5Zh2oEt#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JOoRf",
+    "FEN": "r4r1k/1pqn1ppp/2p1bp2/8/p1PP1b2/P2B1N1P/1P2QPP1/R1B2R1K b - - 9 16",
+    "Moves": "f8e8 e2e4 f6f5 e4f4 c7f4 c1f4",
+    "Rating": "1926",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "5480",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/3aahMGWZ/black#32",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+  },
+  {
+    "PuzzleId": "JOocn",
+    "FEN": "5k1r/Q4ppp/8/3b4/2r5/2Nq4/PP3PPb/R1B1R1K1 w - - 0 19",
+    "Moves": "g1h2 c4h4 h2g1 h4h1 g1h1 d3h3 h1g1 h3g2",
+    "Rating": "1903",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "11650",
+    "Themes": "attraction mate mateIn4 middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/VXw5IwpZ#37",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "JOpMd",
+    "FEN": "2r1kb1r/2q1pppp/1nb5/1B2B3/8/2N4Q/PPP3PP/2KR3R b k - 0 17",
+    "Moves": "c7e5 h3c8 b6c8 b5c6",
+    "Rating": "1901",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "990",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/suzsuKQ8/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "JOqZs",
+    "FEN": "3r1rk1/pp2bppp/2q1p3/8/3P4/2n1BQ2/PP3PPP/2R2RK1 w - - 0 16",
+    "Moves": "f3c6 c3e2 g1h1 b7c6",
+    "Rating": "1808",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "447",
+    "Themes": "advantage fork intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/pFV83Hcy#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  }
+]

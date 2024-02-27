@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "jCQtq",
+    "FEN": "r4r2/pb1n1pkp/1p1p1qp1/2p1p3/2P1PnP1/2NP4/PPKQBP2/R6R b - - 3 16",
+    "Moves": "f4e2 d2h6 g7h8 h6h7",
+    "Rating": "1060",
+    "RatingDeviation": "404",
+    "Popularity": "-100",
+    "NbPlays": "2",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/EIav5Tls/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Staunton-Cochrane_Variation"
+  },
+  {
+    "PuzzleId": "jCRG1",
+    "FEN": "6k1/p6p/1q1rb1p1/5p2/8/2P1bBP1/PP4KP/R2Q1R2 w - - 0 25",
+    "Moves": "d1c2 d6d2 c2d2 e3d2",
+    "Rating": "1026",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "96",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/w6FRDIZT#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jCRP2",
+    "FEN": "2rk1b1r/BQ2pppp/3p2q1/3P4/5n2/2N4P/PP2KPP1/R6R w - - 1 19",
+    "Moves": "e2d2 g6d3 d2c1 f4e2",
+    "Rating": "1135",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "626",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/IDXpa1Rw#37",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Two_Pawn_Attack"
+  },
+  {
+    "PuzzleId": "jCRUI",
+    "FEN": "r2qk2r/ppp2pp1/3p1n1p/b3p3/2BnP3/P1NPBP1P/1PPQ1P2/R3K2R w KQkq - 1 11",
+    "Moves": "e3d4 e5d4 b2b4 d4c3",
+    "Rating": "1086",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "1283",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/n8RRbD7b#21",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "jCTA5",
+    "FEN": "k2r1r2/pp1P4/5b2/3Q4/8/2P2B1P/Pq3PP1/3R1K2 b - - 2 39",
+    "Moves": "b2c3 d5b7",
+    "Rating": "1140",
+    "RatingDeviation": "186",
+    "Popularity": "33",
+    "NbPlays": "11",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/HvoBn1mg/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jCU0C",
+    "FEN": "r6k/1p4pp/p2p1r2/2q1p3/2P1P1b1/3Q1PP1/PP4BK/2RR4 w - - 3 26",
+    "Moves": "f3g4 f6h6 g2h3 c5f2 h2h1 h6h3",
+    "Rating": "1197",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "317",
+    "Themes": "deflection long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/lQOfp15G#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jCUAv",
+    "FEN": "r2qk2r/5p2/b1p1p1p1/p1bpP2p/2P2PPP/3B1Q2/P1PB4/R3K2R b KQkq - 0 18",
+    "Moves": "d5c4 f3c6 e8f8 c6c5",
+    "Rating": "1135",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "77",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/RG2RY2Br/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Pin_Variation"
+  },
+  {
+    "PuzzleId": "jCXNK",
+    "FEN": "r2qk2r/pp4pp/2p1ppb1/3pP3/6Q1/2P1PPP1/PP4P1/R3KB1R b KQkq - 1 14",
+    "Moves": "f6f5 g4g6 h7g6 h1h8 e8e7 h8d8",
+    "Rating": "1177",
+    "RatingDeviation": "81",
+    "Popularity": "82",
+    "NbPlays": "72",
+    "Themes": "crushing exposedKing long middlegame skewer",
+    "GameUrl": "https://lichess.org/X2BytOdT/black#28",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "jCZfs",
+    "FEN": "2r2rk1/pb3p1p/1p4pQ/3qPpP1/8/4B3/P2R2PP/R5K1 b - - 1 21",
+    "Moves": "d5e5 e3d4 e5d4 d2d4",
+    "Rating": "1126",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "382",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ptJPwvvc/black#42",
+    "OpeningTags": ""
+  }
+]

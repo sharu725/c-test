@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "i5y9t",
+    "FEN": "3r2k1/pQ3ppp/8/6PP/3n4/2qBr3/P1P5/2KR1R2 b - - 2 24",
+    "Moves": "e3d3 b7f7 g8h8 f7f8 d8f8 f1f8",
+    "Rating": "1506",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "2690",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/dSBdmrUx/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i61DN",
+    "FEN": "kR5r/p4pp1/B1P1n2p/2P1p3/4P2P/P4P2/KQ3P2/7q b - - 0 29",
+    "Moves": "h8b8 a6b7 b8b7 b2b7",
+    "Rating": "1434",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "538",
+    "Themes": "endgame mate mateIn2 queensideAttack short",
+    "GameUrl": "https://lichess.org/iG2OhVcc/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i657u",
+    "FEN": "r1b2rk1/p5p1/1q1nppN1/2pp3Q/8/2P5/PP3PPP/R4RK1 b - - 3 18",
+    "Moves": "c8a6 g6e7",
+    "Rating": "1458",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "669",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/XBuF5KfZ/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "i68Fl",
+    "FEN": "3q1rkR/1p3p2/p3p1p1/3pP1N1/3P1Q2/2r1P3/P5PP/6K1 b - - 3 29",
+    "Moves": "g8h8 f4h4 h8g7 h4h7",
+    "Rating": "1448",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1580",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/83hxRv1C/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i68jI",
+    "FEN": "5rk1/1b1Q1R1p/p5p1/1p4q1/3pP3/1B1Pb3/PPP3PP/7K b - - 0 21",
+    "Moves": "f8f7 d7f7 g8h8 f7f8",
+    "Rating": "1513",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "336",
+    "Themes": "endgame fork mate mateIn2 short",
+    "GameUrl": "https://lichess.org/0mb0mfgh/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i6CdZ",
+    "FEN": "8/R7/P3p3/3p1ppp/3P2kP/4P1P1/1r3PK1/8 b - - 0 33",
+    "Moves": "g5h4 a7g7",
+    "Rating": "1440",
+    "RatingDeviation": "422",
+    "Popularity": "25",
+    "NbPlays": "7",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/Q4yjltOl/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i6EPh",
+    "FEN": "r1bk2nr/ppBp3p/n6b/3N4/3q4/5Q2/PPP3PP/4RR1K b - - 0 16",
+    "Moves": "a6c7 f3f8 h6f8 f1f8 c7e8 f8e8",
+    "Rating": "1492",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "886",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/TzmOmBW8/black#32",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Double_Muzio_Gambit"
+  },
+  {
+    "PuzzleId": "i6Kol",
+    "FEN": "r1b1rn1k/4p2p/pR1P1ppQ/8/2BB1P2/3P3R/2Pq2PP/6K1 w - - 3 29",
+    "Moves": "d6e7 d2e1",
+    "Rating": "1474",
+    "RatingDeviation": "84",
+    "Popularity": "74",
+    "NbPlays": "361",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ptaP7fUS#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "i6Lpw",
+    "FEN": "rn3rk1/pbqp1ppp/8/3P4/1b4n1/1BN5/1P2NPPP/R1BQK2R w KQ - 7 14",
+    "Moves": "e1g1 c7h2",
+    "Rating": "1433",
+    "RatingDeviation": "120",
+    "Popularity": "67",
+    "NbPlays": "35",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/9WxO9jYP#27",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  }
+]

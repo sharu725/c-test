@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "D1di8",
+    "FEN": "2r1r1k1/1b3pp1/p6p/2bp1N2/P5n1/1P4N1/1BP1RPPP/2R3K1 w - - 3 27",
+    "Moves": "c1e1 c5f2 g1f1 f2e1",
+    "Rating": "1184",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "290",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/t4bHcwAo#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D1dxj",
+    "FEN": "1r1qk2r/2pp1ppp/p1n1p3/1p1bP1Q1/3P4/3B1N2/PPP2PPP/2KRR3 b k - 3 13",
+    "Moves": "e8g8 d3h7 g8h7 g5h5 h7g8 f3g5 d8g5 h5g5",
+    "Rating": "1128",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "6136",
+    "Themes": "attraction crushing kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/ckhJH3Ya/black#26",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "D1efy",
+    "FEN": "2kr3r/1pp1qppp/p3p3/Qb1pP3/1P1P1P2/2P2NP1/5RBP/1N5K w - - 1 23",
+    "Moves": "b1a3 b7b6 a5b5 a6b5",
+    "Rating": "1163",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "230",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/2tVTXqOk#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D1hVT",
+    "FEN": "2r3k1/1p1bbpp1/p2p1n1p/2qPp3/P1N1P3/1P1Q1N2/3B1PPP/2R3K1 w - - 2 25",
+    "Moves": "c4e5 c5c1 d2c1 c8c1 d3f1 c1f1",
+    "Rating": "1042",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "205",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/TEORH6T9#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D1i8c",
+    "FEN": "r5k1/2p2qpr/p2pbP2/1p2p1Q1/4P3/2PP1R2/PP4PP/5R1K b - - 4 28",
+    "Moves": "a8d8 f6g7 d8e8 f3f7",
+    "Rating": "1173",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "1754",
+    "Themes": "advancedPawn crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/X96O4a90/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D1kkm",
+    "FEN": "3r2k1/p1qRpp1p/p1P3p1/8/2Q5/2n1PN2/PbP2PPP/R5K1 b - - 0 19",
+    "Moves": "d8d7 c6d7 c7c4 d7d8q",
+    "Rating": "1195",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "834",
+    "Themes": "advancedPawn advantage middlegame promotion short",
+    "GameUrl": "https://lichess.org/by7kudoK/black#38",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  },
+  {
+    "PuzzleId": "D1lcF",
+    "FEN": "r3r1k1/pppn1ppp/4p3/6q1/P2PPn2/1P1B1P2/2Q2P1P/R1B2RK1 w - - 3 18",
+    "Moves": "g1h1 g5g2",
+    "Rating": "1046",
+    "RatingDeviation": "223",
+    "Popularity": "76",
+    "NbPlays": "8",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/L7JGeEDn#35",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Vienna_Variation"
+  },
+  {
+    "PuzzleId": "D1nEX",
+    "FEN": "r1bq1k1R/pp1pr1b1/2n1pNQ1/8/3P4/2N1P3/PP3PP1/R3K3 b Q - 6 24",
+    "Moves": "g7h8 g6g8",
+    "Rating": "1008",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "612",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/xLLrznIT/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D1oOX",
+    "FEN": "3rkb1r/pp3p2/2n2p1p/7b/4p3/PB5P/1PPN1PP1/RN2K2R w KQk - 0 14",
+    "Moves": "d2e4 d8d1",
+    "Rating": "1112",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "349",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ZkMr91VU#27",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+  }
+]

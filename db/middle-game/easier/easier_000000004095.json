@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CSp38",
+    "FEN": "r4rk1/ppp2p1Q/4nBp1/4P3/3p1P2/3B2R1/q1P4P/6K1 b - - 0 23",
+    "Moves": "g8h7 g3h3 h7g8 h3h8",
+    "Rating": "1035",
+    "RatingDeviation": "79",
+    "Popularity": "87",
+    "NbPlays": "332",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/tWev6peD/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CSp8R",
+    "FEN": "1r3rk1/p1p2ppp/2p1pn2/8/3P4/q2Q3P/N1PB1PP1/1K1R3R w - - 2 17",
+    "Moves": "b1a1 a3b2",
+    "Rating": "1087",
+    "RatingDeviation": "195",
+    "Popularity": "100",
+    "NbPlays": "5",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/3XWgN7dp#33",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "CSqdI",
+    "FEN": "r1b1k1nr/ppQ1q3/2B2p1p/3pp1p1/8/P1P2NP1/1PP2PP1/R3R1K1 b kq - 0 16",
+    "Moves": "b7c6 c7c6 e7d7 c6a8",
+    "Rating": "1192",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "3560",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Wuvqskf9/black#32",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Double_Spanish"
+  },
+  {
+    "PuzzleId": "CSrzY",
+    "FEN": "r4rk1/p2bqppp/1pn1p3/2p5/2Np4/3P2P1/PPP1NRBP/R2Q2K1 w - - 0 14",
+    "Moves": "c4e5 c6e5 g2a8 f8a8",
+    "Rating": "1076",
+    "RatingDeviation": "84",
+    "Popularity": "79",
+    "NbPlays": "156",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/U2QbYhIG#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "CSt0T",
+    "FEN": "2kr2nr/ppp2ppp/2N5/8/1b6/2N1P3/PP2QPqP/R1B1KR2 b Q - 0 11",
+    "Moves": "g2c6 e2g4 c6d7 g4b4",
+    "Rating": "1128",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2199",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/CbIPIjv1/black#22",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense"
+  },
+  {
+    "PuzzleId": "CSvj3",
+    "FEN": "r3k2r/ppq2ppp/4b3/2bQ1pB1/8/8/PPP2PPP/RN2R1K1 b kq - 0 13",
+    "Moves": "c7a5 e1e6 f7e6 d5e6",
+    "Rating": "1099",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "600",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/vwl2K44V/black#26",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "CSyCu",
+    "FEN": "1r1b1rk1/R4ppp/B1n5/1p6/3B4/6P1/P3PP1P/5RK1 w - - 7 29",
+    "Moves": "a7b7 b8b7 a6b7 c6d4",
+    "Rating": "1183",
+    "RatingDeviation": "75",
+    "Popularity": "60",
+    "NbPlays": "110",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/xXJeYeW6#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CSyLm",
+    "FEN": "r2q2k1/ppp2pp1/2nb4/3Q2np/2B1NPP1/7P/PP5K/2R2R2 b - - 2 18",
+    "Moves": "g5e4 d5f7 g8h8 f7h5",
+    "Rating": "1168",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1004",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/akGDejaY/black#36",
+    "OpeningTags": "Danish_Gambit Danish_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "CT2Qh",
+    "FEN": "7k/ppp4r/7r/2p1p3/4P1B1/2P2Pqn/PP4P1/3R1QRK w - - 0 29",
+    "Moves": "g4h3 h6h3 g2h3 h7h3 f1h3 g3h3",
+    "Rating": "1157",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "2391",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/aqOwKybJ#57",
+    "OpeningTags": ""
+  }
+]

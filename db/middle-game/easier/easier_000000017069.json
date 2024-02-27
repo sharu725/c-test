@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pvNXK",
+    "FEN": "r2qr1k1/pb1n1ppp/3B1n2/2pp2N1/8/3BP3/PPQ2PPP/R3K2R b KQ - 1 14",
+    "Moves": "c5c4 d3h7 f6h7 c2h7",
+    "Rating": "1009",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1003",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/HpZYBZVH/black#28",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Harrwitz_Attack"
+  },
+  {
+    "PuzzleId": "pvNmE",
+    "FEN": "r2q4/ppp4k/3p2pp/3P1r2/PPP5/4Q3/5PPP/b1B2RK1 b - - 1 20",
+    "Moves": "a1e5 e3h6 h7g8 h6g6 e5g7 g6f5",
+    "Rating": "1068",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "223",
+    "Themes": "crushing deflection fork long middlegame",
+    "GameUrl": "https://lichess.org/y6MJ0aYj/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pvOLR",
+    "FEN": "r1b1k2r/5pbp/1q4p1/2npPp2/Pp3P2/1N6/1PB3PP/R1BQ1RK1 w kq - 0 18",
+    "Moves": "d1d5 c5b3 c1e3 b6e3",
+    "Rating": "1139",
+    "RatingDeviation": "82",
+    "Popularity": "92",
+    "NbPlays": "400",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/xNYrJ3BR#35",
+    "OpeningTags": "French_Defense French_Defense_La_Bourdonnais_Variation"
+  },
+  {
+    "PuzzleId": "pvOpM",
+    "FEN": "r2r2k1/pp1b1pq1/4p1p1/2p4p/3PQ2P/2PB1R2/PP3PP1/3R2K1 w - - 2 23",
+    "Moves": "d4c5 d7c6 e4e2 c6f3",
+    "Rating": "1176",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "5102",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/xpcIo3LB#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pvPJz",
+    "FEN": "1rr2k2/p4pb1/4p2R/1pB1P1Q1/4qP2/2pR4/2P5/6K1 b - - 2 34",
+    "Moves": "c8c5 d3d8 b8d8 g5d8",
+    "Rating": "1107",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1227",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ImudXMSF/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pvPYb",
+    "FEN": "3q1rk1/3r1ppp/p2Bp3/1pn5/8/8/PPP2PPP/R2Q1RK1 w - - 2 18",
+    "Moves": "d6f8 d7d1 a1d1 d8f8",
+    "Rating": "1145",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "1667",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/RqI6wt3s#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Moscow_Variation"
+  },
+  {
+    "PuzzleId": "pvQxS",
+    "FEN": "r4qk1/p1p3pp/2pbb3/3P4/N2Q4/P2n4/1PPB2PP/4R2K w - - 0 21",
+    "Moves": "e1e6 f8f1 d4g1 d3f2",
+    "Rating": "1159",
+    "RatingDeviation": "82",
+    "Popularity": "88",
+    "NbPlays": "277",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short smotheredMate",
+    "GameUrl": "https://lichess.org/duAFuYsB#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pvRp3",
+    "FEN": "r4rk1/ppq2pp1/3bp2p/2nb4/3N2P1/7P/PPPNQP2/R1B2RK1 w - - 4 20",
+    "Moves": "c2c4 d6h2",
+    "Rating": "1011",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "141",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/EhWd5ZHG#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pvTvx",
+    "FEN": "1q3rk1/p3ppbp/2Q3p1/3P4/4P3/2N1PP2/Pr5P/1R3RK1 w - - 2 19",
+    "Moves": "c3b5 b8h2",
+    "Rating": "1181",
+    "RatingDeviation": "87",
+    "Popularity": "89",
+    "NbPlays": "41",
+    "Themes": "kingsideAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/3ga8RuXp#37",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Three_Knights_Variation"
+  }
+]

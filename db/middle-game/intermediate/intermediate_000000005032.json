@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "C5hmt",
+    "FEN": "r1bq1rk1/1p2bppp/p3pn2/8/3QN3/2P2NP1/PP2BPP1/R4RK1 w - - 1 14",
+    "Moves": "f1e1 d8d4 f3d4 f6e4",
+    "Rating": "1438",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "225",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/lbSCWaIU#27",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "C5iSb",
+    "FEN": "2r1r3/1q4pk/1pNbp2p/p2nNp2/3P4/P2Q3P/1PR2PP1/2R3K1 w - - 2 32",
+    "Moves": "c6a5 b6a5 c2c8 e8c8",
+    "Rating": "1536",
+    "RatingDeviation": "136",
+    "Popularity": "-27",
+    "NbPlays": "10",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/299X6dG4#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C5jgM",
+    "FEN": "4rr2/2p1q1bk/p1n1pnpp/1p2p3/1P1pP3/P2P1N1P/2PBNPP1/R2QR2K b - - 1 18",
+    "Moves": "f6e4 d3e4 f8f3 g2f3",
+    "Rating": "1433",
+    "RatingDeviation": "76",
+    "Popularity": "78",
+    "NbPlays": "282",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/SQSUdA2i/black#36",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "C5kdd",
+    "FEN": "2kr4/1pp1r1p1/1q3n1p/4p3/BpR1P3/5P2/PP6/1KR2Q2 b - - 7 31",
+    "Moves": "f6h5 f1h3 c8b8 h3h5",
+    "Rating": "1470",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "14481",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Yi6ptvj7/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C5moo",
+    "FEN": "r2Rr1k1/1pp2p1p/6p1/p4b2/P4P2/1B4b1/1PP3PP/2K3NR w - - 0 19",
+    "Moves": "d8a8 g3f4 c1b1 e8a8",
+    "Rating": "1456",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "146",
+    "Themes": "advantage intermezzo master middlegame short",
+    "GameUrl": "https://lichess.org/2yZkS9fe#37",
+    "OpeningTags": "Center_Game Center_Game_Paulsen_Attack_Variation"
+  },
+  {
+    "PuzzleId": "C5owj",
+    "FEN": "r1b1r3/ppn2k1p/2p3p1/4n3/2Pq3B/P1RB3P/1P1Q1PP1/5RK1 b - - 2 22",
+    "Moves": "c8h3 d3g6 h7g6 d2d4",
+    "Rating": "1490",
+    "RatingDeviation": "85",
+    "Popularity": "87",
+    "NbPlays": "39",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/11c1N7Pi/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C5p8F",
+    "FEN": "r3k2r/ppqn1pb1/3Rp2p/8/5Bp1/5N2/PPP2PPP/R2Q2K1 b kq - 1 17",
+    "Moves": "g4f3 d6e6 f7e6 f4c7",
+    "Rating": "1457",
+    "RatingDeviation": "75",
+    "Popularity": "73",
+    "NbPlays": "167",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/ky8pvSqu/black#34",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "C5qKL",
+    "FEN": "2k3r1/pp1qbp2/3p1p2/2p1p2r/P1P1P3/1Q1R1N1P/1PP2PPK/3R4 w - - 0 22",
+    "Moves": "b3b5 g8g2 h2g2 d7h3 g2g1 h3h1",
+    "Rating": "1585",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "17076",
+    "Themes": "attraction long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/FiD3rkQC#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C5qZD",
+    "FEN": "r4rk1/4ppbp/p1p1q1p1/7n/5Q2/2N1B2P/PPPR1PP1/2KR4 w - - 6 17",
+    "Moves": "f4e4 g7c3 e4e6 c3d2 d1d2 f7e6",
+    "Rating": "1529",
+    "RatingDeviation": "85",
+    "Popularity": "53",
+    "NbPlays": "30",
+    "Themes": "crushing long middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/yyIL2N9X#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Open"
+  }
+]

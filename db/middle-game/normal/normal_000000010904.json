@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Vquhu",
+    "FEN": "qr4k1/p1pb2pp/Q2b1p2/2p1p3/2P1N3/1RBP1P1P/P1P3P1/6K1 b - - 10 26",
+    "Moves": "b8b6 b3b6 c7b6 e4d6",
+    "Rating": "1335",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "280",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/gSmEYZMm/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Vqur3",
+    "FEN": "2k3r1/ppq2p2/4bQ2/2p1n3/3pP1r1/1P1P2N1/P1P2RBP/5RK1 w - - 9 23",
+    "Moves": "g3f5 e5f3 f2f3 g4g2 g1h1 g2h2",
+    "Rating": "1364",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "12162",
+    "Themes": "deflection kingsideAttack long mate mateIn3 middlegame pin",
+    "GameUrl": "https://lichess.org/11uged4q#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Vqv3r",
+    "FEN": "r1b2rk1/3p1ppp/5q2/1p6/4P1P1/1B6/PP2Q2P/R3R2K w - - 0 24",
+    "Moves": "e2b5 f6f3 h1g1 f3g4",
+    "Rating": "1203",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "604",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/4TKxUTXw#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Vqzvq",
+    "FEN": "2r1r2k/p3q1p1/1p3n1p/5Q2/7P/3B2P1/P5PK/3RR3 b - - 0 26",
+    "Moves": "e7e1 d1e1 e8e1 f5c8",
+    "Rating": "1290",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "379",
+    "Themes": "crushing master masterVsMaster middlegame short superGM",
+    "GameUrl": "https://lichess.org/0hnwXPPI/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Vr0Ei",
+    "FEN": "r1b1r1k1/pp4pp/2p5/7Q/4P3/2qP4/P1P3PP/R4R1K b - - 1 18",
+    "Moves": "c3e5 h5f7 g8h8 f7f8 e8f8 f1f8",
+    "Rating": "1289",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "916",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/N4HviLnM/black#36",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Spanish_Variation"
+  },
+  {
+    "PuzzleId": "Vr1pf",
+    "FEN": "rn1qbk1r/1p4p1/p1pp1RQp/3Pp2B/2P1P3/2N1P3/PP4PP/R5K1 b - - 0 17",
+    "Moves": "d8f6 g6e8",
+    "Rating": "1234",
+    "RatingDeviation": "78",
+    "Popularity": "84",
+    "NbPlays": "1233",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4zqeGXgC/black#34",
+    "OpeningTags": "Old_Indian_Defense Old_Indian_Defense_Czech_Variation"
+  },
+  {
+    "PuzzleId": "Vr1uP",
+    "FEN": "3r2k1/p2b1ppp/4q3/4n3/5Q2/2P4P/P2BNPP1/R2K3R w - - 1 18",
+    "Moves": "a2a4 e6b3 d1e1 e5d3 e1f1 d3f4",
+    "Rating": "1204",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "8524",
+    "Themes": "advantage exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/5tgLcBUW#35",
+    "OpeningTags": "Danish_Gambit_Declined Danish_Gambit_Declined_Sorensen_Defense"
+  },
+  {
+    "PuzzleId": "Vr31z",
+    "FEN": "6rr/R2nk3/1Pp2p2/2P1p2p/1PNpP3/3P1NPq/3Q3n/5RK1 w - - 0 23",
+    "Moves": "d2h2 g8g3 h2g3 h3g3",
+    "Rating": "1202",
+    "RatingDeviation": "98",
+    "Popularity": "84",
+    "NbPlays": "101",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/XOAY4nRR#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Vr5XL",
+    "FEN": "2kr3r/ppp2ppp/5q2/2bP3b/2N1P3/2P2P2/PP2Q1PP/R3KB1R w KQ - 1 14",
+    "Moves": "b2b4 f6c3 e2d2 c3a1",
+    "Rating": "1303",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "433",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/7snBSEpT#27",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  }
+]

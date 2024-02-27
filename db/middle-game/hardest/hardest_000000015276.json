@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Vi1Ky",
+    "FEN": "r3k2r/pp2npp1/2n1p2p/q3P3/3p1P2/b2B4/1PPNQBPP/2KR3R w kq - 0 15",
+    "Moves": "b2a3 a5a3 c1b1 e7d5",
+    "Rating": "2339",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "108",
+    "Themes": "crushing middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/aenOkvfQ#29",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "Vi2dm",
+    "FEN": "b1r3k1/7p/6p1/R2P1pN1/1q2P3/2b4P/P1Q3P1/4R1K1 w - - 3 33",
+    "Moves": "a5a4 c3d4 g1f1 b4b5 e1e2 c8c2 a4a8 g8g7",
+    "Rating": "2266",
+    "RatingDeviation": "87",
+    "Popularity": "89",
+    "NbPlays": "538",
+    "Themes": "advantage defensiveMove middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/xOgEJYcB#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Vi3cT",
+    "FEN": "r4rk1/1pp2ppp/1p1p4/4P1q1/1PP1Pn2/P4Q1b/1BB2PP1/R3R1K1 w - - 0 21",
+    "Moves": "e5d6 f4g2 g1h2 g2e1",
+    "Rating": "2189",
+    "RatingDeviation": "81",
+    "Popularity": "86",
+    "NbPlays": "80",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/y4qhXB9K#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Vi3h6",
+    "FEN": "2rr2k1/ppq1bpp1/4pn1p/5b2/1PB5/PQ2PN2/1B3PPP/2RR2K1 w - - 6 19",
+    "Moves": "c4e6 f5e6 c1c7 e6b3 d1d8 c8d8",
+    "Rating": "2108",
+    "RatingDeviation": "105",
+    "Popularity": "52",
+    "NbPlays": "16",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/BlM18l0M#37",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Vi4SP",
+    "FEN": "1kr4r/pp3R1p/1n2p1p1/1Q1p4/P2Pb1P1/1B4qP/1PP5/2K2RN1 w - - 1 26",
+    "Moves": "a4a5 e4d3 b5b4 d3f1",
+    "Rating": "2085",
+    "RatingDeviation": "125",
+    "Popularity": "90",
+    "NbPlays": "23",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/hK5mIvGA#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Vi50K",
+    "FEN": "r5k1/3Q2pp/1qb5/p3P1b1/2P2n2/P4P2/NP4PP/K2R3R w - - 1 24",
+    "Moves": "d1d6 a8b8 b2b4 c6d7 d6b6 b8b6",
+    "Rating": "2144",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "5503",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/5qEdXi5Z#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Vi5G5",
+    "FEN": "r1b4r/pppp3k/3b1qpp/4PP2/8/2P5/PPQ3PP/R1B2RK1 b - - 0 14",
+    "Moves": "f6e5 f5g6 h7g8 c1f4 e5c5 g1h1",
+    "Rating": "2061",
+    "RatingDeviation": "144",
+    "Popularity": "39",
+    "NbPlays": "10",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/X2WpzM5r/black#28",
+    "OpeningTags": "Russian_Game Russian_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "Vi5Za",
+    "FEN": "r2q1rk1/2p2b1p/1pn2ppN/p1p1b3/2P1PNQ1/P2PB2P/1P4P1/R4RK1 b - - 1 22",
+    "Moves": "g8g7 h6f7 g7f7 g4e6 f7g7 e6c6",
+    "Rating": "2377",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "692",
+    "Themes": "attraction crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/giRTXjxB/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Vi5ua",
+    "FEN": "1r1qk1r1/2p3Qp/p2b1n1B/1p2n3/8/2N2B2/PPP2PPP/2KR3R w - - 3 18",
+    "Moves": "f3c6 e5c6 h1e1 c6e5 f2f4 g8g7",
+    "Rating": "2358",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "1488",
+    "Themes": "advantage hangingPiece long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/E0WQ68xt#35",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  }
+]

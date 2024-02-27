@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "NoTSN",
+    "FEN": "7r/4pkb1/3p2p1/BbpPnp1r/P7/5P2/1PQ1B1P1/RR4K1 w - - 0 26",
+    "Moves": "a4b5 e5g4 c2f5 g6f5 f3g4 g7d4 g1f1 h5h1",
+    "Rating": "2078",
+    "RatingDeviation": "178",
+    "Popularity": "88",
+    "NbPlays": "11",
+    "Themes": "kingsideAttack mate mateIn4 middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/3gF2yMhO#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NoYK4",
+    "FEN": "1k6/1BB2p1p/P5r1/Pq3n2/5P2/1b1P2P1/1P2p2P/R1R3K1 b - - 0 26",
+    "Moves": "b8a7 c7b8 a7b8 c1c8 b8a7 c8a8",
+    "Rating": "2118",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "6467",
+    "Themes": "attraction exposedKing long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/Z5Lwayd7/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NofgW",
+    "FEN": "rn3rk1/pp3ppp/2p4B/8/1b1QPP2/qP6/P1P2K1P/R5R1 b - - 4 19",
+    "Moves": "b4c5 g1g7 g8h8 g7g8 h8g8 a1g1",
+    "Rating": "2218",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "568",
+    "Themes": "attraction doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/QArXT5ka/black#38",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  },
+  {
+    "PuzzleId": "Nok5x",
+    "FEN": "2kr3r/pp1nqp2/2p2npp/8/3PNQ2/3B3P/PP3PP1/2R2RK1 b - - 4 17",
+    "Moves": "f6e4 c1c6 b7c6 d3a6",
+    "Rating": "2027",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "6649",
+    "Themes": "mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/8kAEMUXF/black#34",
+    "OpeningTags": "Slav_Defense Slav_Defense_Bonet_Gambit"
+  },
+  {
+    "PuzzleId": "Nompu",
+    "FEN": "8/8/p5k1/2P1Qp2/1P1p4/P5P1/R4KP1/2q4r w - - 1 37",
+    "Moves": "e5e2 h1f1 e2f1 c1e3",
+    "Rating": "2011",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "1791",
+    "Themes": "endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/SMTk5Y6M#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Np1pX",
+    "FEN": "3r2k1/Q3np2/6p1/p6p/P3PP2/2brB2q/3NK2P/3RRN2 w - - 1 27",
+    "Moves": "a7e7 h3g2 e3f2 g2g4 d2f3 g4f3",
+    "Rating": "2298",
+    "RatingDeviation": "85",
+    "Popularity": "90",
+    "NbPlays": "698",
+    "Themes": "exposedKing long master mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/178parpR#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Np8Q5",
+    "FEN": "4r1k1/R2R1pp1/p6p/1p4n1/5b2/1B2B2n/PP3P1P/7K w - - 4 30",
+    "Moves": "e3f4 e8e1 h1g2 e1g1",
+    "Rating": "2121",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "297",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/bQ2j67V3#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NpIYA",
+    "FEN": "4r1k1/1b3ppp/p1q5/8/2p2P2/2N5/PPP2QPP/3R3K w - - 2 25",
+    "Moves": "d1d2 c6g2 f2g2 e8e1",
+    "Rating": "2235",
+    "RatingDeviation": "88",
+    "Popularity": "79",
+    "NbPlays": "98",
+    "Themes": "endgame mate mateIn2 pin sacrifice short",
+    "GameUrl": "https://lichess.org/U05OIw8O#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NpMZu",
+    "FEN": "rn2kb1r/pQ3ppp/5n2/q3p3/8/3P4/PpPB1PPP/1R2K1NR b Kkq - 1 12",
+    "Moves": "a5a2 b7c8 e8e7 d2b4",
+    "Rating": "2137",
+    "RatingDeviation": "104",
+    "Popularity": "86",
+    "NbPlays": "40",
+    "Themes": "mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/uP0NkI92/black#24",
+    "OpeningTags": "Vienna_Game Vienna_Game_Stanley_Variation"
+  }
+]

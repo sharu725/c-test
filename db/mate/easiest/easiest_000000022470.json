@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "hjiIT",
+    "FEN": "r1b2rk1/pp5p/6pP/3p2q1/3Q2P1/8/PPP5/1K4RR b - - 0 23",
+    "Moves": "f8f4 d4g7",
+    "Rating": "980",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "275",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/5pCTGwhK/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hjipk",
+    "FEN": "6k1/p4ppr/1p6/2p1nN2/8/2P5/PP6/3KR3 b - - 3 42",
+    "Moves": "e5f3 e1e8",
+    "Rating": "754",
+    "RatingDeviation": "84",
+    "Popularity": "96",
+    "NbPlays": "243",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/1optdAoO/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hjkdG",
+    "FEN": "1Qbk4/2r1b1pp/3p1p2/8/BP1pP3/6B1/P4PPP/2q2RK1 w - - 0 30",
+    "Moves": "f1c1 c7c1 a4d1 c1d1",
+    "Rating": "684",
+    "RatingDeviation": "102",
+    "Popularity": "75",
+    "NbPlays": "43",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/udpmhGS5#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hjlcF",
+    "FEN": "r2q1rk1/p1p2pp1/1p5p/4b1N1/4Q1nP/2P1B1p1/PP6/R3K2R b KQ - 3 18",
+    "Moves": "g4e3 e4h7",
+    "Rating": "910",
+    "RatingDeviation": "83",
+    "Popularity": "90",
+    "NbPlays": "80",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/6kZvyHuF/black#36",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Queens_Gambit_Invitation"
+  },
+  {
+    "PuzzleId": "hjpLx",
+    "FEN": "8/3b2k1/r2P1pp1/4p2p/8/8/5PPP/3Q2K1 w - - 0 37",
+    "Moves": "d1d5 a6a1 d5d1 a1d1",
+    "Rating": "670",
+    "RatingDeviation": "79",
+    "Popularity": "80",
+    "NbPlays": "259",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/zM6BAOxb#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hjqe6",
+    "FEN": "4r1k1/6pb/4p2p/P2p3P/1BrQn1q1/2P2R2/6B1/5RK1 b - - 5 45",
+    "Moves": "c4d4 f3f8 e8f8 f1f8",
+    "Rating": "626",
+    "RatingDeviation": "93",
+    "Popularity": "85",
+    "NbPlays": "298",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/R74T98Wk/black#90",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hjqfr",
+    "FEN": "r2qr1k1/1Bpbbpp1/p6p/6N1/3p3P/3Q4/PPP2PP1/2KR3R b - - 0 19",
+    "Moves": "a8b8 d3h7 g8f8 h7h8",
+    "Rating": "964",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "276",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/hA8kzMLc/black#38",
+    "OpeningTags": "Van_Geet_Opening Van_Geet_Opening_Dunst-Perrenet_Gambit"
+  },
+  {
+    "PuzzleId": "hjs23",
+    "FEN": "r4rk1/pb2ppbp/1pq2np1/8/8/1PN1P3/PBQ1BPPP/2RR2K1 w - - 0 16",
+    "Moves": "c2b1 c6g2",
+    "Rating": "549",
+    "RatingDeviation": "86",
+    "Popularity": "41",
+    "NbPlays": "54",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/rovTl4Lb#31",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation"
+  },
+  {
+    "PuzzleId": "hjs8h",
+    "FEN": "rr6/p1kn1ppQ/1qp1p3/3n4/3P1P2/P7/1PPBBP1P/2KR3R w - - 3 19",
+    "Moves": "h7g7 b6b2",
+    "Rating": "569",
+    "RatingDeviation": "82",
+    "Popularity": "100",
+    "NbPlays": "210",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/OXy0eVy3#37",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  }
+]

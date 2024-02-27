@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BbAzL",
+    "FEN": "8/5p1p/5P2/p7/1p1k1K2/1P5P/P7/8 b - - 3 57",
+    "Moves": "d4d5 f4g5 d5e5 h3h4 h7h5 g5h5 e5f6 h5h6",
+    "Rating": "2366",
+    "RatingDeviation": "91",
+    "Popularity": "88",
+    "NbPlays": "161",
+    "Themes": "crushing defensiveMove endgame master pawnEndgame quietMove veryLong",
+    "GameUrl": "https://lichess.org/5QtC7C8R/black#114",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BbBFU",
+    "FEN": "5Q2/7p/4P1pk/1b6/8/3p1B1P/3K2P1/1q6 b - - 4 40",
+    "Moves": "h6g5 h3h4 g5h4 f8f4",
+    "Rating": "2071",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "819",
+    "Themes": "attraction endgame master mate mateIn2 short",
+    "GameUrl": "https://lichess.org/NsO6S88S/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BbUzM",
+    "FEN": "8/1p6/p3pkp1/1PPp4/P4pP1/8/5P2/4K3 b - - 0 38",
+    "Moves": "a6b5 c5c6 b7c6 a4a5",
+    "Rating": "2264",
+    "RatingDeviation": "79",
+    "Popularity": "77",
+    "NbPlays": "72",
+    "Themes": "crushing defensiveMove endgame master pawnEndgame short",
+    "GameUrl": "https://lichess.org/4rBt5AzR/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BbYPq",
+    "FEN": "5rk1/p5p1/7P/4pr2/1b6/5NR1/PPK5/5R2 b - - 0 38",
+    "Moves": "e5e4 g3g7 g8h8 f3h4",
+    "Rating": "2291",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2814",
+    "Themes": "crushing endgame master short",
+    "GameUrl": "https://lichess.org/bOrxWPxB/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BbYcg",
+    "FEN": "3k4/5p2/1PPK2p1/8/5P2/8/8/7b b - - 2 58",
+    "Moves": "d8c8 b6b7 c8b8 c6c7 b8b7 d6d7 h1c6 d7d8",
+    "Rating": "2075",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "1266",
+    "Themes": "advancedPawn bishopEndgame crushing defensiveMove endgame exposedKing master veryLong",
+    "GameUrl": "https://lichess.org/RLaAFDjD/black#116",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BbaSC",
+    "FEN": "r5k1/p4q1p/6p1/3r4/3bPp2/1P6/P1Q1BKPP/R6R w - - 1 25",
+    "Moves": "f2f3 g6g5 g2g4 f4g3 f3g2 f7f2",
+    "Rating": "2350",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1458",
+    "Themes": "crushing discoveredAttack enPassant long master middlegame quietMove",
+    "GameUrl": "https://lichess.org/r18DRyC2#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BbdTe",
+    "FEN": "r2qk1nr/pp2ppb1/2n3p1/3p3p/3P2bP/2N1BN2/PPP1BPP1/R2QK2R w KQkq - 6 9",
+    "Moves": "f3e5 g7e5 e2g4 h5g4 d4e5 d5d4",
+    "Rating": "2326",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "383",
+    "Themes": "crushing long master opening",
+    "GameUrl": "https://lichess.org/ghnMwPCH#17",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Gurgenidze_System"
+  },
+  {
+    "PuzzleId": "BbohO",
+    "FEN": "8/5p2/4k1p1/7p/5P1P/6P1/6K1/8 w - - 2 49",
+    "Moves": "g2f3 e6f5 f3f2 f5g4 f2g2 f7f6 g2f2 g4h3 f4f5 g6f5 f2f3 h3h2",
+    "Rating": "2373",
+    "RatingDeviation": "95",
+    "Popularity": "85",
+    "NbPlays": "209",
+    "Themes": "crushing endgame master pawnEndgame quietMove veryLong zugzwang",
+    "GameUrl": "https://lichess.org/GB4eG6Lm#97",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BbyKN",
+    "FEN": "r1bk3r/ppp2ppp/2n2n2/3p4/1b1P4/2N2N2/PP2PPPP/R2QKB1R w KQ - 0 8",
+    "Moves": "b2b3 b4c3 f3d2 f6e4",
+    "Rating": "2090",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "171",
+    "Themes": "crushing fork hangingPiece master opening short",
+    "GameUrl": "https://lichess.org/pEo6xrS8#15",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Levitsky_Attack"
+  }
+]

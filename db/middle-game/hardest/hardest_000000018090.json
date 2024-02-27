@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "bTE0u",
+    "FEN": "2r1r1k1/1b3p1p/p2p2pB/1p1Pp1Q1/1Pn1P3/3q3P/P4PP1/R3R1K1 b - - 1 26",
+    "Moves": "d3d2 g5h4 d2h6 h4h6",
+    "Rating": "2163",
+    "RatingDeviation": "137",
+    "Popularity": "50",
+    "NbPlays": "24",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/XTcB8s61/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bTFwq",
+    "FEN": "r1b2rk1/p3ppbp/2p3p1/4B3/2B1n3/2N5/PPPR1PPP/5RK1 w - - 3 15",
+    "Moves": "e5g7 e4d2 g7f8 g8f8 c4d3 d2f1",
+    "Rating": "2295",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "177",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/yQLQzEHH#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  },
+  {
+    "PuzzleId": "bTHWH",
+    "FEN": "r1b1kbr1/pp5p/4q1p1/2p1BpN1/5Q2/P1NpP1P1/5P1P/5RK1 b q - 2 20",
+    "Moves": "e6c6 f4c4 c8e6 g5e6",
+    "Rating": "2079",
+    "RatingDeviation": "106",
+    "Popularity": "33",
+    "NbPlays": "19",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/xrnJjFD2/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bTJWS",
+    "FEN": "r3r1k1/ppp2ppp/1nn2q2/4p2b/4N3/1B1P1N1P/PPP2PP1/R1Q1R1K1 b - - 4 14",
+    "Moves": "f6g6 f3h4 g6h6 c1h6",
+    "Rating": "2096",
+    "RatingDeviation": "80",
+    "Popularity": "81",
+    "NbPlays": "64",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ylIJ3Jq5/black#28",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "bTLbQ",
+    "FEN": "k2r3r/p1Rnbppb/4p3/1B6/N2P1n2/5P2/PP5P/2R3K1 b - - 1 22",
+    "Moves": "d7b8 c7a7 a8a7 c1c7 a7a8 a4b6",
+    "Rating": "2056",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "1423",
+    "Themes": "attraction fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/fT3BL7wd/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bTMKX",
+    "FEN": "2r1r1bk/R5Rp/1p1q1p1Q/1Pp5/3p4/5nP1/1B3PKP/8 b - - 4 34",
+    "Moves": "f3g5 g7h7 g8h7 h6g7",
+    "Rating": "2165",
+    "RatingDeviation": "78",
+    "Popularity": "89",
+    "NbPlays": "859",
+    "Themes": "clearance kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/XWcdLf22/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bTPO9",
+    "FEN": "rbb2rk1/1pp4p/3p1n1q/p2Pnpp1/2PQp3/PP2P1PP/1B2NPB1/R3NRK1 w - - 5 20",
+    "Moves": "f2f4 e4f3 e1f3 b8a7",
+    "Rating": "2111",
+    "RatingDeviation": "84",
+    "Popularity": "84",
+    "NbPlays": "65",
+    "Themes": "crushing enPassant fork middlegame short",
+    "GameUrl": "https://lichess.org/gQkFEv1S#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bTQ39",
+    "FEN": "r7/ppkbqN1p/2pbpn1Q/5p1B/3PpP2/4P3/PPPB2rP/R3K2R w KQ - 8 18",
+    "Moves": "f7d6 f6g8 h6g5 g2g5",
+    "Rating": "2231",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "3646",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/XsluwsOt#35",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "bTQ4I",
+    "FEN": "1r1q1rk1/p1p2p1p/2np1p2/1p2p1B1/1bB1P3/3P4/PPP1QPPP/R4RK1 w - - 0 12",
+    "Moves": "c4b5 c6d4 e2d1 f6g5",
+    "Rating": "2127",
+    "RatingDeviation": "81",
+    "Popularity": "76",
+    "NbPlays": "72",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/HREaEJFk#23",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  }
+]

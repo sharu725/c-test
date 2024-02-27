@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PGg0s",
+    "FEN": "r2q1rk1/1b2bp2/p2p2p1/1p3N1n/3QPN1p/2P2P1P/PP4P1/3R1RK1 b - - 0 20",
+    "Moves": "h5f4 d4g7",
+    "Rating": "1045",
+    "RatingDeviation": "88",
+    "Popularity": "95",
+    "NbPlays": "290",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/aRZHT5Pq/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGgWq",
+    "FEN": "2r2rk1/R2b2pp/1p1q1p2/1Pp5/8/2QpP3/1B1P1PPP/2R3K1 b - - 1 25",
+    "Moves": "d7b5 c3b3 c5c4 b3b5",
+    "Rating": "1188",
+    "RatingDeviation": "148",
+    "Popularity": "-100",
+    "NbPlays": "12",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/fjMBqWFI/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGhFI",
+    "FEN": "6k1/3r1ppp/p1p1r3/2B4n/2PpP3/1P1NbP2/P1P3PP/R4R1K w - - 3 24",
+    "Moves": "c5a3 h5g3 h2g3 e6h6",
+    "Rating": "1015",
+    "RatingDeviation": "81",
+    "Popularity": "52",
+    "NbPlays": "86",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/WgIV5t9j#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGiHW",
+    "FEN": "rn4k1/ppb3pp/2p1p1pn/2Pp4/1P1PPq2/P1N2P1P/1BQ2P2/R4R1K w - - 3 18",
+    "Moves": "f1g1 f4h2",
+    "Rating": "1199",
+    "RatingDeviation": "245",
+    "Popularity": "100",
+    "NbPlays": "24",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Xvu6zX34#35",
+    "OpeningTags": "Slav_Defense Slav_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "PGkRJ",
+    "FEN": "r1bk3r/1pN3pp/p4q2/3n4/3PQ3/8/PP3PPP/RNB1b1K1 w - - 1 18",
+    "Moves": "c7a8 f6f2 g1h1 f2f1",
+    "Rating": "1168",
+    "RatingDeviation": "77",
+    "Popularity": "71",
+    "NbPlays": "216",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/cWzVBMw2#35",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "PGm50",
+    "FEN": "3r1rk1/p6p/1p2pqp1/2nbN3/5P2/4P1P1/PQP3B1/R4RK1 b - - 0 23",
+    "Moves": "d5c4 e5c4 f6b2 c4b2",
+    "Rating": "1096",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "115",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/M0jyZqoo/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGsXy",
+    "FEN": "r3rbk1/1p4pp/2p2p2/p7/P2N1BQ1/1Pnq4/5PPP/3RR1K1 w - - 3 24",
+    "Moves": "d1d3 e8e1",
+    "Rating": "1102",
+    "RatingDeviation": "170",
+    "Popularity": "38",
+    "NbPlays": "22",
+    "Themes": "backRankMate hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/B8kyt8o6#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGtlT",
+    "FEN": "r3k3/1b1p2p1/p1q1pp2/1p2P3/5P2/P1NQ1Bpr/1PP2bP1/R4R1K w q - 0 21",
+    "Moves": "g2h3 c6f3 d3f3 b7f3",
+    "Rating": "1138",
+    "RatingDeviation": "91",
+    "Popularity": "50",
+    "NbPlays": "27",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/hLHK6TSl#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGtmg",
+    "FEN": "r2q1rk1/p3nppp/1p3n2/2p1b3/2PpPNb1/1P1P1NP1/PB4BP/R1Q2RK1 b - - 1 15",
+    "Moves": "e7g6 f4g6 f7g6 f3e5",
+    "Rating": "1137",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "2056",
+    "Themes": "capturingDefender crushing middlegame short",
+    "GameUrl": "https://lichess.org/YjukXH6B/black#30",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "uI6iy",
+    "FEN": "8/5R2/2r3pp/1p4k1/6P1/7P/5K2/8 b - - 0 42",
+    "Moves": "c6b6 f2g3 h6h5 h3h4 g5h6 g4g5",
+    "Rating": "1671",
+    "RatingDeviation": "103",
+    "Popularity": "77",
+    "NbPlays": "39",
+    "Themes": "endgame long mate mateIn3 rookEndgame",
+    "GameUrl": "https://lichess.org/ib9GFqa6/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uI8F2",
+    "FEN": "rn3rk1/ppp1R2p/5p2/3b2p1/6N1/2PB3P/PPPK1PPB/7n b - - 0 15",
+    "Moves": "b8c6 g4h6 g8h8 e7h7",
+    "Rating": "1660",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "126",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/xLdRTKEe/black#30",
+    "OpeningTags": "Clemenz_Opening Clemenz_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "uI9vb",
+    "FEN": "4r2k/B5p1/8/7p/4n3/1B4K1/P3bPPP/R7 w - - 12 31",
+    "Moves": "g3h3 e2g4 h3h4 g7g5",
+    "Rating": "1771",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "9869",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/W8ECAkrB#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uICgX",
+    "FEN": "r1b3k1/ppN2ppp/8/3P4/2QN2nq/8/PPP2PPP/4R1K1 w - - 1 18",
+    "Moves": "c7a8 h4f2 g1h1 f2e1 c4f1 e1f1",
+    "Rating": "1774",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "5025",
+    "Themes": "fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/8lqLTeC4#35",
+    "OpeningTags": "Scotch_Game Scotch_Game_Benima_Defense"
+  },
+  {
+    "PuzzleId": "uICzN",
+    "FEN": "1k2rn2/ppp4K/6r1/8/2P4B/P6B/5P1P/4R2R w - - 1 31",
+    "Moves": "h7h8 f8e6 h8h7 g6g7 h7h6 e8h8",
+    "Rating": "1638",
+    "RatingDeviation": "355",
+    "Popularity": "87",
+    "NbPlays": "2",
+    "Themes": "discoveredAttack long master mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/WBDvn8vQ#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uIJEq",
+    "FEN": "r3k2r/pbpn2pp/1p2pP2/3q2B1/8/P1PB4/2P1Q1PP/R3R1K1 b kq - 0 15",
+    "Moves": "d5g5 e2e6 e8d8 e6e7 d8c8 e7e8 h8e8 e1e8",
+    "Rating": "1607",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "1887",
+    "Themes": "backRankMate exposedKing mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/hWkyRiOm/black#30",
+    "OpeningTags": "French_Defense French_Defense_Winawer_Variation"
+  },
+  {
+    "PuzzleId": "uIJyC",
+    "FEN": "rn2k2r/ppN2p1p/2p3p1/3p4/5P2/2N4Q/PPP2qPP/4R2K b kq - 2 16",
+    "Moves": "e8f8 h3h6 f8g8 e1e8",
+    "Rating": "1761",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "8944",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/fyvIhDIW/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "uIK5Q",
+    "FEN": "3r4/6kp/p3p2p/2r1K1N1/1nB2Q2/2P2P1P/1Pq2P2/R5R1 w - - 7 32",
+    "Moves": "e5e6 c2g6 f4f6 g6f6",
+    "Rating": "1674",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "3666",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/3EqTfqVs#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uISMo",
+    "FEN": "1R2N3/5rkp/K2p2p1/4n1P1/2p1P3/8/8/8 b - - 3 46",
+    "Moves": "g7f8 e8f6 f8e7 b8e8",
+    "Rating": "1735",
+    "RatingDeviation": "85",
+    "Popularity": "87",
+    "NbPlays": "436",
+    "Themes": "discoveredAttack endgame hookMate mate mateIn2 short",
+    "GameUrl": "https://lichess.org/ydm2XouM/black#92",
+    "OpeningTags": ""
+  }
+]

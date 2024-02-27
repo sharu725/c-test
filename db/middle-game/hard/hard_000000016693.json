@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "hOX6Q",
+    "FEN": "2r1k2r/pp2npb1/6p1/2qp4/4B1Q1/8/PPP2PP1/1KBRR3 b k - 0 21",
+    "Moves": "d5e4 g4d7 e8f8 d7d8 c8d8 d1d8",
+    "Rating": "1739",
+    "RatingDeviation": "82",
+    "Popularity": "80",
+    "NbPlays": "905",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/MB5fFO94/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hOXOs",
+    "FEN": "r4rk1/5p2/p2p2pp/1p1Nq2n/3bP1R1/3B1Q1P/PP1K3N/R7 w - - 2 28",
+    "Moves": "a1c1 e5h2 g4g2 h2e5",
+    "Rating": "1795",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "641",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/SVaLqVgR#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hOXyJ",
+    "FEN": "5rk1/pp3ppp/5p2/1Q6/3PRnq1/2r5/PP3PPP/R3N1K1 w - - 0 20",
+    "Moves": "f2f3 c3f3 e4f4 f3f4",
+    "Rating": "1761",
+    "RatingDeviation": "80",
+    "Popularity": "81",
+    "NbPlays": "32",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/Sep4GOl0#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hOYDn",
+    "FEN": "r4r2/1pq1bppk/p1n3p1/6B1/4Q3/2P2N1P/PP3PP1/R4NK1 b - - 2 20",
+    "Moves": "a8e8 e4h4 h7g8 g5e7 c7e7 f3g5 e7g5 h4g5",
+    "Rating": "1644",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "5688",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/LkEFqDs4/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hOYWB",
+    "FEN": "r5kr/1p1b1ppp/pq2p3/3pPn2/P4Q2/B1P2N2/2PKR1PP/R7 b - - 5 17",
+    "Moves": "d7c6 g2g4 d5d4 g4f5",
+    "Rating": "1776",
+    "RatingDeviation": "79",
+    "Popularity": "62",
+    "NbPlays": "74",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/fgrI713g/black#34",
+    "OpeningTags": "French_Defense French_Defense_Winawer_Variation"
+  },
+  {
+    "PuzzleId": "hOa5f",
+    "FEN": "1r2r1k1/5pPp/5R2/4p1N1/p1pqP3/P2P4/2PKQ1P1/5R2 w - - 0 25",
+    "Moves": "f6f7 c4c3 d2c1 b8b1 c1b1 d4b6 b1c1 b6b2 c1d1 b2a1",
+    "Rating": "1775",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "704",
+    "Themes": "attraction mate mateIn5 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/lBNY0SCy#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hOb6Z",
+    "FEN": "r3k2r/p1q2ppp/1p2p3/2bnn3/4NB2/5B1P/P4PP1/2RQ1RK1 w kq - 0 18",
+    "Moves": "e4c5 e5f3 g2f3 c7f4",
+    "Rating": "1775",
+    "RatingDeviation": "78",
+    "Popularity": "71",
+    "NbPlays": "53",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/eRb4bWIg#35",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "hObGR",
+    "FEN": "1k3r2/ppq4p/2n1p1p1/2N5/7P/1QPr1NP1/PP3PK1/7R b - - 1 22",
+    "Moves": "d3f3 c5a6 b8c8 a6c7 f3f2 g2h3",
+    "Rating": "1664",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "598",
+    "Themes": "crushing long master middlegame pin",
+    "GameUrl": "https://lichess.org/5Rh43xeM/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hObkk",
+    "FEN": "Q6r/p4pk1/3q4/4n1p1/2Pp4/1P3P2/P7/R1B2RK1 w - - 1 26",
+    "Moves": "a8e4 e5f3 g1f2 d6h2 f2f3 h8h3 f3g4 h3h4",
+    "Rating": "1673",
+    "RatingDeviation": "353",
+    "Popularity": "82",
+    "NbPlays": "4",
+    "Themes": "crushing exposedKing middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/57RwfoZ9#51",
+    "OpeningTags": ""
+  }
+]

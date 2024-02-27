@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "7hkrt",
+    "FEN": "2k5/1pp5/p7/5R2/P1q3p1/8/7K/3R4 b - - 0 33",
+    "Moves": "c4a4 f5f8 a4e8 f8e8",
+    "Rating": "1086",
+    "RatingDeviation": "210",
+    "Popularity": "54",
+    "NbPlays": "6",
+    "Themes": "endgame mate mateIn2 queenRookEndgame short",
+    "GameUrl": "https://lichess.org/4G0eWkmE/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7hlVu",
+    "FEN": "2R5/5Qpk/5p1p/8/P7/7P/1r1q1PP1/4R1K1 w - - 4 32",
+    "Moves": "c8e8 d2f2 g1h2 f2g2",
+    "Rating": "1073",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1498",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/5cKABM9z#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7hnm5",
+    "FEN": "5rk1/1b3ppp/4p3/p2pP3/1p1P4/qP3N1P/P1Q2PP1/2R3K1 b - - 1 24",
+    "Moves": "f8c8 c2c8 b7c8 c1c8",
+    "Rating": "1047",
+    "RatingDeviation": "126",
+    "Popularity": "83",
+    "NbPlays": "23",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/w4TAXScR/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7hpK0",
+    "FEN": "7k/6pn/7R/4Pb1Q/6R1/1P5P/2qr2BK/8 b - - 0 44",
+    "Moves": "f5g4 h5e8",
+    "Rating": "1034",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "541",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/hnVSlEXo/black#88",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7hqWC",
+    "FEN": "r1b2bkr/1pq3p1/p1n1p1Q1/4P2p/2PpN2P/NP4B1/P4PP1/1R3RK1 b - - 2 19",
+    "Moves": "f8a3 e4f6 g8f8 g6e8",
+    "Rating": "1191",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "2513",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/wD9jsHuJ/black#38",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "7hqnG",
+    "FEN": "rr3k2/6p1/3bp1P1/2pp4/p2P4/P1P1q3/1PKN3R/5R2 b - - 3 28",
+    "Moves": "f8e7 f1f7 e7e8 h2h8 d6f8 h8f8",
+    "Rating": "1026",
+    "RatingDeviation": "115",
+    "Popularity": "56",
+    "NbPlays": "56",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/UTPpumlD/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7hr7j",
+    "FEN": "r7/p2Q4/5bk1/4pp2/6q1/2N2n2/PP3P2/5K1R b - - 0 38",
+    "Moves": "a8d8 d7h7 g6g5 h7h6",
+    "Rating": "1195",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "3807",
+    "Themes": "master mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ZShfKiWp/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7hwEk",
+    "FEN": "r3k1nr/ppp2ppp/2b2q2/2b1N3/4P3/P1N5/1P1P1PPP/R1BQK2R w KQkq - 1 10",
+    "Moves": "e5c6 f6f2",
+    "Rating": "1093",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "1445",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/ueVotRUQ#19",
+    "OpeningTags": "Anderssens_Opening Anderssens_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "7hxX8",
+    "FEN": "2k2r2/pppn2pp/3p4/2b3N1/8/2N5/PPPP1nPP/R1B2RK1 w - - 0 14",
+    "Moves": "g5e6 f2h3 g1h1 f8f1",
+    "Rating": "1065",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "358",
+    "Themes": "backRankMate deflection discoveredAttack doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Mkau7bPS#27",
+    "OpeningTags": "Russian_Game Russian_Game_Italian_Variation"
+  }
+]

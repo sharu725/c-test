@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ibu2x",
+    "FEN": "r4rk1/2q1pp1p/2bp2pB/1p6/4P3/b2B1P2/3Q2PP/R4R1K b - - 3 22",
+    "Moves": "f8b8 a1a3 a8a3 d2b2 f7f6 b2a3",
+    "Rating": "2407",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1211",
+    "Themes": "advantage attraction long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/KHaSczUP/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ibxWE",
+    "FEN": "2r1r1k1/pp1q1pbp/2bP2p1/2p5/5N2/1Q2P1P1/PP4BP/2RR2K1 w - - 3 22",
+    "Moves": "c1c5 c6a4 c5c8 a4b3 c8e8 d7e8 d6d7 e8e3 g1h1 g7f6",
+    "Rating": "2583",
+    "RatingDeviation": "83",
+    "Popularity": "72",
+    "NbPlays": "113",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/92u3l2fG#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ibzDq",
+    "FEN": "2r3k1/R4pb1/1p3qp1/3pN2p/3PnB2/3QP2P/PP3PP1/6K1 w - - 1 21",
+    "Moves": "d3b3 c8c1 g1h2 e4d2 a7a8 g8h7",
+    "Rating": "2442",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "117",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/zVISdxLy#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ibzxu",
+    "FEN": "r1r4B/pp3Q2/1q3Pp1/5p2/2k5/3R4/Pp3bPP/R6K b - - 8 31",
+    "Moves": "c4b5 f7b3 b5a6 b3a3 b6a5 a3b2",
+    "Rating": "2609",
+    "RatingDeviation": "98",
+    "Popularity": "95",
+    "NbPlays": "57",
+    "Themes": "crushing deflection long middlegame",
+    "GameUrl": "https://lichess.org/YyDEBUGB/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ic0xR",
+    "FEN": "r2q3r/pp1b1pkp/2pb2p1/3p4/3N1PP1/2P1P2Q/PPB3P1/R3K2R b KQ - 0 17",
+    "Moves": "c6c5 d4f5 g6f5 h3h6 g7g8 h6d6",
+    "Rating": "2607",
+    "RatingDeviation": "89",
+    "Popularity": "82",
+    "NbPlays": "54",
+    "Themes": "advantage fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/F5snuIbf/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "ic4kY",
+    "FEN": "3r1br1/4pk1p/7q/3P1p2/Q1P1p3/P3PP2/3B3P/1R3R1K w - - 1 29",
+    "Moves": "a4d1 h6h2 h1h2 d8d6 b1b6 d6b6 d5d6 b6d6 d1e1 d6h6 e1h4 h6h4",
+    "Rating": "2596",
+    "RatingDeviation": "81",
+    "Popularity": "96",
+    "NbPlays": "4071",
+    "Themes": "mate mateIn5 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/jl7MEHfn#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ic89G",
+    "FEN": "r1b2rk1/pppp1pp1/5B1p/1N6/1bq5/5Q2/PP3PPP/3R1RK1 b - - 0 15",
+    "Moves": "g7f6 d1d4 c4b5 d4g4 b5g5 h2h4",
+    "Rating": "2680",
+    "RatingDeviation": "99",
+    "Popularity": "88",
+    "NbPlays": "101",
+    "Themes": "advantage long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/Gi3p1zyQ/black#30",
+    "OpeningTags": "Danish_Gambit Danish_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "ic9Gn",
+    "FEN": "rn3rk1/pbp3pR/1p2pqP1/8/2P1p1p1/QP2P3/P2P1P2/2KR1B2 b - - 1 17",
+    "Moves": "f6g6 h7h8 g8h8 a3f8 h8h7 f1g2 g6f6 f8e8",
+    "Rating": "2563",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "130",
+    "Themes": "advantage attraction deflection kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/uXdL0GBl/black#34",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Queenside_Fianchetto_Variation"
+  },
+  {
+    "PuzzleId": "ic9Yd",
+    "FEN": "3r1rk1/pb3ppp/8/2p1P3/Np1bnP1q/1B2B3/PP2Q1PP/R4RK1 w - - 5 20",
+    "Moves": "a1d1 b7a6 e2e1 d4e3 e1e3 a6f1",
+    "Rating": "2469",
+    "RatingDeviation": "80",
+    "Popularity": "70",
+    "NbPlays": "100",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/aYQ9xfqR#39",
+    "OpeningTags": ""
+  }
+]

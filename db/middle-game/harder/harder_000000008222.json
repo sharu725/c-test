@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "OvmxP",
+    "FEN": "r2rb3/6k1/3qp1pp/1p3p2/2pP1P1N/2P3R1/4Q1PP/4R1K1 b - - 3 33",
+    "Moves": "d6f4 h4g6 e8g6 e2e6 f4g3 h2g3",
+    "Rating": "1801",
+    "RatingDeviation": "167",
+    "Popularity": "-75",
+    "NbPlays": "21",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/dPTuIIAp/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ovo6f",
+    "FEN": "r1b1kb1r/pp3ppp/1q2p3/1N1n4/4QP2/2P5/PP1NBP1P/2KR3R b kq - 5 16",
+    "Moves": "a7a6 d2c4 b6b5 c4d6 f8d6 e2b5 a6b5 d1d5",
+    "Rating": "1807",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "114",
+    "Themes": "crushing discoveredAttack middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/ni6CZ7J6/black#32",
+    "OpeningTags": "French_Defense French_Defense_Franco-Sicilian_Defense"
+  },
+  {
+    "PuzzleId": "OvomV",
+    "FEN": "r1b2r2/2p4k/p2b3q/3PN3/4Pp2/P1Q4p/1P3BP1/R5RK w - - 0 27",
+    "Moves": "e5f3 h3g2 h1g2 h6h3",
+    "Rating": "1817",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "692",
+    "Themes": "advancedPawn attraction doubleCheck kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/0ct2E77I#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ovon5",
+    "FEN": "1rr3k1/p3n1p1/2q1p2p/5p1Q/2bP4/4P3/P2N1PPP/R1R3K1 w - - 2 19",
+    "Moves": "d2c4 b8b4 c4d2 c6c1 a1c1 c8c1",
+    "Rating": "1803",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1013",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/asAEoelg#37",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Ovpiy",
+    "FEN": "2kr4/pp5p/1qn2pr1/8/6b1/1PP2QP1/P2NB1P1/R4K1R w - - 3 20",
+    "Moves": "f3f2 b6f2 f1f2 d8d2",
+    "Rating": "1856",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "71",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/xDXLqwmp#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ovpwg",
+    "FEN": "rnb1k2r/ppp2p1p/5pp1/3Nb3/5P2/8/PPP3PP/3RKBNR b Kkq - 0 11",
+    "Moves": "e5f4 d5f4",
+    "Rating": "1880",
+    "RatingDeviation": "98",
+    "Popularity": "68",
+    "NbPlays": "23",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/Q2nJYPdv/black#22",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "OvrH5",
+    "FEN": "r1b2rk1/1pp2pb1/3p3p/p2Nn3/2P1P3/6Pq/PP1BBP2/R1Q2RK1 b - - 2 16",
+    "Moves": "c8g4 d5f4 g4e2 f4h3",
+    "Rating": "1913",
+    "RatingDeviation": "101",
+    "Popularity": "89",
+    "NbPlays": "21",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/83cCBpzq/black#32",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Ovtcf",
+    "FEN": "r1r3k1/1p3ppb/1pn4p/3NqP2/2Q3P1/7P/PPP3B1/2KR3R w - - 4 23",
+    "Moves": "d5b6 e5e3 c1b1 e3b6",
+    "Rating": "1816",
+    "RatingDeviation": "89",
+    "Popularity": "77",
+    "NbPlays": "22",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/k2fr4OS5#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ovv8L",
+    "FEN": "5k1r/1p2q1p1/5pPp/bB2p3/2p1P1P1/P1PrQ3/bP1N3P/2KR3R w - - 2 26",
+    "Moves": "e3e2 d3c3 b2c3 e7a3 c1c2 a3c3",
+    "Rating": "1929",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1273",
+    "Themes": "deflection long mate mateIn3 middlegame queensideAttack sacrifice",
+    "GameUrl": "https://lichess.org/iArDdLWK#51",
+    "OpeningTags": ""
+  }
+]

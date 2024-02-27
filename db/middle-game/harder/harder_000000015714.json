@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "lXGYQ",
+    "FEN": "1r3r2/3pN1k1/2pP1pp1/p5p1/Pp2P3/3bP1B1/BP4P1/6KR w - - 1 35",
+    "Moves": "e4e5 b4b3 a2b3 b8b3",
+    "Rating": "1866",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1242",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/EYzUWGen#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lXHDs",
+    "FEN": "r1b2rk1/ppp2ppp/5n2/4q3/4B3/5P2/P1PB2PP/R2QR1K1 w - - 3 17",
+    "Moves": "e4b7 e5d4 d2e3 d4d1 a1d1 c8b7",
+    "Rating": "1859",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "92",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/OG263C8m#33",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Englund_Gambit"
+  },
+  {
+    "PuzzleId": "lXHi1",
+    "FEN": "1r1q1rk1/pp2ppb1/2np1n1p/5bp1/2P5/1PN2NP1/PB1QPPBP/2R2RK1 w - - 0 14",
+    "Moves": "c3d5 f6e4 d2c2 e4g3",
+    "Rating": "1917",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "809",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/5sS5Nw35#27",
+    "OpeningTags": "Kings_Indian_Attack Kings_Indian_Attack_Symmetrical_Defense"
+  },
+  {
+    "PuzzleId": "lXHzN",
+    "FEN": "r5nr/2q1kppp/3Rp3/4P3/1N6/P1P2N2/5PPP/3R2K1 b - - 3 27",
+    "Moves": "c7c3 b4c6 c3c6 d6c6",
+    "Rating": "1803",
+    "RatingDeviation": "81",
+    "Popularity": "77",
+    "NbPlays": "49",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/gsQqVkvg/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lXOGP",
+    "FEN": "r1b1r1k1/p1p2ppp/2N5/1Q1PP3/1pR1n3/4qN1P/P5PK/3R4 b - - 17 31",
+    "Moves": "c8d7 d1e1 e3f4 h2g1",
+    "Rating": "1816",
+    "RatingDeviation": "102",
+    "Popularity": "88",
+    "NbPlays": "24",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/Z9pNlE1a/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lXORP",
+    "FEN": "4r1k1/4b2p/1P5r/2p1B1p1/2Pp1pq1/3P4/2Q2PB1/1R2R1K1 w - - 0 30",
+    "Moves": "b6b7 f4f3 e5g3 f3g2 f2f3 g4g3",
+    "Rating": "1954",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "6557",
+    "Themes": "advancedPawn advantage long middlegame",
+    "GameUrl": "https://lichess.org/i2C5OYcl#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lXQGM",
+    "FEN": "1r3rk1/pq4pp/2pbp2n/B1p1Nb2/N2p1P2/1P1P4/P1P3PP/R3QR1K w - - 3 18",
+    "Moves": "e1f2 d6e5 f4e5 f5d3 c2d3 f8f2",
+    "Rating": "1809",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "442",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/Akkva1Yz#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "lXQcJ",
+    "FEN": "r6r/6pk/p1pQRb1p/3p4/8/3p1N2/PqP2PPP/4R1K1 w - - 0 22",
+    "Moves": "e6f6 b2f6 d6f6 g7f6",
+    "Rating": "1913",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "214",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/dFv1BDMY#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lXR1Z",
+    "FEN": "r3kb1r/pp1q1ppp/4p3/1Np1Pb2/QnPn3N/3p2P1/PP1P1PBP/R1B2RK1 b kq - 9 13",
+    "Moves": "a7a6 b5c7 e8d8 a4d7 d8d7 c7a8",
+    "Rating": "1867",
+    "RatingDeviation": "74",
+    "Popularity": "74",
+    "NbPlays": "255",
+    "Themes": "advantage discoveredAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/Kq3x6pv8/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  }
+]

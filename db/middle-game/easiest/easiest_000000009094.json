@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QzHh3",
+    "FEN": "r4rk1/ppp2Bpp/3p4/8/4P1n1/1Q2P2q/Pp3R1P/1R2K3 b - - 0 17",
+    "Moves": "f8f7 b3f7 g8h8 f7f8 a8f8 f2f8",
+    "Rating": "962",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "1046",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/xI1BUpLz/black#34",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "QzIAc",
+    "FEN": "3q1rk1/1p3pp1/p2p1b1p/P1rPp2P/1P6/3B4/2P2PP1/R2QK2R b KQ - 0 17",
+    "Moves": "c5d5 d3h7 g8h7 d1d5",
+    "Rating": "786",
+    "RatingDeviation": "79",
+    "Popularity": "96",
+    "NbPlays": "1739",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/E2GMgciM/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "QzIT3",
+    "FEN": "r3r1k1/2b2ppB/b1p4q/6N1/pp5P/4P3/Pp3Q2/1K2R2R b - - 1 26",
+    "Moves": "g8f8 f2f7",
+    "Rating": "819",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "202",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4fUo3k0S/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QzJeI",
+    "FEN": "bk4rN/p6p/1pq1p3/4P1bQ/PP1p4/2P5/5PPP/RN3RK1 w - - 0 21",
+    "Moves": "h5f7 c6g2",
+    "Rating": "918",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "152",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/oBrQ5Vov#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QzLFi",
+    "FEN": "r2qk2r/pp3ppp/2n1p3/1B1n1b2/Q2P4/2P2N2/P4PPP/R1B1K2R b KQkq - 0 11",
+    "Moves": "d5c3 b5c6 b7c6 a4c6",
+    "Rating": "963",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "226",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/f32rJ0YQ/black#22",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+  },
+  {
+    "PuzzleId": "QzMKX",
+    "FEN": "3r3k/4R1B1/6rp/n2B4/pp6/8/PPPn4/K1N4R b - - 0 31",
+    "Moves": "g6g7 h1h6 g7h7 h6h7",
+    "Rating": "967",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "515",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/GNK810ff/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QzOnI",
+    "FEN": "8/5ppk/B3p1np/P1Q5/4PnN1/5P2/1q5r/2R4K w - - 0 36",
+    "Moves": "g4h2 b2g2",
+    "Rating": "975",
+    "RatingDeviation": "132",
+    "Popularity": "86",
+    "NbPlays": "15",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/yE8jkJ86#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QzOnW",
+    "FEN": "r2k3r/pppqbQ1p/6pn/3pP3/3P2P1/3B4/PPP5/RN3RK1 w - - 1 16",
+    "Moves": "f7g7 d7g4",
+    "Rating": "960",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "204",
+    "Themes": "crushing kingsideAttack middlegame oneMove",
+    "GameUrl": "https://lichess.org/Y7L8zR5C#31",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Queens_Knight_Defense"
+  },
+  {
+    "PuzzleId": "QzPs6",
+    "FEN": "r3k2r/ppp2pp1/3b1n1p/4q3/4P3/2NB1Q2/PPP2PPP/R4RK1 w kq - 0 12",
+    "Moves": "a2a3 e5h2",
+    "Rating": "838",
+    "RatingDeviation": "78",
+    "Popularity": "68",
+    "NbPlays": "122",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Rj7MgkLr#23",
+    "OpeningTags": "Englund_Gambit Englund_Gambit_Other_variations"
+  }
+]

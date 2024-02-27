@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "NSEAN",
+    "FEN": "8/1p4bk/p1p1q1p1/2P3Pp/bP2NP1n/P2rB3/5PB1/2Q1R1K1 w - - 0 39",
+    "Moves": "e4f6 g7f6 f4f5 e6f5",
+    "Rating": "1524",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "335",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/1qTAZrEe#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NSFWG",
+    "FEN": "q4rk1/r1p1bp2/p6Q/1p1pP3/3P4/4B2P/PP3PP1/4R1K1 b - - 0 24",
+    "Moves": "a8c8 e3g5 e7g5 h6g5",
+    "Rating": "1457",
+    "RatingDeviation": "76",
+    "Popularity": "62",
+    "NbPlays": "551",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/ecVEX2av/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NSGrT",
+    "FEN": "r3k2r/pppq1ppp/2np3n/b5N1/2BPPBb1/1QP5/PP4PP/RN3RK1 w kq - 6 11",
+    "Moves": "b3b7 a8b8 b7a6 b8b6 a6b5 b6b5",
+    "Rating": "1589",
+    "RatingDeviation": "87",
+    "Popularity": "83",
+    "NbPlays": "35",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/GJLMo4aF#21",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  },
+  {
+    "PuzzleId": "NSHX3",
+    "FEN": "r2qk2r/p1p2pp1/1p2p3/2n1Pn1p/5P2/6PP/PPPB2Q1/2KR2NR w kq - 0 16",
+    "Moves": "d2c3 d8d1 c1d1 f5e3 d1e2 e3g2",
+    "Rating": "1469",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "4598",
+    "Themes": "attraction crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/Ayc4CILy#31",
+    "OpeningTags": "French_Defense French_Defense_Kings_Indian_Attack"
+  },
+  {
+    "PuzzleId": "NSHfj",
+    "FEN": "6r1/p2r4/3kpp2/1Q1p4/3Pn1qp/6P1/PP1N1P1P/R4RK1 b - - 1 25",
+    "Moves": "e4d2 b5c5",
+    "Rating": "1407",
+    "RatingDeviation": "88",
+    "Popularity": "89",
+    "NbPlays": "2598",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/20uK1uqK/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NSJS9",
+    "FEN": "r3qrk1/pbp2p2/1n1p3p/3np1p1/2B3P1/4P1B1/PPQN1P1P/2KR2R1 b - - 1 18",
+    "Moves": "d5b4 c2g6 g8h8 g6h6",
+    "Rating": "1540",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "598",
+    "Themes": "advantage kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/WO79S1AE/black#36",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "NSJSd",
+    "FEN": "r5k1/ppp3pp/8/3b1p1P/3P1q2/2P1rBR1/PP3K2/R2Q1N2 b - - 3 25",
+    "Moves": "d5f3 g3f3 e3f3 d1f3 f4f3 f2f3",
+    "Rating": "1480",
+    "RatingDeviation": "131",
+    "Popularity": "15",
+    "NbPlays": "13",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/qKGlvCKd/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NSJjt",
+    "FEN": "r2q1rk1/pb1nbppp/1p6/2p3B1/3Pp3/2N1PN2/PPQ2PPP/R3R1K1 w - - 0 13",
+    "Moves": "c3e4 b7e4 c2e4 e7g5 e4a8 d8a8",
+    "Rating": "1489",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "2017",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/ZIQm45Hk#25",
+    "OpeningTags": "Indian_Defense Indian_Defense_Anti-Nimzo-Indian"
+  },
+  {
+    "PuzzleId": "NSKkZ",
+    "FEN": "5rk1/1b4p1/3bn2p/pp1p4/3Pp1P1/P1P1B3/BP1N2P1/5RK1 w - - 1 24",
+    "Moves": "d2e4 d6h2 g1h2 f8f1",
+    "Rating": "1548",
+    "RatingDeviation": "80",
+    "Popularity": "96",
+    "NbPlays": "15932",
+    "Themes": "advantage deflection kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/lAxNdE2q#47",
+    "OpeningTags": ""
+  }
+]

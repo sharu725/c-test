@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DoPir",
+    "FEN": "2q2rk1/2r1b2p/p4p2/1p4P1/1P4bn/3B2Q1/PB5P/R4RK1 b - - 0 28",
+    "Moves": "f6g5 g3e5 f8f1 a1f1 h4f3 f1f3",
+    "Rating": "2245",
+    "RatingDeviation": "101",
+    "Popularity": "91",
+    "NbPlays": "1493",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/n5zaevj2/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DoQI9",
+    "FEN": "r1b2rk1/ppppqppp/8/3P4/3Q4/5n2/PPP1BPPP/2KR3R w - - 0 12",
+    "Moves": "g2f3 e7e2 h1g1 g7g6",
+    "Rating": "2213",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "660",
+    "Themes": "advantage defensiveMove hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/M2ODQJw2#23",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Scotch_Variation"
+  },
+  {
+    "PuzzleId": "DoRc3",
+    "FEN": "3r1r2/pbp1Rpkp/1p4p1/3n4/2P4P/2N2qP1/PP1Q1P2/RB4K1 w - - 0 22",
+    "Moves": "b1e4 d5e7 e4f3 d8d2",
+    "Rating": "2081",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "6378",
+    "Themes": "crushing discoveredAttack hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/SRu0gcL6#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DoSME",
+    "FEN": "r4rk1/ppN1b1pp/2np1n2/4p2q/1PPP1P2/P5Pb/4NPB1/R1BQ1RK1 w - - 0 15",
+    "Moves": "f4e5 h3g2 g1g2 f6g4 e2f4 h5h2 g2f3 d6e5",
+    "Rating": "2320",
+    "RatingDeviation": "95",
+    "Popularity": "91",
+    "NbPlays": "54",
+    "Themes": "crushing kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/56nuNAKr#29",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Dutch_Defense"
+  },
+  {
+    "PuzzleId": "DoStM",
+    "FEN": "3r1rk1/1pp1qp2/p5p1/2bP3p/5Q1P/3B2R1/6P1/5R1K b - - 3 32",
+    "Moves": "d8d5 d3g6 f7g6 g3g6 e7g7 g6g7",
+    "Rating": "2065",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "5675",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/W3SkV5dt/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DoTR3",
+    "FEN": "r4rk1/p3b1pp/2pppn2/8/1q2PB2/2NQ3P/PPP3P1/R4R1K b - - 3 17",
+    "Moves": "b4b2 a1b1 b2a3 c3d5 a3d3 d5e7 g8f7 c2d3",
+    "Rating": "2152",
+    "RatingDeviation": "102",
+    "Popularity": "11",
+    "NbPlays": "36",
+    "Themes": "advantage middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/ik4feAuL/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "DoU79",
+    "FEN": "r2b3r/pp3pkp/2p5/5NB1/3PPQn1/2P2bPq/P4P1P/R4RK1 b - - 6 22",
+    "Moves": "g7g6 f5h4 g6g7 h4f3",
+    "Rating": "2064",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "380",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/omx9Aryq/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DoV5x",
+    "FEN": "5rk1/1ppR1rp1/p3p2p/4Pn2/P3N1Q1/1q3N1P/1P3PP1/3R2K1 w - - 11 23",
+    "Moves": "d7f7 b3d1 g1h2 f8f7 e4f6 g8f8",
+    "Rating": "2332",
+    "RatingDeviation": "88",
+    "Popularity": "87",
+    "NbPlays": "319",
+    "Themes": "advantage defensiveMove hangingPiece intermezzo long middlegame",
+    "GameUrl": "https://lichess.org/424dXNdW#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DoWOd",
+    "FEN": "4rrk1/1p4pp/3p4/p1pP4/2P5/PP2BP1q/2Q2P2/1R2R1K1 w - - 0 24",
+    "Moves": "c2e2 f8f6 e3g5 e8e2",
+    "Rating": "2065",
+    "RatingDeviation": "109",
+    "Popularity": "82",
+    "NbPlays": "13",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/HjkvxIGN#47",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "2DUro",
+    "FEN": "2r2rk1/3b1pp1/p3p2p/1p2q3/3p3Q/2N3R1/PP4PP/1B3R1K w - - 0 25",
+    "Moves": "h4h6 f7f5 h6d2 d4c3",
+    "Rating": "2332",
+    "RatingDeviation": "82",
+    "Popularity": "86",
+    "NbPlays": "51",
+    "Themes": "advantage master middlegame quietMove short",
+    "GameUrl": "https://lichess.org/vBdNodqg#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2DV9K",
+    "FEN": "r3r1k1/p2q1ppp/5b2/1Ppp4/5B2/2P2Q1P/5PP1/R3R1K1 b - - 0 19",
+    "Moves": "d5d4 b5b6 e8e1 a1e1",
+    "Rating": "2067",
+    "RatingDeviation": "84",
+    "Popularity": "78",
+    "NbPlays": "36",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/WVyu8gZA/black#38",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "2DWWa",
+    "FEN": "3q1r1k/6pp/1rRpQ2b/pp2p3/4P3/3PPN2/P5PP/4R1K1 w - - 5 22",
+    "Moves": "f3e5 b6c6 e5f7 f8f7",
+    "Rating": "2336",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "516",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/Dkq8Ej7l#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2DXFp",
+    "FEN": "2r2rk1/3qbppp/p3p3/1p2P3/4NB2/5NQP/2P3P1/3n1R1K b - - 3 24",
+    "Moves": "d1c3 e4f6 e7f6 e5f6 g7g6 g3h4",
+    "Rating": "2373",
+    "RatingDeviation": "79",
+    "Popularity": "82",
+    "NbPlays": "59",
+    "Themes": "advantage kingsideAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/1u07mlXP/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2DY7i",
+    "FEN": "r4qk1/pQp2ppp/1bn5/4pb2/2B1n3/2P2N2/P4PPP/RN2R1K1 w - - 1 14",
+    "Moves": "e1e4 f5e4 b1d2 a8b8",
+    "Rating": "2268",
+    "RatingDeviation": "84",
+    "Popularity": "88",
+    "NbPlays": "333",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/EAar9pz9#27",
+    "OpeningTags": "Italian_Game Italian_Game_Evans_Gambit"
+  },
+  {
+    "PuzzleId": "2DYFT",
+    "FEN": "2q2rk1/1b3ppp/p3pn2/1p2N3/1PpP4/P3P1P1/2B3PP/3Q1RK1 b - - 1 18",
+    "Moves": "f6d5 c2h7 g8h7 d1h5 h7g8 e5f7",
+    "Rating": "2243",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "605",
+    "Themes": "advantage attraction kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/9SKoA5eF/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "2Dapx",
+    "FEN": "5r2/ppp3k1/5qp1/4pr2/3pRnQp/3P4/PPPB1PPP/4R1K1 b - - 1 24",
+    "Moves": "f5g5 d2f4 g5g4 f4e5 f6e5 e4e5",
+    "Rating": "2238",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2028",
+    "Themes": "advantage long master middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/9utN99xT/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2Dax5",
+    "FEN": "r2q1rk1/pp1n1pp1/2p1pn1p/2b3B1/2PP2b1/5NN1/PP2BPPP/R2Q1RK1 b - - 0 11",
+    "Moves": "c5d4 f3d4 g4e2 g5f6 e2d1 f6d8",
+    "Rating": "2315",
+    "RatingDeviation": "84",
+    "Popularity": "89",
+    "NbPlays": "402",
+    "Themes": "advantage hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/Llo7IPRn/black#22",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+  },
+  {
+    "PuzzleId": "2Dbjz",
+    "FEN": "2r3k1/5p1p/r3b3/p2pQ1p1/1n1N1p2/R2P1NqP/1P4P1/5R1K b - - 1 29",
+    "Moves": "h7h6 d4e2 f7f6 e5d4",
+    "Rating": "2184",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "135",
+    "Themes": "clearance crushing master middlegame short",
+    "GameUrl": "https://lichess.org/CTaDQ7BE/black#58",
+    "OpeningTags": ""
+  }
+]

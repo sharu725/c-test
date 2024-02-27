@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "6Owhc",
+    "FEN": "kr5q/p7/bpQp4/2pP2r1/N3P2P/1P6/P7/2b1K2R b K - 3 28",
+    "Moves": "a6b7 a4b6 a7b6 c6a4 b7a6 a4a6",
+    "Rating": "1293",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "10634",
+    "Themes": "clearance long mate mateIn3 middlegame queensideAttack sacrifice",
+    "GameUrl": "https://lichess.org/aiJv4RLJ/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6OxT5",
+    "FEN": "r1b3R1/pp2r3/2p3p1/3Bp1k1/3n4/4Kp2/P4P2/6R1 b - - 3 36",
+    "Moves": "g5h5 g8h8 e7h7 h8h7",
+    "Rating": "1365",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "4098",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/TTH6On8N/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6OzxM",
+    "FEN": "2r1r1Qk/p3P1pp/1q5N/1pb5/8/8/P1P2PPP/3RR1K1 b - - 7 32",
+    "Moves": "e8g8 h6f7",
+    "Rating": "1391",
+    "RatingDeviation": "396",
+    "Popularity": "25",
+    "NbPlays": "3",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/n2lbrPB8/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6P1eH",
+    "FEN": "4rbk1/1b1q1pp1/p2p3p/1p1P4/1Pn5/P2QB1NP/4N1P1/1BR3K1 b - - 0 30",
+    "Moves": "e8e3 d3h7",
+    "Rating": "1279",
+    "RatingDeviation": "317",
+    "Popularity": "69",
+    "NbPlays": "13",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/uqNtF2iz/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6P3C2",
+    "FEN": "3r1k2/ppNP1pp1/5b1r/2p4p/6N1/8/P1q3PP/1R2QR1K b - - 0 21",
+    "Moves": "h5g4 e1e8 d8e8 d7e8q",
+    "Rating": "1241",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "16792",
+    "Themes": "advancedPawn master masterVsMaster mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/wDUvygWG/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6P3s5",
+    "FEN": "1r4k1/5p2/3P1q2/pP1P3p/2P2Pn1/P2N4/4Q1P1/4R2K w - - 6 37",
+    "Moves": "d3e5 f6h4 h1g1 h4h2 g1f1 h2h1",
+    "Rating": "1316",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "1028",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/ZPHYDo4h#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6P81W",
+    "FEN": "5rk1/5ppp/4p3/1BQpPn2/8/5P2/1r1q1P1P/R5K1 b - - 3 23",
+    "Moves": "f5h4 c5f8 g8f8 a1a8 f8e7 a8e8",
+    "Rating": "1343",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "8037",
+    "Themes": "attraction long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/ihYYCrCY/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6PC3N",
+    "FEN": "r2q4/p1p3bk/6p1/5b2/2Bp2r1/7Q/PPP2KP1/R1B5 b - - 5 23",
+    "Moves": "g7h6 h3h6",
+    "Rating": "1310",
+    "RatingDeviation": "77",
+    "Popularity": "43",
+    "NbPlays": "321",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/XW0yFWve/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6PCFh",
+    "FEN": "rnb1r3/ppp1bk1p/6p1/3p4/4N3/3P4/PPP2PPP/R1B1K1NR w KQ - 0 10",
+    "Moves": "e4g3 e7b4 e1d1 e8e1",
+    "Rating": "1374",
+    "RatingDeviation": "79",
+    "Popularity": "69",
+    "NbPlays": "201",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/O5OtvlQS#19",
+    "OpeningTags": "Vienna_Game Vienna_Game_Frankenstein-Dracula_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "9xIso",
+    "FEN": "r1b2r1k/1p4pp/p1p1p2q/2PpP3/6P1/P1QB4/1P4P1/2R2RK1 b - - 0 26",
+    "Moves": "h6h4 f1f8",
+    "Rating": "693",
+    "RatingDeviation": "95",
+    "Popularity": "92",
+    "NbPlays": "895",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/V4izqwq4/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "9xJeA",
+    "FEN": "r4rk1/1b1N1p1p/pp2p1p1/2p5/3P3P/3QP3/qP3PP1/2R2RK1 b - - 3 18",
+    "Moves": "a2d5 d7f6 g8g7 f6d5",
+    "Rating": "985",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "204",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/E19UZ7CG/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "9xJid",
+    "FEN": "r2q1rk1/1b4pp/p3pb1n/1pP5/1P1p1PP1/3B1N1P/P1P2B2/R3QRK1 w - - 0 19",
+    "Moves": "f2d4 f6d4 f3d4 d8d4",
+    "Rating": "947",
+    "RatingDeviation": "90",
+    "Popularity": "90",
+    "NbPlays": "600",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/hHLEDYk1#37",
+    "OpeningTags": "French_Defense French_Defense_Steinitz_Variation"
+  },
+  {
+    "PuzzleId": "9xLAE",
+    "FEN": "rn3rk1/ppb3pp/2p1p3/2Pp1p1b/1P1P4/PQN2PPn/1B2P1BP/R4RqK w - - 8 19",
+    "Moves": "f1g1 h3f2",
+    "Rating": "876",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "430",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/00fzduyG#37",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "9xLHn",
+    "FEN": "N3kb1r/1b1p1ppp/p1q1pn2/8/2NB4/P7/5PPP/R2Q1RK1 w k - 1 18",
+    "Moves": "d4f6 c6g2",
+    "Rating": "733",
+    "RatingDeviation": "86",
+    "Popularity": "71",
+    "NbPlays": "109",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/diVBpaEZ#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "9xM52",
+    "FEN": "r1bq1rk1/ppp2ppp/3b4/8/3P4/BPN1PP2/P1Q5/R3KB1R b KQ - 0 12",
+    "Moves": "d6a3 c2h7",
+    "Rating": "804",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "214",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/BYzlWuLC/black#24",
+    "OpeningTags": "Bird_Opening Bird_Opening_Froms_Gambit"
+  },
+  {
+    "PuzzleId": "9xMSb",
+    "FEN": "2rq1rk1/p4pb1/6pp/1p1pn3/1Pb5/P3P3/1BBN1PPP/R2QR1K1 w - - 0 19",
+    "Moves": "d2f3 e5f3 d1f3 g7b2",
+    "Rating": "929",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "369",
+    "Themes": "crushing discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/kk8i609Z#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Krause_Variation"
+  },
+  {
+    "PuzzleId": "9xPOA",
+    "FEN": "r3kb1r/pp2qppp/3pb3/3Bp3/2Pp4/P2P4/1P3PPP/R1BQ1RK1 w kq - 3 13",
+    "Moves": "d5b7 e7b7",
+    "Rating": "888",
+    "RatingDeviation": "92",
+    "Popularity": "81",
+    "NbPlays": "229",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/00MlSTjS#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Staunton-Cochrane_Variation"
+  },
+  {
+    "PuzzleId": "9xTa3",
+    "FEN": "1k6/1pp2pq1/p1n5/6pr/8/2NRB1P1/PPP2PK1/3R4 b - - 1 23",
+    "Moves": "g7h7 d3d8 c6d8 d1d8",
+    "Rating": "581",
+    "RatingDeviation": "87",
+    "Popularity": "100",
+    "NbPlays": "89",
+    "Themes": "mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/JaIwXrgo/black#46",
+    "OpeningTags": ""
+  }
+]

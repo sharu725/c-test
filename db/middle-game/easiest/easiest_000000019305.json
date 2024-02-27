@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "vPatl",
+    "FEN": "5r1k/p1Q5/3p2np/4b3/5r2/1B5P/PP4PK/R7 w - - 3 30",
+    "Moves": "h2h1 f4f1 a1f1 f8f1",
+    "Rating": "645",
+    "RatingDeviation": "110",
+    "Popularity": "60",
+    "NbPlays": "207",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/7SxaU6aL#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vPcaC",
+    "FEN": "r5r1/1q3pbk/2p1p2p/4Np1Q/p1p1nB2/4P2P/PP3PP1/1R1R2K1 b - - 1 23",
+    "Moves": "g7e5 h5h6",
+    "Rating": "951",
+    "RatingDeviation": "78",
+    "Popularity": "89",
+    "NbPlays": "272",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/VlNtG8E8/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vPdFL",
+    "FEN": "1k1r2nr/2q3pp/p7/2p1bQ2/8/8/PPP2PPP/R1B1R1K1 w - - 2 17",
+    "Moves": "e1e5 d8d1 e5e1 d1e1",
+    "Rating": "789",
+    "RatingDeviation": "78",
+    "Popularity": "79",
+    "NbPlays": "132",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/jldsXIgj#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Marshall_Gambit"
+  },
+  {
+    "PuzzleId": "vPds5",
+    "FEN": "r1bq1rk1/6pp/p1p1pb2/1p6/2pP4/P1P2N2/1P1B1PPP/R2Q1RK1 w - - 0 15",
+    "Moves": "d2g5 f6g5 f3g5 d8g5",
+    "Rating": "949",
+    "RatingDeviation": "98",
+    "Popularity": "94",
+    "NbPlays": "221",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/flEFHczi#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "vPeBO",
+    "FEN": "r3k2r/2pN2pp/p3p3/1p3p2/3qP3/1Q1n2P1/1P1NKPP1/R6R b kq - 1 19",
+    "Moves": "d4d7 b3d3 d7d3 e2d3",
+    "Rating": "959",
+    "RatingDeviation": "83",
+    "Popularity": "94",
+    "NbPlays": "1149",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/2pEnryFJ/black#38",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "vPgM2",
+    "FEN": "1r4k1/2r3p1/5pP1/2n1b2p/2NpPp1P/PP1B1P2/K7/3R2R1 w - - 1 35",
+    "Moves": "b3b4 c5d3 d1d3 c7c4",
+    "Rating": "867",
+    "RatingDeviation": "85",
+    "Popularity": "87",
+    "NbPlays": "467",
+    "Themes": "capturingDefender crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/az8pYM5n#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vPh5p",
+    "FEN": "2r3k1/p4ppp/1n1b2q1/3P4/4P3/1P2BQ1P/P3RPP1/6K1 w - - 7 32",
+    "Moves": "e3d4 c8c1 e2e1 c1e1",
+    "Rating": "963",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1152",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/lFOdfyPE#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vPhB7",
+    "FEN": "r4rk1/p4pp1/1npq1nbp/4R3/5BP1/2NP3P/PPP2P2/R2Q2K1 b - - 2 18",
+    "Moves": "f8e8 e5e8 f6e8 f4d6",
+    "Rating": "600",
+    "RatingDeviation": "100",
+    "Popularity": "87",
+    "NbPlays": "423",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/8uUtwKJD/black#36",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "vPhH2",
+    "FEN": "2r2rk1/2qnbppp/2P2nb1/pp2p3/4P3/3BBN1P/P1Q1NPP1/2R2RK1 b - - 0 18",
+    "Moves": "c7c6 c2c6 c8c6 c1c6",
+    "Rating": "990",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "1408",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/Kck40Zg7/black#36",
+    "OpeningTags": "Slav_Defense Slav_Defense_Slav_Gambit"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "h6odq",
+    "FEN": "r2q1r1k/p1pb2pp/2p2p2/5P2/2B1Q3/2P4R/P1P3PP/R5K1 b - - 0 18",
+    "Moves": "f8e8 h3h7 h8h7 e4h4",
+    "Rating": "1354",
+    "RatingDeviation": "92",
+    "Popularity": "86",
+    "NbPlays": "37",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/k9UnlPlD/black#36",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "h6pih",
+    "FEN": "1r3rk1/2pbbpp1/p2qp2p/1p6/1n2B1Q1/1P6/PBPP1PPP/1R2NRK1 b - - 4 17",
+    "Moves": "f7f6 g4g6 e6e5 g6h7",
+    "Rating": "1261",
+    "RatingDeviation": "82",
+    "Popularity": "90",
+    "NbPlays": "39",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/lyAGyJQi/black#34",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Tennison_Gambit"
+  },
+  {
+    "PuzzleId": "h6rJ2",
+    "FEN": "5r1k/1ppb1rp1/p2p3B/3P1p1Q/1P2P3/P4P1P/2q1N2K/5BR1 b - - 0 32",
+    "Moves": "g7h6 h5h6 f7h7 h6f8",
+    "Rating": "1232",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "6217",
+    "Themes": "deflection kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/1dYAG2mc/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "h6sfF",
+    "FEN": "r3k2r/pp3pp1/5np1/3pq3/8/2N1P3/PP2QPPP/2R2RK1 w kq - 0 16",
+    "Moves": "f1d1 e5h2 g1f1 h2h1",
+    "Rating": "1265",
+    "RatingDeviation": "131",
+    "Popularity": "88",
+    "NbPlays": "26",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/bviwuSV0#31",
+    "OpeningTags": "Slav_Defense Slav_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "h6vdh",
+    "FEN": "1rq2r2/6kp/3pNnp1/p1p5/1pP5/1P4P1/PB3P1P/R3Q1K1 b - - 1 31",
+    "Moves": "g7g8 e6f8 c8f8 e1e6",
+    "Rating": "1221",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "778",
+    "Themes": "clearance crushing kingsideAttack master middlegame short",
+    "GameUrl": "https://lichess.org/9VoMrXXK/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "h6x6W",
+    "FEN": "5r2/1pp4p/pk1b4/n7/P2BBp2/2P3rP/8/4RR1K b - - 9 33",
+    "Moves": "d6c5 e1b1 b6a7 d4c5",
+    "Rating": "1367",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "3815",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/tS3QdE1g/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "h6xwI",
+    "FEN": "r3r1k1/p1Np1p1p/1p4p1/8/1PPb1nPq/P5QP/5P2/3R1R1K b - - 5 23",
+    "Moves": "h4h3 g3h3 f4h3 d1d4",
+    "Rating": "1214",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1935",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/FTcSBJSq/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "h6yI6",
+    "FEN": "r4rk1/p3bpp1/2Q4p/2p5/4P3/P1N3P1/1P3qBP/R1B4K w - - 0 20",
+    "Moves": "c3d5 f2e1 g2f1 e1f1",
+    "Rating": "1214",
+    "RatingDeviation": "172",
+    "Popularity": "57",
+    "NbPlays": "14",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/kF6kHBYR#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "h718E",
+    "FEN": "r1b3k1/p4rbp/2p1p1p1/3pPp2/2B2P2/2NQ4/PqP3PP/1R3R1K b - - 1 17",
+    "Moves": "d5c4 d3d8 f7f8 d8f8 g8f8 b1b2",
+    "Rating": "1316",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "7695",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/DQkjli8y/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "1BkN4",
+    "FEN": "rnbq1rk1/pp2b1pp/2p1p3/4P2Q/4BB2/2P1P3/PP3PPP/R3K2R b KQ - 2 12",
+    "Moves": "g7g6 e4g6 h7g6 h5g6",
+    "Rating": "1081",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "181",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/cKssk1Be/black#24",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "1BkuL",
+    "FEN": "r4k1r/2pq1ppp/p2b1n2/1pnP4/5P2/P1NB1Q2/1P3P1P/R1B1R1K1 w - - 0 17",
+    "Moves": "c1e3 c5d3",
+    "Rating": "1189",
+    "RatingDeviation": "161",
+    "Popularity": "-43",
+    "NbPlays": "7",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/Xw6O3rpB#33",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "1BlIj",
+    "FEN": "1k6/ppp2p2/2p1q3/2b5/4P3/P1NP1Q2/KPP4r/R4R2 w - - 1 28",
+    "Moves": "b2b3 h2c2 a2b1 e6b3",
+    "Rating": "1036",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "3371",
+    "Themes": "deflection fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/X3qCDWLK#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1Blqp",
+    "FEN": "r4rk1/pp3ppp/2n2B2/3q4/4p1b1/2PB1N2/P1P2PPP/R2QR1K1 b - - 0 13",
+    "Moves": "e4f3 d3h7 g8h7 d1d5",
+    "Rating": "1165",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "604",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/tG7zSuNi/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  },
+  {
+    "PuzzleId": "1BnTY",
+    "FEN": "3r1r1k/pp4p1/2p2n1p/4q3/1PB1P3/P4PP1/6P1/R2Q1RK1 w - - 1 25",
+    "Moves": "d1e1 e5d4 g1h2 d4c4",
+    "Rating": "1067",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "680",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/t8RQCjQ5#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1Bo66",
+    "FEN": "r3k2r/pp1bBqp1/4p2p/2bpP3/8/3B4/PPQ2PPP/RN3RK1 b kq - 0 15",
+    "Moves": "c5e7 d3g6 e8g8 g6f7",
+    "Rating": "1008",
+    "RatingDeviation": "86",
+    "Popularity": "92",
+    "NbPlays": "1858",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/NUn92yCs/black#30",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "1BpoZ",
+    "FEN": "1k3b1r/ppp3pp/2n4q/4Qp2/4pP2/1P2P1P1/PBP3BP/3R2K1 b - - 2 19",
+    "Moves": "c6e5 d1d8",
+    "Rating": "1079",
+    "RatingDeviation": "117",
+    "Popularity": "60",
+    "NbPlays": "19",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Feg698V5/black#38",
+    "OpeningTags": "Bird_Opening Bird_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "1Bqb5",
+    "FEN": "r2q1rk1/pp3ppp/1n1b1p2/2p4b/3P4/1BPQ1N1P/PP3PP1/R1B2RK1 w - - 0 13",
+    "Moves": "d4c5 d6h2 f3h2 d8d3",
+    "Rating": "1164",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "434",
+    "Themes": "advantage discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/yQt7nbqy#25",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+  },
+  {
+    "PuzzleId": "1Bs2h",
+    "FEN": "r4rk1/1p4p1/p3p1P1/3p3N/3q4/1P6/P1K2b1Q/R1B4R b - - 2 25",
+    "Moves": "d4a1 h5f6 a1f6 h2h7",
+    "Rating": "1146",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "892",
+    "Themes": "clearance mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/b4aK6wXg/black#50",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DCHBK",
+    "FEN": "3rr1k1/pp1q1pbp/6p1/2P5/3PpP2/1Q2B1P1/PP4K1/R3R3 b - - 3 20",
+    "Moves": "g7d4 a1d1 d7c6 d1d4 d8d4 e3d4",
+    "Rating": "1980",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "838",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/EjOwq0vU/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DCHaH",
+    "FEN": "3r2k1/1bq3p1/p3pr1p/3n4/3RQp2/8/1PP1BPPP/R1B3K1 w - - 4 24",
+    "Moves": "c2c4 d5c3 d4d8 c7d8",
+    "Rating": "1924",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "85",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/weNnGl12#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DCHju",
+    "FEN": "2kr3r/pppq2b1/7p/3p3n/1P1B3P/P2P2p1/3QNPP1/R3R1K1 w - - 0 20",
+    "Moves": "d4g7 g3f2 g1f2 d7g7",
+    "Rating": "1988",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "383",
+    "Themes": "advancedPawn crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/gWEu3sAY#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DCJIE",
+    "FEN": "r4rk1/p3Qppp/2p5/2n1P3/2Nq1p2/8/P5PP/2RR3K b - - 5 20",
+    "Moves": "d4f2 d1d2 f2d2 c4d2",
+    "Rating": "1873",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2479",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/KAqTTzEP/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DCJsI",
+    "FEN": "2R3rk/6pp/Q2p4/1p2p3/4PpR1/5n1q/PP3P2/3BK3 w - - 1 35",
+    "Moves": "e1e2 h3g4 c8g8 h8g8 d1b3 g8f8 a6d6 f8e8 d6b8 e8e7",
+    "Rating": "1873",
+    "RatingDeviation": "256",
+    "Popularity": "100",
+    "NbPlays": "5",
+    "Themes": "defensiveMove equality hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/T03LnqFv#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DCLvj",
+    "FEN": "r4rk1/1pq1bppp/pn1p1nb1/4p3/4P1PN/1PNB3P/PBP1QP2/2R2RK1 b - - 2 15",
+    "Moves": "f6e4 h4g6 e4c3 g6e7 c7e7 b2c3",
+    "Rating": "1850",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "129",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/w1SgmQlO/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "DCNUS",
+    "FEN": "r3r1k1/p1p1bpp1/2nqb2p/1p2p3/4Q3/3PBN2/PPP1NPPP/R4RK1 w - - 0 15",
+    "Moves": "c2c3 f7f5 e4c6 d6c6",
+    "Rating": "1809",
+    "RatingDeviation": "88",
+    "Popularity": "76",
+    "NbPlays": "29",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/jGcLk7bA#29",
+    "OpeningTags": "Russian_Game Russian_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "DCNUm",
+    "FEN": "r1b1k2r/pp3ppp/5n2/1P1pq3/PQ6/2N2N2/2P1BPnP/R4K1R b kq - 1 15",
+    "Moves": "g2e3 f2e3 c8h3 f1e1",
+    "Rating": "1933",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "2106",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/odFqFkRi/black#30",
+    "OpeningTags": "Polish_Opening Polish_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "DCNe6",
+    "FEN": "1r5k/6pB/3nQ3/8/7r/2P3q1/P3R2P/5R1K b - - 8 32",
+    "Moves": "h4h7 e6e8 b8e8 e2e8 d6e8 f1f8",
+    "Rating": "1891",
+    "RatingDeviation": "166",
+    "Popularity": "-50",
+    "NbPlays": "11",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/ji3my6WA/black#64",
+    "OpeningTags": ""
+  }
+]

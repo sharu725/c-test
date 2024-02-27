@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "qFSNK",
+    "FEN": "r1b2rk1/ppp2ppp/3p4/6q1/8/1B3Q2/PPP2PPP/R3R1K1 b - - 0 15",
+    "Moves": "c7c6 f3f7 f8f7 e1e8",
+    "Rating": "1585",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "9096",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/5bSLriOk/black#30",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "qFTbi",
+    "FEN": "4r2k/6pp/8/5P1q/3pN3/rp1P3P/1RnP2Q1/1R4K1 b - - 5 35",
+    "Moves": "h5f5 e4d6 f5f8 d6e8",
+    "Rating": "1425",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1756",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/hv43OHYF/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qFTnX",
+    "FEN": "r1b1r1k1/pp3pbp/2p3p1/q3p3/2P1B3/4PN2/PPQ2PPP/3R1RK1 b - - 0 16",
+    "Moves": "a5a2 d1a1 a2a1 f1a1",
+    "Rating": "1470",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "17842",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/aPPYeVrQ/black#32",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "qFTpT",
+    "FEN": "r4rk1/1bpqn1bp/p2p1np1/1p1P1pB1/8/1B3NN1/PPP2PPP/R2QR1K1 b - - 4 16",
+    "Moves": "e7d5 g5f6 g7f6 b3d5 b7d5 d1d5",
+    "Rating": "1516",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "1036",
+    "Themes": "advantage intermezzo kingsideAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/GfRetItq/black#32",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "qFXCZ",
+    "FEN": "7r/Q2bk2p/p3p3/q2p1np1/Np6/P7/1P3PPP/R3K2R w KQ - 2 23",
+    "Moves": "a4b6 b4a3 e1d1 a3b2 a1a5 b2b1q",
+    "Rating": "1513",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "1423",
+    "Themes": "advancedPawn advantage discoveredAttack long middlegame promotion",
+    "GameUrl": "https://lichess.org/DjcA3AFk#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qFYoI",
+    "FEN": "r5k1/1pp3pp/p1p5/5N1q/5n2/1P1P1Q2/P1P2P1r/4RRK1 w - - 1 26",
+    "Moves": "f3f4 h2h1 g1g2 h5h3",
+    "Rating": "1512",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "7906",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/faQApfec#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qFZLl",
+    "FEN": "r4rk1/1p1bnpbp/p2p1npB/q2Pp3/4P3/1PNB1N2/P2Q1PPP/R4RK1 w - - 1 14",
+    "Moves": "f1d1 g7h6 d2h6 a5c3",
+    "Rating": "1478",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "17423",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/HlEUWMcp#27",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "qFZwZ",
+    "FEN": "r2q1rk1/pp3ppp/2np4/6b1/3PP3/4B1PP/PP2Q1B1/2R2RK1 b - - 4 17",
+    "Moves": "c6d4 e3d4 g5c1 f1c1",
+    "Rating": "1510",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2078",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/sgI8LL9K/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "qFbDB",
+    "FEN": "r1b3r1/p1q2p1k/1p3n2/2p1pP1p/4P3/2P4R/P1PQB1PP/1R5K b - - 1 23",
+    "Moves": "h7g7 d2g5 g7f8 g5f6",
+    "Rating": "1583",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1786",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/T5zTQPix/black#46",
+    "OpeningTags": ""
+  }
+]

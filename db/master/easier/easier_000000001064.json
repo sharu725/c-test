@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "J9UFP",
+    "FEN": "8/1p1kb3/p6p/3pPB1P/bP1N2p1/P1R4r/4K3/8 b - - 4 34",
+    "Moves": "d7d8 c3c8",
+    "Rating": "1116",
+    "RatingDeviation": "110",
+    "Popularity": "73",
+    "NbPlays": "60",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/OBY7Cvf0/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J9XUw",
+    "FEN": "r2n3r/5p1k/4pPpQ/p1pqPP1p/1p1p3P/3P1R2/PPP3K1/R1B5 b - - 4 28",
+    "Moves": "h7g8 h6g7",
+    "Rating": "1012",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "215",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/KdLaw5Y9/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J9mcN",
+    "FEN": "r7/5kpp/4pp2/1pPb4/1P1N4/8/4KPPP/3R4 w - - 1 31",
+    "Moves": "d4b5 d5c4 e2e1 c4b5",
+    "Rating": "1005",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "970",
+    "Themes": "advantage endgame fork master short",
+    "GameUrl": "https://lichess.org/tNhukeyO#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J9tGH",
+    "FEN": "8/3r4/P3k3/2B2pp1/1R1Pn3/4K3/8/8 b - - 1 54",
+    "Moves": "e6d5 a6a7 d7a7 c5a7",
+    "Rating": "1132",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "7450",
+    "Themes": "advancedPawn crushing endgame master masterVsMaster short superGM",
+    "GameUrl": "https://lichess.org/Cq0Iqhrq/black#108",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J9u8U",
+    "FEN": "5b2/Q4pkp/5qp1/8/2B5/6P1/P4PKP/8 w - - 3 32",
+    "Moves": "a2a4 f6c6 g2g1 c6c4",
+    "Rating": "1081",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "306",
+    "Themes": "advantage endgame fork master short superGM",
+    "GameUrl": "https://lichess.org/E4fWcpI9#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JA4V4",
+    "FEN": "1r5r/2q1kpp1/2pp1np1/p3p3/P1P1N1Q1/1P2P2P/5PP1/1R3RK1 w - - 4 22",
+    "Moves": "g4g5 h8h5 g5g3 f6e4",
+    "Rating": "1166",
+    "RatingDeviation": "82",
+    "Popularity": "82",
+    "NbPlays": "45",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/fA9MElOd#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JA8Lp",
+    "FEN": "r1bqk2r/pp3ppp/3p1bn1/2pPn3/2P1P3/2N2N1P/PP1B2P1/RB1Q1RK1 b kq - 2 14",
+    "Moves": "e5c4 d1a4 c8d7 a4c4",
+    "Rating": "1090",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "498",
+    "Themes": "advantage fork master opening short",
+    "GameUrl": "https://lichess.org/xxU98WTs/black#28",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "JADYz",
+    "FEN": "3r3k/6r1/5Q1p/3p3P/8/2p5/2P3PK/8 b - - 16 47",
+    "Moves": "d8g8 f6h6 g7h7 h6f6",
+    "Rating": "1006",
+    "RatingDeviation": "81",
+    "Popularity": "94",
+    "NbPlays": "431",
+    "Themes": "crushing endgame master queenRookEndgame short",
+    "GameUrl": "https://lichess.org/RfM3jaeA/black#94",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JAUMg",
+    "FEN": "r4rk1/pp3ppp/1n2q3/4b3/4N3/8/PP2QPPP/R1B2RK1 w - - 0 18",
+    "Moves": "e4c5 e5h2 g1h2 e6e2",
+    "Rating": "1174",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "326",
+    "Themes": "crushing discoveredAttack kingsideAttack master middlegame short",
+    "GameUrl": "https://lichess.org/v3YTNvZo#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Open"
+  }
+]

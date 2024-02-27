@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "hbvEh",
+    "FEN": "r4rk1/1b2qppp/p2p1n2/1p2p1N1/4P2Q/8/PPP2PPP/R1B1R1K1 b - - 7 15",
+    "Moves": "f6e4 h4h7",
+    "Rating": "1107",
+    "RatingDeviation": "107",
+    "Popularity": "47",
+    "NbPlays": "38",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/YasCMKRc/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "hbwWx",
+    "FEN": "4kbnr/pp3Npp/8/8/2r5/8/PPbP1PPP/RNB1K2R w KQk - 0 11",
+    "Moves": "f7h8 c4e4 e1f1 c2d3 f1g1 e4e1",
+    "Rating": "1079",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "734",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/7U20j4Er#21",
+    "OpeningTags": "Elephant_Gambit Elephant_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "hc1o0",
+    "FEN": "2kr1b1r/1pp3p1/p2p3p/3q4/P1PNb3/4B2P/1P3PP1/R2Q1RK1 b - - 0 16",
+    "Moves": "d5f7 d1g4 d8d7 g4e4",
+    "Rating": "1076",
+    "RatingDeviation": "82",
+    "Popularity": "89",
+    "NbPlays": "792",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/7ljNeD4W/black#32",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "hc4v7",
+    "FEN": "4r3/1p3pkp/p2q1np1/3Pr3/3R4/2N2Q1P/PP3PP1/2R3K1 w - - 1 24",
+    "Moves": "c1d1 e5e1 d1e1 e8e1",
+    "Rating": "1091",
+    "RatingDeviation": "81",
+    "Popularity": "87",
+    "NbPlays": "77",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/dHO3oq8D#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hc54e",
+    "FEN": "1r3k1r/pQ1n1pp1/2pbq1p1/3p2B1/3P2P1/5N1P/PPP2P2/2KR3R w - - 1 17",
+    "Moves": "b7c6 d6f4 g5f4 e6c6",
+    "Rating": "1155",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "2345",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/AZIhk6oP#33",
+    "OpeningTags": "French_Defense French_Defense_Two_Knights_Variation"
+  },
+  {
+    "PuzzleId": "hc6Fq",
+    "FEN": "rn2k1Br/ppp1q3/3p1p2/7p/3PP1N1/6Q1/PbP3P1/RN2K2R b KQkq - 0 15",
+    "Moves": "h8g8 g4f6 e7f6 g3g8",
+    "Rating": "1101",
+    "RatingDeviation": "133",
+    "Popularity": "100",
+    "NbPlays": "40",
+    "Themes": "discoveredAttack equality middlegame short",
+    "GameUrl": "https://lichess.org/Khzs7t8C/black#30",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hc6nv",
+    "FEN": "r5k1/pp1q1p2/6p1/3p2Np/2nP3P/b1P2Q2/P4PP1/2B1RK2 w - - 6 22",
+    "Moves": "c1a3 c4d2 f1g1 d2f3",
+    "Rating": "1045",
+    "RatingDeviation": "84",
+    "Popularity": "89",
+    "NbPlays": "327",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/4q9zfhbB#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hc924",
+    "FEN": "r3k2r/p1pq1p2/3b1p2/3p4/7p/1P1QP3/P4PPP/RN3RK1 w kq - 0 16",
+    "Moves": "d3d5 d6h2 g1h2 d7d5",
+    "Rating": "1145",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "140",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/J4OkLhql#31",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation"
+  },
+  {
+    "PuzzleId": "hc9hG",
+    "FEN": "6r1/1bqpkp1p/1Np3p1/Qpn5/4PP2/8/4N1PP/5RK1 b - - 1 23",
+    "Moves": "c5e4 b6d5 c6d5 a5c7",
+    "Rating": "1171",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "199",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/QG9Favgf/black#46",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "STD0N",
+    "FEN": "2kr2r1/pp2bp2/1qp1p2B/8/2bP2P1/1P5P/P1PQ1P2/2KR2R1 b - - 0 20",
+    "Moves": "d8d4 d2d4 b6d4 d1d4",
+    "Rating": "652",
+    "RatingDeviation": "98",
+    "Popularity": "44",
+    "NbPlays": "158",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/uHk6HZmK/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "STDAS",
+    "FEN": "2r5/2r2pbk/6p1/p2Bpb1p/8/4BP2/PPPR2PP/2KR4 w - - 2 27",
+    "Moves": "c2c4 c7c4 d5c4 c8c4",
+    "Rating": "600",
+    "RatingDeviation": "92",
+    "Popularity": "82",
+    "NbPlays": "346",
+    "Themes": "crushing middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/B2IFmtGs#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "STDbc",
+    "FEN": "r3r2k/1b4p1/p2qp3/np3pN1/5P2/1QPB2P1/P4P1P/3RR1K1 b - - 7 26",
+    "Moves": "a5b3 g5f7 h8g8 f7d6",
+    "Rating": "826",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "104",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/9uCxRMvR/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "STDrh",
+    "FEN": "r2q1rk1/pbp2pbp/1p1p2p1/3n4/1P6/1R1QP1P1/P2N1PBP/2B2RK1 b - - 1 16",
+    "Moves": "d5b4 b3b4 b7g2 g1g2",
+    "Rating": "941",
+    "RatingDeviation": "98",
+    "Popularity": "71",
+    "NbPlays": "29",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/ShZyNdCj/black#32",
+    "OpeningTags": "Old_Indian_Defense Old_Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "STFco",
+    "FEN": "rn3rk1/1p3ppp/2ppq3/p1b1pN1n/P3P1Q1/1PN5/1P1P1PPP/R1B2RK1 b - - 6 13",
+    "Moves": "e6g6 f5e7 g8h8 e7g6",
+    "Rating": "825",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "342",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/PKvAKLNo/black#26",
+    "OpeningTags": "Vienna_Game Vienna_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "STHGC",
+    "FEN": "4r1k1/p4ppp/2p2n2/3p4/5B2/2PB4/PP4PP/RN1Qq2K w - - 1 24",
+    "Moves": "d1e1 e8e1 d3f1 e1f1",
+    "Rating": "631",
+    "RatingDeviation": "98",
+    "Popularity": "92",
+    "NbPlays": "261",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Gzx8pDtP#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "STHvr",
+    "FEN": "5rk1/1p3r2/p1b4p/3pB1p1/8/2P1n1PN/PP1R3P/R5K1 w - - 0 26",
+    "Moves": "e5d4 f7f1 a1f1 f8f1",
+    "Rating": "752",
+    "RatingDeviation": "80",
+    "Popularity": "81",
+    "NbPlays": "85",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/i8YyqBaB#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "STIJb",
+    "FEN": "r4rk1/4pp2/3p2p1/1NpP4/2n1PP2/7R/1B6/2KR2Nq b - - 1 32",
+    "Moves": "h1e4 h3h8",
+    "Rating": "709",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "139",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/1tXf0kLZ/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "STIQd",
+    "FEN": "2r1r1k1/ppR1nppp/b2p2q1/3Pp3/1P6/P3P1P1/3B1PBP/3QR1K1 w - - 1 21",
+    "Moves": "d1c2 g6c2 c7c2 c8c2",
+    "Rating": "855",
+    "RatingDeviation": "83",
+    "Popularity": "79",
+    "NbPlays": "211",
+    "Themes": "crushing middlegame short xRayAttack",
+    "GameUrl": "https://lichess.org/OPA8pnHm#41",
+    "OpeningTags": ""
+  }
+]

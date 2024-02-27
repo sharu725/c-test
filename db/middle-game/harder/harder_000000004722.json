@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EH0k3",
+    "FEN": "r4rk1/p2R1p1n/1b5p/3Q2p1/5qP1/2B4P/PPP2P2/5RK1 b - - 10 26",
+    "Moves": "f8d8 c3e5 d8d7 d5a8 d7d8 a8d8 b6d8 e5f4",
+    "Rating": "1951",
+    "RatingDeviation": "91",
+    "Popularity": "68",
+    "NbPlays": "24",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/qd42MraV/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EH0x2",
+    "FEN": "r2k1b1r/1p3ppp/p1b1pn2/4N3/8/2N5/PPP2PPP/R1B1K2R b KQ - 0 12",
+    "Moves": "c6g2 h1g1 g2c6 e5f7 d8e8 f7h8",
+    "Rating": "1898",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "328",
+    "Themes": "advantage exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/e7H02FwE/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nimzowitsch_Variation"
+  },
+  {
+    "PuzzleId": "EH1UA",
+    "FEN": "r3r2k/1bq2p2/1p2pp1p/p1b5/4B3/2P2N1P/PP2QPP1/3RR1K1 b - - 1 21",
+    "Moves": "b7a6 e2d2 h8g7 e4a8",
+    "Rating": "1971",
+    "RatingDeviation": "73",
+    "Popularity": "93",
+    "NbPlays": "4024",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/3iIwIH9f/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EH36P",
+    "FEN": "r4rk1/pp3p2/2p4Q/4Rbp1/7P/2P5/3q1PP1/4R1K1 b - - 2 28",
+    "Moves": "f5g6 h4h5 d2e1 e5e1",
+    "Rating": "1891",
+    "RatingDeviation": "76",
+    "Popularity": "81",
+    "NbPlays": "92",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/a0e2Lmyf/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EH3mF",
+    "FEN": "rn1q1rk1/ppp2pbp/3p1np1/4p1B1/2BPP3/2N2Q1P/PPP2PP1/2KR3R b - - 1 9",
+    "Moves": "b8c6 c3d5 f6d5 g5d8",
+    "Rating": "1946",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "100",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/AfladBix/black#18",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "EH4c4",
+    "FEN": "r3rnk1/5pp1/p2P3p/1p1b1P2/2p4q/P1B3NP/1PB3P1/2Q1RR1K w - - 2 27",
+    "Moves": "c1f4 h4h3 h1g1 h3g2",
+    "Rating": "1862",
+    "RatingDeviation": "78",
+    "Popularity": "56",
+    "NbPlays": "115",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/SDEgHxmr#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EH5tT",
+    "FEN": "1rr3k1/p1Nbp1bp/P2p2pn/3P1p2/1B2P3/Pq3N1P/2R1QPP1/2R3K1 w - - 0 23",
+    "Moves": "c7b5 c8c2 e2c2 b3c2 c1c2 d7b5",
+    "Rating": "1886",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "710",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/1XZbsNU5#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EH6OH",
+    "FEN": "r1b5/1pp3bk/3q2pp/p3p2r/3B4/2P3P1/PPQ2PBP/3RR1K1 w - - 6 24",
+    "Moves": "d4e5 h5e5 e1e5 d6e5",
+    "Rating": "1816",
+    "RatingDeviation": "76",
+    "Popularity": "78",
+    "NbPlays": "71",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Zz7jXNZk#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EH8bV",
+    "FEN": "r1bq1rk1/3nbppp/p2p4/np1NpPP1/4P3/PN1B4/1PP4P/R1BQK2R b KQ - 2 13",
+    "Moves": "e7g5 c1g5 d8g5 b3a5",
+    "Rating": "1969",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "1558",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/kqV6MlFg/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  }
+]

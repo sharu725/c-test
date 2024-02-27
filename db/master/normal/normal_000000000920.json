@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HFyCq",
+    "FEN": "r1b1k2r/pp3np1/1q2p1Bp/2b4Q/8/8/PPP2PPP/R1B2RK1 b kq - 1 15",
+    "Moves": "b6c7 g6f7 c7f7 h5c5",
+    "Rating": "1209",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "571",
+    "Themes": "advantage attackingF2F7 master opening short",
+    "GameUrl": "https://lichess.org/XtYMQxCo/black#30",
+    "OpeningTags": "French_Defense French_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "HGOB2",
+    "FEN": "8/3N1R2/2kb4/pp6/3P4/1KP5/PP5r/8 w - - 6 60",
+    "Moves": "d7f6 a5a4",
+    "Rating": "1291",
+    "RatingDeviation": "197",
+    "Popularity": "86",
+    "NbPlays": "36",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/I3UQcxX0#119",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HGR9d",
+    "FEN": "8/2r5/5K1P/5B2/8/8/k7/8 b - - 2 52",
+    "Moves": "c7c6 f5e6 a2b2 h6h7",
+    "Rating": "1260",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "373",
+    "Themes": "advancedPawn crushing endgame master short",
+    "GameUrl": "https://lichess.org/qbqY6I9t/black#104",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HGg4R",
+    "FEN": "8/7p/p2P2pk/1p6/4q3/2P1p3/PP2Q2P/3K4 w - - 3 43",
+    "Moves": "d6d7 e4b1",
+    "Rating": "1247",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "397",
+    "Themes": "endgame master mate mateIn1 oneMove queenEndgame",
+    "GameUrl": "https://lichess.org/Ubwi4xJ9#85",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HGmpZ",
+    "FEN": "8/8/8/1p5p/4k3/5Q1P/1q3PK1/8 b - - 4 40",
+    "Moves": "e4d4 f3f6 d4d5 f6b2",
+    "Rating": "1369",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "522",
+    "Themes": "crushing endgame master queenEndgame short skewer",
+    "GameUrl": "https://lichess.org/3xSvy1ij/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HGysw",
+    "FEN": "4r1k1/ppp5/3p1Q1P/8/8/2K5/PPP1r1P1/8 b - - 6 48",
+    "Moves": "e2g2 h6h7 g8h7 f6f7 h7h6 f7e8",
+    "Rating": "1278",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "921",
+    "Themes": "advancedPawn attraction crushing endgame exposedKing fork long master queenRookEndgame",
+    "GameUrl": "https://lichess.org/8tnDOm4t/black#96",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HHE8D",
+    "FEN": "r4rk1/pp1q1pbp/2np2pB/2p2RN1/4p2Q/2NP4/PPP3PP/R5K1 b - - 0 14",
+    "Moves": "d7f5 h6g7 f5g5 h4g5",
+    "Rating": "1313",
+    "RatingDeviation": "93",
+    "Popularity": "79",
+    "NbPlays": "19",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/hITfGjH4/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "HHN5F",
+    "FEN": "8/5pkp/5Rp1/6P1/5P1P/2r3K1/8/8 w - - 1 42",
+    "Moves": "g3g4 h7h5 g5h6 g7f6",
+    "Rating": "1312",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "4337",
+    "Themes": "crushing deflection endgame master rookEndgame short",
+    "GameUrl": "https://lichess.org/aK1OY6ly#83",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HHgzk",
+    "FEN": "r2qkb1r/1bN2p1p/2np4/3Np3/4p3/2P5/PP3PPP/R2QK2R b KQkq - 2 14",
+    "Moves": "e8d7 d1g4 f7f5 g4f5",
+    "Rating": "1280",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "10670",
+    "Themes": "master mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/kJCKRnlk/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  }
+]

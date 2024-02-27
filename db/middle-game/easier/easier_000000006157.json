@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "IgCNP",
+    "FEN": "r4rk1/1p3ppp/2n1b3/1q6/p2p1Q2/PP1P2P1/1KP1N1BP/4R2R w - - 1 21",
+    "Moves": "b3b4 c6b4 a3b4 b5b4",
+    "Rating": "1171",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "1293",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/pmY8YjXZ#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IgGeT",
+    "FEN": "r4rk1/5p2/2b1p2p/pp1qB1pn/2pP4/P3PP2/2Q1B1PP/R4RK1 b - - 3 22",
+    "Moves": "f7f6 c2g6 h5g7 e5f6 f8f6 g6f6",
+    "Rating": "1163",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "6446",
+    "Themes": "advantage deflection fork long middlegame",
+    "GameUrl": "https://lichess.org/amlbIHKw/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IgHbz",
+    "FEN": "3rkn1Q/3ppp1P/p7/1p2Pbp1/8/q1P3B1/2P2PP1/1K5R b - - 0 33",
+    "Moves": "a3c3 h8f8 e8f8 h7h8q",
+    "Rating": "1050",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "6093",
+    "Themes": "advancedPawn attraction master mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/wqLXszt6/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IgIE6",
+    "FEN": "3r2k1/1bp2p1p/1p4p1/2b1p3/B3P3/2P2P2/PP2R1PP/R1Nr3K w - - 1 24",
+    "Moves": "a4d1 d8d1 e2e1 d1e1",
+    "Rating": "1168",
+    "RatingDeviation": "228",
+    "Popularity": "67",
+    "NbPlays": "12",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/p6Sd1P5S#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IgJu0",
+    "FEN": "r3k1nr/2n1ppbp/3p2p1/q1pP4/PpP1P3/3BBN2/5PPP/1R1QK2R w Kkq - 3 16",
+    "Moves": "d3c2 b4b3 e1e2 b3c2",
+    "Rating": "1134",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "1949",
+    "Themes": "advancedPawn crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/GvAuQCi7#31",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Anglo-Slav_Opening"
+  },
+  {
+    "PuzzleId": "IgKJ3",
+    "FEN": "r5k1/2p2p1p/1p4pB/r4b1q/P2p4/3P4/3K1Q2/R6R b - - 7 29",
+    "Moves": "h5h6 h1h6 a5a4 a1a4",
+    "Rating": "1080",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "382",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/XP9d7AJ8/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IgLAP",
+    "FEN": "r4rk1/1pq1bppn/p2p2P1/4p2p/2b1P2B/5P2/PPP3QP/2KR2R1 b - - 0 19",
+    "Moves": "e7h4 g6h7 g8h7 g2g7",
+    "Rating": "1093",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "701",
+    "Themes": "advancedPawn attraction discoveredAttack kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/75CEeCgN/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "IgMVM",
+    "FEN": "r1b1k2r/p1npbpp1/1p5p/2pP4/8/P1N1PN2/1P3PPP/2KR1B1R b kq - 4 12",
+    "Moves": "e8g8 d5d6 e7d6 d1d6",
+    "Rating": "1053",
+    "RatingDeviation": "227",
+    "Popularity": "0",
+    "NbPlays": "10",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/gzUokrBQ/black#24",
+    "OpeningTags": "Indian_Defense Indian_Defense_Seirawan_Attack"
+  },
+  {
+    "PuzzleId": "IgMsL",
+    "FEN": "r3r1k1/6p1/bpp1p1PB/p2p4/3P4/2N1PQ2/Pq3P2/3K2R1 b - - 0 26",
+    "Moves": "b2c3 f3f7 g8h8 f7g7",
+    "Rating": "1077",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "162",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AwVX03fj/black#52",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "yR73y",
+    "FEN": "r1r3k1/1pq1bppp/3p4/pBp5/P1Q1P3/1P4P1/1BP2n1P/2KR1R2 b - - 1 18",
+    "Moves": "f2d1 c4f7 g8h8 b2g7",
+    "Rating": "1360",
+    "RatingDeviation": "99",
+    "Popularity": "83",
+    "NbPlays": "49",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/06pSS1Sj/black#36",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  },
+  {
+    "PuzzleId": "yR78F",
+    "FEN": "1r6/kpQ5/p3p1p1/N2p3r/1q2n2p/7P/PP3PP1/2R2RK1 b - - 3 33",
+    "Moves": "b4b6 a5c6 b6c6 c1c6",
+    "Rating": "1228",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1475",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/oS7a7hx5/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yR9KK",
+    "FEN": "3r4/1b3pk1/p3pbp1/1pB4p/1P5P/P1nB1PQ1/6P1/6K1 w - - 4 34",
+    "Moves": "d3c2 c3e2 g1f2 e2g3",
+    "Rating": "1238",
+    "RatingDeviation": "115",
+    "Popularity": "79",
+    "NbPlays": "38",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/yHGiAUES#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yRA8E",
+    "FEN": "r4rk1/pbpnq1pp/1p1pp3/5p2/2PPn3/2NBPN1P/PP3PP1/R2QR1K1 w - - 0 12",
+    "Moves": "c3e4 f5e4 d3e4 b7e4",
+    "Rating": "1244",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "487",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/tJGr2WO8#23",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Queens_Knight_Variation"
+  },
+  {
+    "PuzzleId": "yRA9n",
+    "FEN": "r2qk1r1/pb1npp2/1p5p/3P4/3b3p/2N2B2/PP1N1PPP/R2Q1RK1 b q - 0 16",
+    "Moves": "d7e5 d1a4 d8d7 a4d4 e5f3 d2f3",
+    "Rating": "1279",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "515",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/d7Gw6SlC/black#32",
+    "OpeningTags": "Indian_Defense Indian_Defense_Spielmann-Indian"
+  },
+  {
+    "PuzzleId": "yRBCY",
+    "FEN": "2kr3r/2p3p1/8/1Pp1p3/2P1Qnq1/P2P3p/5PB1/R1B2R1K w - - 0 24",
+    "Moves": "g2f3 g4g2 f3g2 h3g2 h1g1 h8h1",
+    "Rating": "1374",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "914",
+    "Themes": "advancedPawn doubleCheck exposedKing fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/CrMgURts#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yRE1z",
+    "FEN": "2r1r1k1/pp3p1p/2p2np1/3pqN2/6n1/P1NP1QP1/1PP2P1P/R4RK1 w - - 0 17",
+    "Moves": "d3d4 e5f5 f3f5 g6f5",
+    "Rating": "1242",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "1294",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/lGGOPMkG#33",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "yRETf",
+    "FEN": "r1r5/pb6/1p3k2/1NppNpp1/1b1Pn3/4P3/PP3PPP/1BR2RK1 w - - 4 23",
+    "Moves": "b5d6 e4d6",
+    "Rating": "1345",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "819",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/8ZARXRtB#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yRFou",
+    "FEN": "r3k2r/p1p1bpp1/2p2n1p/8/8/1PN5/P4PPP/R1B1R1K1 b kq - 0 15",
+    "Moves": "f6d5 c3d5 c6d5 c1a3",
+    "Rating": "1209",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "917",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/aX0n70RT/black#30",
+    "OpeningTags": "Scotch_Game Scotch_Game_Goring_Gambit"
+  }
+]

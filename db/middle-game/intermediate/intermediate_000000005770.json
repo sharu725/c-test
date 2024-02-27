@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DrH86",
+    "FEN": "r1b2rk1/ppppR1pp/4n3/5p2/7N/8/PB3PPP/4R1K1 b - - 9 22",
+    "Moves": "d7d6 e1e6",
+    "Rating": "1466",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1145",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/6UmDv8wo/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DrH8b",
+    "FEN": "4r1k1/1p1q1pp1/p4n2/5r2/4pQ2/2P2N2/PP2RPPP/4R1K1 w - - 12 28",
+    "Moves": "f4e3 e4f3 e3e8 f6e8 e2e8 g8h7",
+    "Rating": "1503",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "12535",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/BLdBzjo5#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DrJCU",
+    "FEN": "3k1r2/1R6/1nB1P3/2p3p1/6P1/P3N1KP/1p6/b7 b - - 6 39",
+    "Moves": "b2b1q e6e7 d8c8 e7f8q",
+    "Rating": "1579",
+    "RatingDeviation": "80",
+    "Popularity": "75",
+    "NbPlays": "54",
+    "Themes": "advancedPawn fork mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/FBpxCluy/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DrKJ5",
+    "FEN": "1k1r3r/1p4q1/p1nRQn1p/6p1/4P3/2N5/PPP2PPP/5RK1 b - - 0 19",
+    "Moves": "d8e8 e6f6 g7f6 d6f6",
+    "Rating": "1452",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "6450",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/tPIqYM3y/black#38",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Schliemann_Defense"
+  },
+  {
+    "PuzzleId": "DrL9t",
+    "FEN": "r4r1k/1p3pp1/p1pp2qp/6n1/2BpP1QP/3P4/PPP2PP1/R4RK1 b - - 0 20",
+    "Moves": "g5e6 g4g6 f7g6 c4e6",
+    "Rating": "1547",
+    "RatingDeviation": "152",
+    "Popularity": "-100",
+    "NbPlays": "10",
+    "Themes": "capturingDefender crushing middlegame short",
+    "GameUrl": "https://lichess.org/pZnPHGFU/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DrMDJ",
+    "FEN": "2r1k2r/p4pp1/b3p3/q7/P2P4/1PBQPPPp/7P/2R2RK1 b k - 0 26",
+    "Moves": "c8c3 d3c3 a5c3 c1c3",
+    "Rating": "1422",
+    "RatingDeviation": "76",
+    "Popularity": "67",
+    "NbPlays": "112",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/4m8ufq2u/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DrMHg",
+    "FEN": "4rrk1/3b1pp1/pp1p3p/2pP2qn/1PP1PR2/P2B3P/5QPN/5R1K w - - 9 23",
+    "Moves": "f4f7 h5g3 h1g1 g3f1 f7f8 e8f8",
+    "Rating": "1408",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "3458",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/oixqkbL0#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DrMQE",
+    "FEN": "r3kb1r/ppp1q1pp/3p4/4n3/2P1Q3/2N2P1P/PP3P2/R3KB1R w KQkq - 2 14",
+    "Moves": "c3d5 e5f3 e1d1 e7e4",
+    "Rating": "1404",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "78",
+    "Themes": "crushing discoveredAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/CHkfJEww#27",
+    "OpeningTags": "English_Opening English_Opening_The_Whale"
+  },
+  {
+    "PuzzleId": "DrMdt",
+    "FEN": "r5k1/pppb2p1/3pp2p/6qP/3P2P1/2PB1rP1/PPQ5/2KR2R1 w - - 2 18",
+    "Moves": "c2d2 f3d3 d2g5 d3d1 g1d1 h6g5",
+    "Rating": "1528",
+    "RatingDeviation": "72",
+    "Popularity": "96",
+    "NbPlays": "16194",
+    "Themes": "crushing intermezzo long middlegame pin queensideAttack",
+    "GameUrl": "https://lichess.org/MMXenZQG#35",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Raphael_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "UQhbd",
+    "FEN": "r3kb1r/pp3p1p/4p1p1/3pN1B1/7Q/2q5/P1P1nPPP/R4R1K b kq - 3 16",
+    "Moves": "c3e5 h4a4 b7b5 a4b5",
+    "Rating": "2003",
+    "RatingDeviation": "93",
+    "Popularity": "79",
+    "NbPlays": "106",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/pzSIHmHV/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Torre_Attack"
+  },
+  {
+    "PuzzleId": "UQm2P",
+    "FEN": "3q1k1r/Q1R2ppp/4b3/3p4/8/8/Pr3PPP/4R1K1 b - - 1 21",
+    "Moves": "d8b8 a7c5 f8g8 c7c8 b8c8 c5c8 e6c8 e1e8",
+    "Rating": "2204",
+    "RatingDeviation": "83",
+    "Popularity": "90",
+    "NbPlays": "2654",
+    "Themes": "backRankMate mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/gw8mfozC/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UQtA9",
+    "FEN": "r4k2/1p6/p1n3Q1/3pr3/3q3P/P1N5/1P4P1/5R1K b - - 2 26",
+    "Moves": "f8e7 f1f7 e7d8 g6d6 d8e8 f7f8",
+    "Rating": "2067",
+    "RatingDeviation": "87",
+    "Popularity": "40",
+    "NbPlays": "35",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/IkZdaFtF/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UR9Tp",
+    "FEN": "r4rk1/ppq3pp/2p3p1/3p2B1/8/2NB2nP/PPPQR1Pb/4R2K w - - 6 20",
+    "Moves": "h1h2 g3f1 h2g1 c7h2",
+    "Rating": "2038",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "3372",
+    "Themes": "doubleCheck fork master mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/HI2DT1Lu#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "URO04",
+    "FEN": "rnbqk1nr/p1p1pQb1/1p4p1/6p1/3P4/2NBP3/PP3PPP/R3K2R b KQkq - 1 11",
+    "Moves": "e8d7 f7d5 d7e8 d3g6 e8f8 d5d8",
+    "Rating": "2222",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "4821",
+    "Themes": "deflection fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/IFOB1gk8/black#22",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Scandinavian_Defense"
+  },
+  {
+    "PuzzleId": "URiv6",
+    "FEN": "4k2r/1p2n1pp/p7/8/8/bB1b1PB1/Pr1N2PP/2KRR3 w k - 4 22",
+    "Moves": "d2c4 b2c2 c1b1 c2c1",
+    "Rating": "2145",
+    "RatingDeviation": "81",
+    "Popularity": "75",
+    "NbPlays": "128",
+    "Themes": "doubleCheck mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/MR7Z7FXR#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "USKPL",
+    "FEN": "r1b2k1r/p1pp2p1/7p/2n1N3/1pBn3q/2K5/PPPP2PP/RNBQ3R w - - 0 14",
+    "Moves": "c3b4 a7a5 b4a3 d4b5 c4b5 h4b4",
+    "Rating": "2388",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "647",
+    "Themes": "clearance long mate mateIn3 opening sacrifice",
+    "GameUrl": "https://lichess.org/9qLqXvsB#27",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "USX4M",
+    "FEN": "8/8/2k2n1P/2p5/PpK1p3/1P6/3B4/8 w - - 0 41",
+    "Moves": "d2g5 f6d7 a4a5 d7e5",
+    "Rating": "2025",
+    "RatingDeviation": "138",
+    "Popularity": "81",
+    "NbPlays": "31",
+    "Themes": "endgame mate mateIn2 quietMove short",
+    "GameUrl": "https://lichess.org/4A4Lh3qe#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "USZAB",
+    "FEN": "1kr5/pp4p1/8/4N3/4P1Q1/b1P3P1/qP1R4/2K5 w - - 0 29",
+    "Moves": "b2a3 a2a1 c1c2 c8c3",
+    "Rating": "2152",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "549",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/TiievRth#57",
+    "OpeningTags": ""
+  }
+]

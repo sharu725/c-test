@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "atmC3",
+    "FEN": "1r4k1/2p2p1b/pr5P/6p1/2PP1q2/1PN1R3/B4P2/2K1R3 b - - 1 35",
+    "Moves": "f4f2 e3e8 b8e8 e1e8",
+    "Rating": "594",
+    "RatingDeviation": "98",
+    "Popularity": "89",
+    "NbPlays": "343",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/iwcr6dnf/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "atmGa",
+    "FEN": "r1b2rk1/5pB1/p2p1q2/1pp1nN2/4P3/2P4Q/PP3PPP/R3R1K1 b - - 0 18",
+    "Moves": "c8f5 h3h8",
+    "Rating": "756",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "808",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/faTufvIf/black#36",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "atnJh",
+    "FEN": "3rk3/3r1B2/5Q2/p1q1p3/2p1P3/P1P4P/1P4P1/5R1K b - - 0 33",
+    "Moves": "d7f7 f6f7",
+    "Rating": "914",
+    "RatingDeviation": "83",
+    "Popularity": "81",
+    "NbPlays": "286",
+    "Themes": "attackingF2F7 endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/MCWPD1Mn/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "atpE4",
+    "FEN": "6k1/1pp2p1p/p1p2P2/6Pp/6r1/2P4K/PP1R4/8 b - - 5 37",
+    "Moves": "g4g5 d2d8",
+    "Rating": "652",
+    "RatingDeviation": "97",
+    "Popularity": "97",
+    "NbPlays": "541",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/FkbH6DlM/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "atpMv",
+    "FEN": "3bq3/1p4k1/2p1b1r1/P2pP1p1/1B1Pn1B1/4P2Q/4N3/6KR b - - 7 37",
+    "Moves": "e6g4 h3h7",
+    "Rating": "870",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "610",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/i5B6WC4m/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "atpwv",
+    "FEN": "8/1Q6/1p2pk1p/p1r3p1/P2RK3/2r5/5PPP/8 w - - 4 43",
+    "Moves": "b7b6 c5e5",
+    "Rating": "685",
+    "RatingDeviation": "79",
+    "Popularity": "100",
+    "NbPlays": "368",
+    "Themes": "endgame mate mateIn1 oneMove queenRookEndgame",
+    "GameUrl": "https://lichess.org/ws1kEhtw#85",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "atqRr",
+    "FEN": "5Qk1/5ppp/2p5/5b2/8/5N2/q2B1PPP/4R1K1 b - - 0 20",
+    "Moves": "g8f8 d2b4 c6c5 b4c5 f8g8 e1e8",
+    "Rating": "978",
+    "RatingDeviation": "82",
+    "Popularity": "94",
+    "NbPlays": "1242",
+    "Themes": "backRankMate endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/V8I1eXaH/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "atrQF",
+    "FEN": "1r2r1k1/1b5p/p1pp2p1/8/1PP5/P3q3/1Q1RB1PP/3R3K w - - 2 27",
+    "Moves": "e2f3 e3e1 d1e1 e8e1",
+    "Rating": "920",
+    "RatingDeviation": "96",
+    "Popularity": "90",
+    "NbPlays": "395",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/bQRWe9QI#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "atryo",
+    "FEN": "8/5R2/6p1/6k1/3brPP1/6KP/8/8 b - - 0 43",
+    "Moves": "g5h6 g4g5 h6h5 f7h7",
+    "Rating": "945",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "105",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/I2OiizeU/black#86",
+    "OpeningTags": ""
+  }
+]

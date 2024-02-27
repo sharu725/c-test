@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BC3XN",
+    "FEN": "2r4r/1k1p1pp1/p3p3/Qp5p/1N1q2b1/6P1/PPP5/2KR2R1 b - - 1 25",
+    "Moves": "d4c5 d1d7 c8c7 d7c7 c5c7 a5a6",
+    "Rating": "2414",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "167",
+    "Themes": "crushing fork long master middlegame",
+    "GameUrl": "https://lichess.org/5kMrmsmA/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BC3Zd",
+    "FEN": "1r4k1/5p2/5Qp1/3qbn1p/4N2P/3P2P1/rPP2P2/1RBKR3 w - - 0 27",
+    "Moves": "c1g5 g8f8 g5h6 f5h6",
+    "Rating": "2782",
+    "RatingDeviation": "122",
+    "Popularity": "90",
+    "NbPlays": "253",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/95UtL875#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BC6Zp",
+    "FEN": "1r1qr1k1/p4pbN/3pb1n1/2p4N/2p1B3/1P6/P2Q1PP1/2B2K1R b - - 1 23",
+    "Moves": "c4c3 d2c2 e6b3 a2b3",
+    "Rating": "2660",
+    "RatingDeviation": "101",
+    "Popularity": "90",
+    "NbPlays": "590",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/QmqTYcmw/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BCAra",
+    "FEN": "6k1/1p1q1p2/4r2p/B5p1/7b/1N3Q1b/PPP5/1K4R1 b - - 4 30",
+    "Moves": "g5g4 f3h3 e6e1 a5e1 d7d1 b3c1 h4g5 e1f2 d1g1 f2g1",
+    "Rating": "2521",
+    "RatingDeviation": "83",
+    "Popularity": "93",
+    "NbPlays": "2409",
+    "Themes": "advantage middlegame pin quietMove veryLong",
+    "GameUrl": "https://lichess.org/UeOLXodL/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BCCXL",
+    "FEN": "rnb4k/1r6/p5Rp/7P/4Nq2/3Q4/PPK5/R7 b - - 2 29",
+    "Moves": "b7c7 c2b3 b8c6 a1f1 c7d7 d3c3 c6d4 c3d4 d7d4 f1f4",
+    "Rating": "2695",
+    "RatingDeviation": "94",
+    "Popularity": "94",
+    "NbPlays": "86",
+    "Themes": "crushing defensiveMove exposedKing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/3FMg7wjl/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BCDrS",
+    "FEN": "1k1r2r1/pnpq1p2/Qp6/2PPp3/4P3/PN2n1Pp/7P/R3BRK1 b - - 0 30",
+    "Moves": "b6c5 a1b1 g8g6 a6e2 g6b6 e2e3",
+    "Rating": "2417",
+    "RatingDeviation": "125",
+    "Popularity": "83",
+    "NbPlays": "20",
+    "Themes": "crushing long middlegame quietMove",
+    "GameUrl": "https://lichess.org/2iDqsiAS/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BCFyb",
+    "FEN": "1r2r1k1/p1R3pp/2p2p2/3p4/3P4/q1P2N2/2QK1PPP/1R6 w - - 4 20",
+    "Moves": "f3h4 b8b1 c2b1 a3a6 c7g7 g8g7",
+    "Rating": "2548",
+    "RatingDeviation": "81",
+    "Popularity": "83",
+    "NbPlays": "60",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/9QHpgq8h#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BCILv",
+    "FEN": "2r1kb1r/pp3pp1/1q2pn1p/n2pNb2/1P1P1B2/4P3/3N1PPP/R1Q1KB1R b KQk - 0 12",
+    "Moves": "f8b4 c1c8 e8e7 c8h8 b4d2 e1e2",
+    "Rating": "2419",
+    "RatingDeviation": "79",
+    "Popularity": "85",
+    "NbPlays": "147",
+    "Themes": "advantage hangingPiece long middlegame skewer",
+    "GameUrl": "https://lichess.org/tDEw2Ban/black#24",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Steinitz_Countergambit"
+  },
+  {
+    "PuzzleId": "BCK9K",
+    "FEN": "2r5/4bkpb/p3Q2p/1pqp1P2/3p2P1/1P1P3P/1P5B/5RK1 b - - 1 30",
+    "Moves": "f7f8 f5f6 g7f6 h2d6 c5d6 f1f6 f8e8 e6f7 e8d8 f6d6",
+    "Rating": "2772",
+    "RatingDeviation": "99",
+    "Popularity": "91",
+    "NbPlays": "986",
+    "Themes": "advantage discoveredAttack fork intermezzo middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/DC85mmUs/black#60",
+    "OpeningTags": ""
+  }
+]

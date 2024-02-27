@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "vllUL",
+    "FEN": "r1b1k1nr/1p1pnppp/p2Pq3/8/8/5N2/PPQ2PPP/2R1R1K1 b kq - 5 16",
+    "Moves": "e6d6 c2c8 a8c8 c1c8",
+    "Rating": "1623",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1122",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/OMDi0T0i/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Accepted"
+  },
+  {
+    "PuzzleId": "vlm2j",
+    "FEN": "r2r2k1/2p3p1/1pQ4p/p3qp2/4p3/2Pn2NP/PP2RPP1/R5K1 b - - 3 24",
+    "Moves": "d8f8 c6c4 g8h7 c4d3",
+    "Rating": "1739",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1533",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/2rUvkj2m/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vlnVR",
+    "FEN": "rn5Q/1p1pkppp/p3p3/b2n4/3P4/4PNB1/Pq1N1PPP/R3KB1R w KQ - 0 12",
+    "Moves": "a1b1 b2b1 e1e2 d5c3",
+    "Rating": "1784",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "96",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/yIppvwFT#23",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "vlpkb",
+    "FEN": "r5k1/pp1nRpp1/2p2n1p/3p1q2/3Q4/1P6/PB4R1/6K1 b - - 3 27",
+    "Moves": "g7g5 e7d7 f5b1 g1h2",
+    "Rating": "1613",
+    "RatingDeviation": "88",
+    "Popularity": "62",
+    "NbPlays": "42",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/o2aP8EkI/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vlr8d",
+    "FEN": "r1b1r1k1/1p3ppp/p7/3p4/3NPpn1/2q3PP/P1P1QPB1/2KR3R w - - 0 16",
+    "Moves": "h3g4 c3a1 c1d2 a1d4",
+    "Rating": "1671",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "2529",
+    "Themes": "advantage interference middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/8gWIca8m#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_OKelly_Variation"
+  },
+  {
+    "PuzzleId": "vlsVz",
+    "FEN": "rnb2rk1/pp5R/2p1pqp1/6b1/3PQB2/2PB2P1/PP3P2/R3K1N1 w Q - 1 15",
+    "Moves": "f4e5 f6f2 e1d1 f2d2",
+    "Rating": "1654",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "1671",
+    "Themes": "attackingF2F7 fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/HD4pyXi9#29",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "vlvGh",
+    "FEN": "3q2k1/pp3ppp/3p4/3Nr1n1/1B1p4/3Q4/PP3PPP/2R3K1 w - - 1 21",
+    "Moves": "d3d4 g5f3 g2f3 d8g5 d4g4 g5c1",
+    "Rating": "1776",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "11497",
+    "Themes": "clearance crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/sj2FeRP6#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vlxAy",
+    "FEN": "2r5/1b3Bk1/pn2p3/1p1pP1NR/3P4/Pn6/1P2N1r1/3KR3 w - - 6 26",
+    "Moves": "f7e6 c8c1 e2c1 g2d2",
+    "Rating": "1775",
+    "RatingDeviation": "77",
+    "Popularity": "76",
+    "NbPlays": "53",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/aUsr2vrO#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vlzeW",
+    "FEN": "r2q1rk1/2p2ppp/p1pb4/7b/4P2n/2P1BN1P/PP1N1PP1/R2Q1RK1 w - - 1 13",
+    "Moves": "e3g5 h4f3 d2f3 h5f3 g5d8 f3d1 d8c7 d6c7",
+    "Rating": "1641",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "3633",
+    "Themes": "advantage kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/vZ1I5JBt#25",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  }
+]

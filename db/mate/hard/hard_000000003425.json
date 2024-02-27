@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "d1udc",
+    "FEN": "r5r1/pp3k2/3Bp3/8/b3B1P1/2P5/PP1b2K1/5R2 b - - 1 30",
+    "Moves": "f7g7 d6e5 g7h6 f1h1 h6g5 h1h5 g5g4 e4f3",
+    "Rating": "1751",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "2927",
+    "Themes": "exposedKing mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/GuPpkBzo/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "d1zr4",
+    "FEN": "3k2r1/p1R5/5nr1/1N2p2p/1B2Pp2/5n2/PP3bP1/5N1K b - - 2 30",
+    "Moves": "g6g2 b4e7 d8e8 b5d6",
+    "Rating": "1607",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "3705",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/gLI5CFD8/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "d21L7",
+    "FEN": "5rk1/2p5/p2p2p1/1p1Pb1Pp/4P2P/2N1Rp1K/PPR2Pr1/8 w - - 5 34",
+    "Moves": "e3f3 g2h2",
+    "Rating": "1691",
+    "RatingDeviation": "165",
+    "Popularity": "35",
+    "NbPlays": "70",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/aMmaWAGy#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "d24Qb",
+    "FEN": "r1bbk2r/pppp1ppq/4nn1p/3NPN2/2B5/2PP1Q2/PP3RPP/R5K1 b kq - 0 16",
+    "Moves": "f6d5 f5d6 c7d6 f3f7",
+    "Rating": "1759",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "5411",
+    "Themes": "attackingF2F7 discoveredAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/huYu73s5/black#32",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Other_variations"
+  },
+  {
+    "PuzzleId": "d26gn",
+    "FEN": "4n1k1/1r2prbQ/p3p2B/1pp4q/8/2P5/PPB2PPP/4R1K1 b - - 1 25",
+    "Moves": "g8f8 h7h8",
+    "Rating": "1677",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "1914",
+    "Themes": "master mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/uICS58BF/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "d293h",
+    "FEN": "3R1k1r/ppp1rppp/2n5/8/5P2/2B1n1P1/PP2NK1P/3R4 b - - 7 19",
+    "Moves": "c6d8 d1d8 e7e8 c3b4 c7c5 b4c5 f8g8 d8e8",
+    "Rating": "1732",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "1362",
+    "Themes": "backRankMate deflection mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/Ro32q3P1/black#38",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit"
+  },
+  {
+    "PuzzleId": "d2Bq5",
+    "FEN": "rn1q1rk1/p1p3pp/1p1p4/3P1p2/2bQp3/1NB1PP2/PP4PP/R3R1K1 b - - 1 16",
+    "Moves": "c4b3 d4g7",
+    "Rating": "1673",
+    "RatingDeviation": "199",
+    "Popularity": "-15",
+    "NbPlays": "38",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/fnB7MT3T/black#32",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "d2H1y",
+    "FEN": "2k1r2r/2p1bnRp/p1n5/1p1N1b2/8/PB1P1p1P/1PP2P2/R1B1K3 w Q - 1 18",
+    "Moves": "g7f7 e7b4 e1d1 e8e1",
+    "Rating": "1698",
+    "RatingDeviation": "80",
+    "Popularity": "81",
+    "NbPlays": "113",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/VWlz59gm#35",
+    "OpeningTags": "Italian_Game Italian_Game_Rousseau_Gambit"
+  },
+  {
+    "PuzzleId": "d2HQW",
+    "FEN": "2R5/1p3Kpk/7p/4NP2/8/p5r1/1r6/8 b - - 0 43",
+    "Moves": "a3a2 e5g6 h6h5 c8h8",
+    "Rating": "1777",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "7508",
+    "Themes": "endgame hookMate mate mateIn2 quietMove short",
+    "GameUrl": "https://lichess.org/V4O5quNp/black#86",
+    "OpeningTags": ""
+  }
+]

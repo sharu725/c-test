@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "AS1rb",
+    "FEN": "Q1b2rk1/5ppp/1p6/1B1pb2q/8/8/P4PPP/2R1R2K w - - 2 24",
+    "Moves": "h2h3 c8h3 a8f8 g8f8 e1e5 h5e5",
+    "Rating": "1588",
+    "RatingDeviation": "76",
+    "Popularity": "80",
+    "NbPlays": "62",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/aFWUoiJu#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AS3Z7",
+    "FEN": "r4k1r/pp2q3/5pQp/2pn1P2/3p1P2/2PBn1RP/PP1N2P1/R6K w - - 6 26",
+    "Moves": "d2e4 d5f4 e4c5 f4g6",
+    "Rating": "1447",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "90",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/1Xy8aibF#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AS3uc",
+    "FEN": "2k3r1/ppp5/4p2p/3qn3/3p2r1/3P4/PPPN1RPQ/4R1K1 b - - 3 23",
+    "Moves": "h6h5 e1e5 g4g2 f2g2 g8g2 h2g2",
+    "Rating": "1593",
+    "RatingDeviation": "74",
+    "Popularity": "83",
+    "NbPlays": "187",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/YJloeV7o/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AS42a",
+    "FEN": "4Rbk1/2q2pp1/6B1/1p1p2Nn/1PnP4/2P3P1/r4PKP/2BR4 b - - 0 31",
+    "Moves": "c4d6 g6h7 g8h8 e8f8",
+    "Rating": "1509",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "375",
+    "Themes": "deflection kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/pXwTLDGR/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AS45H",
+    "FEN": "4rr1k/2qb3P/p2p2Q1/1p1P4/2p5/8/PPP2P2/2K3RR b - - 0 29",
+    "Moves": "d7f5 g6g8 f8g8 h7g8q",
+    "Rating": "1452",
+    "RatingDeviation": "87",
+    "Popularity": "85",
+    "NbPlays": "58",
+    "Themes": "advancedPawn doubleCheck mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/8l38jfHB/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AS4Nx",
+    "FEN": "2kr3r/ppp3pp/6q1/2bp1p2/3Nn3/P1B1P2P/1PP2PP1/R2Q1RK1 w - - 0 16",
+    "Moves": "b2b4 e4c3 d1d3 c5d4",
+    "Rating": "1512",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "192",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/rnmYMbvr#31",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "AS4pe",
+    "FEN": "2kr1b1r/1pp2pp1/p1n5/4q3/P3B3/3PB3/1PP2PPP/R2Q1RK1 w - - 1 16",
+    "Moves": "e4c6 e5h2",
+    "Rating": "1450",
+    "RatingDeviation": "86",
+    "Popularity": "47",
+    "NbPlays": "147",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/XsgeOmez#31",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "AS4zg",
+    "FEN": "1rr5/5qk1/5p2/ppnNp1p1/6Qn/2P1N3/PP3R2/2K4B b - - 1 36",
+    "Moves": "b5b4 f2f6 f7f6 d5f6",
+    "Rating": "1495",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2464",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/55MdmMBX/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AS50N",
+    "FEN": "3rn1k1/1b2bqpp/pp1p4/2p1nPPQ/P3P3/2NPB2P/1PP5/R4RK1 w - - 3 19",
+    "Moves": "g5g6 h7g6 f5g6 f7g6 h5g6 e5g6",
+    "Rating": "1595",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "256",
+    "Themes": "advantage exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/z6lXhcHF#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  }
+]

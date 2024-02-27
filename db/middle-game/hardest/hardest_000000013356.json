@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "RhF3T",
+    "FEN": "2r1k2r/1p1b1Bpp/pq1p4/5n2/8/1NNQ4/PPP3PP/2K2R2 b k - 0 19",
+    "Moves": "e8f7 f1f5 d7f5 d3f5 f7e8 f5c8",
+    "Rating": "2060",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "420",
+    "Themes": "crushing interference long middlegame",
+    "GameUrl": "https://lichess.org/vgqrAMoE/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "RhGoB",
+    "FEN": "2kr1r2/ppp4p/3p1p1n/4p1p1/1PB1P2q/3PNP2/P1P1KPQ1/R7 b - - 2 18",
+    "Moves": "h4h5 a1h1 h5g6 g2h3 f6f5 h3h6",
+    "Rating": "2034",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "1892",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/jvx9L7GE/black#36",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Busch-Gass_Gambit"
+  },
+  {
+    "PuzzleId": "RhHZi",
+    "FEN": "r1bqk2r/pp2bppp/2p1pn2/3n2B1/2BPN3/5Q2/PPP2PPP/R3K1NR w KQkq - 3 9",
+    "Moves": "g1e2 f6e4 g5e7 d8e7 f3e4 e7b4",
+    "Rating": "2264",
+    "RatingDeviation": "79",
+    "Popularity": "99",
+    "NbPlays": "181",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/tdjeue3m#17",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "RhHyb",
+    "FEN": "r3k2r/p3nppp/1pn1p3/3pP3/1q6/P4N2/2Q1BPPP/R1R3K1 b kq - 0 17",
+    "Moves": "b4e4 e2b5 a8c8 c2e4 d5e4 f3d4 a7a6 b5c6",
+    "Rating": "2252",
+    "RatingDeviation": "82",
+    "Popularity": "81",
+    "NbPlays": "31",
+    "Themes": "advantage middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/mNoDV9Hj/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "RhI1a",
+    "FEN": "4r1k1/npp2pp1/1b1p4/p1r2Pqp/2PB1R2/P2QP2P/6B1/R6K b - - 3 27",
+    "Moves": "a7c6 g2c6 b7c6 a1g1",
+    "Rating": "2228",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "60",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/8x87EUnz/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RhK0o",
+    "FEN": "2r2rk1/5p1p/p2p4/1pqP1N2/n3pP2/R1P1P1P1/P2Q3P/5RK1 b - - 0 25",
+    "Moves": "c5a3 d2d4 f7f6 d4a7 f8f7 f5h6",
+    "Rating": "2338",
+    "RatingDeviation": "78",
+    "Popularity": "77",
+    "NbPlays": "60",
+    "Themes": "crushing long master middlegame",
+    "GameUrl": "https://lichess.org/0PCPPJiW/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RhKNB",
+    "FEN": "3q3k/6pp/1bP2p2/5P2/2QNp3/3nB3/r5PP/5RK1 b - - 2 31",
+    "Moves": "a2e2 c6c7 d8c7 c4c7 b6c7 d4e2",
+    "Rating": "2165",
+    "RatingDeviation": "81",
+    "Popularity": "84",
+    "NbPlays": "77",
+    "Themes": "advancedPawn advantage long middlegame",
+    "GameUrl": "https://lichess.org/6DVyJFBp/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RhLQj",
+    "FEN": "3k4/p1q1n2p/8/1R4P1/3Q4/3P3P/2r2r2/R5K1 b - - 0 43",
+    "Moves": "c7d7 d4h8 d7e8 b5b8",
+    "Rating": "2123",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "202",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/D7bsRNnL/black#86",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RhMX9",
+    "FEN": "4r1k1/1p3rp1/3p2q1/2bNp2p/p3P1nP/2P3PN/PP2QP2/4RRK1 w - - 0 24",
+    "Moves": "h3g5 f7f2 f1f2 c5f2 g1g2 f2e1",
+    "Rating": "2067",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "1003",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/SfpclCt2#47",
+    "OpeningTags": ""
+  }
+]

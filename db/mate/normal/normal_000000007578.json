@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "dwPyS",
+    "FEN": "4Q3/7k/4p2p/P2pP3/3P2p1/q4NP1/5PKP/3n1B2 w - - 7 36",
+    "Moves": "e8e6 a3f3 g2g1 f3f2 g1h1 f2f1",
+    "Rating": "1321",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2393",
+    "Themes": "deflection endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/hRBqv1yM#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dwQRK",
+    "FEN": "N1b2k1r/pp1p1ppp/4pq2/8/1b1n4/2n2Q2/PPPB1PPP/R3KB1R w KQ - 2 12",
+    "Moves": "f3f6 d4c2",
+    "Rating": "1256",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "1510",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/jevF2aCE#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Four_Knights_Variation"
+  },
+  {
+    "PuzzleId": "dwT93",
+    "FEN": "r3k2r/ppp3pp/3bpn2/4q3/1n1N4/2N5/PPP1QPPP/R1B2RK1 w kq - 6 13",
+    "Moves": "c1e3 e5h2",
+    "Rating": "1306",
+    "RatingDeviation": "117",
+    "Popularity": "73",
+    "NbPlays": "38",
+    "Themes": "kingsideAttack master masterVsMaster mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/kHJe5MzI#25",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "dwWpm",
+    "FEN": "6rk/2p2prn/n2p4/p2Pp3/N1P1Pb1N/P5PR/5P2/R5K1 b - - 0 31",
+    "Moves": "h7g5 h4g6",
+    "Rating": "1273",
+    "RatingDeviation": "236",
+    "Popularity": "-100",
+    "NbPlays": "10",
+    "Themes": "doubleCheck mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/EVzdH3St/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dwYqg",
+    "FEN": "8/6p1/4p1k1/3p1p2/P2P4/1Q4pr/5qP1/6RK w - - 0 44",
+    "Moves": "g2h3 f2h2",
+    "Rating": "1228",
+    "RatingDeviation": "216",
+    "Popularity": "83",
+    "NbPlays": "27",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/Qn5Wk6IV#87",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dwen8",
+    "FEN": "rn4k1/pppb2pp/3q4/8/4Q1n1/5r2/PB3PPP/RN3RK1 w - - 0 15",
+    "Moves": "e4f3 d6h2",
+    "Rating": "1325",
+    "RatingDeviation": "102",
+    "Popularity": "50",
+    "NbPlays": "50",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Rtz9wAEY#29",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Urusov_Gambit"
+  },
+  {
+    "PuzzleId": "dwgAn",
+    "FEN": "8/1QP5/p2b3k/P3q3/4P2p/7P/8/7K w - - 3 47",
+    "Moves": "c7c8q e5h2",
+    "Rating": "1333",
+    "RatingDeviation": "351",
+    "Popularity": "69",
+    "NbPlays": "10",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/OTGPU3EN#93",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dwgbI",
+    "FEN": "5r1k/pp4p1/2b1Q3/7p/4Bq2/8/PP4PP/3R2K1 w - - 1 28",
+    "Moves": "e4c6 f4f2 g1h1 f2f1 d1f1 f8f1",
+    "Rating": "1331",
+    "RatingDeviation": "76",
+    "Popularity": "76",
+    "NbPlays": "192",
+    "Themes": "backRankMate endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/AKPXdrDB#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dwgo1",
+    "FEN": "2r3k1/pb3p2/4pn2/1p2N2p/2P2Pp1/PQ1B3n/6PP/2RR2qK w - - 6 27",
+    "Moves": "d1g1 h3f2",
+    "Rating": "1286",
+    "RatingDeviation": "302",
+    "Popularity": "43",
+    "NbPlays": "9",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/wiMc74b1#53",
+    "OpeningTags": ""
+  }
+]

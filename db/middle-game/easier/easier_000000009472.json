@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SlRGb",
+    "FEN": "3r2k1/5pb1/2N3p1/3b4/Q3p3/P3B1Pq/5P2/5RK1 b - - 0 27",
+    "Moves": "d8f8 c6e7 g8h8 e7d5",
+    "Rating": "1028",
+    "RatingDeviation": "82",
+    "Popularity": "83",
+    "NbPlays": "152",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/tM7MxWX3/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SlXHx",
+    "FEN": "r1b1qrk1/p3bp1p/2p3p1/3nB2Q/8/3B4/PPPN2PP/R4RK1 w - - 0 14",
+    "Moves": "h5h6 e7c5 g1h1 e8e5",
+    "Rating": "1069",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "452",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/sUyoJ5kh#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Open"
+  },
+  {
+    "PuzzleId": "SlY2i",
+    "FEN": "r2nkb2/pp2n3/4P3/3pBp1Q/2pPb3/2P3P1/P7/qN2K3 b q - 1 25",
+    "Moves": "d8f7 h5f7 e8d8 f7f8",
+    "Rating": "1152",
+    "RatingDeviation": "80",
+    "Popularity": "56",
+    "NbPlays": "80",
+    "Themes": "attackingF2F7 deflection mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/P3UO5B7r/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SlZYU",
+    "FEN": "4r1k1/pppr1ppp/1n6/q1P5/3n4/1Q2BB1P/P4PP1/2R1R1K1 w - - 0 22",
+    "Moves": "e3d4 e8e1 c1e1 a5e1",
+    "Rating": "1136",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "7997",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/KqSwL2eY#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SlaVt",
+    "FEN": "r4rk1/p4ppp/1p6/1Q1Bq3/8/P5P1/2b1PP1P/R4RK1 b - - 0 19",
+    "Moves": "c2f5 d5f7 f8f7 b5e5",
+    "Rating": "1055",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "2269",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/Z7aBWdOg/black#38",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "SlbSb",
+    "FEN": "r1bq2k1/pp3pp1/3p1n1p/2p5/4N3/2PQ4/PPB2PPP/4R1K1 b - - 2 18",
+    "Moves": "c8f5 e4f6 d8f6 d3f5 f6f5 c2f5",
+    "Rating": "1186",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "426",
+    "Themes": "advantage discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/EW7Xyqf0/black#36",
+    "OpeningTags": "Italian_Game Italian_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "SldkS",
+    "FEN": "r4rk1/1Qp3p1/p2p2qp/P3p3/1PP3P1/1N1n4/5PP1/R4RK1 b - - 0 25",
+    "Moves": "g6g4 b7d5 g8h8 d5d3",
+    "Rating": "1114",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "6457",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/WROFfytA/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SlfeL",
+    "FEN": "rn2kb1r/pp2p1p1/2p1N3/3q1p2/3P4/2PQ2Pp/PP2bP1P/R1B2RK1 w kq - 2 15",
+    "Moves": "d3e2 d5g2",
+    "Rating": "1164",
+    "RatingDeviation": "110",
+    "Popularity": "-9",
+    "NbPlays": "52",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/O9x608Xq#29",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "Slhu1",
+    "FEN": "rn2kb1r/2p2ppp/p7/3Ppb2/PpB1n2q/5P2/1P2Q1PP/RNB2KNR b kq - 2 11",
+    "Moves": "e4g3 h2g3 h4h1 e2e5",
+    "Rating": "1019",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "198",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/quK04mwn/black#22",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations"
+  }
+]

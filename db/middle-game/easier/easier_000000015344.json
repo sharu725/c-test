@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "keGfR",
+    "FEN": "1n2r1k1/rq1N2pp/2p1Pp2/1bQp1P2/8/P7/1P1N2PP/2KRR3 b - - 4 28",
+    "Moves": "b8d7 e6d7 b7d7 e1e8 d7e8 c5a7",
+    "Rating": "1119",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "1836",
+    "Themes": "advancedPawn crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/3K3bYmK4/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "keGsk",
+    "FEN": "r4r1k/1b1p1pbp/pp2p1n1/4Pp1Q/5q1N/2N4R/PPB3PP/4R1K1 b - - 1 21",
+    "Moves": "g6h4 h3h4 f4h6 h5h6 g7h6 h4h6",
+    "Rating": "1108",
+    "RatingDeviation": "83",
+    "Popularity": "88",
+    "NbPlays": "630",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/GFMvSIrJ/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "keK6T",
+    "FEN": "1r1r4/1bq3kp/p1npBpn1/1p4p1/3NP3/P3Q1P1/NP3P1P/2R3K1 b - - 8 26",
+    "Moves": "c7e7 d4f5 g7h8 f5e7",
+    "Rating": "1092",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "180",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/7hzbfNVw/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "keNA1",
+    "FEN": "1rb2rk1/p3qpp1/2n1p2p/6P1/2p1N2P/4PN2/P1Q2P2/K2R2R1 b - - 3 18",
+    "Moves": "h6h5 e4f6 g7f6 g5f6",
+    "Rating": "1196",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "3120",
+    "Themes": "crushing discoveredAttack kingsideAttack master middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/d2TVwVgY/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Miles_Variation"
+  },
+  {
+    "PuzzleId": "keNGS",
+    "FEN": "rn1qkb1r/pp3ppp/2p1pn2/6B1/2B3b1/2NP2Q1/PPP1NPPP/R3K2R b KQkq - 2 9",
+    "Moves": "f8d6 g5f6 g7f6 g3g4",
+    "Rating": "1198",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1145",
+    "Themes": "capturingDefender crushing middlegame short",
+    "GameUrl": "https://lichess.org/RG6tujuQ/black#18",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "keQBS",
+    "FEN": "5qk1/1Q3pp1/3p1n2/2pBb1Bp/2P4P/5PP1/1P4RK/3r4 w - - 8 27",
+    "Moves": "f3f4 f6g4 h2h3 d1h1 g2h2 h1h2",
+    "Rating": "1097",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "315",
+    "Themes": "hookMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/gsSU78To#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "keTPG",
+    "FEN": "3r1r2/pk3BQ1/1pb5/2p1B3/q1P5/8/2P2PPP/3R2K1 w - - 1 30",
+    "Moves": "d1a1 a4a1 e5a1 d8d1",
+    "Rating": "1034",
+    "RatingDeviation": "79",
+    "Popularity": "96",
+    "NbPlays": "6919",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/dOcXcOFy#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "keTWT",
+    "FEN": "r1bq1rk1/p2nbppp/1p2p3/2p1P3/2P1Q3/2NB1N2/PP3PPP/R3K2R b KQ - 1 12",
+    "Moves": "a8b8 e4h7",
+    "Rating": "1110",
+    "RatingDeviation": "196",
+    "Popularity": "33",
+    "NbPlays": "7",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/TdvzKwxx/black#24",
+    "OpeningTags": "Indian_Defense Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "keUQ5",
+    "FEN": "r2qkb1r/pp3pp1/1n2p2p/3pP3/1n1P1P2/2N1BN1P/PPQ3P1/R3K2R w KQkq - 9 15",
+    "Moves": "c2a4 b6a4",
+    "Rating": "1070",
+    "RatingDeviation": "423",
+    "Popularity": "-100",
+    "NbPlays": "1",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/QaaNVrnW#29",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Oqyrd",
+    "FEN": "1qr2rk1/1p2bppp/p1n1b3/2NpPp2/QP1P4/P3BN2/5PPP/2R2RK1 w - - 14 19",
+    "Moves": "c5a6 b8a7 b4b5 c6b8 a6c5 e7c5 a4a7 c5a7",
+    "Rating": "2377",
+    "RatingDeviation": "79",
+    "Popularity": "74",
+    "NbPlays": "62",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/htcT3PgS#37",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "Or0mQ",
+    "FEN": "r4rk1/pp3ppp/8/3NNR2/4n3/6P1/PPP1Kb1q/R1BQ4 w - - 0 17",
+    "Moves": "c1f4 f2g1 e2d3 e4f2 d3d2 f2d1",
+    "Rating": "2311",
+    "RatingDeviation": "138",
+    "Popularity": "80",
+    "NbPlays": "15",
+    "Themes": "crushing discoveredAttack exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/yQMIrBTt#33",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "Or1lN",
+    "FEN": "r5k1/4bpp1/2q1bn1p/2pp4/2P4B/1B3Q1P/1P1N1PP1/4R1K1 b - - 0 20",
+    "Moves": "a8e8 h4f6 e7f6 c4d5 e6d5 e1e8",
+    "Rating": "2050",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "680",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/meR0iMn9/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Or209",
+    "FEN": "r6r/pp1R1pk1/2p3p1/4q3/4Pp2/1QP2PbB/PP4K1/5R2 b - - 3 26",
+    "Moves": "e5f6 e4e5 f6e5 b3f7 g7h6 d7e7 e5e7 f7e7",
+    "Rating": "2137",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "64",
+    "Themes": "crushing deflection middlegame veryLong",
+    "GameUrl": "https://lichess.org/hhL0BCqx/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Or5GV",
+    "FEN": "r2r4/1pp1kpp1/1b2bn1p/p3p3/P3P3/1PPB4/3N1PPP/R1B2RK1 w - - 1 15",
+    "Moves": "c1a3 e7e8 d3b5 c7c6",
+    "Rating": "2284",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "2536",
+    "Themes": "crushing defensiveMove master middlegame short",
+    "GameUrl": "https://lichess.org/cxpPN7fK#29",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "Or6qE",
+    "FEN": "r4r2/1p1R2bk/p3pp1p/2p1q1p1/2P1N3/7P/PPP1Q1P1/4R1K1 b - - 1 25",
+    "Moves": "a8d8 e2d3 h7g8 d7d8",
+    "Rating": "2206",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1899",
+    "Themes": "crushing middlegame quietMove short",
+    "GameUrl": "https://lichess.org/dtr3kMlV/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Or8IG",
+    "FEN": "r2r2k1/p2n3p/2QPbq2/4p3/4Ppp1/2N2BP1/PP3P1K/3R3R w - - 0 25",
+    "Moves": "c3d5 f4g3 f2g3 f6f3",
+    "Rating": "2196",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "7285",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/P1Z74nvU#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Or8RS",
+    "FEN": "6r1/8/5Q2/2P2p2/1Pk5/P2q3P/2nr1PP1/2R2RK1 w - - 3 43",
+    "Moves": "c5c6 d3d5 c1c2 d2c2",
+    "Rating": "2293",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "919",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/PXLxK4MB#85",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Or8gT",
+    "FEN": "rnb2r1k/5p2/p1q2p1p/1pp5/3Pp3/2Q2N2/PP2BPPP/2KR3R b - - 1 17",
+    "Moves": "e4f3 e2f3 c5d4 f3c6 d4c3 c6a8",
+    "Rating": "2251",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1998",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/l7hxE4DV/black#34",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Modern_Variation"
+  }
+]

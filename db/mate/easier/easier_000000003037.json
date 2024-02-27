@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BTBE4",
+    "FEN": "r3k2r/pR2pp2/2pp3p/8/2P1P1Q1/2N5/P1q2PP1/6K1 b kq - 0 23",
+    "Moves": "c2c3 g4d7 e8f8 d7e7 f8g8 e7f7",
+    "Rating": "1002",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "1856",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/aUaan49M/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BTDsI",
+    "FEN": "r4rk1/pp3q1p/2p1b1p1/8/4RB2/2Q5/PPP3PP/R5K1 w - - 3 21",
+    "Moves": "f4h6 f7f2 g1h1 f2f1 a1f1 f8f1",
+    "Rating": "1077",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "346",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/k46XBSA5#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BTEzp",
+    "FEN": "4rk2/3R4/6R1/6P1/2P5/4r1KP/8/8 w - - 1 54",
+    "Moves": "g3h4 e8e4 h4h5 e3h3",
+    "Rating": "1136",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "2671",
+    "Themes": "deflection endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/7sVZAetS#107",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BTGXs",
+    "FEN": "3r1rk1/ppp2pp1/2p3b1/6B1/4n1PP/PBqP4/P1P1Q3/2KR3R w - - 0 17",
+    "Moves": "g5d8 c3a1",
+    "Rating": "1126",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "1006",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/cygwf4cS#33",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  },
+  {
+    "PuzzleId": "BTHGn",
+    "FEN": "rn2k2r/ppp2p1p/3bpp2/6Nq/3P2b1/8/PPPBBPP1/R2Q1RK1 w kq - 2 13",
+    "Moves": "e2g4 h5h2",
+    "Rating": "1188",
+    "RatingDeviation": "75",
+    "Popularity": "71",
+    "NbPlays": "101",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/JCD0r0A6#25",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "BTIx6",
+    "FEN": "8/6R1/8/8/r7/8/5K2/7k b - - 16 78",
+    "Moves": "a4a3 g7h7 a3h3 h7h3",
+    "Rating": "1072",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "3898",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/yhXMAb6X/black#156",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BTJ8Q",
+    "FEN": "r4k1r/b2q1ppb/p6p/1p1N4/3P2P1/7P/PP2QP2/R1B1R1K1 b - - 0 23",
+    "Moves": "d7d5 e2e7 f8g8 e7e8 a8e8 e1e8",
+    "Rating": "1097",
+    "RatingDeviation": "85",
+    "Popularity": "86",
+    "NbPlays": "52",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/dYODLEbC/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BTJYM",
+    "FEN": "r6k/pp1nr3/1q1N4/1Np5/3P4/7Q/PP5P/6RK b - - 7 31",
+    "Moves": "e7h7 d6f7",
+    "Rating": "1016",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "1625",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/3kQsdhbu/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BTLjx",
+    "FEN": "r1bqkbnr/ppNp1ppp/2n5/2p1p2Q/2B1P3/8/PPPP1PPP/R1B1K1NR b KQkq - 7 6",
+    "Moves": "d8c7 h5f7 e8d8 f7f8",
+    "Rating": "1005",
+    "RatingDeviation": "87",
+    "Popularity": "82",
+    "NbPlays": "155",
+    "Themes": "attackingF2F7 deflection mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/umm8NKHn/black#12",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  }
+]

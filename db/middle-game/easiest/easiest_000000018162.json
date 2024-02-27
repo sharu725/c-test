@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "s0cn2",
+    "FEN": "3R1k1r/4bpp1/r1B2pb1/p6p/Pp1N2P1/5P2/1PP4P/2K1R3 b - - 1 23",
+    "Moves": "e7d8 e1e8",
+    "Rating": "784",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "139",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/YP2PfOoh/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s0dgm",
+    "FEN": "5k1r/2pbq3/p3p1Qp/3pP1pP/3N2r1/8/PP3P2/1K1R1R2 b - - 5 25",
+    "Moves": "d7e8 d4e6 e7e6 g6e6",
+    "Rating": "953",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1043",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/2G7fsoI0/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s0fz3",
+    "FEN": "rk2R2r/pp4q1/2nN4/3N3p/6p1/8/PPP2PPP/4R1K1 b - - 1 24",
+    "Moves": "h8e8 e1e8 c6d8 e8d8",
+    "Rating": "710",
+    "RatingDeviation": "79",
+    "Popularity": "100",
+    "NbPlays": "1264",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/PXIDI3Js/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s0gog",
+    "FEN": "2kr1br1/2pq4/p2p3p/1p1Pp3/PPn1Pp2/2PQ4/5PPN/R1BR2K1 b - - 0 24",
+    "Moves": "d7h3 d3h3",
+    "Rating": "914",
+    "RatingDeviation": "102",
+    "Popularity": "89",
+    "NbPlays": "553",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/XIg9ndmv/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s0hha",
+    "FEN": "r2qk3/pp3p2/4b3/2QpP3/6P1/P1N3p1/1P4P1/R1B2RKr w q - 1 20",
+    "Moves": "g1h1 d8h4 h1g1 h4h2",
+    "Rating": "877",
+    "RatingDeviation": "92",
+    "Popularity": "95",
+    "NbPlays": "209",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/7g0vQPgh#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s0hsg",
+    "FEN": "r4r1k/p1p2pp1/3b3p/3NpP2/1p2P2q/1Q2B1R1/PP2B2P/4R2K w - - 2 29",
+    "Moves": "g3g4 h4e1 e3g1 e1e2",
+    "Rating": "914",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "234",
+    "Themes": "crushing fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/QpyqC9M1#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s0k3c",
+    "FEN": "r1q1k2r/3n1pb1/p3pn1p/3NB1p1/2p5/6QP/PPP2PP1/R3R1K1 b kq - 3 18",
+    "Moves": "e8g8 d5e7 g8h7 e7c8",
+    "Rating": "954",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "2791",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/SoPzU9pP/black#36",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "s0kjO",
+    "FEN": "2r1k3/2r1p3/3p2p1/qp6/1N1Q2P1/1P6/P1b4P/K1R2R2 w - - 4 35",
+    "Moves": "c1c2 c7c2 b4c2 c8c2",
+    "Rating": "943",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "265",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/NGJStYtc#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s0l6m",
+    "FEN": "3r1rk1/5pp1/p3pb1p/2q5/2BpP3/5P2/PP2Q1PP/2R2RK1 w - - 4 25",
+    "Moves": "c4a6 d4d3 c1c5 d3e2",
+    "Rating": "945",
+    "RatingDeviation": "97",
+    "Popularity": "94",
+    "NbPlays": "482",
+    "Themes": "advancedPawn crushing discoveredAttack interference kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/W08XVRoL#49",
+    "OpeningTags": ""
+  }
+]

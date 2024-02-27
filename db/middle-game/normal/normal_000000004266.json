@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CQuiC",
+    "FEN": "r2q3r/2pp1pk1/ppb1p3/6p1/1b1P4/2N2P2/PPP1N1PP/R1Q2RK1 b - - 3 14",
+    "Moves": "h8h2 g1h2 d8h8 h2g1",
+    "Rating": "1336",
+    "RatingDeviation": "175",
+    "Popularity": "23",
+    "NbPlays": "10",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/F1LgcT4o/black#28",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CQww8",
+    "FEN": "r2qk1r1/1p2b3/2p1p1p1/p3p3/4P3/2N5/PPPQ1PPP/R3K2R w KQq - 0 16",
+    "Moves": "e1c1 e7g5 f2f4 g5f4",
+    "Rating": "1285",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "805",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/y8BqDWFn#31",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CQxAE",
+    "FEN": "4r1k1/p4pp1/7p/2p5/8/1P1P1P2/P2BrqPP/R2QR2K w - - 3 27",
+    "Moves": "e1f1 f2g2",
+    "Rating": "1326",
+    "RatingDeviation": "164",
+    "Popularity": "68",
+    "NbPlays": "42",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/6LA1ZRdy#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CQxLZ",
+    "FEN": "r3r1k1/ppp2pp1/3q1b1B/8/2B3Q1/2P2N2/P4PPP/R5K1 w - - 3 19",
+    "Moves": "f3d4 f6d4 c3d4 d6h6",
+    "Rating": "1274",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "706",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/upySQlDR#37",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "CQxki",
+    "FEN": "r1b2r1k/pp2bp2/4pqp1/1Np5/2P1BPn1/P4R2/1PQ3PP/R1B4K b - - 1 18",
+    "Moves": "f6h4 f3h3 h4h3 g2h3",
+    "Rating": "1294",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "13476",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/SyHCaZAn/black#36",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CQz6s",
+    "FEN": "r4Bk1/pp3pbp/1np1qnp1/1N2p3/4P3/5NP1/PPQ2P1P/3R1BK1 b - - 0 20",
+    "Moves": "g7f8 b5c7 e6e7 c7a8",
+    "Rating": "1211",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "2946",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/tddF82Rf/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CR3p4",
+    "FEN": "3r1rk1/p1b2ppp/2p5/2p5/1PP4P/P3P3/1Q3KPq/B2R1R2 b - - 4 29",
+    "Moves": "d8d1 b2g7",
+    "Rating": "1247",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "277",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/XUCa3jsf/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CR4wQ",
+    "FEN": "rn1q1rk1/p4ppp/4p3/2pp4/6b1/2P1P1P1/PPQN1PP1/R3KB1R b KQ - 1 13",
+    "Moves": "b8c6 c2h7",
+    "Rating": "1302",
+    "RatingDeviation": "85",
+    "Popularity": "60",
+    "NbPlays": "105",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/faM6E42j/black#26",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Mason_Variation"
+  },
+  {
+    "PuzzleId": "CR793",
+    "FEN": "2r2rk1/2qb1pbp/p3p1p1/1p1pP3/5B1P/2P3P1/PP1Q1P2/R3RNK1 b - - 6 17",
+    "Moves": "f7f6 e5f6 f8f6 f4c7",
+    "Rating": "1214",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "174",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/2WZqvgep/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  }
+]

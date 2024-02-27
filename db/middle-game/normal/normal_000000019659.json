@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "vMm1O",
+    "FEN": "r3kb1r/p1pnpppp/1pq5/1N6/Q1p5/P3P1PP/1P1P1P2/R1B2RK1 b kq - 4 14",
+    "Moves": "d7e5 b5c7 e8d7 a4c6 d7c6 c7a8",
+    "Rating": "1384",
+    "RatingDeviation": "74",
+    "Popularity": "75",
+    "NbPlays": "899",
+    "Themes": "advantage discoveredAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/RfMSmI8o/black#28",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "vMm1Y",
+    "FEN": "r6k/qpp2r1p/p2pB2Q/3Np3/1PP1P3/P1BP4/5p1K/5Rn1 b - - 5 30",
+    "Moves": "a8g8 e6f7 g1f3 h2h3",
+    "Rating": "1262",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "12533",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/yjA7f4sb/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vMoTK",
+    "FEN": "r3r1k1/ppp1qppp/1n1p1b2/3P4/2Pn4/1PN5/PB2BPPP/1R1QK2R w K - 3 15",
+    "Moves": "e1g1 d4e2 c3e2 e7e2",
+    "Rating": "1294",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2761",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/m72V5tGC#29",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "vMpPy",
+    "FEN": "r4rk1/pp2Rp1p/3p2p1/2q2b2/8/1B3P2/P1PQ2PP/R6K b - - 0 18",
+    "Moves": "a8e8 b3f7 f8f7 e7e8",
+    "Rating": "1229",
+    "RatingDeviation": "123",
+    "Popularity": "82",
+    "NbPlays": "21",
+    "Themes": "advantage deflection fork middlegame short",
+    "GameUrl": "https://lichess.org/ItjzQrrX/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "vMpRq",
+    "FEN": "r4rk1/5ppp/pq2p3/3b4/1P1Qn3/4PN2/4BPPP/2R2RK1 b - - 2 19",
+    "Moves": "f8b8 c1c8 b8c8 d4b6",
+    "Rating": "1395",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "300",
+    "Themes": "advantage deflection middlegame short",
+    "GameUrl": "https://lichess.org/penbMEKO/black#38",
+    "OpeningTags": "Queens_Indian_Defense Queens_Indian_Defense_Kasparov-Petrosian_Variation"
+  },
+  {
+    "PuzzleId": "vMroN",
+    "FEN": "rn2r1k1/p3p1b1/3pq2p/N1p2pp1/Q7/4P3/PP3PPP/R2R2K1 b - - 1 21",
+    "Moves": "g7b2 a4e8 g8g7 a1b1",
+    "Rating": "1323",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2288",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/2QliUBST/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vMuIb",
+    "FEN": "1r3r1k/1b1n2pp/6p1/1Np5/P6q/2N5/3Q1PPP/R3R1K1 w - - 7 23",
+    "Moves": "d2d7 h4f2 g1h1 f2g2",
+    "Rating": "1293",
+    "RatingDeviation": "83",
+    "Popularity": "86",
+    "NbPlays": "58",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/COH6GfXF#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vMump",
+    "FEN": "2kr3r/bb1p1p2/p1n2pp1/1p1Nq3/1P2PP2/P2B2p1/2P3PP/R2Q1R1K w - - 0 18",
+    "Moves": "f4e5 h8h2",
+    "Rating": "1362",
+    "RatingDeviation": "76",
+    "Popularity": "76",
+    "NbPlays": "587",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/aTUr5Rdh#35",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  },
+  {
+    "PuzzleId": "vMvLb",
+    "FEN": "6k1/5ppp/p3p3/4Pb2/5R2/B1P3Q1/P3q1PP/3rR2K w - - 10 27",
+    "Moves": "f4f1 e2f1 e1f1 d1f1",
+    "Rating": "1374",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "15158",
+    "Themes": "backRankMate mate mateIn2 middlegame short xRayAttack",
+    "GameUrl": "https://lichess.org/F2cgwLCB#53",
+    "OpeningTags": ""
+  }
+]

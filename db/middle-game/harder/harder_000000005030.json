@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FERsb",
+    "FEN": "r2q1rk1/pp1nBpp1/2p1p1p1/8/3Pn3/2P2N1P/PP3PP1/R2QR1K1 b - - 0 14",
+    "Moves": "e4f2 e7d8 f2d1 d8e7 f8e8 e7a3 d1b2 a3b2",
+    "Rating": "1980",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "352",
+    "Themes": "advantage middlegame quietMove trappedPiece veryLong",
+    "GameUrl": "https://lichess.org/Bf2QWTTa/black#28",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "FESYb",
+    "FEN": "r1b2r1k/pp2q1b1/2n3pp/6N1/2BnNP2/4B2P/PP4P1/R2QR1K1 w - - 0 23",
+    "Moves": "g5f3 e7e4 e3d4 g7d4 d1d4 e4d4 f3d4 c6d4",
+    "Rating": "1902",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "91",
+    "Themes": "advantage hangingPiece kingsideAttack master middlegame veryLong",
+    "GameUrl": "https://lichess.org/GCv3OGHl#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FETW9",
+    "FEN": "rnbq1rk1/pp3ppp/2p1p1n1/3pP3/1b1P4/2NB1N2/PPPBQPPP/R3K2R b KQ - 6 8",
+    "Moves": "g6h4 d3h7 g8h7 f3g5 d8g5 d2g5",
+    "Rating": "1937",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "87",
+    "Themes": "attraction crushing kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/7Z9GNWlC/black#16",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "FETl0",
+    "FEN": "r5k1/p4ppb/1rp4p/4Q2P/4P1q1/3P4/PP3P2/1K1R1R2 b - - 0 23",
+    "Moves": "a8b8 f1g1 b6b2 b1a1",
+    "Rating": "1855",
+    "RatingDeviation": "76",
+    "Popularity": "75",
+    "NbPlays": "132",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/W1RG4L6C/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FETty",
+    "FEN": "r2q2k1/pp2prbp/6p1/2p1P3/2n5/2P2N1P/P1P1Q1P1/R1B2RK1 b - - 1 15",
+    "Moves": "d8d5 f1d1 d5e6 f3g5 e6a6 g5f7",
+    "Rating": "1985",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "3200",
+    "Themes": "crushing fork long master middlegame",
+    "GameUrl": "https://lichess.org/U8nX1nw3/black#30",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Austrian_Attack"
+  },
+  {
+    "PuzzleId": "FEUOn",
+    "FEN": "r1b3k1/p5p1/4pbP1/2pp3Q/2p1p3/7N/2q4P/5R1K b - - 1 27",
+    "Moves": "a8b8 h5h7 g8f8 f1f6 f8e7 h7g7 e7d6 g7f8",
+    "Rating": "1886",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "356",
+    "Themes": "advantage deflection middlegame veryLong",
+    "GameUrl": "https://lichess.org/fhLiM6lA/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FEVDN",
+    "FEN": "r4rk1/2q2ppp/pp2p1n1/3pn3/3N4/2P2N2/PP2QPPP/2R1R1K1 b - - 1 17",
+    "Moves": "e5g4 d4e6 f7e6 e2e6 f8f7 e6g4",
+    "Rating": "1923",
+    "RatingDeviation": "74",
+    "Popularity": "73",
+    "NbPlays": "187",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/eYbTZJRJ/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "FEWMW",
+    "FEN": "r1b1r1k1/1p3pp1/p2p1q1p/bP1P4/P3N3/1Q3B2/5PPP/2R1R1K1 b - - 0 20",
+    "Moves": "f6h4 e4f6 h4f6 e1e8",
+    "Rating": "1804",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "2899",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/5hXTAzkT/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FEXy9",
+    "FEN": "3r1r2/pp2qp1k/2p1p1bP/4P3/4BQ2/1P4R1/1PP5/5RK1 b - - 2 31",
+    "Moves": "f8g8 f4f7 e7f7 f1f7",
+    "Rating": "1874",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "102",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/5akJY2Oo/black#62",
+    "OpeningTags": ""
+  }
+]

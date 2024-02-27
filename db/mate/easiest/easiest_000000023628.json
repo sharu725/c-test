@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "jz6RD",
+    "FEN": "1b3rk1/1p3p2/1Bp4p/p3q1p1/P7/3r1B1P/1PQ2PP1/5RK1 w - - 0 27",
+    "Moves": "c2d3 e5h2",
+    "Rating": "815",
+    "RatingDeviation": "82",
+    "Popularity": "74",
+    "NbPlays": "80",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/dlWUd8uG#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jz75o",
+    "FEN": "3r1k1r/2b2ppp/p1B5/1p2p1Q1/1P6/P3R3/5PPP/R2q2K1 w - - 5 23",
+    "Moves": "a1d1 d8d1 e3e1 d1e1",
+    "Rating": "617",
+    "RatingDeviation": "107",
+    "Popularity": "79",
+    "NbPlays": "169",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/eQOEzjtA#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jz7Wz",
+    "FEN": "1r2r1k1/4Rqp1/6p1/3N4/1p6/pQ3PNP/PnPR2P1/1K6 w - - 4 29",
+    "Moves": "e7f7 e8e1 d2d1 e1d1",
+    "Rating": "692",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "102",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/bt5eKwwn#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jz7xn",
+    "FEN": "r3r1k1/pbp2ppp/1p6/4QPq1/8/BP2P3/P3B1PP/3R1RK1 w - - 1 21",
+    "Moves": "e5f4 g5g2",
+    "Rating": "942",
+    "RatingDeviation": "228",
+    "Popularity": "50",
+    "NbPlays": "27",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/OtO4GaHq#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jz964",
+    "FEN": "6k1/2p2pbp/6p1/3r2B1/8/5N2/1P3PPP/2R3K1 w - - 0 23",
+    "Moves": "c1c7 d5d1 f3e1 d1e1",
+    "Rating": "633",
+    "RatingDeviation": "81",
+    "Popularity": "60",
+    "NbPlays": "75",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/e6BVtgxk#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jz9a9",
+    "FEN": "1r3r2/3R4/1p3ppk/p2p4/3P1PP1/2P3KP/PP6/8 b - - 6 38",
+    "Moves": "f6f5 g4g5 h6h5 d7h7",
+    "Rating": "974",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "1247",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/Etc4zPF3/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jz9hb",
+    "FEN": "r4rk1/p3nppp/1qp1p1b1/3pB3/3P2QP/8/PP2NPP1/R4RK1 b - - 0 15",
+    "Moves": "g6f5 g4g7",
+    "Rating": "618",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "167",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/0vl0zBDx/black#30",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "jzAji",
+    "FEN": "1n3rk1/r1q1bp1p/1p1p1n1p/2pPpN2/1pP1P3/3B2QP/P4PP1/R3R1K1 b - - 1 18",
+    "Moves": "g8h8 g3g7",
+    "Rating": "791",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "182",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/D5btAZS4/black#36",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "jzC5Q",
+    "FEN": "r1b2r1k/p5pp/2p5/2p5/7P/N1P1p3/PP2P2P/2KR3R b - - 1 18",
+    "Moves": "f8f2 d1d8 f2f8 d8f8",
+    "Rating": "770",
+    "RatingDeviation": "105",
+    "Popularity": "100",
+    "NbPlays": "21",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/qRpc60ck/black#36",
+    "OpeningTags": "Bird_Opening Bird_Opening_Dutch_Variation"
+  }
+]

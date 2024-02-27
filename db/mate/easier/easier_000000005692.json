@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "LXFL9",
+    "FEN": "r1bq3k/4N1n1/pp1p1rP1/2p3Q1/2P5/P2B3P/1P4P1/1R4K1 b - - 0 29",
+    "Moves": "d8e7 g5h6 h8g8 h6h7 g8f8 h7h8",
+    "Rating": "1131",
+    "RatingDeviation": "101",
+    "Popularity": "33",
+    "NbPlays": "30",
+    "Themes": "exposedKing kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/GEY2Hi9n/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LXHeV",
+    "FEN": "5rk1/2p1pp2/2Np2pp/Rp1P4/1P2P1q1/P2B4/2Q2PPP/4n2K w - - 9 31",
+    "Moves": "c2e2 g4g2",
+    "Rating": "1070",
+    "RatingDeviation": "89",
+    "Popularity": "95",
+    "NbPlays": "255",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/zq01YCkY#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LXHwK",
+    "FEN": "5Rk1/1p3p1p/3p1P2/2pq2Pp/p7/P5b1/1P2Q3/5KB1 b - - 0 41",
+    "Moves": "g8f8 e2e7 f8g8 e7d8",
+    "Rating": "1062",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "667",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/F1QTIZOd/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LXMSk",
+    "FEN": "r1b1r1k1/2QpBppp/p7/1p2p3/4q3/8/PPP2PPP/2KR1B1R b - - 0 15",
+    "Moves": "e8e7 c7d8 e7e8 d8e8",
+    "Rating": "1168",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "287",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/4cI7PKYT/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lowenthal_Variation"
+  },
+  {
+    "PuzzleId": "LXPDp",
+    "FEN": "4r1k1/pp3pp1/2pbrn1p/3p4/3q1P2/PB1P1Q2/1PP1N1PP/R1B1R2K w - - 11 21",
+    "Moves": "e2d4 e6e1 f3f1 e1f1",
+    "Rating": "1182",
+    "RatingDeviation": "216",
+    "Popularity": "67",
+    "NbPlays": "9",
+    "Themes": "backRankMate hangingPiece mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/0pJbhYCb#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LXQAf",
+    "FEN": "3r1bk1/R6p/R2pn1p1/2pNp3/1pP1P2P/1n1P2PK/8/8 b - - 3 38",
+    "Moves": "b3d4 d5f6 g8h8 a7h7",
+    "Rating": "1036",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "2856",
+    "Themes": "arabianMate kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/UyN0Do9M/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LXS6q",
+    "FEN": "r4rk1/1p2q1p1/p1p2nN1/2Pp4/3Pp1pQ/4P3/PP1B3P/5RK1 b - - 3 28",
+    "Moves": "e7f7 h4h8",
+    "Rating": "1037",
+    "RatingDeviation": "106",
+    "Popularity": "63",
+    "NbPlays": "26",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/DsLy17XG/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LXS79",
+    "FEN": "r3k2r/1pb2p2/p1nqppbp/3p4/P2P4/2NBP2P/1P3PP1/R1BQ1RK1 w kq - 0 16",
+    "Moves": "d3g6 d6h2",
+    "Rating": "1130",
+    "RatingDeviation": "77",
+    "Popularity": "60",
+    "NbPlays": "87",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gFMByR5i#31",
+    "OpeningTags": "Slav_Defense Slav_Defense_Quiet_Variation"
+  },
+  {
+    "PuzzleId": "LXSy7",
+    "FEN": "6k1/6b1/6Q1/p2p4/2p5/2P3N1/PK1q2P1/8 w - - 1 41",
+    "Moves": "b2a3 d2c3 a3a4 c3b4",
+    "Rating": "1092",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "2713",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/gvVYRW1X#81",
+    "OpeningTags": ""
+  }
+]

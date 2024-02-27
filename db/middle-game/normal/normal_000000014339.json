@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "fu7KJ",
+    "FEN": "r1b2k1r/pp2bppp/3N1p2/3p4/3q4/1Q6/PPP2PPP/R1B1R1K1 w - - 2 16",
+    "Moves": "e1e7 d4d1 e7e1 d1e1",
+    "Rating": "1264",
+    "RatingDeviation": "83",
+    "Popularity": "27",
+    "NbPlays": "77",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/WoO1UBjE#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "fu7i9",
+    "FEN": "2kr4/ppp3r1/8/3N1p2/7N/2p2P2/P1n3PP/R3R1K1 w - - 0 25",
+    "Moves": "d5e7 g7e7 e1e7 c2a1",
+    "Rating": "1227",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "101",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/4ZRXK1pi#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fuAGe",
+    "FEN": "r6r/p4kpp/3q4/2n5/3N2n1/4B3/PP3PPP/R2Q1RK1 w - - 2 19",
+    "Moves": "d4f5 d6h2",
+    "Rating": "1308",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "349",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/enOr1ZI0#37",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation"
+  },
+  {
+    "PuzzleId": "fuCrC",
+    "FEN": "3q1rk1/6pp/B2p4/P2Np3/1P1nP3/5p2/2r3PP/R2Q1RK1 w - - 0 24",
+    "Moves": "g2f3 d8g5 g1h1 g5g2",
+    "Rating": "1369",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "12999",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/tpCn1ahp#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fuFCY",
+    "FEN": "2rr2k1/5ppp/b2qp3/6P1/4QP1P/pNR4R/P1P5/2K5 w - - 1 28",
+    "Moves": "c3c8 d6d1",
+    "Rating": "1289",
+    "RatingDeviation": "81",
+    "Popularity": "86",
+    "NbPlays": "210",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/i5RCAu9e#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fuIDs",
+    "FEN": "3r1r2/7k/3p1q1p/Q1p1p3/5pp1/2P4R/5PPP/B3R1K1 w - - 0 29",
+    "Moves": "a5c7 f8f7 h3h6 h7h6",
+    "Rating": "1366",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "438",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/e9LqQ3Ff#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fuIG1",
+    "FEN": "r3kb1r/p1N2ppp/1p2p3/2pn1q2/4p3/6Q1/PPP3PP/2KR2NR b kq - 1 16",
+    "Moves": "d5c7 g3c7 f5g5 c1b1",
+    "Rating": "1265",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "393",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/df1SGaKh/black#32",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "fuKNX",
+    "FEN": "3r1rk1/pp3q1p/3p2p1/2pN1bQ1/2P5/8/PP2nPPP/3RR2K b - - 3 23",
+    "Moves": "e2d4 e1e7 d8d7 e7f7",
+    "Rating": "1395",
+    "RatingDeviation": "188",
+    "Popularity": "-80",
+    "NbPlays": "5",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/QrgPT91V/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fuKly",
+    "FEN": "rnb1kb1r/3q1ppp/p1pP4/1p2p3/4N3/8/PPPQBPPP/2KR3R b kq - 2 13",
+    "Moves": "f7f5 e2h5 g7g6 e4f6 e8f7 f6d7",
+    "Rating": "1254",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "765",
+    "Themes": "crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/fGeOeBpZ/black#26",
+    "OpeningTags": "Czech_Defense Czech_Defense_Other_variations"
+  }
+]

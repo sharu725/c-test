@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "247Uc",
+    "FEN": "6k1/1b3rpp/6q1/QP2p3/3pp3/P1r1B2P/5PP1/3RR1K1 b - - 0 32",
+    "Moves": "d4e3 d1d8 f7f8 d8f8",
+    "Rating": "1604",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "844",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ukg9saCL/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2498a",
+    "FEN": "r1bqrbk1/p1p2ppp/2p5/4P2P/3p4/2NB1Q2/PPP2PP1/2KR3R b - - 1 15",
+    "Moves": "d4c3 d3h7 g8h7 d1d8",
+    "Rating": "1787",
+    "RatingDeviation": "88",
+    "Popularity": "67",
+    "NbPlays": "26",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/NdZM5Wxm/black#30",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "249xA",
+    "FEN": "3r1rk1/pp3p1p/2n1bbp1/8/8/1NPBR3/PP3PPP/R1B3K1 w - - 1 17",
+    "Moves": "d3c2 e6f5 e3e2 f5c2",
+    "Rating": "1738",
+    "RatingDeviation": "80",
+    "Popularity": "81",
+    "NbPlays": "35",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/HmzejHlw#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "24AU0",
+    "FEN": "r3k1nr/pp3p2/2p1q3/1Q4p1/4P3/2N5/PPP2PPb/R1B1RK2 w kq - 0 17",
+    "Moves": "b5g5 e6c4 c3e2 h2f4",
+    "Rating": "1748",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "6701",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/ci4aKUbe#33",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Hartlaub-Charlick_Gambit"
+  },
+  {
+    "PuzzleId": "24Am2",
+    "FEN": "rnbq3k/pp2p1b1/7p/6p1/3NP3/3Q1r1P/PP4PB/R3KR2 w Q - 0 19",
+    "Moves": "d3f3 d8d4 a1d1 d4b4",
+    "Rating": "1745",
+    "RatingDeviation": "96",
+    "Popularity": "70",
+    "NbPlays": "33",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/fzKoQXjJ#37",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "24DDM",
+    "FEN": "5rk1/2q3pp/p2b4/1p1pP3/1PrNn3/P3P3/6PP/R1BQ1RK1 b - - 0 21",
+    "Moves": "d6e5 f1f8 g8f8 d4e6 f8f7 e6c7",
+    "Rating": "1781",
+    "RatingDeviation": "88",
+    "Popularity": "82",
+    "NbPlays": "32",
+    "Themes": "attraction crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/ugfYwnE1/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "24Eec",
+    "FEN": "2r1r1k1/2q2pp1/2pbbn1p/3pN3/Q1pP1P2/2P1B3/PP1N2PP/R3R1K1 w - - 3 17",
+    "Moves": "b2b3 c8a8 a4c6 d6e5",
+    "Rating": "1762",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "9812",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/bxtmyTk9#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Delayed_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "24Fyx",
+    "FEN": "4r1k1/pbqn2bp/4p1p1/1p1n1p2/2pP4/2P1BN1P/PPB1QPP1/R3R1K1 w - - 0 18",
+    "Moves": "e2d2 f5f4 d2e2 f4e3",
+    "Rating": "1772",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "2430",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/XlFgUz6g#35",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "24GPq",
+    "FEN": "r3k2r/pp1qppbp/3p1np1/8/3QP3/1P5P/PBP2PP1/RN2K2R w KQkq - 0 11",
+    "Moves": "b1d2 f6h5 d4g7 h5g7",
+    "Rating": "1727",
+    "RatingDeviation": "80",
+    "Popularity": "85",
+    "NbPlays": "41",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/eB8ctbZv#21",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Open"
+  }
+]

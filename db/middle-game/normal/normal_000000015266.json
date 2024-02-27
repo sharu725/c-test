@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "icWEf",
+    "FEN": "r1b2r2/1pq1b1k1/p1n1pn1p/2p3p1/2PpBBQ1/3P1NP1/PPN2P1P/R4RK1 w - - 0 18",
+    "Moves": "g4g5 h6g5 f4c7 f6e4",
+    "Rating": "1320",
+    "RatingDeviation": "291",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/3HTM1SHV#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_French_Variation"
+  },
+  {
+    "PuzzleId": "icWZ1",
+    "FEN": "r4rk1/pbp2q1p/1p1pp1p1/1N2b3/2B5/P4P1P/1PP3P1/R2QR1K1 b - - 1 18",
+    "Moves": "e5b2 c4e6 f7e6 e1e6",
+    "Rating": "1211",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "283",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/3BWUWX74/black#36",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "icXFk",
+    "FEN": "4rrk1/p1pn1qp1/1pnp3p/3N4/1PP2R2/P2Q2P1/6KP/2BR4 b - - 0 23",
+    "Moves": "d7e5 f4f7 e5d3 f7f8 g8f8 d1d3",
+    "Rating": "1386",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "4713",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/a72bQvrr/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ica4a",
+    "FEN": "1r1qkb1r/1p3Npb/p3p2p/3p4/3P2P1/7P/PPP1QPB1/2KRR3 b k - 0 17",
+    "Moves": "e8f7 e2e6",
+    "Rating": "1393",
+    "RatingDeviation": "79",
+    "Popularity": "80",
+    "NbPlays": "191",
+    "Themes": "dovetailMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Ghu3VbKw/black#34",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "ica7A",
+    "FEN": "r2q1rk1/ppp3pp/4p3/3p1b2/3PnP2/2PB4/PP3PPP/RN1QK2R w KQ - 3 11",
+    "Moves": "f2f3 d8h4 g2g3 e4g3 h2g3 h4h1",
+    "Rating": "1287",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "714",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/y8ea7ByB#21",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "icccR",
+    "FEN": "2r2rk1/pp2bppp/1q1p4/4pP2/3nNPQ1/8/PPP3PP/R1B2R1K b - - 4 14",
+    "Moves": "d4c2 f5f6 e7f6 e4f6",
+    "Rating": "1390",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "116",
+    "Themes": "crushing kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/HTIGNt9U/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  },
+  {
+    "PuzzleId": "ici8A",
+    "FEN": "b1r2rk1/p1p2ppp/1p1p4/4n1q1/2Pn1P2/PPB1P3/2Q1B1PP/R3R1K1 w - - 0 17",
+    "Moves": "c3d4 g5g2",
+    "Rating": "1228",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "562",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/lqBYUXbR#33",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "icigS",
+    "FEN": "r4r2/ppp2ppk/3p3p/4p2n/4P3/1P1PQP2/1PPB1P1q/2KR2R1 b - - 0 17",
+    "Moves": "h5f4 g1h1 h2g2 d1g1 g2g6 g1g6",
+    "Rating": "1366",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "6132",
+    "Themes": "advantage clearance long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/PTcHHQvz/black#34",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "icmUu",
+    "FEN": "r7/ppp1r2p/2kq3B/2b5/2P4P/3P1R2/PP4Q1/7K b - - 2 32",
+    "Moves": "a8e8 f3f6 c6b6 f6d6",
+    "Rating": "1293",
+    "RatingDeviation": "155",
+    "Popularity": "100",
+    "NbPlays": "27",
+    "Themes": "discoveredAttack equality middlegame pin short",
+    "GameUrl": "https://lichess.org/Y3rqfKif/black#64",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ssvkO",
+    "FEN": "4k1r1/p5b1/2p1p2p/P1q1Pp2/5p1Q/3b4/1BB4P/2K2R1R w - - 0 28",
+    "Moves": "f1d1 c5c2",
+    "Rating": "1148",
+    "RatingDeviation": "252",
+    "Popularity": "18",
+    "NbPlays": "2",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/u5BSPDBA#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ssxUY",
+    "FEN": "rq2r1k1/1b1nbpp1/p6p/1p2p2n/4P3/1B3NB1/PPQN1PPP/2R1R1K1 w - - 2 19",
+    "Moves": "g3e5 d7e5 f3e5 b8e5",
+    "Rating": "1109",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "2231",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/vT7LweVW#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "ssytN",
+    "FEN": "1r3rk1/2p2pp1/pb2pq1p/3p4/1P1P4/N1P5/P3QPPP/R4RK1 w - - 0 19",
+    "Moves": "e2a6 b8a8 a6e2 a8a3",
+    "Rating": "1194",
+    "RatingDeviation": "110",
+    "Popularity": "50",
+    "NbPlays": "22",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/HM4BjjyI#37",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "sszER",
+    "FEN": "r1bqk2r/1pp2pbp/p2p2p1/3Pn3/4P3/2N2N2/PP3PPP/R1BQ1RK1 w kq - 0 11",
+    "Moves": "c1g5 e5f3 d1f3 d8g5",
+    "Rating": "1016",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "437",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/uQhQAjlv#21",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Cozio_Defense"
+  },
+  {
+    "PuzzleId": "sszpU",
+    "FEN": "r6r/1ppknB2/1b1p1n2/pP2p1N1/P3P1p1/2PP2p1/3N3B/R2Q1R1K w - - 1 22",
+    "Moves": "f1f6 h8h2",
+    "Rating": "1019",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "130",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/GZjd9pjo#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "st07r",
+    "FEN": "rn1qk2r/1bpp1ppp/p3pn2/1p4B1/3PP3/1BPQ4/P1P2PPP/R3K1NR b KQkq - 0 8",
+    "Moves": "b7e4 g5f6 d8f6 d3e4",
+    "Rating": "1014",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "1538",
+    "Themes": "advantage capturingDefender intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/va2QwJSr/black#16",
+    "OpeningTags": "St_George_Defense St_George_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "st0F3",
+    "FEN": "r4r1k/pQ4pp/5q2/2b5/4R3/3p4/PP1B1PPP/R5K1 w - - 0 20",
+    "Moves": "d2c3 f6f2 g1h1 f2f1 a1f1 f8f1",
+    "Rating": "1033",
+    "RatingDeviation": "81",
+    "Popularity": "80",
+    "NbPlays": "64",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/NQV40Mpl#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "st3AF",
+    "FEN": "r2q1rk1/pp1n1pp1/2pbbn1p/3pN3/3P1B2/2NB4/PPP2PPP/R2QR1K1 b - - 9 11",
+    "Moves": "d8b6 e5d7 e6d7 f4d6",
+    "Rating": "1180",
+    "RatingDeviation": "77",
+    "Popularity": "73",
+    "NbPlays": "63",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/QKHIv0J2/black#22",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "st4GK",
+    "FEN": "5b1k/p2R3p/5p2/7Q/1p2bP2/P7/1Pq3PP/K1NR4 w - - 4 28",
+    "Moves": "d7d8 c2b1",
+    "Rating": "1053",
+    "RatingDeviation": "80",
+    "Popularity": "66",
+    "NbPlays": "131",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/pqXnlKZV#55",
+    "OpeningTags": ""
+  }
+]

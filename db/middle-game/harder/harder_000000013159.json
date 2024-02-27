@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "dqGSZ",
+    "FEN": "r2k3r/pppb2pp/7q/2bQP3/8/2NB2PP/PPPP1n1K/R1B2R2 w - - 1 16",
+    "Moves": "d5c5 h6h3 h2g1 h3g3",
+    "Rating": "1870",
+    "RatingDeviation": "77",
+    "Popularity": "57",
+    "NbPlays": "94",
+    "Themes": "deflection mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/bRyrGNMl#31",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "dqGVt",
+    "FEN": "2q1r1k1/p4ppp/1p6/2pn2N1/P2p4/3n1QPP/1P1B1P2/1R4K1 b - - 1 26",
+    "Moves": "d5b4 f3f7 g8h8 f7h5 h7h6 g5f7 h8g8 f7d6",
+    "Rating": "1966",
+    "RatingDeviation": "116",
+    "Popularity": "33",
+    "NbPlays": "17",
+    "Themes": "crushing kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/R4IPiw7l/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dqHM6",
+    "FEN": "r4rk1/1pp1qppp/n3b3/p5N1/2PPN3/P2QB3/5PPP/3R2K1 b - - 2 22",
+    "Moves": "h7h6 e4f6 e7f6 d3h7",
+    "Rating": "1839",
+    "RatingDeviation": "91",
+    "Popularity": "79",
+    "NbPlays": "61",
+    "Themes": "clearance kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/8RFvcPYW/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dqMAs",
+    "FEN": "3rr1k1/pp4p1/2n1Rb1p/8/q2p2Q1/2P3P1/PP3PBP/R5K1 w - - 0 20",
+    "Moves": "e6f6 c6e5 g4e4 g7f6",
+    "Rating": "1849",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1143",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/H8uyds7M#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dqRA1",
+    "FEN": "r4rk1/2p3pp/p1n2q2/1p1Q1b2/8/2P2N2/PPB3PP/R1B3K1 b - - 2 19",
+    "Moves": "f6e6 c2b3 g8h8 d5e6 f5e6 b3e6",
+    "Rating": "1888",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1295",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/XceYVNqr/black#38",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Open"
+  },
+  {
+    "PuzzleId": "dqU6z",
+    "FEN": "r4r2/pp3p1k/2p1p2p/7q/4NQn1/2P2R2/PP4P1/3R2K1 b - - 1 22",
+    "Moves": "e6e5 f4g4 h5g4 e4f6 h7g7 f6g4",
+    "Rating": "1828",
+    "RatingDeviation": "135",
+    "Popularity": "8",
+    "NbPlays": "13",
+    "Themes": "advantage attraction fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/rqZ4KdxQ/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dqV1y",
+    "FEN": "2rn1rk1/1p1b1qp1/p3p2p/2NpP1bQ/1P1P1pB1/P4R2/5PPP/2B2RK1 w - - 4 26",
+    "Moves": "h2h4 g7g6 h4g5 g6h5",
+    "Rating": "1869",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "9633",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/zAd1uPRo#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dqXIJ",
+    "FEN": "r1bq1rk1/2pn2pp/1p3b2/p1nP4/2P5/BP3N2/P4PPP/1BRQ1RK1 b - - 1 19",
+    "Moves": "d7e5 f3e5 f6e5 d1h5",
+    "Rating": "1922",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "499",
+    "Themes": "advantage clearance middlegame short",
+    "GameUrl": "https://lichess.org/S98edEMx/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dqZFV",
+    "FEN": "r1b2r2/pp3pk1/2n1pn2/5q2/1b3B2/2NB1Q2/PP3PPP/3R1RK1 b - - 5 17",
+    "Moves": "f5g4 f4h6 g7g8 f3f6",
+    "Rating": "1836",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1684",
+    "Themes": "advantage deflection discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/MjqJXoX6/black#34",
+    "OpeningTags": "Tarrasch_Defense Tarrasch_Defense_Symmetrical_Variation"
+  }
+]

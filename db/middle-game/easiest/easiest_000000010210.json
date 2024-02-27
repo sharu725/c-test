@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "UMEf7",
+    "FEN": "r3k2r/p4ppp/2b1p3/q1pnP3/2Q1N1PP/5N1R/PP3P2/3R1K2 b kq - 2 19",
+    "Moves": "c6b5 e4d6",
+    "Rating": "970",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "1005",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/n6Gc7XdU/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "UMF0S",
+    "FEN": "rnb1k2r/ppR2pp1/7p/3p4/3b4/1P3PP1/P3B2P/3K2NR b kq - 0 15",
+    "Moves": "a7a6 c7c8 e8d7 c8h8",
+    "Rating": "955",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "230",
+    "Themes": "crushing hangingPiece middlegame short skewer",
+    "GameUrl": "https://lichess.org/SAxo54Oa/black#30",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "UMG2o",
+    "FEN": "r1b1k2r/pp1ppp1p/6p1/q3b3/1PQ2B2/2N5/P1P2PPP/R3K2R b KQkq - 0 13",
+    "Moves": "e5c3 c4c3 a5b4 c3b4",
+    "Rating": "977",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "105",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/LBy8OCBi/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Morphy_Gambit"
+  },
+  {
+    "PuzzleId": "UMGrO",
+    "FEN": "r2q1rk1/1pp3pp/p7/2bN4/4pPQ1/1P2P3/PBn3PP/R4RK1 b - - 0 16",
+    "Moves": "d8d5 g4g7",
+    "Rating": "964",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "97",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/xGSJEqhg/black#32",
+    "OpeningTags": "Canard_Opening Canard_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "UMIqo",
+    "FEN": "r4rk1/ppp3b1/5n1p/4B1p1/6B1/2P5/P1P2PPP/R2qR1K1 w - - 0 17",
+    "Moves": "a1d1 f6g4 e5g7 g8g7",
+    "Rating": "979",
+    "RatingDeviation": "79",
+    "Popularity": "86",
+    "NbPlays": "424",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/ox6XrlQ5#33",
+    "OpeningTags": "Latvian_Gambit Latvian_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "UMIuq",
+    "FEN": "3q1bkr/2p3pp/8/4p3/4Q1b1/5N2/PPP2PPP/RNB3K1 w - - 1 17",
+    "Moves": "f3g5 d8d1 e4e1 d1e1",
+    "Rating": "720",
+    "RatingDeviation": "86",
+    "Popularity": "93",
+    "NbPlays": "287",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/kemjHAjM#33",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "UMK9G",
+    "FEN": "2b2rk1/p1pn4/1p1p1r1p/3Ppppq/1PP5/P1Q1PN1P/2B2PP1/2KR3R w - - 2 19",
+    "Moves": "c3d3 e5e4 d3c3 e4f3",
+    "Rating": "926",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "298",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/uZRoDmsc#37",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Queens_Knight_Variation"
+  },
+  {
+    "PuzzleId": "UMLl2",
+    "FEN": "rnb2rQk/2qp2pp/2p2b1N/p1P5/3P4/P1BB4/5PPP/R3K2R b KQ - 6 21",
+    "Moves": "f8g8 h6f7",
+    "Rating": "907",
+    "RatingDeviation": "234",
+    "Popularity": "54",
+    "NbPlays": "26",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/ayHbfYFQ/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UMNyf",
+    "FEN": "rn2kr2/pp4pp/2pbbq2/3pp1N1/6P1/2NP3P/PPP2P2/R1BQK2R w KQq - 3 11",
+    "Moves": "g5h7 f6f2",
+    "Rating": "734",
+    "RatingDeviation": "98",
+    "Popularity": "80",
+    "NbPlays": "324",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/qJmXCCU1#21",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Calabrese_Countergambit"
+  }
+]

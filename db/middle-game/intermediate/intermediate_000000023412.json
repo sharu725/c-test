@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "uNPPP",
+    "FEN": "1k6/pp4p1/2p1P2p/4q1bP/4b1Q1/2P3P1/PP1n3N/K2R4 w - - 2 30",
+    "Moves": "g4e2 d2b3 a2b3 e5a5",
+    "Rating": "1425",
+    "RatingDeviation": "101",
+    "Popularity": "80",
+    "NbPlays": "35",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/Znap32CH#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uNPUN",
+    "FEN": "r2q4/ppp3kp/1b3p2/3n4/2pPR2N/2P3P1/PP1Q1P1P/6K1 b - - 0 21",
+    "Moves": "d5e7 e4e7 d8e7 h4f5 g7f7 f5e7",
+    "Rating": "1548",
+    "RatingDeviation": "87",
+    "Popularity": "75",
+    "NbPlays": "40",
+    "Themes": "advantage attraction fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/5KUsrYQn/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uNRxw",
+    "FEN": "2r2rk1/p1p2ppp/1pB5/3PP1qn/4p3/1Q6/PP3PPP/R4RK1 w - - 1 17",
+    "Moves": "b3c3 h5f4 g2g3 f4e2 g1g2 e2c3",
+    "Rating": "1481",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "2012",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/I5oAoQS2#33",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "uNShs",
+    "FEN": "r3k2r/p1p2ppp/1p6/2bP4/5P1q/2N5/PP2B1P1/R1BQ1RK1 w kq - 3 17",
+    "Moves": "f1f2 h4f2 g1h2 f2h4",
+    "Rating": "1424",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "754",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/liGtybOh#33",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "uNTsu",
+    "FEN": "rn1q1k2/1b3PpQ/p2p4/1p6/4P3/P1p5/1PP5/R2K3R b - - 0 23",
+    "Moves": "c3b2 h7g8 f8e7 g8d8 e7d8 f7f8q",
+    "Rating": "1504",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1258",
+    "Themes": "advancedPawn attraction crushing long middlegame promotion",
+    "GameUrl": "https://lichess.org/43wMyvvY/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uNUBy",
+    "FEN": "r2r4/p1pk4/1b2bR1p/4P1p1/8/B1P4P/5PP1/R5K1 b - - 0 31",
+    "Moves": "e6c4 a1d1 d7c8 d1d8 c8d8 f6f8",
+    "Rating": "1578",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "1307",
+    "Themes": "advantage attraction long middlegame",
+    "GameUrl": "https://lichess.org/4xVU3983/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uNVHH",
+    "FEN": "rnb2rk1/p3ppbp/2pp1npB/q7/1p1PP3/P1NB3P/1PPQ1PP1/R3K1NR w KQ - 0 10",
+    "Moves": "h6g7 b4c3 b2c3 g8g7",
+    "Rating": "1482",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "3200",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/rpz33p8y#19",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "uNX0R",
+    "FEN": "6k1/pr4pp/brp1pp2/3p4/Pq1P1BPn/1P2P2P/2QN1P2/1R2R1K1 w - - 1 32",
+    "Moves": "f4g3 b4d2 c2d2 h4f3 g1g2 f3d2",
+    "Rating": "1440",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "366",
+    "Themes": "attraction crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/ZRNCwzDc#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uNXmz",
+    "FEN": "5rk1/p1p3bp/1rp3p1/3p4/3P2Nq/1PRQP2P/P5P1/2R3K1 w - - 3 24",
+    "Moves": "c3c6 b6c6 c1c6 h4e1 g1h2 f8f1 d3f1 e1f1",
+    "Rating": "1518",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "626",
+    "Themes": "crushing middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/6wj91bdn#47",
+    "OpeningTags": ""
+  }
+]

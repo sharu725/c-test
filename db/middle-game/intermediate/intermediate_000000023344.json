@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "uDVYA",
+    "FEN": "r3k2r/ppq2ppp/2nbpn2/1BppNb2/3P1B2/2N1P3/PPP2PPP/R2QK2R w KQkq - 6 9",
+    "Moves": "d4c5 d6e5 f4e5 c7e5 b5c6 b7c6",
+    "Rating": "1534",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "121",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/sAc6Lw55#17",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "uDVgQ",
+    "FEN": "2r2rk1/p3pp1p/6p1/2p5/8/4P2P/P1qBBPP1/Q3K2R w K - 5 18",
+    "Moves": "d2c3 c8b8 e1g1 c2e2",
+    "Rating": "1576",
+    "RatingDeviation": "79",
+    "Popularity": "78",
+    "NbPlays": "35",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/Nrylr0dK#35",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "uDVtZ",
+    "FEN": "2rq1b1r/2p1k1pp/2Q1pp2/2PpNb2/P2P1B2/4PP2/6PP/2R2RK1 b - - 1 21",
+    "Moves": "f6e5 f4g5 e7f7 g5d8",
+    "Rating": "1505",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "7740",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/KYPmPk64/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uDXro",
+    "FEN": "3r2k1/pppq2pp/6b1/7r/2P2p2/PP3P2/1Q1p1RP1/3R2K1 b - - 4 32",
+    "Moves": "h5e5 b2e5 d7e8 e5e8",
+    "Rating": "1483",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "92",
+    "Themes": "crushing hangingPiece kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/U4y8q2bd/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uDYxs",
+    "FEN": "2b2k2/p1q2pp1/5n2/2Pp1B2/3n4/PP3p1P/2Q2PP1/R4RK1 w - - 2 28",
+    "Moves": "c2d3 d4e2 d3e2 f3e2",
+    "Rating": "1493",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "1121",
+    "Themes": "advancedPawn crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/dcDl3oLW#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uDZU4",
+    "FEN": "3q1rk1/pb2bpp1/1p3n1p/3PBQ2/3p4/6P1/PP1N1PBP/2R3K1 b - - 0 19",
+    "Moves": "b7d5 e5f6 d5e6 f6e7",
+    "Rating": "1497",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "66",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/vRULl88W/black#38",
+    "OpeningTags": "Catalan_Opening Catalan_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "uDa62",
+    "FEN": "5rk1/1p1q1pb1/4p2p/2Pp2p1/1P6/r1N2QP1/6PP/2R2R1K b - - 1 20",
+    "Moves": "d7e7 c3d5 e6d5 f3a3",
+    "Rating": "1555",
+    "RatingDeviation": "76",
+    "Popularity": "59",
+    "NbPlays": "140",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/C156DuqI/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uDbN2",
+    "FEN": "r1q2r1k/4b1pp/p4n2/1pp1N3/1n1ppP1Q/NP1P4/PBP3PP/R4RK1 b - - 1 17",
+    "Moves": "e4d3 e5g6 h8g8 g6e7",
+    "Rating": "1548",
+    "RatingDeviation": "75",
+    "Popularity": "80",
+    "NbPlays": "83",
+    "Themes": "crushing kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/cGeKVRrp/black#34",
+    "OpeningTags": "Bird_Opening Bird_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "uDbUJ",
+    "FEN": "3r3r/pkp1n1pp/3b1q2/4pb2/1P1p4/P2P1N2/2P2PPP/R1B1QRK1 b - - 1 14",
+    "Moves": "f5g4 e1e4 b7b8 e4g4",
+    "Rating": "1482",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "3477",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/mFEuqiYU/black#28",
+    "OpeningTags": "Vienna_Game Vienna_Game_Other_variations"
+  }
+]

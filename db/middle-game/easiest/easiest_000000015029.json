@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ijIHT",
+    "FEN": "r1b1k3/pp2bppq/n1p1p3/B7/8/3R3P/2P2PP1/3Q1RK1 b q - 1 19",
+    "Moves": "a6c5 d3d8 e7d8 d1d8",
+    "Rating": "624",
+    "RatingDeviation": "86",
+    "Popularity": "94",
+    "NbPlays": "796",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/xUAoIWC2/black#38",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Levitsky_Attack"
+  },
+  {
+    "PuzzleId": "ijIMQ",
+    "FEN": "3r1rk1/3n1p2/p3p1pQ/1p6/3P4/2P1Rq2/P1B2P1P/3R2K1 b - - 1 22",
+    "Moves": "f3g4 e3g3",
+    "Rating": "909",
+    "RatingDeviation": "87",
+    "Popularity": "87",
+    "NbPlays": "94",
+    "Themes": "crushing defensiveMove middlegame oneMove",
+    "GameUrl": "https://lichess.org/W8ZHzFe8/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ijIit",
+    "FEN": "1k1r3r/pbpn3p/1p2pn2/6q1/3N4/1P4P1/PBP1B2P/R3QRK1 w - - 0 19",
+    "Moves": "d4e6 g5e3 f1f2 e3e6",
+    "Rating": "989",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "1226",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/vP0Oe20D#37",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "ijJaQ",
+    "FEN": "r6k/p7/6Bb/2p4Q/3p4/2n4P/q5P1/5RK1 b - - 2 30",
+    "Moves": "h8g7 f1f7 a2f7 g6f7",
+    "Rating": "988",
+    "RatingDeviation": "88",
+    "Popularity": "73",
+    "NbPlays": "54",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/jR0646eX/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ijLyX",
+    "FEN": "r1b1R3/pp1r1ppk/7p/8/3n4/5NBP/P1P2PPK/R7 w - - 4 21",
+    "Moves": "a1d1 d4f3 g2f3 d7d1",
+    "Rating": "810",
+    "RatingDeviation": "92",
+    "Popularity": "86",
+    "NbPlays": "413",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/bXHKG0PH#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ijNSd",
+    "FEN": "r5k1/5ppp/p1p4r/2P5/8/4RbP1/PPB2P1K/R4Q2 w - - 1 30",
+    "Moves": "h2g1 h6h1",
+    "Rating": "889",
+    "RatingDeviation": "142",
+    "Popularity": "54",
+    "NbPlays": "51",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/xVfjn4Ib#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ijNp3",
+    "FEN": "2k4r/p2q4/1np1p3/1p1pP3/3P2Q1/bPN5/P1PB4/1K3R2 w - - 0 28",
+    "Moves": "f1f6 h8h1 g4d1 h1d1",
+    "Rating": "707",
+    "RatingDeviation": "79",
+    "Popularity": "100",
+    "NbPlays": "151",
+    "Themes": "crushing master middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/A1Py25pz#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ijUBX",
+    "FEN": "1r1r4/4ppkp/p1q2np1/8/1P6/3B4/PP1Q1PPP/R3R1K1 w - - 0 20",
+    "Moves": "d2c3 c6c3 b2c3 d8d3",
+    "Rating": "934",
+    "RatingDeviation": "85",
+    "Popularity": "90",
+    "NbPlays": "210",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/Flkr18fO#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ijUMc",
+    "FEN": "r4rk1/ppb2ppp/2p2nq1/3p4/1P1PnP2/PBN1PRNb/6P1/R1B1Q1K1 w - - 0 18",
+    "Moves": "g3e4 g6g2",
+    "Rating": "810",
+    "RatingDeviation": "78",
+    "Popularity": "96",
+    "NbPlays": "225",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/DHdCnzIl#35",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PGtlT",
+    "FEN": "r3k3/1b1p2p1/p1q1pp2/1p2P3/5P2/P1NQ1Bpr/1PP2bP1/R4R1K w q - 0 21",
+    "Moves": "g2h3 c6f3 d3f3 b7f3",
+    "Rating": "1138",
+    "RatingDeviation": "91",
+    "Popularity": "50",
+    "NbPlays": "27",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/hLHK6TSl#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGy1u",
+    "FEN": "r3q3/pp5k/3p2pp/2nQ2B1/2P1P2P/8/P7/3K3R b - - 0 25",
+    "Moves": "e8e4 d5f7 h7h8 g5f6",
+    "Rating": "1033",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "704",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/UasDmGgI/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGy6c",
+    "FEN": "4r1k1/p1Q2ppp/8/4r3/6b1/4q3/PPP3PP/R4R1K b - - 0 19",
+    "Moves": "e3e2 c7f7 g8h8 f7f8 e8f8 f1f8",
+    "Rating": "1020",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "1696",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/1GC8XsJy/black#38",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit"
+  },
+  {
+    "PuzzleId": "PH0Tr",
+    "FEN": "3r4/R4pr1/1k2p3/1pnp4/6p1/1BP5/2P2PPP/R5K1 b - - 3 29",
+    "Moves": "c5b3 a1a6 b6c5 a7c7",
+    "Rating": "1186",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "239",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/4Ysdj8Es/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PH4Fx",
+    "FEN": "8/8/1p6/k1p4R/P1n3PP/1b6/1r6/K3R3 w - - 0 45",
+    "Moves": "e1b1 b2a2",
+    "Rating": "1127",
+    "RatingDeviation": "74",
+    "Popularity": "77",
+    "NbPlays": "133",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/fjLTgUlc#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PH4rH",
+    "FEN": "r3r1k1/2Q2ppp/8/1p6/2nN4/2P5/1P3PPP/R5K1 w - - 0 23",
+    "Moves": "d4c2 a8a1 c2a1 e8e1",
+    "Rating": "1195",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "696",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/5DTYsXt7#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PH94s",
+    "FEN": "R7/4b1p1/4r1k1/1p2N2p/p3K2P/8/8/8 b - - 5 52",
+    "Moves": "g6h6 a8h8",
+    "Rating": "1188",
+    "RatingDeviation": "144",
+    "Popularity": "82",
+    "NbPlays": "7",
+    "Themes": "endgame master masterVsMaster mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/A0J62Rmf/black#104",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PHDOS",
+    "FEN": "r4rk1/1b3pbp/4p1p1/1p2P2n/p1pP2P1/2P4q/PPBNNR2/R2Q2K1 w - - 0 23",
+    "Moves": "g4h5 h3h1",
+    "Rating": "1181",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "494",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/GaYb4uFJ#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PHDVb",
+    "FEN": "r2qkb1r/ppp1pppp/2n5/3P4/Q1B1nB2/4P3/PP3PPP/R3K1NR w KQkq - 0 10",
+    "Moves": "d5c6 d8d2 e1f1 d2f2",
+    "Rating": "1048",
+    "RatingDeviation": "84",
+    "Popularity": "92",
+    "NbPlays": "681",
+    "Themes": "mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/1wZN2A3l#19",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  }
+]

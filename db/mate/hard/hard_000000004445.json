@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ogLHZ",
+    "FEN": "4Q3/5p1k/1P4pp/3b4/8/3B4/q5PP/6K1 w - - 0 32",
+    "Moves": "e8b5 a2g2",
+    "Rating": "1620",
+    "RatingDeviation": "247",
+    "Popularity": "30",
+    "NbPlays": "54",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/i9N6JOI2#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ogO3A",
+    "FEN": "4r3/pp2PQbk/3p4/8/4Pp2/5P2/PPR3P1/4qBK1 w - - 4 36",
+    "Moves": "f7e8 g7d4 c2f2 e1f2 g1h1 f2h4",
+    "Rating": "1679",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1279",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/oDhcDC6W#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ogOIC",
+    "FEN": "3k2r1/2q2p2/1Nn1p3/7p/3r4/P1Q2P2/7P/1R3R1K w - - 6 31",
+    "Moves": "f1c1 c7h2 h1h2 d4h4",
+    "Rating": "1660",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "12426",
+    "Themes": "attraction mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/pZ99QqCD#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ogS3E",
+    "FEN": "4rkr1/2RR4/p3P1pN/1p3n2/8/8/PPP2PbP/1K6 b - - 0 33",
+    "Moves": "f5h6 d7f7 h6f7 c7f7",
+    "Rating": "1704",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "403",
+    "Themes": "endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/YBHuaGSV/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ogcoR",
+    "FEN": "8/8/R1p5/1P3ppk/P7/5K1P/2r3P1/8 b - - 0 39",
+    "Moves": "c6b5 g2g4 f5g4 h3g4 h5h4 a6h6",
+    "Rating": "1621",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "288",
+    "Themes": "endgame long mate mateIn3 rookEndgame",
+    "GameUrl": "https://lichess.org/5k6l9dCX/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ogg6C",
+    "FEN": "2r2rk1/1p1nqppp/p3p1b1/3p4/3P2P1/2P4P/PP1NQ1B1/2KRR3 w - - 0 17",
+    "Moves": "g2d5 c8c3 b2c3 e7a3",
+    "Rating": "1641",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "524",
+    "Themes": "mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/eEcUgYXG#33",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_von_Popiel_Gambit"
+  },
+  {
+    "PuzzleId": "ogo4z",
+    "FEN": "3r2k1/5ppp/pqp1p3/2b5/2Pr4/1P3Q2/PB4PP/3R1R1K b - - 3 24",
+    "Moves": "d4d1 f3f7 g8h8 f7g7",
+    "Rating": "1736",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1275",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Q8OMOhy3/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ogpwA",
+    "FEN": "2rqkb1r/3nnp2/pp2p1pp/2pbP3/3PN3/P3BN2/1PQ1BPPP/R4RK1 b k - 3 13",
+    "Moves": "c5d4 e4d6",
+    "Rating": "1687",
+    "RatingDeviation": "84",
+    "Popularity": "92",
+    "NbPlays": "4947",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/ro4rcgvS/black#26",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Franco-Sicilian_Defense"
+  },
+  {
+    "PuzzleId": "ogwBM",
+    "FEN": "rnbq1rk1/p1p3pp/1p1pp3/6NQ/2P3N1/8/Pb3PPP/R3KB1R b KQ - 1 12",
+    "Moves": "h7h6 g4h6 g7h6 h5g6 b2g7 g6h7",
+    "Rating": "1751",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "117",
+    "Themes": "kingsideAttack long mate mateIn3 opening sacrifice",
+    "GameUrl": "https://lichess.org/wsRbY4Nq/black#24",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Normal_Variation"
+  }
+]

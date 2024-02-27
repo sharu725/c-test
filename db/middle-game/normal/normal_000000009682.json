@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SDT12",
+    "FEN": "rn4k1/ppp2rpp/4p3/3qP3/8/BQ6/P4PPP/R2R2K1 b - - 6 17",
+    "Moves": "d5b3 d1d8 f7f8 d8f8",
+    "Rating": "1370",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "64",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/vbLsv3fY/black#34",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "SDT3S",
+    "FEN": "r4rk1/ppp3n1/3p1qpp/4p3/3nP2P/4RNP1/PPP2PB1/R2Q2K1 w - - 3 19",
+    "Moves": "f3d4 f6f2 g1h2 f2e3",
+    "Rating": "1385",
+    "RatingDeviation": "77",
+    "Popularity": "74",
+    "NbPlays": "73",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/ypv16dSl#37",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "SDTaP",
+    "FEN": "2kr3r/pp3p2/5p1p/1B1q2p1/1b6/4PN2/QP3PPP/R3K2R w KQ - 1 19",
+    "Moves": "e1e2 d5b5 a2c4 b5c4",
+    "Rating": "1317",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "5085",
+    "Themes": "hangingPiece mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/SzTCSd3Y#37",
+    "OpeningTags": "Richter-Veresov_Attack Richter-Veresov_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "SDUw2",
+    "FEN": "4rk2/2Q5/pp3n1N/3b4/3N3P/2P1p3/PP3b2/2K5 w - - 9 40",
+    "Moves": "d4c6 e3e2 c7d6 f8g7",
+    "Rating": "1384",
+    "RatingDeviation": "76",
+    "Popularity": "66",
+    "NbPlays": "91",
+    "Themes": "advancedPawn crushing middlegame short",
+    "GameUrl": "https://lichess.org/BdwQlLfr#79",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SDWd1",
+    "FEN": "4r1k1/5p1p/6p1/RB3q2/1Q1P4/4P2P/2r2P2/3R1K2 w - - 1 29",
+    "Moves": "b5e2 f5h3 f1g1 c2e2",
+    "Rating": "1282",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "388",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/LCEb5MoN#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SDZxB",
+    "FEN": "1r3rk1/Rb3p2/4pbp1/3q3p/BR1P4/2PQ1N2/1P3PPP/6K1 w - - 7 30",
+    "Moves": "a7a5 d5a5",
+    "Rating": "1340",
+    "RatingDeviation": "117",
+    "Popularity": "50",
+    "NbPlays": "43",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/VuLE0uoN#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SDasp",
+    "FEN": "4rr2/p1pn2bk/1p3qp1/8/2Bp4/2P1QN2/PP3PP1/1K5R b - - 1 22",
+    "Moves": "g7h6 e3h6",
+    "Rating": "1392",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "794",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/UjSegEzo/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SDc9T",
+    "FEN": "1rb1kb1r/4pp1p/p2p2p1/3P2P1/4PP1q/R6P/1P1QB3/5KNR w k - 1 26",
+    "Moves": "g1f3 c8h3 h1h3 h4h3",
+    "Rating": "1228",
+    "RatingDeviation": "89",
+    "Popularity": "10",
+    "NbPlays": "50",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/yjdO5kun#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SDe1i",
+    "FEN": "4r1k1/1b3ppp/1p2pn2/p3P1r1/2P5/P1QBqP2/1B4PP/2RR1K2 b - - 0 23",
+    "Moves": "b7f3 d3h7 f6h7 c3e3",
+    "Rating": "1253",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "570",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/OJnh4eX4/black#46",
+    "OpeningTags": ""
+  }
+]

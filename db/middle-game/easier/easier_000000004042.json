@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CI8Gg",
+    "FEN": "r3k2r/1pp2p2/p1n5/3p2p1/3P2p1/P1B1PB1q/1P3P2/R2Q1RK1 w kq - 0 17",
+    "Moves": "f3g4 h3h1",
+    "Rating": "1095",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "189",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/nxJkiGyn#33",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "CI8bD",
+    "FEN": "k2r3r/1p3p2/4pNp1/pq1p4/2nP4/2P4P/PP2QP2/1K1R3R w - - 10 27",
+    "Moves": "e2c2 c4a3 b1c1 a3c2",
+    "Rating": "1156",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "6963",
+    "Themes": "crushing middlegame pin queensideAttack short",
+    "GameUrl": "https://lichess.org/4wILbbxd#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CI9i7",
+    "FEN": "6k1/p1pn2b1/1p1p3p/4p1p1/2PP2n1/PP2P1Pq/1BNNQ2P/6K1 w - - 2 27",
+    "Moves": "e2f1 h3h2",
+    "Rating": "1023",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "59",
+    "Themes": "kingsideAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/tdEr45u7#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CIAnM",
+    "FEN": "rn1qk2r/pp2bppp/2p1pn2/6B1/2BP2b1/2N1PN2/PP3PPP/R2QK2R b KQkq - 0 8",
+    "Moves": "f6e4 c3e4",
+    "Rating": "1123",
+    "RatingDeviation": "103",
+    "Popularity": "80",
+    "NbPlays": "47",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/aMwQOQkW/black#16",
+    "OpeningTags": "Slav_Defense Slav_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "CID3a",
+    "FEN": "4rnk1/4r1qp/1p1p1bp1/pPpPp3/2P2P2/P2BB1P1/2Q1R1KP/4R3 w - - 1 28",
+    "Moves": "f4f5 e5e4 d3e4 e7e4",
+    "Rating": "1127",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "1090",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/S4mKVATy#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CIDaS",
+    "FEN": "r4qrk/1p1b1p1Q/p2ppPp1/2p3P1/2PnPR2/4N1NP/Pn4B1/3R2K1 b - - 0 25",
+    "Moves": "h8h7 f4h4 f8h6 h4h6",
+    "Rating": "1085",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "83",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/WGqrxHvG/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CIDbw",
+    "FEN": "r2qk2r/ppp2p2/2nBp2p/3p1bp1/3P4/2P1PN1P/PP1nBPP1/R2QK2R w KQkq - 0 11",
+    "Moves": "d6c7 d2f3 e2f3 d8c7",
+    "Rating": "1097",
+    "RatingDeviation": "78",
+    "Popularity": "85",
+    "NbPlays": "1096",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/w0hrhKXh#21",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "CIDsX",
+    "FEN": "r3k1r1/pp3p1p/2n5/2q1pb2/1b1pP2B/5P2/PP3KPP/R2Q1BNR w q - 3 16",
+    "Moves": "e4f5 d4d3",
+    "Rating": "1078",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "170",
+    "Themes": "discoveredAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/odcDKpxW#31",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Austrian_Defense"
+  },
+  {
+    "PuzzleId": "CIEoJ",
+    "FEN": "r3r1k1/ppp2ppp/2n5/3N3q/5Pb1/3Q1N2/PPP3BP/R4K1R w - - 3 16",
+    "Moves": "f3g5 g4e2 f1g1 e2d3",
+    "Rating": "1089",
+    "RatingDeviation": "100",
+    "Popularity": "77",
+    "NbPlays": "71",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/6Zxormum#31",
+    "OpeningTags": "Bird_Opening Bird_Opening_Froms_Gambit"
+  }
+]

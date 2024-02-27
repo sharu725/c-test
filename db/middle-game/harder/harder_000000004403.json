@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DJWdp",
+    "FEN": "r1q2rk1/1pp2p1n/p1n2PQp/3NP1b1/2B5/6B1/PP4PP/3R1RK1 b - - 0 24",
+    "Moves": "f7g6 d5e7 g8h8 e7g6",
+    "Rating": "1923",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "342",
+    "Themes": "doubleCheck fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/pH68WEFd/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DJWwA",
+    "FEN": "r2r2k1/p4pp1/1pb1pq1p/3p4/1bPP4/1P1BB3/P1Q2PPP/R4RK1 b - - 0 15",
+    "Moves": "d5c4 c2c4 c6g2 g1g2",
+    "Rating": "1829",
+    "RatingDeviation": "74",
+    "Popularity": "85",
+    "NbPlays": "256",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/KBGIsp03/black#30",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "DJWwo",
+    "FEN": "4r1k1/2p2p2/5n1p/3r1qp1/1Q6/2P1BPP1/P4PKP/R4R2 w - - 2 26",
+    "Moves": "e3d4 c7c5 d4c5 d5c5",
+    "Rating": "1804",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1041",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/zqKNwKCl#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DJXkV",
+    "FEN": "r2q1rk1/ppp2pp1/1bn1bn1p/3P4/2B1N3/3Q1N2/PP3PPP/R1B2RK1 b - - 0 13",
+    "Moves": "c6b4 e4f6 d8f6 d3b3 e6g4 b3b4 g4f3 g2f3",
+    "Rating": "1962",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "672",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/HCtzsQWG/black#26",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "DJY4g",
+    "FEN": "r6r/pp2k1Rp/2n1bp2/2bpp2Q/7P/4P3/P1qN1P1P/3RKB2 b - - 3 18",
+    "Moves": "e7d6 d2c4 c2c4 f1c4",
+    "Rating": "1801",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "584",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/RQb9WuvO/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "DJYTG",
+    "FEN": "1kb3qr/4n3/p3p1p1/1pNpP3/1Pn2PP1/2PB2K1/4Q3/R1B5 w - - 0 30",
+    "Moves": "c5a6 c8a6 a1a6 e7f5",
+    "Rating": "1801",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "67",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/RREKQxms#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DJYVQ",
+    "FEN": "3Q4/pp3ppk/1b2r2p/8/8/1N3Pnq/PP3P1P/3Q1RK1 w - - 1 24",
+    "Moves": "d8d3 e6g6 d3g6 f7g6",
+    "Rating": "1973",
+    "RatingDeviation": "77",
+    "Popularity": "70",
+    "NbPlays": "147",
+    "Themes": "crushing defensiveMove master middlegame pin short superGM",
+    "GameUrl": "https://lichess.org/KZs0hPLZ#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DJZ0i",
+    "FEN": "1r3rk1/3qbppp/p1n1p3/1p1pP3/5P2/P3B3/1P2Q1PP/1BRR2K1 b - - 1 20",
+    "Moves": "b5b4 e2c2 g7g6 c2c6 d7c6 c1c6",
+    "Rating": "1958",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "2417",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/GhvZhuUM/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DJaEI",
+    "FEN": "Q4bk1/1p2n2p/pN1p2r1/3Pp3/1P2bqn1/2R2B2/P4B1p/4NR1K w - - 4 32",
+    "Moves": "b6d7 g4f2 f1f2 g6g1",
+    "Rating": "1902",
+    "RatingDeviation": "89",
+    "Popularity": "68",
+    "NbPlays": "37",
+    "Themes": "clearance kingsideAttack master masterVsMaster mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AADzVUzE#63",
+    "OpeningTags": ""
+  }
+]

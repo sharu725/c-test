@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "gO5x3",
+    "FEN": "rb3rk1/5p2/p2p3p/6p1/2pNP3/2P2p1q/PPB1NP2/R2QR1K1 w - - 0 25",
+    "Moves": "e2g3 h3g2",
+    "Rating": "978",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "305",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/TBPX6ILJ#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gO618",
+    "FEN": "2k4r/1prn4/p3Q3/2q1p2p/6pP/4P1P1/PR1N1P2/1R4K1 w - - 1 27",
+    "Moves": "d2c4 c5c4 e6c4 c7c4",
+    "Rating": "859",
+    "RatingDeviation": "88",
+    "Popularity": "68",
+    "NbPlays": "65",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/aXWisRoj#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gO6V7",
+    "FEN": "1r1q1rk1/2pnppbp/bpNp2p1/3P4/P3PP2/2N3P1/1P5P/R2QR1K1 b - - 1 18",
+    "Moves": "d8c8 c6e7 g8h8 e7c8",
+    "Rating": "886",
+    "RatingDeviation": "92",
+    "Popularity": "81",
+    "NbPlays": "159",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/P1ffW6bG/black#36",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Kingside_Fianchetto"
+  },
+  {
+    "PuzzleId": "gO7wB",
+    "FEN": "2k3nr/pp4p1/2p1P1q1/4B3/Pb5p/1PN4P/5RP1/3R3K b - - 0 22",
+    "Moves": "b4c3 f2f8 g6e8 f8e8",
+    "Rating": "993",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "532",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/aIbrvKqZ/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gO9nQ",
+    "FEN": "r4k1r/1b3pp1/p4q1p/P1b1N3/1n1p4/2p3P1/5PBP/RN1QR1K1 b - - 1 19",
+    "Moves": "b7g2 e5d7 f8g8 d7f6",
+    "Rating": "809",
+    "RatingDeviation": "82",
+    "Popularity": "93",
+    "NbPlays": "650",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/VmB5fOaS/black#38",
+    "OpeningTags": "Kings_Indian_Attack Kings_Indian_Attack_Spassky_Variation"
+  },
+  {
+    "PuzzleId": "gOBWB",
+    "FEN": "r2q1rk1/pppb3N/2n2np1/3pp3/3P4/2P1P1P1/PPQN1PP1/R3K2R b KQ - 0 13",
+    "Moves": "f6h7 c2g6 g8h8 g6h7",
+    "Rating": "956",
+    "RatingDeviation": "112",
+    "Popularity": "54",
+    "NbPlays": "18",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/dGras5Vq/black#26",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "gOBcU",
+    "FEN": "r4kr1/bppq1p2/p2p1p2/3NpP2/1PPnP3/P6P/2P3P1/R2Q1R1K b - - 4 20",
+    "Moves": "c7c6 d5f6 d7d8 f6g8",
+    "Rating": "977",
+    "RatingDeviation": "119",
+    "Popularity": "43",
+    "NbPlays": "17",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/wTwDC1Wf/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gODTw",
+    "FEN": "r1b2rk1/pp2pp2/1qn2bBp/3p2N1/2pP3P/2P1P3/PPQN1PP1/R3K2R b KQ - 0 13",
+    "Moves": "f7g6 c2g6 f6g7 g6h7",
+    "Rating": "908",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "264",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/K6T2mQI1/black#26",
+    "OpeningTags": "London_System London_System_Other_variations"
+  },
+  {
+    "PuzzleId": "gODhH",
+    "FEN": "r6r/ppp4k/2n3pp/3p4/7q/3QP1RP/PPPN3P/R3K3 b Q - 3 17",
+    "Moves": "h8f8 d3g6 h7h8 g6g7",
+    "Rating": "859",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "210",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/C4VaP0FR/black#34",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  }
+]

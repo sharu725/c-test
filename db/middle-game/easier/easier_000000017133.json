@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "q7XjL",
+    "FEN": "r2qkr2/1p1bbpQp/p1pp1N1B/8/4P3/8/PPP2PPP/R4RK1 b q - 1 13",
+    "Moves": "e7f6 g7f8",
+    "Rating": "1055",
+    "RatingDeviation": "152",
+    "Popularity": "65",
+    "NbPlays": "55",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/v7aRxoPi/black#26",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "q7aqP",
+    "FEN": "3r1rk1/2n1b1pp/p3p3/q1p1PpN1/Pp3P2/1P6/2PBQ1PP/3R1RK1 w - - 2 20",
+    "Moves": "g5h7 g8h7",
+    "Rating": "1034",
+    "RatingDeviation": "133",
+    "Popularity": "23",
+    "NbPlays": "15",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/7anPHCvG#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "q7cRj",
+    "FEN": "r2q1rk1/1p1nbppp/p7/3NP3/3n4/1P5P/1PP3PN/R2Q1RK1 w - - 0 19",
+    "Moves": "d1d4 e7c5 d4c5 d7c5",
+    "Rating": "1007",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "230",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/ipzmdKD6#37",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "q7d1Z",
+    "FEN": "1r3rk1/5pp1/4b2p/p7/2p1Q3/2P5/P1Bq1PPP/1R2R1K1 b - - 3 22",
+    "Moves": "e6d5 e4h7",
+    "Rating": "1143",
+    "RatingDeviation": "82",
+    "Popularity": "83",
+    "NbPlays": "43",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/BCHvLeQ9/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "q7ePR",
+    "FEN": "r2qk3/1pp2pR1/p2bp3/3p3r/PP1N1P2/2P1P2P/2Q1K3/7R b q - 0 25",
+    "Moves": "d8e7 g7g8 e8d7 g8a8",
+    "Rating": "1174",
+    "RatingDeviation": "137",
+    "Popularity": "66",
+    "NbPlays": "9",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/LIhyIlyv/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "q7gl2",
+    "FEN": "1rb2rk1/3nppbp/p2p2p1/q1pP4/4PB2/2P2N1P/P1QN1PP1/2R1K2R b K - 2 15",
+    "Moves": "a5a3 d2c4 a3c3 c2c3 g7c3 c1c3",
+    "Rating": "1133",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "341",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/bZfUQJJ4/black#30",
+    "OpeningTags": "London_System London_System_Other_variations"
+  },
+  {
+    "PuzzleId": "q7hY5",
+    "FEN": "1r3r1k/3N2pp/1pR1p3/5p2/P2PnP1q/3QP3/6PP/2R4K w - - 8 28",
+    "Moves": "d7f8 e4f2 h1g1 f2d3",
+    "Rating": "1145",
+    "RatingDeviation": "85",
+    "Popularity": "85",
+    "NbPlays": "407",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/9A3U8Suu#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "q7jB7",
+    "FEN": "r2q1rk1/pp2bp2/4p2Q/3nn3/4P3/5N2/PPP2PPP/2KR1B1R w - - 1 14",
+    "Moves": "f3e5 e7g5 h6g5 d8g5",
+    "Rating": "1017",
+    "RatingDeviation": "76",
+    "Popularity": "80",
+    "NbPlays": "94",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/548Gntgt#27",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Blackburne_Gambit"
+  },
+  {
+    "PuzzleId": "q7m8f",
+    "FEN": "rnbq1rk1/3p1ppp/2p5/1pbnp3/p3PP2/P1NP3P/BPP3P1/R1BQK1NR w KQ - 1 10",
+    "Moves": "e4d5 d8h4 g2g3 h4g3 e1f1 g3f2",
+    "Rating": "1154",
+    "RatingDeviation": "73",
+    "Popularity": "98",
+    "NbPlays": "7624",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/3sNu28uL#19",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  }
+]

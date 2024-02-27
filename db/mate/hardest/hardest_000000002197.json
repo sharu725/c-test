@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "zWCUI",
+    "FEN": "rn2k1nr/2p1bpp1/8/1p2N3/p3P3/P1P3Pb/BP1N1q1P/R1BQR2K w kq - 3 19",
+    "Moves": "e1g1 f2h2 h1h2 h3f1 d1h5 h8h5",
+    "Rating": "2082",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "2858",
+    "Themes": "discoveredAttack kingsideAttack long mate mateIn3 opening sacrifice",
+    "GameUrl": "https://lichess.org/6Yn4c5Of#37",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "zWCox",
+    "FEN": "2k5/1p1q4/pPP2p2/2P5/4pPp1/1N2Nn2/5P2/R2Q1K1r w - - 5 36",
+    "Moves": "f1e2 h1e1 d1e1 d7d3",
+    "Rating": "2233",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "582",
+    "Themes": "fork mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/2L3eUsX0#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zWEtH",
+    "FEN": "r1b2k1r/1q3pp1/p3NP1p/1pn1P3/8/6P1/PPPQ3P/1K1R3R b - - 2 20",
+    "Moves": "c8e6 d2d8 a8d8 d1d8",
+    "Rating": "2019",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "411",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/4cdrRAXN/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zWLMC",
+    "FEN": "Rnk4r/1p3p2/2p1p3/7q/2PpP3/1P4Q1/1P4K1/5R1r b - - 10 30",
+    "Moves": "h1f1 a8b8 c8d7 b8b7 d7e8 g3b8",
+    "Rating": "2235",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "2387",
+    "Themes": "deflection endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/PoJKkqgb/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zWOLV",
+    "FEN": "2kr1b1r/pp1nq3/2p5/5p1p/2Q1p3/6BP/PPP1BPP1/2KR3R b - - 1 16",
+    "Moves": "f8g7 c4c6 b7c6 e2a6",
+    "Rating": "2039",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "196",
+    "Themes": "clearance mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/r5dKTd0R/black#32",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Bronstein-Larsen_Variation"
+  },
+  {
+    "PuzzleId": "zWOpG",
+    "FEN": "8/p3k1p1/5n2/3p2p1/P2P1K1R/2Q2N2/1r3qP1/7R w - - 0 32",
+    "Moves": "f4g5 f2g3 h4g4 g3g4",
+    "Rating": "2261",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "5103",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/23f10zBS#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zWeP1",
+    "FEN": "5r1k/pq2n2p/3QN1p1/1Pp2p2/8/PP2PnP1/5PKP/R4R2 w - - 5 27",
+    "Moves": "e6f8 f3e1 g2h3 b7g2 h3h4 e1f3",
+    "Rating": "2205",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "5964",
+    "Themes": "doubleCheck long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/cVE8Valu#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zWxVp",
+    "FEN": "r2q1rk1/pp3pp1/4pR1p/3bP3/3R2Q1/P7/1PB3PP/7K b - - 2 22",
+    "Moves": "a8c8 g4g7 g8g7 d4g4 g7h8 f6h6",
+    "Rating": "2060",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "2207",
+    "Themes": "attraction deflection kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/6OwOBC2b/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zX9DL",
+    "FEN": "8/8/r2p4/P1p1p3/2PpPk1p/5P1P/5K2/R7 b - - 1 44",
+    "Moves": "d4d3 a1g1 d3d2 g1g4",
+    "Rating": "2015",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "6061",
+    "Themes": "endgame mate mateIn2 quietMove rookEndgame short",
+    "GameUrl": "https://lichess.org/1B1Dqpcc/black#88",
+    "OpeningTags": ""
+  }
+]

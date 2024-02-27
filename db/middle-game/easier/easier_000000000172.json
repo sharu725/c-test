@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "0XlN2",
+    "FEN": "r3r1k1/ppp2pp1/2n2q1p/8/3P2b1/2PBRN2/PPQ2PPP/4R1K1 b - - 5 17",
+    "Moves": "g4f3 e3e8 a8e8 e1e8",
+    "Rating": "1017",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "972",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/RtYvp9t1/black#34",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Ross_Gambit"
+  },
+  {
+    "PuzzleId": "0XmMP",
+    "FEN": "3r2k1/5ppp/p1pPr3/1pP3B1/1P4n1/PQ4Pq/5P2/3RR1K1 w - - 5 29",
+    "Moves": "e1e6 h3h2 g1f1 h2f2",
+    "Rating": "1187",
+    "RatingDeviation": "93",
+    "Popularity": "90",
+    "NbPlays": "60",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/bsI6t2jW#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0XnSy",
+    "FEN": "2r3k1/r1qn1ppp/b2b1n2/p2Pp3/PpN5/1P4P1/1BQN1PBP/2R1R1K1 w - - 1 21",
+    "Moves": "c4d6 c7c2 c1c2 c8c2",
+    "Rating": "1129",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "1977",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/7WcbUfea#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0XoJ0",
+    "FEN": "Rn5r/1B1k1pp1/2p1p1p1/Q2pP3/1N3P1r/2P4P/3B1qP1/7K w - - 3 29",
+    "Moves": "a5a1 h4h3 g2h3 h8h3",
+    "Rating": "1120",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "482",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/TaeUzVbh#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0XrVi",
+    "FEN": "5b1r/Qp2kppp/2p1p3/3p4/3P2P1/2P1P2P/1nq1NP2/3RKB1R w K - 1 18",
+    "Moves": "d1c1 b2d3",
+    "Rating": "1024",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "135",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/O5TQiXUq#35",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "0Xs16",
+    "FEN": "2q1k2r/r1p1bpp1/pp1p1n1p/3Pp3/P3P2n/1PN1B2b/2PNBPP1/R2Q2RK w k - 0 18",
+    "Moves": "g2h3 c8h3",
+    "Rating": "1119",
+    "RatingDeviation": "155",
+    "Popularity": "-71",
+    "NbPlays": "14",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/0S8HHtwP#35",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "0Xv2h",
+    "FEN": "r2q1rk1/p5pp/1p1bpn2/3p2B1/3n4/P1N2PP1/1P1Q2BP/R4RK1 w - - 0 16",
+    "Moves": "d2d4 d6c5 g5e3 c5d4",
+    "Rating": "1090",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "495",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/pDo9gaPN#31",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "0XvZf",
+    "FEN": "4q2k/6r1/4n2Q/1p2P3/p6P/P4RP1/1r6/5RK1 b - - 0 38",
+    "Moves": "g7h7 f3f8 e6f8 f1f8 e8f8 h6f8",
+    "Rating": "1110",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "587",
+    "Themes": "exposedKing fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/YMOaA6QF/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0XxBr",
+    "FEN": "r3r1k1/2q2pp1/2p1b2p/P2pP3/3B4/b4N1P/5PP1/1R1QR1K1 b - - 0 23",
+    "Moves": "a8a5 d4b6 c7c8 b6a5",
+    "Rating": "1188",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "566",
+    "Themes": "advantage fork interference middlegame short",
+    "GameUrl": "https://lichess.org/NsKxPovM/black#46",
+    "OpeningTags": ""
+  }
+]

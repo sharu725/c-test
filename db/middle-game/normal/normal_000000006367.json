@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "IaXaJ",
+    "FEN": "r3rk1Q/1b3pp1/p1q1p1n1/1pp1P1B1/8/2P4R/PPB2PPP/R5K1 b - - 2 21",
+    "Moves": "g6h8 h3h8",
+    "Rating": "1246",
+    "RatingDeviation": "305",
+    "Popularity": "69",
+    "NbPlays": "10",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/k3YiR3K1/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IaXfl",
+    "FEN": "2r2rk1/p4ppp/8/3p4/P3n1Q1/2q1P1P1/1B3P1P/1R1R2K1 b - - 2 22",
+    "Moves": "c3c2 g4g7",
+    "Rating": "1286",
+    "RatingDeviation": "85",
+    "Popularity": "90",
+    "NbPlays": "49",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/R72LmtDi/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IaZ7T",
+    "FEN": "5rr1/1p2bpk1/1q1p1p1p/p1p2Q2/2P1BP2/P2PP3/1P4P1/R1B1K3 b Q - 1 31",
+    "Moves": "g8h8 f5g4",
+    "Rating": "1208",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "435",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/dd86mTI8/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IaZti",
+    "FEN": "5r1k/2r1b1pp/p2p4/3QP3/2B5/6P1/Pq5P/R4R1K b - - 0 26",
+    "Moves": "b2e5 f1f8 e7f8 d5g8",
+    "Rating": "1293",
+    "RatingDeviation": "76",
+    "Popularity": "78",
+    "NbPlays": "465",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/wfhVuM6s/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Iaa01",
+    "FEN": "2nr1k2/1p1r1p1p/p3pp2/2p1q2B/2P5/1P1P2R1/P1Q2PPP/3R2K1 w - - 2 27",
+    "Moves": "c2d2 e5h5",
+    "Rating": "1287",
+    "RatingDeviation": "79",
+    "Popularity": "76",
+    "NbPlays": "57",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/fh4pDyu8#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IacKW",
+    "FEN": "2rr3k/pp3pp1/2n1pN1p/qbN5/3P3R/P3Q3/1P3PPP/R5K1 b - - 8 24",
+    "Moves": "c6d4 h4h6 g7h6 e3h6",
+    "Rating": "1247",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "404",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/7cf30owG/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IacOb",
+    "FEN": "3r1rk1/p5pp/1b4q1/3PPp2/2P1n3/PP6/1B1NQ1PP/R4R1K w - - 2 22",
+    "Moves": "e5e6 e4g3 h2g3 g6h6 e2h5 h6h5",
+    "Rating": "1394",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "5076",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/MbJgh75g#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Iae5x",
+    "FEN": "r2q1rk1/pp2ppbp/2bp1np1/8/2PBP3/2N4P/PP1QBPP1/R4RK1 b - - 2 12",
+    "Moves": "c6e4 d4f6 g7f6 c3e4",
+    "Rating": "1278",
+    "RatingDeviation": "77",
+    "Popularity": "62",
+    "NbPlays": "862",
+    "Themes": "capturingDefender crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/9xEERYtI/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "IaeGT",
+    "FEN": "2r1brk1/q4ppp/2P5/3Pb3/2Q1P3/P4R1P/3B2B1/2R3K1 w - - 3 29",
+    "Moves": "c4c5 e5d4 d2e3 d4c5",
+    "Rating": "1215",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "10743",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/CQ60CoHn#57",
+    "OpeningTags": ""
+  }
+]

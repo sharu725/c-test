@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "fffJP",
+    "FEN": "r3r1k1/pp1N1pp1/n4q1p/2pp4/3P4/2PQ4/P1P1RPPP/4R1K1 b - - 1 17",
+    "Moves": "f6c6 e2e8 a8e8 e1e8",
+    "Rating": "1167",
+    "RatingDeviation": "155",
+    "Popularity": "85",
+    "NbPlays": "8",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/2963H9Pz/black#34",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "ffhoq",
+    "FEN": "8/8/6p1/1p3q2/p1p3p1/2P1Q2k/8/6K1 b - - 13 43",
+    "Moves": "f5f3 e3h6 h3g3 h6h2",
+    "Rating": "1147",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "2523",
+    "Themes": "endgame mate mateIn2 queenEndgame short",
+    "GameUrl": "https://lichess.org/0ulBQTjV/black#86",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ffi5d",
+    "FEN": "1rbqk2r/6bp/p2pBpN1/n3p3/1p2P1Q1/1P2B3/P1P2PPP/R4RK1 b k - 0 19",
+    "Moves": "h7g6 g4g6 e8f8 g6f7",
+    "Rating": "1082",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "516",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/FbThHbqz/black#38",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "ffm0q",
+    "FEN": "2kr3r/ppp2p2/3p1p1p/2bBp3/q2nP1P1/3P3P/PPPN1P2/2KRQ2R w - - 4 16",
+    "Moves": "c2c3 a4c2",
+    "Rating": "1171",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "474",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Ca3xZdL4#31",
+    "OpeningTags": "Giuoco_Piano Giuoco_Piano_Other_variations"
+  },
+  {
+    "PuzzleId": "ffmch",
+    "FEN": "4Q3/2r5/1q4p1/kp3p1p/p3p3/3n2P1/R4P1P/6K1 b - - 7 46",
+    "Moves": "b5b4 a2a4",
+    "Rating": "1019",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "467",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/cg9bGLuJ/black#92",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ffnKZ",
+    "FEN": "5R2/8/1pp5/1kp5/8/1P4r1/1KP5/8 b - - 13 54",
+    "Moves": "b5a5 f8a8 a5b5 c2c4 b5b4 a8a4",
+    "Rating": "1010",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "158",
+    "Themes": "endgame long mate mateIn3 rookEndgame",
+    "GameUrl": "https://lichess.org/DB6udnoX/black#108",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ffokk",
+    "FEN": "Q1b2r2/p2p2pn/1pp3kp/2b1P3/4N2q/8/PPP2PPP/R1BR2K1 w - - 6 15",
+    "Moves": "e4c5 h4f2 g1h1 f2f1 d1f1 f8f1",
+    "Rating": "1193",
+    "RatingDeviation": "79",
+    "Popularity": "79",
+    "NbPlays": "700",
+    "Themes": "backRankMate fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/ree1Ldyy#29",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "ffowK",
+    "FEN": "4r3/3R1bpk/pp2P2p/2p5/4P1Q1/7P/PPP3PK/5q2 b - - 0 28",
+    "Moves": "f7e6 g4g7",
+    "Rating": "1001",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "826",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/Nc2Il4sd/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fftds",
+    "FEN": "1r1q1r1k/p1p2p1p/2pp1Bp1/5P2/3bP2Q/2N4R/PPP3PP/R6K b - - 0 18",
+    "Moves": "d8f6 h4h7",
+    "Rating": "1183",
+    "RatingDeviation": "82",
+    "Popularity": "100",
+    "NbPlays": "86",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/WCsNTgZ5/black#36",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  }
+]

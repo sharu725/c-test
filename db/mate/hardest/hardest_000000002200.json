@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "zZ9Hx",
+    "FEN": "6k1/p5P1/6K1/1n2N3/8/8/8/8 b - - 1 59",
+    "Moves": "b5d6 e5g4 a7a6 g4f6",
+    "Rating": "2144",
+    "RatingDeviation": "83",
+    "Popularity": "90",
+    "NbPlays": "1245",
+    "Themes": "endgame knightEndgame mate mateIn2 quietMove short",
+    "GameUrl": "https://lichess.org/dfEUGIGs/black#118",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zZE5m",
+    "FEN": "8/7R/p1B3k1/2p2p1R/3r1rp1/Pp4K1/1PP5/8 b - - 7 53",
+    "Moves": "b3c2 c6e8 g6f6 h5h6 f6e5 h7e7 e5d5 e8f7",
+    "Rating": "2014",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "1511",
+    "Themes": "endgame mate mateIn4 veryLong",
+    "GameUrl": "https://lichess.org/0pbHMJQm/black#106",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zZKrp",
+    "FEN": "r2q3r/ppbn4/2p1R1p1/6kp/3P4/2PB2PQ/PP3P1P/R5K1 b - - 1 21",
+    "Moves": "d7f8 e6g6 f8g6 h3f5 g5h6 f5g6",
+    "Rating": "2212",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "397",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/NkPtZVyN/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zZdKt",
+    "FEN": "rn2r1k1/pp3p1p/2p3pQ/5pR1/8/3B1q2/PPP2P1P/1K4R1 b - - 1 17",
+    "Moves": "f3f2 g5g6 h7g6 g1g6 f7g6 d3c4 e8e6 c4e6",
+    "Rating": "2062",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "1996",
+    "Themes": "kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/byN50UjS/black#34",
+    "OpeningTags": "Richter-Veresov_Attack Richter-Veresov_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "zaM42",
+    "FEN": "5R2/8/1p6/2b1n3/4k2Q/2K5/8/6q1 b - - 1 52",
+    "Moves": "e4e3 h4f4 e3e2 f4d2",
+    "Rating": "2020",
+    "RatingDeviation": "112",
+    "Popularity": "38",
+    "NbPlays": "23",
+    "Themes": "endgame fork mate mateIn2 short",
+    "GameUrl": "https://lichess.org/cKT6EoVQ/black#104",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zaQWA",
+    "FEN": "rn3bn1/1ppk4/8/3pPQ2/pr6/N3B3/q7/5KR1 b - - 1 27",
+    "Moves": "d7c6 g1g6 g8f6 g6f6 f8d6 f6d6 c7d6 f5c8",
+    "Rating": "2219",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "114",
+    "Themes": "fork mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/isMo7mXr/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zaiQb",
+    "FEN": "1br2rk1/p1q2p1p/2p2Pp1/2Pp2P1/4pR1Q/1N1nP2P/PP6/R1B3K1 b - - 5 23",
+    "Moves": "g8h8 h4h6 f8g8 h6h7 h8h7 f4h4",
+    "Rating": "2173",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "7030",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/psnJrjdC/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zasPr",
+    "FEN": "4rrk1/pp3p2/5B2/2p2Kp1/5bp1/3P4/P7/6R1 b - - 1 26",
+    "Moves": "g4g3 g1h1 e8e5 f5g4 g3g2 h1h8",
+    "Rating": "2163",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "520",
+    "Themes": "endgame long mate mateIn3 quietMove",
+    "GameUrl": "https://lichess.org/GI5HHosJ/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zaunV",
+    "FEN": "4rk1r/p4ppp/2p2q2/2b5/6b1/5N2/PPPPQ1PP/R1B2K1R w - - 2 13",
+    "Moves": "e2c4 f6f3 g2f3 g4h3",
+    "Rating": "2179",
+    "RatingDeviation": "96",
+    "Popularity": "86",
+    "NbPlays": "30",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/CbVJAfxT#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  }
+]

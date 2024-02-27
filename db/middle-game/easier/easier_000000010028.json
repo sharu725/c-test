@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "URT2A",
+    "FEN": "r1b1r1k1/pp3ppp/2p5/4B3/3q4/1Q1P4/P3B1PP/2R2R1K b - - 0 18",
+    "Moves": "d4e5 b3f7 g8h8 f7f8 e8f8 f1f8",
+    "Rating": "1065",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "49",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/nX4xrrb7/black#36",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "URTIa",
+    "FEN": "6rk/p1p4p/np3b2/3Q1p2/8/5PBq/PP5P/R3R1K1 w - - 1 24",
+    "Moves": "d5e6 f6d4 g1h1 g8g3",
+    "Rating": "1099",
+    "RatingDeviation": "80",
+    "Popularity": "84",
+    "NbPlays": "559",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/Bq1mKqRy#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "URTtE",
+    "FEN": "r1b1k2r/pp1pppbp/2q2np1/8/4P3/2NB1Q2/PPPB1PPP/R3K2R b KQkq - 5 9",
+    "Moves": "d7d6 d3b5 c6b5 c3b5",
+    "Rating": "1015",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "223",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/J64lAdk9/black#18",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Godiva_Variation"
+  },
+  {
+    "PuzzleId": "URUAI",
+    "FEN": "6r1/pp2k3/q3pr2/3Q1p2/3P2p1/1PP3bP/P2BR1P1/4R1K1 w - - 1 27",
+    "Moves": "e2e6 f6e6 e1e6 a6e6 d5e6 e7e6",
+    "Rating": "1125",
+    "RatingDeviation": "166",
+    "Popularity": "67",
+    "NbPlays": "7",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/PpvMkqIy#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "URVTs",
+    "FEN": "r4r1k/5ppp/5n2/2P1n1B1/p7/P2B1P1P/1P3P2/2R2RK1 w - - 1 22",
+    "Moves": "d3e4 f6e4 f3e4 e5f3 g1g2 f3g5",
+    "Rating": "1196",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "3699",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/voHNBQTh#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "URcdG",
+    "FEN": "r1bR3r/1pN1kppp/p7/2b1pP1Q/q1P1P3/5P2/PP5P/2K2B1R w - - 3 18",
+    "Moves": "d8h8 c5e3 c1b1 a4d1",
+    "Rating": "1186",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "246",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/nFkf9XDa#35",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "URfl2",
+    "FEN": "4k2r/5ppp/1nN1p3/1P1p4/2pPn2q/Q3PP1P/1B2b1P1/4K2R w Kk - 1 22",
+    "Moves": "e1e2 h4f2 e2d1 f2d2",
+    "Rating": "1047",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "2291",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/0XV9eCtU#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "URftB",
+    "FEN": "4q1k1/5pp1/1n5p/r1pP4/5PP1/pPp1r3/P5BP/R1Q1R1K1 b - - 0 29",
+    "Moves": "b6d5 g2d5 e3e1 c1e1 e8e1 a1e1",
+    "Rating": "1185",
+    "RatingDeviation": "77",
+    "Popularity": "54",
+    "NbPlays": "165",
+    "Themes": "crushing hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/TyxW6SwB/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "URgBu",
+    "FEN": "5rkb/1p3p2/r3pP1Q/p1p5/4b3/P2P2R1/2P3PP/q1B4K b - - 1 27",
+    "Moves": "e4g6 g3g6 f7g6 h6g6 h8g7 g6g7",
+    "Rating": "1170",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "3556",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/H2eH4q6n/black#54",
+    "OpeningTags": ""
+  }
+]

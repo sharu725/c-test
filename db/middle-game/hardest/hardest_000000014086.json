@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "TDQOB",
+    "FEN": "4r1k1/pp1q1ppp/2pb1pn1/5b2/3P4/1BP1BN1P/PP1Q1PP1/4R1K1 b - - 8 18",
+    "Moves": "f5h3 g2h3 d7h3 e3f4 e8e1 d2e1 h3g4 f4g3",
+    "Rating": "2301",
+    "RatingDeviation": "78",
+    "Popularity": "84",
+    "NbPlays": "160",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/QxIjWP24/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+  },
+  {
+    "PuzzleId": "TDQX3",
+    "FEN": "k2r3r/1pqb1p2/p1n1p1p1/2p1PnPp/1PPp1P2/P2P1BP1/3B3K/RN1Q1R2 b - - 0 18",
+    "Moves": "c5b4 a3b4 h5h4 g3g4",
+    "Rating": "2014",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "145",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/r5bh9gON/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "TDRlt",
+    "FEN": "3B2k1/4r1pp/2p2q2/1r1pp3/p7/3PR1QP/1b3PP1/1R4K1 w - - 0 28",
+    "Moves": "d8e7 f6e7 g3g4 a4a3 g4c8 e7f8 c8c6 a3a2",
+    "Rating": "2223",
+    "RatingDeviation": "80",
+    "Popularity": "74",
+    "NbPlays": "91",
+    "Themes": "advancedPawn advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/kq0MqUSq#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TDTnM",
+    "FEN": "2r3k1/2q1b1pp/p3pr2/3pn1N1/1p4Q1/3BP2P/P1PP2P1/R4RK1 w - - 2 27",
+    "Moves": "d3h7 g8h8 g4g3 f6f1 a1f1 e7g5",
+    "Rating": "2009",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "513",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/mzgZ4xMi#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TDUOC",
+    "FEN": "r7/pp3pk1/2p2rp1/6qp/1PP1R3/6N1/P4PQP/3B2K1 b - - 4 26",
+    "Moves": "a8d8 g3h5 g7h6 g2g5",
+    "Rating": "2031",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "690",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/f3ta18fk/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TDVfq",
+    "FEN": "r1b2rk1/ppq2ppp/2n1p3/2b3B1/2B4Q/5N2/PP3PPP/2R2RK1 b - - 6 13",
+    "Moves": "c5e7 c4d3 h7h6 c1c6 e7g5 c6c7 g5h4 f3h4",
+    "Rating": "2317",
+    "RatingDeviation": "80",
+    "Popularity": "78",
+    "NbPlays": "48",
+    "Themes": "crushing discoveredAttack master middlegame veryLong",
+    "GameUrl": "https://lichess.org/s9E1hHy3/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "TDWzE",
+    "FEN": "r3rk2/pbq3bp/1p3pp1/4N3/4nP2/1QP1BN2/PP4PP/R4RK1 w - - 2 20",
+    "Moves": "f3d4 e4c5 b3c4 b7a6 d4b5 a6b5 c4b5 f6e5",
+    "Rating": "2331",
+    "RatingDeviation": "105",
+    "Popularity": "86",
+    "NbPlays": "17",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/6TnpLFuK#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TDXRk",
+    "FEN": "rnb2rk1/ppp1qppp/8/2n1p1B1/2B4P/2P2N2/P1Q2PP1/R3K2R b KQ - 1 13",
+    "Moves": "e7d6 a1d1 d6g6 c2g6 h7g6 g5e7",
+    "Rating": "2272",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "1972",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/FWSpq5k4/black#26",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Warsaw_Gambit"
+  },
+  {
+    "PuzzleId": "TDYU7",
+    "FEN": "2r2r2/p4pk1/3qp1pp/1p2N2n/1PpP2QP/P4R2/5PP1/5RK1 b - - 11 34",
+    "Moves": "d6e7 f3f7 f8f7 g4g6 g7f8 g6h5",
+    "Rating": "2130",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "241",
+    "Themes": "advantage fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/TXKR9KG6/black#68",
+    "OpeningTags": ""
+  }
+]

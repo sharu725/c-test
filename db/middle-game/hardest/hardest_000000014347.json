@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Tlbqv",
+    "FEN": "r1bq1r2/3p2kp/p2Qp1p1/2Rp4/8/5B2/P4PPP/4R1K1 b - - 9 24",
+    "Moves": "c8b7 c5c7 b7c6 d6c6",
+    "Rating": "2174",
+    "RatingDeviation": "90",
+    "Popularity": "80",
+    "NbPlays": "31",
+    "Themes": "advantage master middlegame pin short",
+    "GameUrl": "https://lichess.org/1nPRP1WH/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Tldf2",
+    "FEN": "4b1k1/1p2q1p1/rPrbpp1p/BQpn4/2N5/3P2PP/4PPB1/1RR3K1 w - - 2 31",
+    "Moves": "b5a6 b7a6 c4d6 e7d6 b6b7 d6b8",
+    "Rating": "2040",
+    "RatingDeviation": "462",
+    "Popularity": "100",
+    "NbPlays": "7",
+    "Themes": "equality hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/NqOoiqAn#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TlfNJ",
+    "FEN": "r1b1r1k1/pp3pbp/3B2p1/3p4/8/1P3BP1/q1R1PP1P/3Q1RK1 b - - 1 16",
+    "Moves": "a2b3 c2c8 b3d1 c8e8 a8e8 f1d1",
+    "Rating": "2021",
+    "RatingDeviation": "111",
+    "Popularity": "35",
+    "NbPlays": "16",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/zdCWIOKd/black#32",
+    "OpeningTags": "Neo-Grunfeld_Defense Neo-Grunfeld_Defense_Non-_or_Delayed_Fianchetto"
+  },
+  {
+    "PuzzleId": "TlfsP",
+    "FEN": "3q1rk1/p2P2p1/3Q3p/1p2rb2/2p1N2P/6P1/1P3PB1/3R2K1 b - - 4 28",
+    "Moves": "e5e4 g2e4 f5e4 d6e6 g8h8 e6e4",
+    "Rating": "2083",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "714",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/jhFHnXhS/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TljTU",
+    "FEN": "2kr1r2/1pp1q3/pb4pp/3p4/3Nn3/PQN4P/1PP2PP1/2KRR3 w - - 2 20",
+    "Moves": "c3d5 e7g5 f2f4 g5d5 b3d5 d8d5 e1e4 f8d8 c2c3 c7c5",
+    "Rating": "2019",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "651",
+    "Themes": "advantage middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/6xtsHjjR#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TljqO",
+    "FEN": "4rrk1/p2q2p1/4b2p/2p1R1p1/2Pp3B/8/PP2QPPP/4R1K1 w - - 0 20",
+    "Moves": "e5e6 d4d3 e6e8 d3e2 e8f8 g8f8",
+    "Rating": "2169",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "395",
+    "Themes": "advancedPawn crushing long middlegame",
+    "GameUrl": "https://lichess.org/wePX5RZ3#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Tlk5O",
+    "FEN": "2kr4/1b2bQ2/7p/Bq6/3pn3/P6P/BPP2PrN/R3RK2 w - - 2 23",
+    "Moves": "a2c4 g2f2 f7f2 b5c4",
+    "Rating": "2357",
+    "RatingDeviation": "83",
+    "Popularity": "89",
+    "NbPlays": "941",
+    "Themes": "crushing deflection fork middlegame short",
+    "GameUrl": "https://lichess.org/KbwPHYau#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TlkXg",
+    "FEN": "2k1rb2/ppq2pp1/1n3n1p/B1pP4/8/3Q1NNP/PP3PP1/1K1R4 b - - 0 20",
+    "Moves": "f6d5 d3f5 c7d7 f5d7 c8d7 a5b6",
+    "Rating": "2140",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "178",
+    "Themes": "advantage long middlegame pin queensideAttack",
+    "GameUrl": "https://lichess.org/8nZslude/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Tlkrk",
+    "FEN": "rn3rk1/p1p4p/1p2p1p1/3pP3/3PpRbq/1QPBP3/PP4PP/R1B3K1 w - - 0 14",
+    "Moves": "d3f1 f8f4 e3f4 h4e1 b3c2 e4e3",
+    "Rating": "2188",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "317",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/du4xHDA9#27",
+    "OpeningTags": "Canard_Opening Canard_Opening_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "7OP8f",
+    "FEN": "1n1q1rk1/4b1pp/2P5/3bNp2/3PpP2/4r3/2Q1B1PP/2R2RK1 b - - 1 19",
+    "Moves": "d8c7 e2c4 d5c4 c2c4 g8h8 e5f7 f8f7 c4f7",
+    "Rating": "1707",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "115",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/cSP7zMSd/black#38",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit"
+  },
+  {
+    "PuzzleId": "7OQ16",
+    "FEN": "r3k2r/p1Rb1pbp/4p1p1/8/2B5/8/P2N1PPP/1R4K1 b kq - 4 20",
+    "Moves": "e8e7 b1b7 h8d8 c4b5",
+    "Rating": "1659",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "837",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/HpzYd5EJ/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7OSdP",
+    "FEN": "r2r2k1/5pbp/2p3p1/P1Np1b2/1P3q2/2P2B2/5PPP/2RQ1RK1 w - - 3 29",
+    "Moves": "d1a4 g7e5 g2g3 f4f3",
+    "Rating": "1627",
+    "RatingDeviation": "137",
+    "Popularity": "-12",
+    "NbPlays": "10",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/HSAPAB2N#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7OTEc",
+    "FEN": "rn1q1rk1/ppp3p1/3bb1Qp/4Np2/2PP3R/3B4/PP4PP/RN4K1 b - - 1 14",
+    "Moves": "d8h4 g6e6 g8h7 d3f5 f8f5 e6f5",
+    "Rating": "1788",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1240",
+    "Themes": "advantage hangingPiece kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/SFYiL8Rn/black#28",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense"
+  },
+  {
+    "PuzzleId": "7OUwN",
+    "FEN": "r6k/ppp3pp/3p3q/4pr2/2B2n2/2PP2b1/PP3P1N/R4QRK w - - 0 22",
+    "Moves": "f2g3 h6h2 h1h2 f5h5 f1h3 h5h3",
+    "Rating": "1644",
+    "RatingDeviation": "74",
+    "Popularity": "80",
+    "NbPlays": "218",
+    "Themes": "attraction exposedKing kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/3C7d2SI6#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7OW1X",
+    "FEN": "r1b1k2r/1pq1bpp1/p2pp3/4n1P1/3NP1n1/1BN1B3/PPP2P2/R2QK1R1 w Qkq - 1 14",
+    "Moves": "g1g4 h8h1 e1d2 h1d1",
+    "Rating": "1658",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "12306",
+    "Themes": "crushing master middlegame short skewer",
+    "GameUrl": "https://lichess.org/yAUbAufT#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "7OWmZ",
+    "FEN": "r1bq1rk1/4ppbp/p4np1/1p2P3/1Q6/2N5/PPP1B1PP/R1B2R1K b - - 0 13",
+    "Moves": "f6d5 c3d5 d8d5 e2f3",
+    "Rating": "1622",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "13310",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/MRAntz4k/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "7Oaou",
+    "FEN": "r4rk1/1Qpq1pp1/2n1pn1p/p2p4/3P1P2/P4N1P/1PPN1PP1/R3R1K1 w - - 1 15",
+    "Moves": "f3e5 c6e5 f4e5 f8b8 b7a8 b8a8",
+    "Rating": "1693",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "662",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/ZH4lySQx#29",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "7ObXI",
+    "FEN": "r2qr1k1/1pp2p1p/p1n3p1/3p1b2/3P4/2P2NP1/P1B2PP1/R1B1RQ1K b - - 0 16",
+    "Moves": "e8e1 f3e1 f5c2 e1c2",
+    "Rating": "1698",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "47",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/Gki2XCOn/black#32",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Piano"
+  }
+]

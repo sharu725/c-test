@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "18YAX",
+    "FEN": "r4rk1/pp1n1ppp/2p1p3/2b4q/P1N1n3/1B4Q1/1PP2PPP/R1B1R1K1 w - - 0 15",
+    "Moves": "e1e4 h5d1 e4e1 d1e1",
+    "Rating": "904",
+    "RatingDeviation": "77",
+    "Popularity": "54",
+    "NbPlays": "168",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/wbcTUgdn#29",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Breyer_Variation"
+  },
+  {
+    "PuzzleId": "18dgQ",
+    "FEN": "4r1k1/3brpp1/3p1q1p/p1bPp3/PpB1Pn2/1P2NQP1/3N1P1P/2R1K1R1 b - - 12 25",
+    "Moves": "f4d3 c4d3 f6f3 d2f3",
+    "Rating": "975",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "1176",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/c0gqBF6X/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "18f3k",
+    "FEN": "r5k1/2p2pp1/bpNp1n1p/p2P1Rq1/P1P5/2P4P/4Q1P1/R5K1 b - - 0 23",
+    "Moves": "g5f5 c6e7 g8f8 e7f5",
+    "Rating": "860",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "1339",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/UWI5oSws/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "18gmh",
+    "FEN": "3r4/4npkp/p4np1/4p3/1Pr5/8/P3NPPP/RBR3K1 w - - 0 28",
+    "Moves": "g2g3 c4c1 e2c1 d8d1 g1g2 d1c1",
+    "Rating": "947",
+    "RatingDeviation": "92",
+    "Popularity": "79",
+    "NbPlays": "70",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/72dzoN5C#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "18iDn",
+    "FEN": "6k1/3n3p/1p3rpQ/p4pN1/Pq1P4/7R/1P3PPP/R3r1K1 w - - 5 25",
+    "Moves": "a1e1 b4e1",
+    "Rating": "529",
+    "RatingDeviation": "84",
+    "Popularity": "100",
+    "NbPlays": "129",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/71LRgzgK#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "18lpm",
+    "FEN": "4q1k1/pb1n4/1p6/1NpP2B1/5Q1R/8/PPP2P2/2K5 w - - 6 31",
+    "Moves": "b5d6 e8e1",
+    "Rating": "742",
+    "RatingDeviation": "146",
+    "Popularity": "78",
+    "NbPlays": "53",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/qJknLOtQ#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "18mcg",
+    "FEN": "r3k2r/ppp4p/3q4/4nppb/8/3P1N1P/PPP2PP1/R2QR1K1 w kq - 0 18",
+    "Moves": "e1e5 d6e5 f3e5 h5d1",
+    "Rating": "991",
+    "RatingDeviation": "83",
+    "Popularity": "79",
+    "NbPlays": "121",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/RTJX5SIm#35",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "18nOy",
+    "FEN": "r2q2k1/p1pb1ppp/2p2R2/4r1B1/1b2P2Q/2NP4/PPP3PP/R5K1 b - - 0 15",
+    "Moves": "g7f6 g5f6 d8f6 h4f6",
+    "Rating": "815",
+    "RatingDeviation": "84",
+    "Popularity": "94",
+    "NbPlays": "797",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/FTendnhT/black#30",
+    "OpeningTags": "Vienna_Game Vienna_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "18ny1",
+    "FEN": "rq1r2Qk/p5pp/1p5N/8/5n2/7P/PPR2PP1/3R2K1 b - - 6 29",
+    "Moves": "d8g8 h6f7",
+    "Rating": "779",
+    "RatingDeviation": "112",
+    "Popularity": "71",
+    "NbPlays": "95",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/jz57MOH5/black#58",
+    "OpeningTags": ""
+  }
+]

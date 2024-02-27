@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "felyk",
+    "FEN": "r4r1k/pp3p1p/1npqpPp1/8/3P3Q/2P2R2/P1P3PP/R5K1 b - - 3 18",
+    "Moves": "d6d5 h4h6 f8g8 f3h3 d5h5 h3h5",
+    "Rating": "1874",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "331",
+    "Themes": "crushing long middlegame quietMove",
+    "GameUrl": "https://lichess.org/EP4sgJsV/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "femOy",
+    "FEN": "3rr1k1/p4p1p/2p3pb/5b2/1BPq1P2/R2B4/2PQ2PP/3R3K w - - 7 24",
+    "Moves": "d3f5 d4d2 b4d2 d8d2",
+    "Rating": "1885",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "810",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/Q2VkLY1g#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fenHP",
+    "FEN": "3r1rk1/pp3ppp/1qn2b2/8/5P2/1PQ5/PBP1N2P/1K1R2R1 w - - 0 19",
+    "Moves": "c3f6 d8d1 g1d1 g7f6 d1g1 b6g1",
+    "Rating": "1957",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "1832",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/6ZP0s943#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "fenay",
+    "FEN": "r1b1kq1r/ppQp2pp/B1p2p2/8/3NP3/2N5/2P3PP/5R1K b kq - 0 19",
+    "Moves": "b7a6 d4f5 g7g6 f5d6",
+    "Rating": "1882",
+    "RatingDeviation": "210",
+    "Popularity": "-23",
+    "NbPlays": "12",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/6uH1Elax/black#38",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_McConnell_Defense"
+  },
+  {
+    "PuzzleId": "feoYU",
+    "FEN": "4r2q/pp3pk1/1npb1p1p/3p4/3P1P2/1PP1N1P1/P2Q1PKP/1R6 b - - 2 29",
+    "Moves": "e8e7 e3f5 g7f8 f5d6 e7d7 d6f5",
+    "Rating": "1942",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "3748",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/yPmdmjhY/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ferd9",
+    "FEN": "r2qk2r/bppb1p2/p1np3p/4p1pn/PP2P3/2PP1NB1/4BPPP/RN1Q1RK1 w kq - 2 12",
+    "Moves": "f3e5 h5g3 e5c6 g3e2",
+    "Rating": "1877",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1741",
+    "Themes": "advantage kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/AN28AQhW#23",
+    "OpeningTags": "Russian_Game Russian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "fes90",
+    "FEN": "3r4/p2r4/1p3pk1/1Pp1pNpp/2B1Pn2/2PP1PK1/3R4/3R4 w - - 4 29",
+    "Moves": "c4d5 f4d5 e4d5 g6f5",
+    "Rating": "1851",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "4280",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/EbHc7Ues#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fesH4",
+    "FEN": "r1r5/1pq1kpbp/p3p1p1/8/1Pp1Q3/P1P2B2/5PPP/2R2RK1 b - - 0 22",
+    "Moves": "c7c6 e4h4 g7f6 f3c6 f6h4 c6b7",
+    "Rating": "1933",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1180",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/aTYSdwJM/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fesn7",
+    "FEN": "r2qkb1r/1b2n3/p2p2pp/1p1P1p1B/3NpP2/P7/1PP3PP/R1BQ1RK1 b kq - 1 16",
+    "Moves": "b7d5 d4f5 g6h5 f5e7",
+    "Rating": "1985",
+    "RatingDeviation": "93",
+    "Popularity": "78",
+    "NbPlays": "35",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/zxp3C03O/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  }
+]

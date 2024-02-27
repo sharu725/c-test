@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "mkTnK",
+    "FEN": "2r5/2q1kprp/p2p1p2/1pnQp2B/4P3/2P3R1/PP3PPP/5RK1 b - - 6 20",
+    "Moves": "g7g3 d5f7 e7d8 f7e8",
+    "Rating": "1512",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "312",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/FCEXHzaY/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mkV1C",
+    "FEN": "rnbq2kr/ppp3pp/5b2/4N3/3P4/2P1pQ2/PP4PP/RN3RK1 b - - 0 12",
+    "Moves": "b8d7 f3d5 g8f8 d5f7",
+    "Rating": "1421",
+    "RatingDeviation": "133",
+    "Popularity": "65",
+    "NbPlays": "24",
+    "Themes": "kingsideAttack mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/zl2IdLi2/black#24",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bonsch-Osmolovsky_Variation"
+  },
+  {
+    "PuzzleId": "mkXF1",
+    "FEN": "r3kbnr/ppp1pppp/8/4PP2/6P1/3q4/PPnP2QP/RNBK2NR w kq - 0 12",
+    "Moves": "g2b7 c2e3 d1e1 d3f1",
+    "Rating": "1572",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1042",
+    "Themes": "mate mateIn2 opening pin short",
+    "GameUrl": "https://lichess.org/lyVn17zf#23",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "mkXXm",
+    "FEN": "r3r1k1/p4ppp/1bQ5/8/8/5B2/PPPq1PPP/R2N1K1R w - - 3 16",
+    "Moves": "c6a8 d2e1",
+    "Rating": "1467",
+    "RatingDeviation": "456",
+    "Popularity": "53",
+    "NbPlays": "13",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/pi9np2pQ#31",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "mkYLv",
+    "FEN": "q1rr2k1/5ppp/3P4/1p3B2/pNbQ1P1n/P3B2P/1P4P1/R3R1K1 w - - 5 27",
+    "Moves": "f5c8 a8g2",
+    "Rating": "1458",
+    "RatingDeviation": "386",
+    "Popularity": "86",
+    "NbPlays": "16",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/oDYOWOM9#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mkaAT",
+    "FEN": "2Q5/1B6/2p2k1K/P7/7P/4q1P1/8/8 w - - 1 53",
+    "Moves": "h6h7 e3e7 h7h6 e7g7 h6h5 g7g6",
+    "Rating": "1530",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "5416",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/ZEGVzldM#105",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mkcaQ",
+    "FEN": "r1bq1rk1/ppn1bppp/4p3/1N1p4/P2P4/2P2NP1/1PQ2PP1/R3KB1R b KQ - 2 12",
+    "Moves": "c7b5 c2h7",
+    "Rating": "1540",
+    "RatingDeviation": "80",
+    "Popularity": "65",
+    "NbPlays": "167",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/hvNu4huM/black#24",
+    "OpeningTags": "Rapport-Jobava_System Rapport-Jobava_System_Other_variations"
+  },
+  {
+    "PuzzleId": "mkd3a",
+    "FEN": "5rk1/2q2p1p/4p1p1/2pp3n/1b4N1/2r1P3/1Q4PP/2R2RK1 b - - 1 28",
+    "Moves": "c3c1 g4h6",
+    "Rating": "1452",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1062",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/jodnEBoK/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mkfhP",
+    "FEN": "r4rk1/2p1q3/pp2Np1Q/8/8/8/PB1p2PP/3R2K1 w - - 2 25",
+    "Moves": "e6f8 e7e1 d1e1 d2e1q",
+    "Rating": "1538",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "253",
+    "Themes": "advancedPawn endgame mate mateIn2 promotion short",
+    "GameUrl": "https://lichess.org/m9hxuvyk#49",
+    "OpeningTags": ""
+  }
+]

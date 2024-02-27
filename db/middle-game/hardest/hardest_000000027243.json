@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "uLNop",
+    "FEN": "r4rk1/3nbppp/p1q1p3/3b4/Pp6/2P2P2/1P1NNBPP/R2Q1RK1 b - - 0 20",
+    "Moves": "f8c8 c3c4 d5c4 d2c4 c6c4 d1d7",
+    "Rating": "2296",
+    "RatingDeviation": "80",
+    "Popularity": "85",
+    "NbPlays": "112",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/ucInFK1S/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLOhY",
+    "FEN": "4r3/1pb1qkp1/p1p3p1/3p2Pn/5P2/P2QP2R/1PP1NN2/2K5 w - - 7 23",
+    "Moves": "e2g3 e7e3 d3e3 e8e3",
+    "Rating": "2118",
+    "RatingDeviation": "82",
+    "Popularity": "87",
+    "NbPlays": "325",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/TQfaDBmC#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLOpf",
+    "FEN": "r4Nk1/6pQ/2Pn1p1p/1p1Pp2P/1q2P1P1/2n5/5RK1/5N2 b - - 14 45",
+    "Moves": "g8f7 f1g3 c3d5 e4d5",
+    "Rating": "2079",
+    "RatingDeviation": "160",
+    "Popularity": "90",
+    "NbPlays": "11",
+    "Themes": "crushing middlegame quietMove short",
+    "GameUrl": "https://lichess.org/iEsFWJw3/black#90",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLPSv",
+    "FEN": "r4rk1/pb2pp2/1p3npQ/2p1n3/4P2P/N1PP4/PP2BNq1/R3K2R w KQ - 1 18",
+    "Moves": "h6e3 f6g4 f2g4 g2h1",
+    "Rating": "2031",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1053",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/FjZNiG47#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Delayed_Alapin"
+  },
+  {
+    "PuzzleId": "uLQig",
+    "FEN": "1r3rk1/pp3nqp/4Q1p1/8/2B5/8/P4RPP/R6K b - - 6 24",
+    "Moves": "b8e8 f2f7 g7a1 f7f1 e8e6 c4e6 g8h8 f1a1",
+    "Rating": "2121",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "206",
+    "Themes": "crushing discoveredAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/QxmjHR55/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLR7h",
+    "FEN": "6k1/1b3pb1/p2r2p1/1p4Qp/4P2P/P4NN1/1P3rPK/8 b - - 1 32",
+    "Moves": "f2b2 g5e7 d6d2 f3d2 b2d2 e7b7",
+    "Rating": "2149",
+    "RatingDeviation": "80",
+    "Popularity": "84",
+    "NbPlays": "94",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/hVEcsekL/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLR96",
+    "FEN": "r1b1k2r/pp1nbppp/2n1p3/1BppP3/3P1P2/q1N1BN2/P1PQ2PP/1R3RK1 b kq - 5 11",
+    "Moves": "e8g8 b1b3 a3a5 b5c6 b7c6 c3d5 a5d8 d5e7",
+    "Rating": "2342",
+    "RatingDeviation": "81",
+    "Popularity": "83",
+    "NbPlays": "245",
+    "Themes": "advantage master middlegame veryLong",
+    "GameUrl": "https://lichess.org/LsgoqGe3/black#22",
+    "OpeningTags": "French_Defense French_Defense_Steinitz_Variation"
+  },
+  {
+    "PuzzleId": "uLROg",
+    "FEN": "r2q1r1k/pb4p1/2p1p3/1p1nb3/2PP4/3B4/PBQ2PPP/R4RK1 w - - 0 18",
+    "Moves": "d4e5 d5b4 c2b3 b4d3 a1d1 b5c4",
+    "Rating": "2076",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "247",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/vDhjwoSU#35",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "uLSdt",
+    "FEN": "2kr3r/pbp2R1p/1pq1p1p1/3nn1P1/2B1N3/3P3Q/PPP3PP/R1B3K1 w - - 2 16",
+    "Moves": "f7h7 h8h7 h3h7 e5c4",
+    "Rating": "2092",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "713",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/6JV67HFP#31",
+    "OpeningTags": "French_Defense French_Defense_La_Bourdonnais_Variation"
+  }
+]

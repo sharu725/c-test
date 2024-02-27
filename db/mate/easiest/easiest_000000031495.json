@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "zHNKO",
+    "FEN": "3Q1r1k/6pp/8/pp6/2p1bP2/4B1qP/PP2R1P1/3R2K1 b - - 0 25",
+    "Moves": "f8d8 d1d8",
+    "Rating": "625",
+    "RatingDeviation": "95",
+    "Popularity": "88",
+    "NbPlays": "604",
+    "Themes": "backRankMate endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/i0c6T9ig/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zHPSa",
+    "FEN": "2r5/8/p3pkp1/1p6/3P2p1/8/PP3PPP/3R2K1 w - - 4 30",
+    "Moves": "d1d2 c8c1 d2d1 c1d1",
+    "Rating": "600",
+    "RatingDeviation": "100",
+    "Popularity": "73",
+    "NbPlays": "205",
+    "Themes": "backRankMate endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/Y6CPuQHd#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zHPUo",
+    "FEN": "8/p2p2k1/6p1/3r3p/5p1P/P2bqP2/1Q1R2PK/8 b - - 1 39",
+    "Moves": "g7h6 b2h8",
+    "Rating": "772",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "409",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/0rRaWIrk/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zHPVO",
+    "FEN": "r5k1/pp1b1Rpp/3p4/3Q4/2B5/4q3/PPP3PP/2K5 w - - 1 18",
+    "Moves": "c1b1 e3e1 d5d1 e1d1",
+    "Rating": "741",
+    "RatingDeviation": "94",
+    "Popularity": "94",
+    "NbPlays": "350",
+    "Themes": "endgame mate mateIn2 queensideAttack short",
+    "GameUrl": "https://lichess.org/6R75wFza#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  },
+  {
+    "PuzzleId": "zHWDX",
+    "FEN": "3r2k1/p4p1p/b1p3p1/N3b3/8/2P5/PP3PPP/4R1K1 w - - 0 23",
+    "Moves": "e1e5 d8d1 e5e1 d1e1",
+    "Rating": "613",
+    "RatingDeviation": "102",
+    "Popularity": "69",
+    "NbPlays": "267",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/D6FU6S1Q#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zHWcU",
+    "FEN": "r1bb1r1k/2q4R/4p1Q1/1p1p4/p2P4/4PN2/PPBB1PP1/2K5 b - - 0 22",
+    "Moves": "c7h7 g6h7",
+    "Rating": "970",
+    "RatingDeviation": "79",
+    "Popularity": "96",
+    "NbPlays": "404",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/nFPiubDJ/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zHWj6",
+    "FEN": "r4rk1/2p2pp1/p1p2n1p/q3p3/4P3/p2PQ3/1PP1NPPP/R3R1K1 w - - 0 18",
+    "Moves": "a1a3 a5e1",
+    "Rating": "903",
+    "RatingDeviation": "96",
+    "Popularity": "63",
+    "NbPlays": "43",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/qeeIBwyJ#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "zHWrm",
+    "FEN": "r3r1k1/ppq2p1p/2p3p1/2Pp4/1P1Pp1n1/4P3/P1NQ1PPP/R4RK1 w - - 4 18",
+    "Moves": "h2h3 c7h2",
+    "Rating": "985",
+    "RatingDeviation": "213",
+    "Popularity": "100",
+    "NbPlays": "5",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/v7M3AgYh#35",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "zHX4Q",
+    "FEN": "r5k1/1pp2pp1/2n2q1p/3p4/p2P4/2PB4/P1P1QPPP/4R1K1 b - - 1 18",
+    "Moves": "a4a3 e2e8 a8e8 e1e8",
+    "Rating": "676",
+    "RatingDeviation": "98",
+    "Popularity": "63",
+    "NbPlays": "258",
+    "Themes": "endgame kingsideAttack mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/pr9jTPBK/black#36",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  }
+]

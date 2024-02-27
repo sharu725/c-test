@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HVFKm",
+    "FEN": "2r2r2/Q4pk1/4b1p1/8/2p1B3/2b1N1P1/P4P1P/6K1 b - - 0 29",
+    "Moves": "c3d2 a7d4 g7g8 d4d2",
+    "Rating": "1279",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "13811",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/tR2QC9eo/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HVFrG",
+    "FEN": "r1bq1r1k/p1p2p1n/2pp1bpB/5N1N/4P1Q1/7P/PPP2PP1/R3R1K1 b - - 0 16",
+    "Moves": "g6h5 h6g7 f6g7 g4g7",
+    "Rating": "1232",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "8621",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/sZjU9voK/black#32",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "HVGhl",
+    "FEN": "r1b3k1/ppqnbrpp/2p2n2/4p3/2B1P1P1/2NP4/PPP4P/R1BQ1RK1 b - - 0 11",
+    "Moves": "d7b6 c4f7 g8f7 g4g5",
+    "Rating": "1355",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "5775",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/IgLbzFI5/black#22",
+    "OpeningTags": "Rat_Defense Rat_Defense_Harmonist"
+  },
+  {
+    "PuzzleId": "HVHiv",
+    "FEN": "4r1k1/p4pp1/4rn2/3p4/2pP4/q3BBQ1/P4PPP/R1R3K1 w - - 7 31",
+    "Moves": "e3h6 a3c1 a1c1 e6e1 c1e1 e8e1",
+    "Rating": "1317",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "1649",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/lVkjnoCz#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HVHmM",
+    "FEN": "2k4r/ppp3pp/7r/7q/3P1Pp1/2N5/PPP1Q1P1/R4RK1 w - - 1 17",
+    "Moves": "g2g3 h5h1 g1f2 h6h2 f2e1 h2e2",
+    "Rating": "1371",
+    "RatingDeviation": "77",
+    "Popularity": "80",
+    "NbPlays": "333",
+    "Themes": "crushing exposedKing kingsideAttack long middlegame skewer",
+    "GameUrl": "https://lichess.org/ZsGNWhUc#33",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Lasker_Variation"
+  },
+  {
+    "PuzzleId": "HVHpH",
+    "FEN": "2rq1rk1/1p3pp1/p1n1b3/3Np3/3nPP2/Q2B2P1/PPP5/1K1R3R b - - 0 20",
+    "Moves": "e6d5 e4d5 g7g6 d5c6",
+    "Rating": "1344",
+    "RatingDeviation": "109",
+    "Popularity": "52",
+    "NbPlays": "30",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/UkT1Xx0L/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HVKDc",
+    "FEN": "2r4r/4k1p1/2b1p1p1/1p1pq1p1/8/Q1N4P/PP4P1/R4R1K b - - 2 24",
+    "Moves": "e5d6 f1f7 e7f7 a3d6",
+    "Rating": "1326",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "4666",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/HRZWlviu/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HVKWI",
+    "FEN": "r2q2k1/pp1n1ppp/2p5/4rb2/4p1P1/3QBP2/PPP1B2P/2KR3R w - - 0 16",
+    "Moves": "f3e4 f5e4 d3d7 d8d7 d1d7 e4h1",
+    "Rating": "1299",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "367",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/rb8nH1kt#31",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "HVKyw",
+    "FEN": "2r1r1k1/p1q4p/6p1/1p2n1R1/3NPQ2/3P3P/Pp3P2/1K4R1 b - - 0 25",
+    "Moves": "e5d3 g5g6 h7g6 g1g6 c7g7 g6g7",
+    "Rating": "1328",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "708",
+    "Themes": "crushing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/kGS4pFcu/black#50",
+    "OpeningTags": ""
+  }
+]

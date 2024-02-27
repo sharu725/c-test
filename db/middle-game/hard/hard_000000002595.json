@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "6jpd6",
+    "FEN": "1r4k1/4qpp1/4pbnp/pb3r2/3P1N2/2P3Q1/PP3PPP/R1B1R1K1 b - - 9 26",
+    "Moves": "f6h4 f4g6 f7g6 g3b8 f5f8 b8b5",
+    "Rating": "1688",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "500",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/F3H0plG6/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6jrCc",
+    "FEN": "7r/pp3pk1/3b2p1/3pN3/2pP2qn/P1P3P1/1P2QPK1/3BRR2 w - - 0 32",
+    "Moves": "g2h2 h4f3 h2g2 h8h2",
+    "Rating": "1630",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "4487",
+    "Themes": "doubleCheck fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/yhbnhIXs#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6jrUT",
+    "FEN": "3r2k1/p1q2ppp/1pp2b2/4p2n/4Pn2/2N1QN1P/PPP2PPB/5RK1 w - - 0 19",
+    "Moves": "g2g4 f4h3 g1h1 h5f4",
+    "Rating": "1684",
+    "RatingDeviation": "82",
+    "Popularity": "63",
+    "NbPlays": "41",
+    "Themes": "advantage defensiveMove kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/oX65Z1bt#37",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Hanham_Variation"
+  },
+  {
+    "PuzzleId": "6jrgX",
+    "FEN": "r4rk1/2pqbppp/p2p1n1B/1p1P1N2/P3P3/5Q2/1P3PPP/R3K2R b KQ - 1 15",
+    "Moves": "g7h6 f3g3 f6g4 g3g4",
+    "Rating": "1618",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1454",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/2GZipvhX/black#30",
+    "OpeningTags": "Rat_Defense Rat_Defense_Small_Center_Defense"
+  },
+  {
+    "PuzzleId": "6jsG0",
+    "FEN": "r1qrn1k1/pb1p1pp1/1pnQ3B/4p3/2B1P3/PN3P2/1PP3PP/R4RK1 w - - 1 17",
+    "Moves": "d6g6 d7d5 c4d5 d8d5",
+    "Rating": "1793",
+    "RatingDeviation": "94",
+    "Popularity": "66",
+    "NbPlays": "20",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ctw5w4M4#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  },
+  {
+    "PuzzleId": "6jsPN",
+    "FEN": "r6r/pR1k2pp/4p3/3p1nB1/3P4/P1q2N2/5PPP/5RK1 b - - 0 19",
+    "Moves": "d7d6 g5f4 d6c6 b7c7",
+    "Rating": "1734",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "295",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/kZbIYRlg/black#38",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "6ju2Y",
+    "FEN": "rn3rk1/pp3N1p/2p3pP/8/4nb2/7P/PPP1BP1R/1K1R4 b - - 0 20",
+    "Moves": "f8f7 d1d8 f7f8 e2c4 g8h8 d8f8",
+    "Rating": "1760",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "887",
+    "Themes": "deflection kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/hd2113OJ/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6ju32",
+    "FEN": "5rk1/ppR4p/4p3/4p3/P3Prq1/1nP1QN2/1P2RPP1/5K2 w - - 3 24",
+    "Moves": "f3e5 f4f2 e3f2 f8f2 f1f2 g4f4",
+    "Rating": "1788",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "3655",
+    "Themes": "attraction crushing long middlegame",
+    "GameUrl": "https://lichess.org/jAk5kq6P#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6juZV",
+    "FEN": "r4rk1/ppp1qppp/2npb3/1Q4b1/8/5N1P/PPP1BPP1/RN3RK1 b - - 3 12",
+    "Moves": "a8b8 b5g5 e7g5 f3g5",
+    "Rating": "1766",
+    "RatingDeviation": "78",
+    "Popularity": "77",
+    "NbPlays": "70",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/amPpVpXw/black#24",
+    "OpeningTags": "Center_Game Center_Game_Normal_Variation"
+  }
+]

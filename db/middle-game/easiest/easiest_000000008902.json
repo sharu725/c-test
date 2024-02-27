@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QOrFH",
+    "FEN": "1bkr3r/p1q2ppp/2p1p3/1N6/2Q5/7P/PPP2PP1/3R1RK1 w - - 2 18",
+    "Moves": "b5c3 c7h2",
+    "Rating": "728",
+    "RatingDeviation": "92",
+    "Popularity": "81",
+    "NbPlays": "78",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/MJbjfUIc#35",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "QOrdu",
+    "FEN": "q1r4r/3n1pk1/p2pb2p/Np2p1R1/4P1P1/2N1QP2/PPP1B1K1/7R b - - 0 24",
+    "Moves": "h6g5 e3g5 g7f8 h1h8",
+    "Rating": "790",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "1583",
+    "Themes": "deflection mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/TMFEjOwl/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QOrv4",
+    "FEN": "2r2rk1/pp2p2p/5ppb/qN6/3Q1nP1/1P3P1P/PBPP4/2KR3R w - - 0 21",
+    "Moves": "a2a4 f4e2 c1b1 e2d4",
+    "Rating": "911",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1919",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/CBqIBJoi#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QOw8D",
+    "FEN": "r2qr1k1/ppp2p1p/3p1bpB/4n3/5P2/2PB3P/PPQ1R1P1/4R1K1 b - - 0 19",
+    "Moves": "e5d3 e2e8 d8e8 e1e8",
+    "Rating": "808",
+    "RatingDeviation": "83",
+    "Popularity": "95",
+    "NbPlays": "2993",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/jUYHF1Gi/black#38",
+    "OpeningTags": "Danish_Gambit Danish_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "QOwqc",
+    "FEN": "r2k2nr/3p2pp/b1p5/p1P1p3/2B1P3/8/PP4PP/RN3RK1 b - - 2 15",
+    "Moves": "a6c4 f1f8 d8c7 f8a8",
+    "Rating": "688",
+    "RatingDeviation": "84",
+    "Popularity": "95",
+    "NbPlays": "821",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/aVnVjToK/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "QP085",
+    "FEN": "2k1r2r/ppp1Qppp/3p4/8/2B5/5P1b/PPP2P1P/RN2R1K1 w - - 1 14",
+    "Moves": "e7f7 e8e1 c4f1 e1f1",
+    "Rating": "663",
+    "RatingDeviation": "92",
+    "Popularity": "81",
+    "NbPlays": "350",
+    "Themes": "hangingPiece kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/JeiZoiA5#27",
+    "OpeningTags": "Russian_Game Russian_Game_Modern_Attack"
+  },
+  {
+    "PuzzleId": "QP0Z4",
+    "FEN": "1q4kr/p3p2p/bpBpp1pB/3N4/P1PbP2P/8/1P3PP1/R3K2R b KQ - 0 19",
+    "Moves": "e6d5 c6d5 e7e6 d5e6",
+    "Rating": "801",
+    "RatingDeviation": "81",
+    "Popularity": "91",
+    "NbPlays": "887",
+    "Themes": "bodenMate kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AeDGuAHA/black#38",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "QP1QC",
+    "FEN": "r3r1k1/p4ppp/b1N5/8/8/2n5/P1P2PPP/R1B2RK1 w - - 1 16",
+    "Moves": "f1e1 e8e1",
+    "Rating": "759",
+    "RatingDeviation": "84",
+    "Popularity": "100",
+    "NbPlays": "75",
+    "Themes": "backRankMate hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Wp2Nz741#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  },
+  {
+    "PuzzleId": "QP1wU",
+    "FEN": "r4rk1/1pb2ppp/2bqpn2/p1p5/Pn1pP3/NP1P1B1P/2P1NPP1/R1BQ1RK1 w - - 5 16",
+    "Moves": "a3c4 d6h2",
+    "Rating": "978",
+    "RatingDeviation": "123",
+    "Popularity": "86",
+    "NbPlays": "25",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/AlEZG1w8#31",
+    "OpeningTags": "Mieses_Opening Mieses_Opening_Other_variations"
+  }
+]

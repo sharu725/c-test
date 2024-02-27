@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SuAzF",
+    "FEN": "3r4/p1q1b1pk/1pp3p1/2n1p1Pp/2Q1P3/1B2B2P/PPP2P1K/3R4 b - - 3 23",
+    "Moves": "d8d1 c4g8",
+    "Rating": "1439",
+    "RatingDeviation": "422",
+    "Popularity": "33",
+    "NbPlays": "9",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/xC3wOULA/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SuBTK",
+    "FEN": "4B1rk/pp4b1/8/3pP1B1/3P1r1P/8/PP3p1K/3Q4 b - - 0 40",
+    "Moves": "f2f1q d1h5 g7h6 h5h6",
+    "Rating": "1419",
+    "RatingDeviation": "80",
+    "Popularity": "10",
+    "NbPlays": "128",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/InDJoMYW/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SuBqk",
+    "FEN": "2r2rk1/pp2bpp1/1q2p2p/3nP3/1P1Pb3/P5P1/3Q1BBP/2R2RK1 w - - 0 20",
+    "Moves": "g2e4 e7g5",
+    "Rating": "1452",
+    "RatingDeviation": "88",
+    "Popularity": "87",
+    "NbPlays": "51",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/Hp9skaKB#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SuDUU",
+    "FEN": "r2qk2r/3p1pp1/n1p1pn1p/8/1b1PP3/5N2/1P1B1PPP/RN1Q1RK1 w kq - 2 12",
+    "Moves": "d2b4 a6b4 a1a8 d8a8",
+    "Rating": "1426",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/D6RpnpRW#23",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SuFqo",
+    "FEN": "r4rk1/p4p1B/b7/3Q4/1b6/1P2K1P1/P4P2/qN5R b - - 0 20",
+    "Moves": "g8g7 d5g5 g7h8 h7d3",
+    "Rating": "1454",
+    "RatingDeviation": "88",
+    "Popularity": "75",
+    "NbPlays": "40",
+    "Themes": "discoveredAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/FGnvSVm3/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SuIy0",
+    "FEN": "r2qr3/1b2kpp1/4p1n1/3pP1P1/1ppP1B2/4P3/PP1Q2P1/2KR3R b - - 1 26",
+    "Moves": "a8a2 d2b4 e7d7 b4b7",
+    "Rating": "1578",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality fork middlegame short",
+    "GameUrl": "https://lichess.org/ruJbPBAt/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SuJjD",
+    "FEN": "r1q2rk1/p3ppbp/Np3np1/4n3/8/Q1N3Pb/PP2PP1P/R1BR2KB w - - 2 17",
+    "Moves": "h1a8 c8a8 c3d5 f6d5",
+    "Rating": "1518",
+    "RatingDeviation": "75",
+    "Popularity": "69",
+    "NbPlays": "194",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/dP2y0aDw#33",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "SuK13",
+    "FEN": "2r3k1/4ppB1/3p2p1/3P2P1/5P2/1p1n1N1Q/qPP5/2KR3R w - - 5 31",
+    "Moves": "d1d3 c8c2 c1d1 a2a1",
+    "Rating": "1498",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "12121",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/X80Z2S5e#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SuLfY",
+    "FEN": "1r5k/p6p/1p4p1/1PpP1pB1/3brP2/7P/P1Q1BpP1/1R5K w - - 0 32",
+    "Moves": "e2f3 e4e1 h1h2 f2f1q b1e1 f1e1",
+    "Rating": "1466",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "494",
+    "Themes": "advancedPawn crushing kingsideAttack long middlegame promotion",
+    "GameUrl": "https://lichess.org/qyxGk9o8#63",
+    "OpeningTags": ""
+  }
+]

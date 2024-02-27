@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "js038",
+    "FEN": "7k/ppp3pp/2nb1r2/7q/3P1p2/2B2P2/PPB1QP1P/R6K w - - 5 24",
+    "Moves": "d4d5 f6h6 c3g7 h8g7",
+    "Rating": "1597",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1665",
+    "Themes": "crushing middlegame quietMove short",
+    "GameUrl": "https://lichess.org/PzPEM7fz#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "js0IV",
+    "FEN": "r1bqr1k1/pp3p2/8/2b3p1/4p3/2Q1PNB1/PP3PP1/R3K2R b KQ - 1 18",
+    "Moves": "c5b4 h1h8",
+    "Rating": "1429",
+    "RatingDeviation": "82",
+    "Popularity": "87",
+    "NbPlays": "3639",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/AUUqtKqb/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "js4Aq",
+    "FEN": "6k1/ppp2ppp/n2b4/3P4/3PrP2/PP1N1QPq/1B6/R5K1 b - - 1 22",
+    "Moves": "f7f5 d3f2 h3h6 f2e4",
+    "Rating": "1561",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "920",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/heSoBBvk/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "js5Y9",
+    "FEN": "4k2r/3n3p/4p1pB/3pP3/2np2PP/pN3Q2/Pq6/5R1K b k - 1 29",
+    "Moves": "c4e3 f3f7 e8d8 h6g5 d8c7 f1c1",
+    "Rating": "1583",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "686",
+    "Themes": "crushing exposedKing long middlegame pin",
+    "GameUrl": "https://lichess.org/MTAqNyEZ/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "js5mm",
+    "FEN": "r3k1n1/pp3pp1/2n1p3/3pP3/5B1q/2N2Q2/PP3P2/2KR4 b q - 3 18",
+    "Moves": "g8e7 d1h1 c6d4 h1h4 d4f3 h4h8 e8d7 h8a8",
+    "Rating": "1597",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1130",
+    "Themes": "advantage middlegame skewer trappedPiece veryLong",
+    "GameUrl": "https://lichess.org/zBlZhQ2C/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "js6fH",
+    "FEN": "r1b2rk1/pp1ppp1p/1q4p1/3N4/2PbP3/8/PP4PP/1R1QKB1R b K - 1 12",
+    "Moves": "b6a5 b2b4 d4c3 d5c3",
+    "Rating": "1404",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1283",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/R1Qql98y/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "js7tA",
+    "FEN": "2r3k1/p2nqppp/Qp2p3/3p4/3Pn3/2P1PN2/P2N1PPP/2R3K1 b - - 4 17",
+    "Moves": "c8c3 c1c3 e4c3 a6c8 d7f8 c8c3",
+    "Rating": "1527",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "6479",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/otXSh80i/black#34",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Queens_Gambit_Invitation"
+  },
+  {
+    "PuzzleId": "js9fw",
+    "FEN": "7k/q4r1p/5rp1/2pPpb2/ppP1N3/1P2QR2/P4R1P/4K3 b - - 3 42",
+    "Moves": "f5e4 f3f6 f7f6 f2f6",
+    "Rating": "1463",
+    "RatingDeviation": "77",
+    "Popularity": "73",
+    "NbPlays": "85",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/SnzROidR/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "js9qf",
+    "FEN": "r1bq1rk1/1p4pB/p3pp2/3pB3/P1PP4/8/4KPPP/1Q5R b - - 0 16",
+    "Moves": "g8f7 b1g6 f7e7 g6g7 f8f7 e5f6",
+    "Rating": "1403",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "3092",
+    "Themes": "crushing deflection long middlegame",
+    "GameUrl": "https://lichess.org/ejANbB0J/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Steinitz_Countergambit"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "A8LJw",
+    "FEN": "r2q1k1R/2p2pr1/pb6/1p1P4/5Q2/2PB4/PP3nPP/4R1K1 b - - 1 26",
+    "Moves": "g7g8 f4h6",
+    "Rating": "1389",
+    "RatingDeviation": "153",
+    "Popularity": "58",
+    "NbPlays": "46",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/mpiCy1oL/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "A8MOf",
+    "FEN": "1rr3k1/5pp1/2nqpnp1/1p1pN3/3P4/2PQ3P/1P1N1PP1/R3R1K1 w - - 0 19",
+    "Moves": "a1a6 c6e5 d4e5 d6a6",
+    "Rating": "1340",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "453",
+    "Themes": "advantage discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/47pjKoI8#37",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "A8NMk",
+    "FEN": "r1bqr1k1/1p3ppp/p1p1p3/2B1P3/2P5/2n5/P1P1BPPP/R2Q1RK1 w - - 1 14",
+    "Moves": "d1d8 c3e2 g1h1 e8d8",
+    "Rating": "1310",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "3057",
+    "Themes": "advantage hangingPiece intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/QLP8RZOO#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "A8PiB",
+    "FEN": "2k1r1r1/3nN1pp/p2q4/3p4/3p4/P7/1PQN1PPP/4R1K1 b - - 2 23",
+    "Moves": "c8d8 c2c8",
+    "Rating": "1300",
+    "RatingDeviation": "161",
+    "Popularity": "19",
+    "NbPlays": "14",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/VdqZqAZb/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "A8REP",
+    "FEN": "2r1k2r/4p3/p2pp1p1/1p2n2p/4P2P/qPN2P2/P1PQ2P1/1K1R3R w k - 0 26",
+    "Moves": "d2c1 a3c1 b1c1 c8c3",
+    "Rating": "1367",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "8709",
+    "Themes": "advantage middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/yW59bO8C#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "A8SO3",
+    "FEN": "3r2k1/p4pp1/1p1r1b1p/2p1pq2/P7/1PPPPBP1/2QR2KP/4R3 w - - 1 25",
+    "Moves": "f3e4 f5e4 d3e4 d6d2 e1e2 d2c2",
+    "Rating": "1361",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "8035",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/2bBzobZ8#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "A8STr",
+    "FEN": "r1bq1rk1/ppp2ppp/2p1P3/8/2B2nQ1/8/PB1b1PPP/R4RK1 b - - 0 13",
+    "Moves": "c8e6 g4g7",
+    "Rating": "1278",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "450",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4R0eUVvV/black#26",
+    "OpeningTags": "Danish_Gambit_Accepted Danish_Gambit_Accepted_Other_variations"
+  },
+  {
+    "PuzzleId": "A8XS4",
+    "FEN": "1r2kb1r/pBR2p1p/4ppb1/1q6/3Q2PN/7P/3B1P2/4K2R b Kk - 0 18",
+    "Moves": "b8b7 c7c8 e8e7 d4d8",
+    "Rating": "1383",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "518",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/4Cbmdf4l/black#36",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Lasker_Variation"
+  },
+  {
+    "PuzzleId": "A8ai5",
+    "FEN": "r1b3nN/pppp2b1/5k2/8/4P3/1P1K4/P2P1PPP/nNB4R b - - 0 13",
+    "Moves": "g7h8 c1b2 f6f7 b2h8 a1b3 a2b3",
+    "Rating": "1373",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "440",
+    "Themes": "advantage fork long middlegame skewer trappedPiece",
+    "GameUrl": "https://lichess.org/qC2rcYOQ/black#26",
+    "OpeningTags": "Italian_Game Italian_Game_Blackburne-Kostic_Gambit"
+  }
+]

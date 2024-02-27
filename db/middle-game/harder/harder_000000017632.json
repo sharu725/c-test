@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "rMBT2",
+    "FEN": "2r2Rk1/1b2r2p/4N1pQ/pp2q3/6P1/2N2P2/1PP5/2K4R b - - 5 28",
+    "Moves": "c8f8 h6f8",
+    "Rating": "1895",
+    "RatingDeviation": "106",
+    "Popularity": "65",
+    "NbPlays": "134",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/MsNFIWGy/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rMCAZ",
+    "FEN": "2r1k2r/pp1n1p1p/1q2pb2/5n1Q/5B2/2N5/PPP2PPP/3RR1K1 b k - 4 20",
+    "Moves": "b6c6 h5f5 f6c3 b2c3",
+    "Rating": "1877",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "4540",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/SQvJrHss/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rMEym",
+    "FEN": "r4k2/1p1n1p2/p7/2pP1qp1/P6r/2N2P2/1P1Q2Pn/R3RBK1 w - - 0 25",
+    "Moves": "f1d3 h2f3 g2f3 f5f3",
+    "Rating": "1830",
+    "RatingDeviation": "81",
+    "Popularity": "71",
+    "NbPlays": "37",
+    "Themes": "crushing kingsideAttack master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/SFrjuU8F#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rMFTF",
+    "FEN": "4rrk1/pbq2p1p/1p4p1/4R3/2B5/2P3QP/PP4P1/4R1K1 w - - 1 26",
+    "Moves": "c4f7 c7f7 e5e8 f8e8",
+    "Rating": "1815",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "1160",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/VsJY1Bwn#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rMJaa",
+    "FEN": "r2q2k1/pp4pp/3p4/3Npr2/3nR3/1P1Q3P/P4PP1/R5K1 b - - 3 18",
+    "Moves": "d8f8 e4d4 e5d4 d3f5 f8f5 d5e7 g8f7 e7f5",
+    "Rating": "1952",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4416",
+    "Themes": "attraction crushing discoveredAttack fork middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/jFllCp5c/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "rMJlM",
+    "FEN": "r3b1k1/1pp1q1p1/p6p/3PBr2/2P2nQ1/6R1/P1P2PPP/R5K1 w - - 0 28",
+    "Moves": "e5f4 e7f6 g4g7 f6g7 g3g7 g8g7",
+    "Rating": "1913",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "46",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/06o4aUbC#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rMNCP",
+    "FEN": "2r2r1k/p2qp1bp/1pn1pnp1/2p5/6P1/1P1NPQ1P/PBPP2B1/R4RK1 b - - 0 17",
+    "Moves": "f6d5 f3f8 c8f8 f1f8",
+    "Rating": "1956",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "6608",
+    "Themes": "kingsideAttack master mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/l61ClgpZ/black#34",
+    "OpeningTags": "Kings_Indian_Attack Kings_Indian_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "rMOXp",
+    "FEN": "4rr1k/1pp3pB/pqn3Q1/6p1/7P/8/PPP3P1/1K1R4 b - - 3 25",
+    "Moves": "f8f6 g6e8 h8h7 h4g5",
+    "Rating": "1843",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "204",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/7zfY7F6p/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rMROp",
+    "FEN": "r1bqr1k1/1p1n2bp/p4npB/3p4/P1p5/2N2P2/1PPQ1KPP/R4BNR b - - 1 15",
+    "Moves": "d5d4 f1c4 g8h8 h6g7 h8g7 d2d4",
+    "Rating": "1801",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "185",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/WwYyIaS9/black#30",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Benoni-Indian_Defense"
+  }
+]

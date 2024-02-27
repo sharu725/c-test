@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Q9rbF",
+    "FEN": "1r3rk1/p1pn1ppp/2n5/2bN2PP/3qP3/1pBP4/PPP1B3/2KQ3R b - - 1 20",
+    "Moves": "d4e3 d5e3 c5e3 c1b1",
+    "Rating": "1796",
+    "RatingDeviation": "91",
+    "Popularity": "83",
+    "NbPlays": "26",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/jOeCbCRW/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Q9tbo",
+    "FEN": "2r3k1/5ppp/5n2/q2p4/3QpP2/2N1P1PP/rp1K4/1N1R3R w - - 1 33",
+    "Moves": "d2e2 c8c3 d4c3 a5c3 b1c3 b2b1q",
+    "Rating": "1718",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "973",
+    "Themes": "advancedPawn crushing discoveredAttack long middlegame promotion",
+    "GameUrl": "https://lichess.org/sikPEOrZ#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Q9vrD",
+    "FEN": "1r3rk1/3N1ppp/p3p3/P2p1n1P/1PpP4/2P5/2K2Pq1/R2Q3R w - - 2 29",
+    "Moves": "d7f8 f5e3 c2c1 e3d1",
+    "Rating": "1761",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1532",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/nAT6GAov#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Q9vxg",
+    "FEN": "2r1kb1r/1b1p1p2/p1q1pB1p/1p2P1p1/7Q/5P1N/PPP1R1PP/RN4K1 w k - 0 21",
+    "Moves": "h4e4 c6b6 g1h1 b7e4",
+    "Rating": "1772",
+    "RatingDeviation": "80",
+    "Popularity": "69",
+    "NbPlays": "40",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/vlbpH61c#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Q9w3Z",
+    "FEN": "r1bqkbr1/5p2/p1np3p/1p1Np2Q/4p3/N4P2/PPP3PP/2KR1B1R w q - 1 14",
+    "Moves": "f3e4 c8g4 h5g4 g8g4",
+    "Rating": "1638",
+    "RatingDeviation": "73",
+    "Popularity": "97",
+    "NbPlays": "10773",
+    "Themes": "crushing fork middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/Hc05erGU#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  },
+  {
+    "PuzzleId": "Q9wMW",
+    "FEN": "r3r1k1/pp1n1ppp/2p2n2/3p1Q2/2PP4/1Pq2N1P/P3BPP1/R4RK1 w - - 0 16",
+    "Moves": "e2d3 g7g6 f5f4 c3d3",
+    "Rating": "1653",
+    "RatingDeviation": "97",
+    "Popularity": "85",
+    "NbPlays": "62",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/2wiiBXyj#31",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "Q9y2W",
+    "FEN": "2kr3r/1pqn1pp1/2p1p1p1/p3P3/P1BP4/2P5/3Q1PPP/R4RK1 w - - 1 17",
+    "Moves": "a1b1 d7e5 c4e6 f7e6",
+    "Rating": "1657",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "407",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/i7W3FXRq#33",
+    "OpeningTags": "Slav_Defense Slav_Defense_Quiet_Variation"
+  },
+  {
+    "PuzzleId": "Q9ynS",
+    "FEN": "r3k2r/pp1bbp2/1q2p1pp/2ppP3/5Q2/2PBP1P1/PP1N1PP1/1R2K2R b Kkq - 1 14",
+    "Moves": "e7g5 f4g5 h6g5 h1h8 e8e7 h8a8",
+    "Rating": "1615",
+    "RatingDeviation": "84",
+    "Popularity": "84",
+    "NbPlays": "30",
+    "Themes": "advantage long master middlegame skewer",
+    "GameUrl": "https://lichess.org/K8pPWN4Y/black#28",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Q9zLY",
+    "FEN": "3r1rk1/1p2bppp/pqn1b3/2PB4/4P3/P1N1B3/5PPP/R2Q1RK1 b - - 0 15",
+    "Moves": "e7c5 c3a4 c5e3 a4b6",
+    "Rating": "1759",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1633",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/byprrR2I/black#30",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Central_Variation"
+  }
+]

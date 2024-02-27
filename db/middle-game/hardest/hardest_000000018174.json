@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "beOpS",
+    "FEN": "4r1k1/1b2qpr1/p2p1p1Q/1p1P3P/7N/P1P5/1PB2PP1/3R2K1 b - - 2 28",
+    "Moves": "b7d5 h6g7 g8g7 h4f5 g7f8 f5e7",
+    "Rating": "2235",
+    "RatingDeviation": "76",
+    "Popularity": "72",
+    "NbPlays": "74",
+    "Themes": "attraction crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/Xc1KbcbM/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bePw4",
+    "FEN": "r3r3/p3q2k/2n3p1/3R4/8/P1B1P2P/1PQ2PP1/6K1 b - - 3 25",
+    "Moves": "h7h6 c2a4 e8d8 a4c6 a8c8 c6b5 d8d5 b5d5",
+    "Rating": "2379",
+    "RatingDeviation": "78",
+    "Popularity": "99",
+    "NbPlays": "79",
+    "Themes": "crushing middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/TzuleYtX/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "beSGU",
+    "FEN": "r4rk1/pppn1ppb/4p3/3pP3/5P2/2N1P1q1/PPPKB3/R2Q3R b - - 2 15",
+    "Moves": "d7c5 h1h7 d5d4 d1h1",
+    "Rating": "2283",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "972",
+    "Themes": "advantage clearance middlegame short",
+    "GameUrl": "https://lichess.org/XUpx9Bah/black#30",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "beTlX",
+    "FEN": "N1b2rk1/pp2nppp/8/8/3Qpqn1/2P5/PP3PPP/RN2KB1R w KQ - 3 14",
+    "Moves": "b1d2 e7c6 d4c5 e4e3",
+    "Rating": "2082",
+    "RatingDeviation": "113",
+    "Popularity": "77",
+    "NbPlays": "36",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/r3i16pPw#27",
+    "OpeningTags": "Scotch_Game Scotch_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "beUbf",
+    "FEN": "3r1rk1/pp2b3/6p1/3pQ2p/1P5P/1NP1NqP1/P4n1K/3R1R2 w - - 5 31",
+    "Moves": "b3d4 f3e3 e5e3 f2g4",
+    "Rating": "2019",
+    "RatingDeviation": "149",
+    "Popularity": "73",
+    "NbPlays": "12",
+    "Themes": "crushing middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/SSBfhfl2#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "beUq0",
+    "FEN": "5rk1/1p3p1p/p2p2p1/3Bp1b1/3NPnq1/P1PQ1N2/5P1B/5R1K w - - 1 23",
+    "Moves": "f1g1 f4d3 g1g4 d3f2 h1g1 f2g4",
+    "Rating": "2207",
+    "RatingDeviation": "79",
+    "Popularity": "79",
+    "NbPlays": "68",
+    "Themes": "crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/6cGJJcHQ#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "beVZc",
+    "FEN": "4r1k1/6pp/p2B2n1/2R1Pp2/P4P2/1b1q4/1r1N1QPP/3R2K1 w - - 1 32",
+    "Moves": "c5c7 b3d1 f2a7 g6e7",
+    "Rating": "2031",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "42",
+    "Themes": "crushing defensiveMove hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/o7hrk6fJ#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "beWzp",
+    "FEN": "rn1q1rk1/5pp1/pppb4/3Q3p/3P4/3BPP1P/PP3PK1/R1B2R2 w - - 0 15",
+    "Moves": "d5f5 g7g6 f5e4 f8e8",
+    "Rating": "2038",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "2279",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/emSWJ5bQ#29",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "beXEg",
+    "FEN": "r3k1nr/3pppbp/b1p3p1/p1N1P1B1/6q1/2P2N2/P4PPP/R2QK2R b KQkq - 2 13",
+    "Moves": "a6c4 h2h3 g4g2 d1d7 e8f8 d7c6",
+    "Rating": "2109",
+    "RatingDeviation": "110",
+    "Popularity": "82",
+    "NbPlays": "21",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/TkPp7Lro/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  }
+]

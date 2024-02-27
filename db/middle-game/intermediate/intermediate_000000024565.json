@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "xBqJh",
+    "FEN": "r1b2rk1/p1p2ppp/2p5/2np4/3Q4/5N2/PqP2PPP/RN2R1K1 b - - 1 13",
+    "Moves": "b2c2 b1a3 c2g6 d4c5",
+    "Rating": "1589",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "15772",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/4JNciNLa/black#26",
+    "OpeningTags": "Italian_Game Italian_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "xBqT3",
+    "FEN": "r1bqkb1r/1p5p/p2pPpN1/2p4Q/2n2P2/8/P1PB2PP/R3K2R b KQkq - 0 17",
+    "Moves": "h7g6 h5g6 e8e7 g6f7",
+    "Rating": "1534",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "203",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/wvvxXYHk/black#34",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "xBqxQ",
+    "FEN": "r4rk1/p1pq1pbp/2p3p1/3n4/2B3b1/2PQ1N2/PP3PPP/R1B2RK1 w - - 2 13",
+    "Moves": "c1f4 d5f4 d3d7 g4d7",
+    "Rating": "1577",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "12271",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/bi35xbyJ#25",
+    "OpeningTags": "Italian_Game Italian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "xBs4W",
+    "FEN": "3r1rk1/ppp2ppp/2n3q1/3npb2/4N3/3PP1P1/PP2NPBP/R1BQ1RK1 w - - 2 13",
+    "Moves": "d3d4 f5e4 g2e4 g6e4",
+    "Rating": "1461",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/js5EzYsC#25",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xBtoy",
+    "FEN": "r4b1r/pp3kp1/2pp4/qN4Bp/4Q2P/8/PPP2PP1/R3K2R w KQ - 4 18",
+    "Moves": "b5c3 a8e8 e4e8 f7e8",
+    "Rating": "1475",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "762",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/Z0ojtunq#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "xBtt2",
+    "FEN": "5rk1/pbq3pp/4pp2/2p5/2P2P2/1P4Q1/PB1r2PP/4RRK1 w - - 2 20",
+    "Moves": "b2c3 d2g2 g3g2 b7g2",
+    "Rating": "1500",
+    "RatingDeviation": "500",
+    "Popularity": "82",
+    "NbPlays": "1",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/G4PkzPsq#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xBuOm",
+    "FEN": "r2qkb1r/pp3ppp/3P2n1/4p3/4n1b1/2P2NP1/PP3PBP/RNBQ1RK1 b kq - 0 10",
+    "Moves": "f8d6 d1a4 d8d7 a4e4",
+    "Rating": "1568",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "1333",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/4xJxgGYo/black#20",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "xBvKs",
+    "FEN": "rnb1kbnr/p2p1ppp/3Pp1q1/1p2P3/2p1N3/4BQ2/PPP2PPP/R3KBNR b KQkq - 0 10",
+    "Moves": "c8b7 e4f6 g6f6 f3b7",
+    "Rating": "1487",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "1593",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/JXTCpyQQ/black#20",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Woozle"
+  },
+  {
+    "PuzzleId": "xBvQ4",
+    "FEN": "rnb2rk1/1p2ppb1/pq1p1npp/2pP4/P1P4B/R1N1PN2/1P3PPP/3QKB1R b K - 2 10",
+    "Moves": "b6b2 a3b3 b2b3 d1b3",
+    "Rating": "1553",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "259",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/6ZlNiT3I/black#20",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Hromadka_System"
+  }
+]

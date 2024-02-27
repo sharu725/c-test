@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "yEJi2",
+    "FEN": "r2q2k1/2R2pbp/4b1p1/1R6/pQ1p4/7P/3B1PP1/6K1 w - - 2 25",
+    "Moves": "c7b7 g7f8 b7b8 f8b4 b8d8 a8d8",
+    "Rating": "2366",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "596",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/7WhL1ryB#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yELfv",
+    "FEN": "3rr1k1/1ppq1ppp/pnn5/3pP3/5B2/1PN3QP/P4PP1/2R1R1K1 b - - 2 21",
+    "Moves": "g8h8 e5e6 f7e6 f4c7",
+    "Rating": "2084",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "3296",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/GHdBVeVv/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yEMFD",
+    "FEN": "r4qk1/2p1r1pp/pnnb4/1p4N1/6P1/2N1B2P/PP2QP2/R3R1K1 b - - 7 21",
+    "Moves": "b6c4 e2d3 g7g6 d3d5",
+    "Rating": "2080",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "159",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/HhAj3kOL/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yEPAj",
+    "FEN": "r1b2rk1/pp1nppb1/8/3p2R1/2pP1P2/2P1q3/PPBN2PP/1R1Q3K b - - 1 18",
+    "Moves": "e3f4 d1h5 d7f6 h5h6 f4g5 h6g5",
+    "Rating": "2164",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "65",
+    "Themes": "crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/FSBBTzQp/black#36",
+    "OpeningTags": "Torre_Attack Torre_Attack_Fianchetto_Defense"
+  },
+  {
+    "PuzzleId": "yEQr7",
+    "FEN": "2r1rb2/2q2p1k/p1np3p/1p1P1NP1/2p1n1P1/P6P/1PQ3KB/3R1R2 b - - 1 33",
+    "Moves": "c6e7 f5g3 e7g6 g3e4 e8e4 c2e4",
+    "Rating": "2247",
+    "RatingDeviation": "294",
+    "Popularity": "0",
+    "NbPlays": "19",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/bfWPjlzf/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yETxP",
+    "FEN": "r3qrk1/p1p2pb1/1p1p2n1/3P1NQ1/8/2P3P1/PP5P/4RRK1 b - - 2 23",
+    "Moves": "e8d8 f5e7 g6e7 e1e7",
+    "Rating": "2329",
+    "RatingDeviation": "97",
+    "Popularity": "86",
+    "NbPlays": "666",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/21BSth18/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yEVeL",
+    "FEN": "rn2kb1r/pp1b1ppp/3ppn2/qB6/3PP3/BQN2N2/P4PPP/R3K2R b KQkq - 5 9",
+    "Moves": "f6e4 a3b4 a5b6 b5d7 b8d7 c3e4 d6d5 e4c5",
+    "Rating": "2341",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "1374",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/Enrr01bz/black#18",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Wing_Gambit"
+  },
+  {
+    "PuzzleId": "yEWn7",
+    "FEN": "8/pp3pk1/2b3n1/4pQ2/5bPr/2R5/1P2K3/1B1rB3 b - - 1 34",
+    "Moves": "d1d4 e1h4 c6b5 b1d3 b5d3 c3d3",
+    "Rating": "2041",
+    "RatingDeviation": "88",
+    "Popularity": "78",
+    "NbPlays": "32",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/M0T8TZck/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yEZNY",
+    "FEN": "2r2rk1/pp1nppbp/1q1p1np1/8/2P1P3/1PN2N2/P4PPP/R1BQR1K1 b - - 0 12",
+    "Moves": "f6e4 c3e4 g7a1 c1e3 b6c6 d1a1",
+    "Rating": "2309",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2017",
+    "Themes": "advantage discoveredAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/9vxfeIiY/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Canal_Attack"
+  }
+]

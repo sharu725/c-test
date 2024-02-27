@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "qvkPu",
+    "FEN": "r5k1/2q1rpbp/4p1p1/3pP1N1/2nB4/3Q1R2/P5PP/5RK1 b - - 2 25",
+    "Moves": "h7h6 g5f7 e7f7 f3f7 c7f7 f1f7",
+    "Rating": "1948",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "266",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/mxNJdUcD/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qvkqX",
+    "FEN": "r4rk1/pp1q1p1p/1b3Bp1/2p1Pn2/3p1QR1/2N2N2/PP5P/R4K2 w - - 0 24",
+    "Moves": "c3e4 f5e3 f1g1 d7g4 f4g4 e3g4",
+    "Rating": "1816",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "4354",
+    "Themes": "crushing discoveredAttack exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/4yju3Pv2#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qvorn",
+    "FEN": "rr4k1/1bqnbppp/2n1p3/2ppP1N1/p4BNP/P2P2P1/2P2PB1/R2QR1K1 b - - 2 17",
+    "Moves": "d7f8 g4f6 e7f6 e5f6",
+    "Rating": "1937",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "666",
+    "Themes": "advantage kingsideAttack master middlegame short",
+    "GameUrl": "https://lichess.org/vVomTvah/black#34",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Indian_Defense"
+  },
+  {
+    "PuzzleId": "qvryZ",
+    "FEN": "1k1r2r1/3q4/p2p3p/1ppPb1p1/2P1Qp2/PB5P/1P2RPP1/4R1K1 b - - 0 31",
+    "Moves": "e5b2 e2b2 d8e8 e4b1 e8e1 b1e1",
+    "Rating": "1825",
+    "RatingDeviation": "101",
+    "Popularity": "67",
+    "NbPlays": "15",
+    "Themes": "crushing hangingPiece long middlegame quietMove",
+    "GameUrl": "https://lichess.org/gNaUwsEl/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qvtJX",
+    "FEN": "3rk2r/1N1bn1pp/p2Q1p2/4p3/2p5/4PNB1/q4PPP/5RK1 b k - 0 18",
+    "Moves": "e7c8 d6c7 e8g8 b7d8",
+    "Rating": "1874",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1323",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/HiuoUMGl/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "qvuri",
+    "FEN": "1r2k1nr/1P3p2/1p1Rp1p1/p6p/Pn3P2/8/1PPB3q/1N1KQB2 b k - 0 21",
+    "Moves": "e8e7 d2b4 a5b4 e1b4",
+    "Rating": "1801",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1685",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/fUz7mfUr/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qvwoy",
+    "FEN": "r2q2k1/1p3ppp/p4n2/3B1N2/5r2/1P5P/P5P1/2RQ1RK1 b - - 0 21",
+    "Moves": "f4f1 g1f1 f6d5 d1d5",
+    "Rating": "1951",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "102",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/utt2k2Qz/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qvwq4",
+    "FEN": "2k3r1/pp6/1bp5/5b2/PP3B1K/2PR4/6P1/RN6 w - - 2 27",
+    "Moves": "d3d2 g8g4 h4h5 g4f4",
+    "Rating": "1863",
+    "RatingDeviation": "239",
+    "Popularity": "100",
+    "NbPlays": "17",
+    "Themes": "equality fork middlegame short",
+    "GameUrl": "https://lichess.org/BkSu8kc1#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qvx61",
+    "FEN": "2bqk2r/3pppbp/p5p1/3pP1B1/3P4/5N2/Pr3PPP/1R1Q1RK1 b k - 1 13",
+    "Moves": "d8b6 d1c1 b2b1 c1c8 b6d8 c8d8 e8d8 f1b1",
+    "Rating": "1829",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "93",
+    "Themes": "advantage middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/ENiILlcp/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EchAX",
+    "FEN": "2r2rk1/pp5p/4p2q/nQ1P2p1/4B1P1/7P/P3K3/5R1R b - - 2 24",
+    "Moves": "a5c4 f1f8 c8f8 b5c4",
+    "Rating": "1070",
+    "RatingDeviation": "293",
+    "Popularity": "-100",
+    "NbPlays": "7",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/T1RIztjg/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EchYy",
+    "FEN": "2r1br1k/pp5p/2p1pq2/3pN3/3Pp3/2P1P1RQ/PP4PP/R5K1 w - - 6 25",
+    "Moves": "g3g4 f6f2 g1h1 f2f1 a1f1 f8f1",
+    "Rating": "1097",
+    "RatingDeviation": "80",
+    "Popularity": "90",
+    "NbPlays": "1056",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/joj3G9HW#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EcilF",
+    "FEN": "r3r1k1/1pp2ppp/p1nq1nb1/3p4/3PpN2/PP2P1PP/1BP2PB1/R2QK2R b KQ - 1 14",
+    "Moves": "f6h5 f4h5 g6h5 d1h5",
+    "Rating": "1193",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "2770",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/QamrFUo2/black#28",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Catalan_Formation"
+  },
+  {
+    "PuzzleId": "EcipW",
+    "FEN": "rnb1k1nr/pp3p2/3p4/2pPp2p/2P1P2q/2BBPQ1P/PP1N2P1/R3K2R w KQkq - 3 17",
+    "Moves": "e1d1 c8g4 h3g4 h4h1",
+    "Rating": "1131",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "64",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/OoYNEBTc#33",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Eckuz",
+    "FEN": "r4rk1/pppqb1p1/2n1pn1p/4p1N1/3PNB1P/3Q4/PPP3P1/R3K2R b KQ - 1 13",
+    "Moves": "e5f4 e4f6 f8f6 d3h7 g8f8 h7h8",
+    "Rating": "1193",
+    "RatingDeviation": "89",
+    "Popularity": "71",
+    "NbPlays": "194",
+    "Themes": "clearance kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/KFD2WDUI/black#26",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "EclXH",
+    "FEN": "2r2r2/3q1pkp/b2p2p1/p2Pp1QN/1p2P3/P1N2P2/1P4PP/2R3K1 b - - 1 24",
+    "Moves": "g7h8 g5f6 h8g8 f6g7",
+    "Rating": "1039",
+    "RatingDeviation": "107",
+    "Popularity": "87",
+    "NbPlays": "26",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/8Ic1S3Fc/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EcnWU",
+    "FEN": "r2q1rk1/3nbpp1/p3p2B/1p1pP2b/8/2PBQ2P/PP1N1PP1/R3R1K1 b - - 0 16",
+    "Moves": "g7h6 e3h6 h5g6 d3g6 f7g6 h6g6",
+    "Rating": "1186",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1294",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/kI5mZ79X/black#32",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "Ecntd",
+    "FEN": "r2q1rk1/5ppp/p1ppb3/4n1b1/4PB2/P1N4P/1PPQB1P1/1R3RK1 b - - 2 16",
+    "Moves": "e6c4 f4g5",
+    "Rating": "1063",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "882",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/5eZXVtC5/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "EcrVV",
+    "FEN": "r1b2rk1/pp3ppp/8/3pP3/3P4/P2BqPP1/2P2R1P/R2Q2K1 b - - 3 17",
+    "Moves": "e3d4 d3h7 g8h7 d1d4",
+    "Rating": "1161",
+    "RatingDeviation": "106",
+    "Popularity": "5",
+    "NbPlays": "45",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/UOH7EmMh/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  }
+]

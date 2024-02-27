@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "eQHiK",
+    "FEN": "r1k4r/1qp5/pn2P2p/1p4bP/3R4/2P5/PP2Q1P1/1K1R4 b - - 3 27",
+    "Moves": "h8d8 e6e7 d8d4 e7e8q",
+    "Rating": "2258",
+    "RatingDeviation": "117",
+    "Popularity": "79",
+    "NbPlays": "17",
+    "Themes": "advancedPawn advantage middlegame promotion short",
+    "GameUrl": "https://lichess.org/9fQgv0R2/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eQHmz",
+    "FEN": "1k1r3r/ppqnbpp1/2p2n2/1N1p2p1/Q2P4/4P2P/PP1BBPP1/2R2RK1 b - - 7 15",
+    "Moves": "c7b6 d2a5 c6b5 e2b5 b6d6 a5c7 d6c7 c1c7",
+    "Rating": "2207",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "589",
+    "Themes": "advantage fork middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/QSub0IX8/black#30",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Baltic_Defense"
+  },
+  {
+    "PuzzleId": "eQIp7",
+    "FEN": "r3k2r/pppb1pp1/2p5/7p/4q3/6P1/PPPQB2P/R1BK3R w kq - 0 15",
+    "Moves": "h1e1 e8c8 d2f4 d7f5 e2d3 d8d3 c2d3 e4d3",
+    "Rating": "2372",
+    "RatingDeviation": "88",
+    "Popularity": "89",
+    "NbPlays": "511",
+    "Themes": "advantage castling discoveredAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/MWXmL9Xd#29",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "eQK16",
+    "FEN": "1k4r1/p1n5/1p6/2p3B1/4bP2/P3KP1r/2RQ2Bq/2R5 w - - 0 31",
+    "Moves": "g2h3 h2h3 d2g2 c7d5 e3f2 h3g2",
+    "Rating": "2260",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "1888",
+    "Themes": "crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/B8TWb6qk#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eQKUk",
+    "FEN": "3r2k1/5pp1/r2b4/P2P4/1P3q1p/2P1R2P/2Q2PP1/1R4K1 w - - 1 36",
+    "Moves": "c2e4 f4h2 g1f1 d6f4",
+    "Rating": "2084",
+    "RatingDeviation": "80",
+    "Popularity": "82",
+    "NbPlays": "42",
+    "Themes": "clearance crushing middlegame short",
+    "GameUrl": "https://lichess.org/NdBDnRH2#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eQLfh",
+    "FEN": "r4rk1/p3n3/5NbQ/1p4P1/2pq1P1P/8/PPB5/2K4R b - - 2 27",
+    "Moves": "g8f7 c2g6 e7g6 h6h7 f7e6 h1e1",
+    "Rating": "2014",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2141",
+    "Themes": "crushing exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/8yrKpUkc/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eQLil",
+    "FEN": "2r2r2/1Q6/p1pb1qkp/3p2pn/3Pp3/P1R1P3/BP2NPP1/5RK1 w - - 1 30",
+    "Moves": "c3c6 c8c6 a2d5 c6c7",
+    "Rating": "2294",
+    "RatingDeviation": "80",
+    "Popularity": "90",
+    "NbPlays": "1180",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/uLOKtgRy#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eQLxZ",
+    "FEN": "3r1r2/pb5k/1ppP1ppP/4Bp2/2q1PQp1/6R1/P1BK1P2/6R1 b - - 0 30",
+    "Moves": "f6e5 f4e5 c4f7 e4f5",
+    "Rating": "2029",
+    "RatingDeviation": "77",
+    "Popularity": "74",
+    "NbPlays": "55",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/Awvy9G5Q/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eQM3f",
+    "FEN": "r3r1k1/ppp2ppp/1q5B/2b3Qn/3n4/2NB3P/PP3PP1/3R1RK1 b - - 13 18",
+    "Moves": "g7g6 c3a4 c5e7 a4b6 e7g5 b6a8",
+    "Rating": "2283",
+    "RatingDeviation": "80",
+    "Popularity": "80",
+    "NbPlays": "100",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/LW2nOAfl/black#36",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Scandinavian_Defense"
+  }
+]

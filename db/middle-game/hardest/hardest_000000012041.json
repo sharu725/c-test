@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "OwR2A",
+    "FEN": "4r1k1/5p1p/p1rp2p1/1p1N2q1/4P3/Pn3P1P/1P3P2/1R1R1Q1K b - - 4 29",
+    "Moves": "b3d2 f3f4 g5f4 d5f4",
+    "Rating": "2222",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "1358",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/LDqyaP69/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OwRC0",
+    "FEN": "3r4/1p2ppkp/6p1/2p1N3/2P2n2/q2P3P/2Q1BPP1/5RK1 w - - 5 29",
+    "Moves": "f1d1 a3c3 c2c3 f4e2 g1f1 e2c3",
+    "Rating": "2231",
+    "RatingDeviation": "80",
+    "Popularity": "78",
+    "NbPlays": "193",
+    "Themes": "advantage attraction deflection fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/gbDUScMJ#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OwSG0",
+    "FEN": "2q4r/7k/r5p1/2pPb1Q1/4P3/7b/4N3/1R3BRK w - - 0 32",
+    "Moves": "g5e7 h7g8 e7e5 h3f1 e5h8 g8h8",
+    "Rating": "2082",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2607",
+    "Themes": "crushing defensiveMove discoveredAttack exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/q1PNuloF#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OwSXV",
+    "FEN": "1k1r1b1r/ppp3pp/4B3/n4p2/3Pp1b1/2P5/PP1N1PPP/R1B1K2R w KQ - 2 14",
+    "Moves": "d2e4 d8e8 d4d5 e8e6 d5e6 f5e4",
+    "Rating": "2106",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "2500",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/jc3dVM8h#27",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Scandinavian_Variation"
+  },
+  {
+    "PuzzleId": "OwTWV",
+    "FEN": "r4rk1/3pqppp/bp1n1n2/pN1Pp3/P7/4B3/1PB1QPPP/R4RK1 b - - 0 17",
+    "Moves": "f6d5 e2d3 d5f6 d3d6 e7d6 b5d6",
+    "Rating": "2201",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "3707",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/jMdDW4Ac/black#34",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "OwUJr",
+    "FEN": "2r2rk1/p4p1p/1p2pBp1/6Q1/1q2B3/2Nb4/2P2PPP/2K3R1 b - - 1 23",
+    "Moves": "c8c3 e4d3 b4a3 c1d2",
+    "Rating": "2008",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "61",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/2rz8oPh7/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OwUKO",
+    "FEN": "r4rk1/1p2bppp/pqn5/5R2/P2p4/N1P3PP/1B2Q3/R3N1K1 w - - 2 22",
+    "Moves": "c3d4 c6d4 e2f2 d4e2 g1g2 b6b2",
+    "Rating": "2163",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "622",
+    "Themes": "advantage exposedKing fork interference long middlegame pin",
+    "GameUrl": "https://lichess.org/gjgVuK3X#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OwVYG",
+    "FEN": "5rk1/3b1ppp/Qp2pn2/8/1p6/bP3N2/qBKP1PPP/1R3B1R w - - 0 22",
+    "Moves": "a6b6 f8c8 f1c4 c8c4 b3c4 a2c4 c2d1 d7a4 d1e1 c4e4",
+    "Rating": "2298",
+    "RatingDeviation": "86",
+    "Popularity": "89",
+    "NbPlays": "939",
+    "Themes": "crushing middlegame veryLong xRayAttack",
+    "GameUrl": "https://lichess.org/2XHv1joX#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OwVYj",
+    "FEN": "r3r1k1/5ppp/p4n2/8/2pR3q/7P/PBQ2PP1/1R4K1 b - - 1 24",
+    "Moves": "e8e4 g2g3 h4h3 d4e4 f6e4 c2e4",
+    "Rating": "2038",
+    "RatingDeviation": "72",
+    "Popularity": "96",
+    "NbPlays": "8104",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/nZ2EmoRf/black#48",
+    "OpeningTags": ""
+  }
+]

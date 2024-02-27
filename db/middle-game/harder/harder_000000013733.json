@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "faF0d",
+    "FEN": "2krr3/1pp3pp/p1p1q1b1/2bn4/4p1P1/1PN4P/PBPPQPB1/2KRR3 w - - 3 17",
+    "Moves": "c3e4 d5f4 e2f3 f4g2 f3g2 g6e4",
+    "Rating": "1897",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "7623",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/Mq9fa5VJ#33",
+    "OpeningTags": "Latvian_Gambit Latvian_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "faFi8",
+    "FEN": "3r4/7p/pp2kpr1/1b2pN2/2R1P1P1/P2K1P2/3B3P/2R5 w - - 4 30",
+    "Moves": "d3c3 b5c4 c3c4 d8d2",
+    "Rating": "1805",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1176",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Mixn3DDE#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "faG5Z",
+    "FEN": "1r4k1/1b3pbp/p3p1p1/1pp4n/6Q1/1BPq4/PP2NPPP/R4RK1 w - - 0 19",
+    "Moves": "e2f4 d3e4 f1e1 e4f4",
+    "Rating": "1980",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "867",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/K2o5HT7u#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "faHec",
+    "FEN": "4rkb1/Q5p1/p1r2q2/1P1pnPp1/p7/3B4/2P3PP/4RRK1 b - - 0 32",
+    "Moves": "e5d3 e1e8 f8e8 b5c6",
+    "Rating": "1934",
+    "RatingDeviation": "77",
+    "Popularity": "76",
+    "NbPlays": "100",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/15LBARe3/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "faJG1",
+    "FEN": "rnb1k2r/pp3ppp/4pn2/2bp2B1/2P5/2N1PN2/Pq3PPP/2RQKB1R b Kkq - 1 8",
+    "Moves": "f6e4 c3e4 c5b4 e4d2",
+    "Rating": "1904",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "212",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/SSw7WLE0/black#16",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Semi-Tarrasch_Defense"
+  },
+  {
+    "PuzzleId": "faMCF",
+    "FEN": "r4rk1/p1p1nppp/1pn5/3ppq2/Q5bN/N1PP2P1/PP2PPBP/R4RK1 b - - 3 12",
+    "Moves": "f5f6 a4g4",
+    "Rating": "1904",
+    "RatingDeviation": "174",
+    "Popularity": "-16",
+    "NbPlays": "9",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/jBDgyIdK/black#24",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Black_Mustang_Defense"
+  },
+  {
+    "PuzzleId": "faNid",
+    "FEN": "3r2k1/p5pp/q3bp2/8/1n2PBP1/2N2NQ1/1PP3P1/2K4R w - - 0 22",
+    "Moves": "f3d2 a6a1 d2b1 b4a2 c3a2 e6a2",
+    "Rating": "1836",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "100",
+    "Themes": "advantage long middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/6VXTxJ2y#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "faNwy",
+    "FEN": "3r1rk1/pp3ppp/3bpB2/q7/3P4/2N2b1P/PPQ2PP1/R4RK1 b - - 0 15",
+    "Moves": "f3g2 f6d8 f8d8 g1g2",
+    "Rating": "1910",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1747",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/CefItrUj/black#30",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+  },
+  {
+    "PuzzleId": "faOUR",
+    "FEN": "4kr2/pp1b1pQp/1q2p3/3pP3/1P1P4/P2rPR2/6PP/R5K1 b - - 2 18",
+    "Moves": "d3d4 a1f1 d4f4 f3f4",
+    "Rating": "1923",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "925",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/Ew8laQcz/black#36",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Accelerated_Move_Order"
+  }
+]

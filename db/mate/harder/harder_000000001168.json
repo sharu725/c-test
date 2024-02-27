@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "MtcLM",
+    "FEN": "8/P5kp/6r1/2pQp2q/5p2/1P1P2rP/2P2RP1/5R1K w - - 1 38",
+    "Moves": "a7a8q g3h3 g2h3 h5h3 f2h2 h3f1",
+    "Rating": "1804",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "9440",
+    "Themes": "deflection long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/BMjTAvrH#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Mtpv8",
+    "FEN": "5rk1/pbq1npb1/1p2p1p1/2p2nN1/4NP2/2Pr2PQ/PP4B1/R1B2RK1 b - - 1 18",
+    "Moves": "f8d8 e4f6 g7f6 h3h7 g8f8 h7f7",
+    "Rating": "1870",
+    "RatingDeviation": "291",
+    "Popularity": "71",
+    "NbPlays": "6",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/WU4fM9dy/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "MtsrZ",
+    "FEN": "1r5k/p3P1p1/8/5Q2/4b2p/2P3qP/P1K5/R1b1R3 w - - 6 38",
+    "Moves": "f5e4 b8b2 c2d1 b2d2 d1c1 g3c3 c1b1 d2b2",
+    "Rating": "1994",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "499",
+    "Themes": "endgame fork mate mateIn4 sacrifice veryLong",
+    "GameUrl": "https://lichess.org/Wr12tjUO#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MtvEK",
+    "FEN": "8/6R1/1p6/p1b3p1/5p1p/P2knP1P/1P3KP1/4R3 w - - 4 45",
+    "Moves": "g7g5 e3g4 f2f1 g4h2",
+    "Rating": "1961",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "8952",
+    "Themes": "doubleCheck endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/SN0VuIkO#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Mtvgn",
+    "FEN": "rnb3k1/ppp1q3/3p1RBQ/8/8/2p5/PPP3PP/4b2K b - - 0 18",
+    "Moves": "e1d2 f6f8 e7f8 h6h7",
+    "Rating": "1938",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "917",
+    "Themes": "fork mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/sQiMxqhK/black#36",
+    "OpeningTags": "Vienna_Game Vienna_Game_Anderssen_Defense"
+  },
+  {
+    "PuzzleId": "MtxLk",
+    "FEN": "8/8/4p1k1/R1B5/1P1P2p1/7n/1r5P/7K w - - 4 43",
+    "Moves": "a5a3 b2b1 h1g2 b1g1",
+    "Rating": "1826",
+    "RatingDeviation": "99",
+    "Popularity": "-30",
+    "NbPlays": "28",
+    "Themes": "endgame hookMate mate mateIn2 short",
+    "GameUrl": "https://lichess.org/u5LAOORH#85",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Mu130",
+    "FEN": "8/8/8/8/5p2/3Rp1k1/6p1/6K1 w - - 2 60",
+    "Moves": "d3d1 f4f3 d1d2 f3f2 d2f2 e3f2",
+    "Rating": "1869",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1525",
+    "Themes": "advancedPawn endgame exposedKing long mate mateIn3 rookEndgame",
+    "GameUrl": "https://lichess.org/m8kkP4aZ#119",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MuQxG",
+    "FEN": "4Rnk1/2b3p1/2p4p/2P5/3P1q2/7P/5rBP/B2Q2K1 w - - 3 29",
+    "Moves": "d1g4 f2f1 g2f1 f4h2",
+    "Rating": "1828",
+    "RatingDeviation": "148",
+    "Popularity": "50",
+    "NbPlays": "28",
+    "Themes": "master mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/PhNrST6H#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MuYKP",
+    "FEN": "1k1r3r/p1p3pp/2p1Qn2/8/1bP1p3/3qB3/P4PPP/RN3RK1 w - - 0 17",
+    "Moves": "e6c6 d3f1 g1f1 d8d1 f1e2 d1e1",
+    "Rating": "1937",
+    "RatingDeviation": "133",
+    "Popularity": "57",
+    "NbPlays": "9",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/wsvFPPq7#33",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  }
+]

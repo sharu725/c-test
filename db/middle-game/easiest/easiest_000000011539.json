@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "YOjlW",
+    "FEN": "r3k2r/pq1np1bp/2N2pP1/2pQ2B1/P7/8/1P3PPP/R3K2R b KQkq - 0 16",
+    "Moves": "f6g5 d5f7",
+    "Rating": "995",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "185",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Qa7XhmQ0/black#32",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "YOkWD",
+    "FEN": "r3nr2/1bqp1pp1/p3p1k1/1pb1n1N1/7Q/2P4P/PP3PP1/RNB2RK1 b - - 1 17",
+    "Moves": "f7f6 h4h7",
+    "Rating": "966",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "333",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/RnBooBdC/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "YOnCN",
+    "FEN": "1r5r/R1p1k1pp/3b2q1/4p3/4P3/4BP2/2P1Q1PP/3R2K1 w - - 1 23",
+    "Moves": "e3c5 d6c5",
+    "Rating": "621",
+    "RatingDeviation": "116",
+    "Popularity": "0",
+    "NbPlays": "34",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/T8Ii6pgZ#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YOnZk",
+    "FEN": "r1b2rk1/pp1nq1pp/2p2p2/2Pp4/PP1P1p2/2N1P1P1/6BP/R2Q1RK1 w - - 0 17",
+    "Moves": "e3f4 e7e3 g1h1 e3c3",
+    "Rating": "880",
+    "RatingDeviation": "84",
+    "Popularity": "91",
+    "NbPlays": "201",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/rbkv4WCZ#33",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "YOpDJ",
+    "FEN": "3r1rk1/Rnp2ppp/1pn3q1/5N2/1P2P3/7P/2B1QPP1/1N3K2 b - - 0 22",
+    "Moves": "c6a7 f5e7 g8h8 e7g6",
+    "Rating": "999",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "154",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/SDOygam6/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YOtgq",
+    "FEN": "r4rk1/1pq1n2p/2nb1p2/p2p2pQ/7B/3B3P/PPPN1PP1/4RRK1 b - - 1 17",
+    "Moves": "g5h4 h5h7",
+    "Rating": "926",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "2528",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/a7UlD7DL/black#34",
+    "OpeningTags": "French_Defense French_Defense_Schlechter_Variation"
+  },
+  {
+    "PuzzleId": "YOx6H",
+    "FEN": "2k4r/pqpbrpp1/Bp2p3/b3N2p/3PP3/8/P1Q2PPP/1RR3K1 b - - 1 19",
+    "Moves": "b7a6 c2c7",
+    "Rating": "850",
+    "RatingDeviation": "91",
+    "Popularity": "83",
+    "NbPlays": "42",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/IaAMteE3/black#38",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "YOyjI",
+    "FEN": "r2qr1k1/1bp2pb1/p3p1pp/1pQnP3/3P4/4B3/PP1NBPPP/2R2RK1 w - - 2 18",
+    "Moves": "d2e4 d5e3 f2e3 b7e4",
+    "Rating": "929",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "1247",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/gDDUTC3G#35",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Russian_Variation"
+  },
+  {
+    "PuzzleId": "YOzwt",
+    "FEN": "r2q1rk1/pp3ppp/2pb1p2/2n5/3P4/2PQ1N2/PP3PPP/R1B1R1K1 w - - 7 12",
+    "Moves": "d4c5 d6h2 g1h2 d8d3",
+    "Rating": "999",
+    "RatingDeviation": "102",
+    "Popularity": "71",
+    "NbPlays": "24",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/zhVhUfQh#23",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+  }
+]

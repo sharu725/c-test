@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "nPrak",
+    "FEN": "r1b2rk1/pp3ppp/2n5/2p2Nq1/2PpP1N1/6QP/PP2B1P1/5RK1 b - - 3 22",
+    "Moves": "h7h5 g4h6 g5h6 f5h6",
+    "Rating": "1577",
+    "RatingDeviation": "80",
+    "Popularity": "69",
+    "NbPlays": "58",
+    "Themes": "crushing kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/PnAF5Zme/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nPrv2",
+    "FEN": "r4rk1/p4pp1/1p1Q1n1p/5q2/3R4/P7/1P2PPPP/1K3B1R w - - 5 20",
+    "Moves": "e2e4 f6e4 f1d3 e4d6 d3f5 d6f5",
+    "Rating": "1545",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "1878",
+    "Themes": "crushing long master middlegame",
+    "GameUrl": "https://lichess.org/nxxNNowt#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nPs7U",
+    "FEN": "2r2rk1/1p1bppbp/2qp2p1/p5Pn/4P2P/2N1BP2/PPPQB3/1K1R2R1 w - - 0 17",
+    "Moves": "e2b5 g7c3 b5c6 c3d2 c6d7 d2e3",
+    "Rating": "1596",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "157",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/2UE4qVqN#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  },
+  {
+    "PuzzleId": "nPsoB",
+    "FEN": "2r2rk1/1b1q1pp1/p3p2B/1p1pP2N/2nb3P/P2B4/1P3PP1/1Q2RRK1 b - - 0 22",
+    "Moves": "c4e5 d3h7 g8h8 h6g7",
+    "Rating": "1472",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "4472",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/KzQQ2quR/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nPtFj",
+    "FEN": "r1b1r1k1/pp2bppp/1qn1pn2/3p2B1/2PP4/P1N2N1P/1P2BPP1/R2Q1RK1 b - - 8 11",
+    "Moves": "b6b2 c3a4 b2a1 d1a1",
+    "Rating": "1529",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "270",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/rCnqBmaX/black#22",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "nPuDA",
+    "FEN": "r1b3k1/1p1p2pp/p3p3/8/6q1/P2Qb1N1/1PP3KP/5R2 b - - 1 21",
+    "Moves": "e3a7 d3d6 h7h6 f1f8 g8h7 d6d3 g4g6 f8h8 h7h8 d3g6",
+    "Rating": "1511",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "deflection equality middlegame veryLong",
+    "GameUrl": "https://lichess.org/EKh0NL6A/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nPuJ1",
+    "FEN": "rnb1kn1r/pp2qp2/3p3p/2p1p1pB/2P1P3/2PP1QBP/P3NPP1/R3K2R b KQkq - 7 13",
+    "Moves": "e7e6 h5g4 e6e7 g4c8",
+    "Rating": "1580",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "310",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/Q4z3GgvX/black#26",
+    "OpeningTags": "English_Opening English_Opening_The_Whale"
+  },
+  {
+    "PuzzleId": "nPuL0",
+    "FEN": "1r1q3r/pp3pk1/3p2p1/2pBn1P1/4P3/P2P2Q1/1PP4R/2K2R2 w - - 2 29",
+    "Moves": "h2h3 h8h3 g3h3 d8g5 c1b1 b8h8",
+    "Rating": "1426",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "319",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/HjUJVpW4#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nPxDK",
+    "FEN": "r2qk2r/1bp1npb1/3p3p/1B1Pp1p1/Pp2n3/5NBP/1P2NPP1/R2Q1RK1 b kq - 1 19",
+    "Moves": "c7c6 d5c6 b7c6 b5c6 e7c6 d1d5",
+    "Rating": "1484",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "882",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/9WJdTfir/black#38",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "OWMAQ",
+    "FEN": "r4r1k/1bqnN1R1/p3p2b/1pp4Q/3n4/1PN4P/PBPP4/2K1R3 b - - 0 21",
+    "Moves": "h8g7 h5g6 g7h8 g6h6",
+    "Rating": "1370",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "5278",
+    "Themes": "deflection mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/FpV8HXTW/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OWPnd",
+    "FEN": "r2q1rk1/3bbpp1/p4n1p/1pp1p3/4P2B/1BNP2Q1/PPP3PP/R4RK1 w - - 0 15",
+    "Moves": "c3d5 f6d5 b3d5 e7h4",
+    "Rating": "1362",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "781",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/AoOsoW9b#29",
+    "OpeningTags": "Vienna_Game Vienna_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "OWRqE",
+    "FEN": "1n1qr1k1/r2bbpp1/2p1N2p/p7/Pp1QPP2/5B2/2P1N1PP/3R1RK1 b - - 1 22",
+    "Moves": "c6c5 d4g7",
+    "Rating": "1367",
+    "RatingDeviation": "183",
+    "Popularity": "43",
+    "NbPlays": "15",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/BrROSmxH/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OWVYO",
+    "FEN": "r1q3k1/1bp1brp1/pp3n2/7p/2P2B2/2N5/PPQ1BPPP/3R1RK1 w - - 0 20",
+    "Moves": "c3d5 f6d5 c4d5 f7f4",
+    "Rating": "1348",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "4338",
+    "Themes": "advantage capturingDefender discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/e4PK5JrI#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OWW8G",
+    "FEN": "r3k2r/p4p2/2p1p1pb/1p1pP3/2nP1P1q/3B1Q1P/PPP1NR2/1K5R w kq - 5 20",
+    "Moves": "b2b3 c4d2 b1c1 d2f3",
+    "Rating": "1277",
+    "RatingDeviation": "130",
+    "Popularity": "47",
+    "NbPlays": "10",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/K8QSPx7f#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OWY3W",
+    "FEN": "r1b2rk1/2qpbpp1/p6p/4n3/1p2Q3/8/NPP1BPPP/R1B1R1K1 w - - 1 18",
+    "Moves": "e4a8 c8b7 a8b7 c7b7",
+    "Rating": "1314",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "136",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/IYT8vGAA#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_French_Variation"
+  },
+  {
+    "PuzzleId": "OWYfG",
+    "FEN": "1r2r1k1/p4ppp/b1p5/8/3p4/P2N4/3RBPPP/4K2R w K - 6 23",
+    "Moves": "e1g1 e8e2 d2e2 a6d3 e2e7 d3f1",
+    "Rating": "1241",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "590",
+    "Themes": "advantage capturingDefender deflection long middlegame",
+    "GameUrl": "https://lichess.org/8bQJoclq#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OWZlP",
+    "FEN": "r1b3k1/bpp4n/p2q4/3P2p1/4B3/2Q3P1/PP2N2P/5R1K b - - 0 22",
+    "Moves": "c8g4 e4h7 g8h7 f1f7 h7g6 c3g7",
+    "Rating": "1270",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "5256",
+    "Themes": "attraction crushing exposedKing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/IzUXGgJr/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OWa53",
+    "FEN": "r4rk1/pp3pbp/2b1p1p1/q1p1P3/2N1nB2/5N1P/PPP1QPP1/3RR1K1 b - - 3 16",
+    "Moves": "a5a2 d1a1 a2a1 e1a1",
+    "Rating": "1304",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "643",
+    "Themes": "crushing master middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/ZzRJB4xN/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  }
+]

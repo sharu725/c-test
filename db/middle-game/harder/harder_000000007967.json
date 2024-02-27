@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "O9YVF",
+    "FEN": "r4rk1/4Bppp/2q5/p1b1p3/3pn3/P7/1P2NPPP/2RQ1RK1 b - - 3 20",
+    "Moves": "f8e8 e7c5 e4c5 b2b4 a5b4 a3b4",
+    "Rating": "1819",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "9080",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/TrF8yy0G/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O9Yp2",
+    "FEN": "r1bq1rk1/2p3pp/2nbp3/p4p2/1p1P1B2/1BP2N2/PP1Q1PPP/2KRR3 w - - 0 15",
+    "Moves": "b3e6 c8e6 e1e6 b4c3 b2c3 d6a3",
+    "Rating": "1972",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "80",
+    "Themes": "advantage clearance long middlegame",
+    "GameUrl": "https://lichess.org/Zd472vQu#29",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "O9Z9A",
+    "FEN": "3qrrk1/pp1n1ppb/2p2b2/3ppPB1/6QN/3PR2P/PPP2PB1/R5K1 w - - 5 21",
+    "Moves": "g5h6 g8h8 h6g7 f6g7",
+    "Rating": "1980",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "230",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/L8VeGFJU#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O9ZLU",
+    "FEN": "2rr2k1/1pq1nppp/p7/2Pp4/BPn2P2/P1N1P2P/4Q1P1/R2R2K1 w - - 1 23",
+    "Moves": "c3d5 e7d5 d1d5 d8d5",
+    "Rating": "1896",
+    "RatingDeviation": "163",
+    "Popularity": "100",
+    "NbPlays": "30",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/kz3xzF6q#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O9b9P",
+    "FEN": "r3k2r/1p2qp1p/4b1p1/3B4/p1n3P1/2P1PQ1P/1B5N/2KR3R w kq - 0 24",
+    "Moves": "d5b7 a8b8 f3c6 e8f8",
+    "Rating": "1920",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "67",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/Bp5U5e6M#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O9bYj",
+    "FEN": "2rqr1k1/R1B1bppp/5n2/2pp4/1p6/3P2Q1/1PP1NPPP/3R2K1 b - - 3 20",
+    "Moves": "c8c7 g3c7 d8c7 a7c7 e7d6 c7c6 e8e2 c6d6",
+    "Rating": "1928",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "843",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/Uas66AH1/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O9bb8",
+    "FEN": "1r1n2kb/3bpr1p/1p1p2pB/pNQN4/4n3/P6P/1PP1B1P1/1R3RK1 b - - 0 21",
+    "Moves": "b6c5 d5e7 f7e7 f1f8",
+    "Rating": "1845",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "301",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/lLk3ZAQp/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O9hdT",
+    "FEN": "r1b3k1/p1p1q1p1/1p1p3B/3Ppr2/2P1NnQ1/5P2/PP1R2PP/5RK1 w - - 11 21",
+    "Moves": "g2g3 f5h5 g4g7 e7g7 h6g7 f4h3 g1g2 g8g7",
+    "Rating": "1933",
+    "RatingDeviation": "138",
+    "Popularity": "85",
+    "NbPlays": "13",
+    "Themes": "advantage intermezzo middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/Ps80Fk87#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O9jbj",
+    "FEN": "r1bq1r2/ppp3p1/2n1pPk1/2np2N1/5BQ1/4P3/PPP2PPP/R3K2R b KQ - 0 13",
+    "Moves": "e6e5 g5e6 g6f6 f4g5",
+    "Rating": "1851",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "163",
+    "Themes": "advantage discoveredAttack fork middlegame short",
+    "GameUrl": "https://lichess.org/aIhhMj1C/black#26",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CP889",
+    "FEN": "5R1Q/8/5p2/5kpp/8/P5P1/2r3KP/8 w - - 0 46",
+    "Moves": "g2h3 g5g4 h3h4 c2h2",
+    "Rating": "889",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "746",
+    "Themes": "deflection endgame mate mateIn2 queenRookEndgame short",
+    "GameUrl": "https://lichess.org/rnxXyXnx#91",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CPASs",
+    "FEN": "3r1r1k/1p4pp/p1q2p2/P2Rp3/2P2n2/1B1Q3P/1PP2PP1/3R2K1 w - - 6 29",
+    "Moves": "d5d8 c6g2",
+    "Rating": "911",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "200",
+    "Themes": "kingsideAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/wK4KoH0o#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CPB1A",
+    "FEN": "6k1/pp3ppp/8/3Q4/8/P7/1qr3PP/5R1K b - - 0 26",
+    "Moves": "c2c8 d5f7 g8h8 f7f8 c8f8 f1f8",
+    "Rating": "880",
+    "RatingDeviation": "91",
+    "Popularity": "83",
+    "NbPlays": "335",
+    "Themes": "backRankMate endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/z5UdVa4I/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CPBjs",
+    "FEN": "Q7/p2R2pk/7p/5pq1/2P5/1P5r/P5P1/3R2K1 w - - 1 28",
+    "Moves": "a8b7 g5e3 g1f1 h3h1",
+    "Rating": "936",
+    "RatingDeviation": "80",
+    "Popularity": "95",
+    "NbPlays": "337",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/QwfM6fyD#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CPC2Q",
+    "FEN": "4r2k/ppp1PRpp/8/8/3b2nP/6P1/PP4K1/8 b - - 0 31",
+    "Moves": "d4f6 f7f8 e8f8 e7f8q",
+    "Rating": "984",
+    "RatingDeviation": "88",
+    "Popularity": "16",
+    "NbPlays": "97",
+    "Themes": "advancedPawn endgame mate mateIn2 promotion short",
+    "GameUrl": "https://lichess.org/iBHik0Pk/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CPCIn",
+    "FEN": "8/5Kpk/6p1/p4pr1/8/2b5/8/3R4 b - - 3 50",
+    "Moves": "g5g4 d1h1 g4h4 h1h4",
+    "Rating": "890",
+    "RatingDeviation": "85",
+    "Popularity": "90",
+    "NbPlays": "155",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/SukIcJL9/black#100",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CPE1n",
+    "FEN": "1k5r/pp1rqp2/3b2b1/3Pp3/2R5/2QB1Pp1/PP4P1/2R2NK1 b - - 1 28",
+    "Moves": "g6d3 c4c8 h8c8 c3c8",
+    "Rating": "874",
+    "RatingDeviation": "81",
+    "Popularity": "83",
+    "NbPlays": "64",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/v0kGyr0D/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CPEK3",
+    "FEN": "r1b1r1k1/ppb2pp1/5q1p/PQ2p3/4B3/2P2N2/1P3PPP/R3R1K1 b - - 2 18",
+    "Moves": "a7a6 b5e8",
+    "Rating": "561",
+    "RatingDeviation": "85",
+    "Popularity": "90",
+    "NbPlays": "528",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/oWdVoERE/black#36",
+    "OpeningTags": "Trompowsky_Attack Trompowsky_Attack_Classical_Defense"
+  },
+  {
+    "PuzzleId": "CPEey",
+    "FEN": "1r6/2R1npkp/4p1p1/p2p4/3P4/P3P3/2R2PPP/6K1 w - - 0 26",
+    "Moves": "c7e7 b8b1 c2c1 b1c1",
+    "Rating": "701",
+    "RatingDeviation": "96",
+    "Popularity": "38",
+    "NbPlays": "95",
+    "Themes": "backRankMate endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/GmgBCHWf#51",
+    "OpeningTags": ""
+  }
+]

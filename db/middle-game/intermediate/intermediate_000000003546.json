@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "8Wous",
+    "FEN": "r1b2rk1/p4ppp/n2np3/B2p4/P2P4/1R1BPN2/5PPP/4K2R b K - 2 16",
+    "Moves": "a8b8 b3b8 a6b8 a5c7 d6e4 c7b8",
+    "Rating": "1479",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1252",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/2a8ZiXWq/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "8WowK",
+    "FEN": "5rkq/4rp1p/pn2b1pQ/1p5N/2p1BP2/6R1/PP4PP/5RK1 b - - 0 23",
+    "Moves": "f7f5 g3g6 h7g6 h6g6",
+    "Rating": "1512",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "6508",
+    "Themes": "advantage kingsideAttack middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/29ZK3Mnj/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8Wowf",
+    "FEN": "b4rk1/4bq1p/4Q3/2P5/R2PNp2/5P2/1P5P/6K1 w - - 3 33",
+    "Moves": "e6g4 g8h8 a4a8 f8a8",
+    "Rating": "1525",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "753",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/9ql3DRJl#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8WpTm",
+    "FEN": "3q1r1k/1b4p1/p2b3p/2pPp3/R1N1Rr2/1P3B1P/4Q1P1/6K1 b - - 5 30",
+    "Moves": "b7d5 e4f4 e5f4 f3d5",
+    "Rating": "1440",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "3076",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/Ieg6ljBs/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8WqGp",
+    "FEN": "2kr1b1r/pp1n1p1p/2p2p2/1q2p3/3P4/2Pb1N2/PP2QPPP/K1BR3R w - - 0 17",
+    "Moves": "e2d3 b5d3 d1d3 e5e4 d3e3 e4f3",
+    "Rating": "1409",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "751",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/ad6Iy8tX#33",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "8WqKw",
+    "FEN": "r1bq1rk1/5ppp/p1p5/1p6/2Pb4/1P2BN2/1P3KPP/RN1Q4 w - - 0 19",
+    "Moves": "e3d4 c6c5 b1c3 c5d4",
+    "Rating": "1565",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "1230",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/S4WdloWP#37",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "8WqT3",
+    "FEN": "r4rk1/ppp2ppp/2np4/6q1/2b5/2B1PBP1/PPQ2PK1/R6R b - - 1 17",
+    "Moves": "c4d5 c2h7",
+    "Rating": "1533",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1632",
+    "Themes": "kingsideAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/T67OXghx/black#34",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "8WqT5",
+    "FEN": "r4r1k/pb1nNppp/1p6/2pP4/6n1/2NB1qP1/PPP1R2P/R2Q2K1 b - - 2 22",
+    "Moves": "f8e8 e7g6 h7g6 e2e8 a8e8 d1f3",
+    "Rating": "1530",
+    "RatingDeviation": "92",
+    "Popularity": "71",
+    "NbPlays": "28",
+    "Themes": "crushing discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/yQSYv3wn/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8Wr5I",
+    "FEN": "r1b1R2r/ppp3p1/1bp3kq/8/3PQ1p1/2P2Pp1/PP4PN/RN4K1 b - - 5 20",
+    "Moves": "c8f5 e8e6 g6f7 e4f5 f7g8 e6h6",
+    "Rating": "1520",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "7151",
+    "Themes": "crushing deflection exposedKing long middlegame pin",
+    "GameUrl": "https://lichess.org/jkE33jZ6/black#40",
+    "OpeningTags": ""
+  }
+]

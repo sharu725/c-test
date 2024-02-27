@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "6stAj",
+    "FEN": "r3k2r/1p1n1pp1/2p1b2p/p1p1p3/2P1P3/2RPBN1P/Q3nPP1/1R4K1 w kq - 0 20",
+    "Moves": "g1f1 e2c3 a2b2 c3b1",
+    "Rating": "914",
+    "RatingDeviation": "128",
+    "Popularity": "43",
+    "NbPlays": "22",
+    "Themes": "advantage fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/SPNB7r4J#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6sujW",
+    "FEN": "r1bq1rk1/pp3Bb1/1np4p/4Np1Q/3P1p2/2P5/PP3PPP/R3R1K1 b - - 0 17",
+    "Moves": "g8h8 e5g6 h8h7 g6f8",
+    "Rating": "915",
+    "RatingDeviation": "88",
+    "Popularity": "90",
+    "NbPlays": "571",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/B0B72FT4/black#34",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "6svaa",
+    "FEN": "r4rk1/pbq2p1p/3b2p1/1pp2nB1/3pN3/1B1P1PP1/PPP1Q2P/R4R1K b - - 2 17",
+    "Moves": "a8e8 e4f6 g8g7 f6e8 f8e8 e2e8",
+    "Rating": "729",
+    "RatingDeviation": "79",
+    "Popularity": "96",
+    "NbPlays": "1201",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/05lN33rr/black#34",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Bird_Variation"
+  },
+  {
+    "PuzzleId": "6sxsD",
+    "FEN": "4r1k1/Qp1bbppp/1Bpq1n2/3pp3/4P1P1/1PNP1N1P/1PP2P2/4K2R w K - 2 16",
+    "Moves": "b6c5 d6c5 a7c5 e7c5",
+    "Rating": "816",
+    "RatingDeviation": "90",
+    "Popularity": "93",
+    "NbPlays": "403",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/10Q2dJr3#31",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "6syRO",
+    "FEN": "1nkq2rr/pppn1p2/2P1p3/1B2P3/P2p1P1p/BP3Q1P/6PK/R4R2 b - - 0 22",
+    "Moves": "d7b6 c6b7",
+    "Rating": "889",
+    "RatingDeviation": "86",
+    "Popularity": "74",
+    "NbPlays": "171",
+    "Themes": "advancedPawn mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/5jZn8HLe/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6t1Lz",
+    "FEN": "r3kbnr/1pp2pp1/p1npb2p/4p3/4PPPq/N1PP4/PP3N1P/R1BQKB1R b KQkq - 2 8",
+    "Moves": "e6g4 d1g4 h4g4 f2g4",
+    "Rating": "846",
+    "RatingDeviation": "97",
+    "Popularity": "82",
+    "NbPlays": "39",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/E7DlZJnO/black#16",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Leonardis_Variation"
+  },
+  {
+    "PuzzleId": "6t1qg",
+    "FEN": "4r2k/6pp/p3b3/1p1pN1q1/3P1p2/3B1PnP/PP3RPK/3Q4 b - - 1 27",
+    "Moves": "e6f5 e5f7 h8g8 f7g5",
+    "Rating": "800",
+    "RatingDeviation": "81",
+    "Popularity": "68",
+    "NbPlays": "113",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/pVp9wEbf/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6t1vT",
+    "FEN": "r4r1k/ppq1bppp/2n2n1B/4pN2/3pP3/3P2QP/PP3PP1/2R1KB1R b K - 9 15",
+    "Moves": "g7h6 g3g7",
+    "Rating": "833",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "181",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/YEiQlBym/black#30",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+  },
+  {
+    "PuzzleId": "6t2CN",
+    "FEN": "r1k1b2r/pp4pp/3b1n2/4q3/4p3/2P1B3/PPQNBPPP/R2R2K1 w - - 4 21",
+    "Moves": "d2c4 e5h2 g1f1 h2h1",
+    "Rating": "921",
+    "RatingDeviation": "102",
+    "Popularity": "100",
+    "NbPlays": "16",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/xmarFm4m#41",
+    "OpeningTags": ""
+  }
+]

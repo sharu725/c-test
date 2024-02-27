@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Demuz",
+    "FEN": "2kr2r1/p1p1Q2p/Pp6/3pNp2/3P4/7R/2q3PP/2B2RK1 w - - 0 24",
+    "Moves": "h3h7 c2g2",
+    "Rating": "843",
+    "RatingDeviation": "79",
+    "Popularity": "88",
+    "NbPlays": "250",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ofQ5xbMK#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DengK",
+    "FEN": "r1r2bk1/p4ppp/n1N1p3/P3Pb2/8/2R1B3/5PPP/2R3K1 b - - 8 26",
+    "Moves": "a6b4 c6e7 f8e7 c3c8 a8c8 c1c8",
+    "Rating": "829",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "435",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/zAIJEpOK/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DepH5",
+    "FEN": "r1b1k2r/p3pp1p/5np1/1pp5/3qN3/3P1B2/PP3PPP/1R1QK2R b Kkq - 3 14",
+    "Moves": "e8g8 e4f6 e7f6 f3a8",
+    "Rating": "890",
+    "RatingDeviation": "107",
+    "Popularity": "11",
+    "NbPlays": "26",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/cmCAsqfh/black#28",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Depjo",
+    "FEN": "k7/2p2rpp/p2bQn2/q7/N7/8/P5PP/1R5K b - - 7 30",
+    "Moves": "f7e7 e6c8 a8a7 c8b7",
+    "Rating": "975",
+    "RatingDeviation": "78",
+    "Popularity": "96",
+    "NbPlays": "208",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/EP6BvO8o/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Deqom",
+    "FEN": "r1b2r1k/1pq3pp/p7/8/4Qb2/5B2/P1P2PP1/3R1R1K b - - 0 25",
+    "Moves": "f8f6 e4e8 f6f8 e8f8",
+    "Rating": "835",
+    "RatingDeviation": "92",
+    "Popularity": "100",
+    "NbPlays": "35",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/E7zjnhAr/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Dequi",
+    "FEN": "3R1b1r/1kp1pppp/1p3n2/p3q3/1P2P3/Q1N1B3/P4PPP/5K2 b - - 0 18",
+    "Moves": "a5b4 a3a8",
+    "Rating": "986",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "126",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Q3lu95WG/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense"
+  },
+  {
+    "PuzzleId": "DetyK",
+    "FEN": "r1bqk1nr/p3p1bp/2p1Pp2/3p1p1Q/8/2N1B3/PPP3PP/R3KB1R b KQkq - 1 12",
+    "Moves": "e8f8 h5f7",
+    "Rating": "868",
+    "RatingDeviation": "79",
+    "Popularity": "76",
+    "NbPlays": "106",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/mKcJ8nbC/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Hyperaccelerated_Fianchetto"
+  },
+  {
+    "PuzzleId": "Deu1s",
+    "FEN": "r2qr1k1/ppp4p/2nppp1B/2b1p3/3NP3/3P4/PPP2PPP/R2QK2R b KQ - 1 11",
+    "Moves": "e5d4 d1g4 g8f7 g4g7",
+    "Rating": "976",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "283",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/kSsVJnoo/black#22",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "Devja",
+    "FEN": "1r1q1rk1/1p3p2/p2pp1p1/3N2Np/1n1P4/7Q/PPP2PPP/R4RK1 b - - 0 16",
+    "Moves": "b4d5 g5e6 f7e6 h3e6 g8g7 e6d5",
+    "Rating": "896",
+    "RatingDeviation": "79",
+    "Popularity": "77",
+    "NbPlays": "170",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/4ohKRXYj/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  }
+]

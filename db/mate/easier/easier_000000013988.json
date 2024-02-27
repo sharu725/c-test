@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "qiHz3",
+    "FEN": "7k/7n/3BqPpQ/p7/2p5/7P/PP4P1/6K1 b - - 0 34",
+    "Moves": "e6d6 h6g7",
+    "Rating": "1005",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "177",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/8UaEmI8b/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qiIXR",
+    "FEN": "2Q5/5ppk/1p2p2p/3N4/3P4/4P2P/rq3PP1/2R3K1 w - - 0 25",
+    "Moves": "d5e7 b2f2 g1h2 f2g2",
+    "Rating": "1112",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "1081",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/AKsGgfpO#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qiNn2",
+    "FEN": "1k6/ppp5/1b4p1/3q4/1P1N4/1KPQ2P1/P4rP1/4R3 w - - 6 37",
+    "Moves": "b3a3 f2a2",
+    "Rating": "1044",
+    "RatingDeviation": "101",
+    "Popularity": "63",
+    "NbPlays": "32",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/uR0C1cHt#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qiPjc",
+    "FEN": "r3r1k1/pp3p1p/2pb1BN1/3p1q2/1P6/P5Q1/2P1RPP1/4R1K1 b - - 0 28",
+    "Moves": "d6g3 e2e8 a8e8 e1e8",
+    "Rating": "1018",
+    "RatingDeviation": "80",
+    "Popularity": "77",
+    "NbPlays": "161",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/wNpi6ytg/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qiQDX",
+    "FEN": "r2q1rk1/pp1nbpp1/6P1/n2Np2Q/2B5/8/PPP2P1P/R1B1K2R b KQ - 2 14",
+    "Moves": "f7g6 d5e7",
+    "Rating": "1007",
+    "RatingDeviation": "81",
+    "Popularity": "80",
+    "NbPlays": "211",
+    "Themes": "doubleCheck kingsideAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/rfSXZHI3/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Sozin"
+  },
+  {
+    "PuzzleId": "qiSC3",
+    "FEN": "2kr3r/ppp2ppp/3b4/3Pn2q/6n1/2N2N2/PP2BPP1/R1BQR1K1 w - - 2 14",
+    "Moves": "f3e5 h5h2 g1f1 h2h1",
+    "Rating": "1118",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "3278",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/K8gVrxj1#27",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "qiVpA",
+    "FEN": "rnq2rk1/2pb1ppB/p2b1n2/1p4N1/3P4/2N4P/PPQ2PP1/R1B2RK1 b - - 0 14",
+    "Moves": "f6h7 c2h7",
+    "Rating": "1061",
+    "RatingDeviation": "99",
+    "Popularity": "75",
+    "NbPlays": "44",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/BxhPKma4/black#28",
+    "OpeningTags": "French_Defense French_Defense_Steiner_Variation"
+  },
+  {
+    "PuzzleId": "qiX5R",
+    "FEN": "8/p1Q2ppk/5r1p/3P4/3q4/8/PPP2rPP/R4RK1 w - - 0 25",
+    "Moves": "f1f2 d4f2 g1h1 f2f1 a1f1 f6f1",
+    "Rating": "1196",
+    "RatingDeviation": "78",
+    "Popularity": "70",
+    "NbPlays": "106",
+    "Themes": "backRankMate endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/W74zmQxo#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qiXH2",
+    "FEN": "6rk/1Bp3r1/5Q2/8/4P3/5P2/PPP2qPP/1K1R2R1 w - - 7 32",
+    "Moves": "d1d5 f2g1 d5d1 g1d1",
+    "Rating": "1057",
+    "RatingDeviation": "108",
+    "Popularity": "87",
+    "NbPlays": "19",
+    "Themes": "hangingPiece mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/KepGibCb#63",
+    "OpeningTags": ""
+  }
+]

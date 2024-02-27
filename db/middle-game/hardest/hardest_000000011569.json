@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "NyHEo",
+    "FEN": "5rk1/Rr2b1pp/1q2p2n/1N1pP3/6P1/3Q3P/3B1P2/1R4K1 w - - 1 25",
+    "Moves": "a7b7 b6f2 g1h1 h6g4 h3g4 f2h4",
+    "Rating": "2217",
+    "RatingDeviation": "93",
+    "Popularity": "55",
+    "NbPlays": "29",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/wddAptQl#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NyK1G",
+    "FEN": "r1b4r/pp1p2pp/q7/2Q1N3/6Pk/8/4R2P/5K2 b - - 2 37",
+    "Moves": "h8f8 c5f8 a6f6 e5f3",
+    "Rating": "2302",
+    "RatingDeviation": "82",
+    "Popularity": "88",
+    "NbPlays": "53",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/HyMxr2d4/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NyKVY",
+    "FEN": "1r2r1k1/1p3p2/p1p3p1/2Q1NN1p/P3Pq2/1P4RP/1P4PK/8 w - - 0 31",
+    "Moves": "f5e7 e8e7 c5e7 h5h4 e7f7 f4f7",
+    "Rating": "2049",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "7731",
+    "Themes": "advantage long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/WdiS2aJw#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NyKtC",
+    "FEN": "3r1rk1/p4ppp/8/2bNB3/2P5/4P3/3nBP1P/6RK b - - 5 24",
+    "Moves": "d2e4 g1g7 g8h8 g7f7 h8g8 f7g7",
+    "Rating": "2045",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "3497",
+    "Themes": "crushing deflection discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/FmwPL64A/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NyLHs",
+    "FEN": "rn6/pp2kpQ1/4p1p1/3p3r/8/1PP1P3/Pq3PPP/3RK1NR b K - 2 14",
+    "Moves": "b2a2 g2g4 b8d7 g4h5",
+    "Rating": "2021",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "799",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/PEtiDYzn/black#28",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "NyMMJ",
+    "FEN": "r3k2r/pp3ppp/2nbpn2/q2pNP2/3P4/2P5/PP2Q1PP/RNB2RK1 b kq - 0 11",
+    "Moves": "a5b6 e5f7 e8f7 e2e6 f7f8 e6d6",
+    "Rating": "2209",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "254",
+    "Themes": "advantage attackingF2F7 attraction discoveredAttack fork long middlegame pin",
+    "GameUrl": "https://lichess.org/Yrw7K3eg/black#22",
+    "OpeningTags": "Bird_Opening Bird_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "NyMiN",
+    "FEN": "r3k2r/ppp1ppnp/2nq2p1/8/2P3b1/2NB1N2/PP3P1P/R1BQK2R w KQkq - 0 11",
+    "Moves": "h2h3 g4f3 d1f3 c6e5 f3b7 e5d3",
+    "Rating": "2133",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "60",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/L8GEuitk#21",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "NyNwO",
+    "FEN": "r2r2k1/pp3pb1/7p/8/2n2N2/P1B1P3/1P3K1P/R2R4 b - - 4 24",
+    "Moves": "c4b2 d1g1 b2d1 a1d1 d8d1 g1g7",
+    "Rating": "2343",
+    "RatingDeviation": "86",
+    "Popularity": "90",
+    "NbPlays": "1400",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/5sPtZAdU/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NyQeh",
+    "FEN": "5r1r/pp2nk2/3q1n2/3p3p/8/1NP2Q1P/PP3PP1/R3R1K1 b - - 0 21",
+    "Moves": "f7g7 f3g3 d6g3 e1e7 f8f7 e7f7 g7f7 f2g3",
+    "Rating": "2279",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1541",
+    "Themes": "advantage deflection exposedKing master middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/ECKNRmVj/black#42",
+    "OpeningTags": ""
+  }
+]

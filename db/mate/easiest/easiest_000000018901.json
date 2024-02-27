@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "amutB",
+    "FEN": "rn2n1k1/ppb2ppp/2pq4/3p4/1P1P4/P1N2B1P/2PB1PP1/R2Q2K1 w - - 0 15",
+    "Moves": "d1e2 d6h2 g1f1 h2h1",
+    "Rating": "618",
+    "RatingDeviation": "80",
+    "Popularity": "78",
+    "NbPlays": "90",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/GxiD9C5F#29",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "amv23",
+    "FEN": "2r2k2/p4ppp/2Q2n2/3R1bq1/8/8/PP3PPP/K3R3 b - - 0 23",
+    "Moves": "c8c6 d5d8 f6e8 e1e8",
+    "Rating": "620",
+    "RatingDeviation": "80",
+    "Popularity": "100",
+    "NbPlays": "243",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/eO1CFKY3/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "amvCv",
+    "FEN": "2kr1bnr/1pp3p1/p4pp1/4p3/3P1B2/P1Q2N1P/qPP2PP1/2KR3R w - - 0 16",
+    "Moves": "d4e5 a2a1",
+    "Rating": "985",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "291",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/XYWWLpCp#31",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Gubinsky-Melts_Defense"
+  },
+  {
+    "PuzzleId": "amw56",
+    "FEN": "r5k1/5ppp/p1p2n2/q5B1/8/3P1Q2/PPP2PPP/4R1K1 w - - 1 19",
+    "Moves": "g5f6 a5e1",
+    "Rating": "625",
+    "RatingDeviation": "95",
+    "Popularity": "95",
+    "NbPlays": "187",
+    "Themes": "endgame hangingPiece mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/bcrtVl71#37",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Blackburne_Gambit"
+  },
+  {
+    "PuzzleId": "amzSj",
+    "FEN": "6k1/3Q1p2/p1n3p1/1p1r3p/8/P1B4P/1P3PP1/4R1K1 b - - 0 30",
+    "Moves": "d5d7 e1e8 g8h7 e8h8",
+    "Rating": "530",
+    "RatingDeviation": "92",
+    "Popularity": "100",
+    "NbPlays": "70",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/CSdSYAxi/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "an1Oc",
+    "FEN": "1r4k1/6pp/8/RP3p2/1r2pP2/8/5PPP/3R2K1 w - - 0 28",
+    "Moves": "d1d5 b4b1 d5d1 b1d1",
+    "Rating": "691",
+    "RatingDeviation": "93",
+    "Popularity": "81",
+    "NbPlays": "134",
+    "Themes": "backRankMate endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/T6lKa9Fm#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "an2LW",
+    "FEN": "3k4/p1R3R1/3p4/4p3/N3P3/1P1r4/7r/1K6 w - - 1 31",
+    "Moves": "c7a7 d3d1",
+    "Rating": "789",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "547",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/zzCmyxOV#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "an3Nu",
+    "FEN": "8/3p4/p2k4/4p2R/2Q5/qPpN4/2P4P/1Kb5 w - - 9 41",
+    "Moves": "d3c1 a3b2",
+    "Rating": "988",
+    "RatingDeviation": "87",
+    "Popularity": "96",
+    "NbPlays": "201",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/979XqvbA#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "an3i9",
+    "FEN": "r1bq1rk1/p1p2ppp/2pp4/2b1P3/4Qn2/3B4/PPPN2PP/R1B1K2R b KQ - 1 11",
+    "Moves": "d6e5 e4h7",
+    "Rating": "726",
+    "RatingDeviation": "82",
+    "Popularity": "88",
+    "NbPlays": "325",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/KtYCu9AO/black#22",
+    "OpeningTags": "Scotch_Game Scotch_Game_Mieses_Variation"
+  }
+]

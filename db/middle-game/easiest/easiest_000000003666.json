@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ApnvM",
+    "FEN": "1r4k1/3n1ppp/rq3n2/p2p4/Q2P4/1p2PN2/P2B1PPP/K1R4R w - - 0 22",
+    "Moves": "c1b1 b3b2 b1b2 b6b2",
+    "Rating": "985",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "2288",
+    "Themes": "advancedPawn mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/sKIJ6y75#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ApoNw",
+    "FEN": "r4k2/p5rp/5Rp1/q1p2b2/Pn6/1Pp2N2/2P1QPPP/4R1K1 b - - 0 22",
+    "Moves": "f8g8 e2e8 a8e8 e1e8",
+    "Rating": "971",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "696",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/GYLUJjMe/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AppAc",
+    "FEN": "3r4/3rk1pp/pp2p3/2bbP3/3N4/2P5/PB1RK1PP/3R4 b - - 2 24",
+    "Moves": "d5a2 d4c6 e7e8 c6d8",
+    "Rating": "826",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "882",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/sPPWkW35/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AppYR",
+    "FEN": "r2r2k1/5ppp/1qp5/p1B5/6b1/bNPQ2P1/P1PR3P/1K1R4 b - - 7 24",
+    "Moves": "b6b7 d3d8 a8d8 d2d8",
+    "Rating": "903",
+    "RatingDeviation": "125",
+    "Popularity": "83",
+    "NbPlays": "40",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/rnTkUjck/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AproM",
+    "FEN": "2r2Q1k/1b4pp/3p2p1/3n2B1/p1q4P/1p6/PPP5/2K1RR2 b - - 3 30",
+    "Moves": "c8f8 f1f8",
+    "Rating": "586",
+    "RatingDeviation": "100",
+    "Popularity": "92",
+    "NbPlays": "718",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/WAdUQlaN/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ApspH",
+    "FEN": "r2q2nr/pppbk3/4ppB1/3Pp2p/1Q1n2pB/P7/1PP2PPP/RN3RK1 b - - 2 15",
+    "Moves": "c7c5 d5c6",
+    "Rating": "894",
+    "RatingDeviation": "92",
+    "Popularity": "86",
+    "NbPlays": "430",
+    "Themes": "discoveredAttack enPassant mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/kga0uGbV/black#30",
+    "OpeningTags": "Rat_Defense Rat_Defense_Small_Center_Defense"
+  },
+  {
+    "PuzzleId": "AptOa",
+    "FEN": "3rk2r/ppp2ppp/4p3/4qb2/1Q6/4P3/PP2BPPP/R3K2R b KQk - 3 13",
+    "Moves": "b7b6 e2b5 e5b5 b4b5",
+    "Rating": "975",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "607",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/cYAS49mX/black#26",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "AptUO",
+    "FEN": "rnb1kb1r/pp1p1ppp/8/2pn2Rq/4PB2/3P1N2/PPP1K3/R2Q1B2 w kq - 0 13",
+    "Moves": "g5h5 d5f4 e2f2 f4h5",
+    "Rating": "947",
+    "RatingDeviation": "80",
+    "Popularity": "85",
+    "NbPlays": "123",
+    "Themes": "advantage fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/6Wr1rUc1#25",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Keenes_Defense"
+  },
+  {
+    "PuzzleId": "Aptst",
+    "FEN": "rn2nr1k/pq3pBp/2pp1P2/4p3/3bP1Q1/8/P1P1KP1P/7R b - - 3 18",
+    "Moves": "e8g7 g4g7",
+    "Rating": "978",
+    "RatingDeviation": "125",
+    "Popularity": "88",
+    "NbPlays": "16",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/j2YBLX70/black#36",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  }
+]

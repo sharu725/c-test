@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "OVFLR",
+    "FEN": "2b2rk1/rpp2pp1/p2p2qp/4p2n/PPBPPn2/2P2N1P/2Q2PPN/R4RK1 w - - 1 17",
+    "Moves": "d4e5 g6g2",
+    "Rating": "1547",
+    "RatingDeviation": "89",
+    "Popularity": "73",
+    "NbPlays": "1058",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/VsyDNMEa#33",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "OVGUI",
+    "FEN": "r2q1bkr/pp2p1pp/2p2n2/8/6N1/8/PPPPQPPP/R1B1K2R b KQ - 0 11",
+    "Moves": "f6g4 e2e6",
+    "Rating": "1541",
+    "RatingDeviation": "86",
+    "Popularity": "91",
+    "NbPlays": "5132",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/9hRgPLSD/black#22",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+  },
+  {
+    "PuzzleId": "OVGVU",
+    "FEN": "r5k1/1ppbq1p1/3p3p/pP1Pp2Q/P2bP3/3P1R2/6PP/5R1K b - - 5 23",
+    "Moves": "e7g5 h5f7 g8h7 f7d7",
+    "Rating": "1571",
+    "RatingDeviation": "94",
+    "Popularity": "94",
+    "NbPlays": "75",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/HkOeKdUS/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OVJxD",
+    "FEN": "r3k2r/ppb2p2/5n1p/q1p1P1p1/2Bp2b1/1P1P2Q1/P1P2PPP/RN2R1K1 w kq - 3 17",
+    "Moves": "e5f6 a5e1",
+    "Rating": "1576",
+    "RatingDeviation": "81",
+    "Popularity": "91",
+    "NbPlays": "1803",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/VQnLL4Xk#33",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Bird_Variation"
+  },
+  {
+    "PuzzleId": "OVKH7",
+    "FEN": "3r1r1k/1b1n3P/p7/1p2pQB1/5P2/2N1q3/PP4P1/RB3R1K w - - 4 27",
+    "Moves": "f5g6 e3h3 h1g1 h3g2",
+    "Rating": "1489",
+    "RatingDeviation": "89",
+    "Popularity": "76",
+    "NbPlays": "27",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/Q4WIYqqh#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OVPi8",
+    "FEN": "r3k1r1/ppp1np1p/8/8/1Q4b1/2B1q1P1/PPP1B2P/RN2K2R w KQq - 3 18",
+    "Moves": "b4c4 e3c1 e1f2 c1h1",
+    "Rating": "1486",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1892",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/cxdypdS3#35",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit"
+  },
+  {
+    "PuzzleId": "OVQIF",
+    "FEN": "r1b2rk1/1p4p1/p3pq1p/3p1p2/7P/4BQ2/P1P1B1P1/1R4KR w - - 4 25",
+    "Moves": "f3g3 f5f4 e3f4 f6f4 g3f4 f8f4",
+    "Rating": "1422",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "5336",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/mnWgJAUP#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OVSVG",
+    "FEN": "5rk1/3n2pp/8/2Rp4/3p4/1P1Pq3/P3P2P/BQRK4 w - - 5 31",
+    "Moves": "c5d5 f8f1 d1c2 e3e2",
+    "Rating": "1432",
+    "RatingDeviation": "84",
+    "Popularity": "75",
+    "NbPlays": "102",
+    "Themes": "deflection mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/7XktaCJS#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OVVko",
+    "FEN": "r4rk1/2q1bpp1/ppp1p1p1/n3P3/QP1P4/2N5/P4PPP/R1BR2K1 b - - 0 19",
+    "Moves": "b6b5 a4a5 c7a5 b4a5",
+    "Rating": "1496",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1063",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/BllcoDP0/black#38",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation"
+  }
+]

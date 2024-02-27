@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pLFRB",
+    "FEN": "r1b3k1/pp1n2b1/2p1qrNp/3pNp1Q/3PpP2/6PB/PPP4P/4RRK1 b - - 4 21",
+    "Moves": "d7e5 f4e5 f6g6 h3f5 g6g5 f5e6",
+    "Rating": "2156",
+    "RatingDeviation": "80",
+    "Popularity": "83",
+    "NbPlays": "38",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/2fjUA54J/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pLFa4",
+    "FEN": "2r2rk1/pp1q1pp1/2p1b2p/2b1n3/4PP2/7P/PP1NQ1P1/R1B1RBK1 w - - 1 18",
+    "Moves": "g1h1 d7d4",
+    "Rating": "2165",
+    "RatingDeviation": "78",
+    "Popularity": "75",
+    "NbPlays": "84",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/aIjEOuYm#35",
+    "OpeningTags": "Slav_Defense Slav_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "pLFxn",
+    "FEN": "2r4r/pp2kppp/2q1p3/4Pb2/PP1p4/2P5/5PPP/2RQKBNR w K - 0 15",
+    "Moves": "f1b5 c6g2 d1f3 f5e4 f3g2 e4g2 g1e2 g2h1",
+    "Rating": "2010",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "344",
+    "Themes": "advantage middlegame trappedPiece veryLong",
+    "GameUrl": "https://lichess.org/PGQPAguo#29",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "pLK4D",
+    "FEN": "5rk1/2p2pp1/p1Pq1n1p/1p2NQ1b/3Pr1P1/1BP1P2P/PP6/R1B3K1 b - - 0 25",
+    "Moves": "h5g6 f5g6 e4e5 d4e5 d6e5 g6c2",
+    "Rating": "2351",
+    "RatingDeviation": "109",
+    "Popularity": "38",
+    "NbPlays": "14",
+    "Themes": "advantage defensiveMove long middlegame pin",
+    "GameUrl": "https://lichess.org/O87l2DNJ/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pLKCy",
+    "FEN": "2kr4/1pp1qpp1/p1n5/4P3/P2PQ2r/1B6/1PP4P/R4RK1 w - - 0 24",
+    "Moves": "f1f7 h4e4 f7e7 c6e7",
+    "Rating": "2366",
+    "RatingDeviation": "82",
+    "Popularity": "80",
+    "NbPlays": "130",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/NtV3xMkN#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pLLEg",
+    "FEN": "6k1/5pp1/R1Nq3p/1Pn5/3p4/Q2P3P/1P1BrPP1/6K1 w - - 4 30",
+    "Moves": "d2b4 d6f4 c6e7 g8h7",
+    "Rating": "2110",
+    "RatingDeviation": "80",
+    "Popularity": "79",
+    "NbPlays": "39",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/UISOH6jE#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pLLar",
+    "FEN": "r2q1rk1/1b1nbp1p/p3p1p1/2p1N3/Pp2pP2/1P2P2R/1BPP2PP/RN1Q2K1 w - - 0 15",
+    "Moves": "d1h5 g6h5 h3g3 e7g5 g3g5 d8g5",
+    "Rating": "2203",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "94",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/xiISGFFc#29",
+    "OpeningTags": "Bird_Opening Bird_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "pLLnR",
+    "FEN": "2rr2k1/5ppp/bp1bpnq1/p5B1/P1PN3Q/1P3N1P/5PP1/R2R2K1 b - - 0 22",
+    "Moves": "e6e5 d4c6 c8c6 f3e5",
+    "Rating": "2355",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2716",
+    "Themes": "advantage master middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/gh7rbnPj/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pLOmJ",
+    "FEN": "r1b1k2r/p4pbp/1npBq1p1/8/2P4P/2N5/PP2QPP1/R3KB1R w KQkq - 1 14",
+    "Moves": "e1d2 b6c4 e2c4 e6d6",
+    "Rating": "2035",
+    "RatingDeviation": "109",
+    "Popularity": "82",
+    "NbPlays": "34",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/8ljuy1hD#27",
+    "OpeningTags": "Scotch_Game Scotch_Game_Mieses_Variation"
+  }
+]

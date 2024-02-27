@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "dpirX",
+    "FEN": "rn3Q2/ppk3p1/2pp4/4p1q1/2B1P1b1/2NP4/PPP3K1/R5N1 w - - 3 17",
+    "Moves": "f8f7 b8d7 g1f3 g4f3",
+    "Rating": "1934",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "92",
+    "Themes": "advantage defensiveMove doubleCheck middlegame short",
+    "GameUrl": "https://lichess.org/3suyDlnk#33",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "dpmV6",
+    "FEN": "3r3k/p4Qpp/5n2/2b5/2B5/1P1p2P1/PB1q1P1P/1R4K1 w - - 1 27",
+    "Moves": "b2f6 d2f2 g1h1 f2f3",
+    "Rating": "1838",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "784",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/dkL1GfhA#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dpocr",
+    "FEN": "r5k1/1bp3p1/p1n1prNp/1p1p1p1P/1b1P1B2/1NnBP3/P4PP1/2R2RK1 b - - 1 18",
+    "Moves": "a8c8 a2a3 b4a3 c1c3",
+    "Rating": "1979",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "156",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/0wkV5lR4/black#36",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "dpp06",
+    "FEN": "r2qr3/ppp3kp/2nb1pp1/3N1b2/2BP3Q/5N1P/PPP2PP1/2KR3R w - - 1 15",
+    "Moves": "h1e1 g6g5 e1e8 d8e8 f3g5 f6g5",
+    "Rating": "1842",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1182",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/QqXEaSyE#29",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Staunton_Gambit"
+  },
+  {
+    "PuzzleId": "dpp4H",
+    "FEN": "1r2k2r/3n1p2/p1BPn2p/5Np1/PP6/2b1BN2/6PP/1R4K1 b k - 2 29",
+    "Moves": "b8b4 b1b4 c3b4 f3e5",
+    "Rating": "1988",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "235",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/wiKu0Wpz/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dpv1M",
+    "FEN": "5r1k/6pp/8/p3b3/Q7/4q1NP/P4RP1/3R2K1 w - - 0 32",
+    "Moves": "d1f1 e5g3 a4c2 g3f2 c2f2 f8f2",
+    "Rating": "1894",
+    "RatingDeviation": "79",
+    "Popularity": "75",
+    "NbPlays": "46",
+    "Themes": "advantage hangingPiece long middlegame pin",
+    "GameUrl": "https://lichess.org/MqMPfBQs#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dpvsi",
+    "FEN": "r1b4r/pppkq1Q1/2np1p2/2b1n1Bp/2Bp4/5N1P/PPP2PP1/RN2R1K1 w - - 4 14",
+    "Moves": "g7h8 e5f3 g2f3 e7e1 g1g2 f6g5",
+    "Rating": "1836",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "97",
+    "Themes": "crushing discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/c1u1ApE8#27",
+    "OpeningTags": "Italian_Game Italian_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "dpwoO",
+    "FEN": "r7/pp2b1Q1/1k1q4/1BNnpb1p/P2n2p1/8/1P3PPP/2R1R1K1 b - - 0 25",
+    "Moves": "d4b5 a4a5 b6a5 c5b7 a5b6 b7d6",
+    "Rating": "1928",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1048",
+    "Themes": "attraction crushing deflection exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/8aURM7oF/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dpxpl",
+    "FEN": "5rk1/pp3ppp/2nrb3/8/Q2Pn1q1/P2B1N2/1P1B1PPP/R4RK1 w - - 4 17",
+    "Moves": "d4d5 e4d2 a4g4 e6g4 f3d2 d6d5",
+    "Rating": "1913",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "1138",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/lUoMP2rT#33",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "WxtT3",
+    "FEN": "r7/1bp2pk1/1p1p1n1r/1B1P3p/P3PRp1/4Q3/1qP3PP/4R1K1 b - - 1 28",
+    "Moves": "b2c2 e1c1 c2b2 c1c7 a8c8 c7b7",
+    "Rating": "1652",
+    "RatingDeviation": "331",
+    "Popularity": "100",
+    "NbPlays": "3",
+    "Themes": "equality long middlegame skewer",
+    "GameUrl": "https://lichess.org/ros4QjSv/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Wxv2f",
+    "FEN": "4rrk1/1ppb1pp1/p2p4/3P1Nq1/1PP3nR/6P1/PBQ1NR2/7K w - - 1 29",
+    "Moves": "b2g7 g4f2 h1g2 d7f5",
+    "Rating": "1691",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1366",
+    "Themes": "crushing hangingPiece kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/eCy4PGVG#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Wxw8Y",
+    "FEN": "3qk2r/Q3bpp1/1p2p3/4P1Bp/Pn1P3P/2r2BP1/5P2/3R1RK1 b k - 0 22",
+    "Moves": "c3f3 g5e7 d8e7 a7a8 e7d8 a8f3",
+    "Rating": "1673",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "704",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/JGnUc3IS/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Wxx1H",
+    "FEN": "r1b2rk1/pp3pp1/4p2p/3pP3/5P2/4P3/PqB2KPP/R2Q3R b - - 1 16",
+    "Moves": "b7b6 d1d3 g7g6 h1b1 c8a6 b1b2 a6d3 c2d3",
+    "Rating": "1773",
+    "RatingDeviation": "74",
+    "Popularity": "75",
+    "NbPlays": "121",
+    "Themes": "advantage clearance middlegame trappedPiece veryLong",
+    "GameUrl": "https://lichess.org/96gXjWWk/black#32",
+    "OpeningTags": "Slav_Defense Slav_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "Wxy34",
+    "FEN": "1r3rk1/ppp2q1p/2n1b1p1/8/P2PR3/2PB4/4QPPP/1R4K1 b - - 2 22",
+    "Moves": "e6f5 d3c4 g8g7 c4f7",
+    "Rating": "1708",
+    "RatingDeviation": "84",
+    "Popularity": "58",
+    "NbPlays": "39",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/cDpxCqLl/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Wy0E0",
+    "FEN": "2r1k1nr/1p3pp1/2bbp2p/3p4/5q2/P2BBN1Q/5PPP/R4RK1 b k - 3 19",
+    "Moves": "f4f6 e3d4 f6f4 d4g7",
+    "Rating": "1698",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "695",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/AEHE88aB/black#38",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "Wy14j",
+    "FEN": "rn1r2k1/p3bppp/b1p1p3/8/PpN1P1q1/4B1P1/1PQ2PBP/R2R2K1 b - - 1 21",
+    "Moves": "b8d7 d1d7 d8d7 c4e5",
+    "Rating": "1650",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "9598",
+    "Themes": "advantage master middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/DgZBb7lM/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Wy1Cw",
+    "FEN": "r2kn2r/p1q1bpNp/2pp2p1/2n1p1B1/4P3/3B1Q2/PPP2PPP/R4RK1 w - - 4 16",
+    "Moves": "f3f7 e7g5 g7e6 c5e6",
+    "Rating": "1615",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "5567",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/KSE75fqC#31",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Roscher_Gambit"
+  },
+  {
+    "PuzzleId": "Wy1lC",
+    "FEN": "r3k1nr/pbp2ppp/np2P3/1N4B1/1bB1q3/5N2/PP3PPP/R2Q1RK1 b kq - 0 12",
+    "Moves": "e4c4 d1d7 e8f8 d7f7",
+    "Rating": "1651",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1221",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/zTw2TuE8/black#24",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation"
+  }
+]

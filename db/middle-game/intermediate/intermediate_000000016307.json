@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "dBUtu",
+    "FEN": "5rk1/1p4p1/p1bb1q1p/3pN3/2pP4/2P3Q1/PP3P2/R4RK1 w - - 4 27",
+    "Moves": "g3g6 d6e5 g6f6 e5f6",
+    "Rating": "1414",
+    "RatingDeviation": "98",
+    "Popularity": "53",
+    "NbPlays": "21",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/TST5f9JS#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dBXWX",
+    "FEN": "r4r2/ppp2pk1/2n4p/3p1Rp1/3P2K1/2P1PQP1/PP1q4/7R b - - 1 24",
+    "Moves": "f8e8 f5f7 g7g8 h1h6 e8e4 g4h5 d2h2 h5g5",
+    "Rating": "1500",
+    "RatingDeviation": "500",
+    "Popularity": "67",
+    "NbPlays": "6",
+    "Themes": "crushing deflection middlegame veryLong",
+    "GameUrl": "https://lichess.org/qvnzwGTb/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dBYd1",
+    "FEN": "r3k2r/ppp2p2/3pb3/1P2p3/RPP1P1pq/2NP2K1/3N4/2BQ1R2 w kq - 1 20",
+    "Moves": "g3g2 h4h2",
+    "Rating": "1489",
+    "RatingDeviation": "92",
+    "Popularity": "83",
+    "NbPlays": "1627",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/kYSd28t7#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dBZFp",
+    "FEN": "r2q1rk1/pp1nb1pp/2p1p1p1/6Bn/3P2Q1/2P2N2/PP1N2PP/R4RK1 b - - 3 15",
+    "Moves": "d7f6 g4e6",
+    "Rating": "1512",
+    "RatingDeviation": "78",
+    "Popularity": "61",
+    "NbPlays": "65",
+    "Themes": "advantage kingsideAttack middlegame oneMove",
+    "GameUrl": "https://lichess.org/S53xB8SD/black#30",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Mieses_Gambit"
+  },
+  {
+    "PuzzleId": "dBZM6",
+    "FEN": "r1b2rk1/1p4pp/p3p3/5p1P/3n4/2qBQ3/P2N1PP1/3RK2R b K - 1 18",
+    "Moves": "f5f4 d3h7 g8h7 e3c3",
+    "Rating": "1487",
+    "RatingDeviation": "79",
+    "Popularity": "71",
+    "NbPlays": "62",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/FGjTrAS6/black#36",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "dBZTg",
+    "FEN": "r1b2r1k/1pp2p2/p2p3p/2b1p1qN/2B1P3/2PP1Q2/PP3PPP/R4RK1 w - - 3 16",
+    "Moves": "h5g3 c8g4 d3d4 g4f3",
+    "Rating": "1478",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "121",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/Pc3EclTb#31",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "dBZlb",
+    "FEN": "1r3k1r/1p2qpp1/2p5/3nP2p/4RP2/PQP4P/1P2B1P1/2K4R w - - 3 23",
+    "Moves": "f4f5 e7g5 c1b1 g5g2 e2f3 g2f3",
+    "Rating": "1552",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "148",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/cCmDGpyV#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dBa5U",
+    "FEN": "2r2rk1/pbq2ppp/1p2pn2/8/2B5/P1Q1PN2/1P3PPP/2R2RK1 w - - 4 17",
+    "Moves": "c3e5 b7f3 e5c7 c8c7 c4b5 c7c1",
+    "Rating": "1520",
+    "RatingDeviation": "81",
+    "Popularity": "84",
+    "NbPlays": "100",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/9d5Popjq#33",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "dBdaE",
+    "FEN": "r4rk1/p1pb1ppp/2Nb4/2p5/2P5/1P2B3/P4PPP/R2R2K1 w - - 3 18",
+    "Moves": "e3c5 d7c6 c5d6 c7d6",
+    "Rating": "1408",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "4569",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/5SvsMKAI#35",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  }
+]

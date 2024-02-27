@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "2Phvs",
+    "FEN": "r5k1/ppbb1rpp/3q4/P1pp2B1/1P1N4/2PQ1N1P/2K3B1/4R2R w - - 0 27",
+    "Moves": "d4e2 d7f5 d3f5 f7f5",
+    "Rating": "1571",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "1199",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/O1pGM67Z#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2PjMs",
+    "FEN": "r3r1k1/ppqn1pp1/2pb2p1/3p2B1/1P1Pn3/P1N1PN1P/2Q2PP1/R4RK1 w - - 1 15",
+    "Moves": "c3d5 c6d5 c2c7 d6c7",
+    "Rating": "1484",
+    "RatingDeviation": "79",
+    "Popularity": "58",
+    "NbPlays": "43",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/l022vwIL#29",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "2PjiN",
+    "FEN": "r3k2r/p1pbbpp1/2p2n2/4pq1p/5N2/3PBB1P/PPP2PP1/R2QK2R w KQkq - 0 14",
+    "Moves": "g2g4 h5g4 h3g4 h8h1",
+    "Rating": "1449",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "323",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/SHakHhC0#27",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Declined_Variation"
+  },
+  {
+    "PuzzleId": "2PjtO",
+    "FEN": "r3r1k1/1p3pn1/p1p3p1/1PPp4/P2Pp1B1/4N1RP/5q2/RN1Q3K w - - 5 30",
+    "Moves": "d1d2 f2g3 b5c6 b7c6",
+    "Rating": "1460",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "1777",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/dnSCWduR#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2Pk7W",
+    "FEN": "rn2k1nr/2p2ppp/p2qp3/1p1p2P1/3P4/2NQPPN1/PPP4P/2KR3R b kq - 1 13",
+    "Moves": "c7c5 d4c5",
+    "Rating": "1446",
+    "RatingDeviation": "102",
+    "Popularity": "7",
+    "NbPlays": "38",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/YRoAoudn/black#26",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "2Pnjs",
+    "FEN": "4Q3/6k1/2p2p2/5p2/2P2P1q/2NP1n2/1PK1N2r/3R4 w - - 7 34",
+    "Moves": "e8c6 f3d4 c2b1 d4c6",
+    "Rating": "1405",
+    "RatingDeviation": "77",
+    "Popularity": "67",
+    "NbPlays": "151",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/FQLCWl5c#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2Pp7E",
+    "FEN": "r1br2k1/p4ppp/4p3/1B2P3/NP1n1P2/4B3/2PQ1KPP/q5R1 b - - 1 18",
+    "Moves": "a1g1 f2g1 d4f3 g2f3 d8d2 e3d2",
+    "Rating": "1550",
+    "RatingDeviation": "92",
+    "Popularity": "52",
+    "NbPlays": "23",
+    "Themes": "advantage hangingPiece long master masterVsMaster middlegame",
+    "GameUrl": "https://lichess.org/ZTrzeb4l/black#36",
+    "OpeningTags": "French_Defense French_Defense_Steinitz_Variation"
+  },
+  {
+    "PuzzleId": "2PpuA",
+    "FEN": "r1r3k1/p3bppp/4pn2/3b4/8/P3PN2/1B2BPPP/R2R2K1 w - - 0 18",
+    "Moves": "f3e5 c8c2 b2d4 c2e2",
+    "Rating": "1426",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "5159",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/x3e95HmH#35",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  },
+  {
+    "PuzzleId": "2PqIn",
+    "FEN": "r5rk/pq3p1p/1pb2p2/2b1p3/4N3/P2P2P1/2P2PBP/R2Q1RK1 w - - 1 19",
+    "Moves": "e4f6 c6g2 d1h5 g8g7",
+    "Rating": "1544",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2090",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/DPgIwIbN#37",
+    "OpeningTags": "Polish_Opening Polish_Opening_Other_variations"
+  }
+]

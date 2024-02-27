@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "eu81I",
+    "FEN": "rnb1k2r/1pqp1pp1/p3p3/2b4p/3NP1n1/2NBB2P/PPP2PP1/R2Q1RK1 w kq - 3 10",
+    "Moves": "d1e2 c7h2",
+    "Rating": "906",
+    "RatingDeviation": "102",
+    "Popularity": "88",
+    "NbPlays": "24",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/mu5fcTfS#19",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kan_Variation"
+  },
+  {
+    "PuzzleId": "euB94",
+    "FEN": "r4rk1/pp1bbppp/2p1nq2/8/8/2NPB2P/PPP1Q1B1/3R2RK b - - 7 19",
+    "Moves": "e6d4 e3d4 f6d4 e2e7",
+    "Rating": "992",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "200",
+    "Themes": "advantage discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/9nFxB6it/black#38",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "euD4L",
+    "FEN": "r1bq1rk1/pp1p1ppp/3R1nn1/5N2/8/2Q5/PPP1PPPP/2K2B1R b - - 3 12",
+    "Moves": "f6e4 c3g7",
+    "Rating": "918",
+    "RatingDeviation": "79",
+    "Popularity": "78",
+    "NbPlays": "164",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/y373TDb3/black#24",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "euDxt",
+    "FEN": "r4rk1/p1b2ppp/2pqpn2/3p4/3P4/1PN1P2P/PB2QPP1/R4RK1 w - - 3 15",
+    "Moves": "a1c1 d6h2",
+    "Rating": "647",
+    "RatingDeviation": "148",
+    "Popularity": "71",
+    "NbPlays": "37",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/TpDs3OxU#29",
+    "OpeningTags": "Slav_Defense Slav_Defense_Quiet_Variation"
+  },
+  {
+    "PuzzleId": "euHdR",
+    "FEN": "1r4k1/5ppp/q1R1p3/3n4/p2P4/Pr5P/2Q2PP1/2B2RK1 b - - 3 28",
+    "Moves": "a6b5 c6c8 b5e8 c8e8",
+    "Rating": "858",
+    "RatingDeviation": "84",
+    "Popularity": "100",
+    "NbPlays": "56",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/kXTq9kO3/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "euHj7",
+    "FEN": "r6k/ppb3pp/2p3p1/2P4n/1P6/PQ1PRP1P/5P1q/4RK2 b - - 7 24",
+    "Moves": "h7h6 e3e8 a8e8 e1e8 h8h7 b3g8",
+    "Rating": "799",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "1180",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/ACXqmQOG/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "euLPA",
+    "FEN": "rn2r1k1/p4ppp/2p3b1/1p2N3/3PB1P1/PQP1P2q/5P2/R1B2RK1 b - - 0 18",
+    "Moves": "g6e4 b3f7 g8h8 f7e8",
+    "Rating": "931",
+    "RatingDeviation": "97",
+    "Popularity": "88",
+    "NbPlays": "532",
+    "Themes": "backRankMate fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/jkBhJQqA/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Ragozin_Defense"
+  },
+  {
+    "PuzzleId": "euPhP",
+    "FEN": "2k4r/ppp2p2/2B4p/3N2pb/P3P3/5N1P/5qPK/1R1R4 b - - 0 18",
+    "Moves": "b7c6 d5e7",
+    "Rating": "944",
+    "RatingDeviation": "85",
+    "Popularity": "80",
+    "NbPlays": "135",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/qunGxdkA/black#36",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "euQIE",
+    "FEN": "2r1n1k1/1bp2rp1/pN2p2p/3p4/PP1P1PPP/4P1K1/2R2N2/2R5 b - - 0 32",
+    "Moves": "c7b6 c2c8 b7c8 c1c8",
+    "Rating": "614",
+    "RatingDeviation": "98",
+    "Popularity": "83",
+    "NbPlays": "129",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/5FtZ3AAD/black#64",
+    "OpeningTags": ""
+  }
+]

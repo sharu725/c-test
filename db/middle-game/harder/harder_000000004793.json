@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EUHVQ",
+    "FEN": "r2q2k1/pp4pp/1b1Nprn1/3p2B1/1P6/P2Q3P/5PP1/R4RK1 b - - 1 20",
+    "Moves": "f6f2 g5d8 f2f3 d8b6",
+    "Rating": "1921",
+    "RatingDeviation": "89",
+    "Popularity": "49",
+    "NbPlays": "26",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/XoUrTa7r/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EUHuj",
+    "FEN": "r1b2rk1/pp2np1p/2p3p1/3q2N1/5Bn1/2NB2P1/P4R1P/2RQ2K1 b - - 0 25",
+    "Moves": "g4f2 c3d5 f2d1 d5e7",
+    "Rating": "1846",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "365",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/xkcpYWuW/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EUJtR",
+    "FEN": "r2q1rk1/5p1p/3p2p1/p1pP1P2/1p1bB3/8/P5PP/2RQ1R1K b - - 0 26",
+    "Moves": "g6g5 f5f6 d8f6 f1f6",
+    "Rating": "1884",
+    "RatingDeviation": "77",
+    "Popularity": "73",
+    "NbPlays": "80",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/qQG2PIOX/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EUKZl",
+    "FEN": "rnbq1r1k/2p1b1pp/1p1p1n2/p4Q2/3P4/2PBPN2/PB1N1PPP/R4RK1 w - - 1 13",
+    "Moves": "f5b5 c8a6 b5f5 g7g6 f5h3 a6d3",
+    "Rating": "1950",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "1160",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/poJugOCf#25",
+    "OpeningTags": "Polish_Opening Polish_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "EUL3m",
+    "FEN": "r4rk1/p1Qp2p1/1pb4q/5p2/8/3N4/PPP2PPP/R3R1K1 w - - 1 20",
+    "Moves": "d3e5 f8c8 c7c8 a8c8",
+    "Rating": "1970",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "7038",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/hOZAO4bu#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EUND9",
+    "FEN": "3q1rk1/3nbp2/p3p1p1/1p1pP2p/3P1P2/5NQP/PPr3P1/R1B2R1K w - - 5 21",
+    "Moves": "f1f2 h5h4 g3g6 f7g6",
+    "Rating": "1812",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1267",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/GoYT8K3A#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EUO1T",
+    "FEN": "r3kb1r/1bq2ppp/p3p3/Pp1nN1B1/3pN3/3B4/1P2QPPP/R4RK1 b kq - 0 17",
+    "Moves": "c7e5 d3b5 a6b5 e2b5 b7c6 b5c6",
+    "Rating": "1993",
+    "RatingDeviation": "80",
+    "Popularity": "85",
+    "NbPlays": "288",
+    "Themes": "fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/jcfeqOOI/black#34",
+    "OpeningTags": "Slav_Defense Slav_Defense_Quiet_Variation"
+  },
+  {
+    "PuzzleId": "EUOO8",
+    "FEN": "r3kbnr/pp2np1p/q2p4/3Pp1B1/1Qb5/2N3PB/PP2N2P/R3KR2 b Qkq - 5 16",
+    "Moves": "e7d5 c3d5 c4d5 e2c3",
+    "Rating": "1948",
+    "RatingDeviation": "102",
+    "Popularity": "25",
+    "NbPlays": "65",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/nmK4IARD/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "EUPCd",
+    "FEN": "r1q1rbk1/pbpn1p2/1p2p1pp/4P2P/2P5/2N1PNP1/PPQ3B1/R2R2K1 b - - 0 17",
+    "Moves": "g6g5 f3g5 h6g5 g2b7 c8b7 d1d7",
+    "Rating": "1827",
+    "RatingDeviation": "79",
+    "Popularity": "82",
+    "NbPlays": "50",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/Ei6A28PV/black#34",
+    "OpeningTags": "Queens_Indian_Defense Queens_Indian_Defense_Classical_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "acl7x",
+    "FEN": "4r1k1/p1q2pp1/2p2n1p/3pb3/5P2/1PPB3P/PB2R1P1/4Q1K1 b - - 0 22",
+    "Moves": "e5f4 e2e8 f6e8 e1e8",
+    "Rating": "590",
+    "RatingDeviation": "101",
+    "Popularity": "85",
+    "NbPlays": "308",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/YhE8c8Mj/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aclrX",
+    "FEN": "r4rk1/pp1nb1p1/q3ppQp/3pP1N1/3R3P/2N5/PPP2PP1/2K4R b - - 1 18",
+    "Moves": "d7e5 g6h7",
+    "Rating": "881",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "1005",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/stmVKHO2/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "acoHU",
+    "FEN": "3r4/pR1n1Q2/6pk/7r/7q/7N/P4PP1/6K1 b - - 5 31",
+    "Moves": "d7e5 f7h7",
+    "Rating": "874",
+    "RatingDeviation": "81",
+    "Popularity": "100",
+    "NbPlays": "48",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/jUsvf5nf/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "acoTe",
+    "FEN": "r1b2rk1/1p3pp1/p2q3p/2pP4/4N3/P4Q2/1P3PPP/R4RK1 b - - 0 18",
+    "Moves": "d6d5 e4f6 g7f6 f3d5",
+    "Rating": "967",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "717",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/IISrQLic/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "acpfH",
+    "FEN": "2r2rk1/1p1n1ppp/4b3/3q4/p2B4/P2B4/1PPQ1PPP/1K1RR3 w - - 1 22",
+    "Moves": "d4c3 d5a2 b1c1 a2a1",
+    "Rating": "652",
+    "RatingDeviation": "79",
+    "Popularity": "98",
+    "NbPlays": "751",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/g4rVNjdD#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "acq6u",
+    "FEN": "r4rk1/ppp5/3p1q1p/2bNpPp1/2P3Q1/7P/PPP2PP1/R4K2 b - - 2 17",
+    "Moves": "f6f5 d5e7 g8g7 e7f5",
+    "Rating": "986",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "129",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/mNMkLcMc/black#34",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "acr2H",
+    "FEN": "2r2rk1/2q2ppp/p1n5/1p3Pb1/4Q1P1/3B4/P5KP/3RR3 b - - 4 25",
+    "Moves": "f8e8 e4e8 c8e8 e1e8",
+    "Rating": "584",
+    "RatingDeviation": "98",
+    "Popularity": "90",
+    "NbPlays": "492",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/WXSRpmZJ/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "acs8M",
+    "FEN": "r2qr2k/p2p1Qpp/1p1N4/8/8/P1P1P3/5PbP/R3K1R1 b Q - 2 21",
+    "Moves": "e8e3 f2e3",
+    "Rating": "819",
+    "RatingDeviation": "104",
+    "Popularity": "67",
+    "NbPlays": "76",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/uc0m7Po0/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "acsbo",
+    "FEN": "2kr1r2/ppqn1Bpp/2p2b2/4p3/4P3/2N2Q1P/PPP2PP1/2KR3R w - - 0 14",
+    "Moves": "f7e6 f6g5 c1b1 f8f3",
+    "Rating": "910",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "964",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/N7Ch4VjI#27",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  }
+]

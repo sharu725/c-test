@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "clR0u",
+    "FEN": "r3k3/p2b1p2/2p1p3/3pB3/N4P2/3P1n2/PPr4P/R2K2R1 b q - 3 20",
+    "Moves": "c2h2 g1g8 e8e7 g8a8",
+    "Rating": "992",
+    "RatingDeviation": "84",
+    "Popularity": "63",
+    "NbPlays": "151",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/JFoVhTrJ/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "clRnJ",
+    "FEN": "r1b1k1nr/1p3pbp/p1N1p1p1/1N6/4p3/4B3/PPPR1PPP/2K2B1R b kq - 0 11",
+    "Moves": "a6b5 d2d8",
+    "Rating": "756",
+    "RatingDeviation": "83",
+    "Popularity": "96",
+    "NbPlays": "844",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/aTQU61Wb/black#22",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "clSyZ",
+    "FEN": "4r1k1/pp1b1ppp/1q2p3/3pPn2/3P4/BPQ2N2/P4PPP/2R3K1 b - - 5 22",
+    "Moves": "e8c8 c3c8 d7c8 c1c8 b6d8 c8d8",
+    "Rating": "637",
+    "RatingDeviation": "100",
+    "Popularity": "89",
+    "NbPlays": "332",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/ctPmh5U4/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "clT4X",
+    "FEN": "1Q2rk1n/1p3p2/p6p/q1p4P/2n5/2N5/1PP3P1/2KR1R2 w - - 1 30",
+    "Moves": "b8f4 a5a1 c3b1 a1b2",
+    "Rating": "939",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "767",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/ccrg1t1u#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "clTGy",
+    "FEN": "r4rk1/p1p2pbp/6p1/4P1q1/3P1n2/1QP5/PP3P1P/RNB1R1K1 w - - 1 16",
+    "Moves": "g1f1 g5g2",
+    "Rating": "882",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "125",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/BwMbiKcQ#31",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "clU96",
+    "FEN": "r3k2r/p1pq1ppn/2pbb2p/8/8/2N1QN2/PPPB1PPP/R4RK1 w kq - 0 14",
+    "Moves": "f3e5 d6e5 e3e5 d7d2",
+    "Rating": "957",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1114",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/wWCk0p5M#27",
+    "OpeningTags": "Center_Game Center_Game_Paulsen_Attack_Variation"
+  },
+  {
+    "PuzzleId": "clYKe",
+    "FEN": "3q1rk1/1b3p1p/1p2p1p1/1PprN3/P7/4P3/1Q3PPP/R2R2K1 w - - 0 26",
+    "Moves": "e5g4 d5d1 a1d1 d8d1",
+    "Rating": "600",
+    "RatingDeviation": "105",
+    "Popularity": "79",
+    "NbPlays": "295",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/G294srWf#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "clYxR",
+    "FEN": "5rk1/1b4pp/p1q1p3/1p6/4N2Q/2P1R2P/PP1r1PP1/R5K1 w - - 1 24",
+    "Moves": "e4d2 c6g2",
+    "Rating": "610",
+    "RatingDeviation": "82",
+    "Popularity": "100",
+    "NbPlays": "99",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/auEnl81s#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "claT2",
+    "FEN": "4k3/p2p1p1p/b5n1/1p2p3/1B1QPr1q/8/P1R3PP/3BR2K w - - 0 32",
+    "Moves": "d4d6 h4e1 b4e1 f4f1",
+    "Rating": "950",
+    "RatingDeviation": "80",
+    "Popularity": "79",
+    "NbPlays": "159",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/sxDcWecz#63",
+    "OpeningTags": ""
+  }
+]

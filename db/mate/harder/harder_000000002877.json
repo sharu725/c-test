@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "uKqNK",
+    "FEN": "2rr4/6kp/p7/1p1pN3/7P/4P3/PPb5/2KR2R1 b - - 1 29",
+    "Moves": "g7h6 e5f7 h6h5 g1g5 h5h4 d1h1",
+    "Rating": "1831",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "8506",
+    "Themes": "endgame exposedKing fork long mate mateIn3",
+    "GameUrl": "https://lichess.org/PksKNY6m/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uKs3k",
+    "FEN": "r1b2rk1/pp1p1ppp/2nn4/3B2BQ/2Np4/8/Pq3PPP/R3R1K1 b - - 1 14",
+    "Moves": "d6c4 h5f7 f8f7 e1e8",
+    "Rating": "1837",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "8111",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/V8dOa2oX/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "uKyjt",
+    "FEN": "r1b2rk1/pp1p1ppp/8/3N4/3BP3/4QPn1/PP1KB2q/R7 b - - 3 19",
+    "Moves": "d7d6 d5e7 g8h8 d4g7 h8g7 e3g5 g7h8 g5f6",
+    "Rating": "1882",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "9783",
+    "Themes": "attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/smvgASwk/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "uL9IN",
+    "FEN": "8/P7/4k1p1/5pK1/5P2/8/5P2/3q4 w - - 0 48",
+    "Moves": "a7a8q d1h5",
+    "Rating": "1919",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "454",
+    "Themes": "endgame mate mateIn1 oneMove queenEndgame",
+    "GameUrl": "https://lichess.org/uDv660JU#95",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLCE0",
+    "FEN": "r1b4r/1p1p1Rpk/1p1N2qp/4p3/4P3/P4Q2/1PP3PP/5RK1 b - - 1 21",
+    "Moves": "g6d6 f7g7 h7g7 f3f7",
+    "Rating": "1983",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "8929",
+    "Themes": "attraction mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/XSaASojQ/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLETr",
+    "FEN": "2r2rk1/1b3p1p/p2p1Pp1/1pp1nq2/8/P1P2N1P/BP4P1/R1Q1R2K w - - 2 25",
+    "Moves": "f3e5 f5h3 h1g1 h3g2",
+    "Rating": "1853",
+    "RatingDeviation": "85",
+    "Popularity": "84",
+    "NbPlays": "59",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/KELS7wi5#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLK34",
+    "FEN": "r1b1k2r/1pNn1pp1/pq5p/3p4/4NPPb/8/PPP1Q2P/2KR1B1R b kq - 1 14",
+    "Moves": "b6c7 e4d6 e8f8 e2e8",
+    "Rating": "1965",
+    "RatingDeviation": "147",
+    "Popularity": "21",
+    "NbPlays": "22",
+    "Themes": "doubleCheck mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/PsSf1Lnb/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "uLNfn",
+    "FEN": "4RQ2/1b1q2pk/5p1p/8/3P4/4P1BP/5PPK/1r6 w - - 9 35",
+    "Moves": "e8e7 b1h1 h2h1 d7h3 h1g1 h3g2",
+    "Rating": "1948",
+    "RatingDeviation": "81",
+    "Popularity": "93",
+    "NbPlays": "2261",
+    "Themes": "attraction deflection endgame long mate mateIn3 pin sacrifice",
+    "GameUrl": "https://lichess.org/iXw8AbTk#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLPd2",
+    "FEN": "4r1k1/4qpbN/3p4/3P1PQ1/3p2P1/Pp1P4/1Pp5/2K4R w - - 2 35",
+    "Moves": "f5f6 e7e1 h1e1 e8e1 c1d2 c2c1q",
+    "Rating": "1959",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "394",
+    "Themes": "advancedPawn endgame long mate mateIn3 promotion queensideAttack sacrifice",
+    "GameUrl": "https://lichess.org/Ps1h40ki#69",
+    "OpeningTags": ""
+  }
+]

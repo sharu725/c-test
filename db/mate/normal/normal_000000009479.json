@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "nx37k",
+    "FEN": "1k2r3/6R1/KP6/7p/6p1/8/7P/8 b - - 1 51",
+    "Moves": "e8e6 g7g8 e6e8 g8e8",
+    "Rating": "1247",
+    "RatingDeviation": "95",
+    "Popularity": "53",
+    "NbPlays": "63",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/ZFFTE1c1/black#102",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nx3oA",
+    "FEN": "4r1k1/p3rppp/2Q1b3/1p1N4/8/3B2Pq/PPP4P/R3R1K1 b - - 2 21",
+    "Moves": "e6d5 c6e8 e7e8 e1e8",
+    "Rating": "1347",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "755",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short xRayAttack",
+    "GameUrl": "https://lichess.org/PvuW3AyL/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nx45c",
+    "FEN": "1kr2b1r/ppp2p1p/2n5/3q2B1/6Q1/8/PPP2PPP/3RR1K1 b - - 2 17",
+    "Moves": "d5c5 g4c8 b8c8 e1e8 c6d8 d1d8",
+    "Rating": "1212",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "2437",
+    "Themes": "attraction long mate mateIn3 middlegame queensideAttack sacrifice",
+    "GameUrl": "https://lichess.org/uTJm5DKr/black#34",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "nx4VS",
+    "FEN": "8/b1Rk1p1p/4p2p/P2pr3/4r3/8/5PPP/2R3K1 b - - 3 25",
+    "Moves": "d7d6 c1c6",
+    "Rating": "1339",
+    "RatingDeviation": "195",
+    "Popularity": "62",
+    "NbPlays": "28",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/efEdGyYd/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nx6aB",
+    "FEN": "4r1k1/ppp1rppp/5q2/1Qn5/3N1P2/2P1R3/P5PP/4R1K1 b - - 12 24",
+    "Moves": "e7e3 b5e8 e3e8 e1e8",
+    "Rating": "1336",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4928",
+    "Themes": "backRankMate mate mateIn2 middlegame short xRayAttack",
+    "GameUrl": "https://lichess.org/vJKoMyHo/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nx7hY",
+    "FEN": "5R1k/pp2p1bP/1q6/4n3/8/2Pr2QP/P5P1/R6K b - - 0 22",
+    "Moves": "g7f8 g3g8",
+    "Rating": "1281",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "410",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/pdhnFh0W/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nx8Ve",
+    "FEN": "4rr1k/1Qp3pp/3p1q2/8/1P6/P2b4/5PPP/3R1RK1 w - - 0 25",
+    "Moves": "d1d3 f6f2 f1f2 e8e1 f2f1 e1f1",
+    "Rating": "1263",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "529",
+    "Themes": "endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/UGqxvv5c#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nx9OY",
+    "FEN": "3q4/1Br1k3/1R3ppp/Q7/4P3/8/P4PPP/3R2K1 w - - 3 34",
+    "Moves": "d1d8 c7c1 d8d1 c1d1 a5e1 d1e1",
+    "Rating": "1206",
+    "RatingDeviation": "81",
+    "Popularity": "55",
+    "NbPlays": "82",
+    "Themes": "backRankMate endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/u4a7ev33#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nxAGY",
+    "FEN": "r1bq1rk1/4b2p/3p1Pp1/2pP4/1pP2QNP/1B6/PB1P4/2K2R2 b - - 0 28",
+    "Moves": "c8g4 f6f7 f8f7 f4f7",
+    "Rating": "1332",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "17487",
+    "Themes": "advancedPawn kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/j5GFYjeZ/black#56",
+    "OpeningTags": ""
+  }
+]

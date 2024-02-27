@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "sLuU6",
+    "FEN": "r4rk1/3p1pRp/p1bQ4/1p1NP3/7n/1B6/PPPq2PP/R6K b - - 0 20",
+    "Moves": "g8g7 d6f6 g7g8 d5e7",
+    "Rating": "1165",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "4736",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/BQKgHgFi/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sLulM",
+    "FEN": "4r1k1/5ppp/1R1Bp3/p2pP3/3r2qn/2P3P1/3Q1P1P/2R4K w - - 0 25",
+    "Moves": "c3d4 g4f3 h1g1 f3g2",
+    "Rating": "1108",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "1121",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/CT2W3ark#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sM2Pm",
+    "FEN": "1rb2rk1/1p3Bpp/p7/8/P5q1/1Q6/1P3PPP/3R1RK1 b - - 0 18",
+    "Moves": "f8f7 d1d8",
+    "Rating": "1003",
+    "RatingDeviation": "95",
+    "Popularity": "90",
+    "NbPlays": "181",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/rpUmWgrG/black#36",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "sM30K",
+    "FEN": "r4rk1/2pbqpp1/1pnb1n1p/pB1p4/3P4/PN2PN2/1PQB1PPP/R4RK1 b - - 5 15",
+    "Moves": "f6e4 b5c6 d7c6 c2c6",
+    "Rating": "1096",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "733",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/oYy3QRrN/black#30",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "sM5q1",
+    "FEN": "2rq1rk1/1bb2ppp/p1p1pn2/1p4N1/1P1PN2P/4P3/2Q1BPP1/R1R3K1 b - - 4 21",
+    "Moves": "h7h6 e4f6 d8f6 c2h7",
+    "Rating": "1022",
+    "RatingDeviation": "88",
+    "Popularity": "92",
+    "NbPlays": "385",
+    "Themes": "clearance kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/QmBBXlDN/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sM777",
+    "FEN": "2r3k1/1p3pp1/4pqnp/1N1p4/1P6/5NQP/1R3PP1/1Rr3K1 w - - 1 29",
+    "Moves": "b1c1 c8c1 g1h2 f6b2",
+    "Rating": "1086",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4810",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/GPOD89cJ#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sMCtd",
+    "FEN": "2R1B3/4qppk/8/3Pn2p/Pb1Np3/1Q2PbP1/NP3K1P/8 w - - 0 29",
+    "Moves": "b3b4 e5d3 f2f1 d3b4",
+    "Rating": "1033",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "293",
+    "Themes": "advantage fork master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/YEmsnaNw#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sME6C",
+    "FEN": "2r1kb1r/pp3ppp/1q2p3/3pNb2/3n1B2/2P4P/PP1QBPP1/R3K2R w KQk - 0 13",
+    "Moves": "c3d4 f8b4 e1g1 b4d2",
+    "Rating": "1190",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "619",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/AN4uu7zZ#25",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Steinitz_Countergambit"
+  },
+  {
+    "PuzzleId": "sMF3S",
+    "FEN": "r3k2r/pppq2pp/2n1b3/2p1p3/4P3/2NP2PP/PPPNQ3/R3K2R b KQkq - 1 13",
+    "Moves": "e6h3 e2h5 g7g6 h5h3 d7h3 h1h3",
+    "Rating": "1193",
+    "RatingDeviation": "77",
+    "Popularity": "83",
+    "NbPlays": "141",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/4mE2c45G/black#26",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Cozio_Defense"
+  }
+]

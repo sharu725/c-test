@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PGuG1",
+    "FEN": "r3kbnr/pp1qpppp/8/8/1B1pN3/5P2/PPP2P1K/R2QR3 b kq - 1 17",
+    "Moves": "g8f6 e4d6 e8d8 d6f7",
+    "Rating": "1843",
+    "RatingDeviation": "74",
+    "Popularity": "84",
+    "NbPlays": "122",
+    "Themes": "crushing deflection middlegame pin short",
+    "GameUrl": "https://lichess.org/eg3T2hQQ/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "PGuSf",
+    "FEN": "4r1k1/3brpp1/p1Nq1n2/2pp3p/8/2NP1PQ1/PPP1R1PP/4R1K1 b - - 0 20",
+    "Moves": "d6g3 c6e7 e8e7 h2g3",
+    "Rating": "1810",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1242",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/uZioxTiT/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGurk",
+    "FEN": "r4q2/1p3p1k/p1pp1n2/3PppQb/4P2P/P7/1PP4R/2K3R1 b - - 1 26",
+    "Moves": "h5g4 g5f6 f8h6 f6h6",
+    "Rating": "1834",
+    "RatingDeviation": "90",
+    "Popularity": "72",
+    "NbPlays": "39",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/V2ThMoyx/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGwwa",
+    "FEN": "r3r1k1/5ppp/p1p5/3p4/3Q4/1P2B1Pb/P1q2P1P/RN1R2K1 w - - 0 18",
+    "Moves": "d1c1 c2c1 e3c1 e8e1",
+    "Rating": "1847",
+    "RatingDeviation": "111",
+    "Popularity": "81",
+    "NbPlays": "39",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/fi4snV4w#35",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Franco-Nimzowitsch_Variation"
+  },
+  {
+    "PuzzleId": "PGx1I",
+    "FEN": "r4rk1/p4ppp/1p2p3/2ppPb2/Q1P1n2q/B2BP3/PP3PPP/R4RK1 b - - 3 14",
+    "Moves": "e4f2 d3f5 e6f5 f1f2",
+    "Rating": "1803",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "138",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/cn1q1GrO/black#28",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "PGxkB",
+    "FEN": "2r2r2/p6k/1p4p1/2qP4/P1p1B3/3n2P1/4Q2P/1R3R1K b - - 0 30",
+    "Moves": "d3f2 f1f2 f8f2 e2h5 h7g7 h5g6",
+    "Rating": "1929",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "200",
+    "Themes": "advantage long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/f8OErvbG/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGyLz",
+    "FEN": "3rr1k1/pp3ppp/3q4/3N2Qn/3n4/1B3P2/PP4PP/R2R2K1 b - - 1 19",
+    "Moves": "d4b3 d5e7 d6e7 g5e7",
+    "Rating": "1958",
+    "RatingDeviation": "104",
+    "Popularity": "75",
+    "NbPlays": "18",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/DFVNnsWB/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "PGyna",
+    "FEN": "1r1qkb1r/3p1p2/p3p1p1/1p2PP1p/5B1P/2NQ4/PPP1BP2/2KR3b b k - 0 17",
+    "Moves": "g6f5 d1h1",
+    "Rating": "1810",
+    "RatingDeviation": "76",
+    "Popularity": "70",
+    "NbPlays": "131",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/3Qm6GXye/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Open"
+  },
+  {
+    "PuzzleId": "PH01W",
+    "FEN": "r2qr1k1/pp3ppp/2n5/3n4/5B2/5Q1P/PP3PP1/3R1RK1 w - - 0 18",
+    "Moves": "d1d5 c6d4 d5d4 d8d4",
+    "Rating": "1830",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "1684",
+    "Themes": "advantage middlegame short xRayAttack",
+    "GameUrl": "https://lichess.org/8kK8KeHh#35",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  }
+]

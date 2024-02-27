@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "wyRDR",
+    "FEN": "r2q1r2/1p1bbkp1/p4p2/4p2Q/2RN4/4P2R/PP4PP/6K1 b - - 3 21",
+    "Moves": "g7g6 h5h7 f7e8 h7g6 f8f7 h3h7",
+    "Rating": "2238",
+    "RatingDeviation": "84",
+    "Popularity": "100",
+    "NbPlays": "38",
+    "Themes": "advantage deflection long middlegame",
+    "GameUrl": "https://lichess.org/mKMbMfxb/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wyRrD",
+    "FEN": "1q3rk1/2rnbppp/Qp2pn2/3p4/3N4/1P4P1/P3PPBP/R1B2RK1 w - - 5 18",
+    "Moves": "c1f4 e6e5 d4f5 d7c5",
+    "Rating": "2033",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "325",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/v5yPu8US#35",
+    "OpeningTags": "Queens_Indian_Defense Queens_Indian_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "wyT7s",
+    "FEN": "rn3r2/pp1n2pk/4p3/2qpN3/8/2P5/PPQ2PPP/R3K2R b KQ - 1 18",
+    "Moves": "f8f5 e5d7 b8d7 g2g4 d7e5 g4f5",
+    "Rating": "2075",
+    "RatingDeviation": "91",
+    "Popularity": "73",
+    "NbPlays": "27",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/9gZiJq0j/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "wyUGL",
+    "FEN": "r1b1qrk1/1p3ppp/3Q1n2/1Bp1p3/P3P3/2P2N1P/6P1/3R2KR b - - 0 18",
+    "Moves": "f6e4 d6d3 e8e7 d3e4",
+    "Rating": "2171",
+    "RatingDeviation": "81",
+    "Popularity": "91",
+    "NbPlays": "3353",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Yt0MeaTh/black#36",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Macleod_Attack"
+  },
+  {
+    "PuzzleId": "wyUHo",
+    "FEN": "r3qrk1/p1p5/1bNp3p/3P2p1/4P3/2N3pP/PPP2P2/R2Q1RK1 w - - 0 19",
+    "Moves": "c3a4 b6f2 f1f2 g3f2",
+    "Rating": "2259",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1129",
+    "Themes": "advancedPawn crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/1cLw4ArX#37",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "wyV6t",
+    "FEN": "1r3rk1/1b3ppp/p3p3/1p4b1/3PB3/P7/1P2QP1P/1K4R1 b - - 3 23",
+    "Moves": "g5f6 e4b7 b8b7 e2f3 b7d7 f3f6",
+    "Rating": "2018",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2865",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/AHHGydnd/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wyVye",
+    "FEN": "1r5r/1knPQ3/pq3p1p/4p3/P1p5/2P5/5PPP/RN1R2K1 w - - 1 37",
+    "Moves": "d1d6 b6b2 b1d2 b2a1",
+    "Rating": "2013",
+    "RatingDeviation": "134",
+    "Popularity": "100",
+    "NbPlays": "36",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/XcumshAv#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wyW5h",
+    "FEN": "1r3rk1/p3bppp/1nQ5/4p3/4N2q/3P1P2/PPP2P1P/R1B1K2R w KQ - 5 18",
+    "Moves": "c1e3 f8c8 c6b5 b6c4",
+    "Rating": "2034",
+    "RatingDeviation": "158",
+    "Popularity": "87",
+    "NbPlays": "16",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/FGyrPzwO#35",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "wyWLG",
+    "FEN": "3r1rk1/5p2/2p3p1/p7/3q1P2/P2B1R2/1PbQ2PP/5R1K w - - 6 26",
+    "Moves": "f1c1 c2d3 c1d1 f8e8 h2h3 d4c4 b2b3 c4b3",
+    "Rating": "2161",
+    "RatingDeviation": "112",
+    "Popularity": "68",
+    "NbPlays": "12",
+    "Themes": "advantage middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/xv1PfHtF#51",
+    "OpeningTags": ""
+  }
+]

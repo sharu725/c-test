@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "yVIgK",
+    "FEN": "r3r1k1/pp3p1p/2ppb1pB/4b2n/4P2q/3BQ2P/PPP1NPP1/R4RK1 b - - 1 15",
+    "Moves": "b7b6 h6g5 h4g5 e3g5",
+    "Rating": "1567",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "1055",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/gehLB8bj/black#30",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "yVJnk",
+    "FEN": "r2q1r2/pp1n1ppk/2pbpn1p/4Nb2/2BP1B2/2N4P/PPPQ1PP1/R3R1K1 w - - 6 15",
+    "Moves": "e5f7 d6f4 d2f4 f8f7",
+    "Rating": "1487",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1100",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/cRNBWdRp#29",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "yVLf4",
+    "FEN": "r7/p1pk1pQ1/1pqbb1B1/8/3P4/8/PP3PPP/2R1R1K1 w - - 0 25",
+    "Moves": "e1e6 c6c1 e6e1 c1e1",
+    "Rating": "1507",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "618",
+    "Themes": "hangingPiece mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/NtZNdkAl#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yVMmu",
+    "FEN": "r5rk/1pp2pn1/p2p3p/4p1q1/1P4R1/P1PQ3P/2P2PPN/5RK1 b - - 9 22",
+    "Moves": "g5f5 g4g7 f5d3 g7g8 h8g8 c2d3",
+    "Rating": "1556",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "7256",
+    "Themes": "crushing exposedKing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/Pe3fv6tX/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yVMvK",
+    "FEN": "1r3rk1/6pp/1q2p3/4PpB1/7P/p1Pb4/P2R1PP1/K2RQ3 w - - 1 29",
+    "Moves": "g5e7 b6b2 d2b2 a3b2",
+    "Rating": "1478",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "19189",
+    "Themes": "advancedPawn mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/IVqf6AKg#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yVOW8",
+    "FEN": "r1qr2k1/p1n2p1p/6p1/1p6/2p1B1bQ/4P2P/PPP2PP1/R4RK1 w - - 0 21",
+    "Moves": "h4g4 f7f5 g4f3 f5e4",
+    "Rating": "1537",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "3461",
+    "Themes": "advantage fork master middlegame short superGM",
+    "GameUrl": "https://lichess.org/pllMH2XP#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yVOvi",
+    "FEN": "r5k1/5p1p/p1q1b1pb/2p5/N1Pnn3/3B3P/1P4P1/1K1RQ1NR w - - 1 24",
+    "Moves": "d3e4 c6a4 d1d4 c5d4",
+    "Rating": "1491",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "1494",
+    "Themes": "crushing hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/wUhI9LpP#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yVQqG",
+    "FEN": "3rr3/pp3pkp/2p2np1/4P3/6b1/1P3NP1/P4PBP/R4RK1 b - - 0 17",
+    "Moves": "g4f3 e5f6 g7f6 g2f3",
+    "Rating": "1538",
+    "RatingDeviation": "80",
+    "Popularity": "79",
+    "NbPlays": "46",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/uZhfgXNg/black#34",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Slav_Formation"
+  },
+  {
+    "PuzzleId": "yVR4V",
+    "FEN": "r4rk1/ppp1q1bb/5n1p/3NN1p1/1PP2pP1/P4B1P/2n2P1B/R1Q1R1K1 b - - 2 24",
+    "Moves": "f6d5 f3d5 g8h8 e5g6 h7g6 e1e7",
+    "Rating": "1467",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "11344",
+    "Themes": "crushing discoveredAttack exposedKing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/8FPauzgV/black#48",
+    "OpeningTags": ""
+  }
+]

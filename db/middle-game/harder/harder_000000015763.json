@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "lgMBr",
+    "FEN": "1k1r1b2/p3r3/1p2b2p/1RB4q/Q1P3p1/6P1/P6P/4R1K1 b - - 0 27",
+    "Moves": "d8d2 c5d6 d2d6 b5h5 e6d7 a4b4",
+    "Rating": "1932",
+    "RatingDeviation": "300",
+    "Popularity": "-87",
+    "NbPlays": "6",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/QDgRxWUB/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lgMKZ",
+    "FEN": "r4k1r/2p1q1p1/1p6/p1b1n1Np/3pN1bP/1Q3P2/PPP5/2K1R2R b - - 0 19",
+    "Moves": "g4f5 e4c5 e7c5 e1e5",
+    "Rating": "1815",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "364",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/XiqxIqsh/black#38",
+    "OpeningTags": "Scotch_Game Scotch_Game_Haxo_Gambit"
+  },
+  {
+    "PuzzleId": "lgMsc",
+    "FEN": "3r1rk1/pp4pp/1qp2n2/4p3/4P3/P3B3/1PP1Q1PP/R4RK1 b - - 2 20",
+    "Moves": "b6b2 e2c4 g8h8 f1b1 b2b1 a1b1",
+    "Rating": "1887",
+    "RatingDeviation": "92",
+    "Popularity": "70",
+    "NbPlays": "56",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/wCmCT6zl/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lgMsk",
+    "FEN": "6r1/bp2qp1k/p1p4p/P3p2p/1P2Pn2/1BPr1N1P/1B3P1K/R4QR1 w - - 7 27",
+    "Moves": "g1g8 d3f3 g8g3 f3f2 f1f2 a7f2",
+    "Rating": "1984",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "63",
+    "Themes": "advantage fork hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/n64LwfxV#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lgNtN",
+    "FEN": "7r/p2nq1k1/b3p3/1pp1Pp2/3P1PpR/P5P1/1PB1QNP1/2K5 w - - 0 27",
+    "Moves": "h4g4 f5g4 e2g4 g7f8",
+    "Rating": "1877",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "84",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/tevuyzZx#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lgOYF",
+    "FEN": "r3k1nr/pp3ppp/4p3/2P5/b7/6P1/PqPQ1P1P/3RKBNR b Kkq - 0 13",
+    "Moves": "b2c2 f1b5 a4b5 d2c2",
+    "Rating": "1814",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "1033",
+    "Themes": "advantage deflection middlegame short",
+    "GameUrl": "https://lichess.org/ofPag2zT/black#26",
+    "OpeningTags": "French_Defense French_Defense_Winawer_Variation"
+  },
+  {
+    "PuzzleId": "lgP4z",
+    "FEN": "3r1r1k/1pp3pp/p7/1n2pq2/1P6/2PPB3/P2NKP2/2R3QR w - - 14 26",
+    "Moves": "d3d4 e5d4 g1g5 d4e3 g5f5 f8f5",
+    "Rating": "1997",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "1029",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/LOoHJIpz#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lgQKo",
+    "FEN": "r2qkbr1/1b3p2/3pp3/pP2p3/R3P2p/2NB3P/2P2PP1/1Q3RK1 w q - 1 19",
+    "Moves": "b5b6 d8g5 g2g4 h4g3",
+    "Rating": "1802",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "211",
+    "Themes": "advantage enPassant middlegame short",
+    "GameUrl": "https://lichess.org/AmRuVick#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "lgQLg",
+    "FEN": "r4rk1/ppq2ppp/1b2p3/3nn1B1/4N3/2PB3Q/PP3PPP/R4RK1 w - - 6 15",
+    "Moves": "e4f6 d5f6 g5f6 e5d3 h3g4 g7g6",
+    "Rating": "1910",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "3913",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/Z3yQMjsA#29",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Slav_Invitation"
+  }
+]

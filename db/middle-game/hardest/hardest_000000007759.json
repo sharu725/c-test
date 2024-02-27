@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "G38m8",
+    "FEN": "5r1k/5r1p/2q3p1/pp1p4/2pRnPP1/2P1BQ2/PP2K2P/3R4 b - - 1 32",
+    "Moves": "f7d7 f3e4 d5e4 d4d7",
+    "Rating": "2102",
+    "RatingDeviation": "131",
+    "Popularity": "74",
+    "NbPlays": "12",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/iwUpmJMZ/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G39Qr",
+    "FEN": "r3k1r1/pp1qn1bp/2ppp1p1/8/4P3/2N4Q/PPP2PPP/R1B2RK1 w q - 2 14",
+    "Moves": "h3h7 g7e5 c1g5 g8h8 h7e7 d7e7 g5e7 e5h2",
+    "Rating": "2267",
+    "RatingDeviation": "87",
+    "Popularity": "85",
+    "NbPlays": "66",
+    "Themes": "advantage middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/fB4IIaYz#27",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Cozio_Defense"
+  },
+  {
+    "PuzzleId": "G39ud",
+    "FEN": "rn2kr2/ppp3p1/1n4p1/3Pp1Pp/1b2P2P/1BN1BP1q/PP6/R2Q1RK1 w q - 3 17",
+    "Moves": "g1f2 h3h2 f2e1 h2b2 e3d2 b4c3 d2c3 b2c3",
+    "Rating": "2219",
+    "RatingDeviation": "81",
+    "Popularity": "89",
+    "NbPlays": "742",
+    "Themes": "crushing middlegame pin skewer veryLong",
+    "GameUrl": "https://lichess.org/jmJynU6k#33",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "G3A4r",
+    "FEN": "r1bq1rk1/pp4pp/2pb4/8/2PBp3/3Q1B1P/PP3PP1/R4RK1 w - - 0 17",
+    "Moves": "d3e4 f8f4 e4e3 f4d4",
+    "Rating": "2045",
+    "RatingDeviation": "85",
+    "Popularity": "72",
+    "NbPlays": "60",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/exXY3RHX#33",
+    "OpeningTags": "Rat_Defense Rat_Defense_Balogh_Defense"
+  },
+  {
+    "PuzzleId": "G3Ah8",
+    "FEN": "2rq1r2/pb2pPb1/1p4pk/4p1Np/3pNn1P/2P5/PPQ1BPP1/R4RK1 w - - 5 19",
+    "Moves": "g2g3 d4d3 e2d3 d8d3 c2d3 f4d3",
+    "Rating": "2140",
+    "RatingDeviation": "82",
+    "Popularity": "78",
+    "NbPlays": "33",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/LDo9Oy8p#37",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "G3AjU",
+    "FEN": "5rk1/pb6/4p1p1/Q2P4/8/2P5/PPB1KBq1/R7 w - - 3 32",
+    "Moves": "a5c5 b7a6 c3c4 a6c4 e2e1 g2f1 e1d2 f8f2",
+    "Rating": "2345",
+    "RatingDeviation": "84",
+    "Popularity": "86",
+    "NbPlays": "107",
+    "Themes": "crushing deflection exposedKing middlegame veryLong",
+    "GameUrl": "https://lichess.org/xSHCaMvu#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G3BKN",
+    "FEN": "k2r2r1/p5Qp/2q2n2/4p3/8/2N2P2/PP4PP/R4RK1 w - - 1 20",
+    "Moves": "g7e7 d8d2 f1f2 d2f2 g1f2 c6b6 f2f1 b6b2",
+    "Rating": "2314",
+    "RatingDeviation": "90",
+    "Popularity": "80",
+    "NbPlays": "27",
+    "Themes": "attraction crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/1z5gpQ0Y#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G3Bds",
+    "FEN": "2k3rr/1pp2p1p/p4p2/4p2q/8/Q2RPN1P/P2P1PP1/5RK1 w - - 1 20",
+    "Moves": "a3e7 g8g2 g1g2 h8g8 g2h2 h5f3 e7d7 c8b8 d7d8 g8d8",
+    "Rating": "2353",
+    "RatingDeviation": "79",
+    "Popularity": "84",
+    "NbPlays": "188",
+    "Themes": "advantage attraction deflection middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/eU7rrdAY#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G3CMP",
+    "FEN": "5r2/p1qk1ppp/Q1p5/PP1p4/3N2n1/2P1r3/6PP/R4RK1 w - - 1 22",
+    "Moves": "b5c6 d7d8 d4e6 e3e6",
+    "Rating": "2020",
+    "RatingDeviation": "79",
+    "Popularity": "81",
+    "NbPlays": "54",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/3nviGxkj#43",
+    "OpeningTags": ""
+  }
+]

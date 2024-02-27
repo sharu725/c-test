@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Gkuen",
+    "FEN": "4r1k1/pp4pp/1n1bq3/6B1/2p5/2N2Q1P/PP4P1/5R1K b - - 4 25",
+    "Moves": "e6e5 f3f7 g8h8 g5f4",
+    "Rating": "1940",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "178",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/5fEZioUS/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GkunY",
+    "FEN": "rq2k2r/1b3p1p/p3pp2/1p5Q/8/P1NB4/1P3PPb/2R1R2K b kq - 1 18",
+    "Moves": "h2f4 e1e6 e8f8 e6f6",
+    "Rating": "1832",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2584",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/gQEYhD9e/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_OKelly_Variation"
+  },
+  {
+    "PuzzleId": "GkxEB",
+    "FEN": "rn3rk1/3qbppp/3p1p2/2pP4/2Q5/6N1/PB3PPP/R3R1K1 b - - 2 16",
+    "Moves": "b8a6 e1e7 d7e7 g3f5",
+    "Rating": "1955",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "388",
+    "Themes": "advantage middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/YLwwmOyb/black#32",
+    "OpeningTags": "Benko_Gambit Benko_Gambit_Zaitsev_System"
+  },
+  {
+    "PuzzleId": "Gl1G6",
+    "FEN": "2k5/p1pr4/1p1b4/5Q2/3n4/1P1P4/P1P2PP1/R1B2RK1 w - - 1 23",
+    "Moves": "f5d5 d4e2 g1h1 d7h7 c1h6 h7h6 d5h5 h6h5",
+    "Rating": "1863",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "186",
+    "Themes": "mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/J8lQHQOB#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Gl1VP",
+    "FEN": "1r4k1/5pp1/p3bn1p/4N3/3Q4/q1NR1PP1/P3P2P/6K1 w - - 0 23",
+    "Moves": "c3e4 b8b1 g1g2 a3c1",
+    "Rating": "1995",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "622",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/AkYPtOfw#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Gl1wE",
+    "FEN": "1r1q1r1k/p4pp1/b2bpB1p/2p5/4B2P/2P2N2/PPQ2PP1/2KR3R b - - 0 16",
+    "Moves": "g7f6 c2d2 h8g7 d2d6 d8d6 d1d6",
+    "Rating": "1976",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "352",
+    "Themes": "crushing long master middlegame",
+    "GameUrl": "https://lichess.org/TVY8MseT/black#32",
+    "OpeningTags": "French_Defense French_Defense_Rubinstein_Variation"
+  },
+  {
+    "PuzzleId": "Gl2DJ",
+    "FEN": "1r4k1/p4ppp/1p6/4p3/1n6/3b1BN1/P1r2PPP/3RR1K1 b - - 7 26",
+    "Moves": "f7f6 a2a3 c2b2 a3b4",
+    "Rating": "1993",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "164",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/u3lYV5IL/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Gl2H4",
+    "FEN": "3rk2r/pp1qb1pp/3p1n2/n3p1B1/8/2N2N2/PP3PPP/R2QR1K1 b k - 5 16",
+    "Moves": "e8g8 g5f6 e7f6 d1d5 d7f7 d5a5",
+    "Rating": "1843",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "3452",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/uLlnbuFz/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "Gl4Jf",
+    "FEN": "r4rk1/pp1nbpp1/1qp2n1p/3pNQ2/3P3B/2N1P3/PP3PPP/1R2K2R b K - 4 14",
+    "Moves": "b6c7 e5d7 c7d7 f5d7 f6d7 h4e7",
+    "Rating": "1931",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "582",
+    "Themes": "capturingDefender crushing long middlegame",
+    "GameUrl": "https://lichess.org/5xvL0Zg8/black#28",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Exchange_Variation"
+  }
+]

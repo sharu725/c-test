@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "56eL4",
+    "FEN": "r2r2k1/p4p1p/2p3p1/2Nbp3/5b2/3R1P1P/PPP1B1P1/1K5R b - - 1 19",
+    "Moves": "d5c4 d3d8 a8d8 e2c4",
+    "Rating": "821",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "883",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/RnUN7L8G/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "56eSV",
+    "FEN": "r6k/p1Q1Nppp/Bp6/4P3/5P2/4p2P/PP1r1qP1/4RRK1 w - - 3 24",
+    "Moves": "g1h1 f2g2",
+    "Rating": "805",
+    "RatingDeviation": "79",
+    "Popularity": "100",
+    "NbPlays": "101",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/DmBzNen1#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "56enK",
+    "FEN": "r1b2rk1/p1qn1pp1/1p1bp2p/8/2pPQ2B/2P2N2/PPB2PPP/R4RK1 b - - 0 15",
+    "Moves": "c8b7 e4h7",
+    "Rating": "749",
+    "RatingDeviation": "90",
+    "Popularity": "83",
+    "NbPlays": "61",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/SOtGyBjm/black#30",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "56f5C",
+    "FEN": "2r1r1k1/pp2Qppp/8/3qn3/1P2p3/P3P3/1B2NPPP/R4RK1 w - - 3 21",
+    "Moves": "e7g5 e5f3 g2f3 d5g5",
+    "Rating": "978",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "429",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/6sW5aGZi#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "56gFG",
+    "FEN": "2krr3/1pp1n1pp/3b1p2/8/8/1PP1BP1P/1P3PP1/RN3RK1 w - - 5 19",
+    "Moves": "f1d1 d6h2 g1h2 d8d1 a1a8 c8d7 a8e8 d7e8",
+    "Rating": "888",
+    "RatingDeviation": "92",
+    "Popularity": "92",
+    "NbPlays": "172",
+    "Themes": "advantage discoveredAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/rPB02VSv#37",
+    "OpeningTags": "Englund_Gambit Englund_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "56gjZ",
+    "FEN": "r1b1rQk1/1p4pp/p2Bp1q1/n2p4/3Pp3/1B6/PPP3PP/2KR1R2 b - - 9 20",
+    "Moves": "e8f8 f1f8",
+    "Rating": "788",
+    "RatingDeviation": "90",
+    "Popularity": "96",
+    "NbPlays": "799",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/w7sxUQFk/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "56hv1",
+    "FEN": "r2q1rk1/1pp3pp/1pnppn2/8/3NP3/2N4P/PPP2PP1/R2Q1RK1 b - - 0 12",
+    "Moves": "e6e5 d4e6 d8d7 e6f8",
+    "Rating": "942",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1058",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/lqNp037P/black#24",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "56jyl",
+    "FEN": "r3r1k1/pp3pp1/7p/4Pb2/1q6/1P6/P3BPPP/R2Q1RK1 w - - 1 17",
+    "Moves": "d1d6 b4d6 e5d6 e8e2",
+    "Rating": "831",
+    "RatingDeviation": "81",
+    "Popularity": "91",
+    "NbPlays": "478",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/QQUMOklA#33",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "56oyY",
+    "FEN": "rn4k1/pp3ppp/2pb3q/3p4/3Pr3/4PQPN/PPPB3P/R4RK1 b - - 5 16",
+    "Moves": "h6h3 f3f7 g8h8 f7f8 d6f8 f1f8",
+    "Rating": "841",
+    "RatingDeviation": "79",
+    "Popularity": "82",
+    "NbPlays": "394",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/dgZWfNQw/black#32",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HZnry",
+    "FEN": "r3r2k/1p5p/3P2p1/2pQ1pB1/p3p3/2b1R2P/P1B2PP1/q2KR3 w - - 7 30",
+    "Moves": "d1e2 a1e1",
+    "Rating": "882",
+    "RatingDeviation": "88",
+    "Popularity": "96",
+    "NbPlays": "512",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/7tIwsnSh#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HZnx2",
+    "FEN": "1r1qr1k1/1ppb1ppp/p1n1pn2/6N1/3P4/B1PBP3/P1Q2PPP/1R3RK1 b - - 3 15",
+    "Moves": "h7h6 d3h7 f6h7 c2h7",
+    "Rating": "963",
+    "RatingDeviation": "81",
+    "Popularity": "95",
+    "NbPlays": "702",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AC1af4jV/black#30",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation"
+  },
+  {
+    "PuzzleId": "HZoka",
+    "FEN": "r3k2r/pp2pp2/2p5/7p/3q1PB1/6p1/PP1N2P1/1R1Q1RK1 w kq - 0 22",
+    "Moves": "g1h1 h5g4",
+    "Rating": "986",
+    "RatingDeviation": "86",
+    "Popularity": "96",
+    "NbPlays": "285",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/QUbTwmsL#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HZqCA",
+    "FEN": "5bQk/1p2n1pn/pB3p1N/5P2/4qPP1/8/PP5P/3R2K1 b - - 2 37",
+    "Moves": "e7g8 h6f7",
+    "Rating": "832",
+    "RatingDeviation": "89",
+    "Popularity": "94",
+    "NbPlays": "1234",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/3Vrk3JIb/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HZqzO",
+    "FEN": "rr4k1/pR3ppp/4p3/3pPn2/P1bP1P2/2B2N2/6PP/1R4K1 b - - 2 22",
+    "Moves": "a7a6 b7b8 a8b8 b1b8",
+    "Rating": "620",
+    "RatingDeviation": "105",
+    "Popularity": "83",
+    "NbPlays": "439",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/EODwWJsl/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HZrxt",
+    "FEN": "r2r2k1/2R3pp/p2Bp1q1/1p2n3/4p3/1P2P2P/P4PP1/3Q1RK1 w - - 0 25",
+    "Moves": "d1d4 e5f3 g1h1 f3d4",
+    "Rating": "826",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "2324",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/Nen2Py4P#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HZtLm",
+    "FEN": "3rr1k1/p5pp/R4p2/8/1B6/6P1/P1Q2P1P/3KR2q w - - 3 32",
+    "Moves": "b4d2 h1e1",
+    "Rating": "948",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "624",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/5xM2iAtt#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HZvpv",
+    "FEN": "r3k3/ppp2pp1/2n4Q/2bq4/4N1b1/P2P4/1PP2PPP/R3KB1R b KQq - 0 12",
+    "Moves": "g7h6 e4f6 e8f8 f6d5",
+    "Rating": "866",
+    "RatingDeviation": "100",
+    "Popularity": "90",
+    "NbPlays": "885",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/dbT6PUCg/black#24",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Gunsberg_Variation"
+  },
+  {
+    "PuzzleId": "HZvrW",
+    "FEN": "r3kb2/pbpp1p2/1p2p3/5r2/2NP4/2P5/PP3K1P/R2Q2R1 w q - 2 21",
+    "Moves": "f2e2 b7f3 e2d3 f3d1",
+    "Rating": "932",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "143",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/YEqPfR49#41",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "kXuOE",
+    "FEN": "6k1/p4p1p/1p2p1pb/3pP3/qP1P4/PN1b1N2/2r2PPP/1Q1R2K1 b - - 9 26",
+    "Moves": "c2c3 d1d3 c3d3 b1d3 a4a3 b4b5",
+    "Rating": "2092",
+    "RatingDeviation": "106",
+    "Popularity": "19",
+    "NbPlays": "19",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/AH3i66Df/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kXvJn",
+    "FEN": "r3k2r/1p3ppp/p1n5/2qp1n2/P5b1/1BP2N2/1P3PPP/RN1QK2R w KQkq - 0 13",
+    "Moves": "d1d5 c5e7 e1f1 a8d8 d5f7 e7f7 b3f7 e8f7",
+    "Rating": "2025",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "114",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/kIHvSWcI#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "kXyrj",
+    "FEN": "r2qr1k1/p1p2pp1/2pb1n1p/5Q2/8/2N5/PPP2PPP/R1B1R1K1 w - - 3 15",
+    "Moves": "c1f4 e8e1 a1e1 g7g6 f5d3 d6f4 d3d8 a8d8",
+    "Rating": "2342",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1512",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/Q6h0D6jO#29",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "kXyuK",
+    "FEN": "b2q1rk1/4r1pp/1pP2p1B/1B3P2/P5Q1/8/3p2PP/3R2K1 b - - 1 26",
+    "Moves": "e7e1 g1f2 d8e7 d1d2",
+    "Rating": "2076",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "204",
+    "Themes": "advantage defensiveMove middlegame pin short",
+    "GameUrl": "https://lichess.org/LSYOsSWx/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kXzKH",
+    "FEN": "r1b4r/3pkpb1/p2Np1pp/4P3/3P1PPq/Q7/P7/2RK1B2 b - - 3 28",
+    "Moves": "h4g4 f1e2 g4g1 d1c2",
+    "Rating": "2208",
+    "RatingDeviation": "80",
+    "Popularity": "83",
+    "NbPlays": "174",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/G2PG5uJp/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kY2gL",
+    "FEN": "2k4r/ppprnppp/4b3/4b3/8/6P1/PPP2PBP/RNB1R1K1 w - - 0 13",
+    "Moves": "e1e5 d7d1 g2f1 d1c1",
+    "Rating": "2040",
+    "RatingDeviation": "129",
+    "Popularity": "76",
+    "NbPlays": "16",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/1DHC0EJR#25",
+    "OpeningTags": "Englund_Gambit Englund_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "kY2pH",
+    "FEN": "N1Q2b1r/pp1nkppp/3p4/4p3/1P1q4/K1R5/P6P/8 b - - 4 28",
+    "Moves": "e7e6 a8c7 e6f6 c3f3",
+    "Rating": "2117",
+    "RatingDeviation": "78",
+    "Popularity": "89",
+    "NbPlays": "576",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/0p01QjVx/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kY3Yu",
+    "FEN": "1r3k2/pNr2pb1/Bn4p1/4n1N1/1p6/6PP/PP3PK1/3RR3 b - - 0 28",
+    "Moves": "c7b7 a6b7 b8b7 d1d8 f8e7 d8g8",
+    "Rating": "2276",
+    "RatingDeviation": "79",
+    "Popularity": "99",
+    "NbPlays": "183",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/ip1PryN5/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kY60s",
+    "FEN": "1r1q1rk1/p1pb1ppp/8/3Qb3/8/1P6/P1P2PPP/RN2R1K1 w - - 0 16",
+    "Moves": "e1e5 b8b5 d5d4 b5e5 d4e5 f8e8 e5c3 d8f6",
+    "Rating": "2298",
+    "RatingDeviation": "94",
+    "Popularity": "82",
+    "NbPlays": "28",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/r0Kla6ce#31",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  }
+]

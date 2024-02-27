@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "RQGNw",
+    "FEN": "r2r1bk1/5pp1/p2n1qNB/2pPpP2/3p2Q1/3P4/1PP3PP/R4RK1 b - - 0 22",
+    "Moves": "g7h6 g6e7 g8h8 g4g8",
+    "Rating": "841",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "495",
+    "Themes": "doubleCheck kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/RBSgeTKi/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RQHDu",
+    "FEN": "2k1r1r1/ppp2Q1p/3b4/3p4/8/2P1R1Pq/PR3P1P/6K1 b - - 0 22",
+    "Moves": "g8f8 e3e8 f8e8 f7e8",
+    "Rating": "950",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "469",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/ybocps5B/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RQK0E",
+    "FEN": "1k6/pp1q4/6B1/1P2P3/3P1Pp1/2rQ2Pr/5B1p/R4R1K w - - 3 32",
+    "Moves": "d3c3 d7d5 g6e4 d5e4 c3f3 e4f3",
+    "Rating": "990",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "1278",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/mnaeuC9O#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RQOoB",
+    "FEN": "1k1r4/bp6/pq1p4/3B4/3nP2Q/8/PP3PPP/5R1K b - - 0 27",
+    "Moves": "b6b2 h4d8",
+    "Rating": "595",
+    "RatingDeviation": "93",
+    "Popularity": "60",
+    "NbPlays": "143",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/qaCLqAhk/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RQQt7",
+    "FEN": "r4rk1/1ppq1p1p/2n1p1p1/3p2P1/p6Q/2P1PP2/PP1N2P1/1K3R1R b - - 3 18",
+    "Moves": "a4a3 h4h7",
+    "Rating": "762",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "166",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/9BeZ7XgA/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "RQSXG",
+    "FEN": "r3r1k1/ppp1nppp/3q4/2b3B1/2B3b1/5N2/PP2QPPP/R3R1K1 b - - 3 14",
+    "Moves": "e7g6 e2e8 a8e8 e1e8",
+    "Rating": "641",
+    "RatingDeviation": "97",
+    "Popularity": "90",
+    "NbPlays": "1087",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/cAiiXGnr/black#28",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "RQUac",
+    "FEN": "r2k1R1r/ppp1n2p/1bnp2qB/8/3P4/N1P5/PP1Q2PP/5RK1 b - - 4 16",
+    "Moves": "h8f8 f1f8 d8d7 f8a8",
+    "Rating": "925",
+    "RatingDeviation": "78",
+    "Popularity": "99",
+    "NbPlays": "951",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/oX68M3yy/black#32",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  },
+  {
+    "PuzzleId": "RQUbX",
+    "FEN": "rn3rk1/pp3ppp/2p5/5QN1/8/P7/1q2BPPP/3R1RK1 b - - 0 19",
+    "Moves": "b2e2 f5h7",
+    "Rating": "921",
+    "RatingDeviation": "111",
+    "Popularity": "100",
+    "NbPlays": "29",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/n27Xq8Or/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RQUcq",
+    "FEN": "r3kb1r/pp2pppp/3p1n2/1NpP4/4P3/5P2/PPP2P1P/R1B1K1R1 b Qkq - 0 11",
+    "Moves": "a7a6 b5c7 e8d7 c7a8",
+    "Rating": "823",
+    "RatingDeviation": "88",
+    "Popularity": "94",
+    "NbPlays": "619",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/EBn5ln7n/black#22",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Open"
+  }
+]

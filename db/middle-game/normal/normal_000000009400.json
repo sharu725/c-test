@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "RQONR",
+    "FEN": "r1q1nr1k/2pb1Nbp/p2p2p1/np2p3/3PPp2/NQP3PP/PP3PBK/R1B1R3 b - - 5 19",
+    "Moves": "h8g8 f7h6 g8h8 b3g8 f8g8 h6f7",
+    "Rating": "1390",
+    "RatingDeviation": "89",
+    "Popularity": "83",
+    "NbPlays": "886",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice smotheredMate",
+    "GameUrl": "https://lichess.org/U88PEKsT/black#38",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Pirc_Invitation"
+  },
+  {
+    "PuzzleId": "RQPxF",
+    "FEN": "2b2r1k/1pp3pp/1bn1N3/p5q1/5p2/PP1P1P2/1BQ2PBP/4R1K1 b - - 1 24",
+    "Moves": "g5e7 b2g7 h8g8 g7f8",
+    "Rating": "1364",
+    "RatingDeviation": "85",
+    "Popularity": "63",
+    "NbPlays": "77",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/ZVHtyGAQ/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RQRLE",
+    "FEN": "r2q2k1/5rpp/p2p1b2/5b2/4N1n1/5N2/PP4PP/R1BQR2K w - - 9 22",
+    "Moves": "d1d5 f5e4 e1e4 g4f2 h1g1 f2e4",
+    "Rating": "1383",
+    "RatingDeviation": "74",
+    "Popularity": "84",
+    "NbPlays": "315",
+    "Themes": "attraction crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/YgjCBZSI#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RQSUL",
+    "FEN": "4brk1/4q2p/2p1p2P/p1P1Q1p1/Nr1P1pP1/1P2nP2/1KB5/3R3R w - - 3 30",
+    "Moves": "d1e1 e3c4 b2c1 c4e5",
+    "Rating": "1214",
+    "RatingDeviation": "75",
+    "Popularity": "76",
+    "NbPlays": "260",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/7kItocXZ#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RQU86",
+    "FEN": "r2q2rk/ppp3pp/3pbn2/4p3/4P3/P1NBPQ1P/1PP3P1/R4RK1 b - - 2 16",
+    "Moves": "g7g5 f3f6 d8f6 f1f6",
+    "Rating": "1382",
+    "RatingDeviation": "148",
+    "Popularity": "63",
+    "NbPlays": "10",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/HsyvSrWL/black#32",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "RQUiM",
+    "FEN": "5rk1/1p2R1pp/3p4/p1bP1p2/bqP4P/3B4/KP4P1/3Q1R2 w - - 0 30",
+    "Moves": "d1c1 b4b3 a2a1 b3d3",
+    "Rating": "1345",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1566",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/CWR4AfuY#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RQXYK",
+    "FEN": "5rk1/p5p1/2p3b1/3p4/3B4/2N2Q1P/P1q5/6RK w - - 2 29",
+    "Moves": "f3g3 g6e4 c3e4 c2e4 g3g2 e4d4",
+    "Rating": "1267",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "456",
+    "Themes": "crushing exposedKing fork long master middlegame",
+    "GameUrl": "https://lichess.org/F5JGKARa#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RQY9i",
+    "FEN": "r2q1rk1/1b2bpp1/p2ppn2/1pp3p1/4P2P/1BPP1Q2/PP2NP2/R1B1K2R b KQ - 0 15",
+    "Moves": "f6h7 h4g5 h7g5 f3h5",
+    "Rating": "1306",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "555",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/4B5LqERz/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "RQaYa",
+    "FEN": "r2q1rk1/ppp1n1pp/3p4/3P1bN1/8/8/PPQ2PPP/R1B2RK1 w - - 5 15",
+    "Moves": "g5e6 f5c2",
+    "Rating": "1296",
+    "RatingDeviation": "83",
+    "Popularity": "60",
+    "NbPlays": "78",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/Wm45sQdR#29",
+    "OpeningTags": "Scotch_Game Scotch_Game_Haxo_Gambit"
+  }
+]

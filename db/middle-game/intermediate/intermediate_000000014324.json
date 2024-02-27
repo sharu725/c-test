@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "YPmi2",
+    "FEN": "3r1rk1/6pp/4b3/p3q3/Q7/P2p2P1/5PBP/1R2R1K1 b - - 1 23",
+    "Moves": "e5d4 a4d4 d8d4 e1e6 d3d2 b1d1",
+    "Rating": "1503",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "1409",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/1o7yoDaT/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YPmy0",
+    "FEN": "2kr3r/pppqn3/2n1bp2/3p4/3P3p/2PBR3/PPQN1PPN/R5K1 b - - 3 17",
+    "Moves": "e7f5 e3e6 f5d4 c3d4",
+    "Rating": "1578",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "277",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/V0HCRIZA/black#34",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "YPn9o",
+    "FEN": "r2qn1k1/1p3pp1/p1p4p/2Pp1b2/8/5BB1/PPPQ1PPP/4R1K1 b - - 0 21",
+    "Moves": "e8c7 d2f4 c7e6 f4f5",
+    "Rating": "1589",
+    "RatingDeviation": "79",
+    "Popularity": "87",
+    "NbPlays": "51",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/G7PfJ4yc/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YPoL5",
+    "FEN": "r1b1k2r/2p2pp1/p2p1q1p/1p2n3/3QP3/1B6/PPP2PPP/RN3RK1 w kq - 0 12",
+    "Moves": "f2f4 e5f3 g2f3 f6d4",
+    "Rating": "1515",
+    "RatingDeviation": "201",
+    "Popularity": "-75",
+    "NbPlays": "4",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/9foYooIk#23",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "YPol0",
+    "FEN": "1k1r2r1/1p2qp2/p2p1n2/2nPpQpp/2P5/6BP/PP2BPP1/1K1R3R b - - 8 21",
+    "Moves": "e7d7 f5f6 g8g6 f6f3",
+    "Rating": "1494",
+    "RatingDeviation": "94",
+    "Popularity": "70",
+    "NbPlays": "25",
+    "Themes": "crushing hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/iPxsCDyn/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YPpBe",
+    "FEN": "r6k/6pp/p1P3r1/4Q3/1p6/7q/PP6/2R2RBK w - - 0 31",
+    "Moves": "g1h2 h3g2",
+    "Rating": "1467",
+    "RatingDeviation": "105",
+    "Popularity": "86",
+    "NbPlays": "221",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/lBCJrsGL#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YPqWm",
+    "FEN": "rn2k1nr/pp3ppp/2p5/4P3/5qP1/3RbB1P/PPP5/R1BQ1K2 b kq - 7 17",
+    "Moves": "e3c1 d3d8 e8e7 d1d6",
+    "Rating": "1540",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "108",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/DRJI89F0/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "YPsjw",
+    "FEN": "rn3rk1/pp2bppp/4bn2/3pN1B1/3q4/2NB4/PPQ2PPP/R3K2R w KQ - 0 12",
+    "Moves": "d3h7 f6h7",
+    "Rating": "1511",
+    "RatingDeviation": "124",
+    "Popularity": "-22",
+    "NbPlays": "12",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/dfPNS1uB#23",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "YPtmx",
+    "FEN": "r4rk1/p4ppp/q1p1p3/1bPpP1N1/7Q/8/PP3PPP/R3K2R b KQ - 4 17",
+    "Moves": "a6a5 b2b4 h7h6 b4a5",
+    "Rating": "1513",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "9365",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/EYVNDj5A/black#34",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  }
+]

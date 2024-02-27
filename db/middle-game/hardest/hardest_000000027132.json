@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "u6vVI",
+    "FEN": "2kr1b1r/Rp1b4/8/1P1n1ppp/2PPp3/6P1/1P1NBPP1/4K2R b K - 0 21",
+    "Moves": "d5b4 a7a8 c8c7 b5b6 c7b6 a8d8",
+    "Rating": "2133",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "6569",
+    "Themes": "advantage deflection long middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/0vJYxPWn/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "u6woj",
+    "FEN": "r3k2r/7p/p2bp2q/1p3p2/1P1Q4/P4BP1/5P1P/5RK1 b kq - 0 27",
+    "Moves": "e8c8 d4a7 d8d7 a7a6 c8d8 a6a8 d8e7 a8h8",
+    "Rating": "2317",
+    "RatingDeviation": "85",
+    "Popularity": "86",
+    "NbPlays": "357",
+    "Themes": "advantage exposedKing middlegame queensideAttack skewer veryLong",
+    "GameUrl": "https://lichess.org/ePtkNKfM/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "u6xye",
+    "FEN": "r5r1/p3kpQ1/b1n1p2p/2p5/1pq2P2/2P1B3/PPB3PP/R2R2K1 w - - 5 24",
+    "Moves": "g7h6 g8g2 g1g2 c4e2 g2h3 e2e3",
+    "Rating": "2130",
+    "RatingDeviation": "209",
+    "Popularity": "-100",
+    "NbPlays": "10",
+    "Themes": "attraction crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/trpcIa8T#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "u6z9Q",
+    "FEN": "r4rk1/p1q1bpp1/8/4P3/1p1NQ3/2P4P/PP3P2/2K3RR w - - 0 21",
+    "Moves": "d4e6 f7e6 g1g7 g8g7 h1g1 g7h8",
+    "Rating": "2005",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "1729",
+    "Themes": "crushing defensiveMove hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/dErwihy7#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "u6zx1",
+    "FEN": "2r1k2r/N2n1ppp/b2bp3/1q6/3BBn2/1P3N2/P4P1P/2RQR1K1 b k - 11 21",
+    "Moves": "c8c1 a7b5 c1d1 b5d6 e8e7 e1d1",
+    "Rating": "2140",
+    "RatingDeviation": "74",
+    "Popularity": "81",
+    "NbPlays": "188",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/KSIt6Xpq/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "u70ox",
+    "FEN": "r4rk1/ppq1np2/4p1pQ/3p3b/3P4/P1P3P1/1PB2P2/R5KR b - - 5 20",
+    "Moves": "e7f5 c2f5 e6f5 h1h5 g6h5 h6g5 g8h7 g5h5 h7g8 h5g5",
+    "Rating": "2168",
+    "RatingDeviation": "79",
+    "Popularity": "82",
+    "NbPlays": "59",
+    "Themes": "crushing kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/g13S4hsv/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "u71Dh",
+    "FEN": "r1bq1b1r/pp4pp/8/1Nk1p3/1PB5/5Q2/P2P1PPP/n1BK3R b - - 0 13",
+    "Moves": "c5c4 b5a3 c4b4 f3c3 b4a4 c3c4 f8b4 c4b5",
+    "Rating": "2066",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "2645",
+    "Themes": "fork mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/7Rfp2OtO/black#26",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "u73PN",
+    "FEN": "2r3k1/p1r2pp1/1pNqpn1p/8/Q2P4/8/PPR2PPP/2R3K1 w - - 0 23",
+    "Moves": "c6a7 d6f4 h2h3 f4c1 c2c1 c7c1",
+    "Rating": "2037",
+    "RatingDeviation": "173",
+    "Popularity": "-32",
+    "NbPlays": "9",
+    "Themes": "advantage long middlegame xRayAttack",
+    "GameUrl": "https://lichess.org/KGvmGp8l#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "u74gp",
+    "FEN": "4r1k1/p1p2pp1/2N4p/1PB5/2b2Qn1/6P1/1P3P1P/2R1q1K1 w - - 4 30",
+    "Moves": "c1e1 e8e1 g1g2 c4f1 g2f3 g4h2",
+    "Rating": "2080",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "6352",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/xRh2MSe4#59",
+    "OpeningTags": ""
+  }
+]

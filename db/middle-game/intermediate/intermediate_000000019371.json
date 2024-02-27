@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "keiK3",
+    "FEN": "2r2bk1/5p1p/Q3b1p1/4p3/1p2P2P/3BBP2/1qP1K1P1/3R3R w - - 0 22",
+    "Moves": "d1b1 c8c2 d3c2 b2c2 e3d2 e6c4 a6c4 c2c4",
+    "Rating": "1401",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "613",
+    "Themes": "advantage fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/AhkWqNNY#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "keiX1",
+    "FEN": "r2q1r1k/ppp1b2p/7Q/2PPp3/4N3/8/P3KP1P/6R1 b - - 0 21",
+    "Moves": "d8d5 h6g7",
+    "Rating": "1464",
+    "RatingDeviation": "452",
+    "Popularity": "33",
+    "NbPlays": "3",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gZh4URzp/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "keiYU",
+    "FEN": "r7/5kp1/pp1qppNp/3p1P2/2rPn1P1/3Q3P/PPP1R1K1/3R4 w - - 1 28",
+    "Moves": "b2b3 c4c3 d3c3 e4c3",
+    "Rating": "1406",
+    "RatingDeviation": "109",
+    "Popularity": "90",
+    "NbPlays": "29",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/EbZNVrNg#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kejqF",
+    "FEN": "rn3rk1/1pp2pp1/p7/2b1p1Bb/2B1P1q1/3P4/PPPQ2PP/RN3R1K w - - 5 15",
+    "Moves": "f1f3 g4f3 g2f3 h5f3 d2g2 f3g2",
+    "Rating": "1436",
+    "RatingDeviation": "106",
+    "Popularity": "71",
+    "NbPlays": "22",
+    "Themes": "advantage kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/4NJdj6as#29",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Alapin_Opening"
+  },
+  {
+    "PuzzleId": "kek81",
+    "FEN": "2r3k1/1p3pp1/p2p2np/3PpQb1/Nq2P3/1P1B3P/P4PP1/5RK1 b - - 1 22",
+    "Moves": "c8c1 f1c1 g5c1 f5c8 g8h7 c8c1",
+    "Rating": "1469",
+    "RatingDeviation": "124",
+    "Popularity": "48",
+    "NbPlays": "13",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/mlIymYl2/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kemT1",
+    "FEN": "rnb3k1/pp4qp/5rp1/2pN1n2/2B1Q3/4P3/PPP2PPP/2K4R b - - 1 19",
+    "Moves": "b8c6 d5f6 g8h8 e4e8 g7f8 e8f8",
+    "Rating": "1488",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "13014",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/DBV2Ht08/black#38",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Soller_Gambit"
+  },
+  {
+    "PuzzleId": "kemv5",
+    "FEN": "r2r2k1/5ppb/n4p1p/p1P5/Pp3q2/1BP2P2/1P2Q1PP/3RR1K1 b - - 0 22",
+    "Moves": "a6c5 d1d8 a8d8 e2e8 d8e8 e1e8",
+    "Rating": "1457",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "824",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/fMUJVYxP/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kemvt",
+    "FEN": "2kq2r1/p6n/2p1p3/7p/2NbnP2/1P2B3/P3B2R/R2Q3K w - - 4 29",
+    "Moves": "h2h5 e4g3 h1h2 g3h5",
+    "Rating": "1576",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1051",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/5dkz669K#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "keoDE",
+    "FEN": "2r2rk1/pbq3p1/1p1b3p/3p1p2/3Bn2N/2PB3P/PPQ1RPP1/4R1K1 w - - 4 20",
+    "Moves": "f2f3 d6h2 g1h1 e4g3 h1h2 g3e2",
+    "Rating": "1564",
+    "RatingDeviation": "78",
+    "Popularity": "97",
+    "NbPlays": "15685",
+    "Themes": "crushing discoveredAttack fork long middlegame",
+    "GameUrl": "https://lichess.org/keEQTgmT#39",
+    "OpeningTags": ""
+  }
+]

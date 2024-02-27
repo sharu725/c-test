@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "rdFPE",
+    "FEN": "r3k2r/pp3ppp/2pqp3/3b3P/1b1P2n1/2NB1P2/PPP3K1/R1BQ1R2 w kq - 0 16",
+    "Moves": "c3d5 d6h2",
+    "Rating": "1255",
+    "RatingDeviation": "76",
+    "Popularity": "81",
+    "NbPlays": "385",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/cLvn6Vjq#31",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "rdFk4",
+    "FEN": "1Q6/b5pk/7p/5q2/1B6/8/r5PP/5R1K w - - 8 33",
+    "Moves": "f1f5 a2a1 b4e1 a1e1 f5f1 e1f1",
+    "Rating": "1364",
+    "RatingDeviation": "214",
+    "Popularity": "0",
+    "NbPlays": "4",
+    "Themes": "backRankMate endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/TJawPL4C#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rdFlY",
+    "FEN": "r4r2/pp2N1b1/2pp3k/2n1pp1p/7N/1P2P3/PBPP3R/2K5 b - - 1 22",
+    "Moves": "g7f6 h4f5 h6g5 h2g2",
+    "Rating": "1329",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "579",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/hqHrfzRQ/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rdHm2",
+    "FEN": "1r4k1/4pp1p/1qnp2p1/2p5/4P1N1/3PP2P/b3B1P1/Q4RK1 b - - 2 24",
+    "Moves": "a2e6 g4h6 g8f8 a1h8",
+    "Rating": "1301",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "474",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/TMGVg58H/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rdIe5",
+    "FEN": "3k4/1p4p1/p3Q3/2q4b/5p1P/P1P3r1/1P3P1K/4R3 w - - 0 37",
+    "Moves": "f2g3 c5f2 h2h3 f2g3",
+    "Rating": "1279",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2763",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/g0auurat#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rdN7J",
+    "FEN": "k7/pr3ppp/3p4/R7/2P1PP2/3K2P1/1r5P/7R w - - 5 29",
+    "Moves": "g3g4 b7b3 d3d4 b2d2",
+    "Rating": "1265",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "2387",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/eh1lC8g2#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rdNt3",
+    "FEN": "r2qkb1r/ppp1pppp/5n2/4N3/2B3b1/2N5/PPPP2PP/R1BQK2R b KQkq - 0 8",
+    "Moves": "g4d1 c4f7",
+    "Rating": "1394",
+    "RatingDeviation": "76",
+    "Popularity": "79",
+    "NbPlays": "365",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/bp8FIfvr/black#16",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rdW1F",
+    "FEN": "1r3n2/4b1k1/p7/3B1bP1/2q5/1Pp1P1Q1/P4P2/2KR3R w - - 0 27",
+    "Moves": "d5c4 e7a3",
+    "Rating": "1378",
+    "RatingDeviation": "205",
+    "Popularity": "78",
+    "NbPlays": "35",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/m02OYIdT#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rdadf",
+    "FEN": "r5r1/1ppqkp2/pbn2N2/4P2p/1P1P4/PQ2BN2/5PbP/2R2RK1 w - - 2 20",
+    "Moves": "f6d7 g2f3 e3g5 g8g5",
+    "Rating": "1351",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "1382",
+    "Themes": "discoveredAttack hangingPiece kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/12tqbWhe#39",
+    "OpeningTags": ""
+  }
+]

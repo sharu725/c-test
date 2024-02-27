@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DfpD0",
+    "FEN": "r4rk1/1p4bp/1Rn3pN/p1P1p3/4B1n1/PQ4P1/3qPP1P/5RK1 b - - 5 26",
+    "Moves": "g8h8 b3g8 f8g8 h6f7",
+    "Rating": "1358",
+    "RatingDeviation": "94",
+    "Popularity": "84",
+    "NbPlays": "208",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short smotheredMate",
+    "GameUrl": "https://lichess.org/3rX9txyQ/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DfpET",
+    "FEN": "2r3k1/p2q2pp/2r1bp2/Pp1p4/nP1P1B2/1Q5P/4BPP1/R1R3K1 w - - 3 26",
+    "Moves": "e2b5 c6c1 f4c1 d7b5",
+    "Rating": "1317",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1009",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/3D3j1wVp#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DfpFO",
+    "FEN": "5rk1/pp1q2p1/3p1n1p/6r1/1PPpP3/PQ1B3P/5PP1/R3R1K1 w - - 4 23",
+    "Moves": "g1h1 f6g4",
+    "Rating": "1272",
+    "RatingDeviation": "308",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/1CUs19FA#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Dfpje",
+    "FEN": "r3k1nr/pppb1ppp/3P2q1/4p3/2B1P3/4PQ2/PP1N2P1/R4RK1 b kq - 0 16",
+    "Moves": "c7d6 c4f7 e8e7 f7g6",
+    "Rating": "1208",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1084",
+    "Themes": "attackingF2F7 crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/n4gZqV4T/black#32",
+    "OpeningTags": "Scotch_Game Scotch_Game_Haxo_Gambit"
+  },
+  {
+    "PuzzleId": "DfsNp",
+    "FEN": "5r2/1p3Nnk/p6N/n2B4/3b4/2r4P/P6P/1R3K2 b - - 0 30",
+    "Moves": "c3h3 d5e4 g7f5 e4f5 h7g7 f5h3",
+    "Rating": "1270",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "5491",
+    "Themes": "advantage exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/5oqZfzJ4/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DfsQJ",
+    "FEN": "r2q1r2/1p3pk1/pnnpb3/4p2Q/P3P3/1NN2R2/1PP1B1P1/R5K1 b - - 3 27",
+    "Moves": "f8h8 f3g3 g7f8 h5h8",
+    "Rating": "1271",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "1069",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/osw0v6n5/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Dfv2c",
+    "FEN": "r1bq1rk1/pp3pbp/2p1p1pB/3nP3/2BP4/8/PPPQ2PP/RN2K2R w KQ - 0 12",
+    "Moves": "b1c3 d8h4 g2g3 h4h6 d2h6 g7h6",
+    "Rating": "1398",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "4812",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/NIpgP3Yt#23",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Dfxo2",
+    "FEN": "2kr2nr/1pp1npp1/p1b1p2p/3q4/3P4/P1BB1N2/1PP1QPPP/R3R1K1 w - - 3 13",
+    "Moves": "f3e5 d5g2",
+    "Rating": "1233",
+    "RatingDeviation": "119",
+    "Popularity": "25",
+    "NbPlays": "39",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/h1M2jKYn#25",
+    "OpeningTags": "St_George_Defense St_George_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Dfzs3",
+    "FEN": "rnbq1rk1/p1b2ppp/2p1p3/2PpP3/3P3n/P1NB1N2/3B1PPP/R2QK2R w KQ - 1 13",
+    "Moves": "d2g5 h4f3 d1f3 d8g5",
+    "Rating": "1221",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "533",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/aOQ9Pz31#25",
+    "OpeningTags": "French_Defense French_Defense_Normal_Variation"
+  }
+]

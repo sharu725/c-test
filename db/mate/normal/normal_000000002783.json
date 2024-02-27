@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EcvBD",
+    "FEN": "2qr4/p7/6k1/2np1p1p/3Q1PpP/3RP1P1/PB4K1/8 b - - 5 34",
+    "Moves": "c5e4 d4g7",
+    "Rating": "1260",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "926",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/36fN5Ews/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EcwiV",
+    "FEN": "r4rk1/2bn1ppp/bp1qp3/3pN3/3P4/P1N1P3/1B3PPP/R2QR1K1 w - - 6 17",
+    "Moves": "e5d7 d6h2",
+    "Rating": "1212",
+    "RatingDeviation": "80",
+    "Popularity": "79",
+    "NbPlays": "59",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4ZJngnuN#33",
+    "OpeningTags": "Polish_Opening Polish_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "EczKW",
+    "FEN": "r4rk1/pp3p2/2nqN2p/2pp4/8/P2P2nP/BPP2PP1/RN1Q1RK1 b - - 0 15",
+    "Moves": "g3f1 d1g4 g8h8 g4g7",
+    "Rating": "1213",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "657",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ZbYU7LDz/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "Ed0vi",
+    "FEN": "3kr3/ppp5/3bQ3/1PP2p1p/P7/8/3R1PPP/q5NK w - - 3 31",
+    "Moves": "e6f5 a1g1 h1g1 e8e1",
+    "Rating": "1358",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "18398",
+    "Themes": "attraction endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/xDYQtLYx#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ed1Wn",
+    "FEN": "r4rk1/1P4pp/P1Qp4/3P4/2B5/N4p1b/P2q1p1P/5R1K w - - 0 30",
+    "Moves": "b7a8q h3g2",
+    "Rating": "1314",
+    "RatingDeviation": "81",
+    "Popularity": "77",
+    "NbPlays": "121",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/cdoq8N5Y#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ed1xS",
+    "FEN": "kr6/5pp1/4p3/p2pP3/p1bB1P2/P1P2RP1/Pr5P/K1R5 w - - 0 41",
+    "Moves": "h2h4 b2a2",
+    "Rating": "1239",
+    "RatingDeviation": "99",
+    "Popularity": "39",
+    "NbPlays": "66",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/QCSSoJpi#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EdGEQ",
+    "FEN": "r1b1k3/5p2/3Pp1n1/1q4N1/pn1QP3/8/1PP1BP2/1K1R4 b q - 2 23",
+    "Moves": "b5e2 d6d7 c8d7 d4d7 e8f8 d7f7",
+    "Rating": "1374",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "5886",
+    "Themes": "advancedPawn fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/cb18Mpv6/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EdGFt",
+    "FEN": "r2q1rk1/p1p3pp/1p1bQ2N/1n3p2/5B2/8/PP2RPPP/R5K1 b - - 4 19",
+    "Moves": "g8h8 e6g8 f8g8 h6f7",
+    "Rating": "1380",
+    "RatingDeviation": "89",
+    "Popularity": "82",
+    "NbPlays": "1654",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short smotheredMate",
+    "GameUrl": "https://lichess.org/RXhE9lAp/black#38",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Vienna_Variation"
+  },
+  {
+    "PuzzleId": "EdGKs",
+    "FEN": "r1b1r1k1/p5pp/1ppB4/2n5/8/8/PPP2PPP/RN3K1R w - - 0 17",
+    "Moves": "d6c5 c8a6 c2c4 a6c4 f1g1 e8e1",
+    "Rating": "1215",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1031",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/9EKicDf6#33",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Schliemann_Defense"
+  }
+]

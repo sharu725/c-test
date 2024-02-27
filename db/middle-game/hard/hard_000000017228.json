@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ikEbx",
+    "FEN": "rn1qk2r/pbpp1p2/1p5p/3n2p1/1b1Q4/2N2NB1/PP2PPPP/R3KB1R b KQkq - 1 10",
+    "Moves": "d8f6 g3e5 f6e6 e5h8",
+    "Rating": "1722",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "1112",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/eIJtuGiB/black#20",
+    "OpeningTags": "English_Defense English_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "ikF7u",
+    "FEN": "r1bq1r1k/ppp2p2/2n4p/4p1p1/2B1P3/1QP4P/PP1N1PP1/R3K2R w KQ - 2 15",
+    "Moves": "c4f7 d8f6 f7d5 f6f2",
+    "Rating": "1689",
+    "RatingDeviation": "77",
+    "Popularity": "77",
+    "NbPlays": "70",
+    "Themes": "advantage attackingF2F7 middlegame short",
+    "GameUrl": "https://lichess.org/SzlZI9w8#29",
+    "OpeningTags": "Torre_Attack Torre_Attack_Fianchetto_Defense"
+  },
+  {
+    "PuzzleId": "ikHSH",
+    "FEN": "2kr3b/2pq4/p2p4/1p4p1/P2PPpb1/1BPQ1Nn1/1P4P1/R1B1K3 b Q - 4 20",
+    "Moves": "g3e4 d3e4 d8e8 f3e5",
+    "Rating": "1606",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/FsRShZUr/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ikHqN",
+    "FEN": "rb3rk1/1q3pp1/pp2pn1p/3pN3/3P1B2/2P2P1Q/PP4PP/3R1RK1 w - - 1 20",
+    "Moves": "h3g3 f6h5 g3g4 h5f4 g4f4 f7f6 f4g4 f6e5",
+    "Rating": "1785",
+    "RatingDeviation": "73",
+    "Popularity": "97",
+    "NbPlays": "2986",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/axGgbQUf#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ikHxL",
+    "FEN": "r3b3/pp2Prpk/7p/3NR2P/8/6Q1/P4PPK/1q6 b - - 4 32",
+    "Moves": "f7f5 d5c7 a8c8 c7e8 f5h5 e5h5",
+    "Rating": "1604",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality long middlegame",
+    "GameUrl": "https://lichess.org/naopMVRt/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ikIo0",
+    "FEN": "4r1k1/p4ppp/8/5n2/8/2Q2N2/1P3PPP/R1Bq1K1R w - - 1 19",
+    "Moves": "f3e1 d1e2 f1g1 e2e1 c3e1 e8e1",
+    "Rating": "1624",
+    "RatingDeviation": "85",
+    "Popularity": "64",
+    "NbPlays": "245",
+    "Themes": "backRankMate deflection long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/Voi37LWH#37",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation"
+  },
+  {
+    "PuzzleId": "ikKDH",
+    "FEN": "rn3rk1/1bq1bppp/p3p3/1pp1p1B1/6Q1/P1NP3P/BPP2PP1/R3R1K1 b - - 5 14",
+    "Moves": "f7f5 a2e6 g8h8 e6f5 e7g5 g4g5",
+    "Rating": "1626",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "297",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/qV7hCNha/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "ikKYE",
+    "FEN": "5rk1/6r1/p1b4Q/1p1pB3/2q5/2P5/P4PPP/4R1K1 b - - 0 32",
+    "Moves": "c4g4 e5g7 g4g7 h6c6",
+    "Rating": "1648",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1488",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/xUd6q7Wk/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ikKj2",
+    "FEN": "1k2r3/2p2q2/1p2N2p/pP4p1/P3Q3/2Pp2nP/3B4/4R1K1 w - - 0 30",
+    "Moves": "e4e5 g3e2 e1e2 d3e2",
+    "Rating": "1706",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "1488",
+    "Themes": "advancedPawn crushing middlegame short",
+    "GameUrl": "https://lichess.org/k9Z4SqxP#59",
+    "OpeningTags": ""
+  }
+]

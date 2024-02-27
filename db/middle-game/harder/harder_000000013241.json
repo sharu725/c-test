@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "e4u5x",
+    "FEN": "2kr3r/pppq1ppp/2nb1nb1/3p2P1/8/1P2PB1P/PBPPN1K1/RN1Q1R2 b - - 0 13",
+    "Moves": "f6h5 f3g4 f7f5 g5f6",
+    "Rating": "1924",
+    "RatingDeviation": "74",
+    "Popularity": "85",
+    "NbPlays": "229",
+    "Themes": "advantage enPassant middlegame pin short",
+    "GameUrl": "https://lichess.org/Y7YW2rnO/black#26",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation"
+  },
+  {
+    "PuzzleId": "e4vUi",
+    "FEN": "rn3r1k/2p3n1/p2pQ3/1p2P3/7q/2NB4/PPP2bPP/3R1R1K w - - 0 19",
+    "Moves": "f1f2 g7e6 f2f8 e6f8",
+    "Rating": "1830",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "84",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/JqL436AU#37",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "e4wNV",
+    "FEN": "2kr4/ppp5/7Q/2q5/5p2/2Pnr3/PP3PPP/3R1RK1 b - - 1 23",
+    "Moves": "d3b2 d1d8 c8d8 f2e3",
+    "Rating": "1862",
+    "RatingDeviation": "174",
+    "Popularity": "-93",
+    "NbPlays": "8",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/xi3m65Kp/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "e4zGK",
+    "FEN": "4nbk1/5p2/1pn1NP2/2p1P2P/P1P3P1/P5r1/1B5K/5R2 b - - 2 31",
+    "Moves": "g3g4 h2h3 g4e4 f1g1",
+    "Rating": "1884",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "229",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/UvYSEk1x/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "e50EI",
+    "FEN": "r1bq1rk1/2p3bp/p1n2pp1/1p1p1n2/3P1B2/1B3N2/PPP2PPP/RN1QR1K1 b - - 1 13",
+    "Moves": "c6a5 f4c7 d8c7 b3d5 g8h8 d5a8",
+    "Rating": "1929",
+    "RatingDeviation": "80",
+    "Popularity": "72",
+    "NbPlays": "66",
+    "Themes": "advantage deflection fork long middlegame",
+    "GameUrl": "https://lichess.org/AmULJmlV/black#26",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Declined_Variation"
+  },
+  {
+    "PuzzleId": "e511m",
+    "FEN": "3rn1k1/1bq4p/4pppQ/ppp5/1n2PPPP/1P3B1N/P2R1K2/7R w - - 2 26",
+    "Moves": "h1d1 d8d2 d1d2 c5c4 b3c4 b5c4",
+    "Rating": "1826",
+    "RatingDeviation": "271",
+    "Popularity": "69",
+    "NbPlays": "2",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/cUPFTBEX#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "e51EJ",
+    "FEN": "rn1qkbnr/1pp3p1/p2p1p2/4P2p/2B1P1bN/2P1BQ2/PP3PPP/RN1R2K1 w kq - 1 13",
+    "Moves": "f3f4 g7g5 f4g4 h5g4",
+    "Rating": "1919",
+    "RatingDeviation": "82",
+    "Popularity": "77",
+    "NbPlays": "63",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/VYT0sO31#25",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Nurnberg_Variation"
+  },
+  {
+    "PuzzleId": "e56fC",
+    "FEN": "5rk1/p4bpp/1p3p2/2p1n1q1/3pP1P1/1P1P1B1Q/P3PK1P/R2R4 w - - 0 28",
+    "Moves": "f2g2 h7h5 g2h1 h5g4",
+    "Rating": "1976",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "3246",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/98Wpmpgk#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "e58Tp",
+    "FEN": "2r1r1k1/pb3pbR/1p1q2p1/3pp1N1/8/2P4Q/PP3PPP/4R1K1 b - - 3 25",
+    "Moves": "d5d4 h7h8 g7h8 h3h7 g8f8 h7f7",
+    "Rating": "1981",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "573",
+    "Themes": "clearance kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/3eeXjNn2/black#50",
+    "OpeningTags": ""
+  }
+]

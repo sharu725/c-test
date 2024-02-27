@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "qfgvt",
+    "FEN": "r2br1k1/pp3ppp/2p5/2Pp4/1P1QqP2/2B1P2P/P5P1/4RRK1 b - - 1 19",
+    "Moves": "d8h4 d4g7",
+    "Rating": "1037",
+    "RatingDeviation": "84",
+    "Popularity": "89",
+    "NbPlays": "54",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/NtAImesq/black#38",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "qfhBg",
+    "FEN": "r5k1/1q3pp1/1pnbpn1p/3p1b2/3PP3/1Q3PPP/1B1NN1B1/5RK1 b - - 0 22",
+    "Moves": "d5e4 f3e4",
+    "Rating": "1194",
+    "RatingDeviation": "77",
+    "Popularity": "38",
+    "NbPlays": "167",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/k60S1C1u/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qfhPK",
+    "FEN": "r1b1k1r1/pp1pBp1p/3P4/n1p4p/4N3/4PK2/P3NPQP/8 b q - 0 19",
+    "Moves": "g8g2 e4f6",
+    "Rating": "1059",
+    "RatingDeviation": "81",
+    "Popularity": "87",
+    "NbPlays": "329",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/XRRgnrXR/black#38",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "qfhdi",
+    "FEN": "1r3r1k/1p4p1/2p4q/B2pb3/3PbP2/PQ3PP1/7P/R3R1K1 w - - 0 28",
+    "Moves": "f3e4 e5d4 g1g2 d4a1",
+    "Rating": "1075",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1043",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/DBVONw4C#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qfiXY",
+    "FEN": "4r1k1/5ppp/p1pb4/1p1n4/3P4/N1P3P1/PP1BqPQP/R5K1 w - - 2 23",
+    "Moves": "a1e1 e2e1 d2e1 e8e1 g2f1 e1f1",
+    "Rating": "1082",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "146",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/rPuxkGfP#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qfiY2",
+    "FEN": "5r1r/6k1/1p1pqbp1/p1p5/P1P1PB2/3PQR1P/2P3P1/R5K1 w - - 1 37",
+    "Moves": "a1f1 f6d4 f4h6 h8h6 e3d4 c5d4",
+    "Rating": "1192",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "4205",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/spyrY8fK#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qfizV",
+    "FEN": "5rk1/p4Bpp/1p1p4/8/1P1p2b1/P1r3Pq/2PN1Q1P/R3R1K1 b - - 0 22",
+    "Moves": "f8f7 e1e8 f7f8 f2f8",
+    "Rating": "1054",
+    "RatingDeviation": "81",
+    "Popularity": "60",
+    "NbPlays": "100",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/fKdN5Ksi/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qflZl",
+    "FEN": "r3kb1r/2Qbqppp/p4n2/1p4B1/8/1pN5/PPP2PPP/R4RK1 b kq - 1 15",
+    "Moves": "d7e6 c7c6 e7d7 c6a8",
+    "Rating": "1084",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "629",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/h707ixW0/black#30",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "qfm3T",
+    "FEN": "2kr4/ppp1n1pN/3p4/8/6b1/1BN5/PPPK1r2/4R2R w - - 0 19",
+    "Moves": "e1e2 g4e2 b3e6 c8b8",
+    "Rating": "1136",
+    "RatingDeviation": "150",
+    "Popularity": "-33",
+    "NbPlays": "7",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/TsAXNSLa#37",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Philidor_Countergambit"
+  }
+]

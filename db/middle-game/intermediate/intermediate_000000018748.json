@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "j7Vuf",
+    "FEN": "r4rk1/1pp2pp1/p1np1q2/4p3/2B1P1p1/PP3NP1/1BPPQ3/2K4R b - - 0 19",
+    "Moves": "f6f3 e2h2 f3h1 h2h1",
+    "Rating": "1594",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "2555",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/Q1Q94Rt6/black#38",
+    "OpeningTags": "Kings_Pawn_Opening Kings_Pawn_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "j7Wl9",
+    "FEN": "3k4/1pp1q1p1/3p3p/PP1P1r2/2BQp3/2P1Bb2/7P/5RK1 w - - 0 29",
+    "Moves": "c4e2 f5g5 g1f2 g5g2 f2e1 g2e2",
+    "Rating": "1574",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1242",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/uwSP9GWo#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "j7XDG",
+    "FEN": "1b1q1r1k/5pp1/Q4n1p/3b4/1P2N3/P6P/1B3rP1/1R2R2K b - - 0 28",
+    "Moves": "f6e4 a6h6 h8g8 h6g7",
+    "Rating": "1470",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "12669",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/D369tWq1/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "j7Xf4",
+    "FEN": "r1b3Q1/pp2kr2/5q1p/3np3/2B5/8/PPP2PPP/3R1RK1 w - - 5 19",
+    "Moves": "c4d5 f7g7 g8g7 f6g7",
+    "Rating": "1571",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "2417",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/kSF7iKH8#37",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "j7XjX",
+    "FEN": "3rk2r/1pp2ppp/p1p2n2/4b3/4P3/2N2P2/PPP2P1P/R1B1K1R1 w Qk - 2 11",
+    "Moves": "g1g7 f6e4 f3e4 e5g7",
+    "Rating": "1506",
+    "RatingDeviation": "225",
+    "Popularity": "-100",
+    "NbPlays": "6",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/ImSTY5el#21",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "j7ZDW",
+    "FEN": "rn1r3k/ppp2pb1/4p1pp/8/2BP3q/1P3P2/P6N/R1BQ2RK b - - 2 20",
+    "Moves": "h6h5 c1g5 h4d4 g5d8 d4a1 d1a1 g7a1 g1a1",
+    "Rating": "1443",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "1429",
+    "Themes": "advantage fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/z0BR4eV9/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "j7aMQ",
+    "FEN": "rn1qr1k1/pp3p2/2p1pn2/4Q1B1/3P4/2P4P/P1P2PP1/R4RK1 b - - 2 16",
+    "Moves": "f6d7 e5g3 d8g5 g3g5",
+    "Rating": "1552",
+    "RatingDeviation": "135",
+    "Popularity": "87",
+    "NbPlays": "9",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/tFLNky2A/black#32",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+  },
+  {
+    "PuzzleId": "j7bht",
+    "FEN": "rn1q1rk1/pp3ppp/3b1n2/2ppN1B1/3P2P1/2NQ3P/PPP2P2/R4RK1 w - - 0 13",
+    "Moves": "c3d5 d6e5 d4e5 d8d5 d3d5 f6d5",
+    "Rating": "1499",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1200",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/b0OSxmYt#25",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "j7cmx",
+    "FEN": "r1b1k1nr/2pqppb1/p1n4p/1p1pP2Q/3P3B/P1NB1N2/1PP2PPP/R3K2R w KQkq - 1 11",
+    "Moves": "f3g5 h6g5",
+    "Rating": "1534",
+    "RatingDeviation": "80",
+    "Popularity": "84",
+    "NbPlays": "326",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/eOMpkOgh#21",
+    "OpeningTags": "Borg_Defense Borg_Defense_Borg_Gambit"
+  }
+]

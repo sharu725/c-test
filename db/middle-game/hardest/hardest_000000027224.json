@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "uJ0Zi",
+    "FEN": "r1b2rk1/1pp2Npp/p2b4/3Q4/5B2/8/PqP2PPP/4RRK1 b - - 0 15",
+    "Moves": "f8f7 e1e8 d6f8 e8f8 g8f8 d5d8",
+    "Rating": "2151",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "3358",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/Zd7ISMfS/black#30",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "uJ0zF",
+    "FEN": "r1b2k2/3nppbp/p5p1/4p3/NpB1P1P1/5P2/PPP4P/2KR3R w - - 1 21",
+    "Moves": "a4b6 g7h6 c1b1 d7b6",
+    "Rating": "2029",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1492",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/DFWPjI5c#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uJ1OT",
+    "FEN": "2k5/1ppr1p2/2n3pp/p1Q1P3/4R1qP/6P1/PP1NnP2/2R3K1 w - - 1 24",
+    "Moves": "g1f1 e2g3 f2g3 g4h3 f1e1 h3h1 d2f1 h1e4",
+    "Rating": "2211",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "157",
+    "Themes": "crushing deflection middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/hNll9xZZ#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uJ3A4",
+    "FEN": "r1b2r2/pp2qpkp/2p5/2n1p1p1/4PnP1/3B1N2/PPPQNP2/2K3RR b - - 3 16",
+    "Moves": "f7f6 e2f4 e5f4 e4e5 c5d3 d2d3",
+    "Rating": "2146",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "477",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/3kBZjDFa/black#32",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "uJ3nZ",
+    "FEN": "r4rk1/pp1q1ppp/1b6/2pP1b2/2B5/5Q2/PB3PPP/R4RK1 b - - 4 19",
+    "Moves": "b6c7 f3c3 f7f6 d5d6 g8h8 d6c7",
+    "Rating": "2011",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "413",
+    "Themes": "advancedPawn advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/UYsQC3Oq/black#38",
+    "OpeningTags": "Italian_Game Italian_Game_Evans_Gambit"
+  },
+  {
+    "PuzzleId": "uJ44p",
+    "FEN": "2r2r1k/1b1R2p1/p3pbQp/np2Np2/3P1B2/Pq5P/1P3PP1/1B1R2K1 w - - 12 23",
+    "Moves": "f4h6 b3d1 g1h2 f6e5 f2f4 d1d4 d7d4 e5d4",
+    "Rating": "2362",
+    "RatingDeviation": "87",
+    "Popularity": "83",
+    "NbPlays": "56",
+    "Themes": "advantage fork hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/tZahLSou#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uJ46R",
+    "FEN": "4r1k1/p3bppp/5n2/q7/3Q4/1P2PB2/PBr2PPP/R2R2K1 w - - 7 21",
+    "Moves": "d4e5 e7c5 e5f5 c2b2",
+    "Rating": "2076",
+    "RatingDeviation": "82",
+    "Popularity": "68",
+    "NbPlays": "53",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/HSYspcIn#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uJ5CC",
+    "FEN": "r5r1/pp3p1k/2pp1q1b/8/4PP1R/2N1Q3/PPP5/2K4R w - - 5 23",
+    "Moves": "f4f5 g8g1 c3d1 g1h1 h4h1 h7g7 h1h6 f6h6",
+    "Rating": "2064",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "243",
+    "Themes": "crushing middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/JObvd43d#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uJ5cl",
+    "FEN": "r4bk1/5p1p/p1p1rBp1/1p4P1/3P1Q1R/2P5/q4P1P/5RK1 b - - 0 30",
+    "Moves": "a2d5 h4h7 e6f6 f4h4 d5g5 h4g5",
+    "Rating": "2015",
+    "RatingDeviation": "106",
+    "Popularity": "43",
+    "NbPlays": "25",
+    "Themes": "advantage clearance long middlegame quietMove sacrifice",
+    "GameUrl": "https://lichess.org/rq3BZ4eE/black#60",
+    "OpeningTags": ""
+  }
+]

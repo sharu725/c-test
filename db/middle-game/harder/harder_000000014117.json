@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "gjuxV",
+    "FEN": "r5r1/p4pk1/2pp1n2/q3p2p/2P1P1bP/1B2Q1B1/P1P3P1/R4RK1 b - - 1 21",
+    "Moves": "a5b6 c4c5 b6c5 e3c5 d6c5 g3e5",
+    "Rating": "1930",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1590",
+    "Themes": "capturingDefender crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/FZKBf3Ht/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gjuxZ",
+    "FEN": "r1b2rk1/p1p2ppp/2p5/2bp4/4n3/3QB3/PqPNBPPP/R4RK1 b - - 1 13",
+    "Moves": "c8f5 e3c5 e4c5 d3f5",
+    "Rating": "1821",
+    "RatingDeviation": "186",
+    "Popularity": "47",
+    "NbPlays": "53",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/XiArqeLl/black#26",
+    "OpeningTags": "Scotch_Game Scotch_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "gjvhO",
+    "FEN": "5b2/1Q1bkp1p/2np4/4p3/N3p1q1/8/PPP2PKP/R3R3 w - - 1 25",
+    "Moves": "g2f1 g4h3 f1g1 c6d4 b7e4 d4f3 e4f3 h3f3",
+    "Rating": "1878",
+    "RatingDeviation": "154",
+    "Popularity": "-50",
+    "NbPlays": "8",
+    "Themes": "crushing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/pYQFfMCV#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gjxyC",
+    "FEN": "r4rk1/1p3p1p/p1q3bB/3p1Q2/P2P2N1/6R1/6PP/6K1 b - - 0 25",
+    "Moves": "c6c1 h6c1 g6f5 g4h6 g8h8 h6f5",
+    "Rating": "1909",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "7949",
+    "Themes": "advantage doubleCheck fork long master middlegame",
+    "GameUrl": "https://lichess.org/60Ul5957/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gjyIm",
+    "FEN": "4rrk1/ppp3pp/2n5/5P2/2PpB2q/PN3Q2/1P3P1P/R3K1R1 w Q - 1 19",
+    "Moves": "g1g4 c6e5 g4h4 e5f3 e1e2 f3h4",
+    "Rating": "1988",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "92",
+    "Themes": "advantage fork long middlegame pin",
+    "GameUrl": "https://lichess.org/DHhzUCMK#37",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Albin_Countergambit"
+  },
+  {
+    "PuzzleId": "gk0WH",
+    "FEN": "r2q1rk1/6pp/2pbPn2/2p3B1/p3p1P1/7P/PPPQ1PB1/R3K2R w KQ - 0 17",
+    "Moves": "g2e4 f6e4 g5d8 e4d2 e6e7 d2f3",
+    "Rating": "1999",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "241",
+    "Themes": "crushing hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/OtFDiNRa#33",
+    "OpeningTags": "Latvian_Gambit_Accepted Latvian_Gambit_Accepted_Other_variations"
+  },
+  {
+    "PuzzleId": "gk0xv",
+    "FEN": "4r1k1/ppp2ppp/2nq4/2b3B1/3pB3/P3rN1P/1PP2KP1/R2QR3 w - - 1 19",
+    "Moves": "e4c6 e3e1 c6e8 e1d1",
+    "Rating": "1975",
+    "RatingDeviation": "77",
+    "Popularity": "74",
+    "NbPlays": "330",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/rbHm9ocB#37",
+    "OpeningTags": "Italian_Game Italian_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "gk3KA",
+    "FEN": "2r2rk1/1p3pp1/p3q2p/3pPRb1/2pP2N1/NnP3PP/1PQ5/5RK1 b - - 0 25",
+    "Moves": "b3d2 f5g5 d2f1 g4f6 e6f6 e5f6",
+    "Rating": "1943",
+    "RatingDeviation": "77",
+    "Popularity": "73",
+    "NbPlays": "73",
+    "Themes": "advantage kingsideAttack long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/nisvLBWs/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gk3gb",
+    "FEN": "4n1k1/r4r2/3n3p/pPRPp1pP/P3PpP1/3B1P2/7K/2R5 b - - 4 46",
+    "Moves": "f7c7 b5b6 c7c5 b6a7 c5c1 a7a8q",
+    "Rating": "1829",
+    "RatingDeviation": "82",
+    "Popularity": "79",
+    "NbPlays": "54",
+    "Themes": "advancedPawn crushing fork long middlegame promotion",
+    "GameUrl": "https://lichess.org/9DUWw5zT/black#92",
+    "OpeningTags": ""
+  }
+]

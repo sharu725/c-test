@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "NLjd2",
+    "FEN": "r1b4r/pp3pbp/2p3pn/2n1P3/k2NP3/1B6/PPPB2PP/R3K2R b KQ - 3 15",
+    "Moves": "c5b3 a2b3",
+    "Rating": "1168",
+    "RatingDeviation": "81",
+    "Popularity": "84",
+    "NbPlays": "430",
+    "Themes": "doubleCheck mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/UlEzSqID/black#30",
+    "OpeningTags": "Modern_Defense Modern_Defense_Pseudo-Austrian_Attack"
+  },
+  {
+    "PuzzleId": "NLkSS",
+    "FEN": "rnbqr3/pp1p1R1p/6pk/4P1p1/2B1P1n1/2Q5/P2N2PP/1R2K3 b - - 0 19",
+    "Moves": "g4e5 c3h3",
+    "Rating": "1166",
+    "RatingDeviation": "81",
+    "Popularity": "89",
+    "NbPlays": "119",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/J2Z6qHY1/black#38",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  },
+  {
+    "PuzzleId": "NLoFp",
+    "FEN": "3k1r1r/1pp3p1/pn1p2Bp/3P4/2P2RPq/4Q2P/PP6/5RK1 b - - 6 27",
+    "Moves": "b6d7 f4f8 h8f8 f1f8 d7f8 e3e8",
+    "Rating": "1031",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "166",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/WT4F0Ocn/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NLpI4",
+    "FEN": "2r2r2/5pk1/4p1pp/pNq1P1n1/1p1R1P1Q/8/PP4PP/1K5R w - - 1 26",
+    "Moves": "f4g5 c5c2 b1a1 c2c1 h1c1 c8c1",
+    "Rating": "1131",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "3599",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/dtwj0LaY#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NLqpq",
+    "FEN": "5rk1/3bbppp/p2p1n2/q3p1PP/1r2P3/2N1BP2/1PPQN3/2KR3R w - - 1 20",
+    "Moves": "g5f6 a5a1 c3b1 a1b2",
+    "Rating": "1044",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "1738",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/bkdWxZww#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NLtpp",
+    "FEN": "r4rk1/bbq2pp1/p2p3p/1p2pQ2/4N3/3BP3/PPP2PPP/R4RK1 b - - 4 19",
+    "Moves": "d6d5 e4f6 g7f6 f5h7",
+    "Rating": "1009",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "966",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/Yk82RnAL/black#38",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Benoni_Gambit_Accepted"
+  },
+  {
+    "PuzzleId": "NLuLG",
+    "FEN": "2k4r/1pp2p2/p2p4/3Pp2r/2P1Pp2/P4Pb1/1P2R1P1/R2N1K2 w - - 8 26",
+    "Moves": "d1f2 h5h1 f2h1 h8h1",
+    "Rating": "1013",
+    "RatingDeviation": "82",
+    "Popularity": "90",
+    "NbPlays": "71",
+    "Themes": "endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/rJkjgCDP#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NLw6l",
+    "FEN": "N7/pp1k1pp1/3p4/1N2p3/1PPnP2q/P2P2p1/6P1/R2Q2K1 w - - 0 22",
+    "Moves": "b5d4 h4h2 g1f1 h2h1 f1e2 h1g2 e2e1 g2f2",
+    "Rating": "1180",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "3891",
+    "Themes": "deflection endgame kingsideAttack mate mateIn4 veryLong",
+    "GameUrl": "https://lichess.org/NXZ3KKO0#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NLwAE",
+    "FEN": "r2q2k1/pppb1pp1/3b1B2/8/3P3Q/2nB3P/PPP2PP1/4R1K1 b - - 0 19",
+    "Moves": "d8f6 h4h7 g8f8 h7h8",
+    "Rating": "1050",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1443",
+    "Themes": "kingsideAttack master mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Cd7Pq6wA/black#38",
+    "OpeningTags": "French_Defense French_Defense_Winawer_Variation"
+  }
+]

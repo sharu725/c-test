@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "tJ00T",
+    "FEN": "5rk1/2p2qp1/r2b2np/P1p1pb1Q/2N2p2/2PP1P2/1N4PP/R1B1R1K1 b - - 0 24",
+    "Moves": "f5d3 b2d3 f7c4 h5g6",
+    "Rating": "2010",
+    "RatingDeviation": "75",
+    "Popularity": "77",
+    "NbPlays": "253",
+    "Themes": "advantage capturingDefender hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/ecT1OAZB/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tJ1Li",
+    "FEN": "2kr3r/ppp2pp1/3b1n2/4N1Q1/7p/2NP3q/PPP1BP2/R4RK1 b - - 0 16",
+    "Moves": "d6e5 g5e5 h8h6 e5h2",
+    "Rating": "2123",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "437",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/3XOBnxyh/black#32",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "tJ1Tg",
+    "FEN": "r1b1qrk1/p1pnb1pp/1p3n2/4p1N1/5B2/2PB1N2/PPQ2PPP/R3K2R w KQ - 0 13",
+    "Moves": "f4e5 d7e5 f3e5 e7d6 f2f4 d6e5 e1g1 e5d6 d3h7 g8h8",
+    "Rating": "2189",
+    "RatingDeviation": "109",
+    "Popularity": "41",
+    "NbPlays": "14",
+    "Themes": "advantage middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/wiKYKJpB#25",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "tJ1n2",
+    "FEN": "Qnkr3r/1p2q1pp/1bbppn2/1p4B1/PP6/5N2/3N1PPP/2R1R1K1 b - - 0 21",
+    "Moves": "c8c7 a4b5",
+    "Rating": "2067",
+    "RatingDeviation": "80",
+    "Popularity": "63",
+    "NbPlays": "78",
+    "Themes": "advantage middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/70totNFw/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tJ2De",
+    "FEN": "r1bq1r1k/p3bp1p/1p3p2/2ppp2Q/3n4/1B1P2R1/PPP2NPP/R1B3K1 b - - 3 17",
+    "Moves": "d4b3 c1h6 f8g8 h5f7",
+    "Rating": "2322",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "1643",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/2JVrThSd/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "tJ39H",
+    "FEN": "3k1b1r/1pp1n3/p2pBp2/4p2p/4P3/2PP2r1/PP6/RNB2K1R w - - 0 26",
+    "Moves": "c1e3 g3e3 f1f2 f8h6",
+    "Rating": "2133",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "86",
+    "Themes": "advantage defensiveMove hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/L0knStdz#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tJ462",
+    "FEN": "r6r/pp1k1p2/3q4/2pN2Q1/2PnP3/8/P1P2PPP/3R1RK1 w - - 2 22",
+    "Moves": "g5f4 d4e2 g1h1 h8h2 f4h2 d6h2 h1h2 a8h8",
+    "Rating": "2074",
+    "RatingDeviation": "83",
+    "Popularity": "92",
+    "NbPlays": "10079",
+    "Themes": "anastasiaMate attraction fork mate mateIn4 middlegame sacrifice veryLong xRayAttack",
+    "GameUrl": "https://lichess.org/r3XxmCCJ#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tJ49u",
+    "FEN": "r1bq1rk1/p2pbpp1/1p3B1p/8/2B1P2P/2P2Q2/P1P2PP1/2KR3R b - - 0 14",
+    "Moves": "e7f6 e4e5 f6e5 f3a8",
+    "Rating": "2008",
+    "RatingDeviation": "248",
+    "Popularity": "100",
+    "NbPlays": "12",
+    "Themes": "discoveredAttack equality middlegame short",
+    "GameUrl": "https://lichess.org/uALN0Fbk/black#28",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tJ5BJ",
+    "FEN": "1q3rk1/3Q1pp1/pb5p/1p3p2/PP6/1B3P1n/2R2P2/2R2K2 w - - 0 29",
+    "Moves": "d7f5 b8h2 b3f7 g8h8",
+    "Rating": "2072",
+    "RatingDeviation": "192",
+    "Popularity": "71",
+    "NbPlays": "10",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/AgLQ6F8l#57",
+    "OpeningTags": ""
+  }
+]

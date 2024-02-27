@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "kZ2t6",
+    "FEN": "5rk1/Q7/6pp/4Pbn1/3p4/1P2qP2/P5RP/6RK b - - 0 38",
+    "Moves": "g5f3 g2g6 f5g6 g1g6 g8h8 a7g7",
+    "Rating": "1068",
+    "RatingDeviation": "131",
+    "Popularity": "88",
+    "NbPlays": "16",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/2YPe6uXT/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kZ4R5",
+    "FEN": "r2qkb1r/ppp2ppp/4b3/3pP3/8/2P5/PP1BQPPP/R3KB1R b KQkq - 0 9",
+    "Moves": "f8c5 e2b5 d8d7 b5c5",
+    "Rating": "1092",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "71",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/sJfMoz1K/black#18",
+    "OpeningTags": "Ponziani_Opening Ponziani_Opening_Jaenisch_Counterattack"
+  },
+  {
+    "PuzzleId": "kZ5bv",
+    "FEN": "r2qk3/ppp2pp1/2n5/2b1p3/4P1Qr/2NP4/PPP3PP/R1B2R1K w q - 1 13",
+    "Moves": "g4g7 h4h2 h1h2 d8h4",
+    "Rating": "1090",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "329",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/rAdn7yH8#25",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Queens_Knight_Defense"
+  },
+  {
+    "PuzzleId": "kZ9y1",
+    "FEN": "r2q1rk1/ppp1bppp/2n2nb1/4p3/2B1N3/2NPB3/PPP1QPPP/R3K2R b KQ - 2 11",
+    "Moves": "g6h5 e4f6 e7f6 e2h5",
+    "Rating": "1196",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "3172",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/j9VKmCov/black#22",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Tennison_Gambit"
+  },
+  {
+    "PuzzleId": "kZAJQ",
+    "FEN": "r1b2rk1/ppbn1ppB/2p1q3/8/2P5/5N2/PP3PPP/R1BQ1RK1 b - - 0 14",
+    "Moves": "g8h7 f3g5 h7g8 g5e6",
+    "Rating": "1056",
+    "RatingDeviation": "98",
+    "Popularity": "90",
+    "NbPlays": "43",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/AuYFUpcG/black#28",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Marshall_Gambit"
+  },
+  {
+    "PuzzleId": "kZD7p",
+    "FEN": "2b3k1/1p3p2/7p/p1pPr3/8/2PBqRn1/P1Q3PP/R6K w - - 6 28",
+    "Moves": "h2g3 e5h5",
+    "Rating": "1124",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "462",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/CkBewYGx#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kZE3a",
+    "FEN": "5r2/1k3p2/1n6/2q1p3/4PnPp/PQ5P/2P5/1R1R2K1 w - - 2 34",
+    "Moves": "g1h2 c5f2 h2h1 f2g2",
+    "Rating": "1146",
+    "RatingDeviation": "222",
+    "Popularity": "50",
+    "NbPlays": "13",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PEY9YGeg#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kZEMu",
+    "FEN": "r1b2r1k/p4p1p/1q1ppbp1/3pP1BQ/8/7R/PPP2PPP/R5K1 b - - 1 18",
+    "Moves": "g6h5 g5f6 h8g8 h3g3",
+    "Rating": "1198",
+    "RatingDeviation": "79",
+    "Popularity": "25",
+    "NbPlays": "125",
+    "Themes": "hangingPiece kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/1252QIIh/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Open"
+  },
+  {
+    "PuzzleId": "kZF0P",
+    "FEN": "r4rk1/ppp1nppp/2b2n2/4R3/2B5/B1PP2Nq/P1P2PP1/R2Q3K w - - 0 15",
+    "Moves": "h1g1 h3g2",
+    "Rating": "1158",
+    "RatingDeviation": "79",
+    "Popularity": "60",
+    "NbPlays": "68",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/7lA4izMl#29",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  }
+]

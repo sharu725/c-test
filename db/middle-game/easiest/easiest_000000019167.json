@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "uzisp",
+    "FEN": "r2r2k1/ppqb1p1p/2p1pbpB/8/4B3/2PQP3/PP1R1PPP/3R2K1 b - - 5 18",
+    "Moves": "d7c8 d3d8 c7d8 d2d8 f6d8 d1d8",
+    "Rating": "624",
+    "RatingDeviation": "102",
+    "Popularity": "78",
+    "NbPlays": "347",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/JiUtjwwy/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "uzjOd",
+    "FEN": "r6r/2p3k1/p2p1qnn/3Pp2Q/1p2P3/5PR1/PPP1N1P1/2KR1B2 w - - 1 24",
+    "Moves": "e2g1 f6f4 c1b1 f4g3",
+    "Rating": "991",
+    "RatingDeviation": "84",
+    "Popularity": "95",
+    "NbPlays": "323",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/FwhG123d#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uzmCF",
+    "FEN": "r3r1k1/p1R2pp1/1p5p/3Q4/5B1q/4PP1b/P4P2/2R3K1 b - - 0 20",
+    "Moves": "a8d8 d5f7 g8h8 f7g7",
+    "Rating": "987",
+    "RatingDeviation": "105",
+    "Popularity": "83",
+    "NbPlays": "55",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/sk2bOrT1/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uzoXL",
+    "FEN": "1r1r1k2/1p3ppp/p3pn2/8/bPP2P2/1NK3P1/P2R2BP/3R4 b - - 2 20",
+    "Moves": "a4b3 d2d8 b8d8 d1d8",
+    "Rating": "842",
+    "RatingDeviation": "95",
+    "Popularity": "87",
+    "NbPlays": "417",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/8F5sRqYN/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uzpJ6",
+    "FEN": "rn1q1rk1/4bppp/b1p1pB2/pp6/3P4/2NQPN2/PPB2PPP/R3K2R b KQ - 0 11",
+    "Moves": "e7f6 d3h7",
+    "Rating": "730",
+    "RatingDeviation": "104",
+    "Popularity": "100",
+    "NbPlays": "23",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/unQciWTk/black#22",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Modern_Variation"
+  },
+  {
+    "PuzzleId": "uzqpO",
+    "FEN": "2r1k2r/2pn2pp/p1Q1N1q1/1p3p2/3P3n/3BPP2/PP3P1P/2RR2K1 w k - 3 19",
+    "Moves": "g1h1 g6g2",
+    "Rating": "926",
+    "RatingDeviation": "97",
+    "Popularity": "94",
+    "NbPlays": "115",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/a0t6okfD#37",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Modern_Variation"
+  },
+  {
+    "PuzzleId": "uzr3H",
+    "FEN": "rnq2rQk/ppp1p1bp/5pp1/4P1N1/3P2n1/N7/PPP3PP/R1B1K2R b KQ - 3 13",
+    "Moves": "f8g8 g5f7",
+    "Rating": "602",
+    "RatingDeviation": "109",
+    "Popularity": "70",
+    "NbPlays": "351",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/iebEo0FL/black#26",
+    "OpeningTags": "Rat_Defense Rat_Defense_Harmonist"
+  },
+  {
+    "PuzzleId": "uzu9E",
+    "FEN": "1r3rk1/3n1pp1/1p3q1p/p1pPP3/Q5b1/2P2N2/P4PBP/R4RK1 b - - 0 19",
+    "Moves": "d7e5 f3e5 f6e5 a4g4",
+    "Rating": "951",
+    "RatingDeviation": "85",
+    "Popularity": "93",
+    "NbPlays": "1002",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/RkI7bybY/black#38",
+    "OpeningTags": "Grob_Opening Grob_Opening_Grob_Gambit"
+  },
+  {
+    "PuzzleId": "uzxLQ",
+    "FEN": "rn1qkb1r/pp3ppp/8/2p5/2BP4/2N1PP2/PPP4P/R2QK2R w KQkq - 0 11",
+    "Moves": "d4d5 d8h4 e1e2 h4c4",
+    "Rating": "959",
+    "RatingDeviation": "91",
+    "Popularity": "88",
+    "NbPlays": "185",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/r4EHIehw#21",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  }
+]

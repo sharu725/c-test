@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "JBoNK",
+    "FEN": "r3k2r/pp1nnpp1/1b6/3pP2p/PP4qP/2PQ1N2/6PK/RNB2R2 b kq - 0 16",
+    "Moves": "d7e5 f3e5 g4h4 d3h3 h4h3 h2h3",
+    "Rating": "2074",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "120",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/zyH2h4gf/black#32",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "JBoUd",
+    "FEN": "2kr1b1r/pp3ppp/2n1pn2/8/Q1Bq1B2/5P1P/PP1N1P2/R4RK1 b - - 1 12",
+    "Moves": "f8c5 d2b3 d4f4 c4e6 f7e6 a4f4",
+    "Rating": "2303",
+    "RatingDeviation": "84",
+    "Popularity": "90",
+    "NbPlays": "202",
+    "Themes": "advantage discoveredAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/1GkEWPeG/black#24",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "JBre8",
+    "FEN": "4r1k1/1p1q1pp1/3b1n1p/3B4/3P4/1Q5P/PB3PP1/3R2K1 w - - 0 26",
+    "Moves": "b3b7 d7b7 d5b7 e8b8 b2a3 d6a3",
+    "Rating": "2030",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "8156",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/n8ouP6bl#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JBrtJ",
+    "FEN": "3r2r1/1p1b1k1q/p3p3/5p2/6P1/2N2Q2/PPB2P1P/3R3K b - - 2 29",
+    "Moves": "h7g6 g4f5 e6f5 c2b3 f7f8 b3g8",
+    "Rating": "2313",
+    "RatingDeviation": "85",
+    "Popularity": "84",
+    "NbPlays": "57",
+    "Themes": "advantage long middlegame skewer",
+    "GameUrl": "https://lichess.org/OYCu5K1I/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JBs8f",
+    "FEN": "3r3k/1p3Bpp/p1rp4/4pnR1/q7/2P4P/3Q1PP1/3R2K1 b - - 3 29",
+    "Moves": "g7g6 g5f5 g6f5 d2g5 a4d1 g1h2 d6d5 g5d8",
+    "Rating": "2269",
+    "RatingDeviation": "78",
+    "Popularity": "71",
+    "NbPlays": "113",
+    "Themes": "advantage clearance middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/lFjas7Ec/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JBsx2",
+    "FEN": "5rk1/pb3ppp/1p2p3/1B1n4/3R4/P3PN1P/1PrR1PP1/6K1 b - - 4 20",
+    "Moves": "f8c8 d2c2 c8c2 e3e4",
+    "Rating": "2071",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "1885",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/5eWWQP5L/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JBtnd",
+    "FEN": "2kr3r/pp2ppbp/1q1p1np1/2p2P2/4P1P1/1PNP1Q1P/P1P5/R1B1K2R b KQ - 0 13",
+    "Moves": "f6e4 d3e4 g7c3 f3c3",
+    "Rating": "2193",
+    "RatingDeviation": "83",
+    "Popularity": "52",
+    "NbPlays": "47",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/N7hv7Fga/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "JBuj4",
+    "FEN": "r1b2rk1/ppp3pp/8/3n1pq1/3Pp3/P3P3/1PPKBQPP/R5NR w - - 0 16",
+    "Moves": "c2c4 d5e3 f2e3 f5f4 e3e4 f4f3",
+    "Rating": "2037",
+    "RatingDeviation": "75",
+    "Popularity": "67",
+    "NbPlays": "97",
+    "Themes": "advantage discoveredAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/syaSHfOP#31",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "JBv0h",
+    "FEN": "2r3k1/ppp1rppq/3P3p/2n1B3/2P4P/P1Q2RP1/1P6/5RK1 b - - 0 26",
+    "Moves": "c5e4 d6e7 e4c3 f3f7 c3e2 g1h2",
+    "Rating": "2023",
+    "RatingDeviation": "78",
+    "Popularity": "89",
+    "NbPlays": "387",
+    "Themes": "advancedPawn crushing defensiveMove long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/SkNB6pWI/black#52",
+    "OpeningTags": ""
+  }
+]

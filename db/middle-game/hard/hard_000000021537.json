@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "u28WX",
+    "FEN": "r5k1/pp5p/2n1b1pP/5r2/7Q/4PN2/P3qPP1/R4RK1 b - - 2 24",
+    "Moves": "f5h5 h4f6 h5h6 f6e6",
+    "Rating": "1605",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "8548",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/dcONraLm/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "u2BiQ",
+    "FEN": "3r2k1/5ppp/3Nbn2/pp6/5Q2/P4B1P/1q3PP1/3R2K1 b - - 0 25",
+    "Moves": "b5b4 d6c4 d8d1 f3d1",
+    "Rating": "1647",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "885",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/PHutNhk6/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "u2BoE",
+    "FEN": "1r3rk1/p1q2p1p/n3bp2/1p3N2/2p1Q3/P5P1/1P3PBP/R4RK1 b - - 6 19",
+    "Moves": "a6c5 e4g4 g8h8 g4g7",
+    "Rating": "1604",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "8716",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/B3DVScic/black#38",
+    "OpeningTags": "Catalan_Opening Catalan_Opening_Closed"
+  },
+  {
+    "PuzzleId": "u2C7N",
+    "FEN": "r4rk1/pp1n1ppp/2p5/8/5n1q/3P1QN1/PPPN1PPP/R4RK1 w - - 1 17",
+    "Moves": "d2e4 d7e5 f3d1 e5g4 d1g4 h4g4",
+    "Rating": "1663",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1042",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/e6EYTHG5#33",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "u2FH8",
+    "FEN": "r1b2r1k/pp2q3/2n1pNQ1/2bpPp2/8/2PB4/P1P2PPP/4RRK1 b - - 6 19",
+    "Moves": "e7g7 g6h5 g7h6 h5h6",
+    "Rating": "1665",
+    "RatingDeviation": "185",
+    "Popularity": "57",
+    "NbPlays": "14",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/HhLaJNDb/black#38",
+    "OpeningTags": "French_Defense French_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "u2FbA",
+    "FEN": "2k2rr1/p1q1bRpp/1p2p3/1QppP3/1P1Pp3/2P1P3/P2B2PP/5RK1 b - - 0 18",
+    "Moves": "c5c4 f7f8 g8f8 f1f8 e7f8 b5e8",
+    "Rating": "1721",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "558",
+    "Themes": "crushing exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/JQVrNI8z/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "u2HRK",
+    "FEN": "r3r1k1/ppqn1p2/2p5/7Q/P1BP1b2/5P1P/1P3P2/R4RK1 b - - 2 19",
+    "Moves": "d7f6 h5g6 g8f8 g6f6",
+    "Rating": "1783",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1348",
+    "Themes": "advantage kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/ReGpB69t/black#38",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "u2L8b",
+    "FEN": "r3k2r/p4ppp/1q2pn2/2bp4/8/2P1BN2/P3QPPP/1R3RK1 b kq - 4 14",
+    "Moves": "b6c6 f3e5 c6c7 e2b5",
+    "Rating": "1629",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "740",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/XxySll6V/black#28",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "u2Mta",
+    "FEN": "r5r1/bpp2p1k/2np1p1p/1B2p3/P3P3/2PP3q/5P1N/R1BQ1R1K w - - 4 18",
+    "Moves": "f1g1 a7f2 g1g8 a8g8",
+    "Rating": "1720",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "256",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/2dNXHDcd#35",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  }
+]

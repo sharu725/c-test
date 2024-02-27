@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CcifV",
+    "FEN": "r3k2r/pp1n1ppp/2pbp3/7q/3PQ3/5N1P/PPPB1PP1/R4RK1 w kq - 1 13",
+    "Moves": "d2f4 d7f6 e4e3 f6d5 f4d6 d5e3",
+    "Rating": "1721",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "3286",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/c9ZfZFnE#25",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "Cciwz",
+    "FEN": "r1bqk1r1/pp3p2/2n1P3/5pNp/1b1p1Q2/2N5/PP1B1PPP/R3R1K1 b q - 0 15",
+    "Moves": "d8g5 e6f7 e8f7 f4c7 g5e7 e1e7",
+    "Rating": "1624",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "7100",
+    "Themes": "advancedPawn attackingF2F7 attraction crushing doubleCheck long middlegame",
+    "GameUrl": "https://lichess.org/B9ypSBg3/black#30",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "Ccmlb",
+    "FEN": "r7/P3bk1p/Q3p1p1/2p1Pp2/2PpbPP1/7P/1r1B4/R5K1 w - - 3 30",
+    "Moves": "a1a2 b2b1 g1f2 e7h4",
+    "Rating": "1715",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "1787",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/6WC3Hwql#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CcoGG",
+    "FEN": "2kr3r/4Q3/p3p3/3qP3/8/P1p2NPp/2PB3P/5R1K w - - 0 25",
+    "Moves": "d2c3 d5f3 f1f3 d8d1 c3e1 d1e1 f3f1 e1f1",
+    "Rating": "1724",
+    "RatingDeviation": "75",
+    "Popularity": "76",
+    "NbPlays": "108",
+    "Themes": "clearance mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/f2W3PPYD#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ccp9i",
+    "FEN": "5r2/1b2rRk1/p3p2p/3pq1pQ/P7/2P3PP/2B3PK/5R2 b - - 0 27",
+    "Moves": "e7f7 h5g6 g7h8 f1f7 f8f7 g6f7",
+    "Rating": "1609",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1097",
+    "Themes": "crushing deflection long middlegame",
+    "GameUrl": "https://lichess.org/ulPk726L/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Cctkn",
+    "FEN": "r7/pp2R1pp/2k3b1/P2N1pQ1/q7/6K1/1r6/3R4 b - - 13 40",
+    "Moves": "a4d1 e7c7 c6d5 c7d7 d5c6 d7d1 b2b1 d1b1",
+    "Rating": "1662",
+    "RatingDeviation": "89",
+    "Popularity": "90",
+    "NbPlays": "47",
+    "Themes": "crushing exposedKing middlegame sacrifice skewer veryLong",
+    "GameUrl": "https://lichess.org/kpqwogfI/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CcurX",
+    "FEN": "4r1k1/Q4p1p/1rp3p1/3p1b1q/8/8/PP3RP1/1B3RK1 b - - 0 37",
+    "Moves": "b6b4 b1f5 b4h4 f5h3",
+    "Rating": "1687",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "4020",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/EXsmEgLs/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CcwDu",
+    "FEN": "2kr3r/bpp2pp1/p1p2q2/4p2p/PP2Pnb1/3P1N1P/1BPN1PPK/R3QR2 b - - 2 14",
+    "Moves": "f4h3 b2e5 f6h6 g2h3",
+    "Rating": "1622",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "10040",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/gJ8mqvho/black#28",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "CcysP",
+    "FEN": "1r2brk1/1pq3pp/nRp1p1p1/P3N3/3PP3/1Q5P/2R2PP1/6K1 b - - 7 35",
+    "Moves": "c7e7 b6a6 b7a6 b3b8",
+    "Rating": "1768",
+    "RatingDeviation": "83",
+    "Popularity": "85",
+    "NbPlays": "40",
+    "Themes": "advantage capturingDefender discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/eP8MWdq3/black#70",
+    "OpeningTags": ""
+  }
+]

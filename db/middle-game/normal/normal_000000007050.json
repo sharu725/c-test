@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "KXx9S",
+    "FEN": "r3r1k1/pbpR3p/1p6/6q1/1bP5/2NQ4/PPK2P1P/8 b - - 1 24",
+    "Moves": "b4c3 d3h7 g8f8 d7f7",
+    "Rating": "1243",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "5144",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/T4IzUjPO/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KXywS",
+    "FEN": "r1r2Bk1/4pp2/6pQ/p7/1p6/1b1B1P2/q1P3P1/1K1R3R w - - 4 25",
+    "Moves": "b1c1 c8c2 d3c2 a2c2",
+    "Rating": "1322",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1084",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/MBJO82GQ#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KXzAe",
+    "FEN": "2rq1r1k/4n2b/Q1p1p1pp/3pP3/N2P2P1/5N2/P4P2/R4RK1 w - - 0 23",
+    "Moves": "f3h2 c8a8 a6b6 a8a4 b6d8 f8d8",
+    "Rating": "1301",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2217",
+    "Themes": "crushing long middlegame skewer",
+    "GameUrl": "https://lichess.org/rr9G6ukM#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KY2nj",
+    "FEN": "r1bq1rk1/1p2bpp1/p3pn1p/3n4/P2P1BN1/2NQ4/1PB2PPP/R4RK1 b - - 12 15",
+    "Moves": "d5f4 g4f6 e7f6 d3h7",
+    "Rating": "1238",
+    "RatingDeviation": "79",
+    "Popularity": "86",
+    "NbPlays": "1076",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/DG6RPvNU/black#30",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "KY7rn",
+    "FEN": "r2qk2r/ppp2ppp/2n1p3/3pP3/4nB2/2P4P/PP2PPP1/R2QKB1R w KQkq - 1 10",
+    "Moves": "f2f3 d8h4 g2g3 e4g3 f4g3 h4g3",
+    "Rating": "1213",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1636",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/tqLNX6dL#19",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "KY9fK",
+    "FEN": "r4rk1/ppp1b1pp/2n2p2/8/4QBb1/2P2N2/q1P3PP/3RKB1R b K - 1 15",
+    "Moves": "f8e8 f1c4 g8h8 c4a2",
+    "Rating": "1377",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "19031",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Q1Cj4Nof/black#30",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Maroczy_Variation"
+  },
+  {
+    "PuzzleId": "KYBSM",
+    "FEN": "2kr3r/ppp3pp/2pb1n2/4qb2/4p3/1B4N1/PPPP1PPP/R1BQR1K1 b - - 9 12",
+    "Moves": "d8e8 d2d4 e5a5 c1d2",
+    "Rating": "1377",
+    "RatingDeviation": "195",
+    "Popularity": "-12",
+    "NbPlays": "8",
+    "Themes": "clearance crushing middlegame short",
+    "GameUrl": "https://lichess.org/cL2gMvB4/black#24",
+    "OpeningTags": "Italian_Game Italian_Game_Rousseau_Gambit"
+  },
+  {
+    "PuzzleId": "KYCQd",
+    "FEN": "2R2b1k/pp1q1r2/5n1Q/8/4p3/7P/P5P1/5R1K b - - 0 32",
+    "Moves": "f6h7 c8f8 f7f8 f1f8",
+    "Rating": "1301",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "898",
+    "Themes": "mate mateIn2 middlegame pin short xRayAttack",
+    "GameUrl": "https://lichess.org/Wk4rJTHV/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KYCuZ",
+    "FEN": "2rq1r1k/1b4pp/p3p3/5p2/P2N1B2/2Pn1P1Q/6PP/R3R1K1 w - - 3 25",
+    "Moves": "d4e6 d8b6 f4e3 b6e6",
+    "Rating": "1313",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "15553",
+    "Themes": "crushing interference master middlegame short",
+    "GameUrl": "https://lichess.org/l5NpT3qJ#49",
+    "OpeningTags": ""
+  }
+]

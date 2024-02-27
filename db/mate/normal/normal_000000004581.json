@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "OB7f3",
+    "FEN": "3r2k1/5p1p/8/3pqPp1/4n1B1/6PP/5P2/R2QR1K1 w - - 0 28",
+    "Moves": "f2f3 e5g3 g1f1 g3f2",
+    "Rating": "1232",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "952",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/prpe8nZq#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OBBP8",
+    "FEN": "r4rk1/1b1n1pp1/2p1p2p/q7/1p1P4/b2QPN2/1BB2PPP/R4RK1 b - - 3 18",
+    "Moves": "b7a6 d3h7",
+    "Rating": "1333",
+    "RatingDeviation": "246",
+    "Popularity": "-100",
+    "NbPlays": "5",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/fGlYT08D/black#36",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation"
+  },
+  {
+    "PuzzleId": "OBGYT",
+    "FEN": "4Q1k1/pb3pbp/1p4p1/2n5/P1B5/1Pq2N2/2P2PPP/6K1 b - - 0 21",
+    "Moves": "g7f8 e8f7 g8h8 f7f8",
+    "Rating": "1298",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "133",
+    "Themes": "deflection kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/MENvJA0D/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OBHOl",
+    "FEN": "r5r1/1pp2p1k/3p2pp/p3pP2/2P4R/1Pq5/P5Q1/6RK b - - 1 27",
+    "Moves": "g6f5 h4h6 h7h6 g2h2 c3h3 h2h3",
+    "Rating": "1334",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "3323",
+    "Themes": "attraction endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/b5L0CcVS/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OBI9P",
+    "FEN": "5r1k/p5pp/8/6q1/2P1Q3/PP1nN3/3P1r1P/R1B2R1K w - - 2 26",
+    "Moves": "c1b2 f2f1 a1f1 f8f1 e3f1 d3f2",
+    "Rating": "1396",
+    "RatingDeviation": "78",
+    "Popularity": "96",
+    "NbPlays": "11767",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/fS9aUbpZ#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OBLJN",
+    "FEN": "r2q2k1/pppb1p2/2n1rP1p/3p4/6Q1/2PB4/P4PPP/2KR2NR b - - 8 18",
+    "Moves": "g8f8 g4g7 f8e8 g7g8",
+    "Rating": "1215",
+    "RatingDeviation": "130",
+    "Popularity": "83",
+    "NbPlays": "13",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/TvwkgqIg/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "OBNbc",
+    "FEN": "r1bq1rk1/pp1nb1p1/2n1p1P1/2ppP2Q/3P1P2/2P5/PP4P1/R1B1K1N1 b Q - 0 15",
+    "Moves": "d7f6 e5f6 f8f6 h5h7 g8f8 h7h8",
+    "Rating": "1258",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "552",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/4mJQTNnf/black#30",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "OBOlF",
+    "FEN": "q4rk1/3N2p1/4NpQp/3p4/2bp4/6PP/5PK1/8 b - - 3 39",
+    "Moves": "f8f7 d7f6 f7f6 g6g7",
+    "Rating": "1328",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "667",
+    "Themes": "deflection endgame mate mateIn2 pin short",
+    "GameUrl": "https://lichess.org/rXKXrC46/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OBPtz",
+    "FEN": "r6k/pp2q1bp/2p2rp1/2n1p3/2B1P3/2N1QP2/PPP2PK1/R6R b - - 4 20",
+    "Moves": "a8f8 h1h7 h8h7 a1h1 g7h6 e3h6",
+    "Rating": "1215",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1715",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/LlsM4xvj/black#40",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SrulV",
+    "FEN": "r1b1r1k1/2p2pp1/p4b2/1pBq4/1P2pP2/2P1Q1P1/P6P/R3R1K1 b - - 1 28",
+    "Moves": "d5d3 e3d3 e4d3 e1e8",
+    "Rating": "1106",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "150",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/8fbsFT61/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SrxVT",
+    "FEN": "r4r1k/pp3p1p/1n1ppp2/8/1P1Pq3/2P2N1P/P2Q1PPK/4RR2 b - - 1 21",
+    "Moves": "b6c4 e1e4 c4d2 f3d2",
+    "Rating": "1110",
+    "RatingDeviation": "84",
+    "Popularity": "93",
+    "NbPlays": "571",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/9k3FwvLx/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ss1RS",
+    "FEN": "r1b1r1k1/pp3p1p/3p3b/2p1p3/2BpP1PP/P7/1PPN1P2/1K1R3R b - - 0 16",
+    "Moves": "c8g4 h1g1 g8h8 g1g4",
+    "Rating": "1161",
+    "RatingDeviation": "189",
+    "Popularity": "87",
+    "NbPlays": "16",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/w3pt6Cpd/black#32",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Ponziani_Gambit"
+  },
+  {
+    "PuzzleId": "Ss3OD",
+    "FEN": "1Q5k/p6p/5rb1/2b5/4q2N/8/PPP3PP/R6K b - - 0 25",
+    "Moves": "e4e8 h4g6 h7g6 b8e8",
+    "Rating": "1093",
+    "RatingDeviation": "81",
+    "Popularity": "89",
+    "NbPlays": "61",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/Vrq8qqEx/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ss3nZ",
+    "FEN": "r2q1rk1/pp1n1p2/2pb1Pp1/3p4/3P4/2NQ1P2/PPP1BP2/2K3RR b - - 0 14",
+    "Moves": "d7f6 g1g6 f7g6 d3g6",
+    "Rating": "1073",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "2289",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/BcriaOnh/black#28",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "Ss40t",
+    "FEN": "r2q1rk1/1b4b1/4ppQ1/pp1nN2p/2pP1B2/2P5/PPB2PPP/R3R1K1 b - - 0 18",
+    "Moves": "d5f4 g6h7",
+    "Rating": "1088",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "254",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/rZmYYgtQ/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "Ss4Vy",
+    "FEN": "2r3k1/ppp2rpp/4p1b1/2RqPp2/3P4/BP2P3/P2Q2PP/5RK1 b - - 5 18",
+    "Moves": "d5e4 f1f4 e4f4 e3f4",
+    "Rating": "1194",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "830",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/hw64hdyV/black#36",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation"
+  },
+  {
+    "PuzzleId": "Ss4oU",
+    "FEN": "3q1rk1/3n1ppp/r1p2n2/4pN2/pp2P3/3P2Q1/PPP1NRPP/5RK1 b - - 1 18",
+    "Moves": "b4b3 g3g7",
+    "Rating": "1007",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "193",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/NM5n5EVS/black#36",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "Ss5f9",
+    "FEN": "r2qkb1r/ppp2p1p/5Bp1/3p4/2P3b1/1P2P3/P2P1P1P/RN1QKB1R b KQkq - 0 9",
+    "Moves": "g4d1 f6d8 a8d8 e1d1",
+    "Rating": "1100",
+    "RatingDeviation": "79",
+    "Popularity": "75",
+    "NbPlays": "108",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/jN7yqybz/black#18",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Indian_Variation"
+  }
+]

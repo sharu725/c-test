@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "5MMsA",
+    "FEN": "rnb2Q1k/pppp2pp/8/2b5/8/8/PPPP1RPP/RNB1qBK1 b - - 2 11",
+    "Moves": "c5f8 f2f8",
+    "Rating": "706",
+    "RatingDeviation": "113",
+    "Popularity": "69",
+    "NbPlays": "21",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/x8NPXSEg/black#22",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Boi_Variation"
+  },
+  {
+    "PuzzleId": "5MOTZ",
+    "FEN": "r4r2/pp4pk/3qp2p/2p5/3n1P2/2N1Q2P/PPP3P1/R3R1K1 b - - 1 18",
+    "Moves": "d4c2 e3e4 h7g8 e4c2",
+    "Rating": "981",
+    "RatingDeviation": "93",
+    "Popularity": "94",
+    "NbPlays": "555",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/xKzJ7k0Z/black#36",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Morphy_Gambit"
+  },
+  {
+    "PuzzleId": "5MP4C",
+    "FEN": "1nk5/pbpqbp2/1p1p4/1P2p3/P1PP4/3BPN2/1BQ1KRrr/5R2 b - - 1 24",
+    "Moves": "d7g4 d3f5 b8d7 f5g4 g2f2 f1f2 h2f2 e2f2",
+    "Rating": "946",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "494",
+    "Themes": "crushing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/dy8KCbCR/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5MPAR",
+    "FEN": "r3kb1N/2p3pp/p1np4/1p2p1q1/4Pnb1/1BP2Q2/PP1P1PPP/RNB2RK1 w q - 5 12",
+    "Moves": "f3g3 f4e2 g1h1 e2g3",
+    "Rating": "744",
+    "RatingDeviation": "79",
+    "Popularity": "97",
+    "NbPlays": "950",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/lxkxtaV1#23",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Cozio_Defense"
+  },
+  {
+    "PuzzleId": "5MPTV",
+    "FEN": "rb3rk1/p4p1p/1p3np1/4q1B1/2P1p3/2N4P/PP2QPP1/R2R2K1 w - - 8 24",
+    "Moves": "g5f6 e5h2 g1f1 h2h1",
+    "Rating": "822",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "113",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/UsSsg8Vb#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5MRAr",
+    "FEN": "1k1r3r/pppq1ppp/6b1/8/2R5/2b1B1Q1/PPP2PPP/R5K1 w - - 0 18",
+    "Moves": "c4c3 d7d1 a1d1 d8d1",
+    "Rating": "721",
+    "RatingDeviation": "86",
+    "Popularity": "44",
+    "NbPlays": "112",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/FrffmWzg#35",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "5MRgq",
+    "FEN": "r3k2r/3p1ppp/pq2p3/3bN3/Qp6/2R5/PP3PPP/4R1K1 b kq - 1 19",
+    "Moves": "b4c3 a4d7 e8f8 d7f7",
+    "Rating": "974",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1050",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/gMpEDIpK/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Delayed_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "5MTmS",
+    "FEN": "3r4/R4pk1/4Bnp1/3b2Nr/2pp1P2/8/P5PP/4R1K1 b - - 2 34",
+    "Moves": "d5e6 g5e6 g7g8 e6d8",
+    "Rating": "987",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "395",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/gvfUPLup/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5MVd8",
+    "FEN": "r1bqr1k1/pp3pp1/2pb3p/8/3PR3/3Q1N2/PPB2PPP/3R2K1 b - - 0 17",
+    "Moves": "c8f5 e4e8 d8e8 d3f5",
+    "Rating": "762",
+    "RatingDeviation": "88",
+    "Popularity": "91",
+    "NbPlays": "704",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/bD7rjEDB/black#34",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Exchange_Variation"
+  }
+]

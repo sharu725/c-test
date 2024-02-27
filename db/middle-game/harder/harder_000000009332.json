@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SICzz",
+    "FEN": "2k4r/ppp2ppp/8/2b1P3/1n1B4/1P3bP1/P1PQ1K1P/R4B1q b - - 4 17",
+    "Moves": "h8d8 f1h3 c8b8 a1h1 f3h1 c2c3",
+    "Rating": "1889",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2715",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/nO1P7L4v/black#34",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit_Accepted"
+  },
+  {
+    "PuzzleId": "SIE16",
+    "FEN": "2k3nr/ppp2ppp/2nb4/3r3q/8/1QN2N1b/PP2BPP1/R1B2RK1 b - - 1 12",
+    "Moves": "h3g4 b3d5 h5d5 c3d5",
+    "Rating": "1938",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1804",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/GZhWKjs2/black#24",
+    "OpeningTags": "Danish_Gambit_Declined Danish_Gambit_Declined_Sorensen_Defense"
+  },
+  {
+    "PuzzleId": "SIEpB",
+    "FEN": "r1b2rk1/3p1p2/2p4R/p7/Pp1bq1P1/3B3Q/1PP4P/1K1N3R b - - 3 25",
+    "Moves": "e4h1 h6h8 g8g7 h3h6",
+    "Rating": "1843",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "990",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/bIU6o5rH/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SIF1Q",
+    "FEN": "r2r2k1/1p2bppp/p1q1b3/3p4/3Bn3/P1N2Q1P/BPP2PP1/3R1RK1 w - - 5 18",
+    "Moves": "c3e4 d5e4 f3g3 d8d4 d1d4 e6a2",
+    "Rating": "1901",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "1104",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/t1JB4DOH#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "SIFxx",
+    "FEN": "4rr2/pp3pkp/5pn1/3P1P2/8/PP2Q2P/1q2BKP1/R1R5 w - - 1 26",
+    "Moves": "e3d3 g6f4 d3g3 g7h8 g3f4 e8e2",
+    "Rating": "1981",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "700",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/tlAbw9iI#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SIGKL",
+    "FEN": "6qr/3n1k2/2p1pb2/1pPp1p1n/pP1P1P2/P1B1P2R/2Q1N3/3K1N2 w - - 1 34",
+    "Moves": "e2g3 g8g4 c2e2 g4h3",
+    "Rating": "1997",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "10361",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/A7OlREGl#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SIJum",
+    "FEN": "3q2rr/pp1b1k2/2n1p3/3pPp2/3P3b/BP6/P1NQBP1P/R5RK w - - 5 21",
+    "Moves": "f2f4 h4g3 e2h5 h8h5 g1g3 g8g3",
+    "Rating": "1946",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "94",
+    "Themes": "crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/4PLZoEk7#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SIKWJ",
+    "FEN": "4r3/4rpk1/8/7Q/P6b/2pB2Pq/5P2/5RK1 b - - 0 35",
+    "Moves": "e7e1 h5h7 g7f6 h7h6",
+    "Rating": "1954",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "963",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/2GLS8mlT/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SIKhh",
+    "FEN": "2rq1rk1/1p3ppp/p4nb1/8/1P1b4/P1N4P/3BBPP1/2RQ1RK1 w - - 0 18",
+    "Moves": "d1b3 d4f2 f1f2 d8d2",
+    "Rating": "1832",
+    "RatingDeviation": "74",
+    "Popularity": "71",
+    "NbPlays": "287",
+    "Themes": "crushing discoveredAttack kingsideAttack master middlegame short",
+    "GameUrl": "https://lichess.org/iotLY8ml#35",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Other_variations"
+  }
+]

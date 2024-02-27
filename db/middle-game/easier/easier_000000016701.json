@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "omEil",
+    "FEN": "rn2k2r/ppp1ppbp/2b5/3p4/1Q1P1Nq1/1N2R3/P5P1/R3KB2 b Qkq - 1 18",
+    "Moves": "g4f4 b4e7",
+    "Rating": "1007",
+    "RatingDeviation": "105",
+    "Popularity": "88",
+    "NbPlays": "90",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/LA6S366g/black#36",
+    "OpeningTags": "Trompowsky_Attack Trompowsky_Attack_Edge_Variation"
+  },
+  {
+    "PuzzleId": "omINe",
+    "FEN": "r3kb1r/ppp2ppp/2p5/3qp3/6b1/2P2N2/P1PP1PPP/R1BQR1K1 w kq - 1 9",
+    "Moves": "e1e5 d5e5 f3e5 g4d1",
+    "Rating": "1139",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "6222",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/q9WIyFOP#17",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "omJoD",
+    "FEN": "N2n1r2/1p1b3k/p2q3p/4p2P/2pP2R1/P1Q5/1P2RP1P/6K1 w - - 0 33",
+    "Moves": "d4e5 d6d1 c3e1 d1e1 e2e1 d7g4",
+    "Rating": "1033",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "1643",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/xwT1VXAb#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "omL7G",
+    "FEN": "r1b1q1k1/ppp5/1n2p1pR/3nP3/3PQ1P1/r7/3B1PKP/4R3 b - - 1 25",
+    "Moves": "g8f8 h6h8 f8g7 h8e8",
+    "Rating": "1067",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "105",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/3DCphyEM/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "omM5K",
+    "FEN": "3rqrk1/1p2n1pp/pb2p3/8/8/2P2NQ1/PP2BPPP/R3R1K1 w - - 0 19",
+    "Moves": "f3g5 b6f2 g3f2 f8f2",
+    "Rating": "1098",
+    "RatingDeviation": "80",
+    "Popularity": "89",
+    "NbPlays": "366",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/G74UUl1D#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Delayed_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "omMlE",
+    "FEN": "r3r1k1/3n1p2/1pqN1b1Q/p1p1p1N1/P4n2/2PP3P/1P3PP1/R3R1K1 b - - 6 22",
+    "Moves": "c6d6 h6h7 g8f8 h7f7",
+    "Rating": "1065",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "1091",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/2b3kD3yd/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "omRqA",
+    "FEN": "r4rk1/p5p1/1p3q1p/3pR3/2pP4/P1P3nP/1PQ2PP1/R1B3K1 w - - 0 26",
+    "Moves": "f2g3 f6f1 g1h2 f8f2 c2f2 f1f2",
+    "Rating": "1173",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2310",
+    "Themes": "advantage clearance kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/KN6i2yjL#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "omTHt",
+    "FEN": "r1bqk2r/1pp2pb1/p1np1npp/4p1P1/2B1P3/2PP1Q1P/PP3P2/RNB1K1NR b KQkq - 0 9",
+    "Moves": "f6h5 f3f7",
+    "Rating": "1035",
+    "RatingDeviation": "118",
+    "Popularity": "47",
+    "NbPlays": "36",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/IQ1TUF1G/black#18",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "omTKP",
+    "FEN": "rn2k2r/ppp2p2/7p/4q1p1/1P2p1b1/P3P3/2PPNPPP/R2QKB1R w KQkq - 2 12",
+    "Moves": "f2f3 e4f3 g2f3 g4f3",
+    "Rating": "1121",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "3211",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/duEaOlQ1#23",
+    "OpeningTags": "Polish_Opening Polish_Opening_Other_variations"
+  }
+]

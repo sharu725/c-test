@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SgRoG",
+    "FEN": "r4bk1/pppq2pp/2n4B/3pPr2/3P4/P1P2N1P/5P1K/R2Q2R1 w - - 4 20",
+    "Moves": "d1e2 f5h5 g1g3 h5h6",
+    "Rating": "1558",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "15354",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/UA71Xyaj#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SgRsn",
+    "FEN": "4k3/b1n3Qp/p1p1q3/P7/8/5BP1/4R2P/Br5K w - - 1 42",
+    "Moves": "h1g2 b1g1",
+    "Rating": "1415",
+    "RatingDeviation": "80",
+    "Popularity": "72",
+    "NbPlays": "660",
+    "Themes": "master masterVsMaster mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/jZt6y1ik#83",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SgRyE",
+    "FEN": "r1bqr3/1p3kp1/p2b1B1p/3p4/8/2PB4/PP2QPPP/R3R1K1 b - - 0 19",
+    "Moves": "d6h2 g1h2 e8e2 f6d8 e2e1 a1e1",
+    "Rating": "1442",
+    "RatingDeviation": "113",
+    "Popularity": "62",
+    "NbPlays": "17",
+    "Themes": "crushing hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/avGz1Oug/black#38",
+    "OpeningTags": "French_Defense French_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "SgSQq",
+    "FEN": "4k2r/pp1b1ppp/4p3/3p4/1n1Pn3/1P2BN1P/1KrN1PP1/3R1B1R w k - 5 18",
+    "Moves": "b2a3 c2a2 a3b4 a7a5",
+    "Rating": "1458",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "5015",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/riFvwfT8#35",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "SgU0c",
+    "FEN": "r4rk1/1ppnqp1p/2b3p1/P2pP1N1/5P2/2Q1P3/6PP/RN3RK1 b - - 0 18",
+    "Moves": "d7e5 c3e5 e7e5 f4e5",
+    "Rating": "1456",
+    "RatingDeviation": "92",
+    "Popularity": "55",
+    "NbPlays": "50",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Jfsvk4kz/black#36",
+    "OpeningTags": "Ware_Opening Ware_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "SgUwL",
+    "FEN": "5qk1/1p2b1pn/3pN2B/2p1p3/1n2P3/pP1P2Q1/1KP2PPP/3R3R w - - 0 22",
+    "Moves": "b2a3 f8a8 a3b2 a8a2 b2c3 a2c2",
+    "Rating": "1404",
+    "RatingDeviation": "74",
+    "Popularity": "82",
+    "NbPlays": "643",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/ZXZhk8Ad#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SgV3p",
+    "FEN": "r3k2r/p2qnpp1/1pp2n1p/1BBPp3/4P1b1/2P2N2/P4PPP/1R1Q1RK1 w kq - 0 15",
+    "Moves": "b5c6 e7c6 d5c6 d7d1",
+    "Rating": "1570",
+    "RatingDeviation": "80",
+    "Popularity": "77",
+    "NbPlays": "47",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/kQmPRDE9#29",
+    "OpeningTags": "Indian_Defense Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "SgVPG",
+    "FEN": "r3k2r/pp3ppp/q3b1n1/3pP3/3P1p2/2P2Q2/P2B1PPP/R3K1NR w KQkq - 2 17",
+    "Moves": "g1e2 g6h4 f3h5 h4g2",
+    "Rating": "1407",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "1141",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/NGWbKyFI#33",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "SgVj6",
+    "FEN": "r5k1/pb1p2pp/3Pp1r1/2p1Qp2/1q6/3B4/PPP1NPPP/R4RK1 w - - 0 18",
+    "Moves": "e2f4 b4f4 e5f4 g6g2",
+    "Rating": "1564",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1583",
+    "Themes": "advantage kingsideAttack middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/RNdmyP9m#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "3dPV9",
+    "FEN": "4rrk1/ppq2pb1/6n1/7Q/3p4/P2B3R/1PP3PP/5RK1 b - - 6 23",
+    "Moves": "e8e5 h5h7",
+    "Rating": "1075",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "475",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/SiPgYBxU/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3dRD4",
+    "FEN": "4r1k1/1pprqp2/p1n1p1p1/4P2p/2P1Q2P/1P4R1/P4PP1/2B1R1K1 b - - 3 21",
+    "Moves": "d7d4 g3g6 f7g6 e4g6",
+    "Rating": "1093",
+    "RatingDeviation": "77",
+    "Popularity": "80",
+    "NbPlays": "565",
+    "Themes": "crushing kingsideAttack master middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/v7OaeuyA/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3dcFB",
+    "FEN": "r1bqk1nr/pppp1pbp/6p1/4p3/2PnP3/2NP4/PP2NPPP/R1BQKB1R w KQkq - 3 6",
+    "Moves": "g2g3 d4f3",
+    "Rating": "1085",
+    "RatingDeviation": "83",
+    "Popularity": "90",
+    "NbPlays": "769",
+    "Themes": "master mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/P8yhkxmW#11",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3defn",
+    "FEN": "5R2/2pNnkp1/3n1p1p/1P2p3/6P1/4NK1P/r1p5/8 b - - 1 48",
+    "Moves": "f7e6 d7c5",
+    "Rating": "1174",
+    "RatingDeviation": "85",
+    "Popularity": "94",
+    "NbPlays": "218",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/XWpUCLm2/black#96",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3djvy",
+    "FEN": "r1bqkb1r/ppp2p1p/3p1np1/4n3/2P5/2NNP3/PP3PPP/R1BQKB1R b KQkq - 0 9",
+    "Moves": "e5c4 d1a4 c7c6 a4c4",
+    "Rating": "1171",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "2178",
+    "Themes": "advantage fork master opening short",
+    "GameUrl": "https://lichess.org/hlguCLYm/black#18",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "3e3tz",
+    "FEN": "r1r3k1/5ppp/p2q4/3p1Q2/1pPN2P1/4P3/PK1n1P1P/2R4R w - - 1 25",
+    "Moves": "f5d5 d2c4 d5c4 c8c4",
+    "Rating": "1140",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "765",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/o0z3gk4g#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3eCMI",
+    "FEN": "7R/8/5p2/p7/4rk2/3K4/P7/8 b - - 9 51",
+    "Moves": "e4a4 h8h4 f4e5 h4a4",
+    "Rating": "1076",
+    "RatingDeviation": "157",
+    "Popularity": "82",
+    "NbPlays": "8",
+    "Themes": "crushing endgame master rookEndgame short skewer",
+    "GameUrl": "https://lichess.org/t5ewfu6w/black#102",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3eDXp",
+    "FEN": "8/8/4Np2/1B6/p3Ppp1/k1b5/5KP1/8 w - - 0 54",
+    "Moves": "e6c5 c3d4 f2f1 d4c5",
+    "Rating": "1055",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "1897",
+    "Themes": "crushing endgame fork master short",
+    "GameUrl": "https://lichess.org/W1V5EeCI#107",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3eMek",
+    "FEN": "rn1q1r1k/3nb1pp/p2pB1P1/7Q/4b3/2p1B2R/PPP2P1P/R3K3 b Q - 0 17",
+    "Moves": "d7f6 h5h7 f6h7 h3h7",
+    "Rating": "1102",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "95",
+    "Themes": "kingsideAttack master mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/60qWRBhC/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  }
+]

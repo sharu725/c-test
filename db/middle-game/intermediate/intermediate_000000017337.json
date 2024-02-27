@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "fielw",
+    "FEN": "2b2k1r/p2nQ2p/5p2/3NpPq1/2B1P1n1/7R/PrP3P1/R5K1 b - - 3 29",
+    "Moves": "f8g8 d5c7",
+    "Rating": "1418",
+    "RatingDeviation": "80",
+    "Popularity": "68",
+    "NbPlays": "107",
+    "Themes": "discoveredAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/D8xK4Ot1/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fifIC",
+    "FEN": "3r1rk1/2q2ppp/pn1p1b2/1p6/1B2B3/2PR1Q2/P5PP/5R1K b - - 0 25",
+    "Moves": "b6c4 e4h7 g8h7 f3h5 h7g8 d3h3",
+    "Rating": "1503",
+    "RatingDeviation": "294",
+    "Popularity": "-33",
+    "NbPlays": "5",
+    "Themes": "advantage attraction clearance defensiveMove kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/tvPfoAcy/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fifdH",
+    "FEN": "2rr1bk1/p4qn1/p2P1p2/4p1p1/P1N1P1P1/3Q4/5P1B/2RR2K1 b - - 1 31",
+    "Moves": "d8d7 c4e5 c8c1 e5f7 c1d1 d3d1",
+    "Rating": "1494",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1173",
+    "Themes": "crushing long master middlegame",
+    "GameUrl": "https://lichess.org/xCpcMSu5/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fig7Z",
+    "FEN": "r1b2rk1/pp2bp2/6p1/q1nR2P1/2B5/4P3/PPQ2PP1/2K3NR w - - 0 15",
+    "Moves": "d5c5 a5e1 c2d1 e1d1",
+    "Rating": "1545",
+    "RatingDeviation": "76",
+    "Popularity": "75",
+    "NbPlays": "185",
+    "Themes": "advantage middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/svcrA5Wy#29",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "figEI",
+    "FEN": "2rq1rk1/1p2bppp/p1n1p3/3n4/3P2b1/1QN1BN2/PP2BPPP/2R1R1K1 b - - 3 13",
+    "Moves": "d8b6 c3d5 b6b3 d5e7 c6e7 a2b3",
+    "Rating": "1598",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "241",
+    "Themes": "advantage long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/9DugW7Tk/black#26",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+  },
+  {
+    "PuzzleId": "fihJg",
+    "FEN": "5bk1/6p1/p3p3/3p2P1/3P2Bn/P3B2P/1qr5/R4QK1 w - - 4 29",
+    "Moves": "e3f2 c2f2 f1f2 b2a1",
+    "Rating": "1458",
+    "RatingDeviation": "76",
+    "Popularity": "77",
+    "NbPlays": "276",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/jTnjZ5KB#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fihtY",
+    "FEN": "r3r1k1/2p2ppp/pp1p1q2/2nP2N1/2P3bP/6P1/P4PB1/1Q1RR1K1 b - - 2 22",
+    "Moves": "g4d1 b1h7 g8f8 h7h8",
+    "Rating": "1453",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "4950",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/qXVUwEvR/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fiip9",
+    "FEN": "2k3r1/pp3p1p/1qnr4/3np3/6P1/PP2P2P/1B1P2B1/2RQK2R w K - 1 20",
+    "Moves": "b2e5 d5e3 d1f3 e3g2",
+    "Rating": "1566",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "188",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/fQzpatF5#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fijSt",
+    "FEN": "rn1qk2r/pp2bppp/2p1p1b1/4P3/Q1BP4/2P2N1P/P4PP1/R1B1K2R w KQkq - 0 11",
+    "Moves": "c1a3 b7b5 a3e7 d8e7 c4b5 c6b5",
+    "Rating": "1526",
+    "RatingDeviation": "73",
+    "Popularity": "97",
+    "NbPlays": "8520",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/Rw821dZA#21",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations"
+  }
+]

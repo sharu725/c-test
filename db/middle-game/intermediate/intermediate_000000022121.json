@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "rIEAc",
+    "FEN": "r3rnk1/p4pb1/2p1p1n1/3pQ3/8/P2B1PR1/4N2P/6RK b - - 0 27",
+    "Moves": "g6e5 g3g7 g8h8 g7g8",
+    "Rating": "1507",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "839",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AWesYHH2/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rIEMs",
+    "FEN": "5r1k/1R3Bp1/pB1n3p/P1p5/2Pb1P2/6PK/q6P/4Q3 w - - 3 37",
+    "Moves": "e1e7 f8f7 e7d8 h8h7 b7f7 d6f7",
+    "Rating": "1496",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2139",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/VZcB06Zp#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rILUC",
+    "FEN": "r1b1r3/pp4p1/3p1knp/2p2p1Q/2Pn1P2/2NPq2N/PP2B1PP/RK5R b - - 7 17",
+    "Moves": "d4e2 c3d5 f6f7 d5e3",
+    "Rating": "1425",
+    "RatingDeviation": "78",
+    "Popularity": "77",
+    "NbPlays": "90",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/yWAmvtlQ/black#34",
+    "OpeningTags": "French_Defense French_Defense_Steiner_Variation"
+  },
+  {
+    "PuzzleId": "rILn5",
+    "FEN": "r1b2rk1/pp4b1/1qn3np/2p2Pp1/5p2/2PB1N2/PPNBQ1PP/1R1R3K b - - 0 17",
+    "Moves": "c8f5 d3f5 f8f5 e2e6 f5f7 e6g6",
+    "Rating": "1434",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "2595",
+    "Themes": "advantage exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/HdXOap2V/black#34",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Traditional_Variation"
+  },
+  {
+    "PuzzleId": "rILq6",
+    "FEN": "b4r1k/pr3N1P/4p3/4PpQ1/2p2P2/P5R1/1Pqp2P1/5RK1 b - - 2 29",
+    "Moves": "b7f7 g5g8 f8g8 h7g8q",
+    "Rating": "1591",
+    "RatingDeviation": "77",
+    "Popularity": "68",
+    "NbPlays": "106",
+    "Themes": "advancedPawn kingsideAttack mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/qlZSqWdc/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rIMLX",
+    "FEN": "3rr1k1/1p3pb1/2p1pq1p/5p2/pPR5/P2PNPP1/2Q2PKP/3R4 w - - 6 28",
+    "Moves": "c2a4 b7b5 a4c2 b5c4",
+    "Rating": "1505",
+    "RatingDeviation": "110",
+    "Popularity": "85",
+    "NbPlays": "42",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Sa0DnYRU#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rINAN",
+    "FEN": "5rk1/r7/3q2p1/p2p1b1Q/1npPp2P/4P2N/PpB2PR1/1K4R1 b - - 1 25",
+    "Moves": "a7h7 g2g6 f5g6 g1g6 d6g6 h5g6",
+    "Rating": "1444",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "837",
+    "Themes": "crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/BopdSx9p/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rIOYy",
+    "FEN": "2kr4/Qpq2p2/2pbp1p1/5r2/2N5/2PP2Pp/PP2R3/4R2K b - - 0 30",
+    "Moves": "d6g3 c4b6 c7b6 a7b6 g3e1 e2e1",
+    "Rating": "1578",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2587",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/i44j5T7z/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rIOvh",
+    "FEN": "r2qkb1r/1p3ppp/p3p3/1bPpPn2/1P3P2/2P2N2/P5PP/RNBQK2R w KQkq - 1 11",
+    "Moves": "f3d4 d8h4 g2g3 f5g3",
+    "Rating": "1525",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "13030",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/2Wa1ikE9#21",
+    "OpeningTags": "French_Defense French_Defense_La_Bourdonnais_Variation"
+  }
+]

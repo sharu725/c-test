@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "iIzZX",
+    "FEN": "r2q1rk1/p1pp1p2/1pb2P1p/6p1/3p3B/3P4/PPP2PPP/RN1Q1RK1 b - - 0 13",
+    "Moves": "g5h4 d1g4 g8h7 g4g7",
+    "Rating": "861",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "1105",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/F9zv30ee/black#26",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "iJ0Iz",
+    "FEN": "r2q1rk1/2p2pp1/p1b1p2p/3n4/4Q3/2BB4/PP3PPP/R4RK1 b - - 2 17",
+    "Moves": "d5c3 e4h7",
+    "Rating": "637",
+    "RatingDeviation": "116",
+    "Popularity": "100",
+    "NbPlays": "39",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Eb3jCM5b/black#34",
+    "OpeningTags": "Queens_Gambit Queens_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "iJ0ws",
+    "FEN": "r1br2k1/pp2q1bp/2pN1np1/2P1pp2/8/1Q2B1PP/PP2PPB1/R4RK1 b - - 2 16",
+    "Moves": "g8h8 d6f7 e7f7 b3f7",
+    "Rating": "780",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "1324",
+    "Themes": "crushing fork master masterVsMaster middlegame short superGM",
+    "GameUrl": "https://lichess.org/OkQ595Ql/black#32",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Fianchetto_Variation"
+  },
+  {
+    "PuzzleId": "iJ1kr",
+    "FEN": "r1b3k1/pp4pp/2pn4/3pP1q1/3P2n1/2NB4/PPQN2PP/5RK1 b - - 0 19",
+    "Moves": "g4e3 d3h7 g8h8 f1f8",
+    "Rating": "941",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "167",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/uTfWHSmD/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iJ3FS",
+    "FEN": "1q2r1k1/p3r1pp/2p5/4n3/2P5/1PQ2Pp1/P5BP/4RRK1 w - - 0 29",
+    "Moves": "h2g3 e5f3 c3f3 e7e1 f3f7 g8h8 f1e1 e8e1",
+    "Rating": "783",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "142",
+    "Themes": "crushing deflection discoveredAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/Vty1ShDT#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iJ3dG",
+    "FEN": "6r1/1pqbnk2/p3p3/2Pp1pr1/1P1P4/4RRNP/P1BQ2P1/6K1 w - - 1 33",
+    "Moves": "g3f1 g5g2 d2g2 g8g2",
+    "Rating": "964",
+    "RatingDeviation": "77",
+    "Popularity": "83",
+    "NbPlays": "110",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/ZEjVRRQ9#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iJ4vf",
+    "FEN": "2k1r2r/pppq2pp/3p4/3Pn3/6P1/7P/PP4P1/R1BQR1K1 w - - 0 19",
+    "Moves": "d1d4 e5f3 g2f3 e8e1",
+    "Rating": "936",
+    "RatingDeviation": "82",
+    "Popularity": "89",
+    "NbPlays": "318",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/mA3BnyIw#37",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "iJ6ya",
+    "FEN": "8/3bnBpk/3p3p/1p6/1P2P2N/3Pq3/2Q2nPP/r2N1R1K w - - 7 24",
+    "Moves": "f1f2 e3e1 f2f1 e1f1",
+    "Rating": "912",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "70",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/gOr1z9Kz#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iJ7nZ",
+    "FEN": "2kr4/1pp1npr1/p1p5/2b1P3/4q2N/2P5/PP3PPP/R1B1R1K1 w - - 0 17",
+    "Moves": "e1e4 d8d1 e4e1 d1e1",
+    "Rating": "708",
+    "RatingDeviation": "82",
+    "Popularity": "88",
+    "NbPlays": "259",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/QE8LLBn2#33",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Exchange_Variation"
+  }
+]

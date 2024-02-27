@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DXCsv",
+    "FEN": "r4r2/ppqbn3/4pNpk/2bpP3/3n3Q/3B4/PPP2PP1/RN2R1K1 b - - 1 18",
+    "Moves": "h6g7 h4h7",
+    "Rating": "850",
+    "RatingDeviation": "94",
+    "Popularity": "97",
+    "NbPlays": "84",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gGcWQl5N/black#36",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "DXDzT",
+    "FEN": "r2qr1k1/p2n1pbp/1p4p1/3Q2Nn/P7/BPN3P1/2P2P1P/R4RK1 b - - 0 17",
+    "Moves": "g7c3 d5f7 g8h8 f7h7",
+    "Rating": "840",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1350",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/XaaAzSdv/black#34",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "DXG5p",
+    "FEN": "r3br1k/6pn/pp1q1p1Q/2p2P2/P2pP3/1B1P2RN/1PP4P/6RK b - - 0 27",
+    "Moves": "g7h6 g3g8 f8g8 g1g8",
+    "Rating": "795",
+    "RatingDeviation": "116",
+    "Popularity": "62",
+    "NbPlays": "18",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Tgzi7KjM/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DXI7Z",
+    "FEN": "r4rk1/pp2npp1/3q3p/3pnb2/8/P3BN1P/1PP1BPP1/R2Q1RK1 w - - 0 17",
+    "Moves": "e3f4 e5f3 e2f3 d6f4",
+    "Rating": "760",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "201",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/qTg4GHW6#33",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "DXIvk",
+    "FEN": "r3q1k1/ppn2rp1/1np3Qp/3pP3/3P4/P1N1B3/1P4PP/R4RK1 w - - 2 22",
+    "Moves": "e3h6 f7f1 a1f1 e8g6",
+    "Rating": "846",
+    "RatingDeviation": "115",
+    "Popularity": "43",
+    "NbPlays": "13",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/zWSNt9in#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DXKye",
+    "FEN": "r1qn2kR/pppbp1b1/5rQ1/3p2N1/3P1Bn1/P1N1P3/1PP1B3/R3K3 b Q - 2 18",
+    "Moves": "g8h8 g6h7",
+    "Rating": "908",
+    "RatingDeviation": "78",
+    "Popularity": "98",
+    "NbPlays": "337",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/aVWBfnQd/black#36",
+    "OpeningTags": "Rapport-Jobava_System Rapport-Jobava_System_Other_variations"
+  },
+  {
+    "PuzzleId": "DXMDL",
+    "FEN": "r2q2nr/pp2pk2/3p1npp/2pP2B1/2P2N2/2PQ4/P4PPP/R3K2R b KQ - 1 13",
+    "Moves": "h6g5 d3g6 f7f8 f4e6",
+    "Rating": "927",
+    "RatingDeviation": "91",
+    "Popularity": "94",
+    "NbPlays": "958",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/yriyjy1N/black#26",
+    "OpeningTags": "Modern_Defense Modern_Defense_Beefeater_Variation"
+  },
+  {
+    "PuzzleId": "DXQFa",
+    "FEN": "r4rk1/1bqQnp2/p3p1pp/2p1b3/1pP5/1B4B1/PP2NPPP/R2R2K1 b - - 1 18",
+    "Moves": "c7d7 d1d7 b7c6 d7e7",
+    "Rating": "856",
+    "RatingDeviation": "84",
+    "Popularity": "95",
+    "NbPlays": "1444",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/TJN5h4oz/black#36",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "DXQVY",
+    "FEN": "r2qr1k1/1ppbbpp1/3p1n1p/8/p1B4B/2NP1P2/PPPQ2PP/3RR1K1 w - - 0 16",
+    "Moves": "c3d5 f6d5",
+    "Rating": "937",
+    "RatingDeviation": "98",
+    "Popularity": "88",
+    "NbPlays": "127",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/5nURWBau#31",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ZRrCS",
+    "FEN": "5rk1/4Qp1p/1np1p1pP/2PpP3/1pbP4/3BR3/3KNqP1/8 b - - 5 35",
+    "Moves": "b6a4 e3f3 f2g2 e7f6 g2g5 f6g5",
+    "Rating": "1729",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1454",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/ecEWr3ME/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZRrbv",
+    "FEN": "2r1kr2/p2pQp1B/1pnP4/2pNp3/2bqN3/8/P4PPP/4R1K1 b - - 1 22",
+    "Moves": "c6e7 e4f6 e8d8 d6e7",
+    "Rating": "1724",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "4181",
+    "Themes": "advancedPawn mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/k1echKYt/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZRsuS",
+    "FEN": "r2q1rk1/1pp2p2/2np3p/p1bNp2b/4P2P/P2P1N2/1PP2P2/R1BQ1RK1 w - - 0 15",
+    "Moves": "c1h6 c6d4 f3d4 h5d1",
+    "Rating": "1683",
+    "RatingDeviation": "235",
+    "Popularity": "-100",
+    "NbPlays": "5",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/p6XNedaG#29",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "ZRx5u",
+    "FEN": "r3k2r/3q2pp/p7/2bp4/1p1np3/3Q2P1/P1P2PBP/RNB2RK1 w kq - 0 22",
+    "Moves": "d3e3 d4f3 g2f3 c5e3",
+    "Rating": "1684",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1757",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/ZgsDVxFG#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZRxdk",
+    "FEN": "r1b1R3/pp2Qpkp/3p1np1/8/2Pp3q/1P1Bb2P/PB4P1/5R1K b - - 9 23",
+    "Moves": "c8h3 e7f8",
+    "Rating": "1678",
+    "RatingDeviation": "80",
+    "Popularity": "89",
+    "NbPlays": "3153",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/RHof4RSP/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZRyo4",
+    "FEN": "r1b1kb1r/p1p1qp2/1p2p2p/2N2p2/Q2P4/3B4/PP3PPP/R4RK1 b kq - 1 14",
+    "Moves": "c8d7 c5d7 e7d7 d3b5",
+    "Rating": "1615",
+    "RatingDeviation": "81",
+    "Popularity": "77",
+    "NbPlays": "35",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/AQXoRW88/black#28",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Scandinavian_Variation"
+  },
+  {
+    "PuzzleId": "ZS0AS",
+    "FEN": "Qn2k2r/p1p1qpp1/3b1n1p/8/8/7N/PP1P1PPP/RNB2bK1 w k - 0 13",
+    "Moves": "a8b8 e8d7 g1f1 h8b8",
+    "Rating": "1714",
+    "RatingDeviation": "98",
+    "Popularity": "21",
+    "NbPlays": "19",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/aGCbVVu8#25",
+    "OpeningTags": "French_Defense French_Defense_Steiner_Variation"
+  },
+  {
+    "PuzzleId": "ZS3jb",
+    "FEN": "rn1q1rk1/1bp1bppp/p7/3np1N1/1p5P/P2P1Q2/BPPB1PP1/RN2K2R w KQ - 2 12",
+    "Moves": "d2b4 d5b4 f3b7 b4c2 e1d2 c2a1",
+    "Rating": "1792",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "889",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/Z8d9CwnG#23",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "ZS3ov",
+    "FEN": "r3r1k1/1b1nbppp/p1qp1n2/1p6/4PB2/PNNB4/1PP1Q1PP/4RRK1 w - - 3 16",
+    "Moves": "b3a5 c6b6 e2f2 b6a5",
+    "Rating": "1738",
+    "RatingDeviation": "78",
+    "Popularity": "73",
+    "NbPlays": "69",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/rsR3XTE6#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "AoweF",
+    "FEN": "r5k1/1b5p/2q1p2r/p1p1np2/PpN5/1P2PpP1/4B2P/3RQRK1 w - - 0 31",
+    "Moves": "c4e5 f3f2 f1f2 c6h1",
+    "Rating": "1295",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1166",
+    "Themes": "advancedPawn clearance kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/jAGSzuHX#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AozDl",
+    "FEN": "rn2k2r/ppp3p1/7p/5b2/3Pp1nq/1BP5/PP1N1PP1/R1BQ1RK1 w kq - 3 14",
+    "Moves": "f2f3 h4h2",
+    "Rating": "1343",
+    "RatingDeviation": "134",
+    "Popularity": "78",
+    "NbPlays": "37",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/3V70Sy7y#27",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Lopez_Countergambit"
+  },
+  {
+    "PuzzleId": "Ap0tx",
+    "FEN": "r1bq1b1r/2p3pp/p1np1nk1/1p2p1N1/4PP2/2NP4/PPP3PP/R1BQ1RK1 b - - 0 9",
+    "Moves": "h7h6 f4f5 c8f5 e4f5",
+    "Rating": "1349",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "155",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/0KDbJN1a/black#18",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "Ap20O",
+    "FEN": "r1b2rk1/pp4p1/7p/3pB3/6qP/2PB4/PPQK1b2/5R1R b - - 1 19",
+    "Moves": "f2h4 d3h7 g8h8 f1f8",
+    "Rating": "1244",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "11599",
+    "Themes": "deflection kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/bqssdMJN/black#38",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Ap2qD",
+    "FEN": "8/5R2/1p2B1kp/5p2/1P6/P4qP1/5P1P/4bNK1 w - - 1 39",
+    "Moves": "f7f5 e1f2",
+    "Rating": "1331",
+    "RatingDeviation": "77",
+    "Popularity": "50",
+    "NbPlays": "86",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/1COcMy8K#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ap7rF",
+    "FEN": "8/4k3/2QP4/8/5Pb1/1P2Kp2/8/7q b - - 0 46",
+    "Moves": "e7d8 c6c7 d8e8 c7e7",
+    "Rating": "1273",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1616",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/fgM2Na01/black#92",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ap82E",
+    "FEN": "3r2k1/pp3ppp/2p5/8/1PP5/2qb2Q1/P4PPP/R2R2K1 w - - 0 24",
+    "Moves": "d1d3 c3a1 d3d1 a1d1",
+    "Rating": "1287",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "199",
+    "Themes": "backRankMate endgame hangingPiece mate mateIn2 short",
+    "GameUrl": "https://lichess.org/8QyqCAI7#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ap8yf",
+    "FEN": "4Q3/5ppk/3Bp1qp/3pP3/7P/2p2rP1/2P2PK1/8 w - - 0 35",
+    "Moves": "g2f3 g6e4",
+    "Rating": "1352",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "750",
+    "Themes": "dovetailMate endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/w0JCwJCp#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ap9vc",
+    "FEN": "5rk1/pp3ppp/3p4/3Pq3/8/5Q2/PPr3PP/4RRK1 b - - 1 18",
+    "Moves": "e5b2 f3f7 f8f7 e1e8 f7f8 f1f8",
+    "Rating": "1283",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "10151",
+    "Themes": "endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/OXVhQnoZ/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Canal_Attack"
+  }
+]

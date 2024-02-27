@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "dc0Ap",
+    "FEN": "1k1r4/ppp2pp1/4p3/3pP3/4Q3/2P2NPr/PP5P/1K1R4 b - - 0 23",
+    "Moves": "d5e4 d1d8",
+    "Rating": "587",
+    "RatingDeviation": "95",
+    "Popularity": "86",
+    "NbPlays": "361",
+    "Themes": "backRankMate endgame hangingPiece mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/sD14XQ4D/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dc1xw",
+    "FEN": "6k1/p1p2ppp/2p4q/8/8/2P2QPb/P1P2R1P/4rBK1 b - - 1 24",
+    "Moves": "h6c1 f3f7 g8h8 f7f8",
+    "Rating": "619",
+    "RatingDeviation": "88",
+    "Popularity": "100",
+    "NbPlays": "96",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/4jYtODt9/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dc25b",
+    "FEN": "r2q1rk1/ppp2ppp/2nb4/3p2N1/P2P2b1/1BP5/2Q2PPP/R1B2RK1 b - - 2 13",
+    "Moves": "h7h6 c2h7",
+    "Rating": "791",
+    "RatingDeviation": "86",
+    "Popularity": "87",
+    "NbPlays": "91",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/qWVyY7A9/black#26",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Piano"
+  },
+  {
+    "PuzzleId": "dc2SN",
+    "FEN": "2r2rk1/p4ppp/1p1b4/8/1PBB1P1q/P5Q1/3n1PK1/R7 b - - 3 22",
+    "Moves": "h4f4 g3g7",
+    "Rating": "930",
+    "RatingDeviation": "120",
+    "Popularity": "80",
+    "NbPlays": "52",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/f1awyCKb/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dc3Kf",
+    "FEN": "3q4/1p4pk/2p3Np/5P2/2Q5/1P6/3r2PP/1R5K w - - 8 38",
+    "Moves": "c4f7 d2d1 b1d1 d8d1",
+    "Rating": "673",
+    "RatingDeviation": "81",
+    "Popularity": "100",
+    "NbPlays": "50",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/GWJmJM26#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dc4Mu",
+    "FEN": "1Qb5/pp3Bkp/8/1N3p2/2p5/8/2q2nPP/1R3R1K w - - 1 29",
+    "Moves": "f1f2 c2b1 f2f1 b1f1",
+    "Rating": "699",
+    "RatingDeviation": "88",
+    "Popularity": "68",
+    "NbPlays": "361",
+    "Themes": "fork hangingPiece master mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/zTGrv668#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dc4n7",
+    "FEN": "r5kR/ppp1p1b1/5rQ1/4q3/3nB3/8/PPP2PP1/R1B1K3 b Q - 2 17",
+    "Moves": "g8h8 g6h7",
+    "Rating": "932",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "86",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/VeKJpzZu/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "dc626",
+    "FEN": "2rr2k1/p4p1p/7Q/8/PKP1p2P/2Pq4/6R1/8 b - - 2 40",
+    "Moves": "g8h8 h6f6",
+    "Rating": "822",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "736",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/IfZdMG4Y/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dc6rg",
+    "FEN": "r1bqr1k1/5pp1/p1n4p/1pbp3N/2p2Pn1/P1NP3P/BPP3P1/R1BQ1R1K w - - 6 16",
+    "Moves": "h3g4 d8h4",
+    "Rating": "807",
+    "RatingDeviation": "89",
+    "Popularity": "92",
+    "NbPlays": "79",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/CPtqU2Bw#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  }
+]

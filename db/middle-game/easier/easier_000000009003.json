@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "RIwNL",
+    "FEN": "rn3rk1/5ppp/p1q5/2pN4/2Qp4/P2P2P1/4PP1P/1R3RK1 b - - 0 22",
+    "Moves": "b8d7 d5e7 g8h8 e7c6",
+    "Rating": "1007",
+    "RatingDeviation": "143",
+    "Popularity": "75",
+    "NbPlays": "13",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/ZFAcijKo/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RIwR2",
+    "FEN": "2rr2k1/pbNRnppp/1pn1p3/4P3/2B5/5N2/PP3PPP/3R2K1 b - - 0 18",
+    "Moves": "c8c7 d7d8 c6d8 d1d8",
+    "Rating": "1042",
+    "RatingDeviation": "80",
+    "Popularity": "84",
+    "NbPlays": "72",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Ao0IZm3d/black#36",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Two_Pawn_Attack"
+  },
+  {
+    "PuzzleId": "RIxHl",
+    "FEN": "2r2k2/5pp1/p3p3/1prpP3/5P2/4q1P1/P1B2RP1/RQ4K1 w - - 0 27",
+    "Moves": "c2b3 c5c1 b1c1 c8c1 a1c1 e3c1",
+    "Rating": "1128",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "368",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/cS4fJGlF#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RIxZo",
+    "FEN": "rnb2rk1/ppp2ppp/8/3p4/2qP4/4BN2/P2Q1PPP/R3R1K1 b - - 3 14",
+    "Moves": "c8g4 f3e5 c4a4 e5g4",
+    "Rating": "1035",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1725",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/XPPu2fID/black#28",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Busch-Gass_Gambit"
+  },
+  {
+    "PuzzleId": "RIyBF",
+    "FEN": "5rk1/1p4pp/2p3p1/b2p4/3Pn1P1/n1N1P2P/R4P2/B3K1R1 b - - 1 25",
+    "Moves": "e4c3 a2a3",
+    "Rating": "1091",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "376",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/O8SCkK73/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RIzs9",
+    "FEN": "r1q3k1/3n2p1/3p3p/3P4/1p3NP1/2B4P/1PQ5/1K5R w - - 0 32",
+    "Moves": "c3b4 a8a1 b1a1 c8c2",
+    "Rating": "1188",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2218",
+    "Themes": "advantage deflection middlegame short",
+    "GameUrl": "https://lichess.org/noKoUmkY#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RJ098",
+    "FEN": "r3k2r/pb1nbppp/4p3/2pqN3/Q2P2P1/5P2/PP5P/RNB2RK1 w kq - 2 14",
+    "Moves": "b1c3 d5d4 a4d4 c5d4",
+    "Rating": "1104",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "301",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/THh8qIPk#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "RJ15S",
+    "FEN": "4r1rk/pp4pp/3qb3/3pN3/2pP1PpQ/2P1P3/PP5P/R5RK b - - 1 24",
+    "Moves": "d6f8 e5g6",
+    "Rating": "1069",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "641",
+    "Themes": "mate mateIn1 middlegame oneMove pin smotheredMate",
+    "GameUrl": "https://lichess.org/tiTXapbS/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RJ2Gt",
+    "FEN": "1r1qk2r/pb1pbpp1/7p/1p2P3/1P6/P2B1N2/4KPPP/R2Q3R w k - 0 19",
+    "Moves": "d3b5 b7f3 e2f3 b8b5",
+    "Rating": "1154",
+    "RatingDeviation": "88",
+    "Popularity": "65",
+    "NbPlays": "50",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/KqnQvZRY#37",
+    "OpeningTags": "Trompowsky_Attack Trompowsky_Attack_Classical_Defense"
+  }
+]

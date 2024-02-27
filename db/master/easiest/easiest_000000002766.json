@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "aqjXg",
+    "FEN": "2r2qk1/3b1ppp/1p1p4/2pP4/p3Q1PP/P1PB4/1P2RP2/6K1 b - - 1 25",
+    "Moves": "b6b5 e4h7",
+    "Rating": "829",
+    "RatingDeviation": "142",
+    "Popularity": "89",
+    "NbPlays": "47",
+    "Themes": "endgame kingsideAttack master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/A5xztIzm/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aqkrZ",
+    "FEN": "3Q3k/p3b1pp/1p2P1q1/5R2/1P5P/P5P1/1Br5/6K1 b - - 2 33",
+    "Moves": "e7d8 f5f8",
+    "Rating": "937",
+    "RatingDeviation": "143",
+    "Popularity": "67",
+    "NbPlays": "13",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/XzcAAlEO/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aqleX",
+    "FEN": "8/5p2/5r1k/p5Rp/P6P/3B2P1/6K1/4b3 w - - 1 52",
+    "Moves": "d3e2 f6f2 g2g1 f2e2",
+    "Rating": "822",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "156",
+    "Themes": "crushing endgame fork master short",
+    "GameUrl": "https://lichess.org/l7vJTmKb#103",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aqsjK",
+    "FEN": "rn3rk1/p3bppp/2p1bp2/q7/1p1P1B1P/P4N2/1PPQ1PP1/2KR1B1R w - - 0 13",
+    "Moves": "a3b4 a5a1",
+    "Rating": "630",
+    "RatingDeviation": "80",
+    "Popularity": "100",
+    "NbPlays": "237",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/HTJhHdNN#25",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+  },
+  {
+    "PuzzleId": "aqu8K",
+    "FEN": "8/1r6/6p1/2k2Pp1/2p5/5K1P/8/4R3 b - - 0 64",
+    "Moves": "c5b4 e1b1 b4a3 b1b7",
+    "Rating": "878",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "657",
+    "Themes": "crushing endgame master rookEndgame short skewer",
+    "GameUrl": "https://lichess.org/hgNQ1g9E/black#128",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aquig",
+    "FEN": "r5nr/2b1kppp/ppn1p3/4P3/5P2/2N5/PPK1BP1P/R1B4R w - - 0 16",
+    "Moves": "e2f3 c6d4 c2b1 d4f3",
+    "Rating": "799",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "739",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/eghujWKB#31",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "aqv5r",
+    "FEN": "7k/1R6/6p1/p1pB4/2Pn4/KP6/P3r3/8 w - - 5 48",
+    "Moves": "a3a4 e2a2",
+    "Rating": "774",
+    "RatingDeviation": "79",
+    "Popularity": "98",
+    "NbPlays": "414",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/T2f5bgbc#95",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ar88X",
+    "FEN": "r1b1k2r/ppp1q1pB/2np4/6p1/4P3/1QP2N2/P4PPP/R3K2R b KQkq - 0 11",
+    "Moves": "h8h7 b3g8 e8d7 g8h7",
+    "Rating": "983",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1378",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/KrBXB0ek/black#22",
+    "OpeningTags": "Scotch_Game Scotch_Game_Goring_Gambit"
+  },
+  {
+    "PuzzleId": "arCEq",
+    "FEN": "R7/4ppk1/p3r1p1/R2p4/1P1P4/2Pn4/1P3P2/5K2 w - - 3 27",
+    "Moves": "a5d5 e6e1 f1g2 d3f4 g2f3 f4d5",
+    "Rating": "916",
+    "RatingDeviation": "76",
+    "Popularity": "63",
+    "NbPlays": "77",
+    "Themes": "advantage endgame fork long master",
+    "GameUrl": "https://lichess.org/vcHD1ypO#53",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "v68PZ",
+    "FEN": "rn2r1k1/p2b3p/2p2p2/6p1/p1PN4/P5BP/1P2BPP1/4R1K1 b - - 0 23",
+    "Moves": "d7e6 e2h5 e6f7 e1e8 f7e8 h5e8",
+    "Rating": "1879",
+    "RatingDeviation": "82",
+    "Popularity": "90",
+    "NbPlays": "67",
+    "Themes": "crushing discoveredAttack kingsideAttack long middlegame xRayAttack",
+    "GameUrl": "https://lichess.org/zl22MPSV/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "v6A9A",
+    "FEN": "3q2kr/N1r2p1p/pQ3bp1/5n2/3p4/8/PP3PPP/R1B1R1K1 w - - 6 23",
+    "Moves": "a7c6 d8d6 e1e8 g8g7 e8h8 g7h8",
+    "Rating": "1948",
+    "RatingDeviation": "75",
+    "Popularity": "79",
+    "NbPlays": "492",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/UhNfDHY8#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "v6AKi",
+    "FEN": "r1b2rk1/3p1pp1/p1p1pb1p/8/3P2Q1/2PB3R/q4PPP/1N4K1 b - - 1 17",
+    "Moves": "g8h8 h3h6 g7h6 g4e4 a2f2 g1f2",
+    "Rating": "1957",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "2754",
+    "Themes": "crushing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/3CnXGVtg/black#34",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "v6BC4",
+    "FEN": "r3kr2/ppp2p1Q/3p4/5bq1/8/5P2/PPP1PP1P/1K1R1B1R w q - 4 15",
+    "Moves": "h2h4 g5f6 h7h5 f8h8 h5h8 f6h8",
+    "Rating": "1956",
+    "RatingDeviation": "73",
+    "Popularity": "93",
+    "NbPlays": "5857",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/5o3bnVNo#29",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Englund_Gambit"
+  },
+  {
+    "PuzzleId": "v6BJc",
+    "FEN": "r1bq1rk1/pppp1p2/2n5/4p1p1/1bB1P1QP/2NP2P1/PPP3P1/R3K2R b KQ - 0 12",
+    "Moves": "d7d6 g4h5 d8f6 h4g5 b4c3 b2c3",
+    "Rating": "1960",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "53",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/Us9fwwdH/black#24",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "v6De2",
+    "FEN": "5rk1/pp3ppp/1q2p3/n2p4/2rP1PP1/b2Q3P/1PPBN3/2KR3R w - - 0 21",
+    "Moves": "d2a5 a3b2 c1d2 b6a5",
+    "Rating": "1927",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "83",
+    "Themes": "advantage intermezzo middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/RlaOtQBE#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "v6DjP",
+    "FEN": "6k1/1b2bp2/2p1p1pp/1pP1B3/1P1PQ2P/3BR1P1/5PK1/q5r1 w - - 1 34",
+    "Moves": "g2f3 f7f5 e4f4 g6g5",
+    "Rating": "1964",
+    "RatingDeviation": "110",
+    "Popularity": "84",
+    "NbPlays": "27",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/0u3bfrl6#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "v6Fki",
+    "FEN": "r1b1r1k1/1p6/p3p1B1/2q4n/8/7Q/Pp3P2/4RK1R b - - 0 28",
+    "Moves": "e6e5 h3h5 c5c4 e1e2",
+    "Rating": "1932",
+    "RatingDeviation": "139",
+    "Popularity": "33",
+    "NbPlays": "13",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/VE0EeTjP/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "v6Foq",
+    "FEN": "r1b1k2r/p1p2pp1/2p4p/1pq5/2N1P1n1/3P1Q2/PPP2PPP/RN3RK1 w kq - 0 12",
+    "Moves": "c4a3 c5e5 f3g3 e5b2",
+    "Rating": "1975",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "2166",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/VxGl7Gvt#23",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  }
+]

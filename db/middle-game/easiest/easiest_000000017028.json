@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ogvny",
+    "FEN": "r4rk1/1b3pb1/p3pnpp/3q4/2pP4/2P2N2/P1BN1PPP/1R1QR1K1 w - - 0 17",
+    "Moves": "f3e5 d5g2",
+    "Rating": "725",
+    "RatingDeviation": "82",
+    "Popularity": "86",
+    "NbPlays": "171",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/6fwxphM2#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Hyperaccelerated_Dragon"
+  },
+  {
+    "PuzzleId": "ogw1H",
+    "FEN": "2b2r1k/p1Nn2pp/8/1pbQp3/8/6P1/PPP3PP/R4q1K w - - 0 23",
+    "Moves": "a1f1 f8f1",
+    "Rating": "625",
+    "RatingDeviation": "96",
+    "Popularity": "76",
+    "NbPlays": "198",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/F2fr7rcX#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ogzEv",
+    "FEN": "5rk1/1Qp2ppp/8/8/8/P1N2r1q/1P2RPRn/7K w - - 0 26",
+    "Moves": "g2h2 h3f1",
+    "Rating": "978",
+    "RatingDeviation": "87",
+    "Popularity": "85",
+    "NbPlays": "69",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/GNFd6tpa#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oh0Hx",
+    "FEN": "2r5/k2b1p1r/q1p1pP2/P5pp/P3B3/2Q5/6PP/1R3R1K w - - 1 33",
+    "Moves": "b1b6 a6f1",
+    "Rating": "925",
+    "RatingDeviation": "80",
+    "Popularity": "95",
+    "NbPlays": "258",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/xd4kUzWK#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oh1bW",
+    "FEN": "r2q1rk1/ppp2ppp/2n5/3pP1N1/1b1P1Bb1/2NQ4/PPP3PP/R4RK1 b - - 1 12",
+    "Moves": "h7h6 d3h7",
+    "Rating": "600",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "124",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/FAcuANiE/black#24",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "oh2I8",
+    "FEN": "2b2r2/1P3rk1/8/p1NpP1Pp/P4P1b/2P5/6K1/R4R2 b - - 0 35",
+    "Moves": "c8b7 c5e6 g7h8 e6f8",
+    "Rating": "883",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "163",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/bYC3Y88D/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oh2Uf",
+    "FEN": "5k2/2p2rb1/p2p4/1p1npqB1/1P5Q/P1P4R/5PPP/3R2K1 w - - 2 32",
+    "Moves": "d1d5 f5b1 g5c1 b1c1 d5d1 c1d1",
+    "Rating": "852",
+    "RatingDeviation": "86",
+    "Popularity": "93",
+    "NbPlays": "887",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/ItjzEch8#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oh3Eb",
+    "FEN": "rr4k1/pRp2ppp/2pq4/3p1B2/8/P3B1N1/2P3PP/1R4K1 b - - 6 22",
+    "Moves": "g7g6 b7b8 a8b8 b1b8",
+    "Rating": "925",
+    "RatingDeviation": "121",
+    "Popularity": "70",
+    "NbPlays": "19",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/llItqHys/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oh3hI",
+    "FEN": "r5k1/2p3pp/ppn1b1q1/3p4/4p1P1/B1N4P/PPP2Q2/5RK1 b - - 1 23",
+    "Moves": "d5d4 f2f8 a8f8 f1f8",
+    "Rating": "688",
+    "RatingDeviation": "99",
+    "Popularity": "91",
+    "NbPlays": "998",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/6QbBPEll/black#46",
+    "OpeningTags": ""
+  }
+]

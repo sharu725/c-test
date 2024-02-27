@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "TXFZT",
+    "FEN": "r4r1k/1p2bppP/p2q4/3N4/1n3P2/4B3/PPQ3P1/1K1R3R w - - 3 21",
+    "Moves": "c2b3 d6g6 b1a1 b4c2 b3c2 g6c2",
+    "Rating": "1462",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "1029",
+    "Themes": "advantage long middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/6sPkgttf#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TXG2S",
+    "FEN": "r5kr/ppp1q1p1/1bn1N1Q1/1N1p3p/5P2/2P5/PP3PPP/R4RK1 w - - 1 17",
+    "Moves": "f1e1 h8h6 g6g7 e7g7 e6g7 g8g7",
+    "Rating": "1554",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "9058",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/Ea5c8SJ0#33",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "TXG8n",
+    "FEN": "7Q/p1ppkppp/1p6/8/2B3n1/2N5/PPP2qPP/R3K2R w - - 5 17",
+    "Moves": "e1d1 g4e3 d1c1 f2c2",
+    "Rating": "1413",
+    "RatingDeviation": "110",
+    "Popularity": "78",
+    "NbPlays": "27",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/mDeO2jHJ#33",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "TXGWt",
+    "FEN": "1r5r/3k1p2/4p2p/1RBp4/2nP2Pb/5P1B/4P3/5KR1 w - - 3 38",
+    "Moves": "b5b8 c4e3",
+    "Rating": "1451",
+    "RatingDeviation": "121",
+    "Popularity": "86",
+    "NbPlays": "160",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/5yLBRtHO#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TXGpK",
+    "FEN": "r2q1rk1/1p3ppp/2nb1n2/pB1pp2b/6P1/P1N1PN1P/1PP2P2/R1BQ1RK1 b - - 0 13",
+    "Moves": "f6g4 h3g4 h5g4 d1d5",
+    "Rating": "1465",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality master middlegame short",
+    "GameUrl": "https://lichess.org/PcZAY8nY/black#26",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TXGqQ",
+    "FEN": "r2q1rk1/1b1n1pp1/2p2b1B/p3N3/PpPPp3/1P4Q1/5PPP/RN2R1K1 w - - 1 18",
+    "Moves": "e1e4 d7e5",
+    "Rating": "1591",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "1344",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/6c9UpDmx#35",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "TXHSR",
+    "FEN": "N2k3r/pp1q1ppp/4pn2/8/3n1Qb1/P7/2P2PPP/R3KBNR w KQ - 0 16",
+    "Moves": "a1c1 d4c2 c1c2 d7d1",
+    "Rating": "1569",
+    "RatingDeviation": "85",
+    "Popularity": "55",
+    "NbPlays": "45",
+    "Themes": "clearance mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/vTkNCeDj#31",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "TXJYe",
+    "FEN": "r3k2r/1b1p1ppp/p3p3/q2nP3/1b1Q1P2/2N1B3/PP2N1PP/R4RK1 w kq - 1 14",
+    "Moves": "e3d2 b4c5 c3e4 c5d4",
+    "Rating": "1572",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "14955",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/WH25c711#27",
+    "OpeningTags": "French_Defense French_Defense_Franco-Sicilian_Defense"
+  },
+  {
+    "PuzzleId": "TXK4Z",
+    "FEN": "r2q1rk1/1pp1bpp1/p1p1b2p/4Bn2/2PP4/2N2N2/PPQ2PPP/R3R1K1 b - - 0 15",
+    "Moves": "d8d7 d4d5 c6d5 c4d5 e6d5 c3d5",
+    "Rating": "1485",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "636",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/dGbaOMWY/black#30",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  }
+]

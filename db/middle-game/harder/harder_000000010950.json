@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "X7Lba",
+    "FEN": "rn3rk1/1bq2pbp/2p1pBp1/pp1pPnQ1/3P4/PBN2N2/1PP2PPP/R3K2R w KQ - 5 13",
+    "Moves": "g2g4 g7h6 g4f5 h6g5",
+    "Rating": "1897",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "581",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/45VpAXeJ#25",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "X7N3t",
+    "FEN": "r4r1k/pp3pp1/4p3/2p5/2RbB3/5PBq/PPQ2P2/3R2K1 w - - 0 23",
+    "Moves": "e4b7 h3g3 g1f1 g3h3 f1e2 a8b8",
+    "Rating": "1962",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1111",
+    "Themes": "advantage kingsideAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/F09BoY1h#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "X7OXu",
+    "FEN": "r6k/p1qpb1pB/1p6/n7/3PQP2/2P4r/PP5P/R4RK1 b - - 0 20",
+    "Moves": "a8e8 h7g6 e8g8 e4e7",
+    "Rating": "1980",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "713",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/tBNM8M8B/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "X7Rh4",
+    "FEN": "r3k1nr/5pq1/pp2p2p/2p3p1/P1B1R1Q1/3P4/1PP3P1/5R1K b kq - 0 19",
+    "Moves": "g8f6 e4e6 f7e6 g4e6 g7e7 e6c6",
+    "Rating": "1921",
+    "RatingDeviation": "78",
+    "Popularity": "74",
+    "NbPlays": "74",
+    "Themes": "crushing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/TQLg6Mfm/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "X7Sap",
+    "FEN": "2r1r1k1/5ppp/1Qp2q2/3p4/1P6/P5P1/3RbPBP/2R3K1 w - - 0 26",
+    "Moves": "g2d5 c6d5 b6f6 c8c1",
+    "Rating": "1805",
+    "RatingDeviation": "86",
+    "Popularity": "75",
+    "NbPlays": "59",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/6VGDjtWm#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "X7TBZ",
+    "FEN": "2kr3r/2p2pb1/2nq2p1/1p2p2p/1P1P1N1P/2B1PQP1/2P2P2/R3K2R w KQ - 0 19",
+    "Moves": "d4d5 e5e4 c3g7 e4f3",
+    "Rating": "1896",
+    "RatingDeviation": "78",
+    "Popularity": "84",
+    "NbPlays": "52",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/cnUxRykC#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "X7VMH",
+    "FEN": "r1b1r1k1/p4p2/7p/2p3p1/1pP1N1n1/1B4BP/Pq4P1/3RQ2K b - - 0 24",
+    "Moves": "e8e4 e1e4 c8b7 e4b7",
+    "Rating": "1863",
+    "RatingDeviation": "140",
+    "Popularity": "38",
+    "NbPlays": "9",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/5dEoMQDT/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "X7VlF",
+    "FEN": "2r1k2r/p2p2p1/bppQ1p1p/4n2q/4P1n1/1B4BN/PPP1N1PP/R4K1R w k - 2 17",
+    "Moves": "a1d1 g4e3 f1g1 h5e2",
+    "Rating": "1897",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "2243",
+    "Themes": "crushing deflection discoveredAttack fork middlegame short",
+    "GameUrl": "https://lichess.org/BsxfJurR#33",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "X7XQn",
+    "FEN": "rn3rk1/pppb1pQp/1q4p1/3n4/3N4/P1BB4/1PP2PPP/R3K2R b KQ - 3 14",
+    "Moves": "g8g7 d4f5 g7g8 f5h6",
+    "Rating": "1917",
+    "RatingDeviation": "129",
+    "Popularity": "39",
+    "NbPlays": "18",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ubBr3EVK/black#28",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Anderssen_Counterattack"
+  }
+]

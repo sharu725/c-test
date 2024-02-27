@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "p04vk",
+    "FEN": "r1bq2kr/ppp3pp/1b1p4/6N1/2QnPP2/8/PP4PP/RNB1K2R b KQ - 1 12",
+    "Moves": "g8f8 c4f7",
+    "Rating": "888",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "2006",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/g9VmP85I/black#24",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Queens_Knight_Defense"
+  },
+  {
+    "PuzzleId": "p06Vy",
+    "FEN": "2kr3r/pp1n4/2p1pn1p/3p2p1/3PP3/1PRB2B1/P4PPP/5RK1 b - - 0 19",
+    "Moves": "f6e4 c3c6 b7c6 d3a6",
+    "Rating": "973",
+    "RatingDeviation": "87",
+    "Popularity": "85",
+    "NbPlays": "1877",
+    "Themes": "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/YRN4o94C/black#38",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "p08jh",
+    "FEN": "3r1r1k/p5pp/q7/3Bp3/P1PnP3/3K2R1/8/R2Q4 b - - 0 29",
+    "Moves": "f8f3 g3f3 d4f3 d1f3",
+    "Rating": "862",
+    "RatingDeviation": "99",
+    "Popularity": "85",
+    "NbPlays": "29",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/OgP4dsql/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "p0AID",
+    "FEN": "rnbqk1nr/pp1p3p/5pp1/2p1B3/4P2P/2QP4/P1PN1PP1/4KBNR b Kkq - 0 8",
+    "Moves": "f6e5 c3e5 e8f8 e5h8",
+    "Rating": "875",
+    "RatingDeviation": "78",
+    "Popularity": "82",
+    "NbPlays": "264",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/AEiRlMrw/black#16",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "p0CCJ",
+    "FEN": "r5k1/ppp1r1pp/1b1p4/5b2/5P2/2PB1R2/PP4PP/R1B4K w - - 0 19",
+    "Moves": "d3f5 e7e1 f3f1 e1f1",
+    "Rating": "605",
+    "RatingDeviation": "93",
+    "Popularity": "92",
+    "NbPlays": "712",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/UK3LOgAS#37",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "p0CM1",
+    "FEN": "1k1r1r2/p1p3b1/2p2q2/8/3NR1Q1/2P5/PP3PPP/R5K1 w - - 1 19",
+    "Moves": "d4e6 f6f2 g1h1 f2f1 a1f1 f8f1",
+    "Rating": "958",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "687",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/1coR0chR#37",
+    "OpeningTags": "Duras_Gambit Duras_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "p0DFC",
+    "FEN": "r1b3r1/pp1nqnk1/2p1p2p/3p2pQ/2PP2P1/1P1BP1bP/PB1N2P1/R4RK1 w - - 1 18",
+    "Moves": "f1f7 e7f7 h5f7 g7f7",
+    "Rating": "705",
+    "RatingDeviation": "85",
+    "Popularity": "100",
+    "NbPlays": "60",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/Bj2m4pbb#35",
+    "OpeningTags": "Slav_Defense Slav_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "p0Fcr",
+    "FEN": "1r4k1/4pp2/2p3p1/2PP3p/1B1b4/P5Pq/R1Q4P/4Rr1K w - - 1 36",
+    "Moves": "e1f1 h3f1",
+    "Rating": "688",
+    "RatingDeviation": "95",
+    "Popularity": "94",
+    "NbPlays": "831",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/zMjoNkom#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "p0Hy4",
+    "FEN": "3rr1k1/p3qp1b/1p4pP/2pQR1N1/8/2N5/PPP5/2K3R1 b - - 0 26",
+    "Moves": "e7e5 d5f7 g8h8 f7h7",
+    "Rating": "961",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "670",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/74oxiDTL/black#52",
+    "OpeningTags": ""
+  }
+]

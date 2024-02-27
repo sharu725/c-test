@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "lKGME",
+    "FEN": "r2q1rk1/3bbpp1/p3pn1p/3p4/p2P2N1/2PQPNP1/2B2PP1/R3K2R b KQ - 1 18",
+    "Moves": "d7b5 g4f6 e7f6 d3h7",
+    "Rating": "1310",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "643",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AQTeVao3/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "lKLCD",
+    "FEN": "5r1k/6pp/p3R3/1p1Q4/2P2r2/P5N1/1Pq3PP/3R2K1 w - - 4 30",
+    "Moves": "e6a6 c2f2 g1h1 f2f1 g3f1 f4f1 d1f1 f8f1",
+    "Rating": "1307",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1749",
+    "Themes": "backRankMate mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/lOGLHfbs#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lKNPZ",
+    "FEN": "3r1rk1/2R3p1/bp2p2p/p3Pp2/3K1P2/PqRP2PP/1P3QB1/8 w - - 1 31",
+    "Moves": "d4e3 d8d3 c3d3 b3d3",
+    "Rating": "1374",
+    "RatingDeviation": "77",
+    "Popularity": "57",
+    "NbPlays": "170",
+    "Themes": "mate mateIn2 middlegame short xRayAttack",
+    "GameUrl": "https://lichess.org/z4Wdye87#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lKOxV",
+    "FEN": "rr4k1/3b1p2/4pq1p/3p4/p7/P1PBQ1P1/1P3P2/1K1R3R b - - 0 24",
+    "Moves": "f6c3 d3h7 g8f8 e3c3",
+    "Rating": "1399",
+    "RatingDeviation": "76",
+    "Popularity": "81",
+    "NbPlays": "120",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/zAKk1wNz/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lKQir",
+    "FEN": "r3r3/1p3pkp/3p1np1/p2P1q2/2P1p2P/1PN1QP2/P4P2/R3K2R w KQ - 0 20",
+    "Moves": "c3b5 e4f3 e1c1 e8e3",
+    "Rating": "1263",
+    "RatingDeviation": "98",
+    "Popularity": "-33",
+    "NbPlays": "82",
+    "Themes": "crushing discoveredAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/ajllfyuc#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lKRKK",
+    "FEN": "rn3rk1/5ppp/1qp2b2/4p3/B3P3/P2P1b2/1P1N1PPP/1R1QK2R w K - 0 18",
+    "Moves": "d2f3 b6a5 e1e2 a5a4 d1a4 a8a4",
+    "Rating": "1230",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1652",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/ccemhd7o#35",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "lKRny",
+    "FEN": "5r1r/4k3/p1p1p2p/2qnP1pQ/P1N2p2/6P1/1P3P1P/1R1R2K1 w - - 1 24",
+    "Moves": "b1c1 f4g3 h2g3 c5f2",
+    "Rating": "1376",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1414",
+    "Themes": "crushing kingsideAttack master middlegame pin short",
+    "GameUrl": "https://lichess.org/wvRtQHox#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lKSyK",
+    "FEN": "3r1rk1/7p/p1nq2pP/1p1p2Q1/6P1/2P2B2/PP6/1K3R1R w - - 4 32",
+    "Moves": "f3d5 d6d5 f1f8 g8f8",
+    "Rating": "1383",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2978",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/778G4lLI#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lKT99",
+    "FEN": "1r2kb1r/p1q2p1p/2p3p1/3p1b2/2QP4/6P1/PP2PPBP/R1B1K2R w KQk - 0 15",
+    "Moves": "g2d5 c7a5 c1d2 a5d5 c4d5 c6d5",
+    "Rating": "1381",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1948",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/b9GpYqtN#29",
+    "OpeningTags": "Slav_Defense Slav_Defense_Modern_Line"
+  }
+]

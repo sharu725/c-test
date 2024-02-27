@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Ah3SL",
+    "FEN": "8/8/8/5K1k/5pr1/5R2/8/8 b - - 1 63",
+    "Moves": "g4g8 f3h3",
+    "Rating": "1068",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "420",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/FVjPTcaU/black#126",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ah4Yq",
+    "FEN": "r3qrk1/ppp2ppp/1n1b4/8/6P1/P1BQ4/1PP1NPP1/R3K2R b KQ - 0 16",
+    "Moves": "a8d8 d3h7",
+    "Rating": "1092",
+    "RatingDeviation": "78",
+    "Popularity": "78",
+    "NbPlays": "83",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/CAMsalZ6/black#32",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "Ah6xM",
+    "FEN": "r1b2rk1/p4qp1/1p2p1N1/3p3Q/3PnP2/2P1P1R1/P5PP/R5K1 b - - 0 27",
+    "Moves": "f7f6 h5h8 g8f7 h8f8",
+    "Rating": "1024",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "423",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/IGIlAsmH/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ah852",
+    "FEN": "4k3/1p6/p6Q/3pqP2/4b3/8/PP3R2/5RK1 w - - 8 44",
+    "Moves": "f5f6 e5g3 f2g2 g3g2",
+    "Rating": "1100",
+    "RatingDeviation": "86",
+    "Popularity": "86",
+    "NbPlays": "28",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/ldYdPFEE#87",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AhBxN",
+    "FEN": "1r3r1k/5p2/2pq3p/p2p3R/3P4/p1P4R/1PQ2PPP/6K1 b - - 5 26",
+    "Moves": "a3b2 h5h6 d6h6 h3h6 h8g7 c2h7",
+    "Rating": "1043",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "421",
+    "Themes": "endgame exposedKing fork long mate mateIn3",
+    "GameUrl": "https://lichess.org/PFY8RdEv/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AhDNw",
+    "FEN": "4rk2/p5RR/8/2P3pp/8/P4PP1/4r3/6K1 w - - 6 39",
+    "Moves": "g7a7 e2e1 g1g2 e8e2 g2h3 e1h1",
+    "Rating": "1129",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "789",
+    "Themes": "endgame exposedKing long mate mateIn3 rookEndgame",
+    "GameUrl": "https://lichess.org/8hB2zTb7#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AhM9S",
+    "FEN": "8/6kp/p2bB1p1/1p1p4/3P4/3Q3P/PP3qP1/7K w - - 1 39",
+    "Moves": "e6d5 f2e1 d3f1 e1f1",
+    "Rating": "1165",
+    "RatingDeviation": "118",
+    "Popularity": "67",
+    "NbPlays": "13",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/EGHPFQv5#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AhNLz",
+    "FEN": "r1r4k/4b1p1/1q1p2P1/3Ppb2/1p6/pP3P2/P1P4Q/1KNR1B2 b - - 1 25",
+    "Moves": "h8g8 h2h7 g8f8 h7h8",
+    "Rating": "1050",
+    "RatingDeviation": "93",
+    "Popularity": "71",
+    "NbPlays": "21",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/sz5uqgFa/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AhPQv",
+    "FEN": "r2r3k/5Qpp/p1Nq1b2/8/P7/2B5/1P3PPP/R5K1 w - - 3 25",
+    "Moves": "c3f6 d6d1 a1d1 d8d1",
+    "Rating": "1145",
+    "RatingDeviation": "82",
+    "Popularity": "54",
+    "NbPlays": "115",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/HEnwM1dp#49",
+    "OpeningTags": ""
+  }
+]

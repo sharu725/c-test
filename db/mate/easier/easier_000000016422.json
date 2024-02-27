@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "zooVC",
+    "FEN": "8/R6k/4pp1p/8/1r3PPP/5K2/8/8 b - - 1 31",
+    "Moves": "h7g6 h4h5",
+    "Rating": "1167",
+    "RatingDeviation": "152",
+    "Popularity": "88",
+    "NbPlays": "32",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/Cjay3Yfb/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zooq0",
+    "FEN": "3r1k2/p1q3b1/1pB3p1/2p2pNp/5P2/1QPP2PP/PP2r3/R5K1 b - - 2 26",
+    "Moves": "c7e7 g5h7",
+    "Rating": "1152",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "945",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/uIWCmkMl/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zoqjA",
+    "FEN": "r2qrn1k/1b3Q1B/ppp5/3pN3/3P1P2/2N1P1bP/PP4P1/R5K1 b - - 0 21",
+    "Moves": "e8e5 f7g8",
+    "Rating": "1133",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "436",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/qLO5fa1p/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zosoe",
+    "FEN": "7k/pR5P/3pNp2/4p3/2r5/P2nP3/6r1/K6R b - - 0 39",
+    "Moves": "c4c2 b7b8 c2c8 b8c8 g2g8 h7g8q",
+    "Rating": "1053",
+    "RatingDeviation": "83",
+    "Popularity": "88",
+    "NbPlays": "104",
+    "Themes": "advancedPawn doubleCheck endgame exposedKing long mate mateIn3 promotion",
+    "GameUrl": "https://lichess.org/IfejwP9Y/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zotPu",
+    "FEN": "1r2R3/5pkp/p5p1/8/2p2q2/P1P1R2P/1r3PP1/2Q3K1 w - - 3 38",
+    "Moves": "e8b8 f4f2 g1h2 f2g2",
+    "Rating": "1111",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "964",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/7PavelFV#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zoxZm",
+    "FEN": "r5k1/2p4p/1p1q2pQ/p2pRbN1/8/2P5/PP3PPP/6K1 b - - 2 23",
+    "Moves": "d6e5 h6h7 g8f8 h7f7",
+    "Rating": "1036",
+    "RatingDeviation": "81",
+    "Popularity": "100",
+    "NbPlays": "47",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/HTH6gHS8/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zoyIR",
+    "FEN": "r2q3r/p1p1k1pp/3b1P2/3Qp3/4n2P/2P1Pb2/PP1P1P2/RNB1K1R1 b Q - 0 13",
+    "Moves": "g7f6 g1g7 e7f8 d5f7",
+    "Rating": "1019",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1282",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/mlpoE3ik/black#26",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "zoyvR",
+    "FEN": "r1b2rk1/pp3ppp/2n3q1/2p5/3pNnB1/P2P3P/1PP2PPN/R2Q1RK1 w - - 6 15",
+    "Moves": "g4c8 g6g2",
+    "Rating": "1184",
+    "RatingDeviation": "105",
+    "Popularity": "-38",
+    "NbPlays": "38",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/K70DpkqW#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "zp1uZ",
+    "FEN": "r2q1r1k/pp1bb2n/6Q1/2p1p3/2B1P3/2NP3P/PPP3P1/R4RK1 b - - 2 16",
+    "Moves": "d7e8 f1f8 e7f8 g6g8",
+    "Rating": "1116",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "856",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/NV9V4pI0/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  }
+]

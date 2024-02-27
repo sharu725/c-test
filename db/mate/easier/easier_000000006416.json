@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "OEe2B",
+    "FEN": "r3kb1r/1p3pp1/p1n4p/2p4n/P1Np4/2PP1qBP/BP1Q1P2/R3K1R1 b Qkq - 1 17",
+    "Moves": "e8c8 c4b6",
+    "Rating": "1082",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "260",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/8pcosH16/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "OEhiu",
+    "FEN": "r6k/pp3p1p/4b1pP/4PpQ1/1Kp1N3/P7/1Pr1q3/8 b - - 1 31",
+    "Moves": "e2e4 g5f6 h8g8 f6g7",
+    "Rating": "1047",
+    "RatingDeviation": "203",
+    "Popularity": "67",
+    "NbPlays": "11",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/J7fVHEXI/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OEiAI",
+    "FEN": "6k1/2p2pp1/6qp/8/Q2b4/2K1P2P/PrP2PP1/1R5R w - - 0 23",
+    "Moves": "a4d4 g6c2",
+    "Rating": "1124",
+    "RatingDeviation": "77",
+    "Popularity": "99",
+    "NbPlays": "6232",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/sBLDSo3f#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OEiOf",
+    "FEN": "r1b1k1nr/ppp2ppp/2p5/2b1N3/3qP3/8/PPPP1PPP/RNBQK2R w KQkq - 1 6",
+    "Moves": "e5f3 d4f2",
+    "Rating": "1010",
+    "RatingDeviation": "86",
+    "Popularity": "93",
+    "NbPlays": "317",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/QonHrrri#11",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OEjVJ",
+    "FEN": "5rk1/p2R2pp/8/3pP3/5PQ1/4p2P/2q3P1/7K b - - 1 28",
+    "Moves": "e3e2 g4g7",
+    "Rating": "1112",
+    "RatingDeviation": "84",
+    "Popularity": "87",
+    "NbPlays": "47",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/XFu6gqKI/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OEpYg",
+    "FEN": "3rk3/p1R2p2/1p2pBp1/3b3p/1P6/6RP/q4PP1/6K1 b - - 7 31",
+    "Moves": "d8d7 c7c8 d7d8 c8d8",
+    "Rating": "1080",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "130",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/xFMah349/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OEta5",
+    "FEN": "r3k2r/p1pn1pp1/1p1pp3/4P2p/3P1Pnq/2PB1R2/PP1BN3/R2Q2K1 w kq - 0 17",
+    "Moves": "f3g3 h4h2 g1f1 h2f2",
+    "Rating": "1085",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "1291",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/F1zUGxq1#33",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "OEwbk",
+    "FEN": "r1bk1r2/5R2/p4bQ1/3ppP2/1p6/8/PPnBp1PP/1R3q1K w - - 4 30",
+    "Moves": "b1f1 e2f1q",
+    "Rating": "1140",
+    "RatingDeviation": "174",
+    "Popularity": "38",
+    "NbPlays": "10",
+    "Themes": "advancedPawn kingsideAttack mate mateIn1 middlegame oneMove promotion",
+    "GameUrl": "https://lichess.org/JTcAhBxj#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OEyvD",
+    "FEN": "5r1k/5q1p/1p1Q4/p3R3/8/2P5/PP4PP/R5K1 w - - 1 28",
+    "Moves": "e5e7 f7f2 g1h1 f2f1 a1f1 f8f1",
+    "Rating": "1162",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "899",
+    "Themes": "backRankMate endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/IlIgt8pL#55",
+    "OpeningTags": ""
+  }
+]

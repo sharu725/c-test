@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SvPo5",
+    "FEN": "5rk1/p1n2ppp/2q1p3/2P5/1P1b4/P1NP2PN/7P/2RQR1K1 w - - 5 28",
+    "Moves": "g1f1 c6h1 f1e2 h1g2 h3f2 g2f2",
+    "Rating": "1822",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "5948",
+    "Themes": "exposedKing fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/GaBejfXf#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SvQE8",
+    "FEN": "r2q1rk1/1pp1bppp/p3pn2/3b2B1/P2P4/2P1QNP1/4PPBP/R4RK1 w - - 3 16",
+    "Moves": "f3e5 d5g2 g1g2 f6d5",
+    "Rating": "1867",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "463",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/XTc5BgJr#31",
+    "OpeningTags": "Catalan_Opening Catalan_Opening_Closed"
+  },
+  {
+    "PuzzleId": "SvRZE",
+    "FEN": "3r1rk1/1b4p1/2q1p3/2b2PQp/8/2N5/PPP3PP/R4R1K b - - 0 21",
+    "Moves": "f8f5 g5d8 g8h7 d8d2 c5e3 d2e2 b7a6 e2e3",
+    "Rating": "1923",
+    "RatingDeviation": "321",
+    "Popularity": "-100",
+    "NbPlays": "6",
+    "Themes": "advantage hangingPiece middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/1RWKJEHG/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SvRZe",
+    "FEN": "r1b1k2r/ppp2ppp/3p1q2/3Pp2n/4P3/2NQ1N1P/PPPB1bP1/2K2R1R b kq - 1 11",
+    "Moves": "h5f4 d3b5 c8d7 b5b7",
+    "Rating": "1954",
+    "RatingDeviation": "88",
+    "Popularity": "77",
+    "NbPlays": "28",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/gRYBI8b8/black#22",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "SvT3b",
+    "FEN": "r7/1pqnRrkp/p1p2pp1/3p4/3Q2N1/2P5/P1P2PPP/4R1K1 b - - 7 21",
+    "Moves": "a8f8 g4f6 d7f6 e7c7",
+    "Rating": "1990",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "108",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/8c96tw5j/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SvU1H",
+    "FEN": "r3k2r/pp1nppbp/2p1qnp1/8/3P4/2NBB2P/PPP2PP1/R2QR1K1 b kq - 1 12",
+    "Moves": "e8g8 e3f4 e6e1 d1e1",
+    "Rating": "1831",
+    "RatingDeviation": "76",
+    "Popularity": "78",
+    "NbPlays": "80",
+    "Themes": "crushing middlegame quietMove short trappedPiece",
+    "GameUrl": "https://lichess.org/NAUnicd2/black#24",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Gubinsky-Melts_Defense"
+  },
+  {
+    "PuzzleId": "SvULn",
+    "FEN": "2r2rk1/pp3p1p/2npp1p1/1B1p1b2/3Pn3/1NP1P2P/PP3PP1/R3K1NR b KQ - 2 13",
+    "Moves": "a7a6 b5c6 b7c6 g2g4 e4f2 e1f2",
+    "Rating": "1845",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "956",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/f7RyePoT/black#26",
+    "OpeningTags": "Amazon_Attack Amazon_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "SvUjW",
+    "FEN": "2r3k1/6b1/2P3pp/1B3pq1/p7/5NPn/PP2Q2P/3rK2R w K - 0 29",
+    "Moves": "e2d1 g5e3 d1e2 e3c1",
+    "Rating": "1994",
+    "RatingDeviation": "85",
+    "Popularity": "85",
+    "NbPlays": "28",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ekTaY0yX#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SvWf3",
+    "FEN": "3rr1k1/5pP1/7p/3p2p1/4p3/q6P/1n1NQ1P1/1R3R1K b - - 0 34",
+    "Moves": "b2d3 e2h5 d3e5 h5h6",
+    "Rating": "1908",
+    "RatingDeviation": "79",
+    "Popularity": "82",
+    "NbPlays": "40",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/PN730s7n/black#68",
+    "OpeningTags": ""
+  }
+]

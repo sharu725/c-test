@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "44xRd",
+    "FEN": "2r1r1k1/p3bppp/1p2pn2/q3B3/2BP2P1/2R2Q1P/P4P2/2R3K1 b - - 0 23",
+    "Moves": "f6d7 c4e6 d7e5 d4e5",
+    "Rating": "2133",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "43",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/wVSB8Rj3/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "44xfA",
+    "FEN": "3q1r2/5pkp/3p1NP1/n1n1p1P1/p3P3/P3PN2/1rK2Q2/5R1R w - - 4 30",
+    "Moves": "c2c1 c5d3 c1d1 d3f2 f1f2 b2b1",
+    "Rating": "2229",
+    "RatingDeviation": "76",
+    "Popularity": "79",
+    "NbPlays": "148",
+    "Themes": "crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/t5yjZaz0#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "44yEB",
+    "FEN": "1rb1r1k1/1B3p2/p2b3p/7q/2PB4/1Q4P1/PP3P2/R4RK1 w - - 3 25",
+    "Moves": "f1e1 e8e1 a1e1 c8b7 b3b7 b8b7",
+    "Rating": "2123",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "609",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/FWvKePA5#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "450N0",
+    "FEN": "rnbq1rk1/1p2bpp1/p3pB1p/3p2N1/8/2PBP3/PPQN1PPP/R3K2R b KQ - 0 12",
+    "Moves": "e7f6 d3h7 g8h8 h7g8 g7g6 g5f7 f8f7 g8f7",
+    "Rating": "2151",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "6146",
+    "Themes": "advantage fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/9oposzvz/black#24",
+    "OpeningTags": "Indian_Defense Indian_Defense_London_System"
+  },
+  {
+    "PuzzleId": "452ua",
+    "FEN": "4rrk1/1p4p1/1bnq2pp/p2p1n2/P2P4/2P1BNPP/1PQN1P2/4RRK1 w - - 2 22",
+    "Moves": "g1g2 e8e3 e1e3 d6g3 f2g3 f5e3 g2f2 e3c2",
+    "Rating": "2175",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "562",
+    "Themes": "advantage fork middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/xybYh73R#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "454T1",
+    "FEN": "2r2r1k/1b3pp1/p2pp2p/1p6/2q1n2Q/PPNR2RN/2P2PPP/6K1 b - - 0 23",
+    "Moves": "c4c6 g3g7 h8g7 c3e4 c6e4 d3g3",
+    "Rating": "2306",
+    "RatingDeviation": "82",
+    "Popularity": "89",
+    "NbPlays": "589",
+    "Themes": "advantage long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/3ALsaziC/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "455ki",
+    "FEN": "r2qk2r/pp4p1/2pbpp1p/4N2P/2PP1Q2/5P2/PP4P1/2KR3R w kq - 0 18",
+    "Moves": "c4c5 d6c7 f4e4 f6e5 e4g6 e8f8",
+    "Rating": "2384",
+    "RatingDeviation": "80",
+    "Popularity": "77",
+    "NbPlays": "65",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/htFhKExC#35",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "455zm",
+    "FEN": "4kr2/pppr4/4npQ1/3qPR2/7P/8/PPP3P1/5R1K b - - 1 25",
+    "Moves": "f8f7 f5f6 e6f8 g6h5",
+    "Rating": "2254",
+    "RatingDeviation": "81",
+    "Popularity": "91",
+    "NbPlays": "83",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/G19V5rk5/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "45763",
+    "FEN": "r2qk1nr/p3bppp/2b1p3/1N1pP3/Pp1P4/1Pp2N2/2P2PPP/R1BQK2R w KQkq - 0 13",
+    "Moves": "c1g5 e7g5 b5d6 e8f8 f3g5 d8g5",
+    "Rating": "2035",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1465",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/Wz6CFqW9#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  }
+]

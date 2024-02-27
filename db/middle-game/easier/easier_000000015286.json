@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "kTdGP",
+    "FEN": "r4rk1/ppp3pp/4p3/4P3/3pP1nq/3P3P/PPn1N1P1/R1BQ1RK1 w - - 0 14",
+    "Moves": "d1c2 f8f1 g1f1 h4f2",
+    "Rating": "1193",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1723",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Wy3Esj78#27",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "kTdML",
+    "FEN": "7r/2pk2pp/pp1rNp2/7n/1qP5/1P1P1P2/1PQ2P1P/2KRR3 w - - 3 22",
+    "Moves": "c2c3 b4c3 b2c3 d6e6 e1e6 d7e6",
+    "Rating": "1081",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "519",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/lOD2afFH#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kTdYZ",
+    "FEN": "r1b3k1/p1q2r1p/1pp3pb/8/4N1n1/1NP2p1P/PP2PPB1/R2Q1RK1 w - - 0 20",
+    "Moves": "e2f3 c7h2",
+    "Rating": "1055",
+    "RatingDeviation": "81",
+    "Popularity": "54",
+    "NbPlays": "149",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/pzcFlLwF#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kTdlV",
+    "FEN": "5rk1/6p1/2pqp2p/1p6/nP1pPn2/4QN1P/2P2PP1/R4RK1 w - - 0 24",
+    "Moves": "e3d4 f4e2 g1h1 e2d4",
+    "Rating": "1006",
+    "RatingDeviation": "122",
+    "Popularity": "64",
+    "NbPlays": "17",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/eeXhurKq#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kTduk",
+    "FEN": "r2qkb1r/1bp2ppp/p3p3/1N1n4/1p1P4/1P3NB1/1PP1QPPP/R3R1K1 b kq - 5 14",
+    "Moves": "a6b5 e2b5 d8d7 b5b7",
+    "Rating": "1050",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "2628",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/k71YId0k/black#28",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "kTeHc",
+    "FEN": "r1b2rk1/pppp1ppp/1b3q2/4p3/1PBnP3/P2P1N2/2P2PPP/R1BQK2R w KQ - 0 10",
+    "Moves": "c1g5 d4f3 d1f3 f6g5",
+    "Rating": "1066",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "6884",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/YzJ32aiD#19",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "kTeRs",
+    "FEN": "r1b2rk1/pppp1ppp/5q2/1B2n3/3QP3/8/PPP2PPP/RN3RK1 w - - 0 10",
+    "Moves": "f2f4 e5f3 g2f3 f6d4",
+    "Rating": "1084",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "51",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/743jsl37#19",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "kTgn2",
+    "FEN": "r4rk1/3bb1pp/pq2pn2/n2p2N1/Pp1P1N2/1P1B4/2Q2PPP/R1B1R1K1 b - - 7 17",
+    "Moves": "a8c8 d3h7 f6h7 c2h7",
+    "Rating": "1129",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "2344",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/NCs8AZoy/black#34",
+    "OpeningTags": "French_Defense French_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "kTjhi",
+    "FEN": "r2q1rk1/ppp2pp1/3p3p/6b1/2B1PnP1/2PP4/PP1N1QP1/R4RK1 w - - 1 16",
+    "Moves": "g2g3 f4h3 g1g2 h3f2",
+    "Rating": "1070",
+    "RatingDeviation": "105",
+    "Popularity": "73",
+    "NbPlays": "26",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Q8aAmuFI#31",
+    "OpeningTags": "Italian_Game Italian_Game_Blackburne-Kostic_Gambit"
+  }
+]

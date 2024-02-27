@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "MtttY",
+    "FEN": "r1b1qrk1/pp2p3/8/2p1p1QP/4P3/2PP4/P4PP1/bN2K2R b K - 1 18",
+    "Moves": "g8f7 g5g6",
+    "Rating": "1080",
+    "RatingDeviation": "141",
+    "Popularity": "65",
+    "NbPlays": "81",
+    "Themes": "dovetailMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/n3jqe9mf/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Mtyzz",
+    "FEN": "r3n1k1/1p2p2p/1qbp2p1/p1p1b1P1/4P3/2NP2NP/PPP2QBK/5R2 b - - 1 22",
+    "Moves": "e8g7 f2f7 g8h8 f7f8 a8f8 f1f8",
+    "Rating": "1014",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "1563",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/7veLpU2G/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MtzYE",
+    "FEN": "r1bq1k1r/3pn1b1/p3Q1pp/1p2P3/5B2/1B6/PP3PPP/3R1RK1 b - - 0 17",
+    "Moves": "g6g5 e6f7",
+    "Rating": "1051",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "200",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Qa6el9pg/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "Mu0C0",
+    "FEN": "1rb2k1r/BpN1ppbp/2n3p1/4p3/2P5/P7/5PPP/3RKB1R b K - 0 15",
+    "Moves": "c6a7 d1d8",
+    "Rating": "1085",
+    "RatingDeviation": "191",
+    "Popularity": "54",
+    "NbPlays": "8",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gebKslgi/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Wing_Gambit"
+  },
+  {
+    "PuzzleId": "Mu0Qe",
+    "FEN": "6k1/pppq1b1p/1nn1N1PB/8/6P1/3P4/PPP2R1P/6K1 b - - 0 25",
+    "Moves": "f7g6 f2f8",
+    "Rating": "1056",
+    "RatingDeviation": "98",
+    "Popularity": "11",
+    "NbPlays": "34",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/AY9KJwHn/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Mu0UH",
+    "FEN": "r1b2r1k/pp4bp/2pQ2p1/2P1p3/1n2P1qP/6P1/PB4B1/R4RK1 b - - 0 20",
+    "Moves": "g4g3 f1f8 g7f8 d6f8",
+    "Rating": "1129",
+    "RatingDeviation": "79",
+    "Popularity": "79",
+    "NbPlays": "66",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/iGn8XWin/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Mu1gj",
+    "FEN": "rn1qkb1r/1bp1p2p/p2pP1B1/1p1n2pQ/3P4/8/PPP2PPP/RNB1K2R b KQkq - 0 10",
+    "Moves": "h7g6 h5g6",
+    "Rating": "1061",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "171",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/W6v9sxBf/black#20",
+    "OpeningTags": "St_George_Defense St_George_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Mu3mH",
+    "FEN": "8/2r2kP1/5P2/3R1K2/2r5/p7/2P5/2R5 w - - 1 38",
+    "Moves": "d5d8 c7c5 d8d5 c5d5",
+    "Rating": "1175",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "446",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/ClkQEzVc#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Mu5C0",
+    "FEN": "q4r2/5ppk/2pp1P1p/1pn1p3/4P3/1b1PBN2/1P1QNP2/K5RR w - - 1 29",
+    "Moves": "a1b1 a8a2 b1c1 a2a1",
+    "Rating": "1163",
+    "RatingDeviation": "86",
+    "Popularity": "82",
+    "NbPlays": "57",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/NmnvC0bz#57",
+    "OpeningTags": ""
+  }
+]

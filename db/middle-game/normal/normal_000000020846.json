@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "yqRrT",
+    "FEN": "6k1/pp1q1p1p/2rprp2/2p5/Q1Pp2P1/P2P1P1P/1N3P2/R4RK1 w - - 4 23",
+    "Moves": "a4a7 c6a6 a7b8 e6e8 b8e8 d7e8",
+    "Rating": "1275",
+    "RatingDeviation": "99",
+    "Popularity": "86",
+    "NbPlays": "28",
+    "Themes": "advantage defensiveMove long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/BObrINRI#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yqTEf",
+    "FEN": "r3k2r/2p2ppp/p1n5/1pbqp2b/8/2PP1N1P/PP1N1PP1/R1BQR1K1 b kq - 1 13",
+    "Moves": "d5d3 f3e5 h5d1 e5d3 c5e7 e1d1",
+    "Rating": "1342",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "825",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/QX2Bxi7N/black#26",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Classical_Variation"
+  },
+  {
+    "PuzzleId": "yqTq0",
+    "FEN": "rn1qk2r/p1p2ppp/1p2p3/3p1N2/1bPPnB2/2N4P/PP2PPP1/R2QKB1R b KQkq - 0 8",
+    "Moves": "e6f5 d1a4 b8d7 a4b4",
+    "Rating": "1248",
+    "RatingDeviation": "79",
+    "Popularity": "50",
+    "NbPlays": "50",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/sUz5Cyan/black#16",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "yqUlZ",
+    "FEN": "2rr1n2/1bp2k2/p4p2/1pB1b1pp/2pNP3/P1N2P2/1PP2KPP/R2R4 w - - 0 23",
+    "Moves": "c5f8 e5d4 d1d4 d8d4",
+    "Rating": "1212",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "299",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/obdN580X#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yqWlB",
+    "FEN": "2k2r2/pp4pb/2pb3p/3p3n/6nN/1BNP4/PPPB1PPP/R3R1K1 w - - 10 24",
+    "Moves": "f2f3 d6h2 g1f1 h5g3",
+    "Rating": "1328",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "353",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/600uUiTS#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yqX6G",
+    "FEN": "r5k1/1bp3pp/p5q1/2p3N1/2P2pnP/1P1P2P1/PB3P2/R2Q2K1 b - - 1 21",
+    "Moves": "f4g3 d1g4 g3f2 g1f2",
+    "Rating": "1259",
+    "RatingDeviation": "123",
+    "Popularity": "10",
+    "NbPlays": "18",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/Vnvm65e5/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yqXpx",
+    "FEN": "2kr4/1bp2pp1/1P1p4/3PpPq1/1QP1n1Pr/R6p/1B2B2P/5RK1 w - - 3 26",
+    "Moves": "b2c1 h4g4 e2g4 g5g4 a3g3 e4g3",
+    "Rating": "1301",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "722",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/McofuUOe#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yqZ4v",
+    "FEN": "r1bq1rk1/2p3pp/p1np4/2p1pp2/4PP1N/3P4/PPP3PP/R1BQ1RK1 w - - 0 13",
+    "Moves": "f4e5 d8h4",
+    "Rating": "1377",
+    "RatingDeviation": "102",
+    "Popularity": "65",
+    "NbPlays": "20",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/3Y4YWQXi#25",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "yqZ9w",
+    "FEN": "4rrk1/2pq2pp/1pnp4/2p4b/4P2N/2P4P/PP1N1PP1/R3QRK1 w - - 3 18",
+    "Moves": "h4f5 f8f5 e4f5 e8e1",
+    "Rating": "1276",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "630",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/2xWQQwFJ#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Classical_Variation"
+  }
+]

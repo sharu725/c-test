@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "q22Eq",
+    "FEN": "r4k2/1p1QNp1p/4p1p1/1N6/3Bq3/2b3P1/2P2P1P/5K1R w - - 2 23",
+    "Moves": "b5c3 a8a1 c3b1 a1b1",
+    "Rating": "1424",
+    "RatingDeviation": "121",
+    "Popularity": "67",
+    "NbPlays": "50",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/oaTdCCNh#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "q234G",
+    "FEN": "3r1rk1/pp3p1p/3b1qp1/5p2/1P1NnP2/P2QP3/1BP3PP/R4RK1 w - - 3 17",
+    "Moves": "d4c6 f6b2 c6d8 f8d8",
+    "Rating": "1422",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "4183",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/RZGsigbI#33",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "q23KB",
+    "FEN": "3r1r2/k3bn1p/Pp1qp3/1R3p2/2pP1P2/P4NPQ/3B3P/4R1K1 w - - 0 27",
+    "Moves": "d2e3 d6c6 a3a4 c6f3",
+    "Rating": "1523",
+    "RatingDeviation": "311",
+    "Popularity": "-15",
+    "NbPlays": "3",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/xM6RFEAV#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "q23M5",
+    "FEN": "2kr3r/1pq4p/p1p1R3/2pn2b1/6Q1/N7/PPP2PPP/R5K1 b - - 1 21",
+    "Moves": "h8g8 e6c6 c8b8 c6c7",
+    "Rating": "1509",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "16190",
+    "Themes": "advantage discoveredAttack middlegame pin queensideAttack short",
+    "GameUrl": "https://lichess.org/ZtInkfUT/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "q24Bh",
+    "FEN": "r7/p4pkp/2prp1p1/q4b2/NpNP4/1P6/P3Q1PP/2KR4 b - - 3 23",
+    "Moves": "a5d8 e2e5 f7f6 e5d6 d8d6 c4d6",
+    "Rating": "1423",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "15670",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/VviRFVN9/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "q24Y9",
+    "FEN": "r4rk1/ppp2ppp/2n1b3/2n1P1N1/8/P7/1BP1B1PP/2KR1R2 b - - 4 18",
+    "Moves": "c5d7 g5e6 f7e6 d1d7",
+    "Rating": "1599",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "13113",
+    "Themes": "capturingDefender crushing middlegame short",
+    "GameUrl": "https://lichess.org/avyl2Jds/black#36",
+    "OpeningTags": "Center_Game Center_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "q24aI",
+    "FEN": "2q3k1/6b1/p2p1rpp/npp5/4Bp2/P1PPQ2P/1P4PK/R4R2 w - - 0 25",
+    "Moves": "f1f4 f6f4",
+    "Rating": "1559",
+    "RatingDeviation": "86",
+    "Popularity": "81",
+    "NbPlays": "42",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/kdQod0GT#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "q26CE",
+    "FEN": "3rn1r1/1pq1kp1Q/2p1p2B/2Pn3P/p2P4/P7/1P3PP1/2KRR3 b - - 2 26",
+    "Moves": "e8f6 e1e6 e7e6 d1e1 c7e5 e1e5",
+    "Rating": "1530",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "295",
+    "Themes": "attraction crushing long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/jfX8mPQv/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "q27eN",
+    "FEN": "r2q1rk1/pb2bppp/1p2p3/3nN2Q/3P4/1P4P1/PB3PBP/R4RK1 w - - 5 18",
+    "Moves": "g2e4 d5f6 h5f7 f8f7",
+    "Rating": "1416",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "12367",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/1dnTTrcL#35",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+  }
+]

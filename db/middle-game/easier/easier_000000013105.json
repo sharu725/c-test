@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "drcbs",
+    "FEN": "2r5/1q3p1k/p4npQ/3P4/8/5Pr1/PPP5/2KR3R b - - 0 32",
+    "Moves": "h7g8 h6h8",
+    "Rating": "1018",
+    "RatingDeviation": "81",
+    "Popularity": "89",
+    "NbPlays": "67",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/DxDSekcm/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "drdhc",
+    "FEN": "1rb2rk1/p1q1Bpbp/6p1/1pp1n3/6n1/2P2N2/PP3PPP/RN1QRBK1 w - - 0 14",
+    "Moves": "e7f8 e5f3 g2f3 c7h2",
+    "Rating": "1175",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1175",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/RBWGi6mB#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Delayed_Alapin"
+  },
+  {
+    "PuzzleId": "drdkS",
+    "FEN": "r5k1/p5pp/2p1b3/2p1N1q1/2Pp4/1P1P3P/P4rP1/R2QR2K w - - 0 19",
+    "Moves": "e1e2 g5g2",
+    "Rating": "1116",
+    "RatingDeviation": "80",
+    "Popularity": "85",
+    "NbPlays": "110",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/qZ8h1e82#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "drhwV",
+    "FEN": "rn2k2r/1p1q1ppp/p3pn2/3p4/5B2/P5Q1/1PP1N1PP/R4K1R b kq - 5 15",
+    "Moves": "b8c6 g3g7 e8c8 g7f6",
+    "Rating": "1053",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "338",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/rjsPKYmK/black#30",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "drjSU",
+    "FEN": "1r2k2r/p4ppp/2n1b3/q2p2BP/1p6/P7/1PPQ1PP1/1K1R1B1R w k - 1 17",
+    "Moves": "d2f4 b4a3 f4b8 c6b8",
+    "Rating": "1173",
+    "RatingDeviation": "111",
+    "Popularity": "88",
+    "NbPlays": "19",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/uj6ttXAx#33",
+    "OpeningTags": "Russian_Game Russian_Game_Nimzowitsch_Attack"
+  },
+  {
+    "PuzzleId": "drklt",
+    "FEN": "r4k1r/pp2p3/2n1QRp1/2qp4/3p4/N7/PPP3PP/4R1K1 b - - 0 20",
+    "Moves": "e7f6 e6f6 f8g8 f6g6",
+    "Rating": "1180",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "735",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/ouqzok2B/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "drlLg",
+    "FEN": "r3r3/5pkp/6p1/p7/1q1pP3/R1nB1P1P/2P1QKP1/R7 w - - 1 32",
+    "Moves": "e2d2 c3e4 f3e4 b4d2",
+    "Rating": "1095",
+    "RatingDeviation": "129",
+    "Popularity": "75",
+    "NbPlays": "15",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/fPA2PPEA#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "drlSx",
+    "FEN": "r1bq1rk1/1p1n3p/4pPpQ/p2p4/Pn1P4/1N1B1N2/1P3PPP/R4RK1 b - - 0 18",
+    "Moves": "b4d3 h6g7",
+    "Rating": "1005",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "239",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/tKYBWPCP/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "drmiG",
+    "FEN": "2b1r3/2Bp4/k1p1r3/1pQ5/6P1/2P4P/q4P2/5RK1 b - - 6 31",
+    "Moves": "a6b7 c5b6 b7a8 b6b8",
+    "Rating": "1037",
+    "RatingDeviation": "170",
+    "Popularity": "67",
+    "NbPlays": "19",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/iwe6GSn8/black#62",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Q35xx",
+    "FEN": "2kr3r/pppn1p2/1q6/4p2p/2Q1P2N/3P3P/P4P1K/2R2R2 b - - 2 23",
+    "Moves": "b6f6 c4c7",
+    "Rating": "816",
+    "RatingDeviation": "107",
+    "Popularity": "88",
+    "NbPlays": "283",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/0I68FFEH/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Q39ZP",
+    "FEN": "r2qkb1r/p2n1Np1/2Q1pnp1/8/8/6P1/PP1P1P1P/R1B1R1K1 b kq - 0 16",
+    "Moves": "e8f7 c6e6",
+    "Rating": "731",
+    "RatingDeviation": "128",
+    "Popularity": "100",
+    "NbPlays": "18",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/quUwAMvf/black#32",
+    "OpeningTags": "English_Opening English_Opening_Caro-Kann_Defensive_System"
+  },
+  {
+    "PuzzleId": "Q3ABL",
+    "FEN": "r2q1rBk/pb1p2p1/1p2pp2/3nP1N1/3n4/3Q4/PP1B1PPP/R3K2R b KQ - 1 15",
+    "Moves": "f6g5 d3h7",
+    "Rating": "729",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "123",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/QmEXXiMH/black#30",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Q3Cmf",
+    "FEN": "2rr2k1/5pp1/p4q1p/1p2R3/3N1n2/P1P5/1PQ2PPP/4R1K1 b - - 0 22",
+    "Moves": "d8d4 e5e8 c8e8 e1e8",
+    "Rating": "639",
+    "RatingDeviation": "84",
+    "Popularity": "92",
+    "NbPlays": "933",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PKxOlDN9/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Q3DdK",
+    "FEN": "2kr3r/pp1q4/n1p5/4p1pp/2P1Q3/P1P1P1B1/5PPP/R4RK1 w - - 0 19",
+    "Moves": "f1d1 d7d1 a1d1 d8d1",
+    "Rating": "600",
+    "RatingDeviation": "105",
+    "Popularity": "85",
+    "NbPlays": "457",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PV3yGkn9#37",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Anti-Moscow_Gambit"
+  },
+  {
+    "PuzzleId": "Q3GVA",
+    "FEN": "2kr4/ppp2ppp/5n2/3q4/P2p2b1/3P1NP1/1PP2PBP/R2Qr1K1 w - - 0 14",
+    "Moves": "d1e1 g4f3 g2f3 d5f3",
+    "Rating": "886",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "774",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/HA4nOGMI#27",
+    "OpeningTags": "Russian_Game Russian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "Q3LQ4",
+    "FEN": "r2q1rk1/pp4pp/1n2p3/3pN3/3P3b/3Q4/PP2NPPP/4RRK1 b - - 3 16",
+    "Moves": "h4f2 f1f2 f8f2 g1f2",
+    "Rating": "755",
+    "RatingDeviation": "89",
+    "Popularity": "81",
+    "NbPlays": "184",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/k8Ch6xHq/black#32",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Baltic_Defense"
+  },
+  {
+    "PuzzleId": "Q3Lh5",
+    "FEN": "r1b3k1/pp2rp2/4p1B1/3pP2p/3P2R1/2P4Q/P4q1P/6RK b - - 0 22",
+    "Moves": "h5g4 h3h7 g8f8 h7h8",
+    "Rating": "996",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1371",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/GIPLdu00/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Q3MiZ",
+    "FEN": "r1bqk1nr/pp1p1ppp/4p3/1B6/3nP3/2P5/P1P2PPP/R1BQK2R w KQkq - 0 8",
+    "Moves": "c3d4 d8a5 c1d2 a5b5",
+    "Rating": "826",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "120",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/i4K43zWx#15",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  }
+]

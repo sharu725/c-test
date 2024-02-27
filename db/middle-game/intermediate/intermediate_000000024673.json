@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "xRPpe",
+    "FEN": "1rb2rk1/1pq2ppp/p2b4/2pB1p1Q/2Pp1Rn1/N2P2P1/PP1B3P/4R1K1 b - - 0 19",
+    "Moves": "d6f4 d2f4 c7d8 f4b8",
+    "Rating": "1432",
+    "RatingDeviation": "391",
+    "Popularity": "100",
+    "NbPlays": "3",
+    "Themes": "equality middlegame short skewer",
+    "GameUrl": "https://lichess.org/o7BANvww/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xRQkW",
+    "FEN": "r1bRnk2/1p3p2/4p3/2b1N1p1/2P3P1/1N6/4PPB1/6K1 b - - 3 28",
+    "Moves": "c5e7 e5d7 c8d7 d8a8",
+    "Rating": "1528",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "253",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/NxA6li4h/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xRRzY",
+    "FEN": "1r2k2r/pp2bppp/1q2pn2/8/1P6/P1NP1Q1P/2P2PP1/R1B1R1K1 w k - 1 15",
+    "Moves": "e1e5 b6d4 e5e1 d4c3",
+    "Rating": "1581",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1386",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/ZN9k4cre#29",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Blackburne_Gambit"
+  },
+  {
+    "PuzzleId": "xRWMg",
+    "FEN": "4rrk1/1p3pp1/p4p1p/2b1n3/3N4/2PBB1Pb/PP3P1P/R3R1K1 w - - 4 21",
+    "Moves": "d3f1 c5d4 c3d4 e5f3 g1h1 f3e1",
+    "Rating": "1563",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "241",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/GBYTXHi3#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xRXtZ",
+    "FEN": "r1bq1rk1/4bppp/p1nppn2/8/Np2P3/1B2BN2/PPP1QPPP/R4RK1 b - - 1 15",
+    "Moves": "f6e4 e3b6 d8e8 e2e4",
+    "Rating": "1570",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "559",
+    "Themes": "advantage discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/quMdU5kI/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "xRZAa",
+    "FEN": "1rb1kb1r/5ppp/p2p4/2pPp1q1/2P2n2/BP6/P2NBPPP/R2QR1K1 w k - 3 16",
+    "Moves": "e2f1 f4h3 g1h1 h3f2",
+    "Rating": "1431",
+    "RatingDeviation": "86",
+    "Popularity": "47",
+    "NbPlays": "53",
+    "Themes": "crushing deflection kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/njqcA8zF#31",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "xRaDT",
+    "FEN": "3r1k1r/p1p1nPb1/1p1q2Np/8/3P4/7P/PP2QPP1/4RRK1 b - - 0 20",
+    "Moves": "e7g6 e2e8 d8e8 f7e8q",
+    "Rating": "1440",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "15997",
+    "Themes": "advancedPawn mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/G2A5JvZH/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xRbGl",
+    "FEN": "r1r5/1R3ppk/2p1pnbp/2Ppq3/p2N4/P2P2PP/1Q2PPB1/1R4K1 w - - 3 28",
+    "Moves": "d4c6 e5b2 b1b2 c8c6",
+    "Rating": "1410",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "554",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/Djrzb9kT#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xRbPd",
+    "FEN": "r2q2k1/1p3pbp/p1b2np1/2p3r1/2P5/2N1P3/PB2BPPP/R2Q1RK1 w - - 2 18",
+    "Moves": "e2f3 d8d1 f1d1 c6f3",
+    "Rating": "1579",
+    "RatingDeviation": "122",
+    "Popularity": "81",
+    "NbPlays": "19",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/6ZuZUYu8#35",
+    "OpeningTags": "Rat_Defense Rat_Defense_English_Rat"
+  }
+]

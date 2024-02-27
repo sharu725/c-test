@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "oi31N",
+    "FEN": "4r2r/pp1n1kp1/2p2p2/q2p4/3P3P/bPP2Q2/PB1NB3/2KR3R w - - 6 22",
+    "Moves": "e2d3 a5c3 c1b1 c3b2",
+    "Rating": "1690",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "1229",
+    "Themes": "mate mateIn2 middlegame pin queensideAttack short",
+    "GameUrl": "https://lichess.org/EqDfFaQz#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oi471",
+    "FEN": "1q5k/p5pp/8/5Q2/2p5/N1P2P2/Pr2r1P1/2KR2R1 w - - 2 32",
+    "Moves": "g1h1 b2b1 f5b1 b8f4 d1d2 f4d2",
+    "Rating": "1721",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "165",
+    "Themes": "exposedKing long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/pBb0luyK#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oi4CC",
+    "FEN": "r5k1/5ppp/p1p4q/1pPpr3/1P6/4PbP1/P1Q1NP1P/2R2RK1 w - - 0 21",
+    "Moves": "e2d4 h6h2 g1h2 e5h5 h2g1 h5h1",
+    "Rating": "1769",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "5714",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/APgoGXIa#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oiFVs",
+    "FEN": "r3k2r/pp4p1/2n1p3/5p2/3PpNPq/2P3p1/PP1N1P2/R2Q1RK1 w kq - 1 18",
+    "Moves": "f2g3 h4h2",
+    "Rating": "1633",
+    "RatingDeviation": "93",
+    "Popularity": "71",
+    "NbPlays": "35",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/dncCpsNj#35",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "oiLii",
+    "FEN": "r6r/pppk1pbp/2n1b3/3N2B1/2p5/8/PP3PPP/3RK1NR b K - 6 12",
+    "Moves": "a8e8 d5b6",
+    "Rating": "1751",
+    "RatingDeviation": "87",
+    "Popularity": "71",
+    "NbPlays": "143",
+    "Themes": "doubleCheck mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/QYH5IVsJ/black#24",
+    "OpeningTags": "Danish_Gambit Danish_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "oiN2x",
+    "FEN": "r1bq1r1k/ppp1n1p1/3p4/2b1p1P1/2B1P3/6Q1/P4PP1/RN1R2K1 b - - 0 16",
+    "Moves": "f8f4 g3h2 c8h3 h2h3 f4h4 h3h4",
+    "Rating": "1706",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "8616",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/GYGL6yaP/black#32",
+    "OpeningTags": "Scotch_Game Scotch_Game_Haxo_Gambit"
+  },
+  {
+    "PuzzleId": "oiOWc",
+    "FEN": "2r1r2k/Q4R1p/1p1qp1p1/2p5/3b4/8/P1R1B1PP/7K b - - 1 27",
+    "Moves": "h7h5 f7h7 h8g8 a7f7",
+    "Rating": "1634",
+    "RatingDeviation": "75",
+    "Popularity": "73",
+    "NbPlays": "148",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/sV9ULPeV/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oiOv0",
+    "FEN": "8/p1q2pk1/1p2pNp1/4PnP1/8/P4PP1/1B4K1/3rQ2R b - - 1 33",
+    "Moves": "d1e1 h1h7 g7f8 h7h8 f8e7 h8e8",
+    "Rating": "1677",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "916",
+    "Themes": "endgame hookMate long mate mateIn3",
+    "GameUrl": "https://lichess.org/2Jg9SVRM/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oiT15",
+    "FEN": "3qk1nr/3n1pp1/Q2p3p/3P4/2N1P3/2b5/P5PP/R4RK1 b k - 1 21",
+    "Moves": "c3a1 c4d6 e8e7 f1f7",
+    "Rating": "1606",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "440",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/rTUigv6c/black#42",
+    "OpeningTags": ""
+  }
+]

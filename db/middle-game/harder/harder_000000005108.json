@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FTAEX",
+    "FEN": "2rr2k1/6pp/p4P2/1pqbQP2/8/1P1B4/PBP4P/2K4R b - - 0 25",
+    "Moves": "d5h1 e5e6 g8f8 f6g7",
+    "Rating": "1851",
+    "RatingDeviation": "80",
+    "Popularity": "80",
+    "NbPlays": "127",
+    "Themes": "advancedPawn mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/4U7dFNik/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FTAYh",
+    "FEN": "4rrk1/pp6/2p4p/6p1/4N1n1/3P1q2/PPPK1P2/R2QR3 b - - 1 26",
+    "Moves": "g4f2 d1f3 f8f3 e4f6 f3f6 e1e8",
+    "Rating": "1927",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "244",
+    "Themes": "advantage discoveredAttack exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/OdoUzLy3/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FTCAj",
+    "FEN": "rn2k2r/pp2p2p/2b1Nbp1/3np3/2Bp4/N7/PPP3PP/R1B2RK1 b kq - 0 16",
+    "Moves": "b8d7 c4d5 c6d5 e6c7 e8f7 c7d5",
+    "Rating": "1828",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "80",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/Z270PrTG/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "FTE0q",
+    "FEN": "1Q3bk1/5p1p/B3p1p1/3bP3/P2P3q/r3B3/5PPP/1R4K1 w - - 1 28",
+    "Moves": "b8e8 h4e4 a6f1 e4b1 e3h6 b1b4",
+    "Rating": "1961",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1886",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/9EAqWcV1#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FTEpP",
+    "FEN": "rr3k2/3n1pR1/p1p4p/3p1P1N/4n3/4K2P/1qP2PQ1/1N4R1 b - - 5 30",
+    "Moves": "d5d4 e3e4 b2c2 e4f4",
+    "Rating": "1992",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "865",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/9iZZ6wck/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FTFcJ",
+    "FEN": "r2qk2r/2p1bpp1/bp2N1Bn/p3P3/1npP3p/1P2QN2/PB3PPP/R4K1R b kq - 0 17",
+    "Moves": "e8d7 e6d8 c4c3 f1g1",
+    "Rating": "1968",
+    "RatingDeviation": "77",
+    "Popularity": "78",
+    "NbPlays": "120",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/wUjfaVHR/black#34",
+    "OpeningTags": "French_Defense French_Defense_Horwitz_Attack"
+  },
+  {
+    "PuzzleId": "FTIWP",
+    "FEN": "2r2k1r/1b1qbpp1/pQ3P1p/2B4P/8/2N2p2/PPP5/2K2BR1 b - - 0 24",
+    "Moves": "e7c5 f6g7 f8e7 b6c5 c8c5 g7h8q",
+    "Rating": "1930",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "80",
+    "Themes": "advancedPawn crushing deflection fork intermezzo long middlegame promotion",
+    "GameUrl": "https://lichess.org/FqjhEMq8/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FTKGv",
+    "FEN": "3rr1k1/p1b3pp/1pp2P2/3p4/1P1Q1P2/PN1R3P/1BP3PK/4q3 b - - 0 28",
+    "Moves": "e8e4 f6f7 g8f7 d4g7 f7e8 g7c7",
+    "Rating": "1922",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "8516",
+    "Themes": "advancedPawn attraction crushing discoveredAttack kingsideAttack long middlegame skewer",
+    "GameUrl": "https://lichess.org/TsUeAr5u/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FTKix",
+    "FEN": "r3k2r/Bpp1q1p1/p2pp3/3np3/PPB1P3/1NPP2p1/5PP1/R2Q1RK1 w kq - 1 17",
+    "Moves": "e4d5 h8h1 g1h1 e7h4 h1g1 h4h2",
+    "Rating": "1931",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "10917",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/ZVNckJv8#33",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  }
+]

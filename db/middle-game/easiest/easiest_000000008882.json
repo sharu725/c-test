@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QLGCN",
+    "FEN": "r2q1rk1/pp3ppp/4bn2/8/2Np4/P5P1/1P2PPBP/R2QK2R w KQ - 2 16",
+    "Moves": "c4e5 d8a5 d1d2 a5e5",
+    "Rating": "954",
+    "RatingDeviation": "88",
+    "Popularity": "93",
+    "NbPlays": "1065",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/AM3Ch81K#31",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "QLGlq",
+    "FEN": "r1b2r1k/pp5p/1n2p3/3pP2q/1B1n2p1/P4pP1/1P3P2/R2QRBKN b - - 3 24",
+    "Moves": "f8g8 d1d4",
+    "Rating": "819",
+    "RatingDeviation": "121",
+    "Popularity": "-8",
+    "NbPlays": "24",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/BsEAKJuY/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QLHKc",
+    "FEN": "3r3k/p2q2pb/5p1p/2b4P/2P2PP1/1Q1pB3/PP6/2KR3R w - - 2 26",
+    "Moves": "e3c5 d3d2 d1d2 d7d2",
+    "Rating": "831",
+    "RatingDeviation": "99",
+    "Popularity": "83",
+    "NbPlays": "560",
+    "Themes": "advancedPawn mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/flLencHb#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QLKKL",
+    "FEN": "1r3Bk1/pb1n1p1p/1p2p1p1/2p1P1q1/3PQ3/1PP1P3/P5PP/RN3RK1 w - - 0 18",
+    "Moves": "e4f4 g5g2",
+    "Rating": "806",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1332",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/MNvQoTDw#35",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  },
+  {
+    "PuzzleId": "QLLMx",
+    "FEN": "r3k2r/4ppbp/p2p2p1/q1nb2B1/1pB3P1/5N1P/PPP1QP2/1K1R3R b kq - 3 15",
+    "Moves": "d5c4 e2e7",
+    "Rating": "925",
+    "RatingDeviation": "75",
+    "Popularity": "80",
+    "NbPlays": "156",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/MtED2HLR/black#30",
+    "OpeningTags": "Modern_Defense Modern_Defense_Two_Knights_Variation"
+  },
+  {
+    "PuzzleId": "QLLtm",
+    "FEN": "1rq2rk1/5pbp/2Qpp1p1/1p1N4/1P2P1n1/5NP1/P4PK1/1RB1R3 b - - 0 20",
+    "Moves": "c8c6 d5e7 g8h8 e7c6",
+    "Rating": "967",
+    "RatingDeviation": "90",
+    "Popularity": "81",
+    "NbPlays": "65",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/tXv6rnXN/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QLMXY",
+    "FEN": "Q1nkr3/2pb2p1/2n2p1p/p1P5/q2P4/1R2PN2/P4PPP/1RB3K1 w - - 0 24",
+    "Moves": "b3b2 a4d1 f3e1 d1e1",
+    "Rating": "655",
+    "RatingDeviation": "85",
+    "Popularity": "100",
+    "NbPlays": "140",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/73YjpNtq#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QLV0H",
+    "FEN": "4rnk1/2q4p/2r3pQ/p3n1P1/1pp5/4P1N1/P4R1P/2B2RK1 b - - 1 29",
+    "Moves": "c4c3 f2f8 e8f8 h6f8",
+    "Rating": "856",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "102",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/jMZAHtZU/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QLYgo",
+    "FEN": "4rrk1/1pp2pp1/p2bqn1p/8/5B2/2N2QR1/PPP2PPP/R5K1 w - - 2 18",
+    "Moves": "f4d6 e6e1 a1e1 e8e1",
+    "Rating": "931",
+    "RatingDeviation": "90",
+    "Popularity": "93",
+    "NbPlays": "666",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/ecQPbvA3#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  }
+]

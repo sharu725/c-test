@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HSI7t",
+    "FEN": "2r1r1k1/3q1p2/p2p2pp/3p1p2/3Pn3/2P1P3/P1QN1PPP/2R1R1K1 b - - 0 25",
+    "Moves": "c8c3 d2e4 c3c2 e4f6 g8g7 f6d7",
+    "Rating": "1610",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "126",
+    "Themes": "advantage fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/h96zpCJe/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HSIWp",
+    "FEN": "2kr3r/ppp5/2nbqn1p/4pNp1/8/3P1N1P/PPP2PP1/R1BQR1K1 w - - 2 17",
+    "Moves": "f5g7 e6d7 g7h5 f6h5",
+    "Rating": "1728",
+    "RatingDeviation": "75",
+    "Popularity": "30",
+    "NbPlays": "206",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/x3UFcPuP#33",
+    "OpeningTags": "Italian_Game Italian_Game_Rousseau_Gambit"
+  },
+  {
+    "PuzzleId": "HSJG6",
+    "FEN": "1r1q1rk1/p1p2p1p/1p2p1p1/n1P5/Q4P2/B1b3P1/P4PBP/3RR1K1 b - - 1 18",
+    "Moves": "d8f6 c5b6 a7b6 a3f8",
+    "Rating": "1719",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "2795",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/nuGxHIGC/black#36",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "HSMyi",
+    "FEN": "2kr3r/1p2q1p1/p7/2p1n3/P2pP3/3P2n1/1PPQN1PP/R4RK1 w - - 0 20",
+    "Moves": "e2g3 e7h4 h2h3 h4g3",
+    "Rating": "1761",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "337",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/3xynOPtu#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HSNmD",
+    "FEN": "r1b1r1k1/pp3ppp/3q1n2/3pN3/8/2PB3P/PP1N1PP1/R2Q1RK1 b - - 0 14",
+    "Moves": "e8e5 d2c4 d5c4 d3h7 f6h7 d1d6",
+    "Rating": "1723",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "290",
+    "Themes": "crushing discoveredAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/KMWzydyk/black#28",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "HSP5k",
+    "FEN": "2r3k1/3Q1pp1/p1r1P1bp/8/q7/2P1R3/5PPP/3R2K1 b - - 0 28",
+    "Moves": "g6f5 e6f7 g8h7 d7f5",
+    "Rating": "1753",
+    "RatingDeviation": "77",
+    "Popularity": "78",
+    "NbPlays": "85",
+    "Themes": "advancedPawn crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/nz4NSmMT/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HSP7N",
+    "FEN": "1nk2rr1/p4p1p/2p1bB2/2Nn4/3P4/P2P1B2/1P5P/R3R2K w - - 15 26",
+    "Moves": "a1c1 d5f6 c5e6 f7e6",
+    "Rating": "1611",
+    "RatingDeviation": "145",
+    "Popularity": "82",
+    "NbPlays": "6",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/kXfGl6FC#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HSRCa",
+    "FEN": "3rr1k1/p5pp/2p3b1/1pb2p2/4P1P1/1PqB1N1P/P1P1QPK1/3RR3 w - - 0 20",
+    "Moves": "f3h4 f5e4 h4g6 e4d3 d1d3 e8e2 d3d8 g8f7",
+    "Rating": "1666",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1957",
+    "Themes": "advantage discoveredAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/Kxe7WOhq#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HST0f",
+    "FEN": "r3k2r/3b2bp/p2q2n1/1p1Np2n/8/P3BN2/1P4PP/2RQ1RK1 b kq - 2 23",
+    "Moves": "h5f6 d5c7 d6c7 c1c7",
+    "Rating": "1644",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2457",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/OOzdfc90/black#46",
+    "OpeningTags": ""
+  }
+]

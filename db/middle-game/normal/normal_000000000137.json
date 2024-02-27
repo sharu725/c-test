@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "0Ox6p",
+    "FEN": "2rr2k1/pb2qppp/1p2p3/8/1n1PP3/1B3N2/P4PPP/R2QR1K1 w - - 10 17",
+    "Moves": "a1c1 c8c1 d1c1 b4d3 c1e3 d3e1",
+    "Rating": "1344",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "321",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/mevXXobU#33",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "0Oy3a",
+    "FEN": "r2q4/1pp3k1/p2p3p/3Bb1p1/8/1Q5P/PPP2rP1/1K1RR3 w - - 0 23",
+    "Moves": "b3b7 a8b8 b7b8 d8b8",
+    "Rating": "1255",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "557",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/JxvXY8ej#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0OzBC",
+    "FEN": "r4rk1/pppqbpp1/3p1n1p/8/3pP2B/3P4/PPP1QPPP/R2N1RK1 b - - 1 12",
+    "Moves": "f6g4 h4e7 d7e7 e2g4",
+    "Rating": "1230",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "585",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/EDE0mk7y/black#24",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "0OzYj",
+    "FEN": "r6r/3bkq2/pn1p1n2/2pPp1Q1/1pP1P3/1P3R2/P3B1PP/5RK1 b - - 3 30",
+    "Moves": "a8f8 f3f6 f7f6 f1f6 f8f6 g5g7",
+    "Rating": "1341",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "79",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/NSJTgOMv/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0P1Nh",
+    "FEN": "3rr1k1/p2q1pbp/2pBp1p1/1b2P3/4P3/2P3P1/5PBP/R2QR1K1 w - - 0 19",
+    "Moves": "a1a3 g7e5 d6e5 d7d1",
+    "Rating": "1226",
+    "RatingDeviation": "111",
+    "Popularity": "53",
+    "NbPlays": "59",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/c0k3Dgbs#37",
+    "OpeningTags": "Neo-Grunfeld_Defense Neo-Grunfeld_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "0P1Xu",
+    "FEN": "rn4k1/1p3ppp/p3p3/3pb3/8/B6P/PPq1QPP1/2R1R1K1 b - - 0 21",
+    "Moves": "c2e2 c1c8",
+    "Rating": "1313",
+    "RatingDeviation": "87",
+    "Popularity": "81",
+    "NbPlays": "112",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/SYdSSrVn/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0P2LV",
+    "FEN": "2kr4/ppp5/1b1p1Q1n/3Np3/2B1P1b1/2P2n2/PP1P2qP/R1BK1R2 w - - 0 15",
+    "Moves": "f1f3 g4f3 d1c2 f3e4 c2b3 e4d5",
+    "Rating": "1293",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "665",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/myV3rEfl#29",
+    "OpeningTags": "Vienna_Game Vienna_Game_Stanley_Variation"
+  },
+  {
+    "PuzzleId": "0P6Gd",
+    "FEN": "1r2k2r/4bpp1/b1q1p3/p1p1Pn1p/3pNP2/3P1Q2/PP3NPP/1RB1R2K b k - 1 20",
+    "Moves": "f5h4 e4f6 e8d8 f3c6",
+    "Rating": "1358",
+    "RatingDeviation": "149",
+    "Popularity": "-20",
+    "NbPlays": "11",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/9dQCYy0b/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0PA7F",
+    "FEN": "r1b2r2/2p2pkp/2p1p1p1/p2q4/3Pp2P/8/PPPQPPP1/1K1R1B1R w - - 0 14",
+    "Moves": "g2g4 e4e3 d2e3 d5h1",
+    "Rating": "1365",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "862",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/bQyEVo6i#27",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  }
+]

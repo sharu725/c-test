@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "0kKcK",
+    "FEN": "r1b1r1k1/1pppnppp/p7/b7/B2P4/B3RN2/P4PPP/5RK1 b - - 7 16",
+    "Moves": "e7d5 e3e8",
+    "Rating": "725",
+    "RatingDeviation": "106",
+    "Popularity": "100",
+    "NbPlays": "27",
+    "Themes": "backRankMate hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/BTFb6gqe/black#32",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "0kKuE",
+    "FEN": "2r4k/1R2N1p1/5r1p/p1Pp1p1q/P2P4/4PbP1/B1Q2P2/2R3K1 w - - 0 36",
+    "Moves": "a2d5 h5h1",
+    "Rating": "841",
+    "RatingDeviation": "79",
+    "Popularity": "79",
+    "NbPlays": "169",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ZmlIwGfm#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0kLfW",
+    "FEN": "2R2bk1/5pp1/2n2n1p/1p3N2/rpp1p3/4B2P/2P2PP1/1B4K1 b - - 3 30",
+    "Moves": "c6e7 f5e7 g8h7 c8f8",
+    "Rating": "918",
+    "RatingDeviation": "102",
+    "Popularity": "44",
+    "NbPlays": "41",
+    "Themes": "advantage kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/MquryHFV/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0kNzg",
+    "FEN": "2kr2r1/1pp1q3/p1n1pn1p/8/3P4/P1N1B1p1/1PPN1PPK/R2Q1R2 w - - 0 17",
+    "Moves": "f2g3 f6g4 d1g4 g8g4",
+    "Rating": "756",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "2391",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/ugkwWuwd#33",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "0kOCz",
+    "FEN": "3nr1k1/1pp3pp/pb1qbr2/3P4/4R3/1B3N2/PP1Q1PPP/4R1K1 b - - 0 18",
+    "Moves": "e6f7 e4e8 f7e8 e1e8",
+    "Rating": "685",
+    "RatingDeviation": "88",
+    "Popularity": "93",
+    "NbPlays": "443",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/QDPXcMFL/black#36",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "0kSlS",
+    "FEN": "6r1/3pk3/P3p1qp/2b5/8/P2B4/4Q2P/R4RrK w - - 7 30",
+    "Moves": "f1g1 g6g1 a1g1 g8g1",
+    "Rating": "966",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "370",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/aUessROs#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0kW7K",
+    "FEN": "r1b1r1k1/pp3ppp/8/3qp3/1n6/3B1N2/PPP2PPP/R2Q1RK1 w - - 0 13",
+    "Moves": "d3h7 g8h7 d1d5 b4d5",
+    "Rating": "831",
+    "RatingDeviation": "93",
+    "Popularity": "92",
+    "NbPlays": "174",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/RbRN0gGC#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  },
+  {
+    "PuzzleId": "0kXju",
+    "FEN": "r4rk1/pbp1q1b1/1pn2p2/3p2nN/3PpNQp/P1P1P2P/1P1B1P2/R3KBR1 w Q - 0 20",
+    "Moves": "g4h4 g5f3 e1d1 f3h4",
+    "Rating": "954",
+    "RatingDeviation": "90",
+    "Popularity": "85",
+    "NbPlays": "141",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/idqChZ4U#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0kbWv",
+    "FEN": "r4rk1/ppp2pp1/3p1q2/7p/1P1N2n1/7n/PBP2PP1/1R1QR1K1 w - - 0 18",
+    "Moves": "g2h3 f6f2 g1h1 f2h2",
+    "Rating": "961",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "357",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/e7AurQE5#35",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  }
+]

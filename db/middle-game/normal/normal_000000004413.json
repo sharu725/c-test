@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Cr5ll",
+    "FEN": "r3q2r/pb1kb1p1/1p2p3/2ppP2p/5P2/2PB3Q/PP1N2PP/R4RK1 b - - 1 17",
+    "Moves": "b7c8 d3b5 d7c7 b5e8",
+    "Rating": "1363",
+    "RatingDeviation": "76",
+    "Popularity": "27",
+    "NbPlays": "185",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/UH1I0a7a/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "Cr6ss",
+    "FEN": "1q3r1k/6pp/3p3N/p3p3/R3P3/2P2PP1/1r2Q2P/R5K1 w - - 0 30",
+    "Moves": "e2e3 b2b1 a1b1 b8b1 g1g2 b1c2 e3f2 c2a4",
+    "Rating": "1326",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "2216",
+    "Themes": "crushing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/mIVDtkFU#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Cr9qP",
+    "FEN": "2r2rk1/p1p2p2/1p2Rbpp/3q4/3P4/2PQ1P2/PPB2P1P/R5K1 w - - 1 18",
+    "Moves": "e6f6 d5g5 g1h1 g5f6",
+    "Rating": "1352",
+    "RatingDeviation": "115",
+    "Popularity": "64",
+    "NbPlays": "38",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/CmCckPRd#35",
+    "OpeningTags": "French_Defense French_Defense_Rubinstein_Variation"
+  },
+  {
+    "PuzzleId": "CrDRy",
+    "FEN": "7r/5p1k/prpqp1pP/P1Np1b2/3P1P2/1PN3K1/2PQ4/7R b - - 0 35",
+    "Moves": "b6b7 c5b7 d6e7 b7c5",
+    "Rating": "1262",
+    "RatingDeviation": "85",
+    "Popularity": "49",
+    "NbPlays": "57",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/Ylb9S3pY/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CrFVg",
+    "FEN": "4r1k1/1R1b3p/2p1q3/2Pp1p2/3Q1PpP/4r1P1/4PRBK/8 b - - 7 35",
+    "Moves": "e8a8 b7d7 e6d7 d4e3",
+    "Rating": "1359",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "251",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/j6JU0c3r/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CrG1t",
+    "FEN": "r1bqn1k1/1pp3pp/pbn5/4p1BQ/3P4/2N5/PP3PPP/R4RK1 b - - 3 15",
+    "Moves": "d8d4 h5e8",
+    "Rating": "1262",
+    "RatingDeviation": "86",
+    "Popularity": "100",
+    "NbPlays": "51",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/yYkEzSpp/black#30",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "CrJ4l",
+    "FEN": "4q2r/pp3kp1/2p2n1p/2b1B3/Q3PPb1/2NP4/PP4PP/R6K b - - 0 18",
+    "Moves": "e8d7 a4c4 g4e6 c4c5",
+    "Rating": "1374",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "7968",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/tZE4T98i/black#36",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Hanham_Variation"
+  },
+  {
+    "PuzzleId": "CrK7e",
+    "FEN": "r5k1/pB3ppp/1p2pn1q/8/1P1r3P/P7/3N2R1/R3Q2K w - - 6 28",
+    "Moves": "b7a8 d4h4 e1h4 h6h4",
+    "Rating": "1352",
+    "RatingDeviation": "120",
+    "Popularity": "71",
+    "NbPlays": "9",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/14Hx42WE#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CrMIl",
+    "FEN": "rnbq2kr/ppp3pp/8/8/4P2N/8/PPP4p/RNBQ1R1K b - - 0 12",
+    "Moves": "d8h4 d1d5 c8e6 d5e6",
+    "Rating": "1279",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "13184",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/oXVuzxYz/black#24",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Cunningham_Defense"
+  }
+]

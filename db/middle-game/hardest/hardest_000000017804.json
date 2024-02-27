@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "atD2e",
+    "FEN": "5r1k/p5pp/2pn4/1p1ppr2/1P6/2PP1Pq1/P1KNQ2R/7R b - - 13 32",
+    "Moves": "h7h6 h2g2 g3f4 g2g4 e5e4 g4f4",
+    "Rating": "2008",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "927",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/xvAxiJLF/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "atG7e",
+    "FEN": "1rb1QB2/5pk1/6np/4b3/3pP3/3B1qP1/5P1P/2R3K1 b - - 3 33",
+    "Moves": "g6f8 e8e5 g7h7 e5b8 c8h3 d3f1 h3f1 c1f1",
+    "Rating": "2164",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "457",
+    "Themes": "advantage fork hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/L1JfA71N/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "atGEt",
+    "FEN": "2k1r3/ppp3p1/2nr3p/5p2/3P4/P3PN1q/1BQ1BP2/R1R3K1 w - - 2 19",
+    "Moves": "f3g5 d6g6 e2g4 h3g4",
+    "Rating": "2115",
+    "RatingDeviation": "86",
+    "Popularity": "81",
+    "NbPlays": "48",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/l3tkRwBJ#37",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense"
+  },
+  {
+    "PuzzleId": "atGGU",
+    "FEN": "4rr1k/2p2ppp/p2b4/1p6/3P2b1/2PQ2Pq/PP3P2/RNBBR1K1 w - - 9 20",
+    "Moves": "c1d2 e8e1 d2e1 f8e8 d3f1 h3f1",
+    "Rating": "2146",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "51",
+    "Themes": "advantage clearance kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/2plh2yF1#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "atIIp",
+    "FEN": "r4b1Q/ppp2kr1/2n3p1/4p3/4p1b1/3P2P1/PPP2P1P/R1B1K1NR w KQ - 0 13",
+    "Moves": "c1h6 f8b4 c2c3 a8h8 h6g7 f7g7",
+    "Rating": "2146",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "539",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/xFhfJYir#25",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Calabrese_Countergambit"
+  },
+  {
+    "PuzzleId": "atIcy",
+    "FEN": "5r1k/pppq2p1/1b3r1p/4p2Q/1PP1B3/P2P3P/5PP1/1R3RK1 b - - 0 25",
+    "Moves": "f6f2 c4c5 b6c5 b4c5 f2f1 b1f1 f8f1 g1f1",
+    "Rating": "2086",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "466",
+    "Themes": "crushing middlegame trappedPiece veryLong",
+    "GameUrl": "https://lichess.org/phyPX8uA/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "atKzj",
+    "FEN": "4kb1r/p2b1pp1/3Pp2p/2p5/8/4qBP1/PN4KP/3Q3R b k - 0 22",
+    "Moves": "g7g5 b2c4 e3c3 d1b1 f8d6 c4d6",
+    "Rating": "2321",
+    "RatingDeviation": "88",
+    "Popularity": "76",
+    "NbPlays": "56",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/3lwbV0hs/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "atLLC",
+    "FEN": "r1b1k1r1/pp2bp2/2p5/4N3/4Pp2/1BP2NnP/PP3qPK/R2Q2R1 b q - 11 23",
+    "Moves": "c8h3 b3f7 e8f8 f7g8",
+    "Rating": "2015",
+    "RatingDeviation": "246",
+    "Popularity": "5",
+    "NbPlays": "20",
+    "Themes": "attackingF2F7 crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/EihMMfkq/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "atLnP",
+    "FEN": "r2q1k1r/pR1b4/4p1Q1/3PP3/3P1p2/3Bb3/P6P/5R1K w - - 2 26",
+    "Moves": "b7d7 d8d7 g6f6 f8g8",
+    "Rating": "2207",
+    "RatingDeviation": "77",
+    "Popularity": "80",
+    "NbPlays": "136",
+    "Themes": "advantage defensiveMove hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/PCt34HCI#51",
+    "OpeningTags": ""
+  }
+]

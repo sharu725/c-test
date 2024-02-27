@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QcvA9",
+    "FEN": "r1b3r1/ppNknR1p/8/6q1/2BP4/8/PPP3PP/R2Q2K1 w - - 1 15",
+    "Moves": "c7a8 g5g2",
+    "Rating": "1207",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "200",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/mnA19rPB#29",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Schallopp_Defense"
+  },
+  {
+    "PuzzleId": "QcvFG",
+    "FEN": "r4rk1/p3pp1p/2p1b1p1/3p4/2qP4/2P2N2/PR3PPP/2Q1K2R b K - 7 18",
+    "Moves": "e6g4 f3e5 c4a6 e5g4",
+    "Rating": "1332",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "1068",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/wpsQF3a7/black#36",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "QcwCb",
+    "FEN": "r1b3k1/1p2nppp/2pr1q2/p1p1n3/P3PP2/2P5/BP1N2PP/R2Q1RK1 b - - 1 15",
+    "Moves": "e5g6 e4e5 g6e5 f4e5",
+    "Rating": "1239",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "446",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Ansv9g6M/black#30",
+    "OpeningTags": "Scotch_Game Scotch_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "QcwZ4",
+    "FEN": "rn1q1rk1/p3bpp1/1pp1pn1p/2Pp4/1P1P4/2NQPN2/P4PPP/R1B1R1K1 b - - 0 11",
+    "Moves": "b8a6 d3a6",
+    "Rating": "1244",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "255",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/6EVkZShn/black#22",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "Qcwt1",
+    "FEN": "3r2k1/4bppp/pq2p3/1p2P1N1/3p1Q2/P2P4/1Pr3bP/R1B2RK1 b - - 1 21",
+    "Moves": "e7g5 f4f7 g8h8 f7f8 d8f8 f1f8",
+    "Rating": "1223",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "3716",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/fgcjzdOP/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Qd0bu",
+    "FEN": "r1bqr1k1/1p4pp/p1pb1p2/2pN4/4P2N/P6P/1PPQ1PP1/R3R1K1 w - - 0 18",
+    "Moves": "d5c3 d6h2 g1h2 d8d2",
+    "Rating": "1201",
+    "RatingDeviation": "79",
+    "Popularity": "60",
+    "NbPlays": "160",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/FnYAVBFO#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "Qd0jP",
+    "FEN": "1r2kb1r/1bp1qPpp/p1np4/1p1n2N1/3p4/8/PPP2PPP/RNBQ1RK1 b k - 0 12",
+    "Moves": "e8d7 d1g4 d7d8 g5e6 e7e6 g4e6",
+    "Rating": "1385",
+    "RatingDeviation": "93",
+    "Popularity": "74",
+    "NbPlays": "55",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/GW8fwvxz/black#24",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "Qd1Nd",
+    "FEN": "4r3/p4qnk/2pR4/4Qpp1/8/1PN5/b1P2PPP/4R1K1 w - - 1 27",
+    "Moves": "d6e6 e8e6 e5e6 g7e6",
+    "Rating": "1282",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1761",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/RqRnh24j#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Qd1dB",
+    "FEN": "2r5/q2pkp2/p3p1p1/1p2Pn2/5P1r/1NP2Q2/PP4PP/R3R2K w - - 2 23",
+    "Moves": "b3d2 h4h2 h1h2 c8h8",
+    "Rating": "1340",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1355",
+    "Themes": "attraction crushing kingsideAttack master middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/UiaCQEVy#45",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "RMSK4",
+    "FEN": "r4rk1/pbp1pN1B/1p1pPn2/6Q1/6q1/8/PPP2PPP/1R2R1K1 b - - 0 22",
+    "Moves": "g8h7 g5h6 h7g8 h6h8",
+    "Rating": "965",
+    "RatingDeviation": "82",
+    "Popularity": "93",
+    "NbPlays": "344",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/r1qmf3cW/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RMT3k",
+    "FEN": "r3rqk1/1p2n2p/4b1p1/1P1pp3/4n2R/p1P1PN2/P3BPP1/2RQKN2 w - - 1 23",
+    "Moves": "f3e5 f8f2",
+    "Rating": "779",
+    "RatingDeviation": "88",
+    "Popularity": "100",
+    "NbPlays": "42",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Hxj5f41N#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RMTVk",
+    "FEN": "2r3k1/1pr2ppp/p3b3/4n3/8/P1N3P1/1P1R3P/K2R4 b - - 4 31",
+    "Moves": "e5f3 d2d8 c8d8 d1d8",
+    "Rating": "605",
+    "RatingDeviation": "96",
+    "Popularity": "94",
+    "NbPlays": "397",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/1RlVu7h6/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RMTqb",
+    "FEN": "rnb2rk1/pp2b1pp/2pp4/1P2p2q/2P3n1/2NP2pP/P2NPPB1/1RBQ1RK1 w - - 0 13",
+    "Moves": "h3g4 h5h2",
+    "Rating": "918",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "214",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/zEk0ylYi#25",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "RMTs8",
+    "FEN": "r1b4k/pp3r2/3qp2B/3pnp2/8/2PB2Q1/PP3PPP/R3K2R w KQ - 3 20",
+    "Moves": "h6f4 e5d3 g3d3 d6f4",
+    "Rating": "785",
+    "RatingDeviation": "99",
+    "Popularity": "93",
+    "NbPlays": "537",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/7DfYlNf4#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RMVgx",
+    "FEN": "2kr3r/5p2/1BbPp3/Q4p1p/P2pq3/8/1P3PPP/R4RK1 w - - 1 25",
+    "Moves": "a1c1 e4g2",
+    "Rating": "738",
+    "RatingDeviation": "89",
+    "Popularity": "79",
+    "NbPlays": "125",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/fprXM50r#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RMVlX",
+    "FEN": "r5r1/pq3k2/5p2/8/1npP2B1/2N1Q2P/P1P2P2/4R1K1 w - - 4 26",
+    "Moves": "e3e7 b7e7 e1e7 f7e7",
+    "Rating": "826",
+    "RatingDeviation": "91",
+    "Popularity": "85",
+    "NbPlays": "121",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/upeBLYKD#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RMWK9",
+    "FEN": "1r3rk1/5ppb/8/2p2Pq1/p1PpQ3/P6P/1P4B1/4R1K1 b - - 1 30",
+    "Moves": "f8e8 e4e8 b8e8 e1e8",
+    "Rating": "600",
+    "RatingDeviation": "93",
+    "Popularity": "76",
+    "NbPlays": "110",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/V5XHI61G/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RMWSd",
+    "FEN": "r1b2r1k/pp1p1pp1/2pQ2np/4P3/5RP1/2NB3q/PPP2P1P/R5K1 b - - 5 18",
+    "Moves": "g6f4 d6f8",
+    "Rating": "773",
+    "RatingDeviation": "94",
+    "Popularity": "89",
+    "NbPlays": "77",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/jiXZoKdi/black#36",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation"
+  }
+]

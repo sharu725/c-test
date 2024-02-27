@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "rvhsf",
+    "FEN": "r5k1/1p1q1ppp/2pp3r/p1B5/2P1P3/1PN4b/P1P1N1P1/1R1Q1R1K w - - 1 18",
+    "Moves": "c5f2 h3g2 h1g1 h6h1 g1g2 d7h3",
+    "Rating": "1767",
+    "RatingDeviation": "295",
+    "Popularity": "-100",
+    "NbPlays": "5",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/IIJNh6bB#35",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "rviZk",
+    "FEN": "r3k2r/pp2q1p1/2n5/4p3/2Ppn1P1/PQ1B2p1/1P1N2P1/R4RK1 w kq - 0 20",
+    "Moves": "d2e4 h8h1 g1h1 e7h4 h1g1 h4h2",
+    "Rating": "1727",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "374",
+    "Themes": "attraction kingsideAttack long master mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/m0qr0ipX#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rvtmh",
+    "FEN": "r2q2k1/p4p2/1p1p2pp/2pP3r/3bPP2/3B2B1/PP2Q1Pn/R4R1K w - - 0 21",
+    "Moves": "g3h2 h5h2 h1h2 d8h4",
+    "Rating": "1631",
+    "RatingDeviation": "76",
+    "Popularity": "79",
+    "NbPlays": "53",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/Zqy6XJeC#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rvuvN",
+    "FEN": "6k1/p4p1p/2p3p1/3n1b2/Pb1p1B1P/1P1P1P2/2PN4/3KR2R w - - 1 30",
+    "Moves": "f4h6 d5c3 d1c1 b4a3",
+    "Rating": "1605",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "12486",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/UIr1S5cX#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rw05P",
+    "FEN": "4R3/1b1n1Pp1/p6k/1p1p1P2/8/3P1BK1/1q6/8 b - - 3 34",
+    "Moves": "b2f6 e8h8 h6g5 h8h5",
+    "Rating": "1639",
+    "RatingDeviation": "79",
+    "Popularity": "70",
+    "NbPlays": "63",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/51Bk7Ilz/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rwBS9",
+    "FEN": "3b4/7p/p1P1b1k1/4P3/KP6/2P2Q2/3r4/8 w - - 0 45",
+    "Moves": "b4b5 d2a2 a4b4 d8e7",
+    "Rating": "1700",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "12495",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/UwLZw6AP#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rwCht",
+    "FEN": "5bk1/2RN3p/4qpp1/4p3/2Q5/5bP1/5P2/r1B3K1 b - - 11 35",
+    "Moves": "e6c4 d7f6 g8h8 c7h7",
+    "Rating": "1791",
+    "RatingDeviation": "196",
+    "Popularity": "47",
+    "NbPlays": "7",
+    "Themes": "arabianMate discoveredAttack master mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Y5xuOifE/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rwFbx",
+    "FEN": "8/r4qk1/b1Q5/6b1/6p1/PR5P/1PPN2P1/2K5 w - - 1 33",
+    "Moves": "c6c5 f7f1",
+    "Rating": "1619",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "150",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/oU53q3sY#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rwIeC",
+    "FEN": "2bR4/2r1r1kp/1Q5p/5N2/2P5/7P/PP2q1P1/7K b - - 10 32",
+    "Moves": "g7f7 f5h6 f7g7 d8g8",
+    "Rating": "1750",
+    "RatingDeviation": "101",
+    "Popularity": "81",
+    "NbPlays": "30",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/xN71rnh8/black#64",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "sAraZ",
+    "FEN": "r1b1r2k/ppq3p1/5n1p/3Qpp2/1P6/2B2N2/1PP2PPP/R3R1K1 w - - 5 20",
+    "Moves": "c3e5 f6d5",
+    "Rating": "1589",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1501",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/E8GQTF5H#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sAsEv",
+    "FEN": "r4rk1/pp3pp1/4p2p/2pPqbb1/8/2N1PQP1/PP2B1PP/R4RK1 b - - 0 17",
+    "Moves": "e6d5 f3f5 g5e3 g1h1 e5f5 f1f5",
+    "Rating": "1521",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "2422",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/0SalWr1v/black#34",
+    "OpeningTags": "Slav_Defense Slav_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "sAsih",
+    "FEN": "r6r/1p2Bk1p/pq1p4/5b2/4nP2/2N5/PPP3PP/R2QK2R w KQ - 0 15",
+    "Moves": "d1h5 f5g6 h5d5 f7e7",
+    "Rating": "1512",
+    "RatingDeviation": "86",
+    "Popularity": "81",
+    "NbPlays": "35",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/N3ayn31X#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "sAtOK",
+    "FEN": "r3k2r/ppp4p/3bN1p1/3Pn1Bq/4Q1n1/2P4P/PP3PP1/RN3RK1 w kq - 3 17",
+    "Moves": "h3g4 e5f3 e4f3 h5h2",
+    "Rating": "1459",
+    "RatingDeviation": "78",
+    "Popularity": "78",
+    "NbPlays": "237",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/ljDVsPXq#33",
+    "OpeningTags": "Elephant_Gambit Elephant_Gambit_Paulsen_Countergambit"
+  },
+  {
+    "PuzzleId": "sAtdA",
+    "FEN": "2r3k1/5pp1/ppq1pn1p/3r4/P2p1P2/1P1P2BP/RbPQN1P1/5RK1 b - - 6 23",
+    "Moves": "c6c2 a2b2 c2d2 b2d2",
+    "Rating": "1426",
+    "RatingDeviation": "77",
+    "Popularity": "73",
+    "NbPlays": "123",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/E9AdiriH/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sAuRc",
+    "FEN": "r2q2rk/pbp2R1n/1pn1Q3/3pP1P1/3P3P/2N5/PPP3P1/R5K1 b - - 2 22",
+    "Moves": "d8e8 f7h7 h8h7 e6h6",
+    "Rating": "1440",
+    "RatingDeviation": "88",
+    "Popularity": "86",
+    "NbPlays": "30",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/YKHu1NUc/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sAuXA",
+    "FEN": "r2k2r1/2p4p/3pp2q/1N6/1P2b1n1/P5B1/2P1Q1PP/R5RK w - - 6 24",
+    "Moves": "e2e4 h6h2 g3h2 g4f2",
+    "Rating": "1541",
+    "RatingDeviation": "87",
+    "Popularity": "83",
+    "NbPlays": "3509",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short smotheredMate",
+    "GameUrl": "https://lichess.org/MI9MSDXh#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sAwQ3",
+    "FEN": "5rk1/2p3b1/1rn2qpp/1p1p4/p2P4/P1N1P1NP/BPP5/R2QK1R1 w Q - 0 23",
+    "Moves": "c3d5 f6f2",
+    "Rating": "1460",
+    "RatingDeviation": "174",
+    "Popularity": "52",
+    "NbPlays": "57",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/3A1PFY8R#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sAwjk",
+    "FEN": "r1bnkb1r/1pp5/p2p1n1p/3Pp3/PPB1Pppq/6P1/2P1NP1N/R1BQ1RK1 b kq - 0 14",
+    "Moves": "f4g3 f2g3 h4h5 f1f6",
+    "Rating": "1512",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "5339",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/XbUbgOPA/black#28",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Njv1G",
+    "FEN": "3r2k1/1b1Q1pp1/p3p2p/qp2p1b1/4P3/1BN5/PPR2PPP/6K1 w - - 6 23",
+    "Moves": "d7b7 d8d1 c3d1 a5e1",
+    "Rating": "1155",
+    "RatingDeviation": "82",
+    "Popularity": "83",
+    "NbPlays": "97",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/VHpDIfAN#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Njvzg",
+    "FEN": "r1b1r1k1/pp3ppp/2n5/q2B2b1/8/1P1P1Q1P/PKP1NP2/3R3R b - - 1 17",
+    "Moves": "c6b4 f3f7 g8h8 f7e8",
+    "Rating": "1078",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "421",
+    "Themes": "backRankMate fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/uCpOMsqQ/black#34",
+    "OpeningTags": "Elephant_Gambit Elephant_Gambit_Paulsen_Countergambit"
+  },
+  {
+    "PuzzleId": "NjwYu",
+    "FEN": "2kr1bnr/ppp2ppp/8/8/2BPNB1q/2P2P2/PP2Q2P/2KRR3 w - - 5 15",
+    "Moves": "c4f7 h4f4 e2e3 f4f7",
+    "Rating": "1114",
+    "RatingDeviation": "84",
+    "Popularity": "93",
+    "NbPlays": "1103",
+    "Themes": "advantage fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/dM4LVQLW#29",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Queens_Knight_Defense"
+  },
+  {
+    "PuzzleId": "Nk0F5",
+    "FEN": "2r1r1k1/2q1pp1p/p2pb1pB/6R1/3bP3/1P6/PN1Q1PP1/1K1R4 w - - 0 25",
+    "Moves": "d2d4 c7c2 b1a1 c2c1 d1c1 c8c1",
+    "Rating": "1084",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "3674",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/kr7wHO5d#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Nk25G",
+    "FEN": "b4q1k/2Q3p1/4pr1p/2np4/2p2P2/1pP3PP/1P1R1P1K/R7 b - - 9 41",
+    "Moves": "f6f7 a1a8 f7c7 a8f8",
+    "Rating": "1118",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1047",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/e44fmJbr/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Nk2EX",
+    "FEN": "5r2/1p4k1/3P2rp/p1pN4/P1Nb4/6BP/1P3P2/3R2K1 w - - 0 30",
+    "Moves": "g1g2 f8f2 g2h1 g6g3",
+    "Rating": "1015",
+    "RatingDeviation": "136",
+    "Popularity": "65",
+    "NbPlays": "11",
+    "Themes": "crushing deflection master middlegame pin short",
+    "GameUrl": "https://lichess.org/RWg5y1mI#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Nk4TP",
+    "FEN": "2r2rk1/1p1b1pp1/p4q1p/P1b5/3Q4/1B2BP2/1PP3PP/R4RK1 w - - 0 18",
+    "Moves": "d4f6 c5e3 g1h1 g7f6",
+    "Rating": "1052",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "371",
+    "Themes": "crushing hangingPiece intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/BodAEALb#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "Nk5GD",
+    "FEN": "2bR4/r3nk1p/1pB1p1n1/p7/P7/2B4P/1PP2PP1/6K1 b - - 0 24",
+    "Moves": "a7c7 c6e8 f7g8 e8g6",
+    "Rating": "1150",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "3709",
+    "Themes": "deflection discoveredAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/nDVKmCfD/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Nk6oT",
+    "FEN": "r2q1rk1/p2n2bp/1p1Q2p1/2p5/8/4BP2/PPP2P1P/3RR1K1 b - - 0 16",
+    "Moves": "d7f6 d6e6 g8h8 d1d8",
+    "Rating": "1022",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "290",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/1rCAcx4r/black#32",
+    "OpeningTags": "French_Defense French_Defense_Normal_Variation"
+  }
+]

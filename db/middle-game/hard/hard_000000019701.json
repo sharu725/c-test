@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pAHBg",
+    "FEN": "2r4r/p1pqkp1p/1p2p3/3nP3/2QP4/2P5/P2K1PBP/R5R1 b - - 6 19",
+    "Moves": "d5f4 g2c6 d7c6 c4c6",
+    "Rating": "1638",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "5335",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/Md3Su7hy/black#38",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "pAHaG",
+    "FEN": "2krr3/pp5p/1q3pp1/1Nbpnn2/PP6/5P2/2Q2NPP/R1B1R1K1 b - - 0 26",
+    "Moves": "c8b8 b4c5 e5f3 g2f3",
+    "Rating": "1731",
+    "RatingDeviation": "75",
+    "Popularity": "79",
+    "NbPlays": "924",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/dOroUcKu/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pAI7e",
+    "FEN": "r1b2rk1/ppq3p1/3b1p1p/4n3/2P1B3/2Q1PN1P/1B3PP1/R4RK1 b - - 1 20",
+    "Moves": "c7c4 c3c4 e5c4 e4d5 g8h7 d5c4",
+    "Rating": "1730",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "295",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/HMBwPLGP/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pAJLS",
+    "FEN": "2r1rbk1/R5pp/2p2p2/1b3N2/1p1PPBQ1/8/2q3PP/3R2K1 b - - 4 28",
+    "Moves": "b5e2 a7g7 f8g7 g4g7",
+    "Rating": "1796",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "891",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/j4Z8D8VN/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pAKOs",
+    "FEN": "2r1r1k1/3b1ppp/p4q2/np1Pp3/8/2P2N2/PPB1QPPP/2KR3R w - - 3 18",
+    "Moves": "e2d3 e5e4 d3d4 e4f3 d4f6 g7f6",
+    "Rating": "1751",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1186",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/c01peWAp#35",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+  },
+  {
+    "PuzzleId": "pALr0",
+    "FEN": "7k/1bp3p1/p2b3p/1p5q/1PP3R1/P2Q3P/B5P1/5rBK w - - 1 30",
+    "Moves": "d3f1 h5h3 g1h2 h3h2",
+    "Rating": "1602",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "9767",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/BDZSEoyo#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pALzB",
+    "FEN": "r3k2r/ppp2ppp/2n1bn2/2q3B1/4p3/3P1NP1/PP2PPBP/R2Q1RK1 w kq - 0 12",
+    "Moves": "g5f6 e4f3 g2f3 g7f6",
+    "Rating": "1626",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "1187",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/1wnuPRJR#23",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "pANNy",
+    "FEN": "r3k2r/Bppqnpbp/3p2p1/3Pp3/2P1n3/5N2/PP3PPP/RN1QR1K1 b kq - 0 11",
+    "Moves": "e4f2 a7f2",
+    "Rating": "1747",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "396",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/XUD7nILu/black#22",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "pANso",
+    "FEN": "4r2k/1pp1r1pp/1p1p4/3Pn3/1P3Pq1/PBQ3Pn/1B4K1/4RR2 b - - 0 26",
+    "Moves": "e5g6 c3g7 e7g7 e1e8 g6f8 e8f8",
+    "Rating": "1720",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "10024",
+    "Themes": "deflection kingsideAttack long mate mateIn3 middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/kNNW5zVz/black#52",
+    "OpeningTags": ""
+  }
+]

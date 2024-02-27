@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PVaFb",
+    "FEN": "2r1r1k1/5p1p/Q3p1pP/1N1p4/3n1q2/P4B1R/1P2PP2/R3K3 w Q - 0 23",
+    "Moves": "b5d4 c8c1 a1c1 f4c1",
+    "Rating": "1063",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "171",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/xr4bEvwr#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PVcPJ",
+    "FEN": "rn2kbnr/ppp1pppp/8/4N3/2P5/5Q1P/PP1PKPP1/Rbq2B1R b kq - 1 9",
+    "Moves": "c1b2 f3f7 e8d8 f7f8",
+    "Rating": "1147",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "1797",
+    "Themes": "attackingF2F7 deflection mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/W7vGAym5/black#18",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "PVe7z",
+    "FEN": "3rkb1r/1p3ppp/p3bn2/8/2P5/2N2N2/PPn2PPP/1RB1KB1R w Kk - 4 12",
+    "Moves": "e1e2 e6c4",
+    "Rating": "1101",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "369",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/LFK3aCX0#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_OKelly_Variation"
+  },
+  {
+    "PuzzleId": "PVeP2",
+    "FEN": "r3r1k1/6p1/p1p1Pp1p/1bR2P1Q/5q2/6RP/6PK/8 b - - 3 39",
+    "Moves": "g8f8 h5f7",
+    "Rating": "1151",
+    "RatingDeviation": "103",
+    "Popularity": "89",
+    "NbPlays": "112",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ADbsjrLx/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PVeaQ",
+    "FEN": "8/8/8/2Pp1P1p/3P3P/4rq2/7K/3Q1k2 b - - 18 89",
+    "Moves": "e3e1 d1f3",
+    "Rating": "1051",
+    "RatingDeviation": "131",
+    "Popularity": "85",
+    "NbPlays": "14",
+    "Themes": "endgame hangingPiece mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/Zjb834Ax/black#178",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PVfU2",
+    "FEN": "4k2r/5p1p/3pp1p1/p1p3N1/b2bP2P/q2P1QP1/2P1KPB1/2R5 b k - 2 30",
+    "Moves": "a3c1 f3f7 e8d8 g5e6 d8c8 f7c7",
+    "Rating": "1094",
+    "RatingDeviation": "82",
+    "Popularity": "91",
+    "NbPlays": "475",
+    "Themes": "attackingF2F7 long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/eiPWjYOi/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PVkqb",
+    "FEN": "2r2rk1/p4ppp/4p3/2qp1b2/4nB2/2N1P2P/PP2QbP1/K2R1BNR w - - 5 17",
+    "Moves": "c3e4 c5c1 d1c1 c8c1",
+    "Rating": "1199",
+    "RatingDeviation": "79",
+    "Popularity": "80",
+    "NbPlays": "982",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/vD5ylmm2#33",
+    "OpeningTags": "Slav_Defense Slav_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "PVoAw",
+    "FEN": "3r1rk1/ppp2pn1/8/6Q1/2B1b3/5pP1/PR3b1P/5R1K w - - 0 26",
+    "Moves": "f1f2 d8d1 c4f1 d1f1 f2f1 f3f2",
+    "Rating": "1061",
+    "RatingDeviation": "81",
+    "Popularity": "92",
+    "NbPlays": "71",
+    "Themes": "advancedPawn discoveredAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/o6PxgKMk#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PVpZd",
+    "FEN": "r7/ppR2p2/6kp/6pN/6P1/1P1r4/P5KP/8 b - - 3 34",
+    "Moves": "f7f5 c7g7",
+    "Rating": "1034",
+    "RatingDeviation": "106",
+    "Popularity": "69",
+    "NbPlays": "61",
+    "Themes": "endgame hookMate mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/K60lsxiI/black#68",
+    "OpeningTags": ""
+  }
+]

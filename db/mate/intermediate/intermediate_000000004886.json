@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "WDTMO",
+    "FEN": "8/5R2/2p1PBpk/3p1b2/5r1p/8/6K1/8 b - - 0 57",
+    "Moves": "h6h5 f7h7 h5g4 h7h4",
+    "Rating": "1566",
+    "RatingDeviation": "109",
+    "Popularity": "62",
+    "NbPlays": "18",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/ct6UP0ez/black#114",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WDapr",
+    "FEN": "4k3/4P3/2R1K3/r4Ppp/8/8/2p4P/8 b - - 3 42",
+    "Moves": "a5a6 c6a6 c2c1q a6a8 c1c8 a8c8",
+    "Rating": "1427",
+    "RatingDeviation": "437",
+    "Popularity": "25",
+    "NbPlays": "2",
+    "Themes": "endgame exposedKing long mate mateIn3 rookEndgame",
+    "GameUrl": "https://lichess.org/0sMfiovL/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WDf0g",
+    "FEN": "rn1q1k2/pp6/2pp1n2/4p1p1/2B1Pp2/2NP1b1Q/PPPB1P2/2K5 b - - 1 16",
+    "Moves": "g5g4 h3h8 f8e7 h8g7 e7e8 g7f7",
+    "Rating": "1564",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "164",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/HCK5o8Wl/black#32",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Lopez_Countergambit"
+  },
+  {
+    "PuzzleId": "WDfBc",
+    "FEN": "4rk2/1p3p1B/1qn2p2/8/5B2/pPP1b3/P2Q3P/1K3RR1 b - - 0 27",
+    "Moves": "e3d2 f4d6 c6e7 g1g8",
+    "Rating": "1552",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "600",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/vww9Tnmt/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WDhES",
+    "FEN": "r4rk1/p6p/2qp2bP/6p1/2PQ1pP1/1P3B2/P5K1/8 b - - 0 31",
+    "Moves": "c6d7 f3d5 g6f7 d4g7",
+    "Rating": "1508",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "321",
+    "Themes": "endgame fork mate mateIn2 short",
+    "GameUrl": "https://lichess.org/1xCup5g4/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WDmyf",
+    "FEN": "2k3r1/pp3Q2/2p5/5P2/3p4/6rP/PPR2RP1/3q2K1 w - - 1 29",
+    "Moves": "g1h2 g3h3 g2h3 d1g1",
+    "Rating": "1595",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "882",
+    "Themes": "endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/RbF6dpaE#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WDwbV",
+    "FEN": "8/8/1p3P2/1P6/pK1k3r/P7/5R1P/8 w - - 1 42",
+    "Moves": "f2f1 d4d3 f1f4 h4f4",
+    "Rating": "1589",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "8092",
+    "Themes": "discoveredAttack endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/LZdYfxWG#83",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WDye5",
+    "FEN": "7k/6p1/3rQ2p/3pp3/4b3/PNP1q2P/1P4P1/5R1K w - - 1 29",
+    "Moves": "e6d6 e3h3 h1g1 h3g2",
+    "Rating": "1483",
+    "RatingDeviation": "74",
+    "Popularity": "85",
+    "NbPlays": "281",
+    "Themes": "endgame mate mateIn2 pin short",
+    "GameUrl": "https://lichess.org/uXUi4u7k#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WDyw4",
+    "FEN": "2r3k1/ppN1n1pp/8/4p3/5p1n/3R1P1B/PP2PP1P/6K1 b - - 0 23",
+    "Moves": "c8c7 h3e6 g8h8 d3d8 e7g8 d8g8",
+    "Rating": "1526",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "11554",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/17EAyHUD/black#46",
+    "OpeningTags": ""
+  }
+]

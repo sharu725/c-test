@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "43nL6",
+    "FEN": "r3R3/p1kp1pQ1/bp6/2p5/2P2q2/P1Pn4/5PPP/4R1K1 w - - 1 26",
+    "Moves": "e8a8 f4f2 g1h1 f2e1",
+    "Rating": "1030",
+    "RatingDeviation": "80",
+    "Popularity": "91",
+    "NbPlays": "499",
+    "Themes": "backRankMate endgame fork mate mateIn2 short",
+    "GameUrl": "https://lichess.org/l0kimCaG#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "43oX5",
+    "FEN": "5rk1/2P1nppp/8/p1b5/1p6/1Pp5/5PPP/3RR1K1 b - - 0 24",
+    "Moves": "f8c8 d1d8 c8d8 c7d8q",
+    "Rating": "1035",
+    "RatingDeviation": "86",
+    "Popularity": "87",
+    "NbPlays": "1191",
+    "Themes": "advancedPawn backRankMate endgame mate mateIn2 promotion short",
+    "GameUrl": "https://lichess.org/5gc2dni5/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "43pvn",
+    "FEN": "2r4k/1q3p2/p1N2Pp1/3P2Qp/5P2/8/2PK4/8 b - - 1 43",
+    "Moves": "c8c6 g5h6 h8g8 h6g7",
+    "Rating": "1179",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "156",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/804hhNS3/black#86",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "43sRk",
+    "FEN": "1R4k1/p4pp1/3p3p/3P4/q1r3Q1/8/5PPP/6K1 b - - 1 26",
+    "Moves": "g8h7 g4f5 g7g6 f5f7",
+    "Rating": "1190",
+    "RatingDeviation": "230",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/nRx977lV/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "43tvj",
+    "FEN": "rR4k1/p4pp1/4pn2/6N1/4PK2/8/r4PPP/1R6 b - - 6 28",
+    "Moves": "a8b8 b1b8 f6e8 b8e8",
+    "Rating": "1070",
+    "RatingDeviation": "320",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/4Q4AGA49/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "43uNT",
+    "FEN": "1nR3kr/1B3ppp/1n2p3/qpQ5/3p4/1r1P2P1/4PP1P/5RK1 b - - 9 27",
+    "Moves": "b6c8 c5c8 a5d8 c8d8",
+    "Rating": "1012",
+    "RatingDeviation": "160",
+    "Popularity": "33",
+    "NbPlays": "17",
+    "Themes": "backRankMate fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/izpuhXJm/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "43uWP",
+    "FEN": "2kr1bnr/ppp2ppp/8/5b2/3n4/4N3/PP2PPPP/R1B1KBNR w KQ - 0 9",
+    "Moves": "e3f5 d4c2",
+    "Rating": "1133",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "362",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/xDLrBK9U#17",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "43v3A",
+    "FEN": "6k1/p2rp3/2p1R1P1/2p5/2P5/N1P3PR/r6P/7K w - - 0 35",
+    "Moves": "h3h7 d7d1 e6e1 d1e1",
+    "Rating": "1010",
+    "RatingDeviation": "278",
+    "Popularity": "-62",
+    "NbPlays": "3",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/xqHxjTDR#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "43vSU",
+    "FEN": "r1b2rk1/ppp2ppp/3b4/4q3/2B2n2/2P1BQ2/PP1N1PPP/R4RK1 w - - 9 15",
+    "Moves": "e3d4 f4e2 c4e2 e5h2",
+    "Rating": "1199",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "301",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/r8qeDiHe#29",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "GpMP1",
+    "FEN": "rn2r1k1/pp2qppp/2p5/3p1b1n/3P4/1QN1PN2/PP2BPPP/R3K2R b KQ - 5 12",
+    "Moves": "h5f4 e3f4",
+    "Rating": "1485",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "1515",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/1mOyIUuF/black#24",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "GpOvZ",
+    "FEN": "r1r3k1/1p3p1p/p1n1pqp1/2Bp4/3P4/1P2PB1P/PQ3PP1/2R3K1 b - - 0 21",
+    "Moves": "c6a7 c5a7 c8c1 b2c1 a8a7 c1c8 g8g7 c8b8",
+    "Rating": "1583",
+    "RatingDeviation": "86",
+    "Popularity": "52",
+    "NbPlays": "37",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/Fg1Ghiyc/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GpPE2",
+    "FEN": "r4rk1/pp3pp1/1n3n2/2q5/2pp4/2NPBQP1/PPP3PP/R3R1K1 w - - 0 17",
+    "Moves": "c3e4 f6e4 f3e4 d4e3",
+    "Rating": "1447",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "165",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/nfymN6mm#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "GpQNr",
+    "FEN": "2kr3r/p1p1qppp/2pb1n2/8/4P1b1/2N2N2/PPP2PPP/R1BQ1RK1 w - - 2 10",
+    "Moves": "f1e1 d6h2 g1h2 d8d1",
+    "Rating": "1470",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "953",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/jDh4ip1T#19",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Hartlaub-Charlick_Gambit"
+  },
+  {
+    "PuzzleId": "GpSeZ",
+    "FEN": "2r2k2/1bqn4/4p1Q1/p2pP3/Pp1P2PP/1P3r2/5P2/2R1R1K1 b - - 2 35",
+    "Moves": "c7c1 e1c1 c8c1 g1g2 c1c3 g6e6",
+    "Rating": "1431",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality long middlegame",
+    "GameUrl": "https://lichess.org/CFEioeu7/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GpTIa",
+    "FEN": "6k1/4n2p/p5p1/4p3/3pP1B1/pr6/N2b1r2/K2R3R b - - 1 30",
+    "Moves": "d2e3 g4e6 g8g7 e6b3",
+    "Rating": "1475",
+    "RatingDeviation": "408",
+    "Popularity": "100",
+    "NbPlays": "2",
+    "Themes": "equality fork middlegame short",
+    "GameUrl": "https://lichess.org/x8DjndMw/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GpV6o",
+    "FEN": "2rk2r1/pBq2p1b/3b3n/3Q4/8/1P3N1P/P4PP1/2R1R1K1 b - - 2 26",
+    "Moves": "c7c1 d5d6",
+    "Rating": "1483",
+    "RatingDeviation": "112",
+    "Popularity": "58",
+    "NbPlays": "208",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/nmvFwg3W/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GpWGn",
+    "FEN": "1r1q1rk1/p4ppp/3b4/4n3/3pQ3/3P4/PPP2PPP/RNB2RK1 w - - 3 15",
+    "Moves": "e4d4 e5f3 g2f3 d6h2 g1h2 d8d4",
+    "Rating": "1485",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "538",
+    "Themes": "crushing discoveredAttack kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/IX3QwvuO#29",
+    "OpeningTags": "Italian_Game Italian_Game_Blackburne-Kostic_Gambit"
+  },
+  {
+    "PuzzleId": "GpWTl",
+    "FEN": "5rk1/Q4pbp/4q1p1/pr2p1N1/3p4/8/1P3RPP/5R1K b - - 8 33",
+    "Moves": "e6e8 f2f7 f8f7 f1f7",
+    "Rating": "1564",
+    "RatingDeviation": "77",
+    "Popularity": "76",
+    "NbPlays": "133",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/JVBdjBnO/black#66",
+    "OpeningTags": ""
+  }
+]

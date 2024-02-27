@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "RoLyq",
+    "FEN": "1rr3k1/4pp1p/3p2p1/qN1P2b1/2P1P3/2R4Q/5PPP/1R4K1 b - - 4 28",
+    "Moves": "b8b5 h3c8 g8g7 c4b5",
+    "Rating": "2013",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "10634",
+    "Themes": "crushing hangingPiece intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/ibm8q0Cn/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RoMTM",
+    "FEN": "r2q1r2/ppp2pk1/2n1p2p/3bN3/3P1PQn/P1PBP3/5R1P/R5K1 b - - 3 20",
+    "Moves": "h4g6 e5g6 f7f5 g4g3 f8f6 g6h4 g7h7 c3c4 d5e4 d3e4",
+    "Rating": "2215",
+    "RatingDeviation": "137",
+    "Popularity": "-7",
+    "NbPlays": "18",
+    "Themes": "advantage discoveredAttack middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/p6lNBthC/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RoMdX",
+    "FEN": "1n3rk1/r4ppp/p7/1pb1R3/3p4/PNq5/2P2PPP/R1BQ2K1 b - - 5 19",
+    "Moves": "f8c8 c1d2 c3c4 b3c5",
+    "Rating": "2246",
+    "RatingDeviation": "84",
+    "Popularity": "78",
+    "NbPlays": "39",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/6WbQY7eF/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "RoNSX",
+    "FEN": "r4b1r/pQ1nkppp/2p5/8/2q1p3/5N2/PP1P1PPP/RNB1K2R w KQ - 0 12",
+    "Moves": "b7a8 c4c1 e1e2 e4f3 g2f3 c1h1",
+    "Rating": "2038",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "683",
+    "Themes": "advantage hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/J2KupAIF#23",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "RoO3t",
+    "FEN": "4r1k1/p4p1p/1nR3p1/8/P2P4/5PP1/2b1rNBP/R5K1 w - - 1 25",
+    "Moves": "a4a5 e2e1 a1e1 e8e1 g2f1 b6d5",
+    "Rating": "2189",
+    "RatingDeviation": "111",
+    "Popularity": "82",
+    "NbPlays": "18",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/RylzFDT1#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RoPZn",
+    "FEN": "1nbq1b1r/r2k1Qp1/p3p2p/1pp1PnN1/4N3/3P4/PP3PPP/R1B2RK1 b - - 3 14",
+    "Moves": "d7c6 f7a7 h6g5 a7b8",
+    "Rating": "2149",
+    "RatingDeviation": "84",
+    "Popularity": "89",
+    "NbPlays": "613",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/YlRMqqTF/black#28",
+    "OpeningTags": "Reti_Opening Reti_Opening_Reti_Accepted"
+  },
+  {
+    "PuzzleId": "RoPr6",
+    "FEN": "r3k3/4p3/p2p1p2/1pqPn1p1/3R2Br/6Q1/PPP3PP/1K1R4 w q - 4 25",
+    "Moves": "h2h3 f6f5 g3e3 f5g4",
+    "Rating": "2114",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "2209",
+    "Themes": "advantage master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/49IeHycz#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RoQo1",
+    "FEN": "r2r2k1/1b2qp1p/p3p1p1/2BnP3/5P2/1B1Q4/1R4PP/2R3K1 b - - 3 24",
+    "Moves": "d5f4 d3g3 d8c8 c5e7 c8c1 g1f2",
+    "Rating": "2334",
+    "RatingDeviation": "83",
+    "Popularity": "90",
+    "NbPlays": "108",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/cC6cdWlx/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RoQw7",
+    "FEN": "r4rk1/1p5p/p1P3p1/6q1/3R1nP1/2Q4P/PP3P2/1K5R b - - 0 26",
+    "Moves": "a8c8 c3b3 g8h8 c6b7",
+    "Rating": "2236",
+    "RatingDeviation": "76",
+    "Popularity": "56",
+    "NbPlays": "65",
+    "Themes": "advancedPawn advantage middlegame short",
+    "GameUrl": "https://lichess.org/peHriafy/black#52",
+    "OpeningTags": ""
+  }
+]

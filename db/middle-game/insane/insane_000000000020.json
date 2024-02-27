@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "07BkM",
+    "FEN": "5rk1/p2p2pp/1p2bp2/6P1/q4P2/P1Q2N2/1Kn4P/3R1R2 b - - 3 33",
+    "Moves": "c2e3 c3e3 a4c4 e3c3",
+    "Rating": "2475",
+    "RatingDeviation": "81",
+    "Popularity": "84",
+    "NbPlays": "78",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/l4p0ojJs/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "07DGc",
+    "FEN": "5r2/p6R/2p1kpn1/2q3pQ/Bp4n1/1P6/P4PPP/3r1RK1 w - - 14 32",
+    "Moves": "f1d1 c5f2 g1h1 f2e2 h5g4 e2g4",
+    "Rating": "2456",
+    "RatingDeviation": "98",
+    "Popularity": "90",
+    "NbPlays": "1073",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/NWhMEkgl#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "07F4Q",
+    "FEN": "r1b1r1k1/4q3/2pp2p1/p1n4p/2PRn3/P1P1BP1P/2Q1B1P1/3R2K1 b - - 0 25",
+    "Moves": "e4g3 c2g6 g8h8 e3g5",
+    "Rating": "2404",
+    "RatingDeviation": "88",
+    "Popularity": "85",
+    "NbPlays": "1176",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/VxuFxuQp/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "07Fj0",
+    "FEN": "4r3/pQP2p1k/8/6pp/5r1b/P2N3K/1P4R1/5n2 w - - 2 40",
+    "Moves": "g2g3 e8e2 b7g2 e2g2 h3g2 f4c4",
+    "Rating": "2548",
+    "RatingDeviation": "79",
+    "Popularity": "83",
+    "NbPlays": "226",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/1CDTEyzO#79",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "07Kq0",
+    "FEN": "2r2rk1/pb1p2pp/1p1bp1n1/5n2/3N4/2P1B1Pq/PPBN1P1P/R3RQK1 b - - 2 17",
+    "Moves": "h3g4 d4f5 f8f5 c2d1",
+    "Rating": "2712",
+    "RatingDeviation": "89",
+    "Popularity": "86",
+    "NbPlays": "351",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/gpjQZWJs/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Katalimov_Variation"
+  },
+  {
+    "PuzzleId": "07N42",
+    "FEN": "3r1rk1/Q5pp/3bpq1n/8/8/2N1B3/PPP2PPP/R4RK1 w - - 3 18",
+    "Moves": "e3d4 d6h2 g1h2 d8d4 h2g1 d4h4",
+    "Rating": "2691",
+    "RatingDeviation": "96",
+    "Popularity": "85",
+    "NbPlays": "487",
+    "Themes": "advantage defensiveMove discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/JXELMtG8#35",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "07R61",
+    "FEN": "5r2/p3k1p1/3bQ2R/2p1n3/2q2P2/8/PB2r1PP/R5K1 b - - 2 28",
+    "Moves": "e7d8 e6d6 e5d7 a1d1 e2g2 g1h1",
+    "Rating": "2477",
+    "RatingDeviation": "90",
+    "Popularity": "85",
+    "NbPlays": "335",
+    "Themes": "crushing fork hangingPiece long middlegame quietMove",
+    "GameUrl": "https://lichess.org/uHOCiDpF/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "07U8A",
+    "FEN": "r5r1/ppp2k2/2np1b2/5q2/2PPp3/2N1P2P/PP3PB1/R2QR1K1 w - - 1 18",
+    "Moves": "g1h2 g8g2 h2g2 a8g8 g2f1 f6h4",
+    "Rating": "2521",
+    "RatingDeviation": "109",
+    "Popularity": "90",
+    "NbPlays": "264",
+    "Themes": "master middlegame",
+    "GameUrl": "https://lichess.org/Ogi2lj0y#35",
+    "OpeningTags": "Indian_Defense Indian_Defense_Przepiorka_Variation"
+  },
+  {
+    "PuzzleId": "07Utx",
+    "FEN": "r4rk1/7p/4p1p1/3p4/1p3P2/pPq1b1RQ/P2N2R1/3K4 b - - 1 33",
+    "Moves": "d5d4 g3g6 g8h8 g6g7 c3a1 d1e2 d4d3 e2e3 a1e1 e3f3",
+    "Rating": "2660",
+    "RatingDeviation": "83",
+    "Popularity": "88",
+    "NbPlays": "378",
+    "Themes": "advantage defensiveMove middlegame veryLong",
+    "GameUrl": "https://lichess.org/3T1IT19E/black#66",
+    "OpeningTags": ""
+  }
+]

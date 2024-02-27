@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "vyX6U",
+    "FEN": "1k2r3/ppp2ppp/4P2n/3N4/3B1Q2/3rP1P1/PP2q2P/2R3K1 b - - 0 23",
+    "Moves": "h6g4 f4c7 b8a8 c7c8 e8c8 c1c8",
+    "Rating": "1052",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "4942",
+    "Themes": "long mate mateIn3 middlegame queensideAttack sacrifice",
+    "GameUrl": "https://lichess.org/4c5xgseu/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vybyI",
+    "FEN": "r1b1rk2/5pp1/1p1q3p/1P2p3/1nBp4/5N2/P4PPP/R2QR1K1 w - - 3 20",
+    "Moves": "f3e5 e8e5 e1e5 d6e5",
+    "Rating": "1136",
+    "RatingDeviation": "118",
+    "Popularity": "58",
+    "NbPlays": "16",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/qIm07wKu#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vycAr",
+    "FEN": "4r1k1/2pq2pp/prp2p2/3nP3/2P3bB/5N2/PP2Q1PP/4RR1K b - - 0 19",
+    "Moves": "e8e5 f3e5 g4e2 e5d7",
+    "Rating": "1149",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "303",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/1xx97k4f/black#38",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  },
+  {
+    "PuzzleId": "vydHM",
+    "FEN": "7r/1p2k3/4pb2/1BPp1p1p/1P4q1/6P1/3QR2P/5RK1 w - - 6 27",
+    "Moves": "d2e3 f6d4 f1f4 d4e3",
+    "Rating": "1129",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "578",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/LkVyd5Uo#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vydMx",
+    "FEN": "3r1rk1/1pq1nppp/p4n2/8/5P2/2N5/PPP1NQPK/R1B2R2 w - - 3 17",
+    "Moves": "c1e3 f6g4 h2g1 g4f2",
+    "Rating": "1172",
+    "RatingDeviation": "75",
+    "Popularity": "74",
+    "NbPlays": "132",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/89JWdKTi#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "vye8d",
+    "FEN": "r4rk1/1p1n1p2/p1pp1q1p/4p1p1/4P1P1/3P1B1P/PPP1QP2/2KR3R w - - 0 15",
+    "Moves": "h1h2 f6f4 e2e3 f4h2",
+    "Rating": "1024",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "275",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/wMIxzgEn#29",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Leonardis_Variation"
+  },
+  {
+    "PuzzleId": "vyfqB",
+    "FEN": "1nr1r2k/pp3p2/1q2pPp1/3p1N1p/3P3P/5N2/PP1Q1PP1/R4RK1 b - - 0 21",
+    "Moves": "e6f5 d2h6 h8g8 h6g7",
+    "Rating": "1106",
+    "RatingDeviation": "78",
+    "Popularity": "68",
+    "NbPlays": "115",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/nN08Lo8t/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vyiH2",
+    "FEN": "r3r1k1/3R1ppp/1p6/pp6/4b3/1QP1qN2/PP4PP/K6R b - - 2 18",
+    "Moves": "e4f3 b3f7 g8h8 f7g7",
+    "Rating": "1086",
+    "RatingDeviation": "81",
+    "Popularity": "81",
+    "NbPlays": "99",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/VP5tvyw5/black#36",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Felbecker_Gambit"
+  },
+  {
+    "PuzzleId": "vykNN",
+    "FEN": "1r2r1k1/p4ppp/1qp2n2/3p4/3P4/1P1BN2P/P1PQ2P1/2K4R b - - 0 18",
+    "Moves": "b6d4 d3h7 g8h7 d2d4",
+    "Rating": "1071",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "3426",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/iUeFJkx8/black#36",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Fischer_Defense"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "TkdR5",
+    "FEN": "r4rk1/pp1R2pp/2p2qp1/8/8/4b3/PP3PPP/RN1Q2K1 w - - 0 18",
+    "Moves": "f2e3 f6f2 g1h1 f2f1 d1f1 f8f1",
+    "Rating": "1174",
+    "RatingDeviation": "227",
+    "Popularity": "67",
+    "NbPlays": "4",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/VMb84DKT#35",
+    "OpeningTags": "Slav_Defense Slav_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Tke1Q",
+    "FEN": "5rk1/2p3bp/1p3qp1/p2Pp3/2P1P1Q1/2N1B3/PP4PP/2R3K1 w - - 1 22",
+    "Moves": "e3g5 f6f2 g1h1 f2f1 c1f1 f8f1",
+    "Rating": "1080",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "3610",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/2ml1tydQ#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TkfZB",
+    "FEN": "rq2k2r/1b1pbp1p/4pp2/4nP2/1p1N4/1B2B3/PPPQ2PP/R3K2R b KQkq - 4 16",
+    "Moves": "b7g2 d2g2",
+    "Rating": "1070",
+    "RatingDeviation": "292",
+    "Popularity": "-100",
+    "NbPlays": "1",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/JgdTTYEl/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "Tkg0s",
+    "FEN": "r1b1k2r/pp3ppp/2n2q2/2Pp4/8/2P1P3/P4PPP/R2QKBNR w KQkq - 0 10",
+    "Moves": "d1d5 f6c3 d5d2 c3a1",
+    "Rating": "1130",
+    "RatingDeviation": "79",
+    "Popularity": "70",
+    "NbPlays": "77",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/VDfy14RS#19",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Leningrad_Variation"
+  },
+  {
+    "PuzzleId": "Tkgq3",
+    "FEN": "2r2r1k/pp3p1p/6n1/3n2B1/2P5/1P3P1P/P4P2/2KR2R1 b - - 2 22",
+    "Moves": "d5c3 g5f6 h8g8 f6c3",
+    "Rating": "1105",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "719",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/xJp227tx/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TkhK5",
+    "FEN": "2rq1rk1/1p3ppp/p2p1b2/3BnP2/2P5/6P1/PP5P/R1BQ1RK1 w - - 0 16",
+    "Moves": "d5b7 d8b6 g1h1 b6b7",
+    "Rating": "1193",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "291",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/t0y9Ano7#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "TkieG",
+    "FEN": "2kr3r/1pq1b3/2P5/p2ppp2/3P2p1/4Q3/P2N2KP/1R3RN1 b - - 0 23",
+    "Moves": "e5d4 e3e6 c8b8 b1b7",
+    "Rating": "1180",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "1198",
+    "Themes": "crushing middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/nWTV0n5J/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TknLs",
+    "FEN": "2r1k1nr/pp3ppp/8/3q1P2/1b1p1R2/3B2P1/PPP1K2P/R2Q4 b k - 3 17",
+    "Moves": "d5e5 f4e4 e5e4 d3e4",
+    "Rating": "1110",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "3104",
+    "Themes": "advantage defensiveMove middlegame pin short",
+    "GameUrl": "https://lichess.org/0758WWya/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lowenthal_Variation"
+  },
+  {
+    "PuzzleId": "TknPk",
+    "FEN": "q4rk1/4bppp/p1n2n2/6B1/1p6/5Q2/PPP2PPP/R3R1K1 b - - 6 19",
+    "Moves": "c6d4 f3a8 f8a8 e1e7",
+    "Rating": "1043",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "158",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/CyAKWRhU/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  }
+]

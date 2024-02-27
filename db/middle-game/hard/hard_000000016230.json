@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "gAeBH",
+    "FEN": "r2q1rk1/pbppnpbp/1pn1p1p1/8/2B1P3/2NPBN1P/PPP2PP1/R2Q1RK1 w - - 1 9",
+    "Moves": "d1d2 d7d5 e3h6 d5c4 h6g7 g8g7",
+    "Rating": "1793",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "173",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/13CssqNg#17",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "gAfBI",
+    "FEN": "r3k2r/ppq1ppb1/1n4p1/1N3b2/2p5/2P2N1P/P2PQPP1/R1B1K2R b KQkq - 1 16",
+    "Moves": "c7c5 c1a3 f5d3 a3c5",
+    "Rating": "1782",
+    "RatingDeviation": "96",
+    "Popularity": "73",
+    "NbPlays": "26",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/wn3iGYiW/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "gAfl4",
+    "FEN": "1b3rk1/rPq2pp1/p1p3p1/3p4/1B1Pn1P1/PQ2PN1P/5P2/1R3RK1 w - - 5 23",
+    "Moves": "b4f8 e4d2 g1g2 d2b3",
+    "Rating": "1782",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1741",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/GN99U4wR#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gAfvb",
+    "FEN": "3r2k1/p6p/1p1q1b1P/1Q2Nbp1/3P2P1/4RP2/1Pr5/3R2K1 b - - 2 35",
+    "Moves": "f5c8 b5b3 d6d5 b3c2 f6e5 e3e5",
+    "Rating": "1674",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "2945",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/Tk28Qmxe/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gAg1C",
+    "FEN": "2rq1rk1/1p3p2/p3pn1p/3pP1p1/2nP4/b4QBP/2B1NPP1/3R1RK1 b - - 0 21",
+    "Moves": "f6e8 f3d3 f7f5 e5f6",
+    "Rating": "1743",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "226",
+    "Themes": "crushing enPassant middlegame short",
+    "GameUrl": "https://lichess.org/7dmySWsB/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gAhE7",
+    "FEN": "r4rn1/pp4pk/1qpp3p/4pp2/3PP2P/P1PnPQ2/RP2N1P1/1N4KR b - - 1 20",
+    "Moves": "f5e4 f3e4 h7h8 e4d3 b6b3 e2c1",
+    "Rating": "1621",
+    "RatingDeviation": "74",
+    "Popularity": "85",
+    "NbPlays": "364",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/I8Fh2Pjc/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gAknb",
+    "FEN": "1r2k2r/p2n1qbp/1pB1b3/3p1pB1/N2PnQ2/8/PPP2P1P/2KR2R1 b k - 0 20",
+    "Moves": "h7h6 f4b8",
+    "Rating": "1713",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "10186",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/t7WMNCAa/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gAl4u",
+    "FEN": "2kr1bnr/ppp2ppp/2B5/q7/3p4/2N1B3/PPP2PPP/R2Q1RK1 b - - 0 10",
+    "Moves": "d4e3 c6b7 c8b7 d1d8",
+    "Rating": "1749",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "62",
+    "Themes": "advantage deflection middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/goREI7Zf/black#20",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "gAm53",
+    "FEN": "rnb2rk1/pp2qpp1/3b3p/2Bn4/1P6/P4N2/2Q1BPPP/R2R2K1 w - - 0 18",
+    "Moves": "c5d6 e7d6 e2c4 c8e6 c2b3 f8d8",
+    "Rating": "1783",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "361",
+    "Themes": "advantage defensiveMove long middlegame quietMove",
+    "GameUrl": "https://lichess.org/dWFX9tm1#35",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Scandinavian_Defense"
+  }
+]

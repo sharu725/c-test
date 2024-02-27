@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "TZ9C1",
+    "FEN": "2b3k1/1r5N/p5Q1/1p1p4/3qP1P1/3Nnr2/P1P1K1B1/7R b - - 0 27",
+    "Moves": "b7g7 g6e8 f3f8 e8f8",
+    "Rating": "1637",
+    "RatingDeviation": "96",
+    "Popularity": "70",
+    "NbPlays": "34",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/VWPdqlur/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TZ9Hf",
+    "FEN": "6k1/p3nppp/8/1r1pN3/2pK4/b1B1P3/1r3PPP/1N1R3R w - - 2 24",
+    "Moves": "c3b2 a3b2 b1c3 e7f5",
+    "Rating": "1624",
+    "RatingDeviation": "78",
+    "Popularity": "97",
+    "NbPlays": "10428",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/WQAquJUx#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TZBJK",
+    "FEN": "3r2k1/p1q3bp/2P2p2/3rpp2/P1Q5/7P/4RPP1/4R1K1 b - - 0 30",
+    "Moves": "d8d6 e2d2 c7c6 c4c6 d6c6 d2d5",
+    "Rating": "1728",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "435",
+    "Themes": "advantage capturingDefender long middlegame pin",
+    "GameUrl": "https://lichess.org/QHpmYX8p/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TZCH2",
+    "FEN": "r5k1/2p2pp1/2p4p/rpP2Bn1/3P4/1p2B3/P2RRPPP/2K5 w - - 2 22",
+    "Moves": "d2b2 b3a2 b2a2 a5a2 e2a2 a8a2",
+    "Rating": "1748",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "1296",
+    "Themes": "advancedPawn advantage long middlegame",
+    "GameUrl": "https://lichess.org/yLMuqPar#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TZCq1",
+    "FEN": "4rb1k/2R4p/p5p1/4nB2/3p4/P1pP1P1P/2P3n1/2BK2R1 b - - 0 30",
+    "Moves": "g6f5 g1g2 e5f3 g2e2",
+    "Rating": "1795",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "245",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Z0qc8ru2/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TZDMI",
+    "FEN": "3q4/2r2pk1/1Q1p2p1/3Pp3/1P2P1P1/1BP2N1r/1B3K2/8 w - - 2 35",
+    "Moves": "c3c4 d8f6 b6e3 h3h2 f2f1 h2b2",
+    "Rating": "1770",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "259",
+    "Themes": "crushing exposedKing long middlegame pin skewer",
+    "GameUrl": "https://lichess.org/Xa9eGSaf#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TZDos",
+    "FEN": "2k3r1/1pp3r1/2p1b3/P2qPp1p/3P1B2/7P/2PQ1RP1/1R4K1 b - - 0 28",
+    "Moves": "g7g2 f2g2 g8g2 d2g2 d5d4 g2f2",
+    "Rating": "1618",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2091",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/UP3kVMgl/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TZEKD",
+    "FEN": "1r2k2r/p2b1ppp/1q2p3/n2p4/3P4/P1PB1N2/2Q2PPP/R3K2R b KQk - 1 17",
+    "Moves": "d7b5 a1b1 a7a6 a3a4 b5d3 b1b6 b8b6 c2d3",
+    "Rating": "1795",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "7319",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/oDaWkjJD/black#34",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "TZGXb",
+    "FEN": "r2q1rk1/pp3pbp/3p1np1/2p1n1B1/4PQ2/2N4P/PPP1BPP1/R4RK1 w - - 0 12",
+    "Moves": "c3d5 f6d5 e4d5 f7f6 g5h4 g6g5 f4f5 g5h4",
+    "Rating": "1693",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "173",
+    "Themes": "advantage fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/tweLu1Lx#23",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  }
+]

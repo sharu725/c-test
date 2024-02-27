@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "JaXui",
+    "FEN": "4r1k1/2p2pp1/1p1q3p/pR1p4/3P4/2P2Q1P/P4PP1/6K1 w - - 2 24",
+    "Moves": "b5d5 e8e1",
+    "Rating": "956",
+    "RatingDeviation": "85",
+    "Popularity": "96",
+    "NbPlays": "166",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/wGhJyNAI#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JaY2i",
+    "FEN": "r1bq2rk/p5bp/2p1p2p/3pN3/3P4/P1N4P/1P1Q1PP1/R4RK1 b - - 1 18",
+    "Moves": "c8b7 e5f7",
+    "Rating": "970",
+    "RatingDeviation": "105",
+    "Popularity": "73",
+    "NbPlays": "93",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/aWUgVgdT/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "JaZjv",
+    "FEN": "1r2k2r/2p1ppbp/2n1qnp1/8/Q4P2/2Pp4/PP1N1PBP/R1B1K1R1 w Qk - 7 16",
+    "Moves": "e1f1 e6e2",
+    "Rating": "989",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "389",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ORfspGLe#31",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "JacK6",
+    "FEN": "3r1q2/2Q5/p3pPpk/1p6/2p5/2P5/P1P2PPP/4R1K1 w - - 4 32",
+    "Moves": "e1e6 d8d1 e6e1 d1e1",
+    "Rating": "600",
+    "RatingDeviation": "95",
+    "Popularity": "90",
+    "NbPlays": "917",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/feQYOMH7#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Jae0H",
+    "FEN": "2rq1rk1/pp3pp1/2pb1N1p/8/3P1nb1/2PQ1N2/PPB2PPP/R3R1K1 b - - 7 17",
+    "Moves": "d8f6 d3h7",
+    "Rating": "614",
+    "RatingDeviation": "80",
+    "Popularity": "100",
+    "NbPlays": "252",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/wk3XD4SR/black#34",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Boehnke_Gambit"
+  },
+  {
+    "PuzzleId": "Jagno",
+    "FEN": "5r1k/pp3p1p/1b2p3/3pP3/2rP1PQ1/Pq2B3/1P3P1P/6RK b - - 3 23",
+    "Moves": "f8g8 g4g8",
+    "Rating": "820",
+    "RatingDeviation": "102",
+    "Popularity": "70",
+    "NbPlays": "87",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/kVxspOVt/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Jajob",
+    "FEN": "8/6pk/2bP3p/8/1P2P1p1/1r6/6PP/2R4K w - - 0 33",
+    "Moves": "c1c6 b3b1 c6c1 b1c1",
+    "Rating": "534",
+    "RatingDeviation": "101",
+    "Popularity": "90",
+    "NbPlays": "564",
+    "Themes": "backRankMate endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/cfoQ5nwu#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JakAn",
+    "FEN": "b5k1/2p2ppp/1p2pn2/2n5/8/2N3P1/PPBq1PP1/3RR1K1 b - - 2 19",
+    "Moves": "d2c2 d1d8 f6e8 d8e8",
+    "Rating": "625",
+    "RatingDeviation": "96",
+    "Popularity": "85",
+    "NbPlays": "472",
+    "Themes": "backRankMate fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Fy3k1Fft/black#38",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations"
+  },
+  {
+    "PuzzleId": "JalTU",
+    "FEN": "1k1r3r/p1pp1pbp/BpN3p1/3Qq3/8/8/PPP2PPP/2KR3R b - - 0 14",
+    "Moves": "d7c6 d5d8 h8d8 d1d8",
+    "Rating": "897",
+    "RatingDeviation": "88",
+    "Popularity": "93",
+    "NbPlays": "1511",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/CgPcapav/black#28",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  }
+]

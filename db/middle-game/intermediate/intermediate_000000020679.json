@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "nnftC",
+    "FEN": "4r2k/pb4pp/5p1n/2nP4/2B5/1PB2N2/P4KPP/3R4 w - - 0 27",
+    "Moves": "d5d6 c5e4 f2f1 e4c3 d6d7 e8d8",
+    "Rating": "1465",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "324",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/cP3oLqO1#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nngWj",
+    "FEN": "r1bq1rk1/p1p1bppp/2N5/2p5/8/8/PPP2PPP/R1BQ1RK1 b - - 1 12",
+    "Moves": "d8d1 c6e7 g8h8 f1d1",
+    "Rating": "1415",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "3357",
+    "Themes": "advantage hangingPiece intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/6UpfzT7R/black#24",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "nnjTL",
+    "FEN": "1r4k1/1r3ppp/2pp4/q1n2b2/1PB5/P1N2P2/3Q2PP/2KR3R w - - 1 23",
+    "Moves": "b4a5 b7b1 c3b1 b8b1",
+    "Rating": "1574",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "677",
+    "Themes": "mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/gNmHpexn#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nnkL9",
+    "FEN": "r1b2rk1/3n1ppp/p3pq2/8/8/2PB1R2/P1PQ1PPP/3R2K1 b - - 0 18",
+    "Moves": "f6h4 f3h3 h4h3 g2h3",
+    "Rating": "1556",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "140",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/nT4UaTgm/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Sozin_Attack"
+  },
+  {
+    "PuzzleId": "nnkQu",
+    "FEN": "r1b2r2/ppp2ppk/3b1n2/1N1Pp3/8/6P1/PPPBQ1BP/2KR3q b - - 1 17",
+    "Moves": "h1h2 g2e4 f6e4 e2h2",
+    "Rating": "1543",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "10396",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/lJ8UMUUc/black#34",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Halloween_Gambit"
+  },
+  {
+    "PuzzleId": "nnlea",
+    "FEN": "r4rk1/p1q2ppp/1p1bpn2/3b2B1/3p3P/P2B1N2/1PPQ1PP1/2K3RR w - - 1 15",
+    "Moves": "g5f6 d6f4 f6d4 f4d2",
+    "Rating": "1422",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "3742",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/bbEAztdZ#29",
+    "OpeningTags": "French_Defense French_Defense_Rubinstein_Variation"
+  },
+  {
+    "PuzzleId": "nnlg7",
+    "FEN": "r4rk1/pp1nqppp/2p2b1B/4pP2/6Q1/3B1R2/PPP3P1/R6K b - - 7 19",
+    "Moves": "d7c5 h6g7 f6g7 f5f6 e7f6 f3f6",
+    "Rating": "1572",
+    "RatingDeviation": "171",
+    "Popularity": "-100",
+    "NbPlays": "6",
+    "Themes": "advantage fork long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/yCDdo0iK/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "nnm0c",
+    "FEN": "2kr3r/4p1bp/p5p1/1pp5/Pn2BP2/8/1PP3PP/R1B1K2R w KQ - 3 18",
+    "Moves": "a4b5 d8d4 e1f2 d4e4",
+    "Rating": "1563",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "5879",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/05X7qNeS#35",
+    "OpeningTags": "Modern_Defense Modern_Defense_Pseudo-Austrian_Attack"
+  },
+  {
+    "PuzzleId": "nnn5p",
+    "FEN": "r1bqr1k1/p5bp/2pP1n2/2B1ppN1/8/2N5/PP4PP/R2Q1RK1 b - - 0 19",
+    "Moves": "h7h6 d1b3 g8h8 g5f7",
+    "Rating": "1566",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1383",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/y7nTtOvv/black#38",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  }
+]

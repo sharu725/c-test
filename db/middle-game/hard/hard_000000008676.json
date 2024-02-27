@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "MY30X",
+    "FEN": "2kr3r/p2q4/4n3/1p4pp/4Pp2/1NKP1P2/4QP2/R6R b - - 0 32",
+    "Moves": "e6c5 b3c5 d7d4 c3b3",
+    "Rating": "1774",
+    "RatingDeviation": "79",
+    "Popularity": "61",
+    "NbPlays": "52",
+    "Themes": "advantage defensiveMove hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/sBxOe9f0/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MY40y",
+    "FEN": "r1b4k/pp3Rpp/1qpb1n2/3p4/3P4/1BN2Q2/PPP3PP/R5K1 w - - 3 16",
+    "Moves": "f7f6 b6d4 f3f2 d4f6 f2f6 g7f6",
+    "Rating": "1716",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "1966",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/RD8DUldd#31",
+    "OpeningTags": "Latvian_Gambit Latvian_Gambit_Mason_Countergambit"
+  },
+  {
+    "PuzzleId": "MY48q",
+    "FEN": "4rrk1/pp3p2/1q2bp1p/2np4/3N1P2/2P2R2/PP2B1PP/1R1Q2K1 b - - 1 18",
+    "Moves": "e6g4 f3g3 f6f5 e2g4",
+    "Rating": "1787",
+    "RatingDeviation": "78",
+    "Popularity": "83",
+    "NbPlays": "47",
+    "Themes": "crushing discoveredAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/GO9PPjBx/black#36",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "MY4gY",
+    "FEN": "2r2r1k/pb6/1p2pp1p/3q4/P2P3b/2PB3P/1P2Q1PB/R4RK1 w - - 0 26",
+    "Moves": "a1d1 f8g8 d3e4 d5e4 e2e4 b7e4",
+    "Rating": "1733",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "72",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/9UI4hrwK#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MY4yI",
+    "FEN": "r1q2rk1/pp2p2p/4b1p1/8/8/2PQ1p1P/PP1P1PP1/RNB2RK1 w - - 0 24",
+    "Moves": "g2g3 e6c4 d3c4 c8c4",
+    "Rating": "1791",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2173",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/c1HxqEgQ#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MY9iy",
+    "FEN": "r1q1r1k1/ppp2pbp/2n1b1p1/2Q1PnB1/2B5/2N2N2/PP3PPP/R3R1K1 w - - 7 15",
+    "Moves": "c4b5 g7f8 c5c6 b7c6",
+    "Rating": "1771",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "494",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/VOOeLaYM#29",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "MYCwh",
+    "FEN": "3rkr2/1pP1q2p/4b1p1/3N4/2Q5/P5PP/1P4B1/2N3K1 b - - 0 32",
+    "Moves": "d8c8 d5e7 e6c4 e7c8",
+    "Rating": "1716",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "2739",
+    "Themes": "crushing master masterVsMaster middlegame short superGM",
+    "GameUrl": "https://lichess.org/lmiKNy3z/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MYEq4",
+    "FEN": "r4rnk/p4pp1/1ppqp2p/6R1/3P3Q/2PB3R/PP3PPP/6K1 b - - 5 25",
+    "Moves": "d6e7 g5g7 h8g7 h3g3 g7h8 g3g8 h8g8 h4e7",
+    "Rating": "1656",
+    "RatingDeviation": "152",
+    "Popularity": "-5",
+    "NbPlays": "6",
+    "Themes": "advantage attraction kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/5bYfEtty/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MYFJz",
+    "FEN": "r1b2rk1/2q1ppbp/p1np1np1/1p6/3NP3/1BN1BP2/PPPQ2PP/2KR3R w - - 0 12",
+    "Moves": "e3h6 c6d4 h6g7 d4b3 c2b3 g8g7",
+    "Rating": "1709",
+    "RatingDeviation": "75",
+    "Popularity": "80",
+    "NbPlays": "69",
+    "Themes": "advantage long middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/Wz1aD8Yt#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  }
+]

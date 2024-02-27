@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "YyMya",
+    "FEN": "3n3b/1r3pk1/6p1/p1R1NqB1/1p1P3P/P7/1P3PP1/4R1K1 b - - 2 30",
+    "Moves": "d8e6 g2g4 f5g5 h4g5",
+    "Rating": "1954",
+    "RatingDeviation": "74",
+    "Popularity": "75",
+    "NbPlays": "534",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/mOv5iEVU/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YyOFx",
+    "FEN": "r3k2r/pppqbp1p/3p1n2/4p1B1/2B1P3/2PP3b/PP3R1P/R2Q1NK1 b kq - 0 14",
+    "Moves": "f6e4 c4f7 e8d8 g5e7 d8e7 d3e4",
+    "Rating": "1891",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4006",
+    "Themes": "advantage attackingF2F7 long middlegame",
+    "GameUrl": "https://lichess.org/Z9upVGlD/black#28",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Queens_Knight_Defense"
+  },
+  {
+    "PuzzleId": "YyPWP",
+    "FEN": "r3k2r/2qbb1p1/pp6/2pP3p/2P1R3/1P3N2/P4PPP/R2Q2K1 b kq - 0 19",
+    "Moves": "d7f5 d5d6 e8c8 e4e7 c7e7 d6e7 d8d1 a1d1",
+    "Rating": "1984",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "341",
+    "Themes": "advancedPawn advantage fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/lMzRwve3/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Moscow_Variation"
+  },
+  {
+    "PuzzleId": "YyPvG",
+    "FEN": "r3r1k1/p1p2ppp/5n2/3P3b/1q1P4/2N1BP2/PPPQ2PP/R3K2R w KQ - 0 14",
+    "Moves": "b2b3 e8e3 d2e3 a8e8 e3e8 f6e8",
+    "Rating": "1813",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "4860",
+    "Themes": "clearance crushing long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/fP1RnTqT#27",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Spanish_Variation"
+  },
+  {
+    "PuzzleId": "YyQTm",
+    "FEN": "rn1qkb1r/p4pp1/1pn1p2p/3pP3/3P4/1P1Q1N1P/P2B1PP1/RN3RK1 b kq - 2 13",
+    "Moves": "c6b4 d2b4 f8b4 d3b5 d8d7 b5b4",
+    "Rating": "1849",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "223",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/1vJkAu62/black#26",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "YyQvJ",
+    "FEN": "3r2k1/2RPrpp1/1p5p/8/4n3/3Q1N2/1q4PP/3R3K w - - 4 29",
+    "Moves": "d3e4 e7e4 c7c8 b2f6",
+    "Rating": "1892",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "2945",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/YgIyjZ5f#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YySFC",
+    "FEN": "2r5/p4qkp/2n5/3ppr2/3Pp1p1/BN1bP1P1/PP1Q1P1P/2R1K2R w K - 4 24",
+    "Moves": "d4e5 c6e5 c1c8 e5f3 e1d1 f3d2",
+    "Rating": "1865",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "962",
+    "Themes": "crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/j4It29rK#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YySJP",
+    "FEN": "r4rk1/1p1qppbp/p1np1npB/8/3NP3/2N5/PPPQ1PPP/R4RK1 w - - 0 12",
+    "Moves": "f1e1 g7h6 d2h6 c6d4",
+    "Rating": "1912",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "912",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/1Tk0rBkz#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "YySpt",
+    "FEN": "4r1k1/bR3pp1/p6p/3p4/3N4/1P2qBPb/PB2P2P/3QK3 b - - 2 30",
+    "Moves": "a7d4 d1d4 e3d4 b2d4",
+    "Rating": "1972",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "216",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/Lebl7QUV/black#60",
+    "OpeningTags": ""
+  }
+]

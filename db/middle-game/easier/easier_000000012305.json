@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "bSNVk",
+    "FEN": "b2r1nk1/3r1pp1/1pqNp2p/p1b1P2P/P2N4/1Pn3P1/4QPB1/2RRB2K w - - 8 33",
+    "Moves": "c1c3 c6g2",
+    "Rating": "1057",
+    "RatingDeviation": "79",
+    "Popularity": "88",
+    "NbPlays": "346",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/O2Lh957n#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bSNdG",
+    "FEN": "r3k2r/pppn1ppp/5n2/5b2/4q3/2B2N2/PPP1QPPP/2KR1B1R w kq - 2 11",
+    "Moves": "e2b5 e4c2",
+    "Rating": "1013",
+    "RatingDeviation": "233",
+    "Popularity": "54",
+    "NbPlays": "19",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/M0hujtN4#21",
+    "OpeningTags": "Elephant_Gambit Elephant_Gambit_Paulsen_Countergambit"
+  },
+  {
+    "PuzzleId": "bSO5i",
+    "FEN": "3r1rk1/1b3ppp/pNp2b2/2Ppp1q1/1P6/4PBP1/P4P1P/1R1Q1RK1 w - - 0 20",
+    "Moves": "e3e4 d5e4 f3e4 d8d1",
+    "Rating": "1065",
+    "RatingDeviation": "82",
+    "Popularity": "83",
+    "NbPlays": "160",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/4H3YJ9gw#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bSPGN",
+    "FEN": "2r2rk1/2q2pp1/p6p/1p3N2/3npPQ1/PB5P/1PP3P1/R5K1 b - - 2 24",
+    "Moves": "d4b3 g4g7",
+    "Rating": "1079",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "174",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/cy1AbaFp/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bSQAJ",
+    "FEN": "r2q3r/pp2bpk1/n1p2N2/4P1Bp/3P2pP/8/PP1Q1PP1/R4RK1 w - - 1 18",
+    "Moves": "g5h6 h8h6 d2g5 h6g6",
+    "Rating": "1063",
+    "RatingDeviation": "144",
+    "Popularity": "52",
+    "NbPlays": "25",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Vbo26JpE#35",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "bSQmT",
+    "FEN": "3rb2k/ppp2r1N/2qp2nQ/8/2P1P3/1P4PB/P6P/R4RK1 b - - 0 24",
+    "Moves": "f7h7 f1f8 g6f8 h6f8",
+    "Rating": "1116",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "436",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/DAzmvdIl/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bSSc5",
+    "FEN": "r5k1/3n1ppp/8/3nN3/1P6/3pP2P/r4PP1/B1RR2K1 b - - 0 25",
+    "Moves": "a2a1 c1a1 a8a1 d1a1",
+    "Rating": "1117",
+    "RatingDeviation": "81",
+    "Popularity": "94",
+    "NbPlays": "2208",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/qOHzePdO/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bSSmJ",
+    "FEN": "r3k2r/2p3pp/p1q2pb1/1p6/1b2P3/2N5/PPQN1PPP/R4RK1 b kq - 1 18",
+    "Moves": "e8g8 c2b3 g6f7 b3b4",
+    "Rating": "1153",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2102",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/TzvC9Umt/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense"
+  },
+  {
+    "PuzzleId": "bSW59",
+    "FEN": "5rk1/3nb2p/p4qp1/R2bp3/8/2P1B1P1/1PQ2P1P/4R1K1 b - - 0 22",
+    "Moves": "d5b7 c2b3 f6f7 b3b7",
+    "Rating": "1180",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "5721",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/ZxGxxeP3/black#44",
+    "OpeningTags": ""
+  }
+]

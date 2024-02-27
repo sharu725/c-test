@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "XoOYW",
+    "FEN": "r2r2k1/1Q2bppp/p3pn2/1pq5/8/2P2NBP/PP3PP1/3RR1K1 b - - 2 19",
+    "Moves": "c5c8 b7e7 d8d1 e1d1",
+    "Rating": "1477",
+    "RatingDeviation": "87",
+    "Popularity": "63",
+    "NbPlays": "40",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/JSP1ia2y/black#38",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "XoPGg",
+    "FEN": "b2r1rk1/p1q1b1pp/1p2p1n1/1Pp1P3/2PpN3/P2Q1NB1/5PPP/4RRK1 b - - 2 21",
+    "Moves": "g6f4 g3f4 f8f4 e4g5 e7g5 f3g5",
+    "Rating": "1435",
+    "RatingDeviation": "219",
+    "Popularity": "73",
+    "NbPlays": "7",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/lQpbQGJz/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XoSc5",
+    "FEN": "2k1rb2/pp4q1/2np1N2/2p1p2p/4P2B/5N1b/PPPQ1PrP/3R1R1K w - - 2 18",
+    "Moves": "f6e8 g2h2 f3h2 g7g2",
+    "Rating": "1517",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "18625",
+    "Themes": "clearance kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/azwQW0wO#35",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_French_Benoni"
+  },
+  {
+    "PuzzleId": "XoW9P",
+    "FEN": "r1bqr1k1/2p2pp1/p6p/1N2N2n/8/1P1PP1Q1/1PP3PP/R4RK1 w - - 1 17",
+    "Moves": "e5f7 h5g3 f7d8 g3f1",
+    "Rating": "1483",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "95",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/SCldHJs0#33",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "XoWdC",
+    "FEN": "r1b1k1nr/ppp2ppp/2p5/8/4P3/2Q5/P1P1KPPP/RNq2B1R b kq - 3 10",
+    "Moves": "f7f6 b1d2 c1a1 c3a1",
+    "Rating": "1472",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "70",
+    "Themes": "advantage middlegame quietMove short trappedPiece",
+    "GameUrl": "https://lichess.org/BekQWNFC/black#20",
+    "OpeningTags": "Scotch_Game Scotch_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "XoXFn",
+    "FEN": "r1b4k/1p2rBb1/pB4pp/8/1P2N1P1/P6P/5P2/4R1K1 w - - 4 34",
+    "Moves": "f7g6 e7e6 g6f7 e6b6",
+    "Rating": "1433",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "806",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/24tZjdn6#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XoXPl",
+    "FEN": "r2r1k2/p4pp1/bpn1p3/2qn2P1/2P2P2/P2B3R/2QB2P1/R3K3 w Q - 1 22",
+    "Moves": "c4d5 c5g1 d3f1 g1f1",
+    "Rating": "1422",
+    "RatingDeviation": "86",
+    "Popularity": "91",
+    "NbPlays": "74",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/rMEtHMD4#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XoXkI",
+    "FEN": "r1bqr3/pp2npkp/3p1np1/3Pp3/8/2NB1N2/PPPQ1PPP/R3R1K1 b - - 0 13",
+    "Moves": "e7d5 c3d5 f6d5 d3b5 d5f4 b5e8",
+    "Rating": "1461",
+    "RatingDeviation": "157",
+    "Popularity": "71",
+    "NbPlays": "21",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/fHCk5Ajs/black#26",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "XoYFj",
+    "FEN": "r3r3/2q2pk1/p1pp1npb/4pPN1/2pP4/2P1B2P/PP1Q1P1K/3R2R1 b - - 0 23",
+    "Moves": "d6d5 g5e6 e8e6 e3h6",
+    "Rating": "1444",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "17285",
+    "Themes": "crushing discoveredAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/4HS1OZ2c/black#46",
+    "OpeningTags": ""
+  }
+]

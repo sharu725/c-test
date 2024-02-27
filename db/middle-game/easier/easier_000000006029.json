@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "IHKG3",
+    "FEN": "r2q2k1/3n1pp1/p1n4p/1p1b1Q2/2pN4/2P5/PPBN1PPP/4R1K1 b - - 2 21",
+    "Moves": "c6d4 f5h7 g8f8 h7h8",
+    "Rating": "1023",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "123",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/VWPtjoNT/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IHLJP",
+    "FEN": "r2qr1k1/1pp2ppp/p2b1Bb1/n7/2BP4/2N2N1P/PP2QPP1/3RR1K1 b - - 0 17",
+    "Moves": "d8f6 e2e8 a8e8 e1e8",
+    "Rating": "1145",
+    "RatingDeviation": "80",
+    "Popularity": "85",
+    "NbPlays": "86",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/o57RRb5o/black#34",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "IHLhc",
+    "FEN": "r4r1k/p1p2p1p/1pn2NpQ/3p4/8/2PKP3/q4P1P/1R4R1 b - - 3 24",
+    "Moves": "a2f2 h6h7",
+    "Rating": "1020",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "1745",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/X4l7TIXx/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IHMQR",
+    "FEN": "Nqbk2nr/pp1p3p/2n2pp1/2b3B1/4P3/3B1Q2/PPP2PPP/R3K2R b KQ - 1 13",
+    "Moves": "b8a8 g5f6 g8f6 f3f6 d8c7 f6h8",
+    "Rating": "1043",
+    "RatingDeviation": "93",
+    "Popularity": "85",
+    "NbPlays": "23",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/rRJ9UnkT/black#26",
+    "OpeningTags": "Scotch_Game Scotch_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "IHMwR",
+    "FEN": "5rkb/2r2p2/1ppN1Ppp/p3P3/P2PQ1P1/1q6/5K1P/2RR4 w - - 1 30",
+    "Moves": "d1d3 b3b2 e4e2 b2c1",
+    "Rating": "1155",
+    "RatingDeviation": "144",
+    "Popularity": "64",
+    "NbPlays": "25",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/Dwe1vieI#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IHNLW",
+    "FEN": "r6k/1p4pp/p7/8/3nQb2/P1N2Pq1/1P4P1/1BR2RKr w - - 5 31",
+    "Moves": "g1h1 g3h2",
+    "Rating": "1075",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "560",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/BEpWando#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IHNwD",
+    "FEN": "3r1rk1/2q1bpp1/p4nbp/2p1p3/2BNP2B/P6P/1PQN1PP1/3RR1K1 b - - 0 19",
+    "Moves": "c5d4 c4f7 f8f7 c2c7",
+    "Rating": "1112",
+    "RatingDeviation": "80",
+    "Popularity": "64",
+    "NbPlays": "116",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/eLthRAb8/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "IHPuW",
+    "FEN": "3r2k1/NQ3p1p/5bp1/1P6/1q3pbP/5N2/P4PP1/4R1K1 w - - 3 28",
+    "Moves": "a7c6 g4f3 b7f7 g8f7",
+    "Rating": "1145",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "917",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/tPw9doQ5#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IHPuX",
+    "FEN": "2kQ3r/1b2Bppp/1p2p3/1Nn5/P1B1n3/4P3/1PP2PqP/2KR4 b - - 3 18",
+    "Moves": "h8d8 d1d8",
+    "Rating": "1108",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "596",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/wL8Qzdhe/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  }
+]

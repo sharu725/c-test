@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "KuKPC",
+    "FEN": "r3k2r/ppp2p2/1b1p4/3Pn3/4P1P1/2N3N1/PP2QPPq/R1BR2K1 w kq - 3 20",
+    "Moves": "g1f1 h2h1 g3h1 h8h1",
+    "Rating": "713",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "104",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/UxpMZtIq#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KuLDs",
+    "FEN": "r2q1k1r/pp4pp/2nNRb2/5Q2/8/8/PP3PPP/R1B3K1 w - - 1 19",
+    "Moves": "d6b7 d8d1 e6e1 d1e1",
+    "Rating": "630",
+    "RatingDeviation": "108",
+    "Popularity": "68",
+    "NbPlays": "208",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/W431YWlP#37",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "KuM6R",
+    "FEN": "r1q2k1r/p1p3p1/1p1p2Bp/3Ppb2/2P4b/1Q6/PP3PPP/R4RK1 w - - 0 20",
+    "Moves": "g6f5 c8f5",
+    "Rating": "690",
+    "RatingDeviation": "135",
+    "Popularity": "54",
+    "NbPlays": "16",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/oL2augi6#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KuORc",
+    "FEN": "1k3r2/ppp1Q1pp/3r4/8/PP2p3/8/3P1bPq/1RB2R1K w - - 0 24",
+    "Moves": "h1h2 d6h6 e7h4 h6h4",
+    "Rating": "879",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "668",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/kQX9kTWK#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KuQkH",
+    "FEN": "7k/p2Q1Rnp/3p2pq/8/3P4/2P1N3/P3RPP1/1r4K1 w - - 1 31",
+    "Moves": "e3f1 b1f1 g1f1 h6h1",
+    "Rating": "973",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1696",
+    "Themes": "attraction mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/AswYWhCq#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KuQqM",
+    "FEN": "2k4r/pp1n4/2p2p2/3p4/5Bq1/1N3NP1/P3R2P/4R1K1 b - - 8 33",
+    "Moves": "g4f3 e2e8 h8e8 e1e8",
+    "Rating": "600",
+    "RatingDeviation": "98",
+    "Popularity": "86",
+    "NbPlays": "587",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/RVpguKmF/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KuQwk",
+    "FEN": "3rr1k1/1pR2ppp/p3b3/5pQ1/3qP3/1B3P2/P5PP/2R4K w - - 4 30",
+    "Moves": "b3e6 d4d1 c1d1 d8d1",
+    "Rating": "930",
+    "RatingDeviation": "80",
+    "Popularity": "91",
+    "NbPlays": "169",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/nSGeU8ds#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KuQzL",
+    "FEN": "r1b3k1/1p3q1p/p1npp2B/7Q/P3N3/2P5/2P3PP/R4K2 w - - 3 22",
+    "Moves": "f1g1 f7h5 e4f6 g8f7",
+    "Rating": "895",
+    "RatingDeviation": "84",
+    "Popularity": "96",
+    "NbPlays": "179",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/vyCgNpjL#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KuTUV",
+    "FEN": "r2q1rk1/pp1n2pp/3p4/2pP4/2Pbp3/1P2N3/P4PPP/1RBQ1RK1 w - - 1 18",
+    "Moves": "e3f5 f8f5",
+    "Rating": "989",
+    "RatingDeviation": "124",
+    "Popularity": "70",
+    "NbPlays": "25",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/JkxBooua#35",
+    "OpeningTags": "Latvian_Gambit_Accepted Latvian_Gambit_Accepted_Other_variations"
+  }
+]

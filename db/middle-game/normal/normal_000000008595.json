@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "P31mo",
+    "FEN": "7r/1p2qpk1/p3pRBr/1b1pP3/3P2RP/2P3Q1/PP6/6K1 b - - 0 31",
+    "Moves": "f7g6 g4g6 h6g6 g3g6",
+    "Rating": "1372",
+    "RatingDeviation": "134",
+    "Popularity": "60",
+    "NbPlays": "32",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/WOR4LW1q/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P32vg",
+    "FEN": "r2qk2r/pppbnppp/5b2/3Pp3/8/1PPB1Q2/P2NNPPP/R3K2R w KQkq - 1 13",
+    "Moves": "c3c4 e5e4 d2e4 f6a1",
+    "Rating": "1334",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "575",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/jWQ2onBE#25",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "P33Bt",
+    "FEN": "rn4k1/3b1R1p/p1pNp1pq/1p2P3/3P2n1/3B4/PP1N2PP/1Q4K1 w - - 6 24",
+    "Moves": "d2f3 h6e3 g1h1 g4f2",
+    "Rating": "1339",
+    "RatingDeviation": "86",
+    "Popularity": "62",
+    "NbPlays": "26",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/YJ9bHeQX#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P340d",
+    "FEN": "r1b1k2r/pppp1ppp/2P5/2b1p1q1/8/8/PPPP1PPP/R1BQKB1R b KQkq - 0 7",
+    "Moves": "d7c6 d2d4 c5b4 c2c3 g5e7 c3b4",
+    "Rating": "1282",
+    "RatingDeviation": "76",
+    "Popularity": "69",
+    "NbPlays": "122",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/pJuiMOPs/black#14",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "P34ET",
+    "FEN": "2rr2k1/4npp1/p3p2p/1p2P3/b7/5N2/1P2BPPP/1R2R1K1 b - - 1 22",
+    "Moves": "e7g6 b2b3 a4b3 b1b3",
+    "Rating": "1351",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "1844",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/lVRoqOTz/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P34me",
+    "FEN": "3r2k1/1pr1pp1p/4n1p1/p3R3/P1P3b1/1P3NP1/5PBP/4R1K1 w - - 1 23",
+    "Moves": "e5b5 g4f3 g2f3 e6d4 e1e3 d4b5",
+    "Rating": "1224",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "741",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/OmwPveNd#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P350B",
+    "FEN": "r3r1k1/p2b1pbp/2pBn1p1/3pP3/N4P2/4qR2/P1Q1B1PP/3R3K b - - 7 21",
+    "Moves": "e3e4 e2d3 e4f3 g2f3",
+    "Rating": "1393",
+    "RatingDeviation": "164",
+    "Popularity": "-60",
+    "NbPlays": "21",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/dyWzhXka/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P35JQ",
+    "FEN": "3r1rk1/pp3ppp/2p2n2/3q4/3P4/P1PQ2N1/5PPP/R3R1K1 w - - 3 23",
+    "Moves": "e1e5 d5e5 d4e5 d8d3",
+    "Rating": "1283",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "238",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/NYB2L9of#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P38nE",
+    "FEN": "r2qk2r/bpp2pp1/p2pb2p/7B/PP1pPN2/3PP3/2P3PP/R2Q1RK1 b kq - 5 16",
+    "Moves": "d8e7 f4e6 e7e6 h5f7 e6f7 f1f7",
+    "Rating": "1385",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "114",
+    "Themes": "attackingF2F7 crushing fork long middlegame pin",
+    "GameUrl": "https://lichess.org/nsdBHkii/black#32",
+    "OpeningTags": "Vienna_Game Vienna_Game_Falkbeer_Variation"
+  }
+]

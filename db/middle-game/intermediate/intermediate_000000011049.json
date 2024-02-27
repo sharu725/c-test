@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QYsMq",
+    "FEN": "Qn2k2r/2q2pp1/p2pp3/8/1p1b2PP/3B4/PPP5/1NKR4 b k - 0 18",
+    "Moves": "e8g8 a8e4 d4b2 c1b2",
+    "Rating": "1589",
+    "RatingDeviation": "136",
+    "Popularity": "7",
+    "NbPlays": "11",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/HPLuI5YN/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "QYtTU",
+    "FEN": "2kr3r/Qp3ppp/8/3q4/1b6/8/PP3PPP/R1B2K1R w - - 0 15",
+    "Moves": "c1e3 d5d3 f1g1 d3d1 a1d1 d8d1",
+    "Rating": "1430",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1294",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/K6oDtzjS#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "QYu6p",
+    "FEN": "r1b2r1k/p5pp/1q1b1p2/3BnP2/5BP1/8/PPP4P/R2Q1R1K w - - 1 18",
+    "Moves": "d5a8 c8b7 a8b7 b6b7 h1g1 d6c5",
+    "Rating": "1586",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "71",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/2n0LNAh9#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "QYu92",
+    "FEN": "r1b4r/ppQpnkpp/2n5/2b2q2/4N3/3P1P2/PPP3PP/R1B2KNR b - - 4 11",
+    "Moves": "c5g1 e4d6 f7g8 d6f5",
+    "Rating": "1460",
+    "RatingDeviation": "79",
+    "Popularity": "73",
+    "NbPlays": "55",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/OCawNeEF/black#22",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Boi_Variation"
+  },
+  {
+    "PuzzleId": "QYuH6",
+    "FEN": "1n2qr1k/2p4p/1p2p3/1R1pN1p1/r2P2Qb/3PP2P/PR4B1/6K1 b - - 0 30",
+    "Moves": "f8f2 b2f2 h4f2 g1f2",
+    "Rating": "1563",
+    "RatingDeviation": "106",
+    "Popularity": "63",
+    "NbPlays": "29",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ySA4i2UK/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QYvAj",
+    "FEN": "3r3r/3kqp2/2ppbn1p/6p1/QR2P3/4BP2/PPP2P1P/2K3R1 b - - 1 20",
+    "Moves": "d8c8 b4b7 c8c7 b7c7 d7c7 a4a7",
+    "Rating": "1530",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "257",
+    "Themes": "attraction crushing long middlegame",
+    "GameUrl": "https://lichess.org/k9GPW8A0/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QYy4b",
+    "FEN": "8/3P1k2/p3R2p/P7/3P1bp1/5r2/2r5/3RB1K1 w - - 1 43",
+    "Moves": "d7d8q f4h2 g1h1 f3f1",
+    "Rating": "1497",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "85",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/uKWybJIB#85",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QYyiZ",
+    "FEN": "2rq1rk1/n2bbpp1/4pn1p/p2pN2N/1p1P1B2/P2QP3/1PB2PPP/2R2RK1 b - - 3 17",
+    "Moves": "d7b5 h5f6 e7f6 d3h7",
+    "Rating": "1424",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "289",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/2dAypTGV/black#34",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "QYzWA",
+    "FEN": "4r1k1/2r4p/p1bqp1pR/1p1p2Q1/3P2B1/1PP3P1/P5K1/7R b - - 11 31",
+    "Moves": "c7g7 h6h7 g7h7 g5g6",
+    "Rating": "1436",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "6195",
+    "Themes": "advantage capturingDefender deflection kingsideAttack middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/9hZ7bkFH/black#62",
+    "OpeningTags": ""
+  }
+]

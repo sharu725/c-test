@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "3G646",
+    "FEN": "r5k1/1ppb2pp/pn1p4/4p1q1/2P5/1PP1PQ1P/P2N2PN/5RK1 b - - 0 18",
+    "Moves": "d7c6 f3f7 g8h8 f7f8 a8f8 f1f8",
+    "Rating": "1273",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "423",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/wVxyJECx/black#36",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "3G6hK",
+    "FEN": "2kr3r/2p1qp2/p2b3p/2PR4/P7/1Q4P1/5PP1/1R4K1 b - - 0 25",
+    "Moves": "d6c5 b3b8",
+    "Rating": "1318",
+    "RatingDeviation": "103",
+    "Popularity": "79",
+    "NbPlays": "37",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/8OU2cMfH/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3G7Kt",
+    "FEN": "1k4r1/pp3Q2/8/4q2p/Pn6/3pP1bB/1P6/3R1N1K b - - 1 30",
+    "Moves": "e5e4 h3g2 e4h4 h1g1",
+    "Rating": "1370",
+    "RatingDeviation": "82",
+    "Popularity": "76",
+    "NbPlays": "75",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/F54YKkED/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3G7LZ",
+    "FEN": "3r2rk/1p1qb1pp/p4p2/2p1pP1Q/3pP3/1P1P1R2/P1P3PP/2B1R1K1 b - - 5 22",
+    "Moves": "d7e8 h5h7 h8h7 f3h3 e8h5 h3h5",
+    "Rating": "1279",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2092",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/kuGvRa2W/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3G7Z7",
+    "FEN": "r3q1k1/1pp5/1p1pp2Q/4p3/3nPn2/P2P1P1P/1PP2P2/R4R1K b - - 2 18",
+    "Moves": "d4f3 f1g1 f3g1 a1g1",
+    "Rating": "1338",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "119",
+    "Themes": "crushing middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/AJq9U4K8/black#36",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "3G8Fp",
+    "FEN": "3r1rk1/4bppp/p1q1p3/Pp2P3/2pBNP2/2P2QP1/6KP/5R2 b - - 4 24",
+    "Moves": "d8d7 e4f6 g7f6 f3c6",
+    "Rating": "1210",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "147",
+    "Themes": "crushing discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/2HKHs8Oz/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3GC3X",
+    "FEN": "r2qk2r/pp2bppp/2p3b1/3nR3/2B3P1/3P3P/PPP2P2/RNBQ2K1 w kq - 0 12",
+    "Moves": "c1g5 f7f6 e5d5 c6d5",
+    "Rating": "1368",
+    "RatingDeviation": "72",
+    "Popularity": "95",
+    "NbPlays": "23418",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/0VY4SMtr#23",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "3GCSC",
+    "FEN": "r2qrk2/1b3pp1/5n2/ppb2NQ1/2p1p3/2Pn2PP/PP1NRPB1/R1B3K1 b - - 1 23",
+    "Moves": "g7g6 g5h6 f8g8 h6g7",
+    "Rating": "1293",
+    "RatingDeviation": "323",
+    "Popularity": "67",
+    "NbPlays": "3",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/fbxhB8Cq/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3GGUA",
+    "FEN": "r3k1nr/p1p2qbp/1p1p1pp1/3N4/3NPn2/8/PPPQ1PPP/2KR3R w kq - 0 15",
+    "Moves": "d2f4 g7h6 f4h6 g8h6",
+    "Rating": "1373",
+    "RatingDeviation": "176",
+    "Popularity": "47",
+    "NbPlays": "7",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/fpeP4Zy5#29",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Kingside_Fianchetto"
+  }
+]

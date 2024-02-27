@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "UkeSM",
+    "FEN": "1knr1r2/p1p4p/Bp6/3P1pp1/3qp3/1Q6/5PPP/RR4K1 b - - 1 30",
+    "Moves": "d8d5 b1d1 d4d1 a1d1 d5d1 b3d1",
+    "Rating": "1555",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "446",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/gJaFErwh/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ukf1w",
+    "FEN": "r4rk1/1p2bppp/p3b3/2n5/2N5/P1NBP3/1P3PPP/2KR3R w - - 0 17",
+    "Moves": "b2b4 c5d3 d1d3 e6c4",
+    "Rating": "1524",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "818",
+    "Themes": "crushing middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/EpX8Rqx3#33",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "Ukg0Q",
+    "FEN": "r6k/2n1b1pp/2bp1p2/q1p1pP2/1pP1P2N/rP1PB2P/3N2P1/1R2QRK1 b - - 7 25",
+    "Moves": "a3a2 h4g6 h8g8 g6e7",
+    "Rating": "1555",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "133",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/Un9ialJp/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UkhKx",
+    "FEN": "r1b2rk1/6pp/pqp5/3pn3/3Qp3/P1N1P2P/1PP3P1/2KR1B1R b - - 5 18",
+    "Moves": "b6c7 c3d5 c6d5 d4d5 c8e6 d5e6",
+    "Rating": "1422",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "14361",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/31hJIHqz/black#36",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Ukhf6",
+    "FEN": "6k1/5pp1/2p2r2/3p3p/3P2n1/3QPNq1/4R1P1/4R1K1 w - - 4 30",
+    "Moves": "e3e4 f6f3 d3f3 g3h2 g1f1 h2h1",
+    "Rating": "1491",
+    "RatingDeviation": "75",
+    "Popularity": "78",
+    "NbPlays": "474",
+    "Themes": "long mate mateIn3 middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/zq4d2RQx#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UkizF",
+    "FEN": "4r1k1/3b4/1q4Pp/2p5/3p2P1/1Pb2BB1/P1Q5/3R3K w - - 1 37",
+    "Moves": "f3e4 e8e4 c2e4 d7c6 e4c6 b6c6",
+    "Rating": "1557",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "992",
+    "Themes": "crushing long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/Uvasyk8G#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UkjOB",
+    "FEN": "r1bNk2r/p1pn1p2/1p2p2p/3p2p1/1bPP4/2n3B1/PP2PPPP/R2QKB1R w KQkq - 0 11",
+    "Moves": "b2c3 b4c3 d1d2 c3d2 e1d2 e8d8",
+    "Rating": "1539",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "1",
+    "Themes": "equality fork long middlegame",
+    "GameUrl": "https://lichess.org/ar66E5Cg#21",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UkjSj",
+    "FEN": "5rk1/p1r1npp1/Bp2p1n1/4P3/3Pq3/2P4R/6PQ/B4R1K b - - 4 29",
+    "Moves": "e4c2 a6d3 c2d3 h3d3",
+    "Rating": "1559",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2144",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/rsbWpLKJ/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UklI7",
+    "FEN": "r2q2k1/pp3pp1/3p1n1p/2pP2b1/2P1QnP1/2N2N2/PPB2PP1/R5K1 w - - 3 17",
+    "Moves": "e4f5 g7g6 f5f4 g5f4",
+    "Rating": "1532",
+    "RatingDeviation": "72",
+    "Popularity": "94",
+    "NbPlays": "14474",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/pqLk1sI8#33",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_French_Benoni"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "OSYnX",
+    "FEN": "1r1q1rk1/pp3pp1/2pbp2p/n4b2/QP1P4/2P1RNP1/P4PBP/R1B3K1 b - - 0 15",
+    "Moves": "b7b5 a4a5 d8a5 b4a5",
+    "Rating": "903",
+    "RatingDeviation": "80",
+    "Popularity": "67",
+    "NbPlays": "186",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/e7tdpIYZ/black#30",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "OSaIP",
+    "FEN": "r3r3/pbpk1Npp/2pb4/5pB1/8/2P5/P1P2PPP/3RR1K1 w - - 9 18",
+    "Moves": "g5f4 e8e1 d1e1 d6f4",
+    "Rating": "804",
+    "RatingDeviation": "103",
+    "Popularity": "85",
+    "NbPlays": "567",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/ZFIzCVP2#35",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "OSbPt",
+    "FEN": "r1b2r2/p2p1pk1/2p1p3/6pQ/8/P1qB4/2P2PPP/R4RK1 b - - 1 15",
+    "Moves": "c3f6 h5h7",
+    "Rating": "781",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "118",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/HBgw7Y5D/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "OSbqU",
+    "FEN": "4rrk1/pp3ppp/1bpp1P2/4q3/6Q1/1BN4P/PPP3P1/5R1K b - - 0 20",
+    "Moves": "d6d5 g4g7",
+    "Rating": "905",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "122",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/1Oq2xLXm/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OSc03",
+    "FEN": "rn2k2r/p2bpp1p/3p2p1/2qP2P1/8/2Q5/PP2KPP1/R4B1R b kq - 1 19",
+    "Moves": "c5d5 c3h8",
+    "Rating": "974",
+    "RatingDeviation": "85",
+    "Popularity": "92",
+    "NbPlays": "274",
+    "Themes": "backRankMate hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/BfR1QdiV/black#38",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "OSeBW",
+    "FEN": "1r1q1rk1/2p2ppp/p1p5/8/3bppP1/1P1P3P/P1PQNP2/1R3RK1 w - - 0 19",
+    "Moves": "d3e4 d4f2 f1f2 d8d2",
+    "Rating": "935",
+    "RatingDeviation": "102",
+    "Popularity": "90",
+    "NbPlays": "666",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/LNUPUepu#37",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "OSezq",
+    "FEN": "r1b2k1N/pppp1Bpp/5n2/2q1p3/1n2P2b/BP6/P1PP2PP/RN1Q1K1R w - - 3 11",
+    "Moves": "c2c3 c5f2",
+    "Rating": "929",
+    "RatingDeviation": "220",
+    "Popularity": "60",
+    "NbPlays": "17",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/52BRFa0y#21",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "OSfhH",
+    "FEN": "3rr3/1pk2ppp/1bp2n2/6Q1/8/2P2N2/PBP2PPP/5K1R w - - 9 19",
+    "Moves": "g5g7 d8d1 f3e1 d1e1",
+    "Rating": "917",
+    "RatingDeviation": "86",
+    "Popularity": "93",
+    "NbPlays": "433",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AwJZbafI#37",
+    "OpeningTags": "Russian_Game Russian_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "OSg4J",
+    "FEN": "r1bq4/ppp2kpp/2np1n2/3Np1B1/3bP3/3P4/PPP2PPP/R2QK2R b KQ - 1 10",
+    "Moves": "d4f2 e1f2 f6e4 d3e4",
+    "Rating": "788",
+    "RatingDeviation": "84",
+    "Popularity": "95",
+    "NbPlays": "2130",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/mvRoyIQy/black#20",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  }
+]

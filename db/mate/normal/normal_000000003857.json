@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "KITdO",
+    "FEN": "r2q1rk1/1R2b1pp/p2Np3/2Q1p3/P3N3/3P4/R1P3PP/7K w - - 0 28",
+    "Moves": "c5e5 f8f1",
+    "Rating": "1203",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "7150",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/JJ38vf8k#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KIUxL",
+    "FEN": "8/5pp1/1N6/PPp1N3/4b3/6k1/5r2/R4R1K w - - 2 38",
+    "Moves": "h1g1 f2g2 g1h1 g2h2 h1g1 h2h1",
+    "Rating": "1338",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "16180",
+    "Themes": "doubleCheck endgame exposedKing long mate mateIn3",
+    "GameUrl": "https://lichess.org/coABAm45#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KIWE4",
+    "FEN": "2k4r/ppp2ppp/2n1q3/2b5/6b1/2P2PP1/PP1QP2P/R1B1R2K w - - 3 16",
+    "Moves": "f3g4 e6e4",
+    "Rating": "1243",
+    "RatingDeviation": "96",
+    "Popularity": "78",
+    "NbPlays": "91",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/NsPBtima#31",
+    "OpeningTags": "Kings_Indian_Attack Kings_Indian_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "KIWUe",
+    "FEN": "5r1k/p5pp/5r2/2Q5/3N4/2P2P1P/1q6/3R1RK1 w - - 0 26",
+    "Moves": "c5a7 f6g6 g1h1 b2g2",
+    "Rating": "1205",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "1701",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/pQTWqcEZ#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KIWkR",
+    "FEN": "r2qkb1r/ppp1pppp/8/8/1n4P1/2N2N2/PPnB1PP1/R2QKB1R w KQkq - 0 9",
+    "Moves": "e1e2 d8d3",
+    "Rating": "1393",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "1107",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/WzFhwyaF#17",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "KIYTH",
+    "FEN": "r2qk2r/p2b1pp1/1p2p2p/4Q3/2pP4/B1P1P3/P4PPP/R3K2R b KQkq - 1 16",
+    "Moves": "f7f6 e5h5 g7g6 h5g6",
+    "Rating": "1210",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "942",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/VFZa2V19/black#32",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "KIarM",
+    "FEN": "3rr1k1/pp2pp1p/2p2bpB/5bN1/2Q5/4K3/PqP2PPP/3R3R b - - 5 17",
+    "Moves": "b2c2 c4f7 g8h8 f7h7",
+    "Rating": "1340",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "529",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/OTHeSLhZ/black#34",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "KIcnk",
+    "FEN": "3r1rk1/R4ppp/3p4/3Q4/4PP1b/2P5/1P2q1PP/R1B3K1 w - - 5 26",
+    "Moves": "d5d2 h4f2 g1h1 e2f1",
+    "Rating": "1230",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1814",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/qUjrwocA#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KIfbC",
+    "FEN": "rnbqk2r/4bp1p/p2p1p2/1p1N4/8/5P2/PPP1Q1PP/R1B1K2R b KQkq - 1 13",
+    "Moves": "b8c6 d5f6 e8f8 c1h6",
+    "Rating": "1341",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "416",
+    "Themes": "mate mateIn2 opening pin short",
+    "GameUrl": "https://lichess.org/Yid1ZVbw/black#26",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  }
+]

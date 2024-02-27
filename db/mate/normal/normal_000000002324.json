@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CEibG",
+    "FEN": "3r2k1/ppp2pPp/2n5/5b2/2p2P2/2B1qNQP/PPP3P1/1K2R3 w - - 0 21",
+    "Moves": "g3g5 e3e1 f3e1 d8d1",
+    "Rating": "1348",
+    "RatingDeviation": "113",
+    "Popularity": "100",
+    "NbPlays": "14",
+    "Themes": "mate mateIn2 queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/7Hhmty6t#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CEjUO",
+    "FEN": "4k3/R6R/1p1r4/5K2/5P2/1p2r3/8/8 b - - 1 43",
+    "Moves": "b3b2 h7h8",
+    "Rating": "1257",
+    "RatingDeviation": "88",
+    "Popularity": "93",
+    "NbPlays": "114",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/1Sh1bH9p/black#86",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CEjv2",
+    "FEN": "5r1k/pp3pRp/3p1N2/4p3/2r1PP2/7P/PPP1n3/1K4R1 b - - 2 23",
+    "Moves": "e2g1 g7h7",
+    "Rating": "1230",
+    "RatingDeviation": "82",
+    "Popularity": "84",
+    "NbPlays": "607",
+    "Themes": "arabianMate endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/k4JdomVi/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CEkbh",
+    "FEN": "1q2rrk1/p1bp2pp/1pp1P3/8/1P4Q1/P6P/1B3PP1/2R1R1K1 b - - 0 24",
+    "Moves": "d7e6 g4g7",
+    "Rating": "1245",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "777",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/I40X38g8/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CElxJ",
+    "FEN": "r5k1/3R2pp/p1NN1p2/6b1/4P1n1/2P5/P7/3K4 b - - 1 33",
+    "Moves": "a8f8 c6e7 g8h8 d6f7 f8f7 d7d8 f7f8 d8f8",
+    "Rating": "1333",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "15507",
+    "Themes": "backRankMate endgame mate mateIn4 sacrifice veryLong",
+    "GameUrl": "https://lichess.org/tpKROwou/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CEoYw",
+    "FEN": "r4rk1/1p4p1/p2pP3/P1pP3Q/2Bq1p2/5P2/5nNP/4RRK1 w - - 1 33",
+    "Moves": "c4a2 f2h3 g1h1 d4g1 f1g1 h3f2",
+    "Rating": "1313",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "1704",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice smotheredMate",
+    "GameUrl": "https://lichess.org/m42KaSoJ#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CEvXs",
+    "FEN": "2kr3r/1pp2ppp/p1n5/2bP1q2/2P1n3/5P2/PPB3PP/RNBQ1RK1 w - - 1 16",
+    "Moves": "g1h1 e4g3 h2g3 f5h5",
+    "Rating": "1208",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "577",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/aFyZ6Zve#31",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "CEyjo",
+    "FEN": "4r1k1/p4R2/2p3p1/3n2r1/2BP4/P1P5/5R1K/8 b - - 2 35",
+    "Moves": "e8e3 f7f8 g8h7 f2f7 h7h6 f8h8",
+    "Rating": "1250",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "175",
+    "Themes": "endgame exposedKing long mate mateIn3 pin",
+    "GameUrl": "https://lichess.org/dxrHSovE/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CF74K",
+    "FEN": "rnb1k1nr/pppp1ppp/8/8/2B1Pp2/5QP1/PPPP3q/RNB2KR1 b kq - 1 7",
+    "Moves": "f4g3 f3f7 e8d8 f7f8",
+    "Rating": "1283",
+    "RatingDeviation": "78",
+    "Popularity": "81",
+    "NbPlays": "447",
+    "Themes": "attackingF2F7 mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/3ZZQPfbQ/black#14",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Stein_Gambit"
+  }
+]

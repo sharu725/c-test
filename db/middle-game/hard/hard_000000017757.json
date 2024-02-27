@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "k7QBV",
+    "FEN": "r1br2k1/ppq1bppp/2n5/4p3/4P3/1PB2N1P/P3BPP1/R2Q1RK1 w - - 1 15",
+    "Moves": "d1c2 c6d4 f3d4 e5d4",
+    "Rating": "1746",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "238",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/a1IvQQAR#29",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation"
+  },
+  {
+    "PuzzleId": "k7RyZ",
+    "FEN": "r2q1rk1/pb1pbp2/2p2n2/5Rp1/2B1P3/2N5/PPP3PP/R2Q3K b - - 1 15",
+    "Moves": "f6h7 d1h5 d7d5 e4d5",
+    "Rating": "1693",
+    "RatingDeviation": "104",
+    "Popularity": "65",
+    "NbPlays": "30",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/vHM8bgJl/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lowenthal_Variation"
+  },
+  {
+    "PuzzleId": "k7SRJ",
+    "FEN": "r3B1k1/1p3ppp/5n2/p2p4/P1nP4/1pN1P2P/3B1PP1/1R4K1 w - - 1 23",
+    "Moves": "b1b3 c4d2 e8f7 g8f7",
+    "Rating": "1603",
+    "RatingDeviation": "318",
+    "Popularity": "100",
+    "NbPlays": "5",
+    "Themes": "equality hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/B1AKJJ3s#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "k7T5B",
+    "FEN": "3r2k1/1b2r3/p1qpp1PQ/1p6/4P3/1BP2P2/P1P5/2KR4 b - - 0 22",
+    "Moves": "c6c3 b3e6 e7e6 h6h7 g8f8 h7f7",
+    "Rating": "1637",
+    "RatingDeviation": "92",
+    "Popularity": "85",
+    "NbPlays": "77",
+    "Themes": "exposedKing fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/p3YWcA56/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "k7XoW",
+    "FEN": "r6r/1R3ppp/p3p1b1/1Nk1Pn2/5P2/2N5/PP4PP/5RK1 w - - 0 21",
+    "Moves": "b5c7 c5c6 b7b3 c6c7",
+    "Rating": "1740",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "14097",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/R963K45s#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "k7YRo",
+    "FEN": "rnbq1b1r/2p4p/p1k1pn2/8/2NP1B2/4P3/PP2QPPP/2R1K2R b K - 0 15",
+    "Moves": "c6b7 c4a5 b7a7 c1c7 d8c7 f4c7",
+    "Rating": "1795",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "539",
+    "Themes": "advantage deflection discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/AP3zcfBh/black#30",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "k7YeF",
+    "FEN": "r3r1k1/1pp2ppn/1b3q1p/pb1P4/2P1p3/4N2P/PPB2PP1/R1BQ1RK1 b - - 0 22",
+    "Moves": "b6e3 f2e3 f6g6 c4b5",
+    "Rating": "1789",
+    "RatingDeviation": "79",
+    "Popularity": "84",
+    "NbPlays": "49",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/r15WByEH/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "k7YyH",
+    "FEN": "5rk1/1b4bp/pQ6/1p2p3/1N2p3/2P1N3/PP2q1PP/3R3K w - - 2 25",
+    "Moves": "b6b7 e2d1 e3d1 f8f1",
+    "Rating": "1749",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "2324",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/VqZBEp6Z#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "k7Z6r",
+    "FEN": "r2qr1k1/ppp2ppp/8/8/3n4/2N2B2/PP1Q1PPP/R4RK1 w - - 0 14",
+    "Moves": "f3b7 d4f3 b7f3 d8d2 f3a8 e8a8",
+    "Rating": "1731",
+    "RatingDeviation": "78",
+    "Popularity": "97",
+    "NbPlays": "5283",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/Optfn2kG#27",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Boehnke_Gambit"
+  }
+]

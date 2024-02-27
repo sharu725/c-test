@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PvDpN",
+    "FEN": "5r2/pp5k/2n3q1/8/3P2P1/2P1rQ2/PP4Kb/RN3R2 w - - 0 25",
+    "Moves": "f3f8 g6g4 g2h1 g4e4 f8f3 e3f3",
+    "Rating": "1714",
+    "RatingDeviation": "96",
+    "Popularity": "78",
+    "NbPlays": "31",
+    "Themes": "crushing exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/I5w9Sss1#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PvDv0",
+    "FEN": "r1bq1rk1/pp1n1ppp/2p1p3/4P3/3P4/3B1N2/P2B1PPP/3QK2R b K - 2 12",
+    "Moves": "d7b6 d3h7 g8h7 f3g5 d8g5 d2g5",
+    "Rating": "1656",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "733",
+    "Themes": "attraction crushing kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/L96wUbNj/black#24",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Ragozin_Defense"
+  },
+  {
+    "PuzzleId": "PvHQV",
+    "FEN": "r4rk1/p1qb1ppp/2p5/3p1P2/3Qn3/2P1B2P/PP2N1P1/3R1RK1 b - - 0 18",
+    "Moves": "c7b6 d4e4 d5e4 e3b6",
+    "Rating": "1700",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1075",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/39gROkia/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "PvI2W",
+    "FEN": "2rq1rk1/1b2bp2/4p1p1/p2pP2N/1p1P2n1/3BP2Q/PP5P/2B1RRK1 b - - 0 23",
+    "Moves": "g6h5 h3h5 f7f5 e5f6",
+    "Rating": "1794",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "51",
+    "Themes": "crushing enPassant middlegame short",
+    "GameUrl": "https://lichess.org/tyWgGPqM/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PvIp0",
+    "FEN": "1k1r1b2/2pr2p1/bpq1np1p/p1p2N1P/P1N1PBP1/1PPP4/2K2Q2/3RR3 w - - 9 35",
+    "Moves": "f4h2 a6c4 d3c4 d7d1 e1d1 c6e4",
+    "Rating": "1713",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "380",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/xo0Ao7QR#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PvKoi",
+    "FEN": "r4r2/pppn1Nkp/4b1p1/7q/2pP4/2P4R/P3BQPP/5R1K b - - 1 24",
+    "Moves": "h5d5 h3h7 g7h7 f2h4 d5h5 e2h5",
+    "Rating": "1759",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "11359",
+    "Themes": "attraction crushing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/E3h6v6Oo/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PvLKv",
+    "FEN": "1k1r3r/1bp1qp1p/pp1b3p/4nB2/Q1P5/2N1PN1P/PP3PP1/R4RK1 w - - 2 17",
+    "Moves": "f3e5 e7e5",
+    "Rating": "1652",
+    "RatingDeviation": "105",
+    "Popularity": "-11",
+    "NbPlays": "20",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/iqwkPDYr#33",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "PvLou",
+    "FEN": "2r1k2r/pp4Qp/4p3/1Nbp4/2P5/P3P2P/3q1KP1/R4B1R w k - 1 19",
+    "Moves": "f2g1 c5e3 g1h2 e3f4",
+    "Rating": "1676",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "548",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/XBSAjZid#37",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "PvOXH",
+    "FEN": "r1k2b2/pp1r2pp/3pqn2/1Q6/1N1nPB2/2R5/PPP2PPP/2K1R3 b - - 20 19",
+    "Moves": "c8b8 b4a6",
+    "Rating": "1622",
+    "RatingDeviation": "88",
+    "Popularity": "70",
+    "NbPlays": "380",
+    "Themes": "master mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/bte0bjTA/black#38",
+    "OpeningTags": "Russian_Game Russian_Game_Cochrane_Gambit"
+  }
+]

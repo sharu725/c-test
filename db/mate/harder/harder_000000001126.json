@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "M4s7M",
+    "FEN": "2kr1b1r/ppp2pp1/5nqp/5b2/2BPNB1P/2Q5/PPP3P1/4RRK1 b - - 2 16",
+    "Moves": "f5e4 c4e6 c8b8 c3c7 b8a8 c7d8",
+    "Rating": "1954",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "8921",
+    "Themes": "backRankMate discoveredAttack fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/jDawoeBg/black#32",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Becker_Defense"
+  },
+  {
+    "PuzzleId": "M4vIw",
+    "FEN": "r2q1rk1/pb4b1/1p1p1R2/4p2Q/3P4/3BP3/PP1N3P/R1B3K1 b - - 0 18",
+    "Moves": "d8f6 d3h7 g8h8 h7g6 g7h6 h5h6 h8g8 h6h7",
+    "Rating": "1925",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "2253",
+    "Themes": "discoveredAttack exposedKing kingsideAttack mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/g4H2JsV1/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "M4zUI",
+    "FEN": "r4rk1/pp3p1p/3p2P1/2pP2P1/4P3/2b2Q1B/Pnq1N1K1/7R b - - 3 31",
+    "Moves": "f7g6 h3e6 g8g7 h1h7 g7h7 f3h3 h7g7 h3h6",
+    "Rating": "1943",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2537",
+    "Themes": "attraction discoveredAttack kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/yTsO2YLr/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M57TS",
+    "FEN": "r2r1bk1/5ppp/2p2pP1/1p6/p2PQ3/P1P2NB1/1P3PP1/qBKbR3 b - - 0 27",
+    "Moves": "d1f3 g6f7 g8f7 e4e6",
+    "Rating": "1965",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1101",
+    "Themes": "advancedPawn attraction kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/mFAVy7wp/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M5ESn",
+    "FEN": "1k1r1b1r/p5p1/1PP5/6p1/3p1q2/1Q1P1P2/2P1P3/3K1R2 b - - 2 31",
+    "Moves": "f4d6 b6a7 b8a7 b3b7",
+    "Rating": "1822",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "3683",
+    "Themes": "advancedPawn attraction doubleCheck endgame mate mateIn2 queensideAttack short",
+    "GameUrl": "https://lichess.org/mxlZEPa5/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M5HjG",
+    "FEN": "rn4nr/4k2p/3qpp2/pB4pQ/3P4/1Pp1P3/5PPP/R3K2R b KQ - 0 18",
+    "Moves": "d6b4 h5e8 e7d6 e8d8 b8d7 d8d7",
+    "Rating": "1851",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "1824",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/MojhttgE/black#36",
+    "OpeningTags": "English_Opening English_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "M5KKb",
+    "FEN": "R7/1p2p1r1/3p2p1/p2Nb1P1/k1P1Pp2/5P2/PP6/2K5 b - - 2 33",
+    "Moves": "g7h7 b2b3 a4a3 a8a5",
+    "Rating": "1827",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "3186",
+    "Themes": "deflection endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/QNTZ4MUs/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M5Lo3",
+    "FEN": "5rk1/4q2p/p3p1p1/1b1pNpNQ/1p1P1P2/4P1R1/PP2r1P1/n5K1 b - - 0 30",
+    "Moves": "g6h5 g5f7 e7g5 g3g5",
+    "Rating": "1881",
+    "RatingDeviation": "128",
+    "Popularity": "44",
+    "NbPlays": "49",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/FIvbRHZL/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M5OsW",
+    "FEN": "r4k2/1pR3b1/2p1B1p1/2n3Np/7P/2P3P1/p1r2P2/3R2K1 b - - 1 39",
+    "Moves": "a2a1q g5h7 f8e8 e6f7",
+    "Rating": "1979",
+    "RatingDeviation": "77",
+    "Popularity": "74",
+    "NbPlays": "135",
+    "Themes": "master mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/OD1MCzHc/black#78",
+    "OpeningTags": ""
+  }
+]

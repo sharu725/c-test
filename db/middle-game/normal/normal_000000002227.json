@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "6WC6B",
+    "FEN": "1r4k1/1rq1npb1/3pp1p1/2pn2N1/2P1NP2/4P1P1/1P5Q/R1B2RK1 b - - 0 21",
+    "Moves": "d5f6 e4f6 g7f6 h2h7 g8f8 h7f7",
+    "Rating": "1277",
+    "RatingDeviation": "80",
+    "Popularity": "64",
+    "NbPlays": "60",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/1CbltwkD/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6WE6s",
+    "FEN": "r4rk1/p4ppp/1pQ2n2/4p3/PP5q/4P2P/3B1PP1/R4RK1 w - - 0 21",
+    "Moves": "d2c3 a8c8 c6b7 c8c3",
+    "Rating": "1332",
+    "RatingDeviation": "211",
+    "Popularity": "-80",
+    "NbPlays": "7",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/MrgjY6V3#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6WF19",
+    "FEN": "r4rk1/ppp2pb1/2n3pp/3qp3/3PN2B/2P2Q2/PP3PPP/R3K2R b KQ - 0 14",
+    "Moves": "f7f5 e4f6 f8f6 f3d5",
+    "Rating": "1233",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "2072",
+    "Themes": "crushing discoveredAttack fork middlegame short",
+    "GameUrl": "https://lichess.org/LeWaLnmC/black#28",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Byrne_Variation"
+  },
+  {
+    "PuzzleId": "6WH7j",
+    "FEN": "1rb1k2r/3pnpb1/2p1p2p/4P3/1B1P4/1RNB1N2/2K2PPP/8 b k - 2 23",
+    "Moves": "e8g8 b4e7 b8b3 c2b3",
+    "Rating": "1383",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "3610",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/yaPmjcQV/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6WIDg",
+    "FEN": "b6r/2pk2pp/3p2n1/1p1Pq1PQ/1N2pp2/4P2P/1PP3P1/2B1R1K1 w - - 0 21",
+    "Moves": "e3f4 e5d4 e1e3 d4b4",
+    "Rating": "1374",
+    "RatingDeviation": "84",
+    "Popularity": "67",
+    "NbPlays": "74",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/cxeRk5nu#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6WIIg",
+    "FEN": "rb5R/1p1bkq2/2p1pn2/2P3Q1/1pBP4/P5P1/5PP1/R3K3 w Q - 2 27",
+    "Moves": "e1f1 b8f4 g5f4 a8h8 f4d6 e7d8 d6b8 d7c8",
+    "Rating": "1301",
+    "RatingDeviation": "212",
+    "Popularity": "-19",
+    "NbPlays": "4",
+    "Themes": "advantage discoveredAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/gl5XECPf#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6WJ6b",
+    "FEN": "r2q1r2/1p1n1pkp/p1ppp1p1/8/1n2PP2/1P3QNP/P1PPB1P1/R4RK1 b - - 2 15",
+    "Moves": "b4c2 f3c3 g7g8 c3c2",
+    "Rating": "1389",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "16259",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/CllUzQze/black#30",
+    "OpeningTags": "Bird_Opening Bird_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "6WJF4",
+    "FEN": "4r1k1/ppp3pp/1b1pq3/5b2/8/2Q2N2/PP3PPP/RN3K1R w - - 3 20",
+    "Moves": "b1d2 e6e2 f1g1 b6f2",
+    "Rating": "1294",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "9950",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ArmYs2gs#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6WK4I",
+    "FEN": "r2k3r/1bpq2p1/ppn3Bp/1n6/3PQ3/8/PBP2PPP/R4RK1 b - - 2 18",
+    "Moves": "d8c8 g6f5 d7f5 e4f5",
+    "Rating": "1222",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "4054",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/lv42oPWf/black#36",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Franco-Nimzowitsch_Variation"
+  }
+]

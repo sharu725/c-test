@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "j7CLB",
+    "FEN": "1k2r3/pp5p/3r1np1/3P1p2/7N/N1Q3PK/PP2q3/2R5 b - - 8 27",
+    "Moves": "f6e4 c3c7 b8a8 c7c8 e8c8 c1c8",
+    "Rating": "1133",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "6657",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/IMwrPNhN/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "j7GL7",
+    "FEN": "r4rk1/1p3p1n/4q1bQ/p1b1p2N/P3B3/3P4/1PP2PPP/R4RK1 b - - 5 20",
+    "Moves": "f8c8 h6g7",
+    "Rating": "1097",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "624",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/I5GRgOca/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "j7GbH",
+    "FEN": "r2q1r2/pp1b1pkp/2n1pNp1/3p2P1/7Q/8/PPP4P/2KR1B1R b - - 5 18",
+    "Moves": "f8h8 h4h6",
+    "Rating": "1193",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "613",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/rGyxr4UQ/black#36",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Zeller_Defense"
+  },
+  {
+    "PuzzleId": "j7Hl9",
+    "FEN": "r2q1rk1/p4ppp/1p1b1p2/2n5/2PP4/3Q1N2/P2B1PPP/R4RK1 w - - 0 14",
+    "Moves": "d4c5 d6h2 g1h2 d8d3",
+    "Rating": "1095",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "267",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/U5r5vLmD#27",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+  },
+  {
+    "PuzzleId": "j7I0c",
+    "FEN": "r4rk1/pppn1ppp/8/3P1q2/3Q4/2P1B3/P4PPP/2R1R1K1 w - - 1 18",
+    "Moves": "c1c2 f5c2",
+    "Rating": "1151",
+    "RatingDeviation": "147",
+    "Popularity": "67",
+    "NbPlays": "10",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/TfKlfohC#35",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "j7JDV",
+    "FEN": "r2q1r1k/p2b1pb1/1pn3pp/2p5/3pPNB1/3P3P/PP1Q1PPN/R4RK1 b - - 6 18",
+    "Moves": "f7f5 f4g6",
+    "Rating": "1034",
+    "RatingDeviation": "316",
+    "Popularity": "-74",
+    "NbPlays": "3",
+    "Themes": "advantage kingsideAttack middlegame oneMove",
+    "GameUrl": "https://lichess.org/5pVCBp1N/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Hyperaccelerated_Dragon"
+  },
+  {
+    "PuzzleId": "j7JLX",
+    "FEN": "r4rk1/1bppqppp/1p3n2/p3p1B1/1n2P2P/P2P1N2/1PPQ1PP1/2KR1B1R w - - 0 12",
+    "Moves": "d2c3 b4a2 c1d2 a2c3",
+    "Rating": "1034",
+    "RatingDeviation": "163",
+    "Popularity": "33",
+    "NbPlays": "12",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/O8NUTVbg#23",
+    "OpeningTags": "Russian_Game Russian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "j7KA3",
+    "FEN": "6r1/6qk/6rp/p2R1p2/P1B1p3/1P5P/2P2PPQ/5RK1 w - - 1 29",
+    "Moves": "d5f5 g6g2 g1h1 g2h2 h1h2 g7g2",
+    "Rating": "1193",
+    "RatingDeviation": "94",
+    "Popularity": "78",
+    "NbPlays": "47",
+    "Themes": "attraction fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/Jk0xJR9O#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "j7M8p",
+    "FEN": "r3r1k1/1pp2p1p/1q2p1p1/3n2PP/p2PB3/P3P3/1PP1QP2/1K1R3R w - - 1 21",
+    "Moves": "h5g6 d5c3 b1a1 c3e2 g6f7 g8f7",
+    "Rating": "1133",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "209",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/pt3fXLXl#41",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "k5f17",
+    "FEN": "r1bq1r1k/pp3ppB/2pp4/4b2Q/2P1N2P/P3P3/1P4P1/R3K2R b KQ - 1 15",
+    "Moves": "g7g6 h7g6 h8g7 h5h7",
+    "Rating": "1173",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "356",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/IR77czWT/black#30",
+    "OpeningTags": "Trompowsky_Attack Trompowsky_Attack_Classical_Defense"
+  },
+  {
+    "PuzzleId": "k5g4r",
+    "FEN": "rnb1k1r1/ppp2N2/3p4/3N3p/1b1PPB1q/6p1/PPP3P1/R2Q1RK1 w q - 0 14",
+    "Moves": "d5b4 h4h2",
+    "Rating": "1046",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "356",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/AQco2sfK#27",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kieseritzky_Gambit"
+  },
+  {
+    "PuzzleId": "k5g7z",
+    "FEN": "8/1k1r4/p1r5/1b2B3/2p1Q3/6R1/q1P2PPP/1R4K1 w - - 0 31",
+    "Moves": "b1a1 a2a1 e5a1 d7d1 e4e1 d1e1",
+    "Rating": "1071",
+    "RatingDeviation": "97",
+    "Popularity": "88",
+    "NbPlays": "351",
+    "Themes": "backRankMate fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/3vZctAKx#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "k5iQa",
+    "FEN": "1rbqr3/4bpkp/p2p2p1/1p2P3/3QB3/7P/PP3PP1/R3RNK1 b - - 0 21",
+    "Moves": "d6e5 d4e5 e7f6 e5b8",
+    "Rating": "1097",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "153",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/RmD3iNYZ/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "k5iUE",
+    "FEN": "R7/2k2pr1/4p3/pBb1Pb2/P6p/2r3p1/2PR3P/1K6 b - - 3 40",
+    "Moves": "g3g2 d2d7 c7b6 a8b8",
+    "Rating": "1027",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1238",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/oXYcKlxd/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "k5ijN",
+    "FEN": "4r1k1/5ppp/pb3n2/1p6/5P2/P1N3Q1/1P3qbP/R1BR3K w - - 0 24",
+    "Moves": "g3g2 e8e1 d1e1 f2e1 g2f1 e1f1",
+    "Rating": "1153",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "642",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/SQVscfzO#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "k5k2H",
+    "FEN": "r4bnr/1p1k1ppp/4p3/p7/N2P4/8/PP3PPP/R1B2RK1 b - - 1 13",
+    "Moves": "b7b5 a4b6 d7c6 b6a8",
+    "Rating": "1028",
+    "RatingDeviation": "89",
+    "Popularity": "86",
+    "NbPlays": "59",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/u5x0ur7H/black#26",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Austrian_Defense"
+  },
+  {
+    "PuzzleId": "k5olF",
+    "FEN": "rn4r1/pp5k/1bpp1pq1/4p2p/1PP1P1P1/P1NP3Q/7P/R1B2R1K w - - 0 27",
+    "Moves": "g4h5 g6g1 f1g1 g8g1",
+    "Rating": "1133",
+    "RatingDeviation": "285",
+    "Popularity": "57",
+    "NbPlays": "2",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/PxN3aY3Q#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "k5pYA",
+    "FEN": "r5k1/ppp3p1/8/3nP3/8/5rqP/PP4B1/R1BQ3K b - - 0 21",
+    "Moves": "f3d3 g2d5 d3d5 d1d5",
+    "Rating": "1016",
+    "RatingDeviation": "78",
+    "Popularity": "84",
+    "NbPlays": "260",
+    "Themes": "advantage middlegame short xRayAttack",
+    "GameUrl": "https://lichess.org/ykSp5DRr/black#42",
+    "OpeningTags": ""
+  }
+]

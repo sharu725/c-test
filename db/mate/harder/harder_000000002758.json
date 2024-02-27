@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "s0deq",
+    "FEN": "r1bqr1k1/pppn2pp/2nbpp2/3pN2Q/3P1P2/3BP1B1/PPPN2PP/R3K2R b KQ - 1 10",
+    "Moves": "d7f8 d3h7 f8h7 h5f7 g8h8 e5g6",
+    "Rating": "1962",
+    "RatingDeviation": "73",
+    "Popularity": "93",
+    "NbPlays": "7029",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/DujVB749/black#20",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "s0dlV",
+    "FEN": "1k1r3r/p2q1pp1/1pR5/1P6/P6p/5QP1/1P2PP1P/5RK1 w - - 0 26",
+    "Moves": "f1c1 d7d1 c1d1 d8d1 g1g2 h4h3",
+    "Rating": "1948",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "8904",
+    "Themes": "endgame kingsideAttack long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/ndRsH4jI#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s0gEC",
+    "FEN": "r1b5/4kp2/1B1p4/p1p1p3/P3Pp1p/3R1P1q/1PP3K1/3RQ3 w - - 0 31",
+    "Moves": "g2f2 h3h2 f2f1 c8h3",
+    "Rating": "1880",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "4041",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/7SvLViYI#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s0txA",
+    "FEN": "r2k1br1/1p3p1p/4p2p/pB1pqb2/P7/1P3QPP/5P1K/2R1R3 b - - 1 23",
+    "Moves": "e5f6 f3d5 e6d5 e1e8",
+    "Rating": "1976",
+    "RatingDeviation": "78",
+    "Popularity": "84",
+    "NbPlays": "221",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/wAOHmejj/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s11b8",
+    "FEN": "3rkb1r/1Qpnpppp/p1Bq4/3N4/8/6PP/PPn2P2/R1B2K1R b k - 5 13",
+    "Moves": "d8b8 b7b8",
+    "Rating": "1950",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "161",
+    "Themes": "mate mateIn1 oneMove opening pin",
+    "GameUrl": "https://lichess.org/MS42BOuR/black#26",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Bronstein_Variation"
+  },
+  {
+    "PuzzleId": "s11uy",
+    "FEN": "6k1/p5b1/1r2p1q1/8/1p1PQ1p1/6P1/1P5R/K3Rr2 w - - 1 33",
+    "Moves": "e4g6 f1e1 a1a2 b4b3 a2a3 e1a1",
+    "Rating": "1846",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "452",
+    "Themes": "endgame hangingPiece long mate mateIn3",
+    "GameUrl": "https://lichess.org/q1URO2zS#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s1CBk",
+    "FEN": "2rq1r2/p4pbk/1p1p2pp/3Nn3/4PQ2/1R4PR/P4P1P/6K1 b - - 0 27",
+    "Moves": "d8d7 d5f6 g7f6 f4h6 h7g8 h6h7",
+    "Rating": "1928",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "241",
+    "Themes": "deflection fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/RQ2Uzq9A/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s1Q9a",
+    "FEN": "1q1R4/4Pk2/5P1p/6pP/2p1N1P1/rrP5/KP6/3R4 w - - 0 41",
+    "Moves": "b2a3 b3a3 a2a3 b8b3",
+    "Rating": "1952",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "10579",
+    "Themes": "attraction endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/b2YvFPMt#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s1V8C",
+    "FEN": "6k1/7p/6p1/1p2P3/p2P2q1/P1P1pr2/1P2Q2P/5RK1 w - - 4 35",
+    "Moves": "e2g2 f3f1 g1f1 g4d1",
+    "Rating": "1845",
+    "RatingDeviation": "80",
+    "Popularity": "73",
+    "NbPlays": "121",
+    "Themes": "attraction endgame mate mateIn2 pin short",
+    "GameUrl": "https://lichess.org/WRpDxe7l#69",
+    "OpeningTags": ""
+  }
+]

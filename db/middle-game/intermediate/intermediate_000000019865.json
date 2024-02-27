@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "lqmRS",
+    "FEN": "6k1/1br3p1/p2pppP1/1p2b2Q/2q1r3/P6R/2PB2PP/5RK1 b - - 1 28",
+    "Moves": "g8f8 h5h8 f8e7 h8g7 e7e8 h3h8",
+    "Rating": "1480",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4820",
+    "Themes": "deflection interference long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/Amt9SKi1/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lqoAY",
+    "FEN": "r3k2r/pp1n1pp1/1qpp1nbp/2b1p3/B3P1PB/2NP1N1P/PPPQ1P2/R3K2R b KQkq - 3 12",
+    "Moves": "b6b2 a1b1 b2b1 c3b1",
+    "Rating": "1590",
+    "RatingDeviation": "81",
+    "Popularity": "75",
+    "NbPlays": "59",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/oyyoyFcp/black#24",
+    "OpeningTags": "Vienna_Game Vienna_Game_Anderssen_Defense"
+  },
+  {
+    "PuzzleId": "lqosj",
+    "FEN": "r4rk1/pbpn1p2/1p1p1q2/2b1p1n1/2P1P1P1/2NP1N1P/PP1QBP2/R3K2R w KQ - 3 14",
+    "Moves": "f3g5 f6f2 e1d1 c5e3 d2e1 f2e1 d1e1 e3g5",
+    "Rating": "1519",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "5239",
+    "Themes": "attackingF2F7 crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/SOd115XW#27",
+    "OpeningTags": "English_Opening English_Opening_The_Whale"
+  },
+  {
+    "PuzzleId": "lqpQU",
+    "FEN": "r1br2k1/pp2bppp/2n1p3/3q4/3N4/4BB2/PPPQ1PPP/R2R2K1 b - - 3 13",
+    "Moves": "d5d6 d4c6",
+    "Rating": "1578",
+    "RatingDeviation": "78",
+    "Popularity": "85",
+    "NbPlays": "144",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/59hVu22h/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "lqpSH",
+    "FEN": "r3k2r/pp2bppp/4p3/3pPn2/2pP4/2P2N2/1q3PPP/1NRQK2R b Kkq - 1 17",
+    "Moves": "e7a3 d1a4 b7b5 a4a3 b2a3 b1a3",
+    "Rating": "1508",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "107",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/R8hBjfJ0/black#34",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "lqpbt",
+    "FEN": "2k4r/1p2r2p/p1b3p1/2Q2p2/1PP5/P2Bq1P1/5R1P/R5K1 w - - 2 29",
+    "Moves": "d3f5 g6f5 c5e3 e7e3",
+    "Rating": "1495",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "268",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/iULoVkRj#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lqqMM",
+    "FEN": "8/1p1q2kp/p2P1b2/3R4/5Bp1/1Q6/PPr1rPP1/1R4K1 w - - 2 32",
+    "Moves": "b1c1 c2c1 f4c1 e2e1 g1h2 e1c1",
+    "Rating": "1565",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1318",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/pp5SaCmL#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lqriB",
+    "FEN": "r4rk1/2q3pp/4b3/1Q6/Np2B3/1P4nP/2P3PK/R3R3 w - - 3 28",
+    "Moves": "e4a8 g3f1 h2g1 c7h2",
+    "Rating": "1527",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "9814",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Xb9INA2O#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lqsCC",
+    "FEN": "6k1/1pp5/p1n1q2p/2b3p1/4n1N1/2P3BP/1PQ3P1/5N1K b - - 1 26",
+    "Moves": "h6h5 c2e4 e6e4 g4f6 g8f7 f6e4",
+    "Rating": "1542",
+    "RatingDeviation": "72",
+    "Popularity": "95",
+    "NbPlays": "16242",
+    "Themes": "advantage attraction exposedKing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/JvEwl4Z2/black#52",
+    "OpeningTags": ""
+  }
+]

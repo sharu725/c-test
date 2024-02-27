@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "nhabz",
+    "FEN": "6R1/1p6/1pp2k1p/4pp2/1P5P/2PPKP2/1P5r/8 w - - 5 36",
+    "Moves": "b2b3 f5f4 e3e4 h2e2",
+    "Rating": "1171",
+    "RatingDeviation": "89",
+    "Popularity": "67",
+    "NbPlays": "36",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/gB7s98Yt#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nhdEc",
+    "FEN": "Q4b1r/3pkpp1/pp2p3/2p4q/5P2/2P1P1p1/PP1N2P1/R1B1R1K1 w - - 1 18",
+    "Moves": "d2f3 h5h1",
+    "Rating": "1010",
+    "RatingDeviation": "457",
+    "Popularity": "43",
+    "NbPlays": "2",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/7CvIaXZw#35",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "nhdHI",
+    "FEN": "4r1k1/pp1q2pn/n4p1B/2p2P2/B1P3Q1/8/PP1p1PPP/3R2K1 w - - 2 26",
+    "Moves": "a4d7 e8e1 d1e1 d2e1q",
+    "Rating": "1034",
+    "RatingDeviation": "117",
+    "Popularity": "67",
+    "NbPlays": "19",
+    "Themes": "advancedPawn kingsideAttack mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/Jg0kcJtD#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nhdPL",
+    "FEN": "3r2k1/p4Rp1/bp1p3p/3p1p2/2qQ1P2/2B3P1/PP3P1P/4R1K1 b - - 0 23",
+    "Moves": "g8f7 d4g7",
+    "Rating": "1172",
+    "RatingDeviation": "280",
+    "Popularity": "53",
+    "NbPlays": "14",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/Q2V4MKP1/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nhfBl",
+    "FEN": "2r2rk1/2q1bppp/p7/1pnnp1N1/7P/2N5/PPPBQ1P1/2KR3R w - - 0 18",
+    "Moves": "c3d5 c5b3 a2b3 c7c2",
+    "Rating": "1172",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "3326",
+    "Themes": "discoveredAttack mate mateIn2 middlegame pin queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/WpsSz0C4#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "nhfpz",
+    "FEN": "2kr1n1r/p4pp1/2pBpb1p/4N2P/1Q6/8/P4PP1/1K6 b - - 1 24",
+    "Moves": "f6e5 b4b8 c8d7 b8c7 d7e8 c7e7",
+    "Rating": "1193",
+    "RatingDeviation": "118",
+    "Popularity": "63",
+    "NbPlays": "37",
+    "Themes": "endgame exposedKing long mate mateIn3 queensideAttack",
+    "GameUrl": "https://lichess.org/1WCL2jo3/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nhjlC",
+    "FEN": "4rk2/1pp2p1p/p1qp2p1/5P2/2P5/1P3N1P/P1QN2P1/2R1K2n w - - 1 18",
+    "Moves": "e1d1 h1f2",
+    "Rating": "1007",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "666",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/MOBWbPsJ#35",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Black_Mustang_Defense"
+  },
+  {
+    "PuzzleId": "nhlDg",
+    "FEN": "rnb1k2r/ppp2ppp/4p3/3q4/1b1P4/2N2N2/PP1nPPPP/R2QKB1R w KQkq - 0 8",
+    "Moves": "c3d5 d2f3",
+    "Rating": "1066",
+    "RatingDeviation": "78",
+    "Popularity": "69",
+    "NbPlays": "232",
+    "Themes": "doubleCheck mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/JQvKMd6S#15",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nhlp6",
+    "FEN": "r5rk/1p2n1pQ/p1nb4/2pp1qN1/8/2P5/PP1P1PPP/RNB2RK1 b - - 0 19",
+    "Moves": "f5h7 g5f7",
+    "Rating": "1157",
+    "RatingDeviation": "88",
+    "Popularity": "65",
+    "NbPlays": "133",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/SUsabTLw/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  }
+]

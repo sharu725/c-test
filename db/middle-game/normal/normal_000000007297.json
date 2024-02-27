@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "LHn2x",
+    "FEN": "1b2r1k1/pp3p2/3q2p1/2Rp3p/3Prp1P/P3PQP1/1P3PK1/2R1B3 w - - 0 25",
+    "Moves": "e3f4 e4e1 c1e1 e8e1",
+    "Rating": "1310",
+    "RatingDeviation": "81",
+    "Popularity": "82",
+    "NbPlays": "86",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/twckp0Nx#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LHq0w",
+    "FEN": "3rr1k1/1Qp2ppp/5n2/2b3q1/2PRP1P1/1P2PK1P/PB4B1/7R w - - 3 25",
+    "Moves": "d4d8 g5e3",
+    "Rating": "1298",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "730",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/iE4cMSnR#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LHw4M",
+    "FEN": "6k1/1R4p1/2N2p2/7P/2p1B3/2r4n/3r1P2/1R4K1 w - - 0 32",
+    "Moves": "g1f1 d2f2 f1e1 c3e3 e1d1 e3e4",
+    "Rating": "1280",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "3537",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/UDhrTTdq#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LHxI0",
+    "FEN": "r4rk1/1pp2pp1/p2p2n1/2bP2qp/2P1P1b1/3B2B1/PPQ1N1PP/R4R1K w - - 2 16",
+    "Moves": "h2h3 g4e2 d3e2 g5g3",
+    "Rating": "1341",
+    "RatingDeviation": "78",
+    "Popularity": "67",
+    "NbPlays": "51",
+    "Themes": "capturingDefender crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/UR8bfxfG#31",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation"
+  },
+  {
+    "PuzzleId": "LHyMp",
+    "FEN": "5rk1/5ppp/ppQbpn2/3p1q2/3P4/4B1P1/PP2NP1P/2R3K1 b - - 4 22",
+    "Moves": "f6g4 c6d6 g4e3 f2e3",
+    "Rating": "1243",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "3586",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/Jacy04Gy/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LHynJ",
+    "FEN": "r2q1rk1/1pp3pp/3b1np1/p7/1n4P1/1P2PN1P/PBPN1P2/R2QK2R w KQ - 2 13",
+    "Moves": "d1e2 b4c2 e1f1 c2a1 e2c4 g8h8",
+    "Rating": "1233",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "480",
+    "Themes": "advantage defensiveMove fork long middlegame",
+    "GameUrl": "https://lichess.org/66q9m3Aa#25",
+    "OpeningTags": "Englund_Gambit Englund_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "LI0xe",
+    "FEN": "1r6/5pk1/3p2p1/3rp3/4N1P1/1q3P2/4Q2R/2R2K2 w - - 0 32",
+    "Moves": "c1c3 b3b1 f1g2 b8b2 e2b2 b1b2",
+    "Rating": "1358",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "122",
+    "Themes": "clearance crushing long master middlegame pin",
+    "GameUrl": "https://lichess.org/8sS42RY7#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LI1EA",
+    "FEN": "r1b2rk1/pp3ppp/2p2q2/2n1p3/1bB1P3/P1N2N2/1PPQ1PPP/R4RK1 b - - 0 11",
+    "Moves": "c5e4 c3e4 b4d2 e4f6 g7f6 f3d2",
+    "Rating": "1258",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "5691",
+    "Themes": "crushing hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/ll4KchXj/black#22",
+    "OpeningTags": "Czech_Defense Czech_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "LI1Q1",
+    "FEN": "4rk1r/pp2b1p1/2p1RnQ1/4R3/3q4/2N3P1/PPP2P1P/6K1 b - - 0 19",
+    "Moves": "h8h6 e6f6 g7f6 g6h6",
+    "Rating": "1373",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1571",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/5tjommPZ/black#38",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  }
+]

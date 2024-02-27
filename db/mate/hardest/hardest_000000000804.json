@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "MCCZM",
+    "FEN": "2rq1r1k/3nbppp/p3pn2/1pp1B3/3P4/P1NQPP2/1P3P1P/1B1RK1R1 b - - 3 17",
+    "Moves": "c5d4 d3h7 f6h7 e5g7 h8g8 g7f6 h7g5 g1g5",
+    "Rating": "2358",
+    "RatingDeviation": "94",
+    "Popularity": "90",
+    "NbPlays": "1139",
+    "Themes": "discoveredAttack fork mate mateIn4 opening sacrifice veryLong",
+    "GameUrl": "https://lichess.org/DMlBrOAp/black#34",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Harrwitz_Attack"
+  },
+  {
+    "PuzzleId": "MCGHa",
+    "FEN": "r5k1/pp3ppp/1q6/3p4/4n3/2P1bN2/PPQ3PP/R4R1K w - - 4 19",
+    "Moves": "f3d4 e4g3 h2g3 b6h6",
+    "Rating": "2056",
+    "RatingDeviation": "91",
+    "Popularity": "84",
+    "NbPlays": "54",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/ODUkoh4N#37",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+  },
+  {
+    "PuzzleId": "MCplh",
+    "FEN": "5Rkr/pp1R2n1/2p1p3/4q1Q1/PPn5/4P3/2P4P/6K1 b - - 0 25",
+    "Moves": "g8f8 g5d8 g7e8 d8e7 f8g8 e7e8",
+    "Rating": "2156",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "5619",
+    "Themes": "deflection endgame exposedKing long mate mateIn3",
+    "GameUrl": "https://lichess.org/mpzJIFSb/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MCq78",
+    "FEN": "5R2/7k/3P2pp/2pNq3/8/P1PQ2nP/1r4P1/7K w - - 3 31",
+    "Moves": "h1h2 g3f1 h2g1 e5h2 g1f1 h2h1",
+    "Rating": "2141",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "997",
+    "Themes": "doubleCheck endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/ECxbpPAb#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MD84Q",
+    "FEN": "r6k/2R4p/p7/1p2p3/4PnrN/PQ4Pq/1P3P1P/5RK1 w - - 3 28",
+    "Moves": "b3f7 f4e2 g1h1 h3f1",
+    "Rating": "2008",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "2681",
+    "Themes": "deflection kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/8cruHABH#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MDVdx",
+    "FEN": "r1bqr1k1/pppn2pp/2nbpp2/3pN2Q/3P1P2/PP1BP3/1BPN2PP/R3K2R b KQ - 1 11",
+    "Moves": "d7f8 d3h7 f8h7 h5f7 g8h8 e5g6",
+    "Rating": "2067",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "7653",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/nAiSR2nb/black#22",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  },
+  {
+    "PuzzleId": "MDdA8",
+    "FEN": "4r1k1/pp3rpp/3Qp3/3bP1B1/6B1/8/PP2pqPP/R5RK w - - 0 23",
+    "Moves": "d6b4 f2g2 g1g2 f7f1 a1f1 e2f1q",
+    "Rating": "2076",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "3180",
+    "Themes": "advancedPawn clearance kingsideAttack long mate mateIn3 middlegame pin promotion sacrifice",
+    "GameUrl": "https://lichess.org/bTyyD9rf#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MDx9M",
+    "FEN": "r6r/pb3pbk/1p2p2p/3p3N/6R1/6P1/PP1KB1P1/7R b - - 7 24",
+    "Moves": "g7b2 h5f6 b2f6 e2d3",
+    "Rating": "2230",
+    "RatingDeviation": "79",
+    "Popularity": "85",
+    "NbPlays": "262",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/CXhTGgVq/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ME6NB",
+    "FEN": "r1bq1r2/pp1nb1pk/4p3/2ppP1P1/3P4/2P5/PP1N1PP1/R2QK2R b KQ - 0 13",
+    "Moves": "h7g8 h1h8 g8h8 d1h5 h8g8 g5g6 d7f6 e5f6 f8f6 h5h7 g8f8 h7h8",
+    "Rating": "2124",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1762",
+    "Themes": "attraction kingsideAttack mate mateIn5 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/RcIqRiS9/black#26",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  }
+]

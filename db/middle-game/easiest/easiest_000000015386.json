@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "jmp4n",
+    "FEN": "2r3k1/1q2bpp1/pP1p3p/P2P4/3pPn2/Q1N4P/1N3PP1/2R3K1 w - - 0 37",
+    "Moves": "c3a2 f4e2 g1h2 e2c1",
+    "Rating": "933",
+    "RatingDeviation": "87",
+    "Popularity": "93",
+    "NbPlays": "926",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/54wcAvhN#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jmpVp",
+    "FEN": "r3r1k1/1p3pp1/p6p/3p1B2/3Pn2q/8/PP2QPPP/R3R1K1 b - - 5 21",
+    "Moves": "e4g5 e2e8 a8e8 e1e8",
+    "Rating": "654",
+    "RatingDeviation": "91",
+    "Popularity": "87",
+    "NbPlays": "365",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/jgF1Q1ni/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jmpzR",
+    "FEN": "r7/pb5p/4prk1/1pp1qpp1/8/1P2P2R/P3Q1P1/5RK1 b - - 1 30",
+    "Moves": "a8f8 e2h5 g6g7 h5h7",
+    "Rating": "890",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "830",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/gng3aPCn/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jmqOp",
+    "FEN": "rn3rk1/6pp/1p2p3/3p4/3Bp1Q1/bP1bP1P1/P4qBP/R3R2K b - - 1 20",
+    "Moves": "f2f5 g4g7",
+    "Rating": "902",
+    "RatingDeviation": "81",
+    "Popularity": "87",
+    "NbPlays": "402",
+    "Themes": "kingsideAttack master masterVsMaster mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/fW0LprQH/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jmqZW",
+    "FEN": "3r1rk1/pb2b3/1p2ppNp/2n3p1/2P5/5PN1/PP4PP/R2R2K1 b - - 1 22",
+    "Moves": "f8f7 g6e7 f7e7 d1d8",
+    "Rating": "936",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "1065",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/XqjY9LJD/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jmsHn",
+    "FEN": "r1bk1b1r/5ppp/p3p3/3pP3/3N4/8/PP1N1PPP/R4RK1 b - - 1 14",
+    "Moves": "f8b4 d4c6 d8d7 c6b4",
+    "Rating": "788",
+    "RatingDeviation": "83",
+    "Popularity": "95",
+    "NbPlays": "1378",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/476R5vdw/black#28",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "jmvOC",
+    "FEN": "r1b4k/2pn2pp/2pbQ3/p1Np4/3P4/5P2/PPPB1P1q/R3RK2 b - - 1 18",
+    "Moves": "d7c5 e6e8 d6f8 e8f8",
+    "Rating": "621",
+    "RatingDeviation": "93",
+    "Popularity": "93",
+    "NbPlays": "556",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/so5nWTrl/black#36",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "jmx22",
+    "FEN": "r2q1rk1/4b1pp/1p1p2n1/pPpPpb2/P1P5/2N2R2/3B2PP/R2QN1K1 b - - 0 17",
+    "Moves": "f5g4 f3f8 g6f8 d1g4",
+    "Rating": "675",
+    "RatingDeviation": "102",
+    "Popularity": "81",
+    "NbPlays": "314",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/0c63obRx/black#34",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_French_Benoni"
+  },
+  {
+    "PuzzleId": "jmxE4",
+    "FEN": "4r1kr/ppp3pp/2nbq3/6B1/1PQ5/2N5/P1P3PP/4RR1K b - - 4 19",
+    "Moves": "e6c4 e1e8 d6f8 f1f8",
+    "Rating": "599",
+    "RatingDeviation": "84",
+    "Popularity": "79",
+    "NbPlays": "378",
+    "Themes": "hangingPiece kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/mv48BWRw/black#38",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FlLJQ",
+    "FEN": "r4rk1/6pp/1qpp4/1p6/1P1pP1n1/5N2/P3Q1PP/RN1R2K1 w - - 0 21",
+    "Moves": "g1h1 d4d3 d1d3 g4f2 e2f2 b6f2",
+    "Rating": "1111",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "448",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/JHqTMB5A#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FlM46",
+    "FEN": "r4k1r/4bpp1/p2q3p/3pNn2/Q2P1B2/2N5/PP4PP/R5K1 b - - 6 19",
+    "Moves": "d6b6 e5d7 f8g8 d7b6",
+    "Rating": "1154",
+    "RatingDeviation": "130",
+    "Popularity": "33",
+    "NbPlays": "11",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/A2lbFfI4/black#38",
+    "OpeningTags": "English_Opening English_Opening_Caro-Kann_Defensive_System"
+  },
+  {
+    "PuzzleId": "FlQIY",
+    "FEN": "r3r1k1/pbp2pp1/1p1q3p/n2p4/3Pn2B/2PQPP2/P2N2PP/1BR2RK1 b - - 0 16",
+    "Moves": "e4d2 d3h7 g8f8 h7h8",
+    "Rating": "1007",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "115",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/b31LBiWB/black#32",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "FlQcG",
+    "FEN": "r1b1k2B/1pqp1p2/p3p3/6pp/2P1P1n1/2NQb3/PP2B1PP/R4R1K w q - 1 16",
+    "Moves": "c3d5 c7h2",
+    "Rating": "1095",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "3965",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/wOwe4HuT#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kan_Variation"
+  },
+  {
+    "PuzzleId": "FlRaR",
+    "FEN": "rnb2rk1/ppp2ppp/8/q2B3Q/8/8/P4PPP/2R2KNR b - - 5 13",
+    "Moves": "c7c6 d5f7 f8f7 h5a5",
+    "Rating": "1186",
+    "RatingDeviation": "123",
+    "Popularity": "41",
+    "NbPlays": "14",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/NtLMuns0/black#26",
+    "OpeningTags": "Danish_Gambit_Accepted Danish_Gambit_Accepted_Classical_Defense"
+  },
+  {
+    "PuzzleId": "FlS9P",
+    "FEN": "r1b2rk1/ppp3p1/7p/3Pppq1/2N5/P2P4/1PP3PP/R2Q1RK1 w - - 0 17",
+    "Moves": "c4e5 g5e3 f1f2 e3e5",
+    "Rating": "1064",
+    "RatingDeviation": "111",
+    "Popularity": "87",
+    "NbPlays": "25",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/V4qfCv2F#33",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "FlSsQ",
+    "FEN": "r4r1k/ppq1p2P/3p1pp1/2n5/3QP3/P7/1PP1NP2/2KR3R w - - 0 25",
+    "Moves": "e2f4 c5b3 c1b1 b3d4",
+    "Rating": "1144",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "288",
+    "Themes": "crushing middlegame pin queensideAttack short",
+    "GameUrl": "https://lichess.org/JsaA2zsn#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FlTlu",
+    "FEN": "1r6/2p2k2/2bb1p2/2nNpP1p/1pP1P1r1/1P4P1/1KBN3P/R3R3 w - - 0 29",
+    "Moves": "c2d1 c5d3 b2b1 d3e1",
+    "Rating": "1161",
+    "RatingDeviation": "216",
+    "Popularity": "82",
+    "NbPlays": "13",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/hWOdAguz#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FlVb6",
+    "FEN": "r4rk1/p1qbppbp/1p4p1/2pPn3/4P3/2P2N1P/PB2BPP1/2RQ1RK1 w - - 1 14",
+    "Moves": "c3c4 e5f3 e2f3 g7b2",
+    "Rating": "1043",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "2217",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/lQ6qUJmr#27",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Exchange_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "P2sCj",
+    "FEN": "r4rk1/p1R4p/1p2p1p1/8/8/7Q/q2B1bPP/3K3R b - - 1 26",
+    "Moves": "a8d8 h3h7",
+    "Rating": "1225",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "893",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/m8SWsnn9/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P2snV",
+    "FEN": "r3k2r/1p3ppp/2p1bq2/p2n2N1/PbB1Q2P/8/1P3PP1/R1B2K1R b kq - 0 16",
+    "Moves": "e8g8 e4h7",
+    "Rating": "1259",
+    "RatingDeviation": "158",
+    "Popularity": "82",
+    "NbPlays": "21",
+    "Themes": "kingsideAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/6s9dBTUL/black#32",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Two_Pawn_Attack"
+  },
+  {
+    "PuzzleId": "P2so0",
+    "FEN": "1r6/2k2pb1/2n3p1/2n4p/1N3P2/P7/KP3PPP/3R1B1R w - - 7 28",
+    "Moves": "b4c6 b8b2 a2a1 c5b3",
+    "Rating": "1240",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "10634",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/iEEswPf1#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P2tFR",
+    "FEN": "r1bq1rk1/1p3pbp/p2p2p1/1p1P2N1/7Q/1BN1n2P/PPP2PP1/1R3RK1 b - - 5 17",
+    "Moves": "e3f1 h4h7",
+    "Rating": "1252",
+    "RatingDeviation": "105",
+    "Popularity": "30",
+    "NbPlays": "22",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/fTCArWMn/black#34",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "P2uHh",
+    "FEN": "r2r2k1/7p/p1pPR1p1/3p4/5qn1/1N6/2P2PPP/1R1Q2K1 w - - 1 23",
+    "Moves": "g2g3 f4f2 g1h1 f2h2",
+    "Rating": "1259",
+    "RatingDeviation": "90",
+    "Popularity": "50",
+    "NbPlays": "34",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/bMjOlqNs#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P2uRN",
+    "FEN": "k6r/pbBp1ppp/1p1Ppn2/1Nb5/2PN2q1/1Q6/P4PPP/R4RK1 w - - 7 21",
+    "Moves": "h2h3 g4g2",
+    "Rating": "1383",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "861",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/I7KmKZ6o#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P2v33",
+    "FEN": "r3k2r/pp3ppp/2pbpn2/7q/5P2/3BB1QP/PPP3P1/R2R2K1 w kq - 1 16",
+    "Moves": "g3g7 h8g8 g7g8 f6g8",
+    "Rating": "1241",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "1666",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/rO8W8ppD#31",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+  },
+  {
+    "PuzzleId": "P2yuN",
+    "FEN": "r1b2rk1/pp3ppp/3bp3/2p1q3/3p4/3P2P1/PPPNBP1P/R2QR1K1 b - - 2 14",
+    "Moves": "a8b8 d2c4 e5g5 c4d6",
+    "Rating": "1257",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "4707",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Qf5t45Js/black#28",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "P2zkD",
+    "FEN": "rn1qk3/p2p1pp1/1p2p3/3bP1p1/2pP2Qr/P1P5/1PBB1PPP/R4RK1 w q - 2 15",
+    "Moves": "g4g5 d8g5 d2g5 h4g4 f2f3 g4g5",
+    "Rating": "1299",
+    "RatingDeviation": "80",
+    "Popularity": "58",
+    "NbPlays": "59",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/HFqHbgJm#29",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PT3Z1",
+    "FEN": "r1b1k1nr/p2ppp1p/1p4p1/4q3/P1Qp4/8/1PPNBPPP/R3K2R b KQkq - 1 12",
+    "Moves": "d7d5 c4c6 e8f8 c6a8",
+    "Rating": "1727",
+    "RatingDeviation": "193",
+    "Popularity": "-78",
+    "NbPlays": "7",
+    "Themes": "crushing fork middlegame pin short",
+    "GameUrl": "https://lichess.org/PNclHd2g/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "PT3dU",
+    "FEN": "1r6/1b1k1p2/p3p1r1/1pp1PnPq/3p1P2/P2P4/1PP1N2P/2KR1BQR w - - 1 25",
+    "Moves": "f1g2 h5e2 g2b7 b8b7",
+    "Rating": "1635",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1352",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/41H0y3hU#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PT55i",
+    "FEN": "r4rk1/1p1q1pp1/p3bn1p/P2pR3/2pP4/2P2B2/2PBQPPP/1R4K1 b - - 0 18",
+    "Moves": "f6g4 e5e6 f7e6 f3g4",
+    "Rating": "1658",
+    "RatingDeviation": "126",
+    "Popularity": "37",
+    "NbPlays": "16",
+    "Themes": "capturingDefender crushing middlegame short",
+    "GameUrl": "https://lichess.org/UVXFXJXl/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "PT5F3",
+    "FEN": "3r1r1k/1p3q2/p1b2b2/P1Qp3p/1P2pNp1/4P1P1/7P/1R1R1BK1 b - - 1 35",
+    "Moves": "f6e7 c5e7 f7e7 f4g6 h8h7 g6e7",
+    "Rating": "1750",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "6344",
+    "Themes": "attraction crushing exposedKing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/6zmks3I4/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PT5Mp",
+    "FEN": "5rk1/R4pbp/1p2p1p1/4P3/5P2/1Q4BP/P1r1q1P1/5RK1 w - - 1 22",
+    "Moves": "f1f2 c2c1 g1h2 e2e1",
+    "Rating": "1668",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "180",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/TIrRxXAr#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PT5q4",
+    "FEN": "r1b2rk1/pp4pp/2p2p2/3qp3/2NP2PP/2nBPQ2/P4P2/2R2RK1 w - - 2 19",
+    "Moves": "c4e5 f6e5 f3d5 c3d5",
+    "Rating": "1781",
+    "RatingDeviation": "104",
+    "Popularity": "74",
+    "NbPlays": "44",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/1C0vbboZ#37",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Cambridge_Springs_Defense"
+  },
+  {
+    "PuzzleId": "PTAGg",
+    "FEN": "3rr1k1/1p3p1p/p1b3p1/3q4/4pQ2/1PP5/P2N1PPP/4RRK1 w - - 3 26",
+    "Moves": "d2c4 e4e3 c4e3 e8e3",
+    "Rating": "1692",
+    "RatingDeviation": "79",
+    "Popularity": "80",
+    "NbPlays": "40",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/pBPrUb7M#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PTAXJ",
+    "FEN": "3r1rk1/p2qbppp/1p2b3/2p5/3n4/2NQ2PP/PP1PPPBK/R1B1R3 w - - 4 18",
+    "Moves": "e2e3 d4f3 g2f3 d7d3",
+    "Rating": "1607",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "2719",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/TaoWkYYs#35",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "PTBZY",
+    "FEN": "2q1rbk1/p4p2/1p5p/nP1pP1p1/P1pP1n2/2P1RNNb/2BQ1PPP/4R1K1 w - - 15 32",
+    "Moves": "g2h3 c8h3 f3h4 g5h4 f2f3 h4g3 h2g3 h3g3",
+    "Rating": "1780",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "3378",
+    "Themes": "advantage kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/U7rLyuw9#63",
+    "OpeningTags": ""
+  }
+]

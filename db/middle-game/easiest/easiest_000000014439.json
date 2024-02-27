@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "gySwM",
+    "FEN": "6k1/p3pPb1/6p1/8/2q5/3nB1QP/P3r1P1/5RK1 b - - 0 29",
+    "Moves": "g8f8 g3b8 c4c8 b8c8",
+    "Rating": "675",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "80",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/dX7tB228/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gyUSJ",
+    "FEN": "2rr4/p1Q2pkp/4bbp1/3p1p2/q2P4/P3PNP1/1PR2P1P/2R2BK1 w - - 11 25",
+    "Moves": "c7b7 c8c2 c1c2 a4c2",
+    "Rating": "784",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "143",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/rLmIJsho#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gyX0Y",
+    "FEN": "2kr3r/pp5p/1qnb1p2/2p1pb2/2Pp2BP/3P4/PP1B2P1/1R1QK1NR b K - 1 18",
+    "Moves": "c6e7 g4f5 e7f5 d1g4 c8b8 g4f5",
+    "Rating": "988",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "197",
+    "Themes": "advantage clearance long middlegame pin",
+    "GameUrl": "https://lichess.org/FnFEUg8Z/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "gyZGy",
+    "FEN": "r1bq1rk1/pp2ppbp/3p1n2/2pN4/2P4R/1P2P1P1/PnQP1PB1/R4KN1 b - - 1 12",
+    "Moves": "f6d5 c2h7",
+    "Rating": "880",
+    "RatingDeviation": "83",
+    "Popularity": "92",
+    "NbPlays": "198",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/6kAetMR2/black#24",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_English_Variation"
+  },
+  {
+    "PuzzleId": "gya3g",
+    "FEN": "r2k1r2/p1p4p/2pbbq1p/3p4/8/2N4Q/PPP2PPP/3RR1K1 w - - 0 17",
+    "Moves": "e1e6 f6f2 g1h1 f2f1 d1f1 f8f1",
+    "Rating": "913",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "1873",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/iavXNpN3#33",
+    "OpeningTags": "French_Defense French_Defense_Paulsen_Variation"
+  },
+  {
+    "PuzzleId": "gyeWg",
+    "FEN": "r4rk1/3bqpp1/p1n1p2p/1p1pP3/8/2PQ1N2/P1B2PPP/R4RK1 b - - 1 18",
+    "Moves": "f8c8 d3h7 g8f8 h7h8",
+    "Rating": "802",
+    "RatingDeviation": "89",
+    "Popularity": "84",
+    "NbPlays": "135",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/kwIdwFvI/black#36",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Sicilian_Invitation"
+  },
+  {
+    "PuzzleId": "gyfBA",
+    "FEN": "2b3rk/3npp2/8/1B4Pp/3P1K1Q/4P3/r4PP1/3q4 b - - 3 31",
+    "Moves": "d1b3 h4h5 h8g7 h5h6",
+    "Rating": "788",
+    "RatingDeviation": "75",
+    "Popularity": "73",
+    "NbPlays": "97",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/OG5iBpWQ/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gyfs7",
+    "FEN": "r2n1Bk1/ppp2r1R/3pQ1p1/2b1p3/2P1P3/P1PP4/2KN2P1/7R b - - 0 31",
+    "Moves": "d8e6 h7h8",
+    "Rating": "937",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "184",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Tevx2jfj/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gygo6",
+    "FEN": "r2q3k/ppp2B1p/3b1p2/5b2/3Q4/2N5/PPP2PPP/R3K2R w KQ - 0 15",
+    "Moves": "e1g1 d6h2 g1h2 d8d4",
+    "Rating": "942",
+    "RatingDeviation": "83",
+    "Popularity": "55",
+    "NbPlays": "123",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/ChURkWDJ#29",
+    "OpeningTags": "Latvian_Gambit Latvian_Gambit_Other_variations"
+  }
+]

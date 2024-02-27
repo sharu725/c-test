@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "I5XYE",
+    "FEN": "r4rk1/2p2ppp/2Nb3B/8/p2Pp3/7q/PPPQ1P2/2K3R1 b - - 1 18",
+    "Moves": "d6h2 c6e7 g8h8 h6g7",
+    "Rating": "2015",
+    "RatingDeviation": "83",
+    "Popularity": "69",
+    "NbPlays": "159",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/2ojDj66H/black#36",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "I5ikM",
+    "FEN": "2Rb2rk/pp3prp/3p1p1Q/3NpP2/6q1/6R1/PPP2P1P/2K5 b - - 1 26",
+    "Moves": "g4e4 h6g7 g8g7 c8d8 g7g8 g3g8",
+    "Rating": "2167",
+    "RatingDeviation": "84",
+    "Popularity": "83",
+    "NbPlays": "300",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/xLvhNZ4M/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "I60ZN",
+    "FEN": "r3k2r/pp3bp1/2pb3p/5Q2/8/8/PqP2PPP/3RR1K1 b kq - 1 18",
+    "Moves": "d6e7 e1e7 e8e7 d1d7 e7f8 f5f7",
+    "Rating": "2271",
+    "RatingDeviation": "140",
+    "Popularity": "43",
+    "NbPlays": "25",
+    "Themes": "attraction exposedKing long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/A2sLMQr9/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Campomanes_Attack"
+  },
+  {
+    "PuzzleId": "I60nD",
+    "FEN": "4r1rk/pp5p/5qbQ/5pN1/3p1R1P/1P1P4/1PP4K/6R1 b - - 0 26",
+    "Moves": "f6e5 h6h7 g6h7 g5f7",
+    "Rating": "2102",
+    "RatingDeviation": "79",
+    "Popularity": "88",
+    "NbPlays": "112",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/tnyPnPQ9/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "I61la",
+    "FEN": "rnb1r1k1/pp4p1/7p/3pnp2/3N3P/3B4/P1PN1PP1/R1B1K2R w KQ - 0 15",
+    "Moves": "d3f5 e5d3 e1d1 d3f2",
+    "Rating": "2140",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "859",
+    "Themes": "deflection doubleCheck mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/QsgwBsJw#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Wing_Gambit"
+  },
+  {
+    "PuzzleId": "I671u",
+    "FEN": "4Rrrk/pp3p1p/1qp2PpQ/7b/5P2/2P5/1P4P1/4R2K b - - 1 30",
+    "Moves": "b6f2 h6g7 g8g7 e8f8 g7g8 f8g8 h8g8 e1e8",
+    "Rating": "2046",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1886",
+    "Themes": "attraction deflection kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/AvYY6KnH/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "I68OK",
+    "FEN": "6k1/ppp3p1/3b3p/3P1r2/2PBr3/5pPq/PPQ2P1P/6RK w - - 0 26",
+    "Moves": "c2e4 h3h2 h1h2 f5h5 e4h4 h5h4",
+    "Rating": "2190",
+    "RatingDeviation": "85",
+    "Popularity": "90",
+    "NbPlays": "141173",
+    "Themes": "attraction endgame kingsideAttack long mate mateIn3 pin sacrifice",
+    "GameUrl": "https://lichess.org/feqPLWrk#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "I6hgW",
+    "FEN": "r3kbnr/pb4p1/1p2p2p/2ppN1B1/2PqP3/6P1/P2N2KP/2RQ1R2 b kq - 3 18",
+    "Moves": "d4e5 d1a4 b6b5 a4b5 b7c6 b5c6",
+    "Rating": "2336",
+    "RatingDeviation": "88",
+    "Popularity": "85",
+    "NbPlays": "291",
+    "Themes": "exposedKing fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/4fOHQtwX/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "I6z2w",
+    "FEN": "1r3k2/p3Nppp/3Qp3/8/8/Pq4P1/1b2PP1P/2R3K1 b - - 3 24",
+    "Moves": "b2c1 e7c8 f8e8 d6e7",
+    "Rating": "2140",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "5609",
+    "Themes": "discoveredAttack endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/GhR5o02c/black#48",
+    "OpeningTags": ""
+  }
+]

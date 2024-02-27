@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "kRjDG",
+    "FEN": "2kr1b1r/p1p3p1/2pq1n1p/4p3/3pPP2/5QNP/PPP3P1/R1B2RK1 b - - 1 14",
+    "Moves": "g7g6 f4e5 d6e5 f3f6",
+    "Rating": "1425",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "3605",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/T7xc8GR2/black#28",
+    "OpeningTags": "Bird_Opening Bird_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "kRlgs",
+    "FEN": "r1b1k2r/ppp2pp1/2pq4/2b5/4P1p1/1N1P4/PPP2PPP/R1BQ1RK1 w kq - 2 11",
+    "Moves": "b3c5 d6h2",
+    "Rating": "1448",
+    "RatingDeviation": "91",
+    "Popularity": "67",
+    "NbPlays": "439",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/CZKCf36e#21",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "kRn0u",
+    "FEN": "r1q2rk1/pb1nbppp/1p2p3/3n4/3Q4/2N2NP1/PP1BPPBP/2RR2K1 b - - 0 14",
+    "Moves": "e7f6 c3d5 b7d5 c1c8",
+    "Rating": "1549",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "2299",
+    "Themes": "crushing discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/7UZ2tg6r/black#28",
+    "OpeningTags": "Catalan_Opening Catalan_Opening_Closed"
+  },
+  {
+    "PuzzleId": "kRnEG",
+    "FEN": "1n1r2k1/p1p2ppp/5n2/8/3b4/2N1PQ2/PPqBK2P/R6R w - - 0 17",
+    "Moves": "e3d4 d8e8 e2f1 c2d2",
+    "Rating": "1587",
+    "RatingDeviation": "353",
+    "Popularity": "100",
+    "NbPlays": "4",
+    "Themes": "deflection equality middlegame short",
+    "GameUrl": "https://lichess.org/ylt5krjK#33",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kRsPb",
+    "FEN": "r1b2rk1/pp2q1pp/2p5/3nP3/2B2B1P/8/P1PQ2P1/R3K2R b KQ - 4 17",
+    "Moves": "f8f4 c4d5 c6d5 d2f4",
+    "Rating": "1542",
+    "RatingDeviation": "365",
+    "Popularity": "100",
+    "NbPlays": "7",
+    "Themes": "equality intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/RB9L1Hly/black#34",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kRtUZ",
+    "FEN": "r4rk1/b2q2pp/p1p1pn2/8/3p4/1N2B3/PPP1QPPP/R3R1K1 w - - 0 16",
+    "Moves": "a1d1 d4e3 d1d7 e3f2",
+    "Rating": "1528",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "959",
+    "Themes": "advancedPawn advantage kingsideAttack middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/6IlRH5Bq#31",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "kRth9",
+    "FEN": "r3k1nr/p2p3p/1p2p1p1/2pbQ3/8/1B1q2P1/PP3P1P/R1B3KR w kq - 0 17",
+    "Moves": "b3d5 d3d1 g1g2 d1d5 e5d5 e6d5",
+    "Rating": "1556",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "71",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/xWWYLdKl#33",
+    "OpeningTags": "Italian_Game Italian_Game_Rosentreter_Gambit"
+  },
+  {
+    "PuzzleId": "kRuam",
+    "FEN": "2r2rk1/5ppp/p3p1n1/P2n4/q1B3P1/6QP/1P1N1P2/2RR2K1 w - - 5 22",
+    "Moves": "c4a6 c8c1 d1c1 a4a5",
+    "Rating": "1476",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "723",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/84l6rGxq#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kRuoy",
+    "FEN": "r5rk/1q3p1p/p2p1PpQ/2p5/2Pp4/1P1b1R2/P5PP/R5K1 b - - 5 24",
+    "Moves": "b7e4 h6h7 h8h7 f3h3 e4h4 h3h4",
+    "Rating": "1454",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "19193",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/nM7fcG2K/black#48",
+    "OpeningTags": ""
+  }
+]

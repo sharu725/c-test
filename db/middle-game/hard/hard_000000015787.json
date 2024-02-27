@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "f1X2c",
+    "FEN": "3rkr2/1bpn1pp1/pp2p3/3qN1P1/3PpBQ1/2P1P3/P1PK1P2/R6R w - - 11 20",
+    "Moves": "h1h7 d7e5 f4e5 d5e5",
+    "Rating": "1785",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1980",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/CpmOncs2#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "f1XDa",
+    "FEN": "2rr3k/4n1p1/1p5p/p2pBq1P/3Pp3/P7/1PPQBP2/1K1R4 b - - 1 29",
+    "Moves": "e7c6 d2h6 f5h7 e5g7",
+    "Rating": "1747",
+    "RatingDeviation": "78",
+    "Popularity": "66",
+    "NbPlays": "59",
+    "Themes": "crushing kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/WlFZBRiw/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "f1XTm",
+    "FEN": "rnbq1k1r/1p3pp1/p2b4/3PR3/2P3p1/2NB4/PP2QPP1/R1B3K1 w - - 3 17",
+    "Moves": "e5e4 h8h1 g1h1 d8h4 h1g1 h4h2 g1f1 h2h1",
+    "Rating": "1795",
+    "RatingDeviation": "79",
+    "Popularity": "88",
+    "NbPlays": "231",
+    "Themes": "attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/HZEqx1G3#33",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Brooklyn_Variation"
+  },
+  {
+    "PuzzleId": "f1YeZ",
+    "FEN": "4r1k1/pp1b2p1/2n4p/4P3/5Pq1/8/PP4QP/3R1RK1 b - - 2 25",
+    "Moves": "g4e6 f4f5 e6f7 e5e6",
+    "Rating": "1784",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "1828",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/mDXSuOG2/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "f1Yhm",
+    "FEN": "4r1k1/p4pbp/Pp1Br1p1/2pn4/1P6/1NP3P1/2Q4P/3R2K1 w - - 1 24",
+    "Moves": "b4c5 d5e3 c5b6 e3c2",
+    "Rating": "1668",
+    "RatingDeviation": "75",
+    "Popularity": "77",
+    "NbPlays": "81",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/oN9t7mzD#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "f1ZTk",
+    "FEN": "r2q1rk1/p3npbp/4p1p1/2p5/2bpPP1Q/5N2/PPPBNRPP/R5K1 w - - 0 15",
+    "Moves": "b2b3 c4e2 f2e2 d4d3",
+    "Rating": "1661",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "7417",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/AF5VLRhQ#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "f1bBc",
+    "FEN": "2r3k1/1p3p1p/2n1bQp1/pB6/P3PN2/2P2P2/1P5q/1K1R4 b - - 2 25",
+    "Moves": "c6b4 d1d8 c8d8 f6d8 g8g7 f4e6",
+    "Rating": "1697",
+    "RatingDeviation": "148",
+    "Popularity": "86",
+    "NbPlays": "10",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/UEZREfiT/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "f1bgZ",
+    "FEN": "r4rk1/2pq1pp1/2p4p/3pPb2/1P2n3/7P/2PBNPP1/R2Q1RK1 w - - 1 17",
+    "Moves": "e2f4 a8a1 d1a1 e4d2",
+    "Rating": "1629",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "12451",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/2H5SiRlc#33",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "f1dAc",
+    "FEN": "r3k2r/pp3pp1/3b4/3p3P/3Pp1nq/PPN1P2P/5P2/R2QK1NR w KQkq - 2 17",
+    "Moves": "d1e2 g4f2 e2f2 d6g3 f2g3 h4g3",
+    "Rating": "1724",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "13448",
+    "Themes": "attackingF2F7 crushing long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/XQbi3vuX#33",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  }
+]

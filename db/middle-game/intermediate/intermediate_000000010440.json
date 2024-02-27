@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "P6DPh",
+    "FEN": "2r1br1k/pp2qNn1/4ppQ1/n2p4/3P4/2P3R1/PP1N1PPP/R5K1 b - - 8 21",
+    "Moves": "e7f7 g3h3 g7h5 h3h5 f7h7 h5h7",
+    "Rating": "1474",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "107",
+    "Themes": "exposedKing kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/qhdYYYX4/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P6Gim",
+    "FEN": "r1bq1r1k/1p2b1pB/p1n1p1Np/3pp3/3P4/4P3/PPQ1N1PP/R4RK1 b - - 3 16",
+    "Moves": "h8h7 g6f8 h7g8 c2h7",
+    "Rating": "1579",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1509",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/CEr86gkS/black#32",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "P6I9P",
+    "FEN": "r4rk1/pp2ppbp/2n3p1/q5B1/3P2b1/2PB4/P2Q1PPP/R3NRK1 b - - 8 13",
+    "Moves": "c6d4 c3d4 a5d2 g5d2",
+    "Rating": "1551",
+    "RatingDeviation": "79",
+    "Popularity": "71",
+    "NbPlays": "46",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/VeitQDJ0/black#26",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "P6Loc",
+    "FEN": "5r2/p3rk2/2p5/3p1Q2/4n1P1/P7/1BR2p1q/3R1K2 b - - 7 40",
+    "Moves": "f7g8 f5g6 e7g7 g6g7",
+    "Rating": "1465",
+    "RatingDeviation": "112",
+    "Popularity": "54",
+    "NbPlays": "15",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/8ud7jXPr/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P6M15",
+    "FEN": "r1b2rk1/1pq2p2/p2pp1p1/6Np/2Pb4/3B3Q/PP3PPP/R3R1K1 w - - 0 17",
+    "Moves": "d3g6 f7g6",
+    "Rating": "1474",
+    "RatingDeviation": "83",
+    "Popularity": "77",
+    "NbPlays": "54",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/xQzLYM2z#33",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "P6Me9",
+    "FEN": "r3r1k1/pp2qppp/2p2n2/5PNb/3P4/3QB2P/PPPK2P1/5B1R b - - 2 18",
+    "Moves": "f6e4 g5e4 e7e4 d3e4",
+    "Rating": "1550",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "41",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/1kUsGvfq/black#36",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "P6NMy",
+    "FEN": "2k3rr/R2p4/1p1P1p2/2p5/1P2pp1p/6Pq/1P3P1N/3Q1RK1 b - - 0 27",
+    "Moves": "h4g3 a7a8 c8b7 d1d5",
+    "Rating": "1595",
+    "RatingDeviation": "117",
+    "Popularity": "27",
+    "NbPlays": "37",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/wbrameTW/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P6NW2",
+    "FEN": "r2qkb1r/p2nn1p1/1pp1p3/2PpP1NP/3P4/3Q1P2/PP6/RN2K2R b KQkq - 0 16",
+    "Moves": "e7f5 g5e6 d8e7 d3f5",
+    "Rating": "1515",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "479",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/jVDFbUq0/black#32",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "P6OIR",
+    "FEN": "4r1k1/p1rn1pp1/2N1bq1p/P7/NQ1Pp3/4P3/1R3PP1/2R3K1 b - - 0 29",
+    "Moves": "e6d5 c6e7 f6e7 c1c7",
+    "Rating": "1450",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2751",
+    "Themes": "crushing discoveredAttack fork middlegame short",
+    "GameUrl": "https://lichess.org/sg3KZrcC/black#58",
+    "OpeningTags": ""
+  }
+]

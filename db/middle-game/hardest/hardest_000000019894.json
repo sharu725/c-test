@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "fBj56",
+    "FEN": "1r1q1r1k/4b2p/5p1p/pp1NP2B/3Q4/P7/1PP2P1P/2K3R1 b - - 0 22",
+    "Moves": "b5b4 d4g4 f8g8 g4g8 d8g8 g1g8 b8g8 d5e7",
+    "Rating": "2227",
+    "RatingDeviation": "77",
+    "Popularity": "70",
+    "NbPlays": "134",
+    "Themes": "advantage kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/Rz7kBLbf/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fBjcf",
+    "FEN": "r4r2/2q1b2k/p1pN2pp/4p3/4Q3/1P4P1/P4P1P/3R1RK1 w - - 0 25",
+    "Moves": "e4e5 f8f5 e5d4 f5d5 d6e8 a8e8",
+    "Rating": "2223",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "5808",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/fvx5b5A4#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fBk3E",
+    "FEN": "r1bq1rk1/5ppp/p1p1p3/4b3/4N3/3BQ3/PP3PPP/R2R2K1 b - - 0 18",
+    "Moves": "e5b2 e4g5 g7g6 d3g6 h7g6 d1d8",
+    "Rating": "2164",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "428",
+    "Themes": "advantage long master middlegame",
+    "GameUrl": "https://lichess.org/hRI72Fl6/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "fBkdu",
+    "FEN": "2kr3r/pp1q2b1/2n2pB1/P2p4/3P2b1/1QN1PN2/5PKB/R1R5 w - - 0 25",
+    "Moves": "g6d3 g4h3 g2g1 d7g4 h2g3 g4f3 b3d5 d8d5",
+    "Rating": "2199",
+    "RatingDeviation": "78",
+    "Popularity": "85",
+    "NbPlays": "140",
+    "Themes": "crushing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/72eEVVCf#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fBm2g",
+    "FEN": "rn1q2k1/pbp2Rbr/1p1pP1Q1/3n4/3PN3/4P3/PPP3PP/R1B3K1 b - - 2 16",
+    "Moves": "d8h4 f7f8 g8f8 g6f7",
+    "Rating": "2257",
+    "RatingDeviation": "78",
+    "Popularity": "83",
+    "NbPlays": "270",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/djs9Mxxr/black#32",
+    "OpeningTags": "English_Defense English_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "fBm8g",
+    "FEN": "5rk1/p3qp1p/4bp2/8/QrBRpP2/4P3/P5PP/R5K1 w - - 11 23",
+    "Moves": "a4c6 f8c8 c6e4 f6f5",
+    "Rating": "2317",
+    "RatingDeviation": "104",
+    "Popularity": "80",
+    "NbPlays": "20",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/laZVM9CB#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fBmUd",
+    "FEN": "r4rk1/1b2bppp/pq1ppn2/1pn1P1B1/3N1P2/P1NBQ2P/1PP3P1/2KR3R b - - 0 14",
+    "Moves": "c5d3 d1d3 d6e5 f4e5",
+    "Rating": "2148",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "64",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/N4M4gTZ0/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "fBnT9",
+    "FEN": "r1b1rk2/pp3pp1/8/2pp1B2/5Pn1/P1P1P1K1/1PQ1N1Pq/R1B2R2 w - - 3 18",
+    "Moves": "g3g4 h2g2 e2g3 g2c2",
+    "Rating": "2023",
+    "RatingDeviation": "86",
+    "Popularity": "46",
+    "NbPlays": "40",
+    "Themes": "crushing fork middlegame pin short",
+    "GameUrl": "https://lichess.org/Z2d5ybf4#35",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Queens_Gambit_Invitation"
+  },
+  {
+    "PuzzleId": "fBoGC",
+    "FEN": "5r2/ppqb2R1/1npk1p2/4p3/3PB3/4Q3/P3PP1P/3K4 b - - 1 29",
+    "Moves": "b6d5 e3a3 c6c5 d4c5 c7c5 g7d7 d6d7 a3c5",
+    "Rating": "2049",
+    "RatingDeviation": "114",
+    "Popularity": "86",
+    "NbPlays": "20",
+    "Themes": "crushing deflection middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/E5o17x6H/black#58",
+    "OpeningTags": ""
+  }
+]

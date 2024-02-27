@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "GjHlF",
+    "FEN": "1k1r3r/1p2nB1p/1q3p1b/1b6/N1Q5/8/PPP2PPP/1K1R2NR w - - 3 18",
+    "Moves": "a4b6 d8d1",
+    "Rating": "1019",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "179",
+    "Themes": "backRankMate hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/GjybBAC4#35",
+    "OpeningTags": "Center_Game Center_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "GjIDB",
+    "FEN": "r4rk1/ppp2ppp/5n2/2bN1b2/2P5/8/PP1R1PPP/R1B3K1 b - - 8 14",
+    "Moves": "c5e7 d5e7 g8h8 e7f5",
+    "Rating": "1070",
+    "RatingDeviation": "293",
+    "Popularity": "-100",
+    "NbPlays": "1",
+    "Themes": "advantage fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/6mJILrKv/black#28",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "GjIdr",
+    "FEN": "r1b1k1r1/ppp2p2/4p3/4q3/1b5P/2N5/PP2BPP1/R2QK2R b KQq - 1 15",
+    "Moves": "g8g2 d1a4 c8d7 a4b4",
+    "Rating": "1126",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "2669",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/YKDz5s3c/black#30",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "GjIkh",
+    "FEN": "r1b2rk1/1p3ppp/p7/3q4/1P1p4/3P4/1P2BPPP/R2Q1RK1 b - - 0 16",
+    "Moves": "b7b5 e2f3 d5d6 f3a8",
+    "Rating": "1016",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1544",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/5pc802Tm/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "GjIqa",
+    "FEN": "r1bq2k1/p1p1r2p/2p2b2/3p3Q/8/3B4/PPP2PPP/R3R1K1 b - - 3 17",
+    "Moves": "e7g7 e1e8 d8e8 h5e8",
+    "Rating": "1171",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "606",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/uT4QRgRA/black#34",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "GjIr5",
+    "FEN": "r4r1k/ppp3pp/3p1q2/4p3/3nP3/3P2QB/PPPN3P/R3K2R w KQ - 7 16",
+    "Moves": "e1c1 d4e2 c1b1 e2g3",
+    "Rating": "1010",
+    "RatingDeviation": "86",
+    "Popularity": "88",
+    "NbPlays": "59",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/2B4VbkiO#31",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "GjKcX",
+    "FEN": "r4rk1/1p1n1ppb/2p2q1p/3p1N2/P2b4/3Q1P2/2B3PP/R1B2R1K b - - 1 28",
+    "Moves": "d4a1 f5e7 g8h8 d3h7",
+    "Rating": "1060",
+    "RatingDeviation": "144",
+    "Popularity": "57",
+    "NbPlays": "11",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/UWyi2HiR/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GjPn8",
+    "FEN": "r2q1r2/5ppk/1p1p1b1p/pPnP1N1n/2P5/5P2/BB4PP/R2QR1K1 w - - 1 22",
+    "Moves": "a2b1 f6b2",
+    "Rating": "1176",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1366",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/jZuSr9WZ#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GjRyS",
+    "FEN": "4rr1k/p3Np2/1p3n1p/3pRPp1/q1b3P1/2P1Q2P/P5B1/4R2K b - - 1 27",
+    "Moves": "f6d7 e7g6 h8g7 e5e8",
+    "Rating": "1197",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "2751",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/WyoDbngK/black#54",
+    "OpeningTags": ""
+  }
+]

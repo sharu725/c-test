@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "4RgJp",
+    "FEN": "r4rk1/5ppp/p7/3Pq3/3pP1n1/1N6/P4PPP/1R1Q1RK1 w - - 2 25",
+    "Moves": "h2h3 e5h2",
+    "Rating": "727",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "123",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/UhzP5SuX#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4Ri3G",
+    "FEN": "rnb2r1k/ppb3pp/2p5/3pN2Q/8/2NBP3/PPP2qPP/R2K3R b - - 1 13",
+    "Moves": "c7e5 h5h7",
+    "Rating": "812",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "79",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Mers24xz/black#26",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Soller_Gambit"
+  },
+  {
+    "PuzzleId": "4Rkcp",
+    "FEN": "2kr4/p1p2ppp/3r4/8/2P5/P5P1/1PbNPPBP/R3K2R w KQ - 3 17",
+    "Moves": "d2f3 d6d1 a1d1 d8d1",
+    "Rating": "803",
+    "RatingDeviation": "102",
+    "Popularity": "85",
+    "NbPlays": "39",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/fCjx5IUa#33",
+    "OpeningTags": "Old_Indian_Defense Old_Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "4Ro6M",
+    "FEN": "2k2R1r/1bpp4/1p3Q2/p1qP3r/P3P3/2PB4/1P3RPP/7K b - - 6 33",
+    "Moves": "h8f8 f6f8 c5f8 f2f8",
+    "Rating": "600",
+    "RatingDeviation": "88",
+    "Popularity": "78",
+    "NbPlays": "263",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/YKnB9OJQ/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4RrVQ",
+    "FEN": "7r/1p3kbq/p1p2p2/P1Pp2p1/1P1Pp1br/4P1N1/4QR1N/5RK1 w - - 0 44",
+    "Moves": "h2g4 h4h1 g3h1 h7h1",
+    "Rating": "968",
+    "RatingDeviation": "81",
+    "Popularity": "88",
+    "NbPlays": "61",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/r9oXmADf#87",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4RsT0",
+    "FEN": "r2q1rk1/4bpp1/p2p3B/1p3P2/3pP3/N2P2nP/1PP3P1/R1Q2RK1 w - - 1 19",
+    "Moves": "f1f3 g3e2 g1f1 e2c1",
+    "Rating": "642",
+    "RatingDeviation": "91",
+    "Popularity": "94",
+    "NbPlays": "993",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/YCbUbcnF#37",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Bird_Variation"
+  },
+  {
+    "PuzzleId": "4RtIV",
+    "FEN": "r2q1rk1/pp1b1pb1/1n1pp3/2pP2Np/2P4B/2NBPP2/PP2Q1P1/R3K3 b Q - 1 17",
+    "Moves": "e6d5 d3h7 g8h8 g5f7 f8f7 h4d8",
+    "Rating": "993",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "3016",
+    "Themes": "advantage deflection discoveredAttack kingsideAttack long master middlegame",
+    "GameUrl": "https://lichess.org/8oq1Q9Wy/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "4RvhH",
+    "FEN": "4r1k1/pb1n1ppp/1pq1pn2/4P3/2pP4/2P5/P1B2PPP/R1BQR1K1 w - - 1 19",
+    "Moves": "e1f1 c6g2",
+    "Rating": "615",
+    "RatingDeviation": "87",
+    "Popularity": "100",
+    "NbPlays": "120",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/VFcG069B#37",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Normal_Line"
+  },
+  {
+    "PuzzleId": "4Rvhg",
+    "FEN": "1r3r2/pNq4k/2p2bb1/B1P1ppp1/3P3p/PQ2PP1P/1P4P1/R4RK1 b - - 2 26",
+    "Moves": "c7a5 b7a5 b8b3 a5b3",
+    "Rating": "885",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "370",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/XM3pSlP2/black#52",
+    "OpeningTags": ""
+  }
+]

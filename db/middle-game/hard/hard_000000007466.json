@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "JRGsr",
+    "FEN": "r2r2k1/p4p1p/4b1p1/1Npp4/8/Pn1P1N1P/1b2BPP1/1R3RK1 b - - 1 22",
+    "Moves": "b3d4 b1b2 d4e2 b2e2",
+    "Rating": "1760",
+    "RatingDeviation": "270",
+    "Popularity": "-17",
+    "NbPlays": "3",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/rN93cLxi/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JRIDL",
+    "FEN": "5rk1/r6p/2p1b1pR/1pP3P1/p2Pp3/P3q3/1P2B3/1K2Q2R b - - 1 27",
+    "Moves": "e6f5 e2c4 b5c4 e1e3",
+    "Rating": "1623",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "4990",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/gTc8rozT/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JRKSL",
+    "FEN": "r2qr1k1/pp2Bpp1/2n4p/3p4/3Pn3/P1N2B1P/1P3PP1/R2QR1K1 b - - 0 16",
+    "Moves": "e4c3 e7d8 c3d1 e1e8",
+    "Rating": "1723",
+    "RatingDeviation": "77",
+    "Popularity": "62",
+    "NbPlays": "61",
+    "Themes": "capturingDefender crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/ViZpQtOd/black#32",
+    "OpeningTags": "Tarrasch_Defense Tarrasch_Defense_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "JRLyG",
+    "FEN": "2k1r1nr/1bpp4/pp4p1/6Bp/1b4P1/P1N3RP/1PP1B3/2KR4 b - - 0 19",
+    "Moves": "b4a5 b2b4 a5b4 a3b4",
+    "Rating": "1606",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "8938",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/NKzXYXEv/black#38",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Schulze-Muller_Gambit"
+  },
+  {
+    "PuzzleId": "JROg5",
+    "FEN": "r3k3/p4pp1/2pB1n2/1P6/Q2Pp3/4PnK1/P3NP1r/R4R2 w q - 1 22",
+    "Moves": "b5c6 f6h5 g3g4 h2h4 g4f5 g7g6",
+    "Rating": "1654",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "9535",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/j1RAsElT#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JRSSl",
+    "FEN": "r3k1r1/ppp2p1p/2qp2p1/3b4/4nB1b/N1P2Q2/PP2B1PP/R3K1NR w KQq - 4 15",
+    "Moves": "f4g3 e4g3 f3e3 g3e4",
+    "Rating": "1722",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1371",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/6P6ysJpn#29",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Napoleon_Attack"
+  },
+  {
+    "PuzzleId": "JRTa4",
+    "FEN": "4r3/4rk1p/2q1pbp1/5p2/2PP4/2BQ2P1/4R1KP/R7 w - - 4 33",
+    "Moves": "d4d5 e6d5 e2e7 e8e7 c4d5 c6c3",
+    "Rating": "1672",
+    "RatingDeviation": "87",
+    "Popularity": "68",
+    "NbPlays": "271",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/9fI9VIBg#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JRX9w",
+    "FEN": "2r4k/7n/p3pp1p/q2p3N/bp1P1P1P/1PrB4/2PQ4/1KR3R1 w - - 0 32",
+    "Moves": "d3h7 a4b3 c2b3 c3b3 d2b2 b3b2",
+    "Rating": "1718",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "342",
+    "Themes": "crushing long middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/2f3rPWJP#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JRXYZ",
+    "FEN": "r2qr1k1/ppn2pb1/2bp3p/4p1pn/1PP1P3/P1N2NB1/2Q1BPPP/3RR1K1 w - - 0 18",
+    "Moves": "f3e5 h5g3 e5c6 g3e2 c3e2 b7c6",
+    "Rating": "1793",
+    "RatingDeviation": "78",
+    "Popularity": "39",
+    "NbPlays": "44",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/TWfh0n4d#35",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Orthodox_Variation"
+  }
+]

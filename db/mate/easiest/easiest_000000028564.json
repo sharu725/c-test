@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "tXfnd",
+    "FEN": "8/8/p5r1/R6p/p6k/2P2K2/1P6/8 b - - 1 47",
+    "Moves": "h4h3 a5h5",
+    "Rating": "597",
+    "RatingDeviation": "94",
+    "Popularity": "66",
+    "NbPlays": "168",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/Ai88k9zH/black#94",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tXgKq",
+    "FEN": "4r1k1/p4pp1/1p1p3p/3N4/8/8/PPP2n1P/1K3R2 w - - 1 26",
+    "Moves": "f1f2 e8e1",
+    "Rating": "599",
+    "RatingDeviation": "84",
+    "Popularity": "67",
+    "NbPlays": "123",
+    "Themes": "backRankMate endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/oXWehjir#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tXgbt",
+    "FEN": "3r4/1pq1kpQ1/2p1p3/p1n5/2P1B3/4R2P/P4PP1/6K1 w - - 3 29",
+    "Moves": "e4g6 d8d1 e3e1 d1e1",
+    "Rating": "819",
+    "RatingDeviation": "90",
+    "Popularity": "88",
+    "NbPlays": "197",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/PqEE1MKW#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tXk20",
+    "FEN": "5rk1/1Q3ppp/4pq2/1p6/8/1P1P4/2r2PPP/1R2R1K1 w - - 0 22",
+    "Moves": "b7b5 f6f2 g1h1 f2g2",
+    "Rating": "885",
+    "RatingDeviation": "79",
+    "Popularity": "100",
+    "NbPlays": "53",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/cXPUIHZ6#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tXlfX",
+    "FEN": "5r1k/ppQ1R2p/2b2q1p/5p2/2B5/5P2/P5PK/8 b - - 11 36",
+    "Moves": "f5f4 e7h7",
+    "Rating": "771",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "171",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/21WGxq6G/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tXnKf",
+    "FEN": "8/6k1/2R2b2/7p/7P/5B2/3r2K1/8 w - - 6 57",
+    "Moves": "g2g3 f6e5 g3h3 d2h2",
+    "Rating": "915",
+    "RatingDeviation": "88",
+    "Popularity": "92",
+    "NbPlays": "560",
+    "Themes": "endgame master mate mateIn2 short",
+    "GameUrl": "https://lichess.org/WENCGer0#113",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tXnze",
+    "FEN": "r5k1/p4ppp/2R1r2B/7n/8/2Q4P/q4PP1/5RK1 b - - 5 26",
+    "Moves": "e6h6 c6c8 a8c8 c3c8",
+    "Rating": "843",
+    "RatingDeviation": "86",
+    "Popularity": "69",
+    "NbPlays": "44",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/NeNiz7gO/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tXomr",
+    "FEN": "5rk1/1p4pp/p2qb3/2n5/4PN2/4Q3/PP4PP/R1B3K1 w - - 3 22",
+    "Moves": "f4e6 d6d1 e3e1 d1e1",
+    "Rating": "803",
+    "RatingDeviation": "84",
+    "Popularity": "99",
+    "NbPlays": "972",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/VlvAHJB1#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tXqTV",
+    "FEN": "r4r1k/2pnq1pp/pb6/3BNP2/8/5Q2/PP4PP/R1B4K w - - 1 24",
+    "Moves": "e5d7 e7e1 f3f1 e1f1",
+    "Rating": "629",
+    "RatingDeviation": "78",
+    "Popularity": "98",
+    "NbPlays": "1221",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ltV8YXEV#47",
+    "OpeningTags": ""
+  }
+]

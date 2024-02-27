@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SGNPU",
+    "FEN": "r3k2r/pp1nppbp/1qp1b1p1/4P3/3P4/1PN2N2/PBP3PP/R2Q1RK1 b kq - 2 13",
+    "Moves": "d7e5 f3e5 g7e5 c3a4 e5h2 g1h2",
+    "Rating": "2213",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "608",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/oyKhp9k7/black#26",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Austrian_Attack"
+  },
+  {
+    "PuzzleId": "SGNW9",
+    "FEN": "2r2r2/p3q1pk/3pbp1p/2p1B2P/4P3/1P4Q1/P1P1BRP1/5RK1 b - - 0 25",
+    "Moves": "f6e5 f2f8 c8f8 f1f8 e7f8 g3g6 h7g8 g6e6",
+    "Rating": "2387",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "2070",
+    "Themes": "crushing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/BLOl9ny5/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SGNum",
+    "FEN": "1k1r1r2/1p1b2p1/p1n1p2p/q7/4B3/1R6/2P1QPPP/4R1K1 b - - 3 30",
+    "Moves": "c6d4 b3b7 b8c8 e2c4 d4c6 e1b1",
+    "Rating": "2323",
+    "RatingDeviation": "90",
+    "Popularity": "76",
+    "NbPlays": "56",
+    "Themes": "advantage defensiveMove fork long master middlegame",
+    "GameUrl": "https://lichess.org/QnEbmFHR/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SGQHP",
+    "FEN": "r3k2r/pp1n1ppp/2pbpnb1/8/8/3PBNN1/PqP1BPPP/1R1QR1K1 b kq - 1 12",
+    "Moves": "b2a2 b1a1 a2b2 e3d4 b2b5 c2c4 b5b4 a1a4",
+    "Rating": "2055",
+    "RatingDeviation": "76",
+    "Popularity": "73",
+    "NbPlays": "51",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/KLtKNWIG/black#24",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+  },
+  {
+    "PuzzleId": "SGRTy",
+    "FEN": "7k/1b3rpp/8/1B1pp3/PQ2p1qb/4B3/1P3PPP/4R1K1 w - - 2 29",
+    "Moves": "b5e8 h4f2 e3f2 f7f2 g1f2 e4e3 e1e3 g4b4",
+    "Rating": "2254",
+    "RatingDeviation": "87",
+    "Popularity": "86",
+    "NbPlays": "659",
+    "Themes": "attraction crushing fork middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/MzMuPUgu#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SGS1x",
+    "FEN": "4r1k1/1b1q1pp1/2n4p/4p3/2Q1n3/P1P2N1P/3P1PP1/2B1R1K1 w - - 0 21",
+    "Moves": "e1e4 c6a5 c4a4 b7c6 a4a5 c6e4",
+    "Rating": "2064",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "284",
+    "Themes": "advantage clearance fork long middlegame",
+    "GameUrl": "https://lichess.org/Bz5BAwAw#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SGSNI",
+    "FEN": "3r1rk1/ppp3pp/5q2/1Q6/8/2P5/PP3bPP/RN3R1K b - - 1 16",
+    "Moves": "f2e3 b5b3 g8h8 f1f6",
+    "Rating": "2156",
+    "RatingDeviation": "101",
+    "Popularity": "75",
+    "NbPlays": "27",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/0gWUXa4h/black#32",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Schliemann_Defense"
+  },
+  {
+    "PuzzleId": "SGSbU",
+    "FEN": "8/r4pk1/1q1bp1p1/pP1p1BQ1/3P3P/2r5/R2N1P2/R5K1 w - - 2 31",
+    "Moves": "f5g4 f7f6 g5e3 c3e3",
+    "Rating": "2030",
+    "RatingDeviation": "83",
+    "Popularity": "80",
+    "NbPlays": "40",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/ub3oh7PD#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SGTie",
+    "FEN": "6k1/ppp2rpp/2bp4/7r/nPPQ4/4BPPq/P3BR1P/R5K1 b - - 2 25",
+    "Moves": "c6f3 e2f3 f7f3 f2f3",
+    "Rating": "2056",
+    "RatingDeviation": "121",
+    "Popularity": "14",
+    "NbPlays": "17",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/0hXUY6FM/black#50",
+    "OpeningTags": ""
+  }
+]

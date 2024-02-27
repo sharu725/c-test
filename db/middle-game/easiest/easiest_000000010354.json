@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "UnETT",
+    "FEN": "q2k3r/3P1ppp/1p1np3/1P4P1/1bP4P/5N2/4PP2/2BQ1K1R w - - 3 23",
+    "Moves": "f3e5 a8h1",
+    "Rating": "805",
+    "RatingDeviation": "85",
+    "Popularity": "88",
+    "NbPlays": "313",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/5TMqi6hT#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UnEuI",
+    "FEN": "r2kr3/pp2bnpp/1np5/8/3p3P/1N6/PPP2PP1/R1B1KB1R w KQ - 2 19",
+    "Moves": "b3d4 e7b4 e1d1 e8e1",
+    "Rating": "937",
+    "RatingDeviation": "82",
+    "Popularity": "88",
+    "NbPlays": "158",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/bjmkpEuh#37",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "UnFBa",
+    "FEN": "4r1k1/3r1pp1/R5p1/8/1P3n2/1nN2B2/5PPP/3R2K1 w - - 0 27",
+    "Moves": "f3c6 d7d1 c3d1 e8e1",
+    "Rating": "826",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "347",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/EL4wtlkd#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UnHAj",
+    "FEN": "3r1r1k/1b2bpp1/p1q1p2p/1p6/3B2Q1/2P2PP1/PPB4P/R4RK1 b - - 0 23",
+    "Moves": "e7c5 g4g7",
+    "Rating": "845",
+    "RatingDeviation": "99",
+    "Popularity": "95",
+    "NbPlays": "211",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/c9a65iqo/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UnJMG",
+    "FEN": "r1b1k2r/pp3ppp/2n1p3/2qpn3/8/2NB1N2/PPP1QPPP/R4RK1 b kq - 1 11",
+    "Moves": "c8d7 f3e5 c6e5 e2e5",
+    "Rating": "877",
+    "RatingDeviation": "80",
+    "Popularity": "95",
+    "NbPlays": "792",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/UsWQfibh/black#22",
+    "OpeningTags": "French_Defense French_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "UnJoR",
+    "FEN": "2knQb2/pb1r3p/2p5/6p1/8/8/PPP3PP/R1B2R1K w - - 0 29",
+    "Moves": "f1f8 d7d1 e8e1 d1e1 f8f1 e1f1",
+    "Rating": "594",
+    "RatingDeviation": "101",
+    "Popularity": "88",
+    "NbPlays": "330",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/EIlU6XsV#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UnKIi",
+    "FEN": "r1N3k1/p5p1/4rp2/3qp2p/1B1p4/P5P1/6PP/1RR4K b - - 0 33",
+    "Moves": "e6c6 c8e7 g8f7 e7d5",
+    "Rating": "797",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "1546",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/qZDue2cs/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UnLsn",
+    "FEN": "2r3k1/5ppp/2p5/p2prb1q/3Q2n1/1P2PN2/PB3PP1/2R2RK1 w - - 0 23",
+    "Moves": "f3e5 h5h2",
+    "Rating": "798",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "630",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/GmZKcLms#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UnM0B",
+    "FEN": "r6r/pb2bk1p/1ppqnnp1/8/2B5/1Q2P1N1/PP1P1PPP/R1B1K2R w KQ - 2 15",
+    "Moves": "c4e6 d6e6 b3e6 f7e6",
+    "Rating": "664",
+    "RatingDeviation": "91",
+    "Popularity": "85",
+    "NbPlays": "621",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Pb4VaBAV#29",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  }
+]

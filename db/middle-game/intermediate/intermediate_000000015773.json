@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "bvY7o",
+    "FEN": "3rk1nr/3b1ppp/1p2p3/3pP3/3P4/b7/P2B1PPP/RN2K1NR w KQk - 2 13",
+    "Moves": "g1f3 a3b2 d2c3 b2a1",
+    "Rating": "1415",
+    "RatingDeviation": "81",
+    "Popularity": "65",
+    "NbPlays": "37",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/8BX2staA#25",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "bvZE4",
+    "FEN": "r4rk1/pppq1p1p/4p1p1/3Pb3/4n3/3QP3/PP2NPPP/R1BR2K1 b - - 0 16",
+    "Moves": "e6d5 d3e4 d5e4 d1d7",
+    "Rating": "1560",
+    "RatingDeviation": "76",
+    "Popularity": "81",
+    "NbPlays": "200",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/NpzPY6zl/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  },
+  {
+    "PuzzleId": "bvaTL",
+    "FEN": "r5k1/1nq3pp/p2bpr2/1p1p1p1Q/8/2N2N2/PPPP1PPP/R1B2RK1 w - - 2 19",
+    "Moves": "f3g5 f6h6 h5f7 c7f7",
+    "Rating": "1527",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "2089",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/I4pfWUAc#37",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "bvayg",
+    "FEN": "r3k2r/1ppnqpp1/3p3p/p2Pp3/2P2PP1/1P3N1P/PB1R4/1K3Q2 b kq - 0 24",
+    "Moves": "e5f4 d2e2 e7e2 f1e2",
+    "Rating": "1449",
+    "RatingDeviation": "103",
+    "Popularity": "25",
+    "NbPlays": "23",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/L3lh2Ti8/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bvc6W",
+    "FEN": "r5k1/p1bq2pp/1pn5/2p1P3/2P1N1b1/1P2R1P1/PB4KP/R1Q5 w - - 5 21",
+    "Moves": "c1f1 g4h3 g2g1 h3f1",
+    "Rating": "1493",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1049",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/umbl9xmN#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bvdiJ",
+    "FEN": "4rr1k/pp4p1/1n4Qp/3p4/3q4/1PN4R/P4PPP/5RK1 w - - 2 22",
+    "Moves": "h3d3 d4f2 f1f2 e8e1 f2f1 e1f1",
+    "Rating": "1454",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "395",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/6oOMcHZy#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bvetv",
+    "FEN": "rn2k2r/1p3pp1/p3pP2/2p4p/3P4/P1N2q2/1PP1N2P/R2QK2R w KQkq - 0 16",
+    "Moves": "f6g7 f3h1 e1d2 h1d1 a1d1 h8g8",
+    "Rating": "1408",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "3198",
+    "Themes": "advantage exposedKing hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/93UGWtf5#31",
+    "OpeningTags": "Rapport-Jobava_System Rapport-Jobava_System_Other_variations"
+  },
+  {
+    "PuzzleId": "bvf2Q",
+    "FEN": "r4qk1/pp1n1pp1/5np1/3p2B1/1b1N2P1/P1N1R2P/1PPQ1PK1/8 b - - 0 20",
+    "Moves": "b4c3 d2c3",
+    "Rating": "1439",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality middlegame oneMove",
+    "GameUrl": "https://lichess.org/sWZTkbkV/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bvfCO",
+    "FEN": "r1bq1rk1/2p2pp1/p2bpn1p/1p1p4/2nP3B/2PQPN2/PPBN1PPP/R3K2R b KQ - 5 13",
+    "Moves": "c4d2 h4f6 d2e4 f6d8",
+    "Rating": "1424",
+    "RatingDeviation": "83",
+    "Popularity": "65",
+    "NbPlays": "37",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/A61cqnBk/black#26",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  }
+]

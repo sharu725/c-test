@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "az585",
+    "FEN": "r5k1/2p2pq1/p1bp4/5Q1P/1p4N1/1P2P3/P1PP1PP1/4K2R w K - 1 23",
+    "Moves": "h5h6 g7a1 e1e2 a1h1 f5g5 g8f8",
+    "Rating": "1622",
+    "RatingDeviation": "283",
+    "Popularity": "100",
+    "NbPlays": "4",
+    "Themes": "defensiveMove endgame equality long master skewer",
+    "GameUrl": "https://lichess.org/a0fJNPdc#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "azX6p",
+    "FEN": "1rr3k1/p4pp1/4b3/4p3/4P1Pp/1P2qP2/P2RB1KP/4Q2R w - - 3 28",
+    "Moves": "e2a6 h4h3 g2g3 e3f4",
+    "Rating": "1769",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "318",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/cJKagJen#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "azcT4",
+    "FEN": "6k1/pR5p/1p1b2p1/8/2P5/1B4PP/PP2r3/6K1 b - - 2 47",
+    "Moves": "e2b2 c4c5 b2b3 a2b3",
+    "Rating": "1679",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "1010",
+    "Themes": "advantage discoveredAttack endgame master short",
+    "GameUrl": "https://lichess.org/W6bz0DtP/black#94",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "azszO",
+    "FEN": "2Q5/8/5np1/p3bk1p/1p1q3P/6P1/P1R4K/8 b - - 2 45",
+    "Moves": "f5e4 c2c4 d4c4 c8c4",
+    "Rating": "1765",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "7722",
+    "Themes": "advantage endgame master pin short",
+    "GameUrl": "https://lichess.org/AjaK7Ak3/black#90",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "azx7u",
+    "FEN": "r4k1r/ppp3p1/2n1pqBp/3p4/1b1P4/3Q1N2/P1P2PPP/1RB3K1 b - - 5 14",
+    "Moves": "c6e7 f3e5 a8d8 b1b4",
+    "Rating": "1774",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "79",
+    "Themes": "crushing master middlegame quietMove short",
+    "GameUrl": "https://lichess.org/xqzIxoaK/black#28",
+    "OpeningTags": "Italian_Game Italian_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "b02xz",
+    "FEN": "8/5p2/p2p1k1p/rp6/2PK2PP/P2P4/8/R7 b - - 1 37",
+    "Moves": "b5b4 a1f1 f6e7 a3b4",
+    "Rating": "1608",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "187",
+    "Themes": "crushing endgame master rookEndgame short",
+    "GameUrl": "https://lichess.org/wOuOr8Gb/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "b0Dd8",
+    "FEN": "r1bq1k1r/5pp1/p4b1p/3p4/1QB2P2/8/PPP3PP/2KRR3 b - - 3 16",
+    "Moves": "f6e7 d1d5 c8e6 d5d8",
+    "Rating": "1766",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "10870",
+    "Themes": "advantage master middlegame pin short",
+    "GameUrl": "https://lichess.org/km40zD2x/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "b0LRn",
+    "FEN": "5r2/pp4k1/2p1r2p/3p2bB/8/2P1qP1R/P1Q3P1/3R3K b - - 11 29",
+    "Moves": "e3e2 c2e2 e6e2 f3f4 e2e4 f4g5",
+    "Rating": "1663",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "313",
+    "Themes": "advantage long master middlegame",
+    "GameUrl": "https://lichess.org/3r4xLKO8/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "b0WLl",
+    "FEN": "r1b1kb1r/pp1n1pp1/1qpp1n2/4p1B1/3PP3/P1N2N2/1PP2P1P/R2QKBR1 b Qkq - 0 9",
+    "Moves": "b6b2 c3a4 b2a1 d1a1",
+    "Rating": "1698",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "623",
+    "Themes": "crushing master opening short trappedPiece",
+    "GameUrl": "https://lichess.org/ZgWrFcK5/black#18",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Lion_Variation"
+  }
+]

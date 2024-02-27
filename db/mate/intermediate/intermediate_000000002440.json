@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FzVjR",
+    "FEN": "4kb1r/2q2ppp/p7/1p2p3/1P1RN3/P7/4QPPP/6K1 b k - 0 25",
+    "Moves": "e5d4 e4f6 e8d8 e2e8",
+    "Rating": "1433",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "8326",
+    "Themes": "doubleCheck endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/4r2zfk1W/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FzX54",
+    "FEN": "5bk1/pQ4pp/4p3/4qp2/2p5/8/P3K1PP/1R3R2 w - - 0 34",
+    "Moves": "e2f2 f8c5 f2f3 e5e3",
+    "Rating": "1579",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "263",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/yfL2ch3N#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FzoC4",
+    "FEN": "3r4/5pk1/4b1p1/2q5/p1p2Q1R/P7/2Pr2PK/5R2 b - - 5 40",
+    "Moves": "d8h8 f4f6 g7g8 h4h8",
+    "Rating": "1452",
+    "RatingDeviation": "75",
+    "Popularity": "78",
+    "NbPlays": "182",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ANm8rURZ/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Fzt6I",
+    "FEN": "r4rk1/pb3ppp/p3pb2/2p1q1N1/3P4/1PP1B3/P1Q2PPP/R4RK1 b - - 0 17",
+    "Moves": "c5d4 c2h7",
+    "Rating": "1404",
+    "RatingDeviation": "85",
+    "Popularity": "84",
+    "NbPlays": "793",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/UQgYkX2T/black#34",
+    "OpeningTags": "Lemming_Defense Lemming_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "G059S",
+    "FEN": "r1b2r1k/ppq1b1pp/2n5/3BppN1/7P/2P3B1/PPQ2PP1/2KR3R b - - 0 17",
+    "Moves": "f5f4 c2h7",
+    "Rating": "1474",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "6059",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/nPF1dnB7/black#34",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "G07Xd",
+    "FEN": "2r1k2r/pp3ppp/5n2/1b4N1/1b2p3/1Q6/PP3PPP/4R1K1 b k - 3 18",
+    "Moves": "b4e1 b3f7 e8d8 g5e6",
+    "Rating": "1556",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "1001",
+    "Themes": "attackingF2F7 mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/G3WEIovY/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "G0AZ3",
+    "FEN": "5k2/8/R7/5B2/5BP1/P6n/b1Pr4/6K1 w - - 1 48",
+    "Moves": "g1h1 a2d5 f5e4 d5e4",
+    "Rating": "1494",
+    "RatingDeviation": "88",
+    "Popularity": "82",
+    "NbPlays": "35",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/KS4BY47R#95",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G0CYZ",
+    "FEN": "R7/2p3p1/1k6/1nN5/1P6/2r4P/7K/8 b - - 4 42",
+    "Moves": "c3c4 a8a6",
+    "Rating": "1488",
+    "RatingDeviation": "90",
+    "Popularity": "87",
+    "NbPlays": "860",
+    "Themes": "endgame hookMate mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/DSajYICW/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G0Ce2",
+    "FEN": "r5kr/pp1b3p/1qnNpQ2/2bpP3/P7/3B4/1P3PPP/R4RK1 b - - 2 18",
+    "Moves": "a8f8 f6g5",
+    "Rating": "1525",
+    "RatingDeviation": "130",
+    "Popularity": "73",
+    "NbPlays": "126",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/6Z0oMFPf/black#36",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  }
+]

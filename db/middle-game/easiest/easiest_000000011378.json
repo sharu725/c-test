@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "XuUjy",
+    "FEN": "r4rk1/pppb2p1/4pqBp/3pR3/8/PP6/2PN1PPP/R1BQ2K1 w - - 1 18",
+    "Moves": "d1h5 f6f2 g1h1 f2f1 d2f1 f8f1",
+    "Rating": "986",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "715",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/68slqpiZ#35",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "XuUki",
+    "FEN": "3qr1k1/pp3r1p/6pQ/2ppRnN1/3P1p2/2P5/PP3PPP/4R1K1 w - - 4 23",
+    "Moves": "e5f5 e8e1",
+    "Rating": "966",
+    "RatingDeviation": "94",
+    "Popularity": "93",
+    "NbPlays": "898",
+    "Themes": "backRankMate hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/GdlWGU92#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XuUmw",
+    "FEN": "r4rk1/pppqbppp/2n5/4p1P1/3PQ3/2PBB3/PP3P1P/R3K1R1 b Q - 0 13",
+    "Moves": "e5d4 e4h7",
+    "Rating": "894",
+    "RatingDeviation": "137",
+    "Popularity": "68",
+    "NbPlays": "25",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/V7J1lCH1/black#26",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Black_Mustang_Defense"
+  },
+  {
+    "PuzzleId": "XuUuh",
+    "FEN": "rn1qk2r/p3np1p/bp6/2p5/3PPB1p/1B6/PPP3PP/RN1Q2KR w kq - 0 12",
+    "Moves": "d1h5 d8d4 f4e3 d4e3",
+    "Rating": "938",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "173",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/MGmjN3ov#23",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "XuVcB",
+    "FEN": "4r1k1/pp1qnppp/5pb1/3B4/2P5/1P4BP/P2Q1PP1/4R1K1 b - - 0 25",
+    "Moves": "b7b6 d5f7 g8f7 d2d7",
+    "Rating": "879",
+    "RatingDeviation": "89",
+    "Popularity": "97",
+    "NbPlays": "2457",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/X6QTU28m/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XuZLE",
+    "FEN": "r2qk1nr/pb2b1pp/1pn1p3/3pPpB1/2pP4/2P2N2/PP2BPPP/RN1Q1RK1 w kq - 2 10",
+    "Moves": "b1d2 e7g5 f3g5 d8g5",
+    "Rating": "803",
+    "RatingDeviation": "106",
+    "Popularity": "88",
+    "NbPlays": "23",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/qEcTLUZF#19",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "XuZtO",
+    "FEN": "1Q3bk1/5p1p/8/5qp1/8/4P1P1/2r2rNP/3R1RK1 w - - 0 36",
+    "Moves": "f1f2 f5f2 g1h1 f2g2",
+    "Rating": "776",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "1088",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/xIyRDR5l#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XucTi",
+    "FEN": "N4k1r/qp1bpp1p/p2p2p1/8/4PPn1/8/Pb1BN1PP/R2QK2R w KQ - 0 18",
+    "Moves": "a1b1 a7f2",
+    "Rating": "852",
+    "RatingDeviation": "142",
+    "Popularity": "65",
+    "NbPlays": "45",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/5R5ZuE2z#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  },
+  {
+    "PuzzleId": "Xuce7",
+    "FEN": "1r1r2k1/1b3ppp/p2q1n2/1p2pN2/1P6/P2BP3/1B3PPb/2RQ1R1K b - - 3 18",
+    "Moves": "d6d5 f5e7 g8f8 e7d5",
+    "Rating": "910",
+    "RatingDeviation": "89",
+    "Popularity": "72",
+    "NbPlays": "192",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/yt4uNO1H/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  }
+]

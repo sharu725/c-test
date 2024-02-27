@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "3qsHA",
+    "FEN": "2rq1rk1/6b1/2n5/p1p1p1NQ/1p1pb1P1/1P6/PBPP1P2/2KR3R b - - 2 23",
+    "Moves": "e4h1 h5h7",
+    "Rating": "966",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "224",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/pk4lnwUP/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3qsxG",
+    "FEN": "r1b1r1k1/pp2Qppp/n7/1Np5/2n2N2/5P2/PPP3PP/2KR4 b - - 0 17",
+    "Moves": "e8e7 d1d8 e7e8 d8e8",
+    "Rating": "818",
+    "RatingDeviation": "94",
+    "Popularity": "95",
+    "NbPlays": "181",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/H5ldRRSs/black#34",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "3qtUr",
+    "FEN": "r2qr1k1/ppp2p1p/2n1Bp1B/2b1p3/4p2N/3P4/PPP2PPP/R2QK2R b KQ - 0 12",
+    "Moves": "f7e6 d1g4 g8f7 g4g7",
+    "Rating": "928",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "1377",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/WANa4VnD/black#24",
+    "OpeningTags": "Russian_Game Russian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "3qvaL",
+    "FEN": "r2r2k1/1pp2pp1/1p2qn1p/3PnN2/8/1QPP3P/PP4P1/R1B2RK1 b - - 0 17",
+    "Moves": "e6d5 f5e7 g8h7 e7d5",
+    "Rating": "929",
+    "RatingDeviation": "83",
+    "Popularity": "94",
+    "NbPlays": "1978",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/iLzyQ7lA/black#34",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "3r0l4",
+    "FEN": "r1b3k1/pppp1r1p/6p1/4P3/2P5/2N5/PPB2qPP/R1BQ2K1 w - - 3 16",
+    "Moves": "g1h1 f2f1 d1f1 f7f1",
+    "Rating": "733",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "72",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ZI9JdH7Y#31",
+    "OpeningTags": "Kings_Gambit Kings_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "3r1Wa",
+    "FEN": "1r1r2k1/pb3pbp/1p2p1p1/3q4/P2Pp3/1PR1P1P1/1B3PBP/3Q1RK1 b - - 4 19",
+    "Moves": "d5e5 d4e5 d8d1 f1d1",
+    "Rating": "843",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "115",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/vYBo3uUp/black#38",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "3r4PC",
+    "FEN": "r3r1k1/ppp1qppp/1np2b2/4P3/2PP2Q1/2N5/PP3PPP/R1BR2K1 w - - 3 14",
+    "Moves": "e5f6 e7e1 d1e1 e8e1",
+    "Rating": "669",
+    "RatingDeviation": "80",
+    "Popularity": "96",
+    "NbPlays": "452",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/0IVcPqNo#27",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "3r4oe",
+    "FEN": "1r3rk1/p4ppp/2pp1q2/4nN2/2b1Q3/6P1/PPP2P1P/R1B1R1K1 w - - 0 18",
+    "Moves": "f5d6 e5f3 e4f3 f6f3",
+    "Rating": "998",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "294",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/OJ4KCeJB#35",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "3r5Qh",
+    "FEN": "r2qk2r/pbpn2p1/1p2p2p/4p2Q/2P1P3/B1PB4/P4PPP/R4RK1 b kq - 1 14",
+    "Moves": "g7g6 h5g6",
+    "Rating": "780",
+    "RatingDeviation": "157",
+    "Popularity": "33",
+    "NbPlays": "15",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/LyiN86IY/black#28",
+    "OpeningTags": "French_Defense French_Defense_Normal_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "argri",
+    "FEN": "8/p2R4/1p3bkp/2p5/1nP2PK1/1P6/P4P2/8 b - - 12 39",
+    "Moves": "b4a2 f4f5",
+    "Rating": "1002",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "193",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/fHUjCCEO/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ariIk",
+    "FEN": "7r/1R3p2/2ppk3/4p3/P1Pb4/3P1QPq/5PK1/5R2 w - - 2 31",
+    "Moves": "g2g1 h3h2",
+    "Rating": "1047",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "127",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/TO3DHY5P#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ariqW",
+    "FEN": "r4rk1/2p2p2/p2p3p/1p2q1p1/4P1P1/1BN3P1/PP3bPK/R2QR3 w - - 2 21",
+    "Moves": "e1f1 e5g3 h2h1 g3h4",
+    "Rating": "1110",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1910",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/lElqL4Mi#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "arjBn",
+    "FEN": "8/p2p3Q/3krp2/5p2/1p6/1P3P2/P2qr1PP/R3R1K1 w - - 4 37",
+    "Moves": "e1d1 e2e1 d1e1 e6e1 a1e1 d2e1",
+    "Rating": "1145",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "7941",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/7OwNOaBU#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "arkIo",
+    "FEN": "2bq1b1r/2Nk1p1p/2np4/r2Np3/4PpQ1/2P5/PP3PPP/R3K2R b KQ - 4 15",
+    "Moves": "f7f5 g4f5",
+    "Rating": "1184",
+    "RatingDeviation": "261",
+    "Popularity": "71",
+    "NbPlays": "14",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/eUR1G30u/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  },
+  {
+    "PuzzleId": "arl20",
+    "FEN": "r1b1k2r/b1qpP1p1/p4p2/1p4B1/2B5/8/PP2QPPP/RN3RK1 w kq - 1 17",
+    "Moves": "c4d3 c7h2",
+    "Rating": "1178",
+    "RatingDeviation": "256",
+    "Popularity": "47",
+    "NbPlays": "15",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/hFvIbg1Q#33",
+    "OpeningTags": "Giuoco_Piano Giuoco_Piano_Other_variations"
+  },
+  {
+    "PuzzleId": "arlMT",
+    "FEN": "r3k3/1p2ppb1/pBb1q1p1/4p1Pn/4N3/1N3P2/PPPQ4/1K1R4 b q - 6 22",
+    "Moves": "c6e4 d2d8 a8d8 d1d8",
+    "Rating": "1180",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "143",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/zj2PF0fg/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "arm2q",
+    "FEN": "rn2k2r/ppp2ppp/8/8/3PP1n1/2NB4/PP4Pq/R1BQR1K1 w kq - 4 19",
+    "Moves": "g1f1 h2h1 f1e2 h1g2",
+    "Rating": "1141",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "198",
+    "Themes": "deflection mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/yFy9PTpg#37",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "arnCH",
+    "FEN": "r3kb1r/1p2pppp/pn4q1/3b4/3P2Q1/NB6/PP3PPP/R1B2RK1 w kq - 3 14",
+    "Moves": "g4f4 g6g2",
+    "Rating": "1099",
+    "RatingDeviation": "159",
+    "Popularity": "82",
+    "NbPlays": "14",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/NZFJ8FYa#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  }
+]

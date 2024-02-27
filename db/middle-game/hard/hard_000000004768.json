@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CQJ31",
+    "FEN": "1r4rk/1p3Q1p/p1np3B/3Bb3/3NP2q/P1P4P/1P4P1/R4R1K w - - 1 25",
+    "Moves": "h6e3 h4g3 f7f6 e5f6",
+    "Rating": "1632",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "909",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/GRPo6qfR#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CQLNU",
+    "FEN": "2kr3r/ppp2p1p/1bnpbp1Q/4P3/3P4/1PP2NP1/P2NPq1P/R1K2B1R b - - 0 16",
+    "Moves": "d6e5 d2e4 f2f1 h1f1",
+    "Rating": "1619",
+    "RatingDeviation": "106",
+    "Popularity": "80",
+    "NbPlays": "20",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/jSYbyVvh/black#32",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  },
+  {
+    "PuzzleId": "CQM6d",
+    "FEN": "3r2k1/2p1rpp1/p4q1p/1pNp2b1/1P1Pp1Q1/P1P2P1P/4R1P1/5RK1 b - - 0 26",
+    "Moves": "e4e3 f3f4 g5h4 g2g3 h4g3 g4g3",
+    "Rating": "1663",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "4799",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/mS4Vcn5Y/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CQN1G",
+    "FEN": "r3r2k/ppp3pp/2np2q1/2P2b2/2BP1p2/1Q3N2/PP3PPP/R4RK1 b - - 7 16",
+    "Moves": "f5h3 f3h4 g6g4 b3h3 g4h3 g2h3",
+    "Rating": "1661",
+    "RatingDeviation": "78",
+    "Popularity": "81",
+    "NbPlays": "48",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/t9z5UpTq/black#32",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Rubinstein_Variation"
+  },
+  {
+    "PuzzleId": "CQOIy",
+    "FEN": "2r2qk1/p2b2pp/1p2p3/4P3/3Pp2b/P2QB3/1P4PP/RB4K1 w - - 0 23",
+    "Moves": "d3e4 c8c1 e3c1 f8f2 g1h1 f2f1",
+    "Rating": "1765",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "630",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/WNxKxc3W#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CQQjL",
+    "FEN": "5rk1/1brq1p2/1p1bp2p/pQ1p2p1/N2P4/P3PNP1/1PR2PP1/2R3K1 w - - 0 21",
+    "Moves": "b5b6 c7c2 c1c2 d7a4 f3e1 a4d7",
+    "Rating": "1745",
+    "RatingDeviation": "88",
+    "Popularity": "83",
+    "NbPlays": "58",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/4LQL9Uu3#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CQRgJ",
+    "FEN": "2kr4/Qpp2pp1/p2p2n1/3PP3/2P2P2/3B1R1q/PP2N2r/2K5 b - - 2 25",
+    "Moves": "h3f3 d3f5 d8d7 a7a8",
+    "Rating": "1760",
+    "RatingDeviation": "80",
+    "Popularity": "73",
+    "NbPlays": "35",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/E8TRXyzr/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CQRld",
+    "FEN": "r2kr3/pQ1q2bN/2n2pN1/2ppp1Bp/3P2b1/2P1PP2/PP4P1/R3K3 w Q - 2 21",
+    "Moves": "b7a8 d8c7 a8e8 d7e8",
+    "Rating": "1610",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "656",
+    "Themes": "crushing defensiveMove middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/JE5eB3rv#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CQSVj",
+    "FEN": "2br4/5pk1/p4Npp/8/1p6/qPn1PN1P/P1Q2PP1/1B3RK1 w - - 1 29",
+    "Moves": "f6g4 c8f5 e3e4 f5e4 c2e4 c3e4",
+    "Rating": "1735",
+    "RatingDeviation": "78",
+    "Popularity": "69",
+    "NbPlays": "48",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/YhzrW4ib#57",
+    "OpeningTags": ""
+  }
+]

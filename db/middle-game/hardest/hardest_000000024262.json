@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "oCKVi",
+    "FEN": "r1b1r1k1/1p1nBpbp/p3P1p1/q7/6n1/2N2N2/PPP1Q1PP/2KR1B1R b - - 0 14",
+    "Moves": "e8e7 e6d7 c8d7 e2e7",
+    "Rating": "2024",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1035",
+    "Themes": "advancedPawn crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/aiJSBMon/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "oCKZ4",
+    "FEN": "r3b1k1/ppq3p1/4p1Np/1P1p1rp1/P2B4/2PQ4/6PP/R3K2R w KQ - 19 30",
+    "Moves": "d3e3 e8g6 e3e6 g8h7",
+    "Rating": "2149",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "846",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/oA0G6vTh#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oCMjH",
+    "FEN": "1r2kbn1/5q2/2pp1p1B/4p2p/4P2N/1PNn2Q1/1K3PP1/4R2R w - - 0 25",
+    "Moves": "g3d3 f7b3 b2c1 f8h6 e1e3 b3b2 c1d1 b2a1",
+    "Rating": "2268",
+    "RatingDeviation": "102",
+    "Popularity": "73",
+    "NbPlays": "38",
+    "Themes": "crushing middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/GY8PIKtb#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oCNIU",
+    "FEN": "Q3k1r1/1p6/2prP3/3b4/2p1Rp2/5qPp/PB3P1P/5NK1 b - - 3 29",
+    "Moves": "e8e7 a8b7 e7e8 b7f7 e8d8 e6e7 d8c7 e7e8n",
+    "Rating": "2293",
+    "RatingDeviation": "101",
+    "Popularity": "29",
+    "NbPlays": "30",
+    "Themes": "advancedPawn crushing deflection doubleCheck exposedKing fork middlegame promotion underPromotion veryLong",
+    "GameUrl": "https://lichess.org/hYPN746C/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oCNXw",
+    "FEN": "rn5k/3p2pp/pP1b1n2/2p4q/2Q5/2N1B1P1/PP3P1P/3R2K1 b - - 0 22",
+    "Moves": "d6e5 b6b7 a8a7 c4c5 a7b7 c5c8 h5e8 c8b7",
+    "Rating": "2140",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "1079",
+    "Themes": "advancedPawn crushing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/hzaeBoYV/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oCNqM",
+    "FEN": "r5rk/pb3p1p/1p1qpp2/2p4N/4P2P/2Pn1Q2/PP3PB1/R2R2K1 b - - 9 21",
+    "Moves": "g8g2 g1g2 d6e5 f3f6 e5f6 h5f6",
+    "Rating": "2192",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "813",
+    "Themes": "advantage hangingPiece kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/M9wUYGnZ/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oCOY1",
+    "FEN": "r3qrk1/p1pn2pp/1p1p4/3b1p2/8/P2BPP2/1PQ3PP/R1B2RK1 w - - 0 17",
+    "Moves": "c2c7 d7c5 c7d6 a8d8 d6d5 d8d5",
+    "Rating": "2359",
+    "RatingDeviation": "86",
+    "Popularity": "90",
+    "NbPlays": "962",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/Q4U7KvoN#33",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "oCOp8",
+    "FEN": "r3r1k1/pp3ppp/8/1B1Pn3/7q/4QP2/P4P1P/3R1RK1 b - - 6 20",
+    "Moves": "e5g4 e3f4 g4e5 f4h4 e5f3 g1h1 f3h4 b5e8",
+    "Rating": "2043",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "2170",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/xfll3ALL/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oCQjN",
+    "FEN": "r1b2rk1/1p3pbp/p2q2p1/2pN4/2P5/3B2P1/PP1Q2P1/2KR3R b - - 1 19",
+    "Moves": "c8e6 d3g6 h7g6 d5f6 g7f6 d2d6",
+    "Rating": "2284",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "2746",
+    "Themes": "advantage discoveredAttack kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/5JSvDsCR/black#38",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  }
+]

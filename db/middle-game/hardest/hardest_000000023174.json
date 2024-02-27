@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "lyLVx",
+    "FEN": "1r3rk1/6p1/p1B1b2p/1P4nq/5R2/N3Q1P1/PP4KP/R7 b - - 0 29",
+    "Moves": "f8f4 g3f4 h5g4 g2h1",
+    "Rating": "2159",
+    "RatingDeviation": "88",
+    "Popularity": "81",
+    "NbPlays": "55",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/1d12bPwD/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lyLdM",
+    "FEN": "3r1k1r/ppp1p1bp/8/5b2/2B5/2P5/Pq1B1PPP/2RQ1RK1 b - - 3 17",
+    "Moves": "d8d2 d1f3 g7f6 f3f5",
+    "Rating": "2074",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "940",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/13Wtaxqp/black#34",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Scandinavian_Variation"
+  },
+  {
+    "PuzzleId": "lyN50",
+    "FEN": "3r1rk1/2b5/p1p4p/1p2pqp1/8/PQ4P1/1PP2B1P/3R1R1K b - - 1 30",
+    "Moves": "f5f7 d1d8 f8d8 b3f7 g8f7 f2b6 f7e6 b6c7",
+    "Rating": "2076",
+    "RatingDeviation": "96",
+    "Popularity": "85",
+    "NbPlays": "45",
+    "Themes": "advantage discoveredAttack exposedKing middlegame veryLong",
+    "GameUrl": "https://lichess.org/ChUVnEIR/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lyPGY",
+    "FEN": "2kr4/ppp2ppp/1b6/8/1P5B/2Pnr3/P1B3PP/3R1K1R b - - 4 21",
+    "Moves": "f7f6 h4f2 d3f2 c2f5",
+    "Rating": "2136",
+    "RatingDeviation": "96",
+    "Popularity": "60",
+    "NbPlays": "24",
+    "Themes": "advantage middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/LBqCaSbQ/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lyRR3",
+    "FEN": "r4rk1/p3ppbp/1npp2p1/q3P2P/3PBP2/2p2N2/P1P1Q1P1/1KBR3R w - - 0 19",
+    "Moves": "e4c6 a5b4 b1a1 b6c4 e2c4 b4c4",
+    "Rating": "2250",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "243",
+    "Themes": "crushing long middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/wPm2iuER#37",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Kholmov_System"
+  },
+  {
+    "PuzzleId": "lySIy",
+    "FEN": "8/r3k3/3bbn2/p1pBp2p/PpP1P1P1/1N4P1/6KP/R1B5 b - - 0 30",
+    "Moves": "h5g4 c1g5 e6d5 e4d5",
+    "Rating": "2004",
+    "RatingDeviation": "108",
+    "Popularity": "79",
+    "NbPlays": "13",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/j73ewzXU/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lyUfd",
+    "FEN": "5r2/pp1b1kpQ/2nbpr1p/3p3q/3P3P/2N1RN2/PPB2PP1/R5K1 b - - 7 18",
+    "Moves": "d6f4 f3g5 f4g5 h4g5 h5g5 e3g3 g5f4 g3g7",
+    "Rating": "2252",
+    "RatingDeviation": "83",
+    "Popularity": "83",
+    "NbPlays": "58",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/nk97QYug/black#36",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "lyWuP",
+    "FEN": "4r1k1/1pp3pp/p1n3r1/2q5/2Ppb1N1/3B3P/P4PP1/1R1QR1K1 b - - 1 22",
+    "Moves": "c5f5 e1e4 e8e4 f2f3",
+    "Rating": "2315",
+    "RatingDeviation": "86",
+    "Popularity": "90",
+    "NbPlays": "549",
+    "Themes": "crushing middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/44zWbzZC/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lyZZ8",
+    "FEN": "r1b2rk1/2p2p1p/p2p2p1/1p2q3/4Pn2/P1N2P2/1PPQB1PP/1R3RK1 w - - 5 16",
+    "Moves": "c3d5 e5d4 d2d4 f4e2 g1f2 e2d4",
+    "Rating": "2162",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "721",
+    "Themes": "advantage attraction deflection fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/l36BOWiL#31",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  }
+]

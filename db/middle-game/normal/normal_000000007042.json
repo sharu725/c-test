@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "KWlkk",
+    "FEN": "r1rb2k1/6p1/1R5p/p2Pp3/R1B1Pp2/2P2PnP/6PK/2N5 w - - 5 33",
+    "Moves": "d5d6 c8c4 a4c4 d8b6",
+    "Rating": "1360",
+    "RatingDeviation": "89",
+    "Popularity": "33",
+    "NbPlays": "63",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/XsMP4Nys#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KWmtA",
+    "FEN": "r3kbr1/1pq2p1p/p3b3/3QR3/8/2PP4/1P1N1PPP/R5K1 b q - 0 18",
+    "Moves": "g8g5 e5e6 f7e6 d5g5",
+    "Rating": "1292",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "13250",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/p3XjdxcX/black#36",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "KWmwu",
+    "FEN": "r4rk1/bbqp1pp1/p1N1pn2/6pP/Np2P3/4BP2/PPPQB3/2KR3R b - - 0 16",
+    "Moves": "a7e3 c6e7 g8h7 d2e3",
+    "Rating": "1315",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "763",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/KNAdRiWB/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "KWoSy",
+    "FEN": "r5k1/pp1r1pp1/2n1pn1p/7q/3N4/N1P1Q2P/PP3PP1/R2R2K1 w - - 2 16",
+    "Moves": "d4c6 d7d1 a1d1 h5d1",
+    "Rating": "1269",
+    "RatingDeviation": "87",
+    "Popularity": "67",
+    "NbPlays": "41",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/CKqnvIY5#31",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Portuguese_Variation"
+  },
+  {
+    "PuzzleId": "KWod1",
+    "FEN": "2k2b1r/pp2pppp/5n2/1B6/3r1BP1/3P4/PP1KNPP1/5R2 b - - 1 16",
+    "Moves": "d4b4 f1c1 c8d8 f4c7",
+    "Rating": "1349",
+    "RatingDeviation": "75",
+    "Popularity": "79",
+    "NbPlays": "143",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/uCrtbZlf/black#32",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "KWpXf",
+    "FEN": "3rr1k1/1qp1bppp/1p6/pQ4n1/P1P5/2N1B1P1/1P2PP1P/R4RK1 w - - 5 17",
+    "Moves": "a1d1 g5h3",
+    "Rating": "1203",
+    "RatingDeviation": "76",
+    "Popularity": "77",
+    "NbPlays": "364",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/aDp7QZvO#33",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "KWqMG",
+    "FEN": "4n1rk/2p1r1pp/p1qp1p2/1p6/2P1P2R/1P6/PB2QP1P/4R1K1 b - - 1 24",
+    "Moves": "b5c4 h4h7 h8h7 e2h5",
+    "Rating": "1367",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "13602",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/bZ6sCR8z/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KWqXQ",
+    "FEN": "6k1/pp2Q2p/6pb/3pN3/3Pn3/1P2P1Pq/P2r1P1P/5RK1 b - - 2 32",
+    "Moves": "h6e3 e7f7 g8h8 f7f8",
+    "Rating": "1358",
+    "RatingDeviation": "84",
+    "Popularity": "75",
+    "NbPlays": "41",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/hpGbd2Cf/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KWrBN",
+    "FEN": "r1bq2k1/pppp1Bpp/2n2n2/8/4r3/2B1QN2/PPP2PPP/R3K2R b KQ - 0 10",
+    "Moves": "g8f7 f3g5 f7g8 g5e4 f6e4 e3e4",
+    "Rating": "1257",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "13518",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/6H7Ltevk/black#20",
+    "OpeningTags": "Center_Game Center_Game_Berger_Variation"
+  }
+]

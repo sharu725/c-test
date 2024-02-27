@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BI9th",
+    "FEN": "r1b1r1k1/p4ppp/2p2n2/2p1q3/3pN3/P2P1Q2/1PP3PP/R1B2RK1 b - - 1 16",
+    "Moves": "f6e4 f3f7 g8h8 f7f8 e8f8 f1f8",
+    "Rating": "1447",
+    "RatingDeviation": "93",
+    "Popularity": "77",
+    "NbPlays": "98",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/7HxQJmhC/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "BIBCT",
+    "FEN": "3rqrk1/p1b2p1p/5p2/2pR1N2/8/P3P3/4QPPP/R5K1 b - - 3 23",
+    "Moves": "d8d5 e2g4 g8h8 g4g7",
+    "Rating": "1565",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "831",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/p9qywbqp/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BIEtJ",
+    "FEN": "r3kb1r/p1pq1ppp/Q1p5/3pP2b/8/2N2NnP/PPPP2P1/R1B1K1R1 b Qkq - 3 11",
+    "Moves": "f8b4 a6b7 e8g8 b7b4",
+    "Rating": "1566",
+    "RatingDeviation": "74",
+    "Popularity": "50",
+    "NbPlays": "493",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/NZJGnsHi/black#22",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "BIFnM",
+    "FEN": "rn1q1rk1/4n1bR/p1pp2p1/1p1Pp3/2P1P1b1/2NBBN2/PP1K1PP1/R2Q4 b - - 0 13",
+    "Moves": "g8h7 f3g5 h7g8 d1g4",
+    "Rating": "1573",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "222",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/AKBJZTdQ/black#26",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "BIJLV",
+    "FEN": "3rNr2/pp3pkp/3b2bp/6q1/3Q4/5R2/PPP2PPP/R5K1 b - - 4 18",
+    "Moves": "g7g8 d4g7",
+    "Rating": "1405",
+    "RatingDeviation": "83",
+    "Popularity": "59",
+    "NbPlays": "79",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/FMT5JrVJ/black#36",
+    "OpeningTags": "Italian_Game Italian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "BIKsL",
+    "FEN": "r2r2k1/pq1n1ppp/1p1Rp3/1N2P3/2P2B2/P7/3Q1PbP/3R2K1 b - - 1 24",
+    "Moves": "a7a6 d6d7 d8d7 d2d7 b7d7 d1d7 a6b5 g1g2",
+    "Rating": "1534",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "94",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/nBkVRJVf/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BIMhR",
+    "FEN": "2rqkbr1/pp1b2Bp/2n1pppQ/3pP3/P2P4/2PB1N2/5PPP/R4RK1 w - - 4 17",
+    "Moves": "h6h7 g8g7 d3g6 e8e7",
+    "Rating": "1581",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "2196",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/5QPqj1Z7#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Delayed_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "BIMha",
+    "FEN": "r2q1r1k/pp4pp/3B4/3Q2N1/2B5/8/P4PPP/b5K1 b - - 2 21",
+    "Moves": "a1f6 d5g8 f8g8 g5f7",
+    "Rating": "1503",
+    "RatingDeviation": "92",
+    "Popularity": "67",
+    "NbPlays": "1422",
+    "Themes": "mate mateIn2 middlegame sacrifice short smotheredMate",
+    "GameUrl": "https://lichess.org/evCm7JlX/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BINfg",
+    "FEN": "2k3r1/p6q/2N1p3/3p1p2/PPpP1Rp1/2P1P2r/3B2Qp/7K b - - 0 34",
+    "Moves": "h3f3 c6e7 h7e7 f4f3",
+    "Rating": "1595",
+    "RatingDeviation": "354",
+    "Popularity": "100",
+    "NbPlays": "6",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/eGBNJz5A/black#68",
+    "OpeningTags": ""
+  }
+]

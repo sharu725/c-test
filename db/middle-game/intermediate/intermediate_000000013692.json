@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "WtXqS",
+    "FEN": "Q2b1rk1/p1pq1ppp/4p3/8/3P2b1/2N2N2/PPP3PP/R3K2R w KQ - 3 13",
+    "Moves": "e1c1 d8g5 f3g5 f8a8",
+    "Rating": "1434",
+    "RatingDeviation": "78",
+    "Popularity": "60",
+    "NbPlays": "128",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/AeFWbbre#25",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Ryder_Gambit"
+  },
+  {
+    "PuzzleId": "WtXqp",
+    "FEN": "r1b1r1k1/ppp2pb1/n5pp/1N2p2n/2B5/P1N4P/1PP2PPB/3RR1K1 b - - 0 16",
+    "Moves": "h5f4 h2f4 c8e6 c4e6",
+    "Rating": "1504",
+    "RatingDeviation": "98",
+    "Popularity": "-50",
+    "NbPlays": "51",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/dBMWHar3/black#32",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "WtZYK",
+    "FEN": "r4k2/1p2q1pp/p2bbr1n/2p3P1/P1B5/1PPPQN1P/1B1N4/R6K b - - 0 23",
+    "Moves": "h6f5 g5f6 f5e3 f6e7",
+    "Rating": "1480",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "113",
+    "Themes": "advancedPawn crushing middlegame short",
+    "GameUrl": "https://lichess.org/XRAn8bxL/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Wtb6z",
+    "FEN": "2r2r2/ppqbppkp/3p2p1/3Pn3/3QPP2/8/PP4PP/1K1R1BNR w - - 1 17",
+    "Moves": "f4e5 c7c2 b1a1 c2c1 d1c1 c8c1",
+    "Rating": "1402",
+    "RatingDeviation": "77",
+    "Popularity": "20",
+    "NbPlays": "80",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/AVNvaHL1#33",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "Wtc24",
+    "FEN": "rn1k1r2/1bp3p1/1p1p4/pN2pp1p/2P1P1n1/P2P2PP/1P1KN1B1/R6R b - - 0 17",
+    "Moves": "g4f2 h1f1 f2d3 d2d3",
+    "Rating": "1425",
+    "RatingDeviation": "76",
+    "Popularity": "77",
+    "NbPlays": "531",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/ZWpHtbMI/black#34",
+    "OpeningTags": "English_Opening English_Opening_Agincourt_Defense"
+  },
+  {
+    "PuzzleId": "Wtc3N",
+    "FEN": "2rb2rk/1bq2p1p/p2p2pQ/1p2nNP1/n2NP2P/2P1BB2/PP6/1R4RK b - - 3 29",
+    "Moves": "e5f3 d4f3 d8f6 g5f6",
+    "Rating": "1574",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "527",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/gDODVMaY/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Wtdb1",
+    "FEN": "2r4k/1b1n1B2/1pp1pq1p/p2p4/2Pb4/P7/1PQN1PP1/2R1R1K1 w - - 1 25",
+    "Moves": "e1e6 f6f2 g1h2 f2h4",
+    "Rating": "1507",
+    "RatingDeviation": "216",
+    "Popularity": "58",
+    "NbPlays": "12",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/C0qdgKnO#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WtiJU",
+    "FEN": "r3r1k1/3b1ppp/2pB4/3p4/1P1Q4/2P5/4qPPP/R3R1K1 w - - 1 21",
+    "Moves": "d4d1 a8a1 d1e2 a1e1",
+    "Rating": "1581",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "9131",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/9Z3csUy8#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WtjYp",
+    "FEN": "r1b3k1/1p3pp1/pq2nn1p/3p4/3N4/1PP1QN1P/P1B2PP1/4R1K1 b - - 0 19",
+    "Moves": "e6d4 e3e8 f6e8 e1e8",
+    "Rating": "1571",
+    "RatingDeviation": "95",
+    "Popularity": "60",
+    "NbPlays": "43",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/O3mj2SF1/black#38",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  }
+]

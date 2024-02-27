@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "fHHu4",
+    "FEN": "2r3k1/1b2qppp/p3p3/1p6/2n5/3QPN2/PP3PPP/1B1R2K1 b - - 0 24",
+    "Moves": "c4b2 d3h7 g8f8 h7h8",
+    "Rating": "1080",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "460",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/JaHDk3HF/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fHJc8",
+    "FEN": "1k1r4/p1p4p/Qp2p1p1/1N2q3/8/P5PP/5P1K/8 b - - 0 26",
+    "Moves": "e5e2 a6a7 b8c8 a7c7",
+    "Rating": "1079",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "107",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/OBp4kZt6/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fHL8f",
+    "FEN": "5k2/2b1qppQ/p1Bp3p/Pp1P4/1P1N2bP/6P1/5P1K/8 b - - 16 37",
+    "Moves": "e7f6 h7h8 f8e7 h8e8",
+    "Rating": "1096",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "129",
+    "Themes": "endgame master mate mateIn2 short",
+    "GameUrl": "https://lichess.org/kcXcxaMO/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fHMAA",
+    "FEN": "r1b2rk1/ppp3pp/4p3/4bpB1/3qN1n1/P2B1Q2/1PP3PP/R4R1K b - - 1 14",
+    "Moves": "f5e4 f3f8",
+    "Rating": "1081",
+    "RatingDeviation": "103",
+    "Popularity": "89",
+    "NbPlays": "53",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/V2UVF7Yb/black#28",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Euwe_Defense"
+  },
+  {
+    "PuzzleId": "fHPzY",
+    "FEN": "rnbr2k1/pp3pp1/2pB2Qp/4P3/2BqNb2/8/P1P2PPP/R3R1K1 b - - 0 17",
+    "Moves": "d4c4 e4f6 g8h8 g6h7",
+    "Rating": "1112",
+    "RatingDeviation": "82",
+    "Popularity": "67",
+    "NbPlays": "102",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/XHZSTNHo/black#34",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "fHQoq",
+    "FEN": "8/pp5R/4pk1P/3p2pK/3p2R1/1P1Pr3/P7/8 w - - 1 45",
+    "Moves": "h7h8 e3h3 g4h4 h3h4",
+    "Rating": "1145",
+    "RatingDeviation": "79",
+    "Popularity": "73",
+    "NbPlays": "43",
+    "Themes": "endgame master mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/CpAo9zyN#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fHR0q",
+    "FEN": "1r6/8/8/6pp/2k5/8/P2R1PPP/6K1 w - - 0 31",
+    "Moves": "d2e2 b8b1 e2e1 b1e1",
+    "Rating": "1198",
+    "RatingDeviation": "107",
+    "Popularity": "89",
+    "NbPlays": "24",
+    "Themes": "backRankMate endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/PdTxBTAG#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fHRlA",
+    "FEN": "r4b1r/pp2n1pp/4k3/5p2/2B2P2/2P1P3/PP4PP/2KR3R b - - 1 18",
+    "Moves": "e6f6 d1d6",
+    "Rating": "1061",
+    "RatingDeviation": "154",
+    "Popularity": "70",
+    "NbPlays": "16",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/T1t3NF6y/black#36",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "fHRuF",
+    "FEN": "r3kbnr/ppq2ppp/4p3/3pN1B1/6Q1/8/PPP2PPP/RN3RK1 b kq - 0 12",
+    "Moves": "c7e5 g4a4 b7b5 a4b5",
+    "Rating": "1129",
+    "RatingDeviation": "77",
+    "Popularity": "66",
+    "NbPlays": "204",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Mdd6gumB/black#24",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  }
+]

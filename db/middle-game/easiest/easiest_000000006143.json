@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ICE08",
+    "FEN": "5rk1/5ppp/3B2b1/2p1R3/1bP5/6NP/4RPPK/2r5 b - - 7 31",
+    "Moves": "f8c8 e5e8 c8e8 e2e8",
+    "Rating": "614",
+    "RatingDeviation": "107",
+    "Popularity": "82",
+    "NbPlays": "676",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/lfAfEc5d/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ICECZ",
+    "FEN": "3r1rk1/pp4pp/8/1P4b1/P7/2B3P1/bR1p1PBP/5RK1 w - - 0 30",
+    "Moves": "b2a2 d2d1q f1d1 d8d1",
+    "Rating": "854",
+    "RatingDeviation": "83",
+    "Popularity": "90",
+    "NbPlays": "158",
+    "Themes": "advancedPawn crushing middlegame promotion short",
+    "GameUrl": "https://lichess.org/uh2c9gap#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ICEeR",
+    "FEN": "rn1q1rk1/1p2bppp/p2p4/2p2P2/5n2/2N2P2/PPPQ2PP/2KR1B1R w - - 0 12",
+    "Moves": "d2f4 e7g5 f4d2 g5d2",
+    "Rating": "822",
+    "RatingDeviation": "101",
+    "Popularity": "94",
+    "NbPlays": "661",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/eR5D1PRk#23",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "ICEli",
+    "FEN": "r4rk1/p1p2ppp/1pQb1qb1/8/3R3P/2P1BN2/PP3PP1/4R1K1 w - - 9 22",
+    "Moves": "e3g5 d6h2 g1h2 f6c6",
+    "Rating": "997",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "896",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/QwC7RWVy#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ICGJS",
+    "FEN": "2b2r2/4N1kp/p5p1/1p2p3/4P3/2Q3bP/PP3qP1/3R1B1K w - - 3 30",
+    "Moves": "e7c8 f2f1 d1f1 f8f1",
+    "Rating": "940",
+    "RatingDeviation": "89",
+    "Popularity": "90",
+    "NbPlays": "293",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/yMDDtVzG#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ICIA1",
+    "FEN": "3r1rk1/pp2qbp1/3p4/P1p1pP1p/2PnP3/1P1Q3P/3B2PN/R4RK1 w - - 8 28",
+    "Moves": "d3g3 d4e2 g1f2 e2g3",
+    "Rating": "835",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "117",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/4wfkcruh#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ICJDb",
+    "FEN": "1k1r4/2q3p1/2p2n1p/pp2pP2/3bP1P1/P1N2Q1P/BPP5/2KR4 w - - 2 24",
+    "Moves": "c3e2 d4b2 c1b2 d8d1",
+    "Rating": "957",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "1395",
+    "Themes": "advantage deflection discoveredAttack master middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/SOK8xW65#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ICKXz",
+    "FEN": "r3q2k/ppp2r1p/5B2/8/3np2Q/7R/PP3P1P/2K3R1 b - - 1 23",
+    "Moves": "f7f6 h4f6",
+    "Rating": "884",
+    "RatingDeviation": "145",
+    "Popularity": "87",
+    "NbPlays": "35",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/VV55sEzd/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ICLlU",
+    "FEN": "5k2/4b3/6R1/3B2p1/2P5/1r3pP1/1r2bP1P/2R3K1 b - - 1 32",
+    "Moves": "b2b1 g6g8",
+    "Rating": "793",
+    "RatingDeviation": "94",
+    "Popularity": "100",
+    "NbPlays": "34",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/j8m0LTt7/black#64",
+    "OpeningTags": ""
+  }
+]

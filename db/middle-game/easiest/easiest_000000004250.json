@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CZ1WH",
+    "FEN": "r3k1nr/pb2pp2/npq2b1p/1Np5/2P3pN/3P2B1/PP2BPPP/1R1Q1RK1 w kq - 2 14",
+    "Moves": "h4f5 c6g2",
+    "Rating": "924",
+    "RatingDeviation": "92",
+    "Popularity": "82",
+    "NbPlays": "92",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ea0fbCe6#27",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CZ2QD",
+    "FEN": "r4rk1/pp4pp/4N1p1/3pP3/1b6/2N4Q/PPP3PP/R4q1K w - - 2 18",
+    "Moves": "a1f1 f8f1",
+    "Rating": "599",
+    "RatingDeviation": "86",
+    "Popularity": "77",
+    "NbPlays": "124",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/mCKMtgA4#35",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "CZ2WL",
+    "FEN": "r1bqr1k1/pp5p/2Pp2p1/8/1b3Q2/1P1n2N1/PBPp1PPP/R2K1B1R w - - 1 19",
+    "Moves": "f1d3 e8e1 h1e1 d2e1q",
+    "Rating": "998",
+    "RatingDeviation": "78",
+    "Popularity": "85",
+    "NbPlays": "88",
+    "Themes": "advancedPawn mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/P1Tst8Ar#37",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  },
+  {
+    "PuzzleId": "CZ3nU",
+    "FEN": "r1bq1rk1/p1pp1p2/2p2P1p/2b3p1/7B/2N5/PPP2PPP/R2QKB1R b KQ - 0 10",
+    "Moves": "g5h4 d1g4 g8h8 g4g7",
+    "Rating": "961",
+    "RatingDeviation": "85",
+    "Popularity": "85",
+    "NbPlays": "59",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ZBUedOcj/black#20",
+    "OpeningTags": "Scotch_Game Scotch_Game_Schmidt_Variation"
+  },
+  {
+    "PuzzleId": "CZ5KJ",
+    "FEN": "r2q1k1r/p1p3p1/1p3p1p/4pQ2/8/P1P5/2P2PPP/R1B1R1K1 w - - 0 18",
+    "Moves": "e1e5 d8d1 e5e1 d1e1",
+    "Rating": "828",
+    "RatingDeviation": "136",
+    "Popularity": "67",
+    "NbPlays": "13",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/gUYDaWIz#35",
+    "OpeningTags": "Center_Game Center_Game_Normal_Variation"
+  },
+  {
+    "PuzzleId": "CZ6Ab",
+    "FEN": "r2q1rk1/pp3ppp/3b4/3n4/8/5N1P/PPP2PP1/R1BQ1RK1 w - - 0 14",
+    "Moves": "d1d5 d6h2 g1h2 d8d5",
+    "Rating": "876",
+    "RatingDeviation": "107",
+    "Popularity": "85",
+    "NbPlays": "146",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/yfgd3GjA#27",
+    "OpeningTags": "Vienna_Game Vienna_Game_Stanley_Variation"
+  },
+  {
+    "PuzzleId": "CZ79X",
+    "FEN": "r6k/pp1n3n/2p3R1/3pp3/4P2P/1B1P4/PPP2r1P/2K3R1 b - - 1 22",
+    "Moves": "d5e4 g6g8 a8g8 g1g8",
+    "Rating": "604",
+    "RatingDeviation": "102",
+    "Popularity": "94",
+    "NbPlays": "416",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/2GMEq8Er/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CZAov",
+    "FEN": "r3kb1r/p1Qbpppp/q1nn4/2R1N3/3P4/4P3/PP1B1PPP/4K2R b Kkq - 9 15",
+    "Moves": "a8c8 c7d7",
+    "Rating": "965",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "278",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/PeCFBaoq/black#30",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "CZBHz",
+    "FEN": "r1bq1r2/pp4pk/2p2P1p/n2pp3/4B3/3PP1Q1/PPP1N1PP/R4RK1 b - - 0 15",
+    "Moves": "d5e4 g3g7",
+    "Rating": "874",
+    "RatingDeviation": "108",
+    "Popularity": "71",
+    "NbPlays": "15",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/GzTRjJcE/black#30",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Boi_Variation"
+  }
+]

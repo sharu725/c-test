@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "3XTWC",
+    "FEN": "r4rk1/pp1b1pbp/1q1np1p1/3B4/4P3/Q3BN2/PP3PPP/1R3RK1 b - - 1 17",
+    "Moves": "b6a6 a3a6 b7a6 d5a8",
+    "Rating": "1318",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "224",
+    "Themes": "crushing master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/zOxijVT5/black#34",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "3XWSM",
+    "FEN": "5rk1/bpp2qpp/p2pR3/3P2B1/2Q1b3/8/PP3PPP/4R1K1 w - - 0 22",
+    "Moves": "c4e4 f7f2 g1h1 f2f1 e1f1 f8f1",
+    "Rating": "1370",
+    "RatingDeviation": "89",
+    "Popularity": "70",
+    "NbPlays": "180",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/1GD7vmqM#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3XWpL",
+    "FEN": "r3r1k1/p1b2p1p/6p1/4q1P1/6QP/7N/PP1PPP2/R1B2RK1 w - - 1 22",
+    "Moves": "f2f3 e5h2",
+    "Rating": "1376",
+    "RatingDeviation": "77",
+    "Popularity": "66",
+    "NbPlays": "161",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/3DgmxCn5#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3XYXO",
+    "FEN": "8/3b1k2/2p1qbpQ/1pPpp3/1P1PpP1P/4P1P1/r5B1/B3R1K1 w - - 6 30",
+    "Moves": "d4e5 a2g2 g1g2 e6h3 g2g1 h3g3",
+    "Rating": "1312",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "10948",
+    "Themes": "attraction crushing deflection exposedKing kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/HAyyN0KW#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3XYiv",
+    "FEN": "1n2k2r/q4ppp/5n2/2P2P2/1Q2pP2/1N1p4/1P4PP/5RK1 b k - 0 24",
+    "Moves": "a7d7 b4b8 d7d8 b8e5",
+    "Rating": "1377",
+    "RatingDeviation": "217",
+    "Popularity": "-100",
+    "NbPlays": "4",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/71cEgEpr/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3XaXl",
+    "FEN": "rn1q1rk1/ppp2ppp/8/4N3/3Pp3/P3P3/1P2QPPP/R3K2R b KQ - 0 13",
+    "Moves": "f7f6 e2c4 g8h8 e5f7 f8f7 c4f7",
+    "Rating": "1290",
+    "RatingDeviation": "109",
+    "Popularity": "80",
+    "NbPlays": "14",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/BsjW2nem/black#26",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "3XbjS",
+    "FEN": "rn3k2/pp3p1p/2p2np1/q3p3/2PP4/P1P4Q/5PPP/R4RK1 b - - 0 16",
+    "Moves": "e5d4 h3c8 f8g7 c8b7 b8d7 b7a8",
+    "Rating": "1330",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "1369",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/JJ0PAht4/black#32",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Ragozin_Defense"
+  },
+  {
+    "PuzzleId": "3XcRx",
+    "FEN": "6q1/k6p/1n6/1B1b2r1/8/P4P2/3Q2PP/3R2K1 b - - 6 34",
+    "Moves": "d5f3 d2a5 a7b7 a5a6",
+    "Rating": "1287",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "7892",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/5FcGOUeJ/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3XdpK",
+    "FEN": "2rq1k1r/1p2np1p/p1BB1p2/8/8/Q7/P1P3PP/4R1K1 b - - 0 18",
+    "Moves": "d8b6 d6c5 b6c6 c5e7 f8g7 a3g3",
+    "Rating": "1338",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "357",
+    "Themes": "crushing defensiveMove long middlegame pin",
+    "GameUrl": "https://lichess.org/sGoNpbl0/black#36",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense"
+  }
+]

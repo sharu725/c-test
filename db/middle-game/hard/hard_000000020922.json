@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "sPsc9",
+    "FEN": "3qr1k1/p4pp1/1p2r1bp/2pNn3/P1P1N1Q1/1PP2P2/6PP/3R1RK1 w - - 9 24",
+    "Moves": "d5f6 g7f6 d1d8 e5g4 d8e8 e6e8",
+    "Rating": "1721",
+    "RatingDeviation": "117",
+    "Popularity": "85",
+    "NbPlays": "26",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/4z1m3k2K#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sPsfY",
+    "FEN": "rn1q1r2/1pp2ppk/p7/2bp2B1/4R3/2PQ3P/PP3PP1/R5K1 b - - 0 16",
+    "Moves": "d8g5 e4h4 h7g8 d3h7",
+    "Rating": "1685",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "327",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/cr9InFWU/black#32",
+    "OpeningTags": "Russian_Game Russian_Game_Modern_Attack"
+  },
+  {
+    "PuzzleId": "sPuNp",
+    "FEN": "r3r1k1/1pp2pp1/3b1q1p/p6b/P1nP4/1Q3N1P/1P2BPP1/4RRK1 w - - 0 17",
+    "Moves": "b3c4 h5f3 e2f3 f6f4 g2g3 f4f3",
+    "Rating": "1782",
+    "RatingDeviation": "117",
+    "Popularity": "14",
+    "NbPlays": "16",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/8Ihdj13j#33",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "sPwZl",
+    "FEN": "1br1r1k1/pp1qnp2/5pp1/1PPp3p/P7/1N1QP2P/3N1PP1/R1R3K1 w - - 1 22",
+    "Moves": "d2e4 d7f5 e4f6 f5f6",
+    "Rating": "1708",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "43",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/pMCxVRKF#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sPx3v",
+    "FEN": "2k3r1/p1p3q1/1p1p4/8/3PR1br/8/PP1N1PQ1/4R1K1 b - - 3 32",
+    "Moves": "g4e2 e4e8 g8e8 g2g7",
+    "Rating": "1674",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "2237",
+    "Themes": "advantage deflection middlegame short",
+    "GameUrl": "https://lichess.org/whWq8eoT/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sPxRM",
+    "FEN": "rn3b1r/p1Q1kppp/2b5/4B3/3Pp3/8/P3KPPP/q4BNR b - - 4 15",
+    "Moves": "e7e6 d4d5 c6d5 e5a1",
+    "Rating": "1628",
+    "RatingDeviation": "118",
+    "Popularity": "24",
+    "NbPlays": "23",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/osnWAQcX/black#30",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "sPzsL",
+    "FEN": "4k2r/pp3pp1/2pQp2p/q2n1b2/3P1B2/4P3/P4PPP/R3K2R w KQk - 1 17",
+    "Moves": "e1e2 d5c3 e2f3 f5e4 f3g3 c3e2",
+    "Rating": "1658",
+    "RatingDeviation": "82",
+    "Popularity": "84",
+    "NbPlays": "54",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/sc8kt6iE#33",
+    "OpeningTags": "Rapport-Jobava_System Rapport-Jobava_System_Other_variations"
+  },
+  {
+    "PuzzleId": "sQ1ck",
+    "FEN": "r3rk2/2q2p2/2p1p1p1/1bNpP2p/1P1Q1P1P/n5P1/2P5/RR3BK1 w - - 2 25",
+    "Moves": "b1b3 a3c2 c5e6 f7e6",
+    "Rating": "1688",
+    "RatingDeviation": "79",
+    "Popularity": "81",
+    "NbPlays": "49",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/HTOAmVGk#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sQ2CG",
+    "FEN": "r4rk1/pp2ppbp/2n1b1p1/6N1/1n6/N1B3P1/PP2PPBP/R3K2R b KQ - 7 13",
+    "Moves": "e6a2 g2c6 b7c6 c3b4",
+    "Rating": "1676",
+    "RatingDeviation": "73",
+    "Popularity": "97",
+    "NbPlays": "7742",
+    "Themes": "advantage capturingDefender master middlegame short",
+    "GameUrl": "https://lichess.org/V2FcsQo1/black#26",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Other_variations"
+  }
+]

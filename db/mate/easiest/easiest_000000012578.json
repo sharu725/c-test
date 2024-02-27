@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ON3PV",
+    "FEN": "4Q1k1/6p1/p1pb1pNp/1p1q1P2/1P6/2P4P/6P1/7K b - - 1 36",
+    "Moves": "g8h7 e8h8",
+    "Rating": "759",
+    "RatingDeviation": "79",
+    "Popularity": "100",
+    "NbPlays": "114",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/foNLgYPe/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ON3UC",
+    "FEN": "1r4k1/1q5p/p5p1/2pp4/Q7/P1P2P1P/r4P2/K5RR w - - 2 32",
+    "Moves": "a1a2 b7b2",
+    "Rating": "809",
+    "RatingDeviation": "86",
+    "Popularity": "95",
+    "NbPlays": "122",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/pn5CtP3e#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ON4MC",
+    "FEN": "r2qkb1r/1p1n1p2/p5pp/1BpP1b2/4NP1P/8/PPP1Q3/R3K1NR b KQkq - 0 14",
+    "Moves": "a6b5 e4d6",
+    "Rating": "765",
+    "RatingDeviation": "89",
+    "Popularity": "100",
+    "NbPlays": "51",
+    "Themes": "doubleCheck mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/YHqN6UdD/black#28",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Reversed_Albin_Countergambit"
+  },
+  {
+    "PuzzleId": "ON4fK",
+    "FEN": "r4b2/5R2/1kpp3p/p7/PpbQ1p2/8/1PP1q2P/1K1R4 b - - 6 31",
+    "Moves": "c6c5 d4d6 f8d6 d1d6",
+    "Rating": "965",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "3077",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/tC2cl2Kq/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ON5Dv",
+    "FEN": "8/3N3p/p1R5/5p2/2Pkn3/1P3K1P/r7/8 w - - 7 42",
+    "Moves": "f3f4 a2f2",
+    "Rating": "802",
+    "RatingDeviation": "100",
+    "Popularity": "87",
+    "NbPlays": "589",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/NbbcvJNf#83",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ON7B8",
+    "FEN": "8/6p1/2R2pk1/6rp/P7/4qP1Q/6rP/6RK w - - 0 32",
+    "Moves": "g1g2 e3e1 g2g1 e1g1",
+    "Rating": "933",
+    "RatingDeviation": "93",
+    "Popularity": "88",
+    "NbPlays": "94",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/MEsanuuY#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ON9ig",
+    "FEN": "3q1Q1k/6pp/p3p3/4P3/4r3/1P5P/P5P1/5RK1 b - - 2 30",
+    "Moves": "d8f8 f1f8",
+    "Rating": "600",
+    "RatingDeviation": "103",
+    "Popularity": "78",
+    "NbPlays": "191",
+    "Themes": "backRankMate endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/vaWDuTt8/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ONB00",
+    "FEN": "5rk1/p1q2ppp/b3N3/P1bpP3/2p2Q2/2P1P3/1r1N1RPP/5RK1 b - - 0 24",
+    "Moves": "f7e6 f4f8 c5f8 f2f8",
+    "Rating": "495",
+    "RatingDeviation": "87",
+    "Popularity": "100",
+    "NbPlays": "113",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/2wyiZXLY/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ONDa3",
+    "FEN": "r1bq1rk1/pp3pp1/2p2n1p/P7/4p2B/P1pP1Q1P/2P2PP1/R3KB1R w KQ - 0 14",
+    "Moves": "d3e4 d8d2",
+    "Rating": "925",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "284",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/o6YGC4YK#27",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  }
+]

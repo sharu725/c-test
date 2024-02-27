@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "wAQCr",
+    "FEN": "r1q2rk1/pp2ppbp/2p1bnp1/6B1/2P5/1PN1Q3/P1PRNPPP/3R2K1 w - - 3 17",
+    "Moves": "g5h6 f6g4 h6g7 g4e3",
+    "Rating": "1215",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "1019",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/KjjauknW#33",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Valencian_Variation"
+  },
+  {
+    "PuzzleId": "wATKH",
+    "FEN": "r4rk1/ppp1qppp/8/2pQnb2/5B2/P1P1P3/4BPPP/R4RK1 b - - 1 14",
+    "Moves": "e5g6 d5f5 g6f4 f5f4",
+    "Rating": "1277",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "184",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/xni03aM2/black#28",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "wAV68",
+    "FEN": "1rb2rkR/3p1p2/q1n1p1p1/3nP1N1/p2PQ3/8/P2B1PPP/4K2R b K - 4 20",
+    "Moves": "g8h8 e4h4 h8g7 h4h7",
+    "Rating": "1212",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "1455",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/vjjVf1WV/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wAWWM",
+    "FEN": "r1b1k2N/ppp3pp/2np4/2b1p3/2B5/8/PPPP1qPP/RNBQ3K w q - 0 10",
+    "Moves": "d1f3 f2g1",
+    "Rating": "1219",
+    "RatingDeviation": "100",
+    "Popularity": "86",
+    "NbPlays": "38",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/rnHVUVys#19",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "wAZmZ",
+    "FEN": "r2q1r1k/pb3BpQ/1p2Pb2/2p2R2/8/2P5/P1P3PP/R1B3K1 b - - 0 19",
+    "Moves": "h8h7 f5h5",
+    "Rating": "1338",
+    "RatingDeviation": "350",
+    "Popularity": "67",
+    "NbPlays": "11",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/cOYYjObe/black#38",
+    "OpeningTags": "Italian_Game Italian_Game_Hungarian_Defense"
+  },
+  {
+    "PuzzleId": "wAaNr",
+    "FEN": "2r1k2r/1R1q1pp1/Q3p2p/3n4/3P4/P1P1P3/5PPP/4K2R b Kk - 3 19",
+    "Moves": "d7c6 a6c6 c8c6 b7b8 e8e7 b8h8",
+    "Rating": "1206",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "937",
+    "Themes": "crushing long middlegame skewer",
+    "GameUrl": "https://lichess.org/N48M6d2X/black#38",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "wAbls",
+    "FEN": "rn2k2r/pb1p1ppp/1p2pq2/8/1bPP4/2N2NP1/PP1Q1PBP/R3K2R w KQkq - 1 11",
+    "Moves": "a2a3 b7f3 a3b4 f3g2",
+    "Rating": "1279",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "428",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/xu3Ufgty#21",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "wAcDt",
+    "FEN": "r3kr2/p2b1Rp1/4p1n1/4P1BQ/1ppNP3/2q5/P5PP/3R3K b q - 0 24",
+    "Moves": "f8f7 h5g6 c3d3 d1d3",
+    "Rating": "1280",
+    "RatingDeviation": "143",
+    "Popularity": "82",
+    "NbPlays": "7",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/jjzDSUiH/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wAgLF",
+    "FEN": "r1bq1rk1/ppp2ppp/4p3/3pP3/3Pn3/2PB4/PP3PPP/RN1QK2R w KQ - 1 10",
+    "Moves": "f2f3 d8h4 g2g3 e4g3 h2g3 h4h1",
+    "Rating": "1262",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "4493",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/2s96Ic9f#19",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  }
+]

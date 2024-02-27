@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CyrzO",
+    "FEN": "r6r/1pp1k1R1/2np1p1b/p3p2Q/4Pq2/2PP3p/PP3P1P/1K4R1 b - - 3 21",
+    "Moves": "h6g7 g1g7 e7e6 h5f7",
+    "Rating": "1256",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "7609",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/2sVyQAMt/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Cysdg",
+    "FEN": "2rk4/R3bK2/4Pp2/3p2p1/6P1/7p/8/8 b - - 1 48",
+    "Moves": "h3h2 a7d7",
+    "Rating": "1221",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "3823",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/eaHQunai/black#96",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CyvUs",
+    "FEN": "r2q1bk1/1bpn1Rn1/pp2p1QB/4P3/2PP4/2N5/PP4PP/6K1 b - - 2 18",
+    "Moves": "d7e5 f7g7 f8g7 g6g7",
+    "Rating": "1349",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "2296",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PvUDAutr/black#36",
+    "OpeningTags": "Indian_Defense Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "Cz0Xi",
+    "FEN": "rb3rk1/2q2pp1/ppp1p2p/3n4/3PNP2/P2QB1R1/1PP3PP/3R2K1 b - - 1 20",
+    "Moves": "d5e3 e4f6 g8h8 d3h7",
+    "Rating": "1343",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "2472",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/0z8411aP/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Cz2xE",
+    "FEN": "1k6/1p2R2p/p4p1b/P1n1pB2/8/5N2/1P3PPP/1K1r4 w - - 9 29",
+    "Moves": "b1c2 d1c1",
+    "Rating": "1318",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "417",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/iS6GQ4UI#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Cz3p0",
+    "FEN": "r7/p1r3pk/1b3p2/p3pN2/4P3/3P1q2/2PQ1P1P/3RK1R1 b - - 2 26",
+    "Moves": "a8c8 g1g7 c7g7 d2h6 h7g8 h6g7",
+    "Rating": "1363",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "6924",
+    "Themes": "attraction long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/pJDdC3ma/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Cz5C6",
+    "FEN": "3rk2r/pp2bpp1/2p2nqp/3pp3/1nQPP2P/1PN1BN2/1PP2PP1/2KR3R w k - 0 15",
+    "Moves": "e4d5 g6c2",
+    "Rating": "1215",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "264",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/Glk8tQZJ#29",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_McConnell_Defense"
+  },
+  {
+    "PuzzleId": "Cz5O2",
+    "FEN": "3r2k1/5ppp/4p2P/p2q4/Pb4Q1/2p3P1/3p1P1K/3B4 b - - 0 41",
+    "Moves": "d5f5 g4g7",
+    "Rating": "1255",
+    "RatingDeviation": "83",
+    "Popularity": "60",
+    "NbPlays": "94",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/1MP3Nz1g/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Cz82V",
+    "FEN": "r2q1rk1/pppb1ppp/4p3/n2B2N1/3PN3/P3P3/1PQ2PPP/R3K2R b KQ - 0 12",
+    "Moves": "e6d5 e4f6 g7f6 c2h7",
+    "Rating": "1246",
+    "RatingDeviation": "182",
+    "Popularity": "44",
+    "NbPlays": "13",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/nP3RopSm/black#24",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Vienna_Variation"
+  }
+]

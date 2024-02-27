@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "oRfQW",
+    "FEN": "rn1k1b1r/pR3Qp1/2q1PnN1/3p4/3p2pP/5PB1/P4K2/8 b - - 1 23",
+    "Moves": "g4f3 e6e7 f8e7 f7e7 d8c8 b7c7 c6c7 e7c7",
+    "Rating": "2054",
+    "RatingDeviation": "77",
+    "Popularity": "74",
+    "NbPlays": "77",
+    "Themes": "advancedPawn exposedKing fork mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/JSrlJEJf/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oS0yE",
+    "FEN": "r1b2rk1/1p2b1p1/pqn1p3/3pP1PQ/5B2/1PP5/P4PP1/R3K2R b KQ - 0 17",
+    "Moves": "f8f4 h5h8 g8f7 g5g6 f7g6 h8h5",
+    "Rating": "2116",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "318",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/eV8ZNcD1/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "oSNrv",
+    "FEN": "r1k3r1/1b6/p2B2R1/1p4Np/2n4P/3Q1P2/Pq4PK/8 b - - 0 30",
+    "Moves": "g8g6 d3f5 c8d8 f5f8 d8d7 f8e7 d7c6 e7c7 c6d5 c7c5",
+    "Rating": "2212",
+    "RatingDeviation": "81",
+    "Popularity": "89",
+    "NbPlays": "138",
+    "Themes": "exposedKing fork mate mateIn5 middlegame veryLong",
+    "GameUrl": "https://lichess.org/en1B6Euz/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oSZjx",
+    "FEN": "r1b4k/1pp1brpB/p5Np/3q4/7P/2P5/PPQ2PP1/R3K2R b KQ - 1 17",
+    "Moves": "h8h7 g6f8 h7g8 c2h7 g8f8 h7h8",
+    "Rating": "2186",
+    "RatingDeviation": "78",
+    "Popularity": "82",
+    "NbPlays": "401",
+    "Themes": "doubleCheck long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/QZOuNVWq/black#34",
+    "OpeningTags": "French_Defense French_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "oSgso",
+    "FEN": "4r1k1/2Q3pp/7q/8/8/5P1r/PP3B2/R4RK1 w - - 0 28",
+    "Moves": "f2g3 h3h1 g1g2 e8e2 g3f2 h6h3",
+    "Rating": "2088",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "222",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/TFiBBgQc#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oSis4",
+    "FEN": "r3r1k1/pp2b1p1/2p2pp1/6P1/3P4/2P2N1R/PP1K1P2/7R b - - 0 23",
+    "Moves": "f6g5 f3e5 g5g4 h3h8",
+    "Rating": "2046",
+    "RatingDeviation": "118",
+    "Popularity": "84",
+    "NbPlays": "51",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/b2VXUXkQ/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oTBbI",
+    "FEN": "r1bqrnk1/1p3pbp/2p5/p3N2Q/3PBP2/P6P/1P3PP1/R4RK1 b - - 2 18",
+    "Moves": "f7f6 e4h7 f8h7 h5f7 g8h8 e5g6",
+    "Rating": "2065",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "6040",
+    "Themes": "kingsideAttack long master mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/E3eZ4vPK/black#36",
+    "OpeningTags": "Indian_Defense Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "oTBrK",
+    "FEN": "2kr3r/Bppn1ppp/2qp4/Q2NP1b1/8/PP4P1/7P/2R1R2K b - - 3 21",
+    "Moves": "g5c1 a5c7 c6c7 d5e7",
+    "Rating": "2155",
+    "RatingDeviation": "85",
+    "Popularity": "91",
+    "NbPlays": "720",
+    "Themes": "mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/wJ8hzz6D/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oTSHS",
+    "FEN": "r6n/p5k1/2N1p1P1/3p1p1K/3P3P/4P3/8/4R3 w - - 3 38",
+    "Moves": "e1a1 h8f7 g6f7 g7f6 c6d8 a8d8 f7f8q d8f8 a1a7 f8h8 a7h7 h8h7",
+    "Rating": "2384",
+    "RatingDeviation": "87",
+    "Popularity": "91",
+    "NbPlays": "227",
+    "Themes": "endgame mate mateIn5 quietMove veryLong",
+    "GameUrl": "https://lichess.org/ASY1yqJN#75",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "02pGA",
+    "FEN": "2kr3r/pp4pp/B1ppPqn1/4p3/2Q5/8/PPP2PPP/R3K2R b KQ - 1 17",
+    "Moves": "d6d5 c4c6 c8b8 c6b7",
+    "Rating": "1488",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1352",
+    "Themes": "mate mateIn2 middlegame pin queensideAttack short",
+    "GameUrl": "https://lichess.org/OmPk5H0Y/black#34",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation"
+  },
+  {
+    "PuzzleId": "02zGr",
+    "FEN": "r3r1k1/p3p2p/6pB/1p1pq1N1/8/1P1pnQ1P/1b4P1/5R1K b - - 1 29",
+    "Moves": "e3f1 f3f7 g8h8 f7h7",
+    "Rating": "1574",
+    "RatingDeviation": "172",
+    "Popularity": "52",
+    "NbPlays": "19",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/iw2mpgPl/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0397H",
+    "FEN": "3r2k1/p1pPqPpp/1p6/8/2Q5/6P1/P4P1P/4R1K1 b - - 0 28",
+    "Moves": "e7f7 e1e8 d8e8 d7e8q",
+    "Rating": "1404",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "194",
+    "Themes": "advancedPawn endgame mate mateIn2 pin promotion short",
+    "GameUrl": "https://lichess.org/8gZDbyf4/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "039ga",
+    "FEN": "r2q2rk/4p2Q/3p1bpB/p7/1P6/2N2P2/1PP3P1/2KR3R b - - 0 23",
+    "Moves": "h8h7 h6f8 f6h4 h1h4",
+    "Rating": "1599",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "11244",
+    "Themes": "discoveredAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AImlWKqO/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "03B43",
+    "FEN": "4r1k1/3Q2pp/p7/1p1pP3/3qp3/8/PP4PP/5R1K b - - 2 26",
+    "Moves": "d4e5 d7f7 g8h8 f7f8 e8f8 f1f8",
+    "Rating": "1422",
+    "RatingDeviation": "94",
+    "Popularity": "72",
+    "NbPlays": "192",
+    "Themes": "backRankMate endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/qFXXNLED/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "03CLd",
+    "FEN": "rn3kr1/1b2bp1p/p3p3/P4p2/Qp1q4/3B1N2/1P1N1PPP/R4R1K w - - 0 17",
+    "Moves": "f3d4 b7g2 h1g1 g2d5",
+    "Rating": "1560",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "398",
+    "Themes": "discoveredAttack fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/oEr5oWEZ#33",
+    "OpeningTags": "French_Defense French_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "03I6j",
+    "FEN": "r2q3k/4bBpp/p7/1pp2P2/3nn3/7Q/PPP3PP/R1B2RK1 w - - 0 19",
+    "Moves": "c2c3 d4e2 g1h1 e4f2 f1f2 d8d1 f2f1 d1f1",
+    "Rating": "1569",
+    "RatingDeviation": "177",
+    "Popularity": "81",
+    "NbPlays": "26",
+    "Themes": "kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/8IJOh9fa#37",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "03JeC",
+    "FEN": "5rk1/3PQppp/p7/6P1/8/2pq4/P5PP/4R2K b - - 0 30",
+    "Moves": "c3c2 e7f8 g8f8 e1e8",
+    "Rating": "1599",
+    "RatingDeviation": "79",
+    "Popularity": "88",
+    "NbPlays": "32",
+    "Themes": "attraction endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/yY9Iks5E/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "03NBG",
+    "FEN": "3rr1k1/p6p/5Q2/q1p1Pp2/4b3/1PP1R3/P6P/R5K1 b - - 6 29",
+    "Moves": "e8f8 e3g3",
+    "Rating": "1452",
+    "RatingDeviation": "85",
+    "Popularity": "81",
+    "NbPlays": "230",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/YBy2m9Px/black#58",
+    "OpeningTags": ""
+  }
+]

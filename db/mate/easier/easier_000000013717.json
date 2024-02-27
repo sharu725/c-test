@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "per7s",
+    "FEN": "R7/4k1p1/4PP2/1pp1K1P1/7r/p7/8/8 b - - 0 61",
+    "Moves": "g7f6 g5f6",
+    "Rating": "1003",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "634",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/MbXiyR7X/black#122",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pertj",
+    "FEN": "5rr1/1b4pk/8/4pB2/p2pP3/Pp1P2R1/1P6/6RK b - - 6 33",
+    "Moves": "f8f5 g3h3 f5h5 h3h5",
+    "Rating": "1068",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2432",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/KYUENo7M/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "petxz",
+    "FEN": "2kr3r/ppp2pp1/2p5/2P1q2p/6n1/Q1P1BB2/PP3PPP/R4RK1 w - - 0 18",
+    "Moves": "e3d4 e5h2",
+    "Rating": "1036",
+    "RatingDeviation": "120",
+    "Popularity": "67",
+    "NbPlays": "29",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/0HNMmYph#35",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "pevQn",
+    "FEN": "r5k1/5ppp/4p3/3pP3/2q5/1QP5/P4PPP/2R3K1 b - - 2 27",
+    "Moves": "a8a2 b3b8 c4c8 b8c8",
+    "Rating": "1096",
+    "RatingDeviation": "205",
+    "Popularity": "43",
+    "NbPlays": "3",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/UOkUZK4h/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pfDoY",
+    "FEN": "8/5k2/2R5/P3PB2/2b5/1pb5/3p1P2/1K6 w - - 0 54",
+    "Moves": "f5g4 c4d3",
+    "Rating": "1076",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "264",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/AEEE2UE8#107",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pfF4X",
+    "FEN": "8/5k2/6R1/4p3/1P2n2p/P5bK/6P1/8 w - - 1 45",
+    "Moves": "g6g4 e4f2",
+    "Rating": "1118",
+    "RatingDeviation": "97",
+    "Popularity": "75",
+    "NbPlays": "73",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/ytuqAFpZ#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pfGBa",
+    "FEN": "r5k1/2pQ1ppp/r3p1b1/4q3/P3P3/6P1/6BP/R4R1K b - - 4 26",
+    "Moves": "g6e4 d7f7 g8h8 f7f8 a8f8 f1f8",
+    "Rating": "1059",
+    "RatingDeviation": "80",
+    "Popularity": "68",
+    "NbPlays": "435",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/RIhoC0h1/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pfHDo",
+    "FEN": "r3k2r/ppq1bp2/2p2n1p/4p3/N1Q1Ppb1/1B3N2/PPPR1PPP/3R2K1 b kq - 3 16",
+    "Moves": "g4f3 c4f7",
+    "Rating": "1008",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "242",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/CeKdxeVt/black#32",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "pfHR1",
+    "FEN": "4r1k1/2p2ppp/5n2/p3N3/2Q2P2/4q3/PP4PP/3R3K b - - 2 27",
+    "Moves": "f6e4 c4f7 g8h8 f7e8",
+    "Rating": "1064",
+    "RatingDeviation": "76",
+    "Popularity": "74",
+    "NbPlays": "152",
+    "Themes": "backRankMate endgame fork mate mateIn2 short",
+    "GameUrl": "https://lichess.org/0yVCvM1j/black#54",
+    "OpeningTags": ""
+  }
+]

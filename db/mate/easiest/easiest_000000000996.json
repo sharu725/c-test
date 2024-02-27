@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "1vZ1P",
+    "FEN": "2rq1rk1/p1pnbppp/1p2p3/3bP3/3P4/3QBN2/PP3PPP/1BR2RK1 b - - 7 14",
+    "Moves": "c7c5 d3h7",
+    "Rating": "979",
+    "RatingDeviation": "107",
+    "Popularity": "100",
+    "NbPlays": "32",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/J32M48ne/black#28",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "1vZRQ",
+    "FEN": "r1b2k1r/1p1p1ppp/p2P4/4Q3/8/5P2/PP1qBKPP/n6R b - - 3 18",
+    "Moves": "a1c2 e5e7 f8g8 e7e8",
+    "Rating": "952",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1015",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/nVnymfpK/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lowenthal_Variation"
+  },
+  {
+    "PuzzleId": "1vZpQ",
+    "FEN": "rn1qkb1r/p1ppp2p/1p3PB1/7Q/5P2/8/PPP4P/RNB1K1Nb b Qkq - 0 9",
+    "Moves": "h7g6 h5g6",
+    "Rating": "948",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "412",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/hGLa7tbc/black#18",
+    "OpeningTags": "Bird_Opening Bird_Opening_Wagner-Zwitersch_Gambit"
+  },
+  {
+    "PuzzleId": "1va65",
+    "FEN": "2k5/ppp3R1/n1p5/4Pp2/5p2/K1PR1P2/PP2r3/8 b - - 0 28",
+    "Moves": "e2e5 g7g8 e5e8 g8e8",
+    "Rating": "839",
+    "RatingDeviation": "95",
+    "Popularity": "65",
+    "NbPlays": "34",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/BNw4nFLw/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1vaIe",
+    "FEN": "4Rbk1/pp3p1p/6p1/5r2/1Q6/2Pq1N1P/PP3P2/6K1 b - - 3 27",
+    "Moves": "f5f3 b4f8",
+    "Rating": "744",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "158",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/s6VOvxX4/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1vb8z",
+    "FEN": "4R3/P4k2/7p/8/3r4/8/1Pr4P/6K1 w - - 0 40",
+    "Moves": "a7a8q d4d1 e8e1 d1e1",
+    "Rating": "771",
+    "RatingDeviation": "87",
+    "Popularity": "78",
+    "NbPlays": "62",
+    "Themes": "endgame mate mateIn2 queenRookEndgame short",
+    "GameUrl": "https://lichess.org/jGZwurX6#79",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1vbCW",
+    "FEN": "3b1rk1/6p1/1p2R3/pP1p1q2/P2P1B1p/4P3/3Q1PPP/6K1 w - - 2 35",
+    "Moves": "e6e5 f5b1 d2c1 b1c1",
+    "Rating": "801",
+    "RatingDeviation": "95",
+    "Popularity": "94",
+    "NbPlays": "209",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/UVjuFBhc#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1vc18",
+    "FEN": "4Qr1k/6pp/3p1r2/p7/8/2q2P2/2P2R1P/4R2K b - - 3 27",
+    "Moves": "f6f3 e8f8 f3f8 f2f8",
+    "Rating": "739",
+    "RatingDeviation": "80",
+    "Popularity": "96",
+    "NbPlays": "2693",
+    "Themes": "backRankMate endgame mate mateIn2 short xRayAttack",
+    "GameUrl": "https://lichess.org/uvF7sUTd/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1vcGZ",
+    "FEN": "5r1k/1p3Npp/p7/3P4/3b4/8/P4PPP/4R1K1 b - - 0 22",
+    "Moves": "f8f7 e1e8 f7f8 e8f8",
+    "Rating": "951",
+    "RatingDeviation": "88",
+    "Popularity": "83",
+    "NbPlays": "57",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/Goez3VxS/black#44",
+    "OpeningTags": ""
+  }
+]

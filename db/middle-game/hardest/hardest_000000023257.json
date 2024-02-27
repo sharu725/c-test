@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "m8krw",
+    "FEN": "2kr3r/pp2Npb1/3p3p/q4Ppn/1nB5/6B1/P1P2PPP/R2QK2R b KQ - 0 15",
+    "Moves": "c8d7 d1d6 d7e8 c4f7 e8f8 e7g6 f8f7 d6e6",
+    "Rating": "2064",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "8705",
+    "Themes": "attackingF2F7 doubleCheck fork mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/ZmdrQtCu/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Richter-Rauzer_Variation"
+  },
+  {
+    "PuzzleId": "m8nZv",
+    "FEN": "r1b2rk1/1pp2ppp/3p2q1/2bP4/p1Pn4/2Q1BNP1/PP3PBP/R3R1K1 b - - 3 17",
+    "Moves": "d4c2 f3h4 c5b4 h4g6 b4c3 g6e7 g8h8 b2c3",
+    "Rating": "2173",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "439",
+    "Themes": "crushing master middlegame veryLong",
+    "GameUrl": "https://lichess.org/jQWgzDLn/black#34",
+    "OpeningTags": "Vienna_Game Vienna_Game_Mieses_Variation"
+  },
+  {
+    "PuzzleId": "m8nzd",
+    "FEN": "5r1b/p2nq2k/4p1rp/1p1pN2N/2pP2P1/2P1B3/PP1Q1R1K/6R1 b - - 0 29",
+    "Moves": "d7e5 f2f8",
+    "Rating": "2246",
+    "RatingDeviation": "171",
+    "Popularity": "100",
+    "NbPlays": "16",
+    "Themes": "equality middlegame oneMove",
+    "GameUrl": "https://lichess.org/RsAbBlyy/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "m8pjd",
+    "FEN": "3rr1k1/pp3ppp/2n5/6N1/5N2/b4QP1/bq2PPBP/R4RK1 b - - 3 17",
+    "Moves": "c6d4 f3h5 h7h6 a1a2 b2a2 g2d5 a2d5 f4d5",
+    "Rating": "2307",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "73",
+    "Themes": "advantage middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/SHNtPtbk/black#34",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "m8psa",
+    "FEN": "r3k2r/1ppb1p1p/p1n2p2/4q3/Q1B1p3/8/P2RNPPP/5RK1 b kq - 1 16",
+    "Moves": "c6d4 c4f7 e8e7 a4d4 e5d4 d2d4",
+    "Rating": "2020",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "492",
+    "Themes": "advantage attackingF2F7 discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/DUGGCxKY/black#32",
+    "OpeningTags": "Danish_Gambit_Declined Danish_Gambit_Declined_Sorensen_Defense"
+  },
+  {
+    "PuzzleId": "m8qnV",
+    "FEN": "rnb2qk1/1p1p3p/p3rpp1/2pB1N2/6Q1/2B3P1/5P1P/5RK1 b - - 4 25",
+    "Moves": "g8h8 g4g5 b8c6 d5e6 c6d4 f5d4",
+    "Rating": "2337",
+    "RatingDeviation": "113",
+    "Popularity": "-2",
+    "NbPlays": "23",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/XJkHChvY/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "m8uIX",
+    "FEN": "r1b1k2r/ppp2ppp/2pb4/8/2B1P2q/2N2Q1P/PPPP1nPK/R1B2R2 w kq - 6 12",
+    "Moves": "g2g3 h4h3 h2g1 f2g4",
+    "Rating": "2143",
+    "RatingDeviation": "82",
+    "Popularity": "76",
+    "NbPlays": "36",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/9LfyMUfc#23",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "m8uit",
+    "FEN": "r5k1/pp3pp1/1Pp1b2p/4r1q1/1P6/2P5/P2N1PPP/R2Q1RK1 b - - 1 19",
+    "Moves": "a7b6 f2f4 g5f6 f4e5",
+    "Rating": "2125",
+    "RatingDeviation": "81",
+    "Popularity": "82",
+    "NbPlays": "105",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/dpbQ2H5Q/black#38",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "m8uoM",
+    "FEN": "3r2k1/5pb1/p6p/1p1rPp2/1PRN1P2/P7/5B1P/1R5K w - - 0 31",
+    "Moves": "d4f5 d5d1 h1g2 b5c4 b1d1 d8d1",
+    "Rating": "2093",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "159",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/dSMEGAs9#61",
+    "OpeningTags": ""
+  }
+]

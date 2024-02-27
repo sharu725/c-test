@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "wfGXb",
+    "FEN": "2rq1rk1/3nbppp/1p2pn2/p2pN1BP/3P1PP1/2NQ4/PPP5/2KR3R b - - 0 15",
+    "Moves": "f6g4 e5g4 e7g5 f4g5 d8g5 g4e3",
+    "Rating": "2199",
+    "RatingDeviation": "77",
+    "Popularity": "83",
+    "NbPlays": "122",
+    "Themes": "advantage hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/tR8c1uay/black#30",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "wfGwB",
+    "FEN": "r1b1k2r/4b1pp/pqnp1n2/1p4B1/4P3/1BN2P2/PPP3PP/R2Q1R1K b kq - 6 14",
+    "Moves": "c6d4 g5e3 d4b3 e3b6",
+    "Rating": "2194",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "1436",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/hMyMpzTE/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "wfHvs",
+    "FEN": "r1b2r1k/p6n/1pn1p3/3p3Q/3P4/2P3R1/PP1N1qPP/R6K b - - 1 19",
+    "Moves": "f2d2 h5g6 d2g5 g3g5 h7g5 g6g5",
+    "Rating": "2191",
+    "RatingDeviation": "81",
+    "Popularity": "91",
+    "NbPlays": "777",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/QovNCAbj/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "wfHzV",
+    "FEN": "3r1rk1/pp3pb1/5qpp/3N4/8/3Q3P/PP3PP1/3RR1K1 b - - 0 23",
+    "Moves": "f6b2 d1d2 d8d5 d3d5",
+    "Rating": "2330",
+    "RatingDeviation": "126",
+    "Popularity": "83",
+    "NbPlays": "35",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/v0rC1k3o/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wfIaj",
+    "FEN": "5br1/p3k3/4pp1p/q2p4/brpP2PN/4P3/P1QNBR1P/K4R2 w - - 2 24",
+    "Moves": "c2h7 g8g7 h4f5 e6f5 h7f5 b4b6",
+    "Rating": "2144",
+    "RatingDeviation": "110",
+    "Popularity": "64",
+    "NbPlays": "26",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/2G5ZcO8r#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wfJg3",
+    "FEN": "rkb5/pp5p/n2b2p1/Q2Bp3/3r4/P7/1Pq3PP/2R2R1K b - - 1 26",
+    "Moves": "c2b2 c1c8 b8c8 d5e6 c8b8 a5d8",
+    "Rating": "2192",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "5981",
+    "Themes": "attraction long mate mateIn3 middlegame queensideAttack sacrifice",
+    "GameUrl": "https://lichess.org/6QIosG1Y/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wfKUg",
+    "FEN": "r1b2rk1/1p4p1/3p1n1p/p1nPpP2/2q1P1PP/2N2Q2/PPB5/1R1K2NR w - - 5 19",
+    "Moves": "g4g5 f6e4 c2e4 c5e4 f3e4 c4e4 c3e4 c8f5",
+    "Rating": "2370",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1950",
+    "Themes": "advantage capturingDefender middlegame veryLong",
+    "GameUrl": "https://lichess.org/4aS8bOur#37",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "wfLtE",
+    "FEN": "5rk1/p1r5/1pnq3p/3pbQ2/P7/2B1P1PN/1PR1K2P/2R5 w - - 1 29",
+    "Moves": "c3e5 c6e5 f5f8 d6f8 c2c7 f8f3",
+    "Rating": "2070",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "5763",
+    "Themes": "advantage long master middlegame",
+    "GameUrl": "https://lichess.org/LrlGRcJU#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wfNQZ",
+    "FEN": "r3k2r/p1pq3p/2p1b1pQ/4PPB1/8/2nB4/P1P4P/R4RK1 b kq - 0 18",
+    "Moves": "d7d4 f1f2 c3e4 d3e4 d4a1 g1g2",
+    "Rating": "2380",
+    "RatingDeviation": "86",
+    "Popularity": "81",
+    "NbPlays": "34",
+    "Themes": "crushing defensiveMove long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/CfVTZvcL/black#36",
+    "OpeningTags": "Italian_Game Italian_Game_Other_variations"
+  }
+]

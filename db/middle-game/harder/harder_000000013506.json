@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "euC1V",
+    "FEN": "1r6/2p2pkp/5qp1/p1bB4/2P1Pp2/2B2Q1P/P4r1K/R2R4 w - - 0 32",
+    "Moves": "f3f2 f6c3 a1c1 c3c1 d1c1 c5f2",
+    "Rating": "1935",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "3561",
+    "Themes": "crushing hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/qsGTf4Fj#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "euCT4",
+    "FEN": "r4rk1/2p2ppp/p3b3/2qp4/8/2B2Q2/PPP2PPP/3RR1K1 b - - 5 16",
+    "Moves": "c7c6 f3g3 f7f6 e1e6",
+    "Rating": "1803",
+    "RatingDeviation": "81",
+    "Popularity": "71",
+    "NbPlays": "50",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/xBr7tuqK/black#32",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Open"
+  },
+  {
+    "PuzzleId": "euDYZ",
+    "FEN": "r2r4/1b2kppp/pbn1pn2/1p2q3/1P6/P2BNPN1/2PBQ1PP/1R2K2R b K - 9 19",
+    "Moves": "c6d4 e3f5 e5f5 g3f5",
+    "Rating": "1804",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "610",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/hRsRRhDe/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "euE36",
+    "FEN": "2r2r2/1p4pk/pq2b2p/3pP3/Q2Np3/1P6/P4PPP/2R2RK1 w - - 3 27",
+    "Moves": "d4e6 b6f2 g1h1 f2f1 c1f1 f8f1",
+    "Rating": "1823",
+    "RatingDeviation": "79",
+    "Popularity": "84",
+    "NbPlays": "480",
+    "Themes": "backRankMate deflection long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/BDastEtj#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "euFoL",
+    "FEN": "1r2r1k1/p4ppp/2qb4/3pB2b/3p4/2P2P2/PP3QPP/RN2R1K1 w - - 0 18",
+    "Moves": "c3d4 e8e5 e1e5 d6e5 d4e5 c6c1",
+    "Rating": "1923",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "4754",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/5At7SzTS#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "euHaZ",
+    "FEN": "r1b2rk1/1p3p1q/p5p1/4p3/2PpB2Q/3R2R1/PP3PPP/6K1 w - - 3 26",
+    "Moves": "g3g6 f7g6 e4d5 g8h8",
+    "Rating": "1906",
+    "RatingDeviation": "81",
+    "Popularity": "83",
+    "NbPlays": "35",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/GRozXPkK#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "euJl7",
+    "FEN": "Q1b3rk/2q3pp/p2b4/2p5/Np3p2/1PP1p2P/1P1B1PP1/2RR2K1 w - - 0 26",
+    "Moves": "f2e3 c8b7 a8b7 c7b7",
+    "Rating": "1979",
+    "RatingDeviation": "75",
+    "Popularity": "75",
+    "NbPlays": "137",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/QmrkKcJe#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "euMM4",
+    "FEN": "r1b2rk1/ppp2ppp/2np3q/8/4P3/N1P1nN1P/PP2BRP1/R1Q3K1 b - - 1 15",
+    "Moves": "c6e5 f3e5 d6e5 f2f3 e3g4 h3g4 h6c1 a1c1",
+    "Rating": "1876",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "962",
+    "Themes": "advantage clearance middlegame veryLong",
+    "GameUrl": "https://lichess.org/k2Qa4NWr/black#30",
+    "OpeningTags": "Scotch_Game Scotch_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "euMRl",
+    "FEN": "4rr2/1ppb1pqk/p1np1R1p/2b4Q/P1B1P2B/3P1NPp/1PP5/R6K b - - 6 22",
+    "Moves": "d7g4 f3g5 g7g5 f6f7 f8f7 h5f7 g5g7 f7e8",
+    "Rating": "1983",
+    "RatingDeviation": "107",
+    "Popularity": "87",
+    "NbPlays": "30",
+    "Themes": "advantage deflection fork middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/wRnobFvJ/black#44",
+    "OpeningTags": ""
+  }
+]

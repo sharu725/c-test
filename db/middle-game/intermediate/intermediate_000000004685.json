@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BGcaq",
+    "FEN": "r1b2rk1/ppp2ppp/4q3/8/2pQN3/8/PPP2PPP/R3R2K b - - 2 13",
+    "Moves": "f8e8 e4f6 g7f6 e1e6",
+    "Rating": "1409",
+    "RatingDeviation": "74",
+    "Popularity": "68",
+    "NbPlays": "147",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/q1oe1htm/black#26",
+    "OpeningTags": "Italian_Game Italian_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "BGf6q",
+    "FEN": "3r2k1/8/P7/2Npb2p/1Pn4P/2P1r1p1/6P1/R2R2K1 b - - 0 36",
+    "Moves": "e5b8 a6a7 b8a7 a1a7",
+    "Rating": "1486",
+    "RatingDeviation": "389",
+    "Popularity": "100",
+    "NbPlays": "2",
+    "Themes": "advancedPawn equality middlegame short",
+    "GameUrl": "https://lichess.org/JtvzsOPB/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BGfJ1",
+    "FEN": "5rk1/q2b1ppp/p3p3/2r1P3/8/5N2/2QN2PP/RR4K1 w - - 0 23",
+    "Moves": "c2b2 c5c1",
+    "Rating": "1533",
+    "RatingDeviation": "80",
+    "Popularity": "88",
+    "NbPlays": "4980",
+    "Themes": "doubleCheck mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/l7bjbQrm#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BGgRH",
+    "FEN": "2r2rk1/1pp2pp1/p2p3p/P3p1q1/1PBPPnb1/1QP1N3/5PPP/R3R1K1 b - - 2 18",
+    "Moves": "f4g2 e3g2 g4f3 c4f1",
+    "Rating": "1578",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "11610",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/d7FPXrzk/black#36",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Steinitz_Variation"
+  },
+  {
+    "PuzzleId": "BGh15",
+    "FEN": "r4rk1/p1p2ppp/2Q5/2b1p1B1/3q2n1/3P4/PPP3PP/RN3R1K w - - 5 14",
+    "Moves": "b1d2 d4g1 f1g1 g4f2",
+    "Rating": "1563",
+    "RatingDeviation": "85",
+    "Popularity": "79",
+    "NbPlays": "136",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short smotheredMate",
+    "GameUrl": "https://lichess.org/XDfLy2os#27",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Queens_Knight_Defense"
+  },
+  {
+    "PuzzleId": "BGhLf",
+    "FEN": "1r2kb1r/Q2b1ppp/4p3/3p4/4q3/8/PPPBNPPP/R3K2R b KQk - 1 15",
+    "Moves": "b8b2 a7a8 e8e7 a8a3",
+    "Rating": "1590",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "3100",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/dLPmx0pq/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "BGiz8",
+    "FEN": "4rr2/pp3k2/2p1bp1p/3q4/3B1P2/2P5/P3Q1PP/4RR1K w - - 6 22",
+    "Moves": "d4a7 e6h3 e2f3 d5f3",
+    "Rating": "1596",
+    "RatingDeviation": "90",
+    "Popularity": "36",
+    "NbPlays": "47",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/oqRPs0Cn#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BGj7n",
+    "FEN": "r1b2rk1/pp1pppbR/6P1/q3n3/2P2Q2/2N2N2/PP3PP1/R3KB2 b Q - 0 14",
+    "Moves": "f7g6 h7g7 g8g7 f4e5 a5e5 f3e5",
+    "Rating": "1522",
+    "RatingDeviation": "76",
+    "Popularity": "62",
+    "NbPlays": "461",
+    "Themes": "advantage attraction exposedKing kingsideAttack long master middlegame",
+    "GameUrl": "https://lichess.org/QMaORVwh/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nimzowitsch_Variation"
+  },
+  {
+    "PuzzleId": "BGkQj",
+    "FEN": "2r1kb1r/pp1b1p1p/4p2p/3pP3/1n1P4/qN1B1N2/P1Q2PPP/R1R3K1 w k - 8 14",
+    "Moves": "c2c8 d7c8 c1c8 e8d7",
+    "Rating": "1470",
+    "RatingDeviation": "95",
+    "Popularity": "78",
+    "NbPlays": "32",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/nueQ7vNF#27",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  }
+]

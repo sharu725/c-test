@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "KmGew",
+    "FEN": "5rn1/2p2p1k/3p3p/4P1q1/Q3Pp2/2r4P/P4PP1/R1B2RK1 b - - 0 25",
+    "Moves": "d6e5 a4b4 c3h3 b4f8",
+    "Rating": "1734",
+    "RatingDeviation": "100",
+    "Popularity": "83",
+    "NbPlays": "32",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/MxOE4byI/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KmI8c",
+    "FEN": "2rqr1k1/5p1p/4pbpB/pQ6/4N3/P4p1P/1P3P2/4R1K1 b - - 3 26",
+    "Moves": "c8b8 b5e8 d8e8 e4f6 g8h8 f6e8",
+    "Rating": "1690",
+    "RatingDeviation": "80",
+    "Popularity": "85",
+    "NbPlays": "54",
+    "Themes": "advantage attraction fork long middlegame",
+    "GameUrl": "https://lichess.org/sXyQQ3TM/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KmICd",
+    "FEN": "r1q2rk1/pp2bpp1/2p1p2p/3nB3/8/6QP/PPP1NPP1/3RR1K1 b - - 7 19",
+    "Moves": "e7f6 d1d5 f6e5 d5e5",
+    "Rating": "1638",
+    "RatingDeviation": "74",
+    "Popularity": "81",
+    "NbPlays": "230",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/OLpmo55p/black#38",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Tennison_Gambit"
+  },
+  {
+    "PuzzleId": "KmIY3",
+    "FEN": "8/4qk2/r3r2p/2p1R1pP/1nQ5/1P6/5PP1/4R1K1 b - - 1 30",
+    "Moves": "f7f6 c4e4 f6f7 e4g6",
+    "Rating": "1703",
+    "RatingDeviation": "333",
+    "Popularity": "88",
+    "NbPlays": "6",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/JjcIXPZB/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KmKyo",
+    "FEN": "rn1qk3/ppp2p2/4pnrp/6B1/b2Pp2Q/P1P4N/2P2PPP/R3KB1R w KQq - 0 12",
+    "Moves": "g5h6 g6g4 h4g4 f6g4",
+    "Rating": "1695",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "591",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/1xZ6Hxoh#23",
+    "OpeningTags": "French_Defense French_Defense_Winawer_Variation"
+  },
+  {
+    "PuzzleId": "KmLJZ",
+    "FEN": "rn1q1r2/6kp/2pP2p1/pp1p1b2/3P4/3B2Q1/PPP2PPP/R3R1K1 b - - 4 17",
+    "Moves": "f5d3 e1e7 d8e7 d6e7",
+    "Rating": "1602",
+    "RatingDeviation": "80",
+    "Popularity": "77",
+    "NbPlays": "53",
+    "Themes": "advancedPawn advantage middlegame short",
+    "GameUrl": "https://lichess.org/9eSos9nB/black#34",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "KmM9v",
+    "FEN": "2r2nk1/3q1pbp/3p1np1/1p1Pp3/1P2P3/2N3PP/1BQ2P2/R4BK1 w - - 1 22",
+    "Moves": "f1b5 d7b5 c3b5 c8c2",
+    "Rating": "1703",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "3233",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ZLcB5xVi#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KmMBM",
+    "FEN": "2r2rk1/1p3pp1/p1nqpn1p/3pN3/3P1PbQ/2PB4/PP1N2PP/R4RK1 b - - 2 14",
+    "Moves": "b7b5 e5g4 f6g4 h4g4",
+    "Rating": "1627",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "5359",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/7oRrMK4J/black#28",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "KmN9U",
+    "FEN": "2kr2nr/pppb2pp/2n2p2/1B1Np3/1b2P3/5N2/PPP1KPPP/R1B4R b - - 6 10",
+    "Moves": "c6d4 f3d4 e5d4 b5d7 d8d7 d5b4",
+    "Rating": "1625",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "326",
+    "Themes": "crushing long middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/zxxcpeoV/black#20",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  }
+]

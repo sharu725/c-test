@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PGNst",
+    "FEN": "r4rk1/pb6/1ppb1np1/3p4/3P1N2/1P2P2q/PBQ4P/2R2R1K b - - 1 22",
+    "Moves": "f6e4 f4h3 f8f1 c1f1",
+    "Rating": "1175",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "627",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/VgrQGGNG/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGOQL",
+    "FEN": "5rk1/bpB2p2/p4r1p/P2N1qp1/1PQ5/2P5/6PP/4R2K b - - 1 27",
+    "Moves": "f8c8 d5e7 g8g7 e7f5",
+    "Rating": "1064",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "4252",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/CxgYjWtQ/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGObs",
+    "FEN": "1r3rk1/pbpqbppp/5B2/4p3/7Q/2NB4/PPP2PPP/R4RK1 b - - 0 17",
+    "Moves": "e7f6 h4h7",
+    "Rating": "1074",
+    "RatingDeviation": "77",
+    "Popularity": "83",
+    "NbPlays": "92",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gjWipGN9/black#34",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "PGPJF",
+    "FEN": "r3k3/pp3p2/2pp1Rb1/4p3/4P1P1/1P1P2N1/P1PQ1b2/R1BK2q1 w q - 1 23",
+    "Moves": "g3f1 g1f1 d2e1 f1e1",
+    "Rating": "1029",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "1001",
+    "Themes": "hangingPiece mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PJZtnkeL#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGPbK",
+    "FEN": "r3k2r/pp3ppp/4qn2/8/3PN1bR/2P3P1/PPQ3P1/R3K1N1 w Qkq - 1 17",
+    "Moves": "e1d2 f6e4 c2e4 e6e4",
+    "Rating": "1083",
+    "RatingDeviation": "87",
+    "Popularity": "0",
+    "NbPlays": "48",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/I8dJzYHc#33",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "PGPqD",
+    "FEN": "r3nrk1/2pq2pp/2b2p2/p7/P2P1PP1/1P1P3P/2PNQ3/2KR2R1 b - - 0 21",
+    "Moves": "d7d4 e2e6 g8h8 e6c6",
+    "Rating": "1035",
+    "RatingDeviation": "78",
+    "Popularity": "78",
+    "NbPlays": "58",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/q1rumwcS/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGQ7h",
+    "FEN": "r3r1k1/3qp2p/p4ppP/3b4/5Q2/R2B1P2/1PP3P1/4R1K1 w - - 2 24",
+    "Moves": "a3a6 a8a6 d3a6 d7a7 f4e3 a7a6",
+    "Rating": "1177",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "570",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/kavBELBJ#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PGQAI",
+    "FEN": "r3k2r/1b1q1ppp/p1n5/1pbN4/5B2/8/PP2NPPP/R2Q1RK1 b kq - 2 16",
+    "Moves": "e8g8 d5f6 g7f6 d1d7",
+    "Rating": "1093",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "4500",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/rgNei7Vt/black#32",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "PGTKp",
+    "FEN": "r4rk1/ppp2pp1/1b1pq2p/n6Q/4PB2/2P2N2/P4PPP/4RRK1 b - - 2 18",
+    "Moves": "g8h7 f3g5 h7g8 g5e6",
+    "Rating": "1165",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "467",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/A6AB2veg/black#36",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  }
+]

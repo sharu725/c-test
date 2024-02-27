@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "xjiLF",
+    "FEN": "r4rk1/pp1b1ppp/1q1Pn3/3pQ3/1P1P4/P4N2/4BPPP/R4RK1 w - - 5 19",
+    "Moves": "e5d5 e6f4 d5e5 f4e2 e5e2 d7b5",
+    "Rating": "1990",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "3120",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/MArDAVAt#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "xjiNF",
+    "FEN": "3r1kr1/pp2ppbQ/2p2n1p/2P5/1P1N2P1/4PPq1/P2B2P1/4RRK1 w - - 7 23",
+    "Moves": "h7c2 d8d4 e3d4 f6g4 f3g4 g7d4 d2e3 d4e3 e1e3 g3e3",
+    "Rating": "1928",
+    "RatingDeviation": "135",
+    "Popularity": "29",
+    "NbPlays": "50",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/G5hW1OTP#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xjjY5",
+    "FEN": "6rk/p5p1/2r4p/8/3Bbq2/P1P3R1/1P3PQ1/R5K1 w - - 2 30",
+    "Moves": "g3g7 e4g2 g7g4 f4d4 g4g8 h8g8",
+    "Rating": "1859",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "2251",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/HFssZ65g#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xjjqu",
+    "FEN": "r1bq4/pp2kp2/2p1pN1Q/4P3/1bnP4/8/PP3P1P/R4KR1 b - - 2 18",
+    "Moves": "d8d4 h6f8 e7f8 g1g8 f8e7 g8e8",
+    "Rating": "1901",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "1177",
+    "Themes": "attraction hookMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/fK8I7Qbq/black#36",
+    "OpeningTags": "Slav_Defense Slav_Defense_Slav_Gambit"
+  },
+  {
+    "PuzzleId": "xjjr1",
+    "FEN": "rn1qk2r/pb3ppp/2P1p3/8/1B6/3B1N2/P4PPP/b2QR1K1 b kq - 0 15",
+    "Moves": "b7c6 d1a1 d8d3 a1g7",
+    "Rating": "1901",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "179",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/0L5zGIHF/black#30",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "xjkTE",
+    "FEN": "5r1k/1p5p/p5pP/2n1p1q1/2Pr4/1PQ5/P5B1/3RR1K1 b - - 7 35",
+    "Moves": "d4g4 c3e5 g5e5 e1e5",
+    "Rating": "1913",
+    "RatingDeviation": "83",
+    "Popularity": "93",
+    "NbPlays": "32",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/Aqi3YJHp/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xjkqA",
+    "FEN": "5b1k/1q4pn/4Q3/5N1N/p3P2P/PP3r2/K1p5/2B4R w - - 0 36",
+    "Moves": "f5h6 b7b3 e6b3 a4b3 a2a1 g7h6",
+    "Rating": "1914",
+    "RatingDeviation": "122",
+    "Popularity": "56",
+    "NbPlays": "56",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/Sgvow3Ar#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xjlZS",
+    "FEN": "r4r2/pb1p2nk/1p1q3B/4P1p1/8/3B1Q2/P1P3P1/5R1K b - - 0 28",
+    "Moves": "h7h6 f3h3 g7h5 e5d6 f8f1 d3f1",
+    "Rating": "1914",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "90",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/MAlnbdP3/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xjlvc",
+    "FEN": "r6k/6pp/Np5q/4pp2/PPQ2b2/2P4P/N2r2P1/2B2R1K b - - 0 29",
+    "Moves": "d2g2 h1g2 h6g5 g2h1",
+    "Rating": "1937",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "1102",
+    "Themes": "advantage defensiveMove hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/UdgvABYl/black#58",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "M0PMU",
+    "FEN": "r2qkb1r/pp1n1ppp/4pnb1/1B1pN1P1/Q7/4P2P/PP1P1P2/RNB1K2R b KQkq - 0 10",
+    "Moves": "f8d6 e5g6 h7g6 g5f6",
+    "Rating": "2057",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "72",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/uC8oXyeM/black#20",
+    "OpeningTags": "English_Opening English_Opening_Caro-Kann_Defensive_System"
+  },
+  {
+    "PuzzleId": "M0PsV",
+    "FEN": "r1b1kr2/pp2B2p/8/7q/4Q3/2P5/PP2KbPP/R4B1R w q - 2 16",
+    "Moves": "g2g4 h5g4 e4g4 c8g4 e2d2 e8e7",
+    "Rating": "2286",
+    "RatingDeviation": "83",
+    "Popularity": "89",
+    "NbPlays": "957",
+    "Themes": "crushing exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/LUh5TpJB#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "M0QtV",
+    "FEN": "1qb2rk1/5pb1/p2N3p/6p1/2R2P2/4P1P1/Pr2B1P1/3Q1K1R w - - 5 23",
+    "Moves": "c4c8 f8c8 d6c8 b2b1 c8e7 g8f8 f1f2 b1d1 h1d1 f8e7",
+    "Rating": "2256",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "859",
+    "Themes": "crushing middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/j22TJOfR#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M0R4G",
+    "FEN": "r3r1k1/pp3ppp/3b4/3P4/1PBp1P1q/3P2n1/P1PB2Q1/R2N1RK1 w - - 1 24",
+    "Moves": "f1f3 g3e2 g1f1 e2f4 f3f4 d6f4",
+    "Rating": "2226",
+    "RatingDeviation": "86",
+    "Popularity": "90",
+    "NbPlays": "539",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/7Sd7p36L#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M0Rge",
+    "FEN": "r1bqk2r/ppp2pbp/3p1np1/3Np1B1/2PnP3/3B4/PP2NPPP/R2QK2R b KQkq - 1 8",
+    "Moves": "c7c5 e2d4 c5d4 d1f3",
+    "Rating": "2061",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1351",
+    "Themes": "advantage clearance middlegame short",
+    "GameUrl": "https://lichess.org/Mw7zGqi7/black#16",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "M0RtX",
+    "FEN": "r2q1rk1/4ppbp/p1pp2p1/5P2/Pp2P3/3PBQ1P/BPP3P1/5RK1 b - - 0 18",
+    "Moves": "g7b2 f5g6 h7g6 a2f7 g8g7 f3f4",
+    "Rating": "2085",
+    "RatingDeviation": "126",
+    "Popularity": "83",
+    "NbPlays": "12",
+    "Themes": "advantage kingsideAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/1XTgA22P/black#36",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "M0S99",
+    "FEN": "4rbk1/pbpq4/1p4pp/3p1rB1/3P3P/2N2PQ1/PP4P1/R3R1K1 w - - 0 24",
+    "Moves": "g5h6 e8e1 a1e1 f8h6 g3g6 h6g7 e1e8 f5f8",
+    "Rating": "2074",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "1357",
+    "Themes": "advantage intermezzo middlegame veryLong",
+    "GameUrl": "https://lichess.org/ahuRXohu#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M0Si8",
+    "FEN": "2r4k/p2rb2b/1q2pp2/p2pB2p/3N3P/1PP1PP2/P2Q4/R5RK w - - 2 25",
+    "Moves": "e3e4 f6e5 d2h6 e7f8 h6f6 f8g7 g1g7 d7g7",
+    "Rating": "2178",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "1058",
+    "Themes": "crushing hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/Q6dQKZwG#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M0Sk7",
+    "FEN": "r5k1/pppn1ppp/1b3r2/8/3qP2Q/2N1R2P/PBPP1PP1/R5K1 b - - 5 19",
+    "Moves": "d4d2 a1d1 d2c2 e3e2 c2e2 c3e2 b6f2 h4f2 f6f2 g1f2",
+    "Rating": "2380",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "262",
+    "Themes": "advantage middlegame trappedPiece veryLong",
+    "GameUrl": "https://lichess.org/v1kGMgD3/black#38",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  }
+]

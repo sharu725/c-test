@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SjkiL",
+    "FEN": "r2q1rk1/ppp2ppp/2n1p3/3p4/1bPP2b1/2N1PNP1/PPQ1BPP1/2R1K2R b K - 2 11",
+    "Moves": "g4f3 c2h7",
+    "Rating": "1481",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "1205",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/G1lcBSu4/black#22",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "Sjpcn",
+    "FEN": "r3k2r/ppb2p2/3q2pp/2np4/1B1Qp3/P3P1nP/NPP2P2/R3NRK1 w kq - 0 20",
+    "Moves": "b4c5 g3e2 g1h1 d6h2",
+    "Rating": "1597",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "3610",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/6783uVUz#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Sjr1X",
+    "FEN": "r1b1k2r/1p2bpp1/p1n2nBp/4N3/5P2/2N1p3/PPQ3PP/3R2K1 b kq - 0 16",
+    "Moves": "f7g6 c2g6 e8f8 g6f7",
+    "Rating": "1402",
+    "RatingDeviation": "93",
+    "Popularity": "67",
+    "NbPlays": "46",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/9DWAioTR/black#32",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Normal_Defense"
+  },
+  {
+    "PuzzleId": "SjusT",
+    "FEN": "5r1k/pQ1R2pp/1r6/8/8/2P1P3/q4PPP/5RK1 w - - 1 26",
+    "Moves": "b7a7 a2f2 f1f2 b6b1 d7d1 b1d1 f2f1 d1f1",
+    "Rating": "1429",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "4155",
+    "Themes": "endgame mate mateIn4 sacrifice veryLong",
+    "GameUrl": "https://lichess.org/6VSWh4eu#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Sjvl0",
+    "FEN": "8/8/6pk/7p/7K/2P2RPP/2r5/8 w - - 1 44",
+    "Moves": "g3g4 g6g5 h4g3 h5h4",
+    "Rating": "1493",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "11309",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/nrrrZBnm#87",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Sjx7k",
+    "FEN": "rnr3k1/3q2p1/1p4R1/1N4PQ/p2nBB1P/P2P4/2P2P2/1K5R w - - 1 30",
+    "Moves": "g6d6 d7b5 b1c1 c8c2 c1d1 b5b1 f4c1 b1c1",
+    "Rating": "1522",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "11189",
+    "Themes": "hangingPiece mate mateIn4 middlegame queensideAttack veryLong",
+    "GameUrl": "https://lichess.org/YGFCXf1W#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SjzHk",
+    "FEN": "2R3k1/p4pp1/4pnp1/3p4/P7/1P3N1P/1r4PK/8 b - - 3 34",
+    "Moves": "g8h7 f3g5 h7h6 g5f7 h6h5 c8h8 f6h7 h8h7",
+    "Rating": "1484",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2012",
+    "Themes": "endgame mate mateIn4 veryLong",
+    "GameUrl": "https://lichess.org/4R0Pd3HI/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Sk0so",
+    "FEN": "r2qn3/1p4kp/p2pb1p1/1npNp3/4P2P/2P3P1/P4QB1/5R1K b - - 3 23",
+    "Moves": "e6d5 f2f8",
+    "Rating": "1472",
+    "RatingDeviation": "93",
+    "Popularity": "83",
+    "NbPlays": "1940",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/yqEy2g5e/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Sk36g",
+    "FEN": "r2q1rk1/1pp2ppp/3p4/p1n5/Pn2PP2/1PN1Q3/1PB3PP/2KR3R w - - 5 16",
+    "Moves": "c2b1 c5b3",
+    "Rating": "1480",
+    "RatingDeviation": "123",
+    "Popularity": "86",
+    "NbPlays": "104",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/WzrK2JFs#31",
+    "OpeningTags": "Scotch_Game Scotch_Game_Potter_Variation"
+  }
+]

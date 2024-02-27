@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CTw7L",
+    "FEN": "r4rk1/3q1ppp/pnpbp3/8/3P2Q1/2N5/PP3PPP/R1B1R1K1 w - - 0 16",
+    "Moves": "c1h6 f7f5 g4g7 d7g7 h6g7 g8g7",
+    "Rating": "1819",
+    "RatingDeviation": "76",
+    "Popularity": "80",
+    "NbPlays": "50",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/ArJonkO5#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "CTwG8",
+    "FEN": "r2q1bnr/pQ3ppp/4p1k1/3p2P1/3P3P/6N1/PPP2P2/R1B1K1Nb b Q - 0 17",
+    "Moves": "h7h6 h4h5 g6h7 b7f7 d8g5 c1g5",
+    "Rating": "1817",
+    "RatingDeviation": "74",
+    "Popularity": "75",
+    "NbPlays": "119",
+    "Themes": "crushing deflection long middlegame",
+    "GameUrl": "https://lichess.org/UfjwZKYw/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "CTwj0",
+    "FEN": "r4rk1/4qpp1/bPp1pn1p/p7/P1QP4/2N1PN1P/1P3PP1/R4RK1 w - - 1 19",
+    "Moves": "c4c6 a8c8 c6b5 a6b5",
+    "Rating": "1984",
+    "RatingDeviation": "80",
+    "Popularity": "80",
+    "NbPlays": "42",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/q95IAJC4#37",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Modern_Variation"
+  },
+  {
+    "PuzzleId": "CTxyP",
+    "FEN": "r2q1br1/2pbk3/p1p1p2p/4BppQ/3P4/2P5/PP1N1PPP/2KR3R w - - 5 16",
+    "Moves": "h2h4 g5g4 h1e1 d7e8",
+    "Rating": "1924",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "5131",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/jLzbO6sT#31",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "CTyKB",
+    "FEN": "r2qn1rk/pR5p/2p2b2/2Pp1p2/4pQ2/2N4P/P3BPP1/2BR2K1 b - - 2 24",
+    "Moves": "f6c3 b7h7 h8h7 f4h6",
+    "Rating": "1931",
+    "RatingDeviation": "96",
+    "Popularity": "15",
+    "NbPlays": "32",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/YRaRauTi/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CTyO1",
+    "FEN": "2k2rr1/Qp6/p1bp4/6n1/8/N1B3PK/PP3P2/3R4 w - - 1 35",
+    "Moves": "h3h2 g8h8 c3h8 f8h8 h2g1 h8h1",
+    "Rating": "1950",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "7061",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/hEoe9Pkp#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CTzRl",
+    "FEN": "r3k2r/p4ppp/b1p1p3/2qpPn2/8/1PN5/P1P1NPPP/R2Q1RK1 b kq - 1 12",
+    "Moves": "f5d4 d1d4 c5d4 e2d4",
+    "Rating": "1961",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "79",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/loMLKStA/black#24",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "CU0Nm",
+    "FEN": "3r1r2/pp4k1/3qb1pp/3N4/2Pnpp2/1P6/P2QBPPP/3RK2R b K - 1 23",
+    "Moves": "d4e2 d2b2 e2d4 b2d4 g7g8 d5f6 g8f7 d4d6",
+    "Rating": "1985",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "3013",
+    "Themes": "advantage fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/NLPVhCRx/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CU0vn",
+    "FEN": "r3r1k1/pp1q1pb1/6P1/4n2p/3p4/PB1P2NK/1PPQ1nP1/R1B2R2 w - - 1 22",
+    "Moves": "h3h2 e5f3 g2f3 d7h3 h2g1 h3g3",
+    "Rating": "1968",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "4172",
+    "Themes": "deflection long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/SbvfA8PE#43",
+    "OpeningTags": ""
+  }
+]

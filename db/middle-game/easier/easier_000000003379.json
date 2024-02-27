@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "AGE27",
+    "FEN": "r1b1r1k1/ppp4p/3p4/3P1Pqn/2P5/2NBnR1P/PP1QN1P1/R5K1 w - - 3 19",
+    "Moves": "c3e4 g5g2",
+    "Rating": "1047",
+    "RatingDeviation": "112",
+    "Popularity": "88",
+    "NbPlays": "64",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gu8BiASB#37",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Samisch_Variation"
+  },
+  {
+    "PuzzleId": "AGEop",
+    "FEN": "rn1q1rk1/1bp1bppp/p3p3/1p6/1P1PN3/3Q1N2/P1P1BPPP/3R1RK1 w - - 3 14",
+    "Moves": "e4g5 e7g5 f3g5 d8g5",
+    "Rating": "1151",
+    "RatingDeviation": "87",
+    "Popularity": "67",
+    "NbPlays": "26",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/2TrSrnU7#27",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "AGFou",
+    "FEN": "r2qk2r/pp1nbpp1/3p3p/1B1Pp3/8/8/PPP2PPP/R1BQ1RK1 w kq - 3 13",
+    "Moves": "f2f4 d8b6 g1h1 b6b5",
+    "Rating": "1044",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "171",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/EiaHLXqt#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Moscow_Variation"
+  },
+  {
+    "PuzzleId": "AGGYu",
+    "FEN": "r3k2r/pp4bp/8/6N1/1q2p3/4P1P1/2PRQPP1/R3K3 b Qkq - 0 21",
+    "Moves": "g7a1 e2h5 e8f8 h5f7",
+    "Rating": "1157",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "334",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Bzk8fIeG/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AGGe7",
+    "FEN": "1r1n1r1k/2p3p1/1p1bp3/p4p2/3P1q2/PP1B3P/1BP1QPP1/R2R2K1 w - - 2 21",
+    "Moves": "b2c1 f4h2 g1f1 h2h1",
+    "Rating": "1043",
+    "RatingDeviation": "107",
+    "Popularity": "53",
+    "NbPlays": "19",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/7JoLTh54#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AGJQn",
+    "FEN": "5rk1/pp2r1b1/3p2Rp/6N1/4P2Q/8/q5PP/2R3K1 w - - 1 23",
+    "Moves": "h4h6 a2f2 g1h1 f2f1 c1f1 f8f1",
+    "Rating": "1009",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "676",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/J0F3Vq4M#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AGMHU",
+    "FEN": "2kr4/pp3p2/2nr4/3P1b1q/5P2/P1N3P1/1PPQ1KB1/R5N1 w - - 1 25",
+    "Moves": "c3b5 d6d5 d2d5 d8d5",
+    "Rating": "1115",
+    "RatingDeviation": "80",
+    "Popularity": "87",
+    "NbPlays": "56",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/U0X33Vzn#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AGO4R",
+    "FEN": "7r/2pb1kpp/3b1p2/8/3Q4/4P3/PPq3PP/R1B2RK1 w - - 0 19",
+    "Moves": "e3e4 d6c5 c1e3 c5d4",
+    "Rating": "1111",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "372",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/8g4moDel#37",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "AGRDC",
+    "FEN": "r2qk2r/p1p2ppp/3b4/3p4/8/5Q2/PPP2PPP/R1B2RK1 w kq - 0 13",
+    "Moves": "f3d5 d6h2 g1h2 d8d5",
+    "Rating": "1094",
+    "RatingDeviation": "88",
+    "Popularity": "77",
+    "NbPlays": "311",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/WawJuxZk#25",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  }
+]

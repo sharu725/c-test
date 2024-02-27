@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FvB3g",
+    "FEN": "r4rk1/3p1p1p/p3p1p1/1p6/3BbP1Q/P7/1Pq2RPP/R5K1 b - - 1 18",
+    "Moves": "c2d3 h4f6 d3d4 f6d4",
+    "Rating": "1541",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2927",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/RlZEWbiN/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kan_Variation"
+  },
+  {
+    "PuzzleId": "FvBdk",
+    "FEN": "6qk/ppp1r2p/n2bB2R/5Q2/3P4/8/PPP2PPP/6K1 b - - 9 23",
+    "Moves": "g8g7 h6h7 g7h7 f5f8 h7g8 f8g8",
+    "Rating": "1473",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "576",
+    "Themes": "fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/MPulfd7t/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FvCdC",
+    "FEN": "3r1k1r/1Q4b1/3p2pp/1B1P1b2/5q2/5N2/PP4PP/K2R3R w - - 3 25",
+    "Moves": "h1e1 g7b2 a1b2 f4b4 b2a1 b4c3",
+    "Rating": "1402",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "127",
+    "Themes": "attraction long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/d6V3LZpE#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FvE9m",
+    "FEN": "2k3r1/ppp2p1p/8/2q5/2p1Q3/2N4b/PP3PrP/3RR2K b - - 1 19",
+    "Moves": "b7b6 e4a8",
+    "Rating": "1418",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "322",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/DzwpS2kX/black#38",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "FvEOb",
+    "FEN": "2rq1rk1/1p3ppb/p3p1np/3p3B/4N3/4P1Q1/PPP3PP/3R1RK1 b - - 3 18",
+    "Moves": "d8h4 h5g6 h4g3 g6h7 g8h7 e4g3",
+    "Rating": "1585",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "748",
+    "Themes": "advantage kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/8n90oD71/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "FvEwM",
+    "FEN": "2r1k3/1p1qbp2/pBb1p3/3pPp1p/2P2P2/8/PPN2QrP/2RR3K w - - 0 27",
+    "Moves": "f2g2 d5d4 c2d4 c6g2",
+    "Rating": "1536",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "6418",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame pin quietMove short",
+    "GameUrl": "https://lichess.org/sSC3IQfh#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FvFUn",
+    "FEN": "r6k/2n1N1rp/3p1Qp1/qp1P4/4P3/p4PP1/p1P5/2K4R b - - 1 33",
+    "Moves": "a8e8 h1h7 h8h7 f6h4",
+    "Rating": "1565",
+    "RatingDeviation": "88",
+    "Popularity": "92",
+    "NbPlays": "209524",
+    "Themes": "anastasiaMate attraction kingsideAttack master mate mateIn2 middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/aib8g54m/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FvGPh",
+    "FEN": "3qr3/1p5Q/p2kn1P1/2pp4/8/P1NP4/1PP3r1/2K1R2R w - - 3 29",
+    "Moves": "e1g1 d8g5 c1b1 g2g1 h1g1 g5g1",
+    "Rating": "1474",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "4300",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/jEECuD7u#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FvHWU",
+    "FEN": "2kr1b1r/ppp3p1/4np2/4p2p/4P2P/2P1B1P1/PPK2PB1/R6R b - - 4 17",
+    "Moves": "f8c5 g2h3 c8b8 h3e6 c5e3 f2e3",
+    "Rating": "1596",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "978",
+    "Themes": "crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/6imdCX0F/black#34",
+    "OpeningTags": "Russian_Game Russian_Game_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "u8tD3",
+    "FEN": "r2qR2k/pp3Qbp/3BN1p1/2P5/2b3P1/2N2P2/PP3K1P/8 b - - 0 25",
+    "Moves": "d8e8 f7g7",
+    "Rating": "1011",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "78",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/LR48kE7V/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "u8tLs",
+    "FEN": "1k5r/p2r1ppp/BpR1b3/b3P3/3p3P/8/P3KPP1/2R5 b - - 1 31",
+    "Moves": "e6d5 c6c8 h8c8 c1c8",
+    "Rating": "1046",
+    "RatingDeviation": "77",
+    "Popularity": "68",
+    "NbPlays": "98",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/jhliJfNv/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "u8tme",
+    "FEN": "1k6/pp4p1/1qp1Q3/6P1/5P1P/2P1b2R/PPKr4/3rBR2 w - - 5 35",
+    "Moves": "e1d2 d1d2 c2b1 b6b2",
+    "Rating": "1072",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "988",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/xpBBKe9i#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "u8tt4",
+    "FEN": "r1bq1rk1/pp3pp1/7p/3Pp3/8/P1PB4/1P4PP/R2Q1RK1 b - - 0 16",
+    "Moves": "d8d5 d3h7 g8h7 d1d5",
+    "Rating": "1037",
+    "RatingDeviation": "83",
+    "Popularity": "80",
+    "NbPlays": "139",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/rF9Gyqs7/black#32",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Gunsberg_Variation"
+  },
+  {
+    "PuzzleId": "u8u7w",
+    "FEN": "r3k2r/1pq1bppp/3p1n2/p2Pp1B1/1nP1P3/P1N2b2/1Q2BPPP/R3K2R w KQkq - 0 16",
+    "Moves": "e2f3 b4d3 e1f1 d3b2",
+    "Rating": "1003",
+    "RatingDeviation": "84",
+    "Popularity": "92",
+    "NbPlays": "148",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/MpEdxAOd#31",
+    "OpeningTags": "Rat_Defense Rat_Defense_Small_Center_Defense"
+  },
+  {
+    "PuzzleId": "u8uHJ",
+    "FEN": "r6r/1pq2kp1/p4np1/3p2Q1/2pP4/2P1B3/PP1N1KPb/R4R2 b - - 1 22",
+    "Moves": "h2g3 g5g3 c7g3 f2g3",
+    "Rating": "1197",
+    "RatingDeviation": "118",
+    "Popularity": "58",
+    "NbPlays": "52",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/VBLA1Kji/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "u8ugw",
+    "FEN": "r2qkb1r/pp3ppp/1n1p1n2/2pPp3/2P1P1b1/2N2NP1/PP3PBP/R1BQ1RK1 b kq - 3 9",
+    "Moves": "b6c4 d1a4 g4d7 a4c4",
+    "Rating": "1089",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "216",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/y8E1q0RE/black#18",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "u8vbA",
+    "FEN": "r1bq1rk1/p5pp/2p5/n3pp2/8/P2B1N1P/1PPP1KP1/RNBQ4 w - - 0 15",
+    "Moves": "f3e5 d8d4 f2f1 d4e5",
+    "Rating": "1198",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "790",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/MYYb718c#29",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "u8x23",
+    "FEN": "r1bq1rk1/pp2bppp/3p1n2/2p3B1/2B1P3/2N2Q2/PPP2PPP/R3K2R w KQ - 0 11",
+    "Moves": "c3d5 f6d5 c4d5 e7g5",
+    "Rating": "1196",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4187",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/nfPOh7NU#21",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  }
+]

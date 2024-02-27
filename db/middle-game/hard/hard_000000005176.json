@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DTORP",
+    "FEN": "rnbk2nr/1p1p4/2p2p2/p1b1q3/2P1P1p1/N1NB2P1/PP1B3P/R2Q1RK1 w - - 1 17",
+    "Moves": "g1g2 h8h2 g2h2 e5h5 h2g2 h5h3",
+    "Rating": "1717",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "348",
+    "Themes": "attraction long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/wO7j4sVB#33",
+    "OpeningTags": "Goldsmith_Defense Goldsmith_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "DTPcN",
+    "FEN": "r2q1rk1/pb3pp1/1p5p/3pP1b1/3P4/2NB1Q1R/PP4PP/R5K1 b - - 0 17",
+    "Moves": "f7f6 f3f5 f6e5 f5h7",
+    "Rating": "1664",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "152",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/f4AI2gwb/black#34",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Modern_Variation"
+  },
+  {
+    "PuzzleId": "DTPmo",
+    "FEN": "r4rk1/pp1bnppp/1b1p1q2/3P4/2Q1N3/B4N2/P4PPP/R3R1K1 b - - 6 19",
+    "Moves": "f6f4 a3d6 f4f5 d6e7",
+    "Rating": "1639",
+    "RatingDeviation": "74",
+    "Popularity": "83",
+    "NbPlays": "104",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/gxoEbjHq/black#38",
+    "OpeningTags": "Italian_Game Italian_Game_Evans_Gambit"
+  },
+  {
+    "PuzzleId": "DTQA3",
+    "FEN": "b4r1k/5ppp/p5r1/4P2n/8/1QN1B2P/PPP3PK/3R1R2 w - - 3 26",
+    "Moves": "b3f7 g6g2 h2h1 h5g3",
+    "Rating": "1790",
+    "RatingDeviation": "89",
+    "Popularity": "63",
+    "NbPlays": "78",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/nfIuwPg2#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DTRgR",
+    "FEN": "2b1rknr/2p4p/pp2Pbp1/8/1PB1N3/P3R3/2P2PPP/4R1K1 b - - 4 22",
+    "Moves": "f6d4 e3f3 f8g7 f3f7",
+    "Rating": "1700",
+    "RatingDeviation": "137",
+    "Popularity": "-62",
+    "NbPlays": "12",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/0Uj2Dm3U/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DTS4S",
+    "FEN": "1k1r1bnr/p1p2ppp/1p6/8/2PBQ3/8/3q1PPP/1R1R2K1 b - - 1 18",
+    "Moves": "d8d4 e4e8 b8b7 d1d2",
+    "Rating": "1783",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "87",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/EQh8ehLU/black#36",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "DTTQA",
+    "FEN": "2R1Rr1k/p2r2bp/1p3pp1/1P6/3q1p2/5B1P/P3QPP1/6K1 b - - 1 26",
+    "Moves": "d7d8 c8d8 d4d8 e8d8",
+    "Rating": "1706",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "399",
+    "Themes": "crushing master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/x1R1ySt8/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DTUUU",
+    "FEN": "r2q2k1/1p3ppp/1R1b4/5Q2/2pP4/2P1PBP1/5P1P/rR4K1 w - - 1 25",
+    "Moves": "f3d5 d8b6 f5f7 g8h8 b1a1 a8a1",
+    "Rating": "1648",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1624",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/RZz4rzFy#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DTUVA",
+    "FEN": "1r3k1r/5p1p/1q1p1p2/2bQ1N2/p3P3/1P5P/P1P3P1/2KR3R w - - 2 20",
+    "Moves": "f5h6 c5e3 c1b1 e3h6",
+    "Rating": "1692",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "433",
+    "Themes": "advantage fork middlegame pin short",
+    "GameUrl": "https://lichess.org/TI54lQ5S#39",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "WwbNd",
+    "FEN": "3r1rk1/5p1p/p2p1Qp1/8/P3P3/1pp2P2/1q3P1P/1BRR3K w - - 2 31",
+    "Moves": "c1c3 d8c8 d1c1 b2c1 c3c1 c8c1 h1g2 c1b1",
+    "Rating": "2144",
+    "RatingDeviation": "147",
+    "Popularity": "76",
+    "NbPlays": "20",
+    "Themes": "equality fork middlegame veryLong xRayAttack",
+    "GameUrl": "https://lichess.org/QaADsXmp#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WwbqC",
+    "FEN": "r1b1r2k/ppp1Npbp/6p1/8/5B2/2P2P1P/PP3P2/2KR3R b - - 2 16",
+    "Moves": "e8e7 d1d8 g7f8 f4h6 c8d7 d8a8 e7e8 a8e8",
+    "Rating": "2142",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "4901",
+    "Themes": "crushing middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/pKGzULrO/black#32",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "Wwd46",
+    "FEN": "1rbq1rk1/p3bppp/1ppp4/3B4/3QPP2/1P6/P1P3PP/R1B2RK1 w - - 0 13",
+    "Moves": "c1b2 e7f6 e4e5 d6e5 f4e5 f6e7 e5e6 e7c5 e6f7 g8h8 d4c5 b6c5",
+    "Rating": "2179",
+    "RatingDeviation": "139",
+    "Popularity": "71",
+    "NbPlays": "19",
+    "Themes": "crushing middlegame pin quietMove veryLong",
+    "GameUrl": "https://lichess.org/fZPqnxr2#25",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "Wwd4W",
+    "FEN": "3r3k/4n1p1/2p1B2p/pp4q1/3r4/P4R1P/1PQ3P1/5R1K b - - 1 28",
+    "Moves": "d4d2 f3f8 e7g8 c2e4 g5e7 e6g8 e7e4 g8d5 d8f8 f1f8 h8h7 d5e4",
+    "Rating": "2293",
+    "RatingDeviation": "143",
+    "Popularity": "77",
+    "NbPlays": "15",
+    "Themes": "crushing discoveredAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/dXoAtFGQ/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WwdAy",
+    "FEN": "r4rk1/p1q1bR2/1p2p1pp/3pP2N/3P2Q1/1p2P2P/P1P3P1/R5K1 b - - 0 19",
+    "Moves": "g8f7 a1f1 f7e8 h5g7",
+    "Rating": "2102",
+    "RatingDeviation": "80",
+    "Popularity": "91",
+    "NbPlays": "822",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/hxnwiI3E/black#38",
+    "OpeningTags": "Bird_Opening Bird_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "WwdNU",
+    "FEN": "4nrk1/5pp1/1p5p/3p1B2/3P3B/2q1PN2/Pb3PPP/1K1R3R w - - 0 20",
+    "Moves": "h4e7 b2a3 e7a3 c3a3",
+    "Rating": "2122",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "180",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/QKKnrIaR#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WwfQ8",
+    "FEN": "2r2rk1/1R3pp1/5n1p/p2P4/q1PQp3/8/4B1PP/3R3K b - - 1 27",
+    "Moves": "f8e8 d1a1 a4c2 b7b2 c2b2 d4b2",
+    "Rating": "2188",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "525",
+    "Themes": "crushing long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/ozzXUS5T/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WwfT0",
+    "FEN": "r3r3/1ppknppp/p2p1q2/3P4/8/N1P5/PP3PPP/R2QR1K1 b - - 1 15",
+    "Moves": "a8d8 d1g4 e7f5 g4a4",
+    "Rating": "2155",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "731",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/3Gq91Hnn/black#30",
+    "OpeningTags": "Scotch_Game Scotch_Game_Meitner_Variation"
+  },
+  {
+    "PuzzleId": "Wwfcj",
+    "FEN": "3r2k1/1pq3bp/p1n1ppp1/P1p5/2PnN3/2Q3PP/3R1PB1/3R2K1 w - - 0 30",
+    "Moves": "e4c5 d4e2 d2e2 d8d1 g1h2 c6d4 c5e6 d4e2",
+    "Rating": "2198",
+    "RatingDeviation": "82",
+    "Popularity": "88",
+    "NbPlays": "138",
+    "Themes": "advantage deflection discoveredAttack kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/vmjNdDgU#59",
+    "OpeningTags": ""
+  }
+]

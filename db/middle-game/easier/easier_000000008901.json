@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QzPav",
+    "FEN": "2r1rk2/pb2p1bp/1p2Qp1n/2P2qN1/2BP4/8/PB4PP/2R2R1K b - - 0 27",
+    "Moves": "b7g2 h1g2 f5g5 g2h1",
+    "Rating": "1070",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "3527",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/veB0Wmop/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QzQOB",
+    "FEN": "5rk1/1p3ppp/1B6/3q4/3n4/3P3P/PPrQ1RP1/R5K1 w - - 0 19",
+    "Moves": "d2f4 d4e2 f2e2 c2e2",
+    "Rating": "1189",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "1591",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/53cFK61H#37",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "QzQuJ",
+    "FEN": "6r1/r1q1pk1p/2Bp1p1B/p2Pnp2/5P2/4Q3/2P3PP/4R1K1 b - - 0 25",
+    "Moves": "e5g4 e3e6 f7g6 e6g8",
+    "Rating": "1187",
+    "RatingDeviation": "82",
+    "Popularity": "88",
+    "NbPlays": "105",
+    "Themes": "crushing deflection middlegame short skewer",
+    "GameUrl": "https://lichess.org/sxd6qlKL/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QzQug",
+    "FEN": "1r2r2k/6q1/5bp1/p1p1pp1p/2B2Q2/1PP1R3/P2P1PPP/4R1K1 w - - 0 30",
+    "Moves": "f4g3 f5f4 g3f4 e5f4 e3e8 b8e8 e1e8 h8h7",
+    "Rating": "1051",
+    "RatingDeviation": "82",
+    "Popularity": "93",
+    "NbPlays": "1063",
+    "Themes": "advantage defensiveMove fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/OB0WxjNp#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QzSgG",
+    "FEN": "6rr/2pk1qpp/pb3p2/1p2pP2/3pP1Q1/1P1P1NRR/1PP3PP/6K1 b - - 5 23",
+    "Moves": "a6a5 f3e5 f6e5 f5f6 d7c6 f6g7",
+    "Rating": "1175",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "5438",
+    "Themes": "advancedPawn crushing discoveredAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/zycNMPMt/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QzTb1",
+    "FEN": "r4Nk1/p1p1qpp1/1p2p2p/8/1bPn4/2NQ2P1/PP2PPbP/R3K2R b KQ - 0 13",
+    "Moves": "g2h1 d3h7 g8f8 h7h8",
+    "Rating": "1080",
+    "RatingDeviation": "87",
+    "Popularity": "90",
+    "NbPlays": "53",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/aF0HhxWT/black#26",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "QzUo3",
+    "FEN": "r1b2n1k/3n3q/p3P2Q/Pp1p1P2/1PpP4/2P4P/2B4K/6R1 w - - 3 36",
+    "Moves": "h6h7 f8h7 e6d7 c8d7",
+    "Rating": "1038",
+    "RatingDeviation": "79",
+    "Popularity": "47",
+    "NbPlays": "84",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/6ebYCaXR#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QzVRb",
+    "FEN": "2kr3r/pp1bbp2/8/3p4/2NP3p/3B1Q2/q5PP/1R2BK2 b - - 1 25",
+    "Moves": "d5c4 f3b7",
+    "Rating": "1065",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "514",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/Zd4eJUVc/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QzWB2",
+    "FEN": "r3r1k1/ppq2pp1/5b1p/3pn3/8/2PB1N1P/PP2QPP1/3RR1K1 b - - 5 17",
+    "Moves": "e5c4 e2e8 a8e8 e1e8",
+    "Rating": "1145",
+    "RatingDeviation": "80",
+    "Popularity": "68",
+    "NbPlays": "82",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/BVgeCBt0/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  }
+]

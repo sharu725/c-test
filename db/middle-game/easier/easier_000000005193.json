@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FlXBG",
+    "FEN": "rnb1k2r/pp3ppp/1qp1pn2/3p4/2PP4/P1P1PN2/1B3PPP/R2QKB1R w KQkq - 4 9",
+    "Moves": "c4c5 b6b2 d1c1 b2c1",
+    "Rating": "1064",
+    "RatingDeviation": "82",
+    "Popularity": "92",
+    "NbPlays": "241",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/3HgV4Ylk#17",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Normal_Defense"
+  },
+  {
+    "PuzzleId": "FlY2c",
+    "FEN": "r1q2rk1/p2nbppp/1pp1pn2/8/Q1pP4/4BPP1/PP1N1PBP/R4RK1 w - - 0 13",
+    "Moves": "d2c4 b6b5 a4c2 b5c4",
+    "Rating": "1087",
+    "RatingDeviation": "83",
+    "Popularity": "58",
+    "NbPlays": "30",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/1gJyyvNV#25",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "FlZmn",
+    "FEN": "r1b1k2r/p2p1ppp/1p6/8/1QB1q3/8/PP3PPP/n1B2RK1 b kq - 1 14",
+    "Moves": "a1c2 c4f7 e8f7 b4e4",
+    "Rating": "1082",
+    "RatingDeviation": "91",
+    "Popularity": "86",
+    "NbPlays": "77",
+    "Themes": "attackingF2F7 crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/BHT7Nfnz/black#28",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Piano"
+  },
+  {
+    "PuzzleId": "FlZuS",
+    "FEN": "r3k2r/ppp3pp/2npBpqn/8/3pP3/2P2Q1P/P1P2PP1/R1B2RK1 w kq - 0 13",
+    "Moves": "c3d4 c6d4 f3d3 d4e6",
+    "Rating": "1079",
+    "RatingDeviation": "84",
+    "Popularity": "93",
+    "NbPlays": "665",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/6WyIbMY0#25",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Piano"
+  },
+  {
+    "PuzzleId": "FlbG6",
+    "FEN": "k1q3r1/pp1r4/2p2p1p/3p1P2/1Q4P1/R6P/PPP2b2/1K1R1B2 b - - 11 31",
+    "Moves": "f2b6 b4b6",
+    "Rating": "1147",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "6957",
+    "Themes": "crushing middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/u7zuNgQG/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Flbf0",
+    "FEN": "r2qkb1r/p1p3p1/2p2n2/3p2P1/Q2Pp1b1/2P5/PP1N2PP/R1B2RK1 b kq - 2 14",
+    "Moves": "f6h5 a4c6 d8d7 c6a8",
+    "Rating": "1006",
+    "RatingDeviation": "79",
+    "Popularity": "79",
+    "NbPlays": "175",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/7xUwnsZm/black#28",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "FlcFi",
+    "FEN": "r2r2k1/p2b2pp/2p1pp2/1pP5/n2P4/P3PB2/3N1PPP/1RR3K1 w - - 8 25",
+    "Moves": "b1b5 c6b5 f3a8 d8a8",
+    "Rating": "1011",
+    "RatingDeviation": "87",
+    "Popularity": "92",
+    "NbPlays": "929",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/nPVmOS4R#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Flct9",
+    "FEN": "3r1r2/1b1N3k/p2p1q1p/P3pP2/Q2p1bP1/R6P/1P3P2/4R1K1 b - - 4 30",
+    "Moves": "f6h4 d7f8 d8f8 a4d7 h7h8 d7b7",
+    "Rating": "1107",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "2036",
+    "Themes": "advantage clearance fork long middlegame",
+    "GameUrl": "https://lichess.org/LHwHzIDz/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FldQg",
+    "FEN": "4r2k/6bp/p1NB2p1/P7/2Q1Bnn1/1R6/5qPP/2R4K w - - 0 34",
+    "Moves": "e4f3 e8e1 c1e1 f2e1 c4f1 e1f1",
+    "Rating": "1152",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "4435",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/PuWPuEbu#67",
+    "OpeningTags": ""
+  }
+]

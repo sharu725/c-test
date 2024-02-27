@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "M1b4m",
+    "FEN": "r5k1/1b3ppp/pp3q2/3P1p2/2P1n3/P3QP2/6PP/R3R1K1 b - - 0 26",
+    "Moves": "e4c5 e3e8 a8e8 e1e8",
+    "Rating": "650",
+    "RatingDeviation": "100",
+    "Popularity": "33",
+    "NbPlays": "32",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/ximbKLlH/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M1bmQ",
+    "FEN": "r4rk1/1pp4p/1n1b2p1/p2p3B/P2P4/1P2R2P/2QN2P1/R1B2q1K w - - 2 22",
+    "Moves": "d2f1 f8f1",
+    "Rating": "656",
+    "RatingDeviation": "98",
+    "Popularity": "71",
+    "NbPlays": "258",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/EaJIn8yU#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M1da1",
+    "FEN": "1k6/ppp2rp1/P2b4/8/1P1PbrNp/2P4P/1R1N2P1/R6K w - - 0 35",
+    "Moves": "d2e4 f4f1 a1f1 f7f1",
+    "Rating": "657",
+    "RatingDeviation": "80",
+    "Popularity": "98",
+    "NbPlays": "718",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/1Ut2DcqJ#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M1e3t",
+    "FEN": "r3r1k1/b1ppqp1p/p2n2p1/1p2P3/8/1PPQ4/PBB2PPP/R3R1K1 w - - 0 19",
+    "Moves": "e5d6 e7e1 a1e1 e8e1",
+    "Rating": "705",
+    "RatingDeviation": "87",
+    "Popularity": "85",
+    "NbPlays": "450",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/HAptG4p3#37",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Classical_Variation"
+  },
+  {
+    "PuzzleId": "M1ejg",
+    "FEN": "rn4k1/1pp2p2/p2pqNbQ/8/2B1P1N1/8/PPP5/2K5 b - - 6 25",
+    "Moves": "e6f6 g4f6",
+    "Rating": "767",
+    "RatingDeviation": "77",
+    "Popularity": "99",
+    "NbPlays": "679",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Akgugkqm/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M1fwN",
+    "FEN": "5r1N/1p1k2pp/2n5/1Qq5/4p2b/2P3Pb/PP1P3P/RNB3KR w - - 2 22",
+    "Moves": "b5c5 f8f1",
+    "Rating": "674",
+    "RatingDeviation": "82",
+    "Popularity": "100",
+    "NbPlays": "84",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/rVwTNLfs#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M1iNE",
+    "FEN": "r1b2rk1/p1p3pp/1p2qp2/4b1B1/4n3/P1P1PN1P/1PQ2PP1/R3KB1R w KQ - 0 14",
+    "Moves": "c2e4 e5c3 b2c3 e6e4",
+    "Rating": "935",
+    "RatingDeviation": "88",
+    "Popularity": "94",
+    "NbPlays": "870",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/Y0wzvUhv#27",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Hartlaub-Charlick_Gambit"
+  },
+  {
+    "PuzzleId": "M1ix3",
+    "FEN": "8/p2q1pkp/3b3n/4n1B1/P7/5PP1/1P3P1P/2RQ1RK1 w - - 0 24",
+    "Moves": "d1d2 e5f3 g1g2 f3d2",
+    "Rating": "813",
+    "RatingDeviation": "101",
+    "Popularity": "94",
+    "NbPlays": "621",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/JYsUTJ0A#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M1kHz",
+    "FEN": "r2q1rk1/1pp2ppp/pb1p1nb1/8/2PP4/1PNn1PP1/PBR1N1BP/3Q1R1K b - - 5 15",
+    "Moves": "d3f2 f1f2 g6c2 d1c2",
+    "Rating": "673",
+    "RatingDeviation": "100",
+    "Popularity": "90",
+    "NbPlays": "206",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/9DbRxQii/black#30",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  }
+]

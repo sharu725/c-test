@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "kZIuH",
+    "FEN": "r1b5/p2kQp2/3Pp3/nq1pP1B1/1p4p1/8/PpP2P2/1K1R4 b - - 1 27",
+    "Moves": "d7c6 e7c7",
+    "Rating": "1356",
+    "RatingDeviation": "383",
+    "Popularity": "63",
+    "NbPlays": "8",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/OqDPtDig/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kZKQr",
+    "FEN": "BR2brk1/5pp1/p3p2p/2P1q3/p1P3n1/4P3/2Q2PPP/5RK1 w - - 1 23",
+    "Moves": "c2b2 e5h2",
+    "Rating": "1362",
+    "RatingDeviation": "101",
+    "Popularity": "67",
+    "NbPlays": "49",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/AnhaTezm#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kZMoQ",
+    "FEN": "r3k2r/p4ppp/2pb4/1p2q3/1P1pP1b1/P2P1P2/B1PN2PP/R3QRK1 w kq - 1 17",
+    "Moves": "f3g4 e5h2 g1f2 d6g3 f2e2 g3e1",
+    "Rating": "1342",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "6531",
+    "Themes": "crushing kingsideAttack long middlegame pin skewer",
+    "GameUrl": "https://lichess.org/uuv9gtug#33",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "kZNey",
+    "FEN": "1r3rk1/p2bppbp/1q1p1Pp1/6B1/8/1pN4P/PPPQ1PP1/2KR3R w - - 0 16",
+    "Moves": "f6g7 b3a2 g7f8q g8f8",
+    "Rating": "1343",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "13481",
+    "Themes": "advancedPawn advantage middlegame short",
+    "GameUrl": "https://lichess.org/b6j7iGS5#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "kZPIq",
+    "FEN": "r1r3k1/5pp1/n3qn2/p2pNP1p/1p1P4/1P2P2P/1B2Q1P1/2R2RK1 b - - 0 27",
+    "Moves": "e6e7 c1c8 a8c8 e2a6",
+    "Rating": "1388",
+    "RatingDeviation": "96",
+    "Popularity": "47",
+    "NbPlays": "26",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/RiroG1GN/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kZPxr",
+    "FEN": "r1b3k1/ppq2ppp/5n2/4r3/8/5Q2/PPB2PPP/R1B1R1K1 w - - 0 17",
+    "Moves": "c1f4 e5e1 a1e1 c7c2",
+    "Rating": "1362",
+    "RatingDeviation": "78",
+    "Popularity": "79",
+    "NbPlays": "139",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/TxIErThr#33",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "kZQ7y",
+    "FEN": "4r2r/2pq3k/1p1p3P/p2P1p2/1nP2Q2/4NP2/1b1KB3/6RR b - - 3 36",
+    "Moves": "h8f8 g1g7 b2g7 h6g7",
+    "Rating": "1342",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "276",
+    "Themes": "advancedPawn crushing discoveredAttack master middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/rKNGBwph/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kZR3V",
+    "FEN": "rn2kbr1/pp2pp1Q/2pp1p2/6q1/2P1N2p/5PP1/PP2BP1P/3R1RK1 b q - 3 15",
+    "Moves": "g8g7 e4g5 g7h7 g5h7",
+    "Rating": "1324",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "630",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/1UgexaCN/black#30",
+    "OpeningTags": "Old_Indian_Defense Old_Indian_Defense_Czech_Variation"
+  },
+  {
+    "PuzzleId": "kZSHd",
+    "FEN": "r1bqk1nr/3p1pbp/p3p1p1/1p1Pn3/4P3/1B3N2/PP3PPP/RNBQK2R w KQkq - 1 10",
+    "Moves": "c1g5 e5f3 d1f3 d8g5",
+    "Rating": "1358",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "347",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/7c5PPJfK#19",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Hyperaccelerated_Dragon"
+  }
+]

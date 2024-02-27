@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "AVjWN",
+    "FEN": "1r2r1k1/2p2pp1/p2b3p/1p1Q4/3B1q2/7P/PPP2PP1/3R1RK1 w - - 3 21",
+    "Moves": "a2a3 f4h2",
+    "Rating": "836",
+    "RatingDeviation": "93",
+    "Popularity": "96",
+    "NbPlays": "174",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/D4Ql2HHT#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AVjy4",
+    "FEN": "r1b1k2r/pppp1ppp/5q2/2b1p3/4Q3/3B1P2/PP1P2PP/n1BK2NR b kq - 0 11",
+    "Moves": "e8g8 e4h7",
+    "Rating": "641",
+    "RatingDeviation": "121",
+    "Popularity": "52",
+    "NbPlays": "39",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/IBfzXTch/black#22",
+    "OpeningTags": "Vienna_Game Vienna_Game_Frankenstein-Dracula_Variation"
+  },
+  {
+    "PuzzleId": "AVkLk",
+    "FEN": "r3r1k1/ppq1bppp/5B2/2p5/8/1P4NP/P1Q1RPP1/4R1K1 b - - 0 22",
+    "Moves": "e7f6 e2e8 a8e8 e1e8",
+    "Rating": "778",
+    "RatingDeviation": "81",
+    "Popularity": "100",
+    "NbPlays": "64",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/deUj3SAg/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AVlNs",
+    "FEN": "5r1k/2Q3p1/4pq1p/8/8/P3P3/5rPP/2R2RK1 w - - 0 25",
+    "Moves": "f1f2 f6f2 g1h1 f2f1 c1f1 f8f1",
+    "Rating": "770",
+    "RatingDeviation": "98",
+    "Popularity": "70",
+    "NbPlays": "137",
+    "Themes": "backRankMate endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/aTyaScVv#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AVllM",
+    "FEN": "2bqk2r/3r1ppp/p7/1p2P1B1/8/1Pn2N2/1PP2PPP/RN2K2R w KQk - 0 15",
+    "Moves": "g5d8 d7d1",
+    "Rating": "999",
+    "RatingDeviation": "86",
+    "Popularity": "94",
+    "NbPlays": "662",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/pIzsXEZg#29",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "AVlmN",
+    "FEN": "r1b1kb1r/pp2pppp/2q5/B7/8/4p3/PPP1NPPP/R2QK2R b KQkq - 1 12",
+    "Moves": "c6g2 d1d8",
+    "Rating": "774",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "169",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/iiS8bSnA/black#24",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "AVoMm",
+    "FEN": "Q1b2r1k/p3q1pp/8/2p5/8/8/PP3nPP/RNB2RK1 w - - 0 18",
+    "Moves": "f1f2 e7e1 f2f1 e1f1",
+    "Rating": "824",
+    "RatingDeviation": "88",
+    "Popularity": "88",
+    "NbPlays": "196",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/iNCo0mRJ#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "AVpNt",
+    "FEN": "r5rk/ppp3p1/3p3R/4q2Q/1P6/P4pR1/5P1K/1B6 b - - 0 30",
+    "Moves": "g7h6 h5h6",
+    "Rating": "977",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "166",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/Nwm32j3n/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AVqTZ",
+    "FEN": "1r3rk1/1b4p1/1p2R2p/p1p4Q/P7/1BqP1P1P/2P3P1/6K1 b - - 0 23",
+    "Moves": "g8h8 e6h6 g7h6 h5h6",
+    "Rating": "978",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "337",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/F5zSirtz/black#46",
+    "OpeningTags": ""
+  }
+]

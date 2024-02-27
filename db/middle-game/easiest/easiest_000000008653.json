@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PePeY",
+    "FEN": "3r2k1/4q1pR/p4p2/3n3Q/r2P4/1p2P3/5PPP/5RK1 b - - 1 33",
+    "Moves": "g8f8 h7h8",
+    "Rating": "770",
+    "RatingDeviation": "208",
+    "Popularity": "-67",
+    "NbPlays": "6",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/aigSXoxA/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PeRBC",
+    "FEN": "r1b1k2r/p3bp1p/2p1p1pP/qp2P1P1/4P3/4B3/PP3PB1/R2QK2R w KQkq - 1 18",
+    "Moves": "d1d2 e7b4 a2a3 b4d2",
+    "Rating": "985",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "480",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/x5KMsxLC#35",
+    "OpeningTags": "Grob_Opening Grob_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "PeRTc",
+    "FEN": "r2qkb1r/5pp1/4p2p/pp2P3/2p1Q3/P1P5/1P3PPP/R1B1K2R b KQkq - 0 15",
+    "Moves": "f8c5 e4c6 e8f8 c6c5",
+    "Rating": "957",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "451",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/W14IvhfM/black#30",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  },
+  {
+    "PuzzleId": "PeS2W",
+    "FEN": "r1b2rk1/1p2b2B/pq3n2/3Pp3/P1p2Pn1/2N5/1PQ1N1P1/R1B1K2R b KQ - 0 17",
+    "Moves": "f6h7 c2h7",
+    "Rating": "802",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "394",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/XjrGw4Gm/black#34",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "PeVll",
+    "FEN": "r5k1/2pb1p1p/1p1p2p1/p1nPr3/P1PbPp2/1PN2Pq1/2QNB1PP/R4R1K w - - 9 22",
+    "Moves": "h2g3 e5h5",
+    "Rating": "899",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "132",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/QWvY5amm#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PeWFo",
+    "FEN": "2kr3r/p1p1bppp/Ppn1pnq1/1P6/6b1/2PPBN2/4BPPP/R1Q2RK1 b - - 0 17",
+    "Moves": "c6e5 f3e5 g4e2 e5g6",
+    "Rating": "727",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "1316",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/dw3vOKuC/black#34",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Tennison_Gambit"
+  },
+  {
+    "PuzzleId": "PeWvY",
+    "FEN": "r2q1rk1/1p1b1pp1/2pp3p/p3p3/P1BbPPnB/2NP3P/1PPQ2PK/R4R2 w - - 1 16",
+    "Moves": "h3g4 d8h4",
+    "Rating": "880",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "529",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/KRv53hkJ#31",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "PeXsO",
+    "FEN": "5rk1/pppr1ppp/8/4q3/4nN2/5Q2/PPP2PPP/R3R1K1 b - - 1 16",
+    "Moves": "e4d2 e1e5 d2f3 g2f3",
+    "Rating": "890",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "150",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/zKCMkpKe/black#32",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "PeYYu",
+    "FEN": "r3k2r/pp3p1p/2p3p1/1B2NnB1/6q1/3Q2Pb/PP3P1P/RN4K1 b kq - 0 17",
+    "Moves": "g4g5 d3d7 e8f8 d7f7",
+    "Rating": "980",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "1973",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Sj7GWuob/black#34",
+    "OpeningTags": "Italian_Game Italian_Game_Other_variations"
+  }
+]

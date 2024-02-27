@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "fBDTV",
+    "FEN": "r4rk1/pp3ppp/2pb4/3p4/3NnPPq/2P1P2P/PP4Q1/R1B1R1K1 b - - 6 18",
+    "Moves": "e4g3 d4f3 h4d8 g2g3",
+    "Rating": "1983",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1394",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/twfikNoP/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Stonewall_Attack"
+  },
+  {
+    "PuzzleId": "fBDsG",
+    "FEN": "r3k2r/p2q1pbp/4p1p1/3p4/4P3/3Q4/PPP3PP/R1B2RK1 b kq - 0 17",
+    "Moves": "d5e4 d3d7 e8d7 f1f7",
+    "Rating": "1975",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1156",
+    "Themes": "attraction crushing middlegame short",
+    "GameUrl": "https://lichess.org/JVrMr5DN/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "fBHdO",
+    "FEN": "r4rk1/pp2q1p1/3p3p/2p1p3/4Pp2/1P1P1P1n/1PPB3N/R2QR1K1 w - - 0 19",
+    "Moves": "g1f1 e7g5 h2g4 h6h5",
+    "Rating": "1930",
+    "RatingDeviation": "83",
+    "Popularity": "73",
+    "NbPlays": "32",
+    "Themes": "crushing middlegame quietMove short",
+    "GameUrl": "https://lichess.org/uhtF95uf#37",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "fBL4k",
+    "FEN": "r3rbk1/1Q1N2p1/p3p1Pp/1p2P3/2n2P2/P3q3/1BP4R/R6K b - - 2 28",
+    "Moves": "c4b2 d7f6 g8h8 h2h6 g7h6 b7h7",
+    "Rating": "1852",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "934",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/2y6nzcxh/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fBLCd",
+    "FEN": "r2qk2r/p4ppb/1pn1p2p/3nP3/2PP1B2/6P1/P1P1Q1BP/1R3RK1 b kq - 0 17",
+    "Moves": "d5f4 g2c6 e8f8 f1f4",
+    "Rating": "1947",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "10321",
+    "Themes": "advantage fork hangingPiece intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/VvHc14dg/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "fBLMX",
+    "FEN": "5r2/ppp5/2kq1r2/2bb2Q1/4B3/8/P4PPP/3R1RK1 b - - 3 24",
+    "Moves": "c5f2 f1f2 f6f2 e4d5",
+    "Rating": "1893",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1219",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/goDHGY7S/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fBLZy",
+    "FEN": "1rbk4/pp3p1B/3p1p2/1q1N4/8/1KQ5/PP3PPP/R7 w - - 2 24",
+    "Moves": "d5b4 c8e6 b3c2 b8c8",
+    "Rating": "1823",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "284",
+    "Themes": "advantage clearance middlegame pin short",
+    "GameUrl": "https://lichess.org/0tn81YEF#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fBLuf",
+    "FEN": "5r2/1ppbqrkp/p2p1np1/3Pp1QP/1PP1P3/P1N5/4BRP1/5RK1 b - - 0 24",
+    "Moves": "f6h5 g5e7 f7e7 f2f8",
+    "Rating": "1897",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "919",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ZExZk3kU/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fBMoZ",
+    "FEN": "r1b1rbk1/pp3pp1/2p5/q2n2R1/3PpB2/2N1P2P/PPQN1P2/R3K3 w Q - 1 18",
+    "Moves": "d2e4 e8e4 c2e4 d5c3 g5a5 c3e4",
+    "Rating": "1908",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "5143",
+    "Themes": "advantage attraction deflection long master middlegame pin",
+    "GameUrl": "https://lichess.org/vUcRuYnj#35",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Exchange_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BpsGD",
+    "FEN": "4r1k1/pp2q1p1/2p2pQ1/2Ppr1pP/6P1/8/PP3PB1/R4K1R w - - 4 21",
+    "Moves": "h5h6 e5e1 a1e1 e7e1",
+    "Rating": "645",
+    "RatingDeviation": "85",
+    "Popularity": "100",
+    "NbPlays": "342",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/wXUMTUhQ#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BpsLV",
+    "FEN": "2r2rk1/ppQ1qppp/4p3/1b6/3Pn3/4PN2/PP3PPP/2R3KR w - - 3 17",
+    "Moves": "c7e7 c8c1 f3e1 c1e1",
+    "Rating": "996",
+    "RatingDeviation": "78",
+    "Popularity": "85",
+    "NbPlays": "132",
+    "Themes": "hangingPiece kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/4Xz0K7Yf#33",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Modern_Variation"
+  },
+  {
+    "PuzzleId": "BpsX6",
+    "FEN": "kr6/1pR5/Q7/p1B4p/PP1PP1pP/2P1q3/6PK/8 b - - 4 33",
+    "Moves": "b7a6 c7a7",
+    "Rating": "921",
+    "RatingDeviation": "164",
+    "Popularity": "54",
+    "NbPlays": "31",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/qS5gf8dh/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Bpsir",
+    "FEN": "3r3k/pp4pp/2p5/5R2/2B5/P3n3/1P2N1PP/2K5 w - - 1 27",
+    "Moves": "f5f4 d8d1",
+    "Rating": "731",
+    "RatingDeviation": "98",
+    "Popularity": "85",
+    "NbPlays": "84",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/djn1At0l#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BpuDJ",
+    "FEN": "5kr1/2q2p2/pp3N2/3P1Q1P/1PP1p3/P7/5R1K/R7 w - - 0 32",
+    "Moves": "h2h3 c7g3",
+    "Rating": "956",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "310",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/rPgY5kri#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BpvVk",
+    "FEN": "R7/P6k/8/1rrp1p2/4p1p1/4P1Pp/5P1P/2R3K1 w - - 0 45",
+    "Moves": "c1c5 b5b1 c5c1 b1c1",
+    "Rating": "814",
+    "RatingDeviation": "83",
+    "Popularity": "97",
+    "NbPlays": "899",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/ACIB03dg#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Bpvg9",
+    "FEN": "7k/2Q3p1/p1n4p/1pq5/8/1BP4P/PP1r1PP1/R5K1 w - - 1 23",
+    "Moves": "a1c1 c5f2 g1h2 f2g2",
+    "Rating": "807",
+    "RatingDeviation": "83",
+    "Popularity": "92",
+    "NbPlays": "48",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/JfKvIxS3#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BpxQH",
+    "FEN": "r3k1r1/pp1qbp2/5n2/3p4/3N3p/3P3P/PPP1QP2/R1B1R1K1 w q - 1 18",
+    "Moves": "g1h1 d7h3",
+    "Rating": "711",
+    "RatingDeviation": "82",
+    "Popularity": "100",
+    "NbPlays": "155",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/xD3hmhTo#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Bird_Variation"
+  },
+  {
+    "PuzzleId": "BpxZ9",
+    "FEN": "8/3p1R1p/3r2pk/8/3r1bPP/5P2/8/4R2K b - - 2 42",
+    "Moves": "f4g3 g4g5 h6h5 f7h7",
+    "Rating": "907",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "123",
+    "Themes": "deflection endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/tT7Ecyzm/black#84",
+    "OpeningTags": ""
+  }
+]

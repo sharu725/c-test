@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BLJRp",
+    "FEN": "r1bqk1nr/pp4bp/3p4/3Q2N1/3PPp2/8/PPP3P1/R1B1K2R b KQkq - 0 13",
+    "Moves": "g8f6 d5f7",
+    "Rating": "1232",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "110",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ktiMxtl9/black#26",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  },
+  {
+    "PuzzleId": "BLJTo",
+    "FEN": "r2qk2r/pp1n1ppp/5B2/5p2/1b1P4/2N3P1/PP3P1P/R2QK1NR b KQkq - 0 11",
+    "Moves": "d7f6 d1a4 d8d7 a4b4",
+    "Rating": "1355",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4332",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/kirOq387/black#22",
+    "OpeningTags": "Slav_Defense Slav_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "BLJwF",
+    "FEN": "rn3k1r/p1q2ppp/1p2p3/1B1Q1N2/5b2/8/PPP3PP/R3R1K1 b - - 0 18",
+    "Moves": "e6d5 e1e8",
+    "Rating": "1235",
+    "RatingDeviation": "88",
+    "Popularity": "75",
+    "NbPlays": "57",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/NuBcJuU5/black#36",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "BLKUs",
+    "FEN": "r3kb2/2Qnqr2/p2p2p1/3P2pp/4Ppb1/1P6/PBPN2PP/R3K2R b KQq - 0 17",
+    "Moves": "d7c5 c7c6 g4d7 c6a8 e7d8 a8d8",
+    "Rating": "1278",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "226",
+    "Themes": "crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/WwxsnNxi/black#34",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "BLLjg",
+    "FEN": "rq2k2r/1b1n1ppp/p3pn2/2B5/Q2P4/3P1B2/P5P1/1R3R1K b kq - 4 22",
+    "Moves": "f6d5 f3d5 b7d5 b1b8",
+    "Rating": "1250",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "199",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/lt6CDe2S/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BLN1w",
+    "FEN": "2kr4/B3b1p1/1p2q3/3p4/1Pp1n2p/2P2N2/P5PP/R3QR1K w - - 0 26",
+    "Moves": "e1e3 e4g3 h2g3 e6e3",
+    "Rating": "1279",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "347",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/oMi1GLB5#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BLOxt",
+    "FEN": "rq3rk1/5pp1/p3pR2/2p3Nb/7Q/1B5P/1PP2P2/6K1 b - - 0 32",
+    "Moves": "b8e5 h4h5 e5g5 h5g5",
+    "Rating": "1256",
+    "RatingDeviation": "104",
+    "Popularity": "0",
+    "NbPlays": "22",
+    "Themes": "crushing hangingPiece middlegame pin short",
+    "GameUrl": "https://lichess.org/iG2F0d8y/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BLP6I",
+    "FEN": "4k2r/1pB1bppp/rnp1p2q/p2p1b2/P2P4/1QP2N1P/3NPPB1/2KR3R w k - 0 21",
+    "Moves": "c7b6 a6b6 b3b6 e7a3 b6b2 a3b2",
+    "Rating": "1376",
+    "RatingDeviation": "164",
+    "Popularity": "-100",
+    "NbPlays": "6",
+    "Themes": "advantage exposedKing long middlegame queensideAttack sacrifice",
+    "GameUrl": "https://lichess.org/d3RiAzhW#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BLQjy",
+    "FEN": "7k/2p3p1/p2p2qp/4p2n/1P2R3/5r2/2PQ2P1/2B2NK1 w - - 0 33",
+    "Moves": "d2e2 f3f1 g1f1 h5g3",
+    "Rating": "1363",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "2695",
+    "Themes": "attraction crushing middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/DGpw6nE7#65",
+    "OpeningTags": ""
+  }
+]

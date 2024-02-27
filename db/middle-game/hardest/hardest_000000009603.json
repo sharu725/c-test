@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Js5Au",
+    "FEN": "r4r2/pb1qppkp/1p1p2p1/2pPn1Q1/7N/6N1/PPP2PPP/2KRR3 b - - 3 17",
+    "Moves": "g7h8 f2f4 f7f6 g5h6 f8g8 f4e5",
+    "Rating": "2312",
+    "RatingDeviation": "87",
+    "Popularity": "74",
+    "NbPlays": "52",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/Kamcqrhh/black#34",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Js5jU",
+    "FEN": "r3rk2/pp3p2/2p5/2n1qQp1/4B3/3PP3/PPP5/2KR3R b - - 1 26",
+    "Moves": "c5e4 f5e5 e8e5 h1h8 f8e7 h8a8",
+    "Rating": "2094",
+    "RatingDeviation": "86",
+    "Popularity": "85",
+    "NbPlays": "29",
+    "Themes": "advantage long middlegame skewer",
+    "GameUrl": "https://lichess.org/pMGXTMiM/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Js6mt",
+    "FEN": "3q3r/5pk1/3p1np1/4pPQ1/1p6/1r1P1R2/6PP/R6K b - - 0 26",
+    "Moves": "d8e8 f5g6 e8e7 g6f7 g7f7 a1f1 f7e8 f3f6 e7h7 h2h3",
+    "Rating": "2229",
+    "RatingDeviation": "117",
+    "Popularity": "85",
+    "NbPlays": "18",
+    "Themes": "advancedPawn advantage defensiveMove discoveredAttack middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/sfj0R1Kf/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Js6st",
+    "FEN": "r4r1k/pp4pp/5q2/3R4/2B3b1/3P4/PPP3PP/R2Q2K1 w - - 0 18",
+    "Moves": "d1d2 a8e8 d3d4 g4e2 d2e2 e8e2",
+    "Rating": "2174",
+    "RatingDeviation": "100",
+    "Popularity": "70",
+    "NbPlays": "19",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/ymDhgZA0#35",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "Js9Bx",
+    "FEN": "3q1r2/p3Nnbk/3p2Qp/1p4p1/4Pp2/1P3P2/P2B4/1K5R b - - 5 28",
+    "Moves": "h7h8 d2c3 g7c3 h1h6 f7h6 g6h6",
+    "Rating": "2329",
+    "RatingDeviation": "81",
+    "Popularity": "81",
+    "NbPlays": "160",
+    "Themes": "deflection exposedKing kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/zr0TSg0z/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Js9SB",
+    "FEN": "4rr2/p5k1/1p1p2pp/5p2/2PN1P2/2Q5/PP1KB2P/1R4qb b - - 3 24",
+    "Moves": "g1b1 d4f5 g7f7 c3g7 f7e6 f5d4",
+    "Rating": "2160",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1058",
+    "Themes": "doubleCheck long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/e8axAwAc/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JsA9Z",
+    "FEN": "r4rk1/1ppQ1ppp/p1np4/4p3/2B1P3/2PP4/PP1q2P1/4RRK1 b - - 1 17",
+    "Moves": "d2b2 f1f7 g8h8 e1f1 f8f7 d7f7",
+    "Rating": "2343",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "82",
+    "Themes": "crushing long middlegame quietMove",
+    "GameUrl": "https://lichess.org/t2gddB1I/black#34",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "JsB8r",
+    "FEN": "r2q1r1k/pQp1b1pn/3p3p/4N3/8/2Pb1NBP/PP3PP1/R4RK1 b - - 0 16",
+    "Moves": "d3f1 e5g6 h8g8 b7d5 f8f7 g6e7",
+    "Rating": "2146",
+    "RatingDeviation": "88",
+    "Popularity": "75",
+    "NbPlays": "36",
+    "Themes": "crushing fork long middlegame pin",
+    "GameUrl": "https://lichess.org/MTDfVTro/black#32",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Piano"
+  },
+  {
+    "PuzzleId": "JsDMZ",
+    "FEN": "q4rk1/2r2pb1/2n1pBpp/1p1pP3/3P2PP/nPQB1N2/5P2/R3R1K1 w - - 0 25",
+    "Moves": "b3b4 c6e5 c3c7 e5f3",
+    "Rating": "2042",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "374",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/5VPMrEAz#49",
+    "OpeningTags": ""
+  }
+]

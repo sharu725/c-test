@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "aaiaT",
+    "FEN": "r3k2N/pp4pp/2pp4/4p3/Q1B3b1/3P4/PP2nRPP/RNq4K w q - 1 20",
+    "Moves": "f2f1 c1f1",
+    "Rating": "991",
+    "RatingDeviation": "84",
+    "Popularity": "82",
+    "NbPlays": "106",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/AlRUvvhY#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aaid3",
+    "FEN": "rn1q1rk1/1bb3pp/p3p3/2Pp4/1PpQ1P2/2B5/P3B1PP/R4RK1 b - - 1 19",
+    "Moves": "b8c6 d4g7",
+    "Rating": "925",
+    "RatingDeviation": "85",
+    "Popularity": "50",
+    "NbPlays": "54",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/V4KtKGVB/black#38",
+    "OpeningTags": "French_Defense French_Defense_Steiner_Variation"
+  },
+  {
+    "PuzzleId": "aam2B",
+    "FEN": "2br1rk1/ppq2pp1/2n1p2p/2P1Pn2/4QP2/3BB3/PP4PP/3R1RK1 b - - 3 22",
+    "Moves": "f5e3 e4h7",
+    "Rating": "665",
+    "RatingDeviation": "86",
+    "Popularity": "100",
+    "NbPlays": "705",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/yOsCkLrI/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aamre",
+    "FEN": "r2q1rk1/pp1n1ppp/2pbp3/3P4/8/1PQ1PN2/PB3PPP/R4RK1 b - - 0 13",
+    "Moves": "c6d5 c3g7",
+    "Rating": "645",
+    "RatingDeviation": "95",
+    "Popularity": "96",
+    "NbPlays": "372",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/wyVLWzWA/black#26",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "aaoGx",
+    "FEN": "r2qkb1r/pp2pppp/5P2/8/6b1/2pQ4/PPP2PPP/R1B1KB1R w KQkq - 0 10",
+    "Moves": "d3c3 d8d1",
+    "Rating": "531",
+    "RatingDeviation": "84",
+    "Popularity": "100",
+    "NbPlays": "135",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/52Ch0vMz#19",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "aaocp",
+    "FEN": "r1bqk2r/ppp1bp2/3p3p/3N1Pp1/3nP3/1B4Q1/PPP3PP/R1B2RK1 w kq - 2 15",
+    "Moves": "c2c3 d4e2 g1f2 e2g3",
+    "Rating": "934",
+    "RatingDeviation": "88",
+    "Popularity": "87",
+    "NbPlays": "216",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/RITpc8sJ#29",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "aapLK",
+    "FEN": "2r3k1/2q3pp/3pp3/p3p1QP/Np2P3/5P1R/PPr5/1KR5 w - - 0 23",
+    "Moves": "h3h2 c2c1 g5c1 c7c1",
+    "Rating": "728",
+    "RatingDeviation": "90",
+    "Popularity": "70",
+    "NbPlays": "146",
+    "Themes": "master mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/jWNxLAHA#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aaq5c",
+    "FEN": "2r4k/q2bQ2p/p5p1/1p1P2Pn/3bP3/3B3P/P6B/5R1K b - - 0 31",
+    "Moves": "d7h3 f1f8 c8f8 e7f8",
+    "Rating": "857",
+    "RatingDeviation": "78",
+    "Popularity": "96",
+    "NbPlays": "490",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/y6PTkuGD/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aar20",
+    "FEN": "2rq1rk1/pb3ppp/1p2pb2/8/2nP4/P1PQ1N1P/2B2PP1/1RB2RK1 b - - 2 18",
+    "Moves": "d8d5 d3h7",
+    "Rating": "723",
+    "RatingDeviation": "89",
+    "Popularity": "97",
+    "NbPlays": "777",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/M1nOlpBz/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Delayed_Alapin"
+  }
+]

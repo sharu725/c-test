@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "h0baq",
+    "FEN": "2r5/5p1k/p2pqBp1/1p3bQp/1Pr5/7R/P4P1P/5K2 b - - 3 41",
+    "Moves": "c8g8 h3h5 g6h5 g5h5",
+    "Rating": "1136",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "262",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/1xV3XUXm/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "h0cl9",
+    "FEN": "r1bq1rk1/1p3ppp/p4n2/4p3/1PPb4/P1N5/1B2BPPP/R2Q1RK1 w - - 0 14",
+    "Moves": "d1d2 d4f2 f1f2 d8d2",
+    "Rating": "1057",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "3000",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/eoK8ip5d#27",
+    "OpeningTags": "Tarrasch_Defense Tarrasch_Defense_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "h0cxf",
+    "FEN": "2r1k2r/6pp/b4pn1/p2Pp3/2P1Q3/3P1PR1/1qNK1P1P/6R1 b k - 0 26",
+    "Moves": "a5a4 g3g6 h7g6 e4g6 e8d8 g6g7",
+    "Rating": "1183",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "163",
+    "Themes": "advantage exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/HnfYfVas/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "h0eZ7",
+    "FEN": "r2r2k1/pb3p2/4p2p/2p5/2Bb4/3N4/PP4PP/3R1R1K b - - 3 23",
+    "Moves": "g8h7 f1f7 h7h8 f7b7",
+    "Rating": "1043",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "253",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/fsFUNHBt/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "h0f2Z",
+    "FEN": "r2qr1k1/pQ2bpp1/8/2p3n1/8/P1N2P2/1PP2P1P/R1B1R1K1 w - - 1 16",
+    "Moves": "c3d5 g5f3 g1f1 f3e1",
+    "Rating": "1188",
+    "RatingDeviation": "80",
+    "Popularity": "86",
+    "NbPlays": "734",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/KFiuxcja#31",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "h0gSg",
+    "FEN": "r1br2k1/2p2ppp/1p2p3/P1q5/2B5/5P2/1PQB1PPP/R3K2R w KQ - 2 15",
+    "Moves": "b2b4 c5e5 c4e2 e5a1",
+    "Rating": "1057",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "392",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/P6QIijdx#29",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "h0iB5",
+    "FEN": "3rr1k1/ppp3p1/2n2q1p/8/2P3b1/PP1pPNP1/3Q1PBP/R3R1K1 w - - 1 19",
+    "Moves": "h2h3 g4f3 g2f3 f6f3",
+    "Rating": "1097",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "187",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/OJ5FUvAJ#37",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Albin_Countergambit"
+  },
+  {
+    "PuzzleId": "h0lZt",
+    "FEN": "r6k/pp5p/2p1p1r1/3p1n2/3Pp3/1PP1P1PK/P5NB/R4R2 w - - 7 27",
+    "Moves": "g3g4 g6h6 g2h4 h6h4",
+    "Rating": "1030",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "225",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/7p72r5Rp#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "h0mvx",
+    "FEN": "r1bqk2r/ppp1bp2/2n4p/2Ppp3/3P1PQ1/P3P1P1/1P4P1/RN2KBNR w KQkq - 0 12",
+    "Moves": "g4g7 e7f6 g7h8 f6h8",
+    "Rating": "1195",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "335",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/bGiYt27L#23",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  }
+]

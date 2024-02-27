@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "8mQRq",
+    "FEN": "5br1/1p1k1pNp/3p3P/p1pPp3/P1P1P3/2PB4/1r1BKP2/R7 w - - 3 30",
+    "Moves": "a1b1 b2b1 d3b1 f8g7 h6g7 g8g7",
+    "Rating": "1293",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "1672",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/9NkiV8RR#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8mRMf",
+    "FEN": "1r2k2r/1b2npp1/p3p2p/1p2P3/2q5/1NN3P1/PPPQ3P/2KR3R b k - 5 20",
+    "Moves": "b7h1 d2d7 e8f8 d7d8 b8d8 d1d8",
+    "Rating": "1217",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "8110",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/E7uxdwzs/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8mShu",
+    "FEN": "2k1r3/pppq4/8/6P1/3n1r2/2NP4/PP1K1PQ1/R6R w - - 0 29",
+    "Moves": "a1e1 d4f3 g2f3 f4f3 e1e8 d7e8",
+    "Rating": "1382",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "6312",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/KqqfaMHC#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8mSyT",
+    "FEN": "1r1q1rk1/ppp2Rbp/2np4/3B2p1/7Q/3PB2P/PPP3P1/5RK1 b - - 0 18",
+    "Moves": "g5h4 f7f8",
+    "Rating": "1263",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "81",
+    "Themes": "doubleCheck kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/tt4VOnGx/black#36",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Queens_Knight_Defense"
+  },
+  {
+    "PuzzleId": "8mTSi",
+    "FEN": "r4rk1/1bq1nppp/p2bpn2/3pN3/3P1PP1/2PB1Q2/P2N3P/R1B2RK1 b - - 0 16",
+    "Moves": "c7c3 d3h7 f6h7 f3c3",
+    "Rating": "1276",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "145",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/jIhVzxp7/black#32",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "8mUVv",
+    "FEN": "r2k3r/pp6/2pb1q1p/4nB2/3Q4/6P1/PPP2P1P/RN2R1K1 w - - 5 18",
+    "Moves": "f5e4 e5f3 e4f3 f6d4",
+    "Rating": "1291",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "152",
+    "Themes": "crushing discoveredAttack fork middlegame short",
+    "GameUrl": "https://lichess.org/AVTVWfiW#35",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "8mV78",
+    "FEN": "2r3kr/5p1p/p2Q1b2/q4N2/5P2/1p5P/1PPRN1P1/1K5R w - - 2 28",
+    "Moves": "d6f6 a5a2 b1c1 a2a1",
+    "Rating": "1395",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "1077",
+    "Themes": "mate mateIn2 middlegame pin queensideAttack short",
+    "GameUrl": "https://lichess.org/3fSbLdkU#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8mX8P",
+    "FEN": "r3kb1r/p4ppp/8/3n4/8/4BP2/5P1P/RN1K3R w kq - 0 17",
+    "Moves": "a1a7 d5e3 f2e3 a8a7",
+    "Rating": "1257",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "602",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/WNJPzwPc#33",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Central_Variation"
+  },
+  {
+    "PuzzleId": "8mXaC",
+    "FEN": "rn1r3k/1pq1pBbp/6p1/2P5/1P4b1/1Q2PN2/5PPP/1NB1K2R w K - 1 16",
+    "Moves": "f3g5 d8d1 b3d1 g4d1",
+    "Rating": "1332",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "739",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Ax3WXkeY#31",
+    "OpeningTags": "East_Indian_Defense East_Indian_Defense_Other_variations"
+  }
+]

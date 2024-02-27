@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "aokAJ",
+    "FEN": "4r1k1/2p2p1p/p5p1/1p4N1/2n5/P1P2R2/BP1r1PPP/R5K1 w - - 0 25",
+    "Moves": "g5e4 e8e4",
+    "Rating": "1560",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "3",
+    "Themes": "equality hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/a4diyw41#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aokX0",
+    "FEN": "r1bq2k1/ppp2p1p/3p1n1B/2b1rP2/2P5/2N2Q2/PPP3PP/R2K3R b - - 1 13",
+    "Moves": "e5f5 f3g3 f6g4 g3g4 f5g5 g4g5 d8g5 h6g5",
+    "Rating": "1533",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "1026",
+    "Themes": "crushing kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/lkOIhm4M/black#26",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "aokfm",
+    "FEN": "r3k2r/1pp2ppp/p1n5/3qNb2/2BPn3/P3P1P1/1P3PP1/2RQK2R b Kkq - 1 14",
+    "Moves": "d5d6 e5f7 d6f6 f7h8",
+    "Rating": "1591",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "3749",
+    "Themes": "advantage attackingF2F7 fork middlegame short",
+    "GameUrl": "https://lichess.org/cFkS1hne/black#28",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Baltic_Defense"
+  },
+  {
+    "PuzzleId": "aokxi",
+    "FEN": "r4rk1/5pp1/p2p2Np/1p1Pp2q/5n2/1Q6/PP3P2/K5RR b - - 1 25",
+    "Moves": "h5h1 g6e7 g8h8 g1h1",
+    "Rating": "1469",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "649",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/AeFtxeVO/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aol4G",
+    "FEN": "2rq1rk1/pp3ppp/1n2p3/n2pP2b/3P4/bP2BN1P/P1BN1PP1/R2QR1K1 w - - 1 16",
+    "Moves": "c2h7 g8h7 g2g4 h5g6",
+    "Rating": "1421",
+    "RatingDeviation": "80",
+    "Popularity": "49",
+    "NbPlays": "91",
+    "Themes": "advantage defensiveMove hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/6lNr572h#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "aole8",
+    "FEN": "1r1r2k1/p4pp1/2p1b2p/q1Pp4/P2Q1P2/6P1/4BP1P/RR4K1 b - - 2 25",
+    "Moves": "e6f5 b1b8 d8b8 d4e5 b8d8 e5f5",
+    "Rating": "1488",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "6330",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/sbi65z5G/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aom0b",
+    "FEN": "1r3rk1/4qp1p/4p1p1/p7/1b4N1/3R3P/PQ3PP1/5RK1 b - - 7 28",
+    "Moves": "h7h5 g4f6 e7f6 b2f6",
+    "Rating": "1568",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1382",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/vlVQilLS/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aon3Q",
+    "FEN": "r1b2rk1/ppp2ppp/2pb1q2/6n1/3P4/2P3P1/PP3PBP/RNBQ1RK1 b - - 4 12",
+    "Moves": "c8h3 c1g5 f6g5 g2h3",
+    "Rating": "1478",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "7999",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/YrB8lVzY/black#24",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "aon8r",
+    "FEN": "r4rk1/1pp1qppp/p1pb4/6B1/3Pb3/5N2/PPP2PPP/R2QR1K1 b - - 1 13",
+    "Moves": "e4f3 g5e7 f3d1 e7f8",
+    "Rating": "1568",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1378",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/RcX6ZdXx/black#26",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  }
+]

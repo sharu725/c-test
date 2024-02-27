@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "aXK7i",
+    "FEN": "4r1k1/pp3pp1/1b3qnp/3p4/N2P4/6BP/PP1Q1PP1/3R2K1 b - - 0 21",
+    "Moves": "b6d4 d2d4 e8e1 g1h2 e1d1 d4d1",
+    "Rating": "1305",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "1679",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/v0bDsBBZ/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aXKCd",
+    "FEN": "r1b2rk1/ppqn1p1p/2nbp1B1/3pN2Q/3P1B2/2P4P/PP3PP1/RN2R1K1 b - - 0 13",
+    "Moves": "h7g6 e5g6 f7g6 h5g6",
+    "Rating": "1388",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "622",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/tGCDgXZ2/black#26",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "aXKuF",
+    "FEN": "3n2rr/pbk1b3/1p1qp3/4N3/1n1P4/2N3P1/PP2QP1P/R1B1R1K1 b - - 12 20",
+    "Moves": "d8c6 c3b5 c7b8 b5d6",
+    "Rating": "1283",
+    "RatingDeviation": "102",
+    "Popularity": "75",
+    "NbPlays": "17",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/0zfw0ULJ/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aXLmJ",
+    "FEN": "r1b1r1k1/p7/5p1p/1B1Rp1p1/4n3/P5B1/2P2PPP/2K4R b - - 1 18",
+    "Moves": "e4c3 b5e8 c3d5 e8c6",
+    "Rating": "1299",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "5415",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/1ofjed8Y/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  },
+  {
+    "PuzzleId": "aXNEF",
+    "FEN": "2kr1b1r/1ppqnppb/p1n4p/1B5P/Q2N4/2P1B1N1/PP3PP1/R3K2R w KQ - 0 14",
+    "Moves": "b5a6 c6d4 a6b7 c8b7",
+    "Rating": "1320",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "383",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/gHL7YyQe#27",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "aXNOz",
+    "FEN": "n1q3k1/3bppbp/3p2p1/1p1P4/1P1NP3/4B1PP/3Q1PBK/8 w - - 0 25",
+    "Moves": "d2c1 c8c1 e3c1 g7d4",
+    "Rating": "1208",
+    "RatingDeviation": "75",
+    "Popularity": "68",
+    "NbPlays": "195",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/jDKjCKjo#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aXNz8",
+    "FEN": "r3k2r/2qn1ppp/p1p1p3/1b1pP3/3Q1P2/2P1B2P/PP1N2P1/R3K2R w KQkq - 3 17",
+    "Moves": "a2a4 c6c5 a4b5 c5d4",
+    "Rating": "1390",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "59",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/eccJWFur#33",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "aXQJw",
+    "FEN": "r5kr/qb3pbp/p2Qp1p1/4P3/B4P2/8/2P3PP/1RB2R1K w - - 1 24",
+    "Moves": "d6c7 b7g2 h1g2 a7c7",
+    "Rating": "1256",
+    "RatingDeviation": "114",
+    "Popularity": "43",
+    "NbPlays": "22",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/oRfckJOb#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aXSAv",
+    "FEN": "r3k2r/pp3ppp/2p5/q2pn3/B3NP2/4P2P/PPPb1P2/R2QK2R w KQkq - 0 13",
+    "Moves": "d1d2 e5f3 e1e2 f3d2",
+    "Rating": "1242",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "6425",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/rpnn5EPq#25",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "jcPNK",
+    "FEN": "r1b1k2r/pn3pp1/2p4q/4p3/1P2N1Pp/P7/2PPB2P/R1BQ2K1 b kq - 0 20",
+    "Moves": "h6f4 d2d3 f4e4 d3e4",
+    "Rating": "1478",
+    "RatingDeviation": "84",
+    "Popularity": "54",
+    "NbPlays": "35",
+    "Themes": "crushing middlegame quietMove short trappedPiece",
+    "GameUrl": "https://lichess.org/JRAXklGV/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jcPjv",
+    "FEN": "2r3k1/1p3rp1/pqnbp1QB/3p4/P7/2N3P1/1P2PnBP/R4RK1 w - - 3 19",
+    "Moves": "g6e6 f2h3 g1h1 b6g1 f1g1 h3f2",
+    "Rating": "1405",
+    "RatingDeviation": "93",
+    "Popularity": "69",
+    "NbPlays": "195",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice smotheredMate",
+    "GameUrl": "https://lichess.org/IUIRQPSE#37",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "jcQG1",
+    "FEN": "r1bq1k1r/ppp2B1p/3p2p1/4ppN1/3nP2Q/2NP4/PPP2KPP/R1B5 w - - 2 13",
+    "Moves": "g5h7 f8f7 h4d8 h8d8",
+    "Rating": "1515",
+    "RatingDeviation": "98",
+    "Popularity": "85",
+    "NbPlays": "17",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/DyTsifKs#25",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "jcQaE",
+    "FEN": "r2q3r/1p3k2/p3bp2/4p1P1/P1Q3p1/3P2P1/3BPP2/R4RK1 w - - 2 27",
+    "Moves": "c4e4 e6d5 f2f3 d5e4",
+    "Rating": "1578",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1987",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/hQVnHoCE#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jcRp9",
+    "FEN": "3q1rk1/r3R1p1/p4n1p/1pp5/3P1B2/P2P1N1P/1P3PP1/nN2Q1K1 b - - 0 22",
+    "Moves": "a1c2 e1e6 g8h8 e7a7",
+    "Rating": "1482",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "8010",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/21MqVLKr/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jcTqs",
+    "FEN": "r4rk1/2Q2pp1/p3pb1p/4n3/7q/2NP3P/PPP2PP1/4RRK1 b - - 4 19",
+    "Moves": "h4g5 f2f4 e5f3 f1f3",
+    "Rating": "1507",
+    "RatingDeviation": "366",
+    "Popularity": "100",
+    "NbPlays": "7",
+    "Themes": "defensiveMove equality fork middlegame short",
+    "GameUrl": "https://lichess.org/JjjXPzKu/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jcUHb",
+    "FEN": "r1b2rk1/pp3pp1/2q1pb1p/4N3/3P4/2P1P1P1/P1Q1BPP1/3RK2R b K - 1 18",
+    "Moves": "c6g2 e2f3 g2f3 e5f3",
+    "Rating": "1414",
+    "RatingDeviation": "74",
+    "Popularity": "85",
+    "NbPlays": "217",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/fOiW9xzo/black#36",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "jcUm8",
+    "FEN": "2r1k2r/pp1b1p1p/4p2p/n1bpP3/8/1BP2N2/PqQN1PPP/R4RK1 b k - 3 13",
+    "Moves": "b2a3 d2b1 a5b3 b1a3",
+    "Rating": "1524",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "3970",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/aKH7JF29/black#26",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "jcV3o",
+    "FEN": "2r1kbnr/ppB2ppp/8/8/3n4/3B1P2/PPP4P/RN2K2R w KQk - 2 12",
+    "Moves": "c7e5 d4f3 e1f2 f3e5",
+    "Rating": "1436",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "20732",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/GrChkxNo#23",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  }
+]

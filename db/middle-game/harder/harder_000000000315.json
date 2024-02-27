@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "0xXQG",
+    "FEN": "rn2b1k1/6p1/2p1prq1/p2P1pN1/7Q/P6P/1BP2PP1/4R1K1 b - - 0 24",
+    "Moves": "c6d5 b2f6 g7f6 g5e6",
+    "Rating": "1923",
+    "RatingDeviation": "283",
+    "Popularity": "100",
+    "NbPlays": "5",
+    "Themes": "capturingDefender equality middlegame short",
+    "GameUrl": "https://lichess.org/ka2AOQ4q/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0xXp5",
+    "FEN": "1q4k1/5p1p/3p2p1/3Nb3/Q1Bn1P2/7P/Pr4P1/4R1K1 b - - 0 23",
+    "Moves": "d4f3 g2f3 e5d4 g1h1",
+    "Rating": "1892",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "672",
+    "Themes": "advantage defensiveMove hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/7PPnhC5Q/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0xZET",
+    "FEN": "4rrk1/ppp2p2/1nq5/4n1Bp/6P1/1BP2P1b/PP1NQ2P/R3R1K1 w - - 1 20",
+    "Moves": "e2f2 e5d3 e1e8 d3f2 e8f8 g8f8",
+    "Rating": "1849",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2345",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/4ILGJXH1#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0xZQW",
+    "FEN": "rr4k1/6pp/2p5/2N2p2/1qpP1n2/1PQ2P1P/P5P1/1KR1R3 b - - 5 36",
+    "Moves": "c4b3 e1e8 b8e8 c3b4 b3a2 b1a1",
+    "Rating": "1955",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "600",
+    "Themes": "crushing deflection long middlegame",
+    "GameUrl": "https://lichess.org/PozCqyd1/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0xa13",
+    "FEN": "2r1k2r/p2q1ppp/2p1b3/3p4/Q2N4/8/PP3PPP/2R1R1K1 b k - 2 18",
+    "Moves": "c6c5 d4e6 d7a4 e6c5 e8d8 c5a4",
+    "Rating": "1949",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "873",
+    "Themes": "crushing discoveredAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/oGVkP3VY/black#36",
+    "OpeningTags": "French_Defense French_Defense_Mediterranean_Defense"
+  },
+  {
+    "PuzzleId": "0xaqR",
+    "FEN": "8/r1q1Nkp1/4pnQp/3p2pP/3P4/Bb2PR2/1P3P2/K7 b - - 12 38",
+    "Moves": "f7f8 f3f6 g7f6 g6g8",
+    "Rating": "1839",
+    "RatingDeviation": "120",
+    "Popularity": "88",
+    "NbPlays": "47",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/FWKzhxcH/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0xasg",
+    "FEN": "r1b4r/ppk2B1p/2p3pb/4q3/4Pp2/1QN5/PP3PPP/3RK2R b K - 0 18",
+    "Moves": "c8d7 d1d7 c7d7 b3b7",
+    "Rating": "1919",
+    "RatingDeviation": "74",
+    "Popularity": "77",
+    "NbPlays": "545",
+    "Themes": "attraction crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/shzsajOJ/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "0xfJx",
+    "FEN": "1k4r1/p1p1qpbr/1p1p1n2/2nPp1B1/2P1P3/2N2N2/PP1KB3/R2Q1R2 w - - 7 24",
+    "Moves": "a1c1 f6e4 c3e4 c5e4 d2c2 e4g5 f3g5 e7g5",
+    "Rating": "1956",
+    "RatingDeviation": "87",
+    "Popularity": "73",
+    "NbPlays": "32",
+    "Themes": "advantage exposedKing middlegame veryLong",
+    "GameUrl": "https://lichess.org/GCFpXsve#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0xhSQ",
+    "FEN": "2k3rr/ppp1nb1p/2nq1p2/3p2p1/3P4/2PB1N1P/PPQ2PP1/R1B1R1K1 w - - 0 16",
+    "Moves": "d3h7 h8h7 c2h7 f7g6 h7g8 e7g8",
+    "Rating": "1978",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "428",
+    "Themes": "advantage long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/1gbqiopS#31",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  }
+]

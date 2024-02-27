@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "LqE8y",
+    "FEN": "r3k2b/4pp2/p1Qpbnp1/6q1/8/1P3P2/P1P1B1P1/3RK3 b q - 0 19",
+    "Moves": "e6d7 c6a8 d7c8 a8c8",
+    "Rating": "809",
+    "RatingDeviation": "82",
+    "Popularity": "95",
+    "NbPlays": "637",
+    "Themes": "hangingPiece mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/an0lQQdC/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "LqEgz",
+    "FEN": "r2q1rk1/1pbn1ppp/2p1pn2/p1P2b2/3P3N/P1N1B3/1P2BPPP/R2Q1RK1 b - - 2 13",
+    "Moves": "c7h2 g1h2",
+    "Rating": "605",
+    "RatingDeviation": "105",
+    "Popularity": "77",
+    "NbPlays": "364",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/MkDeQppM/black#26",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "LqF90",
+    "FEN": "r2r4/2R5/p1Q1p3/k4nP1/2B5/P1P3pP/5bP1/7K w - - 8 39",
+    "Moves": "c7b7 d8d1 c4f1 d1f1",
+    "Rating": "781",
+    "RatingDeviation": "87",
+    "Popularity": "81",
+    "NbPlays": "97",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/rgNzJ1yX#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LqGaL",
+    "FEN": "2k4r/1bp1n3/ppq1Pn2/3NQ3/2B3p1/PP3PPp/1r1b3P/R4R1K b - - 5 25",
+    "Moves": "f6d5 e5h8 e7g8 h8g8 c6e8 g8e8",
+    "Rating": "956",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "461",
+    "Themes": "fork hangingPiece long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/1cxa2JgO/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LqIBy",
+    "FEN": "3r1rk1/pp2q1pp/2p1bp2/4n3/2P5/1PN1Q1P1/P2RPPBP/R5K1 b - - 2 16",
+    "Moves": "d8d2 e3d2",
+    "Rating": "645",
+    "RatingDeviation": "96",
+    "Popularity": "79",
+    "NbPlays": "122",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/2uM0UzJH/black#32",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Albin_Countergambit"
+  },
+  {
+    "PuzzleId": "LqIvN",
+    "FEN": "2b1rk2/5p2/p5P1/1pp5/8/P1Nq1pQ1/BP3P1K/6R1 w - - 1 29",
+    "Moves": "g6f7 d3h7 g3h4 h7h4",
+    "Rating": "857",
+    "RatingDeviation": "80",
+    "Popularity": "95",
+    "NbPlays": "766",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/HEJN2TeE#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LqJPd",
+    "FEN": "1k2r3/ppr2Qp1/3p3p/2pN1Pq1/6P1/7P/PPP2P2/2KRR3 w - - 5 24",
+    "Moves": "d1d2 e8e1",
+    "Rating": "936",
+    "RatingDeviation": "81",
+    "Popularity": "93",
+    "NbPlays": "549",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/L3uawZKG#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LqMF4",
+    "FEN": "r3kb1r/pp1nnppp/1qp1p1b1/3pP3/3P1PP1/2PB1N2/PP5P/RNBQK2R w KQkq - 1 9",
+    "Moves": "b1d2 g6d3",
+    "Rating": "861",
+    "RatingDeviation": "91",
+    "Popularity": "78",
+    "NbPlays": "97",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/h5bnoKMr#17",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "LqMKg",
+    "FEN": "r1b3k1/1p1pq1p1/2n1p2p/p1P2rN1/2P3PP/P3P3/1PQ2P2/R3K2R b KQ - 0 16",
+    "Moves": "f5c5 c2h7 g8f8 h7h8",
+    "Rating": "949",
+    "RatingDeviation": "83",
+    "Popularity": "85",
+    "NbPlays": "77",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/0oLtVdly/black#32",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Normal_Line"
+  }
+]

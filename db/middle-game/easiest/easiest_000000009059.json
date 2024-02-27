@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QsYet",
+    "FEN": "4r1k1/1p2qpp1/p2b2p1/1b1p4/1P2B3/PQ5P/1B3PP1/2R3K1 w - - 0 24",
+    "Moves": "e4d5 e7e1 c1e1 e8e1",
+    "Rating": "652",
+    "RatingDeviation": "92",
+    "Popularity": "86",
+    "NbPlays": "400",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/44vD0lwL#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QsZU6",
+    "FEN": "r2qr3/pRb2k1p/2p3pQ/5p2/3Bp3/7B/P1P2PPP/6K1 b - - 0 25",
+    "Moves": "f7g8 h6g7",
+    "Rating": "924",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "124",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/inNatjRE/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QsamW",
+    "FEN": "r6r/ppp2Bpk/2np1q2/4pPp1/5nP1/2PP1NKP/PP3P2/R2Q3R b - - 0 19",
+    "Moves": "f6f7 f3g5 h7g8 g5f7",
+    "Rating": "734",
+    "RatingDeviation": "86",
+    "Popularity": "86",
+    "NbPlays": "268",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Amev2L35/black#38",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "QsbcW",
+    "FEN": "r2q1rk1/3b2pp/pbN3p1/3p4/1P6/P1Q5/1BP2PPP/R4RK1 b - - 0 19",
+    "Moves": "d7c6 c3g7",
+    "Rating": "852",
+    "RatingDeviation": "78",
+    "Popularity": "97",
+    "NbPlays": "1128",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/qslZW6JF/black#38",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "Qscf8",
+    "FEN": "4rrk1/p3q1bp/2Rn2p1/8/5B2/5Q2/PP4PP/R6K w - - 0 25",
+    "Moves": "f4d6 e7e1 a1e1 e8e1 f3f1 e1f1",
+    "Rating": "629",
+    "RatingDeviation": "85",
+    "Popularity": "93",
+    "NbPlays": "819",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/akkCdFQB#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Qsdky",
+    "FEN": "r2qkb1r/pp5p/2n2p2/4pbN1/2Pp4/3P4/PP3PB1/RNB1QRK1 b kq - 0 15",
+    "Moves": "f6g5 g2c6 b7c6 e1e5",
+    "Rating": "972",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "1579",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/RWDiRRxB/black#30",
+    "OpeningTags": "Kings_Indian_Attack Kings_Indian_Attack_French_Variation"
+  },
+  {
+    "PuzzleId": "QshKx",
+    "FEN": "2kr3r/pp1n1pp1/2p1pn1p/5b1P/2B2B2/3P1Q2/PqP3P1/R3NRK1 b - - 1 19",
+    "Moves": "b2a1 f3c6 b7c6 c4a6",
+    "Rating": "968",
+    "RatingDeviation": "95",
+    "Popularity": "83",
+    "NbPlays": "605",
+    "Themes": "bodenMate mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/SPoFfDun/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+  },
+  {
+    "PuzzleId": "Qsj7g",
+    "FEN": "r4rk1/ppp3p1/3p1q1p/3Ppb1n/6P1/3P1N1P/PP1BQP2/R4RK1 b - - 0 17",
+    "Moves": "f5d3 e2d3 f6f3 d3f3",
+    "Rating": "977",
+    "RatingDeviation": "178",
+    "Popularity": "52",
+    "NbPlays": "13",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/adOALJVn/black#34",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation"
+  },
+  {
+    "PuzzleId": "QsjEw",
+    "FEN": "r3k2r/5ppp/p1bp4/1p2p1q1/8/2N5/PPP2PPP/R2Q1RK1 w kq - 0 15",
+    "Moves": "d1d6 g5g2",
+    "Rating": "686",
+    "RatingDeviation": "79",
+    "Popularity": "100",
+    "NbPlays": "165",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/KXwRAJyY#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  }
+]

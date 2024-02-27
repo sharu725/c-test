@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ElJjK",
+    "FEN": "2k1r3/p1pr1qbp/1p4nn/1P2P3/P1NPQ1p1/2B2p2/5PPP/1R3RK1 b - - 1 28",
+    "Moves": "f3g2 e4a8",
+    "Rating": "1478",
+    "RatingDeviation": "89",
+    "Popularity": "68",
+    "NbPlays": "287",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/AEcA0xhZ/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ElQOA",
+    "FEN": "2k1r3/pp1b2pp/8/6Q1/2BqPPn1/3P4/PP2n1PP/R1B2R1K w - - 3 20",
+    "Moves": "c1d2 d4g1 f1g1 g4f2",
+    "Rating": "1589",
+    "RatingDeviation": "90",
+    "Popularity": "87",
+    "NbPlays": "6232",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short smotheredMate",
+    "GameUrl": "https://lichess.org/c3XIrFgz#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ElTW0",
+    "FEN": "5rk1/2R3p1/1p2p2N/3qP3/3r3Q/8/5PPP/2n3K1 b - - 0 33",
+    "Moves": "g7h6 h4g3 d4g4 g3g4 g8h8 g4g7",
+    "Rating": "1590",
+    "RatingDeviation": "87",
+    "Popularity": "57",
+    "NbPlays": "29",
+    "Themes": "endgame exposedKing long mate mateIn3",
+    "GameUrl": "https://lichess.org/IDKgvqM0/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ElVA3",
+    "FEN": "r5r1/1p2qp1k/2p1b1pp/1p1P4/1P3Q2/P4PR1/1B3P1P/6RK b - - 0 28",
+    "Moves": "e6d5 f4h6 h7h6 g3h3 e7h4 h3h4",
+    "Rating": "1543",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "18930",
+    "Themes": "attraction long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/N8pphfBF/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ElVR2",
+    "FEN": "r1b1k3/ppp2p1p/2n5/3nB3/4PP1q/6r1/PPP4P/R2QKBNR w KQq - 0 12",
+    "Moves": "h2g3 h4g3 e1d2 g3e3",
+    "Rating": "1593",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "829",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/3wgKZiXf#23",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit"
+  },
+  {
+    "PuzzleId": "ElVvp",
+    "FEN": "r4k1r/1p1Q1p2/3p1Pp1/q2p4/4P2P/pP6/P1P5/2KR2R1 b - - 0 24",
+    "Moves": "a5c3 d7e7 f8g8 g1g6 g8h7 e7f7",
+    "Rating": "1445",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "15194",
+    "Themes": "deflection endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/8oa2Makg/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ElaR0",
+    "FEN": "r1b1k1nr/p3p1bp/2pqPp2/3p1p1Q/8/8/PPP3PP/RNB1KB1R b KQkq - 1 11",
+    "Moves": "e8f8 h5f7",
+    "Rating": "1438",
+    "RatingDeviation": "196",
+    "Popularity": "50",
+    "NbPlays": "38",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/9ZsVYkex/black#22",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "ElbgJ",
+    "FEN": "r1bq1r2/pp2np2/2n1p1p1/2p1k3/4NQ2/3P2P1/PPP2PB1/R3K1NR b KQ - 2 15",
+    "Moves": "e5d4 e4d2",
+    "Rating": "1441",
+    "RatingDeviation": "138",
+    "Popularity": "75",
+    "NbPlays": "32",
+    "Themes": "discoveredAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/dbGdDvOL/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "ElbsP",
+    "FEN": "8/5p2/6P1/7p/5R1P/6PK/2r5/6k1 w - - 1 52",
+    "Moves": "g3g4 c2c3 f4f3 c3f3",
+    "Rating": "1564",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "3776",
+    "Themes": "endgame master masterVsMaster mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/gIiFtQyE#103",
+    "OpeningTags": ""
+  }
+]

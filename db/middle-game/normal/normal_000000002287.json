@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "6hEY0",
+    "FEN": "r3r1k1/5pp1/7p/p2QPb2/P2q1P2/1B6/1PP2nPP/RN3R1K w - - 1 22",
+    "Moves": "h1g1 f2h3 g1h1 d4g1 f1g1 h3f2",
+    "Rating": "1362",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "2548",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice smotheredMate",
+    "GameUrl": "https://lichess.org/B0IeU5ty#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6hEiY",
+    "FEN": "1k1r4/pp1r4/4Q1p1/2R1P3/1np2B2/2q1PN2/P1B2PP1/1K6 w - - 3 25",
+    "Moves": "c5c4 d7d1 c2d1 d8d1",
+    "Rating": "1317",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "8801",
+    "Themes": "mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/7zHhoJp7#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6hEzM",
+    "FEN": "r3r1k1/ppp1qppp/2np4/3Q4/2B1n3/2P2N1P/P4PP1/R3R1K1 b - - 3 14",
+    "Moves": "e4f6 e1e7 f6d5 e7e8 a8e8 c4d5",
+    "Rating": "1349",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "3033",
+    "Themes": "advantage intermezzo kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/d3qx3V84/black#28",
+    "OpeningTags": "Italian_Game Italian_Game_Hungarian_Defense"
+  },
+  {
+    "PuzzleId": "6hFvL",
+    "FEN": "3rk2r/ppp1b3/8/5np1/2B2n1p/2P4P/PP3PPB/RN2R1K1 w k - 2 20",
+    "Moves": "b1d2 d8d2 h2f4 g5f4",
+    "Rating": "1312",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4763",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/tm46bhvU#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6hMIb",
+    "FEN": "r1k2bnr/ppp3pp/5p2/4p3/2BnP3/5K1P/PPP2PP1/RNBR4 w - - 1 11",
+    "Moves": "d1d4 e5d4",
+    "Rating": "1278",
+    "RatingDeviation": "212",
+    "Popularity": "100",
+    "NbPlays": "16",
+    "Themes": "equality hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/on7XHf4c#21",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6hNtw",
+    "FEN": "r4r1k/pp3pp1/1n2p2p/8/8/P1B2qPQ/1P5P/4R1K1 b - - 2 28",
+    "Moves": "b6d5 h3h6 h8g8 h6g7",
+    "Rating": "1394",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "12008",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/d7SCOpCs/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6hO6K",
+    "FEN": "r2k1b1r/pppb1npp/2qp4/8/8/5N1P/P1PBQPP1/R4RK1 b - - 0 15",
+    "Moves": "c6c2 d2g5 f7g5 e2c2 g5f3 g2f3",
+    "Rating": "1210",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1341",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/zvRydyCP/black#30",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Maroczy_Defense"
+  },
+  {
+    "PuzzleId": "6hPnv",
+    "FEN": "1r1qkb1r/pb1p2pp/1p1Ppp2/2P4P/5Pn1/2NBB3/PPQ3P1/2KR3R b k - 4 19",
+    "Moves": "g4e3 d3g6 h7g6 c2g6",
+    "Rating": "1289",
+    "RatingDeviation": "97",
+    "Popularity": "86",
+    "NbPlays": "72",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/vpQSUPM5/black#38",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "6hSUU",
+    "FEN": "r4r2/pp1n1ppk/2p3qp/3p1b2/3P4/P1NQ1N2/1PP2PPP/R3R1K1 w - - 4 17",
+    "Moves": "f3h4 f5d3 h4g6 d3g6",
+    "Rating": "1350",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "829",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/8H0nF7aT#33",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  }
+]

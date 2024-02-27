@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Y7YJE",
+    "FEN": "r1b2r2/ppp2p2/3p1k2/2b1p3/2BnP3/3P4/PPP2PPP/R2Q1RK1 w - - 0 14",
+    "Moves": "f2f4 d4e2 g1h1 e2g3 h2g3 f8h8 d1h5 h8h5",
+    "Rating": "1907",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "275",
+    "Themes": "doubleCheck kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/c3m3AHCA#27",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "Y7Z4m",
+    "FEN": "4k3/pp2bp1Q/4pp2/3p3P/3q2r1/2r5/PPPN1P2/2KRR3 w - - 0 21",
+    "Moves": "b2c3 e7a3 c1b1 d4c3",
+    "Rating": "1888",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "431",
+    "Themes": "crushing intermezzo middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/98XXZf9L#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Y7Zbf",
+    "FEN": "r2q1r1k/4b1p1/pp2b2p/2pp4/3P2P1/2PB2Q1/PP1B2P1/R4RK1 b - - 0 19",
+    "Moves": "e7g5 f1f8 d8f8 d2g5",
+    "Rating": "1868",
+    "RatingDeviation": "81",
+    "Popularity": "92",
+    "NbPlays": "39",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/beXfG3tb/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Y7aro",
+    "FEN": "3rk2r/1bp1bpp1/p1n2n1p/1p2p1B1/4P3/2P2N2/PPBN1PPP/R4RK1 w k - 0 13",
+    "Moves": "g5h4 g7g5 h4g3 g5g4 a1d1 g4f3",
+    "Rating": "1958",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "512",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/pCwBL3ri#25",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "Y7c8t",
+    "FEN": "q4bk1/3n1p1p/1pNp2p1/1Pp1p1N1/4P3/r7/r1PQ1PPP/1RR3K1 b - - 21 29",
+    "Moves": "a2a1 d2d5 a8e8 b1a1 a3a1 c1a1",
+    "Rating": "1819",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "67",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/WB1mxDF4/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Y7dIS",
+    "FEN": "Q7/p1p2pk1/5p2/1B2p3/1P2P3/P3qPP1/2P1N1nP/R3K2R w KQ - 1 25",
+    "Moves": "e1f1 e3f3 f1g1 g2e3 e2f4 e5f4 b5f1 f4g3 a8h8 g7h8",
+    "Rating": "1836",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "3018",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/dXu6wfyL#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Y7dbj",
+    "FEN": "4rrk1/pp2qpp1/3p2b1/2pQ3p/2B2R1b/7P/PPPB1PP1/4R1K1 b - - 5 20",
+    "Moves": "e7d7 e1e8 f8e8 f4h4 e8e5 d5f3",
+    "Rating": "1851",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "244",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/eG8SKRBJ/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Y7dl0",
+    "FEN": "r1bk3r/pp2bQpp/2np3q/4p3/2B1P3/1NN1P1P1/PPP4P/R3K2R w KQ - 1 13",
+    "Moves": "c3d5 h8f8 f7f8 e7f8",
+    "Rating": "1871",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1274",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/4yurMySu#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "Y7dqA",
+    "FEN": "4rrk1/p2N1ppp/3b1q2/8/7R/1P2P1Q1/1BP3PP/6K1 b - - 1 25",
+    "Moves": "d6g3 d7f6 g7f6 h4g4 g8h8 b2f6",
+    "Rating": "1982",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "123",
+    "Themes": "fork intermezzo long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/NnsPJk2T/black#50",
+    "OpeningTags": ""
+  }
+]

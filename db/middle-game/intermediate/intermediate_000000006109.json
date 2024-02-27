@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Efeab",
+    "FEN": "r1b5/4qpk1/2p1p1pp/p3P3/3PB3/b3P2R/6PP/1Q2B1K1 b - - 0 28",
+    "Moves": "c8b7 e1h4 g6g5 h4g5",
+    "Rating": "1564",
+    "RatingDeviation": "82",
+    "Popularity": "84",
+    "NbPlays": "36",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/3P3j63AU/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Efg2U",
+    "FEN": "r4rk1/ppp2p1b/2nn1Bp1/8/8/b1R4Q/P4PPP/5RK1 b - - 3 20",
+    "Moves": "a3b2 h3h7 g8h7 c3h3 h7g8 h3h8",
+    "Rating": "1535",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2055",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/c4hhiVXm/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Efg7X",
+    "FEN": "rnbq1rk1/pp4bp/3p1pp1/6B1/2B1P1P1/2Q5/PPP2PP1/R3K2R b KQ - 2 13",
+    "Moves": "g8h8 h1h7 h8h7 c3h3 g7h6 h3h6",
+    "Rating": "1519",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "18107",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/U0IxEyGh/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  },
+  {
+    "PuzzleId": "Efm28",
+    "FEN": "3rr1k1/5pbp/p4pb1/q1pP1N2/P3p3/R1PPN2P/4QPP1/4R1K1 w - - 0 29",
+    "Moves": "c3c4 e4d3 a3d3 g6f5",
+    "Rating": "1593",
+    "RatingDeviation": "77",
+    "Popularity": "76",
+    "NbPlays": "360",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/EXpLP2SW#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Efn5F",
+    "FEN": "r1bq3r/1p1k3p/p1n1ppB1/2bp3Q/5B2/2N1P3/PPP2PPP/R3K2R w KQ - 1 12",
+    "Moves": "c3d5 h7g6 d5f6 d8f6",
+    "Rating": "1558",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "1",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/6RLnTmV9#23",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EfrYt",
+    "FEN": "r1br2k1/1p2bppp/p1qp1n2/4p3/4PP2/P1N1BB1P/1PP1Q1P1/R4RK1 b - - 3 14",
+    "Moves": "e5f4 e4e5 d6e5 f3c6",
+    "Rating": "1454",
+    "RatingDeviation": "76",
+    "Popularity": "80",
+    "NbPlays": "241",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/ULlgU07h/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kan_Variation"
+  },
+  {
+    "PuzzleId": "Eftei",
+    "FEN": "r3k2r/ppp2ppp/2n1p3/3p3n/1K1P1q2/3B1P1P/PPP3P1/RNBQ3R w kq - 1 11",
+    "Moves": "b4a3 f4d6 b2b4 d6b4",
+    "Rating": "1415",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "848",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/5zv06tPn#21",
+    "OpeningTags": "Bird_Opening Bird_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "EfuuM",
+    "FEN": "r3k2r/1b2nppp/p2qp3/1p6/3Pp1Q1/1B6/PP1B1PPP/2R2RK1 w kq - 6 16",
+    "Moves": "g4g7 h8g8 g7h7 e4e3 h7g8 e7g8",
+    "Rating": "1559",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "660",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/pj2y052l#31",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "Efw9Y",
+    "FEN": "r4rk1/1b2bppp/p1n1pn2/1pp5/3q2N1/1PNB4/PBPP1PPP/R2QR1K1 w - - 3 13",
+    "Moves": "c3a4 d4g4 d1g4 f6g4",
+    "Rating": "1505",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "716",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/20eyyHbi#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "NGjek",
+    "FEN": "r1b2r1k/1p1n2p1/p3pbRp/3p3Q/3P4/q1NB4/P1P2PPP/1R4K1 b - - 0 18",
+    "Moves": "a3c3 g6h6 g7h6 h5h6 h8g8 h6h7",
+    "Rating": "1561",
+    "RatingDeviation": "100",
+    "Popularity": "74",
+    "NbPlays": "22",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/CLstuLdL/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "NGmTq",
+    "FEN": "8/2Q4p/6pk/P4r1q/5p2/2P2P2/1P4nP/R3R1K1 w - - 0 33",
+    "Moves": "g1g2 f5g5 g2f2 h5h2 f2f1 g5g1",
+    "Rating": "1548",
+    "RatingDeviation": "85",
+    "Popularity": "62",
+    "NbPlays": "40",
+    "Themes": "deflection endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/9Su0kU1z#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NGpla",
+    "FEN": "r3k2r/3p1ppp/p2qp3/1p2n3/3PB1n1/P7/1P3PPP/R1BQ1RK1 w kq - 0 15",
+    "Moves": "e4a8 e5f3 g2f3 d6h2",
+    "Rating": "1475",
+    "RatingDeviation": "133",
+    "Popularity": "85",
+    "NbPlays": "29",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/pNPkxRlO#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Delayed_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "NGvhB",
+    "FEN": "5rk1/p2P1ppp/3Q4/1P3R2/4q3/8/Pr5P/3R2K1 b - - 4 35",
+    "Moves": "e4f5 d6f8 g8f8 d7d8q",
+    "Rating": "1402",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1779",
+    "Themes": "advancedPawn attraction endgame mate mateIn2 promotion short",
+    "GameUrl": "https://lichess.org/RvkrpvbA/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NGx1P",
+    "FEN": "1k4nr/ppp1bpQp/8/8/5P2/4q3/PPP3PP/1K1R4 b - - 0 19",
+    "Moves": "e3e2 g7f8 e7d8 f8d8",
+    "Rating": "1563",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "1325",
+    "Themes": "endgame mate mateIn2 queensideAttack short",
+    "GameUrl": "https://lichess.org/OrLaoMEf/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NGxpZ",
+    "FEN": "3R4/1pk2p2/p1p5/4p3/1P2P1q1/P2P1N2/3N1P1p/R4b1K w - - 1 25",
+    "Moves": "d8g8 f1g2 h1h2 g4h3 h2g1 h3h1",
+    "Rating": "1569",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "4352",
+    "Themes": "endgame exposedKing long mate mateIn3",
+    "GameUrl": "https://lichess.org/h8ojHjdI#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NH86j",
+    "FEN": "r4k1r/ppp3pp/3p4/2b3N1/4P1Q1/2Nn4/PPq3PP/R1B1K2R w - - 4 16",
+    "Moves": "e1f1 c2f2",
+    "Rating": "1440",
+    "RatingDeviation": "132",
+    "Popularity": "71",
+    "NbPlays": "96",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/0RibKK2d#31",
+    "OpeningTags": "Scotch_Game Scotch_Game_Haxo_Gambit"
+  },
+  {
+    "PuzzleId": "NH8qy",
+    "FEN": "rnb1k2r/1p2ppbp/p4np1/1N1P4/8/3B1N2/P4PPP/2Q2RK1 b kq - 0 16",
+    "Moves": "a6b5 c1c8",
+    "Rating": "1428",
+    "RatingDeviation": "81",
+    "Popularity": "76",
+    "NbPlays": "106",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/t97h99I0/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "NHB8x",
+    "FEN": "r2qkbnr/ppp2p2/3P3p/4N1p1/2B1P1b1/2P5/PP3PPP/RNBQK2R b KQkq - 0 8",
+    "Moves": "g4d1 c4f7",
+    "Rating": "1405",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "1043",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/pNs7c7nV/black#16",
+    "OpeningTags": ""
+  }
+]

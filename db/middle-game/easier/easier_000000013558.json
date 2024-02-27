@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "fEnTF",
+    "FEN": "r2q1rk1/ppp3pn/2nbp2p/5p2/3P4/P1N1PB2/1PQB1PPP/2R2RK1 b - - 0 14",
+    "Moves": "d6h2 g1h2",
+    "Rating": "1010",
+    "RatingDeviation": "225",
+    "Popularity": "-47",
+    "NbPlays": "4",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/zM52Cep2/black#28",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense"
+  },
+  {
+    "PuzzleId": "fEnXJ",
+    "FEN": "3r1r2/1q4kp/p1bPB1p1/R7/1P5Q/5P2/6PP/3R2K1 w - - 3 31",
+    "Moves": "h4e7 b7e7 d6e7 d8d1",
+    "Rating": "1077",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "6113",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/hPujv6Mg#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fEo2M",
+    "FEN": "5rk1/2q2pp1/1np1p1B1/1p2P2n/3P4/1QN2R2/1P1B2KP/r7 b - - 0 22",
+    "Moves": "f7g6 b3e6 c7f7 f3f7",
+    "Rating": "1137",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "278",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/CtQfYwdp/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fEor9",
+    "FEN": "4r1k1/5pb1/3p2p1/1Qpn1q1p/P4P2/2P2R1P/3BrRPK/8 b - - 2 33",
+    "Moves": "e2f2 b5e8 g8h7 f3f2",
+    "Rating": "1193",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "427",
+    "Themes": "advantage hangingPiece intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/FnjcAhz1/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fEr1T",
+    "FEN": "3qr1k1/3bb1B1/p2p1NP1/1p3P2/2rpP3/P7/1PPQ4/R3K2R b KQ - 0 23",
+    "Moves": "e7f6 h1h8 g8g7 d2h6",
+    "Rating": "1163",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "7457",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/3UhlL1dz/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fErQI",
+    "FEN": "r4rk1/1b1n1ppp/2qb4/p3p1P1/1n2P2P/1N2BP2/1PPQB3/2KR3R w - - 0 19",
+    "Moves": "d2d6 c6c2",
+    "Rating": "1077",
+    "RatingDeviation": "86",
+    "Popularity": "91",
+    "NbPlays": "130",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/23fL7deI#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "fErhf",
+    "FEN": "r1r3k1/3nqppp/2Q1pn2/p2p4/1b1P4/1PNNP2P/2PB1PP1/R4RK1 w - - 8 17",
+    "Moves": "c6a4 b4c3 d2c3 c8c3",
+    "Rating": "1097",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "448",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/qVho7wyl#33",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "fErru",
+    "FEN": "5r1k/1pp2rpp/pb1P1p2/4pP2/1qB4Q/1P3R2/P4PPP/5RK1 b - - 0 25",
+    "Moves": "f7d7 h4h7 h8h7 f3h3",
+    "Rating": "1191",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "4655",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/geb5z0jr/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fEuYW",
+    "FEN": "3rr1k1/pp3pp1/3qbn1p/2np4/8/2N1PN1P/PPQ2PP1/1BR1R1K1 b - - 3 18",
+    "Moves": "g7g6 c3b5 d6b6 c2c5 b6c5 c1c5",
+    "Rating": "1046",
+    "RatingDeviation": "359",
+    "Popularity": "-100",
+    "NbPlays": "2",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/Vs36FF3y/black#36",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Other_variations"
+  }
+]

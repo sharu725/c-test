@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HxaYM",
+    "FEN": "r1b1k2r/ppp1P2p/4q1p1/8/8/BP1Q3P/P1P2PP1/b4RK1 b kq - 3 17",
+    "Moves": "a1f6 d3d8 e8f7 d8f8 h8f8 e7f8q",
+    "Rating": "1682",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "11523",
+    "Themes": "advancedPawn exposedKing long mate mateIn3 middlegame promotion",
+    "GameUrl": "https://lichess.org/EgSTmPGW/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "HxbCn",
+    "FEN": "R1r2rk1/4nppp/1pn1p3/1B2N3/8/8/PP3PPP/R1B3K1 b - - 0 17",
+    "Moves": "c8a8 e5c6 e7c6 b5c6",
+    "Rating": "1664",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "222",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/fKvLvTT7/black#34",
+    "OpeningTags": "French_Defense French_Defense_Schlechter_Variation"
+  },
+  {
+    "PuzzleId": "HxbwM",
+    "FEN": "2kr3r/pp3p2/1np2np1/4p2p/2PpP2P/P2P1PN1/qP1QN1P1/2KR3R b - c3 0 17",
+    "Moves": "b6a4 d2b4 a2b2 b4b2 a4b2 c1b2",
+    "Rating": "1781",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "399",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/emy9G75L/black#34",
+    "OpeningTags": "Gedults_Opening Gedults_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "Hxfqe",
+    "FEN": "r1b1kb1r/ppp2ppp/2n5/8/4N3/1P3N2/1P1PnPPP/R1B1R2K b kq - 0 13",
+    "Moves": "e2c1 e4f6 e8d8 e1e8",
+    "Rating": "1617",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "100",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/eSYEIWhE/black#26",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Icelandic-Palme_Gambit"
+  },
+  {
+    "PuzzleId": "Hxkou",
+    "FEN": "r4rk1/1p3pp1/pb2q2p/2ppP3/P2P2bn/1P4N1/1BBQ1P1N/1R2R1K1 w - - 3 27",
+    "Moves": "c2d1 g4d1 b1d1 e6h3",
+    "Rating": "1641",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1586",
+    "Themes": "clearance crushing middlegame short",
+    "GameUrl": "https://lichess.org/DR06jwsL#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Hxksl",
+    "FEN": "4r1k1/p3q1pp/2pb1p2/3p4/3Pr3/1PBQ3P/P4PP1/R3R1K1 b - - 5 24",
+    "Moves": "d6b4 e1e4 e7e4 d3e4 e8e4 c3b4",
+    "Rating": "1747",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "330",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/JzvSIIOh/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Hxp9r",
+    "FEN": "r1b1k2r/2q2ppp/p1p1pn2/3p4/1bP1P3/1PNB4/PB3PPP/R2QK2R w KQkq - 0 11",
+    "Moves": "c4d5 c6d5 e1g1 b4c3 a1c1 d5d4 b2c3 d4c3",
+    "Rating": "1781",
+    "RatingDeviation": "76",
+    "Popularity": "67",
+    "NbPlays": "74",
+    "Themes": "advantage middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/sK0NngSQ#21",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kan_Variation"
+  },
+  {
+    "PuzzleId": "HxpXj",
+    "FEN": "r2q1rk1/pp3pbp/2np2pB/4p2n/4PP2/2N4P/PPPQBP2/R3K2R b KQ - 0 13",
+    "Moves": "d8h4 h6g5 h4f4 g5f4",
+    "Rating": "1666",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "5990",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/5QLQ9ADa/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  },
+  {
+    "PuzzleId": "Hxpup",
+    "FEN": "2r5/p2kp3/3pn2Q/2p5/1p5P/1PqN4/1NP5/2K2R2 w - - 1 35",
+    "Moves": "f1e1 e6d4 e1e7 d7e7",
+    "Rating": "1703",
+    "RatingDeviation": "76",
+    "Popularity": "78",
+    "NbPlays": "53",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/dPnKcBw5#69",
+    "OpeningTags": ""
+  }
+]

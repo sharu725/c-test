@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "by9jh",
+    "FEN": "r4rk1/3nbpp1/2p1p2p/3p4/p2P4/PqN1P1BP/1PQ2PP1/2R1R1K1 b - - 2 20",
+    "Moves": "f8b8 g3b8 b3c2 c1c2",
+    "Rating": "1174",
+    "RatingDeviation": "115",
+    "Popularity": "83",
+    "NbPlays": "19",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/9j27Q2kJ/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "byAVX",
+    "FEN": "r4rk1/pppn1pp1/3pq2p/8/3P4/2P3Q1/P1PB2R1/5RK1 b - - 3 20",
+    "Moves": "g7g5 d2g5 h6g5 g3g5",
+    "Rating": "1136",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "311",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/mNUFLNhP/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "byDt3",
+    "FEN": "r3qb1r/p1p3pp/1pbp1Rk1/4p3/1PB1P3/8/P1P3PP/RNBQ2K1 b - - 0 15",
+    "Moves": "g7f6 d1g4",
+    "Rating": "1127",
+    "RatingDeviation": "81",
+    "Popularity": "79",
+    "NbPlays": "61",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/wAkMQk8Q/black#30",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "byE7Y",
+    "FEN": "r1bq1r1k/2p3pp/p1pb4/4N1p1/2BP4/8/PPP2PPP/R2QK2R w KQ - 4 13",
+    "Moves": "e5f7 f8f7 c4f7 d8e7 d1e2 e7f7",
+    "Rating": "1093",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "259",
+    "Themes": "advantage fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/SohuJ8KX#25",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "byEO5",
+    "FEN": "8/2r1rkp1/1npn1P2/pp1p2K1/3P4/PP2PR1B/3N4/2R5 b - - 0 36",
+    "Moves": "g7f6 f3f6 f7e8 f6d6",
+    "Rating": "1173",
+    "RatingDeviation": "82",
+    "Popularity": "86",
+    "NbPlays": "95",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/5gBGq2mL/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "byFtm",
+    "FEN": "3rqr1k/2p1n1pp/1p6/p1bn2N1/2N3b1/P3P1B1/1PQ1BPPP/2R2RK1 b - - 7 18",
+    "Moves": "g4e2 c2h7",
+    "Rating": "1140",
+    "RatingDeviation": "89",
+    "Popularity": "73",
+    "NbPlays": "136",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/TRKoKY6X/black#36",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Soller_Gambit_Deferred"
+  },
+  {
+    "PuzzleId": "byH0E",
+    "FEN": "2kr4/ppp2pp1/3b1n2/4q3/1P6/2P1P1Pr/P1Q3B1/R1B2RK1 b - - 1 17",
+    "Moves": "e5g3 c2f5 c8b8 f5h3 g3h3 g2h3",
+    "Rating": "1077",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "314",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/dzLxqHXF/black#34",
+    "OpeningTags": "Englund_Gambit Englund_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "byHf4",
+    "FEN": "2r2r2/ppq1ppkp/2n3p1/5b2/4N3/3BQ2P/PPP2PP1/R4RK1 b - - 0 18",
+    "Moves": "c6b4 e3d4 e7e5 d4b4",
+    "Rating": "1100",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "91",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/rNxm5vhS/black#36",
+    "OpeningTags": "Pterodactyl_Defense Pterodactyl_Defense_Western"
+  },
+  {
+    "PuzzleId": "byHnX",
+    "FEN": "1rbq1rk1/1p1n3p/3p2pQ/pPpBpp2/2P4N/3P2P1/P3PP1P/1R3RK1 b - - 1 16",
+    "Moves": "g8h8 h4g6",
+    "Rating": "1035",
+    "RatingDeviation": "99",
+    "Popularity": "85",
+    "NbPlays": "23",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/94OntyK7/black#32",
+    "OpeningTags": "Kings_Indian_Attack Kings_Indian_Attack_Symmetrical_Defense"
+  }
+]

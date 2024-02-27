@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "rapgf",
+    "FEN": "r4r1k/ppp1n1p1/2n1Q2p/8/1q3p2/5B1R/PP3PP1/2BR1K2 b - - 3 26",
+    "Moves": "c6d4 h3h6 g7h6 e6e5 h8g8 d1d4",
+    "Rating": "2474",
+    "RatingDeviation": "103",
+    "Popularity": "89",
+    "NbPlays": "707",
+    "Themes": "advantage kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/HgsA8TJl/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ravpG",
+    "FEN": "5r2/pQp3pk/7p/5r2/4N3/4R1Pq/PPP2P1n/3R3K b - - 1 26",
+    "Moves": "f5f2 e4f2 f8f2 b7e4 f2f5 h1g1",
+    "Rating": "2481",
+    "RatingDeviation": "91",
+    "Popularity": "76",
+    "NbPlays": "61",
+    "Themes": "advantage clearance long middlegame",
+    "GameUrl": "https://lichess.org/6qCPDTnU/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rb1R2",
+    "FEN": "r1bk1r2/1p1n1Bp1/p6p/2RQ4/8/3P3P/P2q1PP1/2R3K1 b - - 1 21",
+    "Moves": "f8f7 d5f7 d7c5 f7f8 d8c7 f8c5 c7b8 c5c8 b8a7 c8c5",
+    "Rating": "2485",
+    "RatingDeviation": "103",
+    "Popularity": "89",
+    "NbPlays": "332",
+    "Themes": "crushing exposedKing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/mhn5dwue/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rb3e5",
+    "FEN": "r6k/1p1qb1pp/p1pp4/4p2Q/PP2Pr2/1BPP3P/5PPK/R3R3 w - - 0 22",
+    "Moves": "e1e2 g7g6 h5h6 d7d8 h6f4 e5f4",
+    "Rating": "2548",
+    "RatingDeviation": "97",
+    "Popularity": "37",
+    "NbPlays": "51",
+    "Themes": "crushing long middlegame quietMove",
+    "GameUrl": "https://lichess.org/bLNXlXlC#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rb5Dg",
+    "FEN": "rq4k1/pb1nQrbp/1p1P2p1/2p5/P1B5/1P3N2/n4PPP/2BR2K1 b - - 0 21",
+    "Moves": "b8e8 f3g5 d7e5 e7b7 a8d8 d1e1",
+    "Rating": "2402",
+    "RatingDeviation": "95",
+    "Popularity": "74",
+    "NbPlays": "45",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/607bbpNf/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rbE2P",
+    "FEN": "r2q1rk1/2pb2bp/1p1p2p1/1N1Pp3/nPP1n3/4B3/2Q1B1PP/1R2NRK1 w - - 0 19",
+    "Moves": "c2e4 f8f1 e2f1 d7f5 e4f3 f5b1",
+    "Rating": "2547",
+    "RatingDeviation": "81",
+    "Popularity": "83",
+    "NbPlays": "308",
+    "Themes": "advantage long middlegame skewer",
+    "GameUrl": "https://lichess.org/illFFQGq#37",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Orthodox_Variation"
+  },
+  {
+    "PuzzleId": "rbEd4",
+    "FEN": "r3nrk1/pbqnbpp1/1pp1p2p/4p1NQ/2PP1B1N/3B4/PP3PPP/R4RK1 b - - 1 14",
+    "Moves": "e5f4 h5f7 f8f7 d3h7 g8h8 h4g6",
+    "Rating": "2572",
+    "RatingDeviation": "96",
+    "Popularity": "89",
+    "NbPlays": "1375",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/bTPbY12Q/black#28",
+    "OpeningTags": "Indian_Defense Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "rbEwB",
+    "FEN": "2k1r3/pp4pp/3q1p2/3pr3/5Q2/2P1n1PN/PP4PP/2R1R1K1 w - - 6 25",
+    "Moves": "e1e3 d6b6 f4d4 e5e3 d4b6 a7b6",
+    "Rating": "2408",
+    "RatingDeviation": "85",
+    "Popularity": "90",
+    "NbPlays": "2924",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/8AWyozSR#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rbJV7",
+    "FEN": "4kb1r/2R1np1p/6pB/p3Pp2/3P3Q/7P/q4PP1/6K1 b k - 1 26",
+    "Moves": "a2e6 d4d5 e7d5 h4a4 e8d8 c7b7",
+    "Rating": "2792",
+    "RatingDeviation": "96",
+    "Popularity": "91",
+    "NbPlays": "483",
+    "Themes": "clearance crushing long middlegame",
+    "GameUrl": "https://lichess.org/etEsiU0j/black#52",
+    "OpeningTags": ""
+  }
+]

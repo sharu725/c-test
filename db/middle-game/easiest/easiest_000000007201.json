@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "LKTj1",
+    "FEN": "r2r2k1/pb3pp1/1p2p2p/n2q4/3P1Q2/P2B1N2/1P3PPP/3R1RK1 w - - 0 18",
+    "Moves": "f3e5 d5g2",
+    "Rating": "610",
+    "RatingDeviation": "93",
+    "Popularity": "97",
+    "NbPlays": "842",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/SMvqbT9C#35",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "LKWcQ",
+    "FEN": "3q1rk1/r2n2pp/p2p1b2/1p1P4/2pP2b1/2P2N2/PP1NQ1PP/R3R1K1 b - - 4 16",
+    "Moves": "f8e8 e2e8 d8e8 e1e8",
+    "Rating": "660",
+    "RatingDeviation": "106",
+    "Popularity": "81",
+    "NbPlays": "236",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/aKMdWOR2/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "LKX74",
+    "FEN": "r5kr/pppb1ppp/n7/3P4/7q/BPN5/P1PPQ2p/R3R2K b - - 4 15",
+    "Moves": "a8e8 e2e8 d7e8 e1e8",
+    "Rating": "598",
+    "RatingDeviation": "84",
+    "Popularity": "80",
+    "NbPlays": "249",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/UESpjv0s/black#30",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Cunningham_Defense"
+  },
+  {
+    "PuzzleId": "LKXz2",
+    "FEN": "4rrk1/1ppb4/3p1q2/p2P2p1/2Pb1pP1/P2Q1P2/1P2B1K1/R6R b - - 6 25",
+    "Moves": "d4b2 d3h7",
+    "Rating": "691",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "108",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/xWbYihSF/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LKZzw",
+    "FEN": "r4rk1/ppq2ppp/2pb1n2/3p1P2/4p3/1P1PP2Q/PBPN2PP/R4RK1 b - - 1 17",
+    "Moves": "d6h2 h3h2 c7h2 g1h2",
+    "Rating": "652",
+    "RatingDeviation": "86",
+    "Popularity": "92",
+    "NbPlays": "829",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/EVlJDDrj/black#34",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Slav_Invitation"
+  },
+  {
+    "PuzzleId": "LKaOd",
+    "FEN": "r4rk1/pp5p/3bqnp1/1N3p2/P1p5/4PP2/QP1B2PP/R4RK1 b - - 1 19",
+    "Moves": "d6e7 b5c7 e6f7 c7a8",
+    "Rating": "894",
+    "RatingDeviation": "83",
+    "Popularity": "88",
+    "NbPlays": "168",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/t7HnWeDl/black#38",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Accelerated_Move_Order"
+  },
+  {
+    "PuzzleId": "LKbxO",
+    "FEN": "k6r/pp6/3Q4/3Rp3/4P1nq/BPP4P/P4Pp1/3R3K w - - 0 35",
+    "Moves": "h1g1 h4f2",
+    "Rating": "651",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "100",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gDilsI3c#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LKcbv",
+    "FEN": "r3r1k1/p1b5/8/1pBP1b2/2P3pR/P2P2P1/3K1P2/7R b - - 3 26",
+    "Moves": "g8f7 h4h7 f5h7 h1h7 f7g6 h7c7",
+    "Rating": "916",
+    "RatingDeviation": "101",
+    "Popularity": "75",
+    "NbPlays": "42",
+    "Themes": "advantage exposedKing long middlegame sacrifice skewer",
+    "GameUrl": "https://lichess.org/v2gHsY9r/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LKcdy",
+    "FEN": "r1b1k2r/ppp2pp1/2np1q1p/3Pp3/2P1P3/2PB1N2/P4PPP/R2QK2R b KQkq - 0 10",
+    "Moves": "c6a5 d1a4 c8d7 a4a5",
+    "Rating": "905",
+    "RatingDeviation": "78",
+    "Popularity": "89",
+    "NbPlays": "342",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/dLLaY0h9/black#20",
+    "OpeningTags": "Mexican_Defense Mexican_Defense_Other_variations"
+  }
+]

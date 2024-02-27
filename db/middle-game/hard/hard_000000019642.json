@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "p03NG",
+    "FEN": "2B5/k1p1bp2/5n2/1K6/3P3p/r4N2/1R6/1R6 w - - 6 38",
+    "Moves": "b5c6 a3c3 c6b5 c7c6 b5a4 c3a3",
+    "Rating": "1732",
+    "RatingDeviation": "95",
+    "Popularity": "89",
+    "NbPlays": "56",
+    "Themes": "fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/9zeoZG0H#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "p07bA",
+    "FEN": "r2q1rk1/p3bp1p/1p1p2pP/3Pp3/3n4/3BQP2/PPPB1P1R/2KR4 b - - 0 16",
+    "Moves": "e7g5 e3g5 d8g5 d2g5 d4f3 h2g2 f3g5 g2g5",
+    "Rating": "1621",
+    "RatingDeviation": "75",
+    "Popularity": "47",
+    "NbPlays": "561",
+    "Themes": "advantage middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/KX6Mk8UQ/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "p09Jz",
+    "FEN": "2rr2k1/1b1q1ppp/1p6/4p1Q1/2Pp4/pP3P1P/P1B3P1/3RR1K1 w - - 1 24",
+    "Moves": "e1e5 f7f6 c2h7 g8h7 g5h4 h7g8",
+    "Rating": "1761",
+    "RatingDeviation": "90",
+    "Popularity": "68",
+    "NbPlays": "40",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/qsM8DNFP#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "p09iA",
+    "FEN": "8/2p1r3/1kn4r/1p1p1Pp1/1n1b3p/1P2PP1P/4Q2B/R4RK1 w - - 0 34",
+    "Moves": "f3f4 e7e3 e2g4 e3g3 g1h1 g3g4",
+    "Rating": "1749",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "12354",
+    "Themes": "advantage doubleCheck exposedKing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/LKdSBHDw#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "p0AbR",
+    "FEN": "2r2br1/4kp2/1q1p1p2/3RpP2/1p2P1Pp/1Q3R1P/1PP5/1KN5 w - - 0 26",
+    "Moves": "c1d3 b6g1 d3c1 f8h6",
+    "Rating": "1677",
+    "RatingDeviation": "75",
+    "Popularity": "78",
+    "NbPlays": "93",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/RmSc586p#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "p0Afk",
+    "FEN": "r1b3k1/1pQ2p1p/p5p1/3Pr3/P3Pp1q/5B1P/6P1/1RR4K b - - 2 29",
+    "Moves": "e5g5 c7d8 g8g7 c1c8 a8c8 d8c8",
+    "Rating": "1654",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "696",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/CoPTbv6f/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "p0Ces",
+    "FEN": "2r2r1k/pp1Q2pb/7p/7P/1b1Pp1p1/4P1N1/Pq1B1PB1/3RK2R w K - 4 25",
+    "Moves": "d2b4 b2f2",
+    "Rating": "1665",
+    "RatingDeviation": "82",
+    "Popularity": "87",
+    "NbPlays": "2106",
+    "Themes": "attackingF2F7 master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/HM8NAjCZ#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "p0CnA",
+    "FEN": "3r2k1/3r2p1/p1p1p1np/3bq3/4Pp2/B4P1R/P2QB1PP/2R3K1 w - - 1 31",
+    "Moves": "e4d5 d7d5 d2e1 e5e3 g1f1 e3a3",
+    "Rating": "1713",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "186",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/FxsjwJi8#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "p0Dbj",
+    "FEN": "r1b1r1k1/pp2bpp1/2p2n1p/q3B3/4P3/2NB2Q1/PPP2PPP/1R2K2R w K - 2 15",
+    "Moves": "e1g1 f6h5 e5c7 h5g3 c7a5 g3f1",
+    "Rating": "1606",
+    "RatingDeviation": "75",
+    "Popularity": "64",
+    "NbPlays": "508",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/O8Z2ehOv#29",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  }
+]

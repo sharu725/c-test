@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DSnHx",
+    "FEN": "3r4/pp2bkp1/1q2p1p1/3pPpPr/P2n1B2/5N1P/1P3K2/R2Q1B1R w - - 0 22",
+    "Moves": "d1d4 e7c5 d4c5 b6c5",
+    "Rating": "1563",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "2",
+    "Themes": "equality middlegame pin short",
+    "GameUrl": "https://lichess.org/nTktY8FN#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSq9A",
+    "FEN": "r2q1r2/n3ppbk/bp1n2pp/pN6/P1BP4/4BN2/1P2QPPP/R4RK1 b - - 0 18",
+    "Moves": "d8d7 b5d6 a6c4 d6c4",
+    "Rating": "1476",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "1165",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/J1GWVDXd/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "DSsMw",
+    "FEN": "r1bq1rk1/pp5p/3p1bp1/4p3/2P1R3/3B1QPP/PP3P1B/R5K1 b - - 0 20",
+    "Moves": "c8h3 g3g4 f6h4 f3h3",
+    "Rating": "1531",
+    "RatingDeviation": "76",
+    "Popularity": "73",
+    "NbPlays": "70",
+    "Themes": "advantage discoveredAttack middlegame quietMove short trappedPiece",
+    "GameUrl": "https://lichess.org/gFOzRh9K/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DStPM",
+    "FEN": "2kr3r/pppqn2p/2nbbp2/1N4p1/8/3PBN2/PPP1BPPP/R2Q1RK1 w - - 0 11",
+    "Moves": "e3a7 c6a7",
+    "Rating": "1445",
+    "RatingDeviation": "76",
+    "Popularity": "64",
+    "NbPlays": "258",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/64L31mLk#21",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Boehnke_Gambit"
+  },
+  {
+    "PuzzleId": "DSttU",
+    "FEN": "r2q1r2/ppp1bp1k/3p2pB/4p3/2B1P3/3P2N1/PPPQ1P1P/2Kb2R1 w - - 0 16",
+    "Moves": "d2d1 h7h6 d1g4 e7g5",
+    "Rating": "1478",
+    "RatingDeviation": "486",
+    "Popularity": "100",
+    "NbPlays": "2",
+    "Themes": "equality hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/JqXozcEm#31",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSuUk",
+    "FEN": "1k1r3r/ppp1n1pp/5n2/2q5/N2p4/1B3Q1P/P4PP1/R3R1K1 b - - 1 23",
+    "Moves": "c5c6 e1e7 c6f3 g2f3",
+    "Rating": "1411",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "7027",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/lwz7JERh/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSukX",
+    "FEN": "r2qkb1r/pp2pppp/1n6/3P4/6Q1/2N5/PP3PPP/R1B1K2R b KQkq - 0 12",
+    "Moves": "b6d5 g4a4 d8d7 a4d7 e8d7 c3d5",
+    "Rating": "1456",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "544",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/x5Hic6Ra/black#24",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Two_Pawn_Attack"
+  },
+  {
+    "PuzzleId": "DSvlE",
+    "FEN": "4br2/1p4k1/p3r1pq/3pP1RP/1P1P4/6R1/P1Q2PP1/6K1 w - - 3 34",
+    "Moves": "h5g6 e6c6 c2d2 e8d7 e5e6 d7e6",
+    "Rating": "1424",
+    "RatingDeviation": "303",
+    "Popularity": "-100",
+    "NbPlays": "4",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/ziLjs0AS#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSwEz",
+    "FEN": "r4rk1/1ppq1pp1/1p1p3p/4p3/PPN1Pnn1/1QPP1N1P/5PPK/R4R2 w - - 4 18",
+    "Moves": "h3g4 d7g4 c4e3 g4h5 f3h4 h5h4 h2g1 f4e2",
+    "Rating": "1593",
+    "RatingDeviation": "77",
+    "Popularity": "60",
+    "NbPlays": "76",
+    "Themes": "mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/ZTWZhBHJ#35",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Piano"
+  }
+]

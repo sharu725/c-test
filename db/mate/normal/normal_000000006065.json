@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "W3hJL",
+    "FEN": "rnb1kb1r/pp4p1/2p2n1p/6N1/5B2/8/PPP1B1PP/2KRR3 b kq - 1 13",
+    "Moves": "h6g5 e2h5",
+    "Rating": "1261",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "130",
+    "Themes": "doubleCheck mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/WF681pfw/black#26",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense"
+  },
+  {
+    "PuzzleId": "W3hjL",
+    "FEN": "1rR4k/6p1/7p/1p2pQr1/1P2P3/P3q3/6PP/2R4K b - - 8 32",
+    "Moves": "b8c8 c1c8",
+    "Rating": "1327",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "155",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/sKnZS0f3/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "W3hw2",
+    "FEN": "1r6/5p1k/3p1Pp1/1q1n2Pp/2Q2R1P/1P6/p7/K2R4 b - - 0 34",
+    "Moves": "d5f4 c4f7 h7h8 f7g7",
+    "Rating": "1210",
+    "RatingDeviation": "78",
+    "Popularity": "70",
+    "NbPlays": "94",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/VD9foAMj/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "W3iXU",
+    "FEN": "3q1r1k/2pb1ppn/2pp3p/p3bP1N/4P1Q1/3BB2P/PrP3P1/R4RK1 b - - 3 19",
+    "Moves": "h7f6 g4g7",
+    "Rating": "1316",
+    "RatingDeviation": "348",
+    "Popularity": "43",
+    "NbPlays": "11",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/fh9wr84x/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "W3j49",
+    "FEN": "2k3rr/1pp2p2/p3q3/3p4/P3nP2/1QP2N1P/1P4P1/3R1KR1 w - - 1 25",
+    "Moves": "b3d5 e4g3 f1f2 e6e2",
+    "Rating": "1341",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "4094",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/MFJTB5ed#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "W3kRu",
+    "FEN": "3k2r1/3bRp2/p2Q1p2/5q2/7p/3P2N1/PPr2P1N/R5K1 w - - 2 26",
+    "Moves": "a1e1 f5f2 g1h1 f2h2",
+    "Rating": "1210",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "4247",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/MPsfGyyj#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "W3kgg",
+    "FEN": "5r1k/6pp/6q1/8/1P5Q/P4pP1/4rP1P/1R2R1K1 w - - 3 32",
+    "Moves": "e1e2 g6b1 e2e1 b1e1",
+    "Rating": "1242",
+    "RatingDeviation": "86",
+    "Popularity": "79",
+    "NbPlays": "100",
+    "Themes": "endgame hangingPiece mate mateIn2 short",
+    "GameUrl": "https://lichess.org/eax99g14#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "W3qdm",
+    "FEN": "6k1/p2n1ppp/4b3/8/4qP2/6PP/Prr2RBK/2RQ4 b - - 1 29",
+    "Moves": "c2f2 c1c8 d7f8 c8f8 g8f8 d1d8",
+    "Rating": "1207",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "224",
+    "Themes": "attraction long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/M8fTPyoe/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "W3v2n",
+    "FEN": "6k1/5ppp/B1Q1p3/P3P3/3r3q/2P2P2/1r5P/R2K3R w - - 0 27",
+    "Moves": "c3d4 h4d4 a6d3 d4d3 d1c1 d3d2",
+    "Rating": "1347",
+    "RatingDeviation": "75",
+    "Popularity": "76",
+    "NbPlays": "149",
+    "Themes": "endgame exposedKing long mate mateIn3",
+    "GameUrl": "https://lichess.org/WfffEPLx#53",
+    "OpeningTags": ""
+  }
+]

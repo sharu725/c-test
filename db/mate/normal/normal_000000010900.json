@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "vShN7",
+    "FEN": "r1bqr1k1/pp4pQ/2n1p3/4P1N1/3b3n/2N5/PP3PPP/R5K1 b - - 3 19",
+    "Moves": "g8f8 h7h8 f8e7 h8g7",
+    "Rating": "1339",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "2717",
+    "Themes": "deflection fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/jI8L6Wn8/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "vSkLn",
+    "FEN": "r1b1kb1r/1p1q1Bpp/p4n2/8/5B2/3R2P1/P1P1PP1P/3Q1RK1 b kq - 0 17",
+    "Moves": "d7f7 d3d8 e8e7 d1d6",
+    "Rating": "1224",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "509",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/DZQMtRxT/black#34",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Englund_Gambit"
+  },
+  {
+    "PuzzleId": "vSkMO",
+    "FEN": "r3r1k1/pp2ppbp/2p3p1/4B3/2PPP1n1/2NB3q/P4P2/R2QR1K1 w - - 1 17",
+    "Moves": "e5g7 h3h2 g1f1 h2f2",
+    "Rating": "1343",
+    "RatingDeviation": "75",
+    "Popularity": "79",
+    "NbPlays": "204",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/tCD3lLy5#33",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "vSlrx",
+    "FEN": "r4rk1/1bpn1pp1/p3pn1p/1p1qN3/3P4/P1BB4/1PP2PPP/R2QR1K1 w - - 4 16",
+    "Moves": "e5d7 d5g2",
+    "Rating": "1214",
+    "RatingDeviation": "77",
+    "Popularity": "72",
+    "NbPlays": "90",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4Ee4mxTY#31",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "vSlx6",
+    "FEN": "8/6R1/2p5/4p1p1/6P1/4k2P/P6r/4K3 w - - 4 53",
+    "Moves": "g7g5 h2h1",
+    "Rating": "1218",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "202",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/3aW9zmnx#105",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vSmug",
+    "FEN": "r4rk1/1b3p1p/1p4p1/p3Bp2/2q1nP2/5R1Q/2P3PP/3R3K b - - 1 30",
+    "Moves": "c4c2 h3h7 g8h7 f3h3 h7g8 h3h8",
+    "Rating": "1391",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1276",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/YM14Pp5e/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vSoEj",
+    "FEN": "3r3k/5Qpp/p6q/3r4/P7/1P6/5nP1/5RK1 b - - 4 35",
+    "Moves": "f2g4 f7f8 d8f8 f1f8",
+    "Rating": "1253",
+    "RatingDeviation": "106",
+    "Popularity": "82",
+    "NbPlays": "21",
+    "Themes": "backRankMate endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/qrLRXM6j/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vSs8a",
+    "FEN": "r3k3/1p3p1Q/p1p5/4P3/2p2Pp1/B1P2qp1/P7/3RR2K w q - 3 29",
+    "Moves": "h1g1 f3f2 g1h1 g3g2 h1h2 g2g1q",
+    "Rating": "1382",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "3936",
+    "Themes": "advancedPawn doubleCheck endgame exposedKing long mate mateIn3 promotion",
+    "GameUrl": "https://lichess.org/awssl1U1#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vSuiH",
+    "FEN": "6k1/4r2p/6pP/3p2P1/3Q4/pP6/P4q2/K2R4 w - - 4 39",
+    "Moves": "d4d2 f2d2 d1d2 e7e1 d2d1 e1d1",
+    "Rating": "1293",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "8839",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/W980Pg7i#77",
+    "OpeningTags": ""
+  }
+]

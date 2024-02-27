@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HG6Ch",
+    "FEN": "r3k2r/1pp2ppp/p3p3/3p4/3P2nN/3PP3/Pq2N1P1/R2Q1K1R w kq - 0 18",
+    "Moves": "a1b1 g4e3 f1e1 e3d1 b1b2 d1b2",
+    "Rating": "1128",
+    "RatingDeviation": "78",
+    "Popularity": "71",
+    "NbPlays": "208",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/fCPv9YmB#35",
+    "OpeningTags": "Rapport-Jobava_System Rapport-Jobava_System_Other_variations"
+  },
+  {
+    "PuzzleId": "HGBBW",
+    "FEN": "r3kb1r/5ppp/p3p3/5P2/Pp1N4/2qQB3/nKPR2PP/7R w kq - 2 19",
+    "Moves": "d3c3 b4c3 b2a2 c3d2",
+    "Rating": "1144",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "2630",
+    "Themes": "advancedPawn crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/sNtpQekA#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "HGDXF",
+    "FEN": "r5k1/rp1n1ppp/1pp1b3/3nP3/Pb6/1P3NPP/1B1N1PB1/R4RK1 w - - 1 18",
+    "Moves": "f3g5 b4d2 g5e6 f7e6",
+    "Rating": "1040",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "1436",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/mazowUGb#35",
+    "OpeningTags": "Kings_Indian_Attack Kings_Indian_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "HGFQS",
+    "FEN": "r3k2r/p1p3pp/4p3/1p1q1p2/3P4/3KP2P/PPP1P1P1/R1QNbB1R w kq - 0 19",
+    "Moves": "d1c3 d5c4",
+    "Rating": "1087",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "2825",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/HRKmoDf0#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "HGG8b",
+    "FEN": "rn3rk1/p1q1n1p1/bpp1pp1p/8/1P1PP3/P2N1N2/2Q1BPPP/2R1K2R w K - 4 18",
+    "Moves": "d3f4 c7f4 e2a6 b8a6",
+    "Rating": "1119",
+    "RatingDeviation": "83",
+    "Popularity": "25",
+    "NbPlays": "99",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/V6q20GFq#35",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Arctic_Defense"
+  },
+  {
+    "PuzzleId": "HGGAd",
+    "FEN": "2r2rk1/1p1b1ppp/p4q2/3B1P2/8/P7/1PP3PP/R2Q1RK1 w - - 0 19",
+    "Moves": "d5b7 f6b6 f1f2 b6b7",
+    "Rating": "1132",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "1698",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/OMKYHEcr#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "HGGOo",
+    "FEN": "r2qk2r/pp1N1pp1/4bb1p/2pp4/3P4/2NB4/PPP2PPP/R2QK2R b KQkq - 0 11",
+    "Moves": "d8d7 d3b5",
+    "Rating": "1135",
+    "RatingDeviation": "174",
+    "Popularity": "-67",
+    "NbPlays": "7",
+    "Themes": "crushing middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/hWwBHCWB/black#22",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "HGGv8",
+    "FEN": "r3r1k1/p1pb1ppp/2p5/4q3/8/2PB1Q1P/P4PP1/R4RK1 b - - 0 20",
+    "Moves": "e5c3 d3h7 g8h7 f3c3",
+    "Rating": "1123",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1146",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/XkYIdSVc/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HGHwa",
+    "FEN": "r7/p2R1pkp/2p1n3/6Pp/4NP1n/4K1N1/Pr6/3R4 b - - 5 26",
+    "Moves": "g7g6 f4f5 h4f5 g3f5",
+    "Rating": "1167",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "891",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/TFCfFU0Z/black#52",
+    "OpeningTags": ""
+  }
+]

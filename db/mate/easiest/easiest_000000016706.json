@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "WTPUJ",
+    "FEN": "2r2rk1/1b1nbppp/pqpNp3/1p1nP3/1P1P4/P2Q1N2/5PPP/RBB2RK1 b - - 3 17",
+    "Moves": "e7d6 d3h7",
+    "Rating": "712",
+    "RatingDeviation": "80",
+    "Popularity": "88",
+    "NbPlays": "160",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/avzzKtCL/black#34",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Normal_Defense"
+  },
+  {
+    "PuzzleId": "WTQaO",
+    "FEN": "Rr4k1/1Pr2ppp/4p3/3p4/8/8/5PPP/1R4K1 b - - 2 27",
+    "Moves": "c7b7 a8b8 b7b8 b1b8",
+    "Rating": "722",
+    "RatingDeviation": "80",
+    "Popularity": "97",
+    "NbPlays": "627",
+    "Themes": "backRankMate endgame mate mateIn2 rookEndgame short xRayAttack",
+    "GameUrl": "https://lichess.org/7vbL4mzK/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WTQrr",
+    "FEN": "1b1r1rk1/1p3p1p/p4Qp1/8/4p3/1P2PN1P/PB3PP1/2Rq2K1 w - - 0 23",
+    "Moves": "c1d1 d8d1 f3e1 d1e1",
+    "Rating": "804",
+    "RatingDeviation": "102",
+    "Popularity": "82",
+    "NbPlays": "33",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/zpPITHd9#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WTRTV",
+    "FEN": "3r2k1/4bpp1/R3p2p/3rP3/3N4/4B3/1P3PPP/1R4K1 w - - 4 25",
+    "Moves": "d4c6 d5d1 b1d1 d8d1",
+    "Rating": "703",
+    "RatingDeviation": "104",
+    "Popularity": "75",
+    "NbPlays": "30",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/fh52p7Hj#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WTRgv",
+    "FEN": "r1r3k1/5p1p/1Q1p2p1/1R2p3/1pq1P3/5P2/PPP3PP/1KR5 w - - 2 24",
+    "Moves": "b5b4 c4a2",
+    "Rating": "918",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "414",
+    "Themes": "endgame mate mateIn1 oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/WMzB1DVR#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WTRkX",
+    "FEN": "8/q5kp/5pp1/p2Pr2n/1PP5/P1Q2P2/6PP/R4R1K w - - 0 28",
+    "Moves": "d5d6 h5g3 h2g3 e5h5",
+    "Rating": "950",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "2440",
+    "Themes": "clearance endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/Mwp2RASp#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WTUAU",
+    "FEN": "5R2/6R1/7p/8/4P1Pk/1qp5/2r2B1P/6K1 b - - 2 43",
+    "Moves": "h4h3 f8f3",
+    "Rating": "779",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "812",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/8eH5tsbe/black#86",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WTUhC",
+    "FEN": "R7/6k1/P4pp1/8/6PK/r6P/8/8 w - - 0 51",
+    "Moves": "a6a7 g6g5 h4h5 a3h3",
+    "Rating": "910",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "2025",
+    "Themes": "deflection endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/PycR5hxB#101",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WTVkw",
+    "FEN": "8/6k1/2R5/7p/5ppP/2P2P2/6PK/2r5 w - - 0 50",
+    "Moves": "c6c4 g4g3 h2h3 c1h1",
+    "Rating": "949",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1530",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/f7BQPuq6#99",
+    "OpeningTags": ""
+  }
+]

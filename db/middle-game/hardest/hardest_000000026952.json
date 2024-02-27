@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "tkP3V",
+    "FEN": "2kr3r/pppq1ppp/2n1b3/3p4/3P1p2/B1PB4/P1P1Q1PP/1R3RK1 b - - 7 13",
+    "Moves": "h8e8 d3a6 c6a5 a6b7 a5b7 e2a6",
+    "Rating": "2254",
+    "RatingDeviation": "86",
+    "Popularity": "88",
+    "NbPlays": "97",
+    "Themes": "advantage long master middlegame queensideAttack sacrifice",
+    "GameUrl": "https://lichess.org/0G75TW18/black#26",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "tkR7D",
+    "FEN": "3rr1k1/1pp2pp1/p1n2q1p/4p3/4P3/PQPP3P/4BPP1/R4RK1 w - - 2 18",
+    "Moves": "b3b7 d8b8 b7a6 c6d4 a6f6 d4e2 g1h2 g7f6",
+    "Rating": "2053",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "71",
+    "Themes": "advantage middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/klODldQ3#35",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Leonardis_Variation"
+  },
+  {
+    "PuzzleId": "tkR9J",
+    "FEN": "2r3k1/3q1ppp/prNp4/3Pp3/1p1b2PP/1P1B1P2/P1P1Q3/2K4R b - - 6 27",
+    "Moves": "d4c3 d3f5 d7e8 f5c8",
+    "Rating": "2024",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "5607",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/hpL62aA0/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tkSQF",
+    "FEN": "r5k1/p4r1p/1pp1qn1R/3p1pp1/3Q4/1B2PP2/PPP3P1/2K4R b - - 1 24",
+    "Moves": "c6c5 h6f6 f7f6 d4d5",
+    "Rating": "2137",
+    "RatingDeviation": "83",
+    "Popularity": "78",
+    "NbPlays": "36",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/iQ4GjBAi/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tkT8V",
+    "FEN": "2b1R3/p4r2/Pp6/1Np1n3/4kq1p/1P5P/2P1Q1P1/6K1 b - - 4 44",
+    "Moves": "e4d5 c2c4 d5c6 e8c8 c6d7 c8c7",
+    "Rating": "2195",
+    "RatingDeviation": "88",
+    "Popularity": "80",
+    "NbPlays": "23",
+    "Themes": "crushing long master middlegame",
+    "GameUrl": "https://lichess.org/rc3Dopji/black#88",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tkU9h",
+    "FEN": "r2q1kr1/2p2p2/b2p1n2/3Pp3/B3P3/2P1PpN1/1P3R1P/R2Q2K1 w - - 0 24",
+    "Moves": "a4c6 a6e2 a1a8 d8a8 c6a8 e2d1",
+    "Rating": "2119",
+    "RatingDeviation": "77",
+    "Popularity": "74",
+    "NbPlays": "75",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/5icOEvsG#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tkUXR",
+    "FEN": "3r1rk1/pbn1p1bp/1p2Pppq/2pP4/P1B1N3/5NPP/1P2QP1K/R2R4 b - - 2 20",
+    "Moves": "f6f5 d5d6 f5e4 d6e7",
+    "Rating": "2171",
+    "RatingDeviation": "74",
+    "Popularity": "84",
+    "NbPlays": "290",
+    "Themes": "advancedPawn crushing middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/3bgHdihR/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tkVAs",
+    "FEN": "4N3/3Q1Rpk/p2p2r1/4p2n/1p1nP2P/1PqP4/P1P3P1/1K5R w - - 7 30",
+    "Moves": "h1c1 d4b5 d7b5 a6b5",
+    "Rating": "2140",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "292",
+    "Themes": "crushing middlegame quietMove short",
+    "GameUrl": "https://lichess.org/xT8cb1EH#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tkW0w",
+    "FEN": "r3k1nr/3p1ppp/b1p5/p3pN2/P1P1P3/1q3P2/1P2QbPP/RNB2K1R w kq - 1 14",
+    "Moves": "e2f2 b3c4 f1g1 c4c1 f2e1 c1e1",
+    "Rating": "2373",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "2000",
+    "Themes": "fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/Y5pdphMq#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  }
+]

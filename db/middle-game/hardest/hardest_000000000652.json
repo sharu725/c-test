@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "1Mxoj",
+    "FEN": "r2q1rk1/ppp1bppp/2n1pnb1/4N1B1/2PPN2Q/3B4/PP4PP/3R1R1K b - - 2 16",
+    "Moves": "d8d4 e5c6 b7c6 e4f6 e7f6 g5f6 d4h4 f6h4",
+    "Rating": "2205",
+    "RatingDeviation": "82",
+    "Popularity": "82",
+    "NbPlays": "215",
+    "Themes": "advantage kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/OB8uH9C3/black#32",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Vienna_Variation"
+  },
+  {
+    "PuzzleId": "1MxsG",
+    "FEN": "r2qr1k1/1p2bpp1/p2p1n1p/4n2b/6P1/2NBBN1P/PPP1QP2/R4RK1 b - - 0 16",
+    "Moves": "f6g4 f3e5 g4f6 e5g4 h5g4 h3g4",
+    "Rating": "2269",
+    "RatingDeviation": "85",
+    "Popularity": "90",
+    "NbPlays": "705",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/HwLSfOhG/black#32",
+    "OpeningTags": "Russian_Game Russian_Game_Classical_Attack"
+  },
+  {
+    "PuzzleId": "1N2QL",
+    "FEN": "3r2k1/5p1p/6p1/p4P2/q2Br3/8/P2Q2PP/3R1R1K w - - 1 29",
+    "Moves": "f1e1 e4d4 d2d4 d8d4",
+    "Rating": "2193",
+    "RatingDeviation": "81",
+    "Popularity": "89",
+    "NbPlays": "802",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/xxbTxbGx#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1N3SA",
+    "FEN": "2R5/p2Q4/1b3qpk/1p4r1/5p2/1P4N1/P4P1P/5RK1 w - - 2 36",
+    "Moves": "d7e8 f4g3 e8h8 f6h8 c8h8 h6g7 h2g3 g7h8",
+    "Rating": "2067",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "8770",
+    "Themes": "advantage attraction middlegame veryLong",
+    "GameUrl": "https://lichess.org/gCKoZkJM#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1N3Yq",
+    "FEN": "rn2kr2/pQ3p2/3p4/2p5/4P1p1/3NK3/PPq2P1P/R7 b q - 1 23",
+    "Moves": "c5c4 d3b4 c2d3 b4d3",
+    "Rating": "2255",
+    "RatingDeviation": "88",
+    "Popularity": "83",
+    "NbPlays": "30",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/fs3kZkyV/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1N4by",
+    "FEN": "r3k2r/pppq2p1/2nb3p/4p3/2B2B2/2P2R2/P1P1Q1PP/5RK1 w kq - 0 15",
+    "Moves": "f4e5 c6e5 f3f7 d7g4",
+    "Rating": "2335",
+    "RatingDeviation": "87",
+    "Popularity": "84",
+    "NbPlays": "35",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/vZVLA1lz#29",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "1N536",
+    "FEN": "r1b1kb1r/p2n1p2/P3pP1n/1N1pP2p/3P4/5RPP/1PPB4/R5K1 b kq - 0 23",
+    "Moves": "e8d8 d2a5 d7b6 b5a7",
+    "Rating": "2054",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1274",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/JJWOvt2B/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1N5G0",
+    "FEN": "r1b2rk1/ppp3pp/4ppn1/8/2q1P3/2Q3B1/PP3PPP/2R2RK1 b - - 0 15",
+    "Moves": "c4a2 c1a1 a2a1 f1a1",
+    "Rating": "2043",
+    "RatingDeviation": "118",
+    "Popularity": "100",
+    "NbPlays": "46",
+    "Themes": "equality middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/plCblfJD/black#30",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1N9ID",
+    "FEN": "r1b2rk1/pp1pb1pp/5p2/8/3pPBQ1/3P2P1/PqP3BP/R4RK1 b - - 1 15",
+    "Moves": "b2c2 f4h6 f8f7 e4e5 d7d5 e5e6 c8e6 g4e6",
+    "Rating": "2053",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "1039",
+    "Themes": "advantage middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/4FZQ7r7e/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  }
+]

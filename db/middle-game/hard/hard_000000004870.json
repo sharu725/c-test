@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Cg4C7",
+    "FEN": "6k1/2p2ppp/1p6/r1n1P3/5PPq/2Q5/1PP3B1/2KR2R1 w - - 0 28",
+    "Moves": "g2d5 a5a1 c1d2 h4f2",
+    "Rating": "1785",
+    "RatingDeviation": "172",
+    "Popularity": "56",
+    "NbPlays": "28",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/cnFjgcwP#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Cg4xd",
+    "FEN": "r5k1/pp2b1p1/3qb2p/3pNrBQ/2pP3P/2P5/PP4P1/4RRK1 w - - 4 20",
+    "Moves": "e5g6 e7g5 h4g5 f5g5 h5g5 h6g5",
+    "Rating": "1756",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "58",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/nHFBVWo5#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Cg5T2",
+    "FEN": "3r1rk1/pp4b1/3p4/2p1p2p/2P1PpnP/2N5/PPP2P2/3RB1RK b - - 1 25",
+    "Moves": "g7f6 f2f3 g8f7 f3g4",
+    "Rating": "1708",
+    "RatingDeviation": "133",
+    "Popularity": "83",
+    "NbPlays": "10",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/e4ZpYn9b/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Cg6ZH",
+    "FEN": "r2q1rk1/1pp2ppp/1pnp3B/1B2pP2/1P2P3/2PP1PQ1/P6P/R4bK1 b - - 1 16",
+    "Moves": "d8f6 h6g5 f6g5 g3g5",
+    "Rating": "1670",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "1153",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/Fkw3p2xp/black#32",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "Cg6pw",
+    "FEN": "r1bq3r/pppp2k1/5b2/6RQ/5R2/2p5/PPP2PPP/6K1 b - - 0 17",
+    "Moves": "f6g5 f4f7 g7g8 h5g6",
+    "Rating": "1734",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "2892",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/XGJDmmxH/black#34",
+    "OpeningTags": "Italian_Game Italian_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "Cg7OF",
+    "FEN": "r1b4r/pp1k1ppp/2n1p2q/1NBp4/2P2P2/P5P1/2P5/R2QKB2 b Q - 0 17",
+    "Moves": "b7b6 c4d5 b6c5 d5c6",
+    "Rating": "1661",
+    "RatingDeviation": "82",
+    "Popularity": "89",
+    "NbPlays": "48",
+    "Themes": "crushing doubleCheck middlegame short",
+    "GameUrl": "https://lichess.org/kLRxgvyK/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Four_Knights_Variation"
+  },
+  {
+    "PuzzleId": "Cg7kR",
+    "FEN": "r4rk1/1q2nppp/pBn5/5b2/8/1Q3B2/PP3PPP/RN3RK1 w - - 1 17",
+    "Moves": "b1c3 f5e6 b3a3 b7b6",
+    "Rating": "1603",
+    "RatingDeviation": "179",
+    "Popularity": "-84",
+    "NbPlays": "10",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/8bYXJF7l#33",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Tarrasch_Defense"
+  },
+  {
+    "PuzzleId": "Cg7sI",
+    "FEN": "1k4r1/1b2nQbq/pp1p4/2p1p1B1/P7/3P3P/1PP3P1/R4R1K w - - 0 28",
+    "Moves": "g5e7 h7h3 h1g1 h3g2",
+    "Rating": "1689",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "2994",
+    "Themes": "kingsideAttack master mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/vQHDoAlE#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CgAml",
+    "FEN": "r3k2r/pp2bpp1/3p1n2/3Pp2p/1P2Pnq1/P3RNP1/1B1N1P1P/R2Q2K1 w kq - 0 17",
+    "Moves": "g1f1 g4h3 f1e1 f4g2 e1e2 g2e3",
+    "Rating": "1783",
+    "RatingDeviation": "80",
+    "Popularity": "79",
+    "NbPlays": "44",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/6SHt1EQk#33",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  }
+]

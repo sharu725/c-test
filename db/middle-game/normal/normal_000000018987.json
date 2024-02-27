@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "tRCtf",
+    "FEN": "r2qk2r/pppn2pp/3bpp2/3pN3/3PNP2/4P3/PPP3PP/R1BQK2R b KQkq - 0 9",
+    "Moves": "d5e4 d1h5 g7g6 e5g6 h7g6 h5h8",
+    "Rating": "1240",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "5173",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/1mOhaxKZ/black#18",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  },
+  {
+    "PuzzleId": "tRJ2p",
+    "FEN": "2r1r3/p3ppk1/3p1n1p/5PpP/1p4P1/4QP2/PPq1N3/K1R4R b - - 5 25",
+    "Moves": "f6d5 e3d4 d5f6 c1c2",
+    "Rating": "1323",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "15448",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/fHOX6FEX/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tRK0J",
+    "FEN": "r3k2r/pp2bppp/2p4q/4PP2/3p1nb1/1B1P1N2/PPP2QPP/R1B2RK1 w kq - 3 17",
+    "Moves": "f2g3 f4e2 g1f2 e2g3 c1h6 g3f1 h6g7 h8g8",
+    "Rating": "1342",
+    "RatingDeviation": "245",
+    "Popularity": "-33",
+    "NbPlays": "3",
+    "Themes": "advantage fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/qzFGlbdX#33",
+    "OpeningTags": "Italian_Game Italian_Game_Blackburne-Kostic_Gambit"
+  },
+  {
+    "PuzzleId": "tRLN3",
+    "FEN": "r5k1/2p3p1/p1P4p/1pb2r1q/2P1np2/N4P2/PP1BR1PP/R4Q1K w - - 3 25",
+    "Moves": "f3e4 h5h2 h1h2 f5h5",
+    "Rating": "1384",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "363",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/OpYrNgjC#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tRP7x",
+    "FEN": "r2k4/4b2p/r1p1Pp1p/2pb1P2/P1Np2P1/1P5P/K6Q/1RR5 w - - 3 37",
+    "Moves": "c4d6 a6a4 a2b2 a4a2",
+    "Rating": "1336",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "647",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/TczqVvxk#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tRQSi",
+    "FEN": "r2q1r1k/pp1nb1p1/2p4N/3n4/3PpP2/7Q/PP4PP/R1B2RK1 b - - 1 18",
+    "Moves": "d7f6 h6f7 h8g8 f7d8",
+    "Rating": "1294",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "112",
+    "Themes": "advantage doubleCheck middlegame short",
+    "GameUrl": "https://lichess.org/ulmaWcH8/black#36",
+    "OpeningTags": "Slav_Defense Slav_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "tRRYX",
+    "FEN": "2r3rk/8/p3Qbp1/1p1p3p/5P2/7R/PP3qNP/6RK b - - 0 31",
+    "Moves": "f6d4 h3h5 g6h5 e6h6",
+    "Rating": "1208",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "1805",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/0eqg5Hsx/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tRSdI",
+    "FEN": "7r/2k2b1p/5ppP/4n3/1pPbPB2/1P1N4/2KN2P1/R7 w - - 5 35",
+    "Moves": "d2f3 d4a1 f3e5 f6e5",
+    "Rating": "1389",
+    "RatingDeviation": "76",
+    "Popularity": "64",
+    "NbPlays": "148",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/asq3r9Xc#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tRTgq",
+    "FEN": "3qkb1r/1b3ppp/p1rp1n2/1pn1pN2/4P2P/P1N1BP2/1PPQ2P1/2KR1B1R w k - 4 13",
+    "Moves": "c3b5 c5b3 c1b1 b3d2",
+    "Rating": "1216",
+    "RatingDeviation": "96",
+    "Popularity": "65",
+    "NbPlays": "22",
+    "Themes": "crushing master middlegame pin queensideAttack short",
+    "GameUrl": "https://lichess.org/mpfNztMK#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  }
+]

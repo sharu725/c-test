@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "rl7PV",
+    "FEN": "r3k2r/5p1p/1qpPp1p1/p5Q1/8/5N1P/P3bPP1/2RR2K1 b kq - 0 23",
+    "Moves": "e2d1 g5e7",
+    "Rating": "1026",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "183",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ghp5xksI/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rl7hL",
+    "FEN": "5rk1/5ppp/8/3b1q2/1Q3n2/5P2/5P1P/3RR1K1 b - - 0 24",
+    "Moves": "d5f3 b4f8 g8f8 d1d8",
+    "Rating": "1119",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "4171",
+    "Themes": "attraction mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/cXJKclL7/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rl93l",
+    "FEN": "r1bqr2k/6pp/pp2pb2/R4pN1/2BP3P/1QN1P3/1P3PP1/4K2R b K - 0 16",
+    "Moves": "b6a5 g5f7 h8g8 f7d8",
+    "Rating": "1024",
+    "RatingDeviation": "81",
+    "Popularity": "85",
+    "NbPlays": "85",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/W4k6K9N8/black#32",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Queens_Knight_Variation"
+  },
+  {
+    "PuzzleId": "rl9Wp",
+    "FEN": "3q1rk1/p2bppbp/3p1npB/1p6/2rNP1P1/2N2P2/PPPQ4/1K1R3R b - - 2 17",
+    "Moves": "f6g4 h6g7",
+    "Rating": "1020",
+    "RatingDeviation": "81",
+    "Popularity": "93",
+    "NbPlays": "813",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/FjB67URz/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  },
+  {
+    "PuzzleId": "rlAxR",
+    "FEN": "N1b2rk1/pp1q1pbp/4p1p1/3pP1B1/3n4/PB6/1PP2PPP/R1Q2RK1 w - - 0 17",
+    "Moves": "f2f4 d4e2 g1h1 e2c1",
+    "Rating": "1051",
+    "RatingDeviation": "106",
+    "Popularity": "50",
+    "NbPlays": "38",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/fCuHwENl#33",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "rlBub",
+    "FEN": "2r3k1/5q1p/p2p1NnQ/1p2p3/3nP3/8/PPP2P2/2K4R b - - 3 25",
+    "Moves": "g8h8 h6h7 f7h7 h1h7",
+    "Rating": "1073",
+    "RatingDeviation": "85",
+    "Popularity": "76",
+    "NbPlays": "442",
+    "Themes": "arabianMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/XAA50WPH/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rlC0O",
+    "FEN": "8/4q3/p2r1bpk/1p3p1p/1PbN4/4PBP1/1Q1R1PP1/6K1 b - - 7 42",
+    "Moves": "d6d7 d4f5 g6f5 d2d7 f6b2 d7e7",
+    "Rating": "1035",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1044",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/KYY1U0mM/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rlCLu",
+    "FEN": "rn2kq1r/1p1n2p1/pp2p3/4N1Bp/1Q1P1P2/8/PP4PP/2R2RK1 b kq - 5 18",
+    "Moves": "f8b4 c1c8",
+    "Rating": "1099",
+    "RatingDeviation": "284",
+    "Popularity": "-67",
+    "NbPlays": "7",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/sL7UhR5I/black#36",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_McConnell_Defense"
+  },
+  {
+    "PuzzleId": "rlDQR",
+    "FEN": "r1b2rk1/p1p2ppp/1p1p2q1/3Nn3/4P3/P5P1/1PP1Q1BP/2KR3R b - - 1 18",
+    "Moves": "c8g4 d5e7 g8h8 e7g6",
+    "Rating": "1188",
+    "RatingDeviation": "87",
+    "Popularity": "89",
+    "NbPlays": "44",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/vYyoVCkY/black#36",
+    "OpeningTags": "Indian_Defense Indian_Defense_Maddigan_Gambit"
+  }
+]

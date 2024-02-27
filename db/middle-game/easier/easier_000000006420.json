@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "JUekq",
+    "FEN": "r2r3k/1p1q3p/p2n1pp1/P1Q1p3/2p1P1PN/1bP1R1NP/1P3PB1/6K1 b - - 1 32",
+    "Moves": "d6e8 c5f8",
+    "Rating": "1182",
+    "RatingDeviation": "151",
+    "Popularity": "71",
+    "NbPlays": "35",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/pf6EI9hs/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JUemx",
+    "FEN": "4r3/3k1ppp/2p5/2B5/2b5/P1N5/1r3PPP/1R3K1R w - - 8 22",
+    "Moves": "f1g1 b2b1 c3b1 e8e1",
+    "Rating": "1065",
+    "RatingDeviation": "86",
+    "Popularity": "90",
+    "NbPlays": "50",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/R9fTH0yK#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JUiQV",
+    "FEN": "r1b2rk1/3p1ppp/2p4q/p3p3/1nP1P3/P1NP1N1P/2PKQ1P1/R6R w - - 1 16",
+    "Moves": "e2e3 h6e3 d2e3 b4c2 e3d2 c2a1",
+    "Rating": "1011",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "94",
+    "Themes": "attraction crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/6yyQccB4#31",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Busch-Gass_Gambit"
+  },
+  {
+    "PuzzleId": "JUkGP",
+    "FEN": "rnbq1rk1/ppp2ppp/4p3/3p4/3P1B2/P1P1P3/2P2PPP/R2QKB1R w KQ - 1 9",
+    "Moves": "d1g4 e6e5 g4f3 e5f4",
+    "Rating": "1160",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "165",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/d5C89whf#17",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "JUkMJ",
+    "FEN": "8/6pk/Qp2p2p/6q1/1P1n1r2/2r1N2P/P4PP1/3RR1K1 w - - 1 32",
+    "Moves": "a6b6 d4f3 g1f1 f3e1",
+    "Rating": "1170",
+    "RatingDeviation": "80",
+    "Popularity": "67",
+    "NbPlays": "83",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/PudVSymL#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JUkOX",
+    "FEN": "rnbq2k1/pp3pBp/3p2p1/8/2P2n2/1P3N2/P3QPPP/R3K2R w KQ - 1 14",
+    "Moves": "e2b2 f4d3 e1e2 d3b2",
+    "Rating": "1127",
+    "RatingDeviation": "81",
+    "Popularity": "88",
+    "NbPlays": "176",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/sWK3Sh1a#27",
+    "OpeningTags": "Indian_Defense Indian_Defense_West_Indian_Defense"
+  },
+  {
+    "PuzzleId": "JUkr8",
+    "FEN": "2kr1br1/pp3p2/2npp2p/7n/3NPP1q/2N1B3/PP2QRPP/R6K w - - 6 17",
+    "Moves": "d4c6 h5g3 h1g1 g3e2",
+    "Rating": "1041",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "207",
+    "Themes": "crushing kingsideAttack master middlegame pin short",
+    "GameUrl": "https://lichess.org/fbR4O1bQ#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Canal_Attack"
+  },
+  {
+    "PuzzleId": "JUkui",
+    "FEN": "r7/1p2k3/p1n2bB1/3p4/3P4/1bP1BP2/1P5r/2K1R1R1 b - - 6 29",
+    "Moves": "e7d7 g6f5 d7c7 e3f4 c7b6 f4h2",
+    "Rating": "1186",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "6252",
+    "Themes": "advantage exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/whzNLkpn/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JUlD4",
+    "FEN": "r2qk2r/p2bbp2/1P2p1p1/n2pPn1p/Q2P1P2/2P2NP1/1p1N1B1P/1R2KB1R w Kkq - 1 17",
+    "Moves": "a4a5 a7b6 a5a8 d8a8",
+    "Rating": "1072",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "3021",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/OxYrPzlt#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  }
+]

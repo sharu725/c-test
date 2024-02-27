@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "rx0TT",
+    "FEN": "r2q1rk1/1p1b2p1/p3pp1p/3p3Q/8/2N3R1/PPP2PPP/5RK1 b - - 1 19",
+    "Moves": "g8h7 h5g6 h7h8 g6g7",
+    "Rating": "1109",
+    "RatingDeviation": "90",
+    "Popularity": "73",
+    "NbPlays": "25",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/wbNi1KZG/black#38",
+    "OpeningTags": "French_Defense French_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "rx2HH",
+    "FEN": "2r1k2r/4p1bp/p1n1bPpn/1p1N4/3P1P2/1B3N1P/P5P1/q1BQ1RK1 b k - 0 17",
+    "Moves": "g7f6 d5f6 e7f6 b3e6",
+    "Rating": "1039",
+    "RatingDeviation": "87",
+    "Popularity": "93",
+    "NbPlays": "213",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/lpXHyRrA/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "rx2Kl",
+    "FEN": "r1b4k/ppp3p1/3P3p/4Pr2/2Bp4/1P3pPq/P2Q1P1P/R5RK w - - 1 23",
+    "Moves": "d2d4 f5h5 d4h4 h5h4",
+    "Rating": "1091",
+    "RatingDeviation": "488",
+    "Popularity": "-100",
+    "NbPlays": "1",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/iMcwKnS9#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rx2g8",
+    "FEN": "r2q1rk1/p1pp4/1pn1pb1p/8/3P4/2NB1nB1/PPPQ1P2/2KR3R w - - 0 16",
+    "Moves": "d2h6 f6g5 c1b1 g5h6",
+    "Rating": "1091",
+    "RatingDeviation": "82",
+    "Popularity": "73",
+    "NbPlays": "45",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/YBaIpFFQ#31",
+    "OpeningTags": "French_Defense French_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "rx3Xt",
+    "FEN": "r6k/bpp3pp/8/p3N1q1/P2P4/2P2Q2/1r4PP/R4RK1 b - - 3 23",
+    "Moves": "g5e5 f3f8 a8f8 f1f8",
+    "Rating": "1076",
+    "RatingDeviation": "82",
+    "Popularity": "79",
+    "NbPlays": "48",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/pwVmr6HP/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rx3gu",
+    "FEN": "rnbqk2r/1pp3pp/p2n1b2/3pB3/1P5P/P2PP3/2P2P2/RN1QKBNR w KQkq - 0 11",
+    "Moves": "d1h5 g7g6 h5f3 f6e5",
+    "Rating": "1101",
+    "RatingDeviation": "87",
+    "Popularity": "74",
+    "NbPlays": "40",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/dqtMdizc#21",
+    "OpeningTags": "Polish_Opening Polish_Opening_Bugayev_Attack"
+  },
+  {
+    "PuzzleId": "rx4OS",
+    "FEN": "r2r2k1/pppq1ppp/2n1bn2/8/2p5/P1Q2NP1/PB1PPPBP/2R2RK1 b - - 18 17",
+    "Moves": "f6e4 c3g7",
+    "Rating": "1027",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "544",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/xctFFFa8/black#34",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Black_Mustang_Defense"
+  },
+  {
+    "PuzzleId": "rx5Mw",
+    "FEN": "5rk1/1b3p1p/3R2p1/8/Bq6/4R3/1r3PPP/3Q2K1 w - - 2 29",
+    "Moves": "d6d7 b2b1 d1b1 b4b1",
+    "Rating": "1107",
+    "RatingDeviation": "119",
+    "Popularity": "88",
+    "NbPlays": "47",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/rAdliRqM#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rx5ZD",
+    "FEN": "r1bqr1k1/1p4pp/1b6/3pB3/p2P4/2P2Q2/PP4PP/R4RK1 b - - 0 18",
+    "Moves": "e8e5 f3f7 g8h8 f7f8 d8f8 f1f8",
+    "Rating": "1013",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "280",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/ru6T5tXr/black#36",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Schallopp_Defense"
+  }
+]

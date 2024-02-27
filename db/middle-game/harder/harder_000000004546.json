@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DkAOI",
+    "FEN": "r5rk/5pp1/2p2q1p/ppb1n3/3NPp2/2P2P2/PPB1QPRP/6RK b - - 3 26",
+    "Moves": "e5g6 g2g6 f7g6 e4e5",
+    "Rating": "1900",
+    "RatingDeviation": "174",
+    "Popularity": "77",
+    "NbPlays": "9",
+    "Themes": "crushing middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/WIeraYMI/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DkAht",
+    "FEN": "2k5/1pp2p1p/p1pq1n2/3b2r1/3Q4/5P2/PPP3PP/RN3RK1 w - - 0 15",
+    "Moves": "c2c4 g5g2 g1g2 d5f3 f1f3 d6d4",
+    "Rating": "1809",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "4555",
+    "Themes": "attraction crushing discoveredAttack kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/cH71ksXu#29",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "DkCOs",
+    "FEN": "2r1k2r/p1p1n1p1/3pNq2/5P2/3p2Q1/8/PP3P1P/R4RK1 b k - 0 19",
+    "Moves": "e7f5 g4f5 f6f5 e6g7 e8d7 g7f5",
+    "Rating": "1911",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "3957",
+    "Themes": "advantage attraction capturingDefender deflection exposedKing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/yhcVodxS/black#38",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Schliemann_Defense"
+  },
+  {
+    "PuzzleId": "DkEY2",
+    "FEN": "3r2k1/pN1b1pp1/2n1q2p/2p5/2P5/4PB2/5PPP/3R1RK1 b - - 2 28",
+    "Moves": "d7c8 b7d8 c6d8 d1d8",
+    "Rating": "1844",
+    "RatingDeviation": "92",
+    "Popularity": "69",
+    "NbPlays": "23",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/158joa8s/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DkFZm",
+    "FEN": "7k/p1q1bp1p/2p2Nb1/r3P3/5r2/1B6/PPP1Q1PP/3RR2K w - - 2 27",
+    "Moves": "d1d7 a5e5 d7c7 e5e2",
+    "Rating": "1958",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "1854",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/bErXacHy#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DkHaI",
+    "FEN": "3Q4/pkr5/p1p1p3/q2p4/3Pn1P1/1P2PN2/3NKP2/1R6 w - - 2 34",
+    "Moves": "b3b4 a5b5 e2d1 e4c3 d1c2 c3b1",
+    "Rating": "1814",
+    "RatingDeviation": "356",
+    "Popularity": "100",
+    "NbPlays": "2",
+    "Themes": "equality fork long middlegame",
+    "GameUrl": "https://lichess.org/lWDtbsEX#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DkJh1",
+    "FEN": "3r2k1/2qrbppp/p3bn2/3Pp3/8/1PN2P2/PBQRB1PP/2R4K b - - 0 19",
+    "Moves": "f6d5 c3d5 c7c2 d5e7 g8h8 d2c2",
+    "Rating": "1916",
+    "RatingDeviation": "74",
+    "Popularity": "60",
+    "NbPlays": "87",
+    "Themes": "crushing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/GRENQbL2/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lowenthal_Variation"
+  },
+  {
+    "PuzzleId": "DkJi1",
+    "FEN": "2r4r/pp1bk1pp/5n2/3p4/2p1p3/1PN1P1P1/P1P2PBP/R4RK1 w - - 0 16",
+    "Moves": "a1d1 c4b3 c3d5 f6d5",
+    "Rating": "1922",
+    "RatingDeviation": "75",
+    "Popularity": "76",
+    "NbPlays": "155",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/IVbjkzAi#31",
+    "OpeningTags": "Mieses_Opening Mieses_Opening_Reversed_Rat"
+  },
+  {
+    "PuzzleId": "DkKE1",
+    "FEN": "r4rk1/ppp1bp1p/2n3pQ/q3P2n/3p1Pb1/2NB4/PPPBN2P/2KR2R1 b - - 1 16",
+    "Moves": "d4c3 d2c3 g4e2 c3a5",
+    "Rating": "1946",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1269",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/aIDbBrlM/black#32",
+    "OpeningTags": "Center_Game Center_Game_Paulsen_Attack_Variation"
+  }
+]

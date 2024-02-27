@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DUdvY",
+    "FEN": "r4rk1/2p2ppp/p2p4/4n1q1/P1B5/2P2Q2/2P2PPP/R4RK1 w - - 1 17",
+    "Moves": "f3d5 c7c6 d5e4 d6d5 c4d5 c6d5",
+    "Rating": "1820",
+    "RatingDeviation": "190",
+    "Popularity": "65",
+    "NbPlays": "16",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/S3gD3qg6#33",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "DUePB",
+    "FEN": "1r3rk1/1b3pp1/p4q2/1P1pp2p/7P/1Q3PB1/1PP3P1/R4RK1 w - - 0 21",
+    "Moves": "b5a6 b7a6 a1a6 f6a6",
+    "Rating": "1963",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1358",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/fYNnvkg1#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DUf3g",
+    "FEN": "3r1k1r/1R3p2/1R2bPpp/p2pNp2/2pP1b2/2P5/P4PPP/6K1 b - - 1 26",
+    "Moves": "f8g8 b6e6 f4e5 e6e5",
+    "Rating": "1906",
+    "RatingDeviation": "89",
+    "Popularity": "61",
+    "NbPlays": "26",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/xhInZPCp/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DUfcw",
+    "FEN": "1r1qr1k1/p1p1b1pp/2pppn2/6B1/4P3/1PN5/P1P2PPP/R2QR1K1 b - - 0 14",
+    "Moves": "f6e4 g5e7 e4c3 e7d8 c3d1 d8c7",
+    "Rating": "1855",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "131",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/3gJMqfuW/black#28",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "DUfno",
+    "FEN": "2r1k2r/1p1bppbp/1q1p1np1/3P4/p4P2/1BN2N1P/PP4P1/RQB2R1K w k - 0 17",
+    "Moves": "c3a4 b6a6 c1d2 d7a4",
+    "Rating": "1872",
+    "RatingDeviation": "287",
+    "Popularity": "100",
+    "NbPlays": "3",
+    "Themes": "equality intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/BouO2Rgb#33",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DUjEk",
+    "FEN": "r4k2/pppq2p1/2np1Bp1/2bNp3/2B1P3/3P3r/PPP2P2/R2Q1RK1 w - - 0 17",
+    "Moves": "f6g5 h3g3 g1h1 d7h3",
+    "Rating": "1845",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "8991",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/MxkB2uaz#33",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "DUm5v",
+    "FEN": "r1b2rk1/p3ppbp/2pq2p1/3P4/N1B5/PQP2R2/1P4PP/5R1K w - - 1 21",
+    "Moves": "f3f7 f8f7 d5c6 e7e6",
+    "Rating": "1813",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "131",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/MrTIFVAZ#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DUmDC",
+    "FEN": "r2q1rk1/pp1b1p1p/2npp1pB/2pN4/4P3/1PP2NPP/P4PB1/b2Q1RK1 b - - 1 15",
+    "Moves": "f8e8 h6g5 e6d5 g5d8",
+    "Rating": "1861",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "943",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/N1tZfjat/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "DUmgG",
+    "FEN": "2r1k2r/1p1b1p1p/pqn1p1p1/3pPn2/1P1p1P2/P2Q1N2/1BP1B1PP/3R1R1K b k - 9 17",
+    "Moves": "f5e3 b2d4 b6d4 f3d4",
+    "Rating": "1912",
+    "RatingDeviation": "75",
+    "Popularity": "64",
+    "NbPlays": "706",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/wWXzT6as/black#34",
+    "OpeningTags": "French_Defense French_Defense_Winawer_Variation"
+  }
+]

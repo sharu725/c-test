@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SAx38",
+    "FEN": "r3r1k1/1p1b1pbp/p2p1np1/3P2B1/Pq6/1NN4P/1PQ2PP1/R3R1K1 b - - 7 19",
+    "Moves": "f6d5 e1e8 a8e8 c3d5 e8e1 g1h2",
+    "Rating": "2099",
+    "RatingDeviation": "96",
+    "Popularity": "79",
+    "NbPlays": "22",
+    "Themes": "advantage intermezzo long master middlegame",
+    "GameUrl": "https://lichess.org/5QGX0la8/black#38",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Benoni-Indian_Defense"
+  },
+  {
+    "PuzzleId": "SAxBJ",
+    "FEN": "r1b1rbk1/5pp1/p1pp1qnp/1p2p2n/3PP3/P1N1BNPP/1PPQ1PBK/3RR3 b - - 2 19",
+    "Moves": "h5f4 d4e5 d6e5 g3f4",
+    "Rating": "2237",
+    "RatingDeviation": "83",
+    "Popularity": "89",
+    "NbPlays": "172",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/LpE1lJuL/black#38",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "SAz3P",
+    "FEN": "r3k1r1/pp3p2/2p1b2p/3pP2n/3q2PR/P1NB1KP1/1PP3P1/R2Q4 w q - 3 19",
+    "Moves": "g4h5 e6g4 h4g4 d4g4 f3e3 d5d4",
+    "Rating": "2171",
+    "RatingDeviation": "122",
+    "Popularity": "43",
+    "NbPlays": "22",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/rug4oBeV#37",
+    "OpeningTags": "French_Defense French_Defense_Queens_Knight"
+  },
+  {
+    "PuzzleId": "SAzWP",
+    "FEN": "R1b1r3/1p1n1kp1/5n1p/1B1pp3/6PP/8/1qP1QP2/4R1K1 b - - 0 21",
+    "Moves": "f6g4 a8c8 e8c8 b5d7 c8c4 d7g4",
+    "Rating": "2011",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "104",
+    "Themes": "advantage capturingDefender fork long master masterVsMaster middlegame",
+    "GameUrl": "https://lichess.org/nX7QBuYP/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SB0BF",
+    "FEN": "r2qr1k1/pp3ppp/5n2/8/1n1p4/3Q1N2/PPP1NPPP/R4RK1 w - - 2 16",
+    "Moves": "d3d4 b4c2 d4d8 a8d8 a1d1 d8d1 f1d1 e8e2",
+    "Rating": "2022",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "638",
+    "Themes": "crushing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/CUjpnagW#31",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "SB1Dm",
+    "FEN": "1q1r2k1/1p3pbp/p1b2np1/3Np3/2P1P3/4QP2/PP2B1PP/3R2K1 b - - 2 23",
+    "Moves": "b7b5 d5e7 g8h8 d1d8 b8d8 e7c6",
+    "Rating": "2260",
+    "RatingDeviation": "82",
+    "Popularity": "87",
+    "NbPlays": "882",
+    "Themes": "advantage discoveredAttack fork long middlegame",
+    "GameUrl": "https://lichess.org/gui0HD1E/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SB1Nj",
+    "FEN": "r1b1k1nr/pppp1ppp/2n5/4P3/1b6/1RNQPN2/P1P2PPP/2qBK2R b Kkq - 7 11",
+    "Moves": "b4c3 d3c3",
+    "Rating": "2025",
+    "RatingDeviation": "144",
+    "Popularity": "58",
+    "NbPlays": "24",
+    "Themes": "equality middlegame oneMove",
+    "GameUrl": "https://lichess.org/6ZGl8SuA/black#22",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SB1hz",
+    "FEN": "2kr2nr/pp3p2/1q2bPp1/3pQ3/P7/2NP4/1PP3PP/4RR1K b - - 0 22",
+    "Moves": "b6b2 e1b1 b2a3 c3b5 a3c5 d3d4",
+    "Rating": "2301",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "1184",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/XKtgByqp/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SB1jH",
+    "FEN": "6k1/5rp1/1Q6/2p1b2p/2P2q2/3PN2P/4RPP1/rR4K1 w - - 3 35",
+    "Moves": "g2g3 f4f3 b1a1 f3e2",
+    "Rating": "2164",
+    "RatingDeviation": "115",
+    "Popularity": "67",
+    "NbPlays": "28",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/wcUcVksr#69",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "gj3w0",
+    "FEN": "r1b2r2/pp4pk/2pp2Qp/4qP2/4P3/1B5R/PbP3PP/3R3K b - - 0 26",
+    "Moves": "h7h8 h3h6 g7h6 g6h6",
+    "Rating": "1050",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "2633",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/mNkZdFJI/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gj4Uz",
+    "FEN": "r7/1b3pkp/p2r1Np1/1p3pB1/3p4/1B3PP1/PPP1n2P/R4R1K w - - 1 27",
+    "Moves": "f1e1 b7f3",
+    "Rating": "1055",
+    "RatingDeviation": "76",
+    "Popularity": "78",
+    "NbPlays": "660",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ZlwEGRfV#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gj4b5",
+    "FEN": "2r5/p2b2k1/2BPr1p1/1p2P3/6qp/1PQ3P1/P6P/3RR1K1 w - - 1 31",
+    "Moves": "c6d7 c8c3 d7e6 g4e6",
+    "Rating": "1065",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "2851",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/AZnwHDZO#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gj4wM",
+    "FEN": "B4rk1/2B1nppb/p3p2p/1p6/7b/1P5P/P2R1PP1/3R2K1 b - - 0 20",
+    "Moves": "f8a8 d2d8 a8d8 d1d8",
+    "Rating": "1132",
+    "RatingDeviation": "130",
+    "Popularity": "82",
+    "NbPlays": "23",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/61HrUeGS/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gj50V",
+    "FEN": "r1bqr1k1/pp1p1pbp/2n1p1p1/6N1/4PQ2/1BN5/PP3PPP/R4RK1 b - - 0 13",
+    "Moves": "g7c3 f4f7 g8h8 f7h7",
+    "Rating": "1030",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "1001",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/I2d5W0m7/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Accepted"
+  },
+  {
+    "PuzzleId": "gj72T",
+    "FEN": "1r3rk1/pQ3p1p/3pqPp1/6Pn/2P5/3B4/PP5P/R4RK1 w - - 1 23",
+    "Moves": "b7g2 e6e3 g1h1 e3d3",
+    "Rating": "1173",
+    "RatingDeviation": "88",
+    "Popularity": "56",
+    "NbPlays": "26",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/dvXmp82I#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gj8fg",
+    "FEN": "2r2rk1/pp2ppbp/6p1/4N3/P2nQB2/1q4P1/1P2PP1P/R2R2K1 b - - 4 20",
+    "Moves": "f8d8 d1d4 d8d4 e4d4",
+    "Rating": "1043",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "74",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/sQGVRPVQ/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gj8gD",
+    "FEN": "kQ1r2n1/pp3p2/Nn2P3/3p4/1PpP2Bq/P5p1/2r5/R4RK1 b - - 6 31",
+    "Moves": "d8b8 a6c7",
+    "Rating": "1018",
+    "RatingDeviation": "204",
+    "Popularity": "50",
+    "NbPlays": "33",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/g7Hhf70A/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gj8ri",
+    "FEN": "r3kb1r/pp6/2n1Bp1p/2p1Pp1Q/8/8/PPPP1qPP/R1B4K b kq - 1 16",
+    "Moves": "e8e7 h5f7 e7d8 f7d7",
+    "Rating": "1004",
+    "RatingDeviation": "82",
+    "Popularity": "87",
+    "NbPlays": "190",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/QqKdDWpc/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  }
+]

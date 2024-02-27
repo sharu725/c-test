@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "besCA",
+    "FEN": "rn1q1rk1/5ppp/p1pbp3/6P1/Q1BPb3/4PN1P/PP3P2/R1B2RK1 w - - 0 15",
+    "Moves": "f3d2 d8g5",
+    "Rating": "1183",
+    "RatingDeviation": "262",
+    "Popularity": "33",
+    "NbPlays": "8",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/msBbvsat#29",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations"
+  },
+  {
+    "PuzzleId": "besUU",
+    "FEN": "7k/pp3rpp/2np4/8/P2Pb1P1/2P4q/2P2Q1N/R5K1 w - - 0 24",
+    "Moves": "f2f7 h3g2",
+    "Rating": "1128",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "683",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/6zZmTUby#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "besbw",
+    "FEN": "2b2r2/4kp1p/2qNpb2/1B2n2Q/4P3/1n2B3/rPP4P/1K1R3R w - - 0 22",
+    "Moves": "b5c6 a2a1",
+    "Rating": "1041",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "209",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/efkAVbvT#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "betlm",
+    "FEN": "2k4r/pppb2r1/7q/2PQRB2/1P3p2/P4Ppp/6P1/4R1K1 b - - 3 30",
+    "Moves": "d7f5 e5e8 h8e8 e1e8",
+    "Rating": "1005",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "349",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/LU0ol1e9/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "beuok",
+    "FEN": "8/7p/1R1p1bk1/p2Pp3/P1P1Pp2/2N2P1r/4Q1P1/1R3K1q w - - 10 39",
+    "Moves": "f1f2 f6h4 g2g3 h4g3",
+    "Rating": "1173",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "5757",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/LMijw93V#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bevd4",
+    "FEN": "3r1r1k/pp2Npp1/1n3N1Q/4P3/5P2/7R/PP1p2PP/6K1 b - - 0 31",
+    "Moves": "g7h6 h3h6 h8g7 e7f5",
+    "Rating": "1032",
+    "RatingDeviation": "80",
+    "Popularity": "90",
+    "NbPlays": "438",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/0PCjLZBZ/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bevnW",
+    "FEN": "1k1N2nr/ppp3pp/4B3/q7/8/1P3Q2/P2b1PPP/1R3nK1 b - - 0 16",
+    "Moves": "g8h6 f3b7",
+    "Rating": "1057",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "665",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/rSg9EMYw/black#32",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Baltic_Defense"
+  },
+  {
+    "PuzzleId": "bey68",
+    "FEN": "1r3rk1/p4pp1/bb5p/1p2PNq1/4Q3/1P1B4/PB4PP/5R1K b - - 4 24",
+    "Moves": "a6b7 f5e7 g5e7 e4h7",
+    "Rating": "1051",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "434",
+    "Themes": "clearance kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/WYI6tH0I/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "beyXw",
+    "FEN": "1k6/1p6/4bP1r/2p1N3/5R2/7P/2r3PK/6R1 w - - 5 39",
+    "Moves": "f6f7 h6h3",
+    "Rating": "1133",
+    "RatingDeviation": "98",
+    "Popularity": "85",
+    "NbPlays": "47",
+    "Themes": "endgame mate mateIn1 oneMove pin",
+    "GameUrl": "https://lichess.org/wEmZoXP5#77",
+    "OpeningTags": ""
+  }
+]

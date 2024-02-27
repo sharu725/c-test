@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "NEI4s",
+    "FEN": "3r4/2k4p/4pn2/2p1N1p1/qp2P3/5P2/1RN1Q1PP/1K6 w - - 1 32",
+    "Moves": "e2c4 d8d1",
+    "Rating": "1264",
+    "RatingDeviation": "239",
+    "Popularity": "71",
+    "NbPlays": "22",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/CC03PQ7n#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NEJeh",
+    "FEN": "8/2Q3p1/k1p2pPr/p1Pp3P/nbqPp3/4P3/1BK5/1R1R4 w - - 6 36",
+    "Moves": "b2c3 c4c3",
+    "Rating": "1348",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "291",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/rbPh2djI#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NEKFb",
+    "FEN": "4r1k1/p4p2/2P2Npp/2q5/8/5B1P/5bP1/3R1K1R b - - 1 30",
+    "Moves": "g8f8 f6d7 f8g7 d7c5",
+    "Rating": "1355",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "8050",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/3rB6KZO7/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NEKJc",
+    "FEN": "rn6/p2k1q1p/2p2Pp1/3b1n2/5Q2/7P/PP3P2/1K1RR3 b - - 1 28",
+    "Moves": "f5d6 e1e7 f7e7 f6e7",
+    "Rating": "1299",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "563",
+    "Themes": "advancedPawn advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Adq7nuW0/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NEKVd",
+    "FEN": "3rkbnr/R4p1p/4NPp1/2p1P3/2q5/3p4/6PP/2BQ2K1 b k - 0 25",
+    "Moves": "c4e6 d1a4 e6d7 a7d7 d8d7 a4a8",
+    "Rating": "1267",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "1864",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/XXCpLT2V/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NEL6x",
+    "FEN": "3r1r1k/p4p2/1p4pp/3Rb1q1/4Q3/7P/PP3BP1/3R2K1 b - - 3 31",
+    "Moves": "f8e8 d5d8 e8d8 d1d8 g5d8 e4e5",
+    "Rating": "1241",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "307",
+    "Themes": "crushing exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/y7iIwsM7/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NELV7",
+    "FEN": "r1b1r1k1/ppp2ppp/3b4/4n3/8/2N4P/PPP2PP1/2K1RBNR w - - 0 14",
+    "Moves": "f2f4 e5d3 f1d3 e8e1",
+    "Rating": "1334",
+    "RatingDeviation": "123",
+    "Popularity": "87",
+    "NbPlays": "15",
+    "Themes": "crushing discoveredAttack middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/xUNLtQS1#27",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Anderssen_Counterattack"
+  },
+  {
+    "PuzzleId": "NENY6",
+    "FEN": "r4rk1/ppp2ppp/6n1/3p4/3P1Bb1/2PB4/PP3PPP/R3R1K1 w - - 1 18",
+    "Moves": "h2h3 g6f4 h3g4 f4d3",
+    "Rating": "1215",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "89",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/WWNO2OMk#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "NEQHG",
+    "FEN": "r3k2r/pp3pp1/1bp1P2p/8/2B2qb1/5N2/PP3PPP/R2Q1RK1 b kq - 0 17",
+    "Moves": "f4c4 d1d7 e8f8 d7f7",
+    "Rating": "1360",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "3347",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/B2COG2oU/black#34",
+    "OpeningTags": "Russian_Game Russian_Game_Italian_Variation"
+  }
+]

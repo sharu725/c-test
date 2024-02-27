@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "sk1yl",
+    "FEN": "1r3rk1/pb1Q1p1p/4PPp1/1pP5/7P/P1q5/B1P3P1/R4R1K w - - 1 29",
+    "Moves": "a1d1 c3h3 h1g1 h3g2",
+    "Rating": "1354",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "14700",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/3yHpB8Mf#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sk2l7",
+    "FEN": "3rr1k1/1p4p1/p6p/4q3/3Np1bP/2P1Q1P1/PP1R4/2K1R3 b - - 0 25",
+    "Moves": "b7b5 d4c6 d8d2 c6e5",
+    "Rating": "1307",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "244",
+    "Themes": "crushing fork master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/7sJwJNdU/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sk40E",
+    "FEN": "r6r/pq1kbQp1/b1p1p2p/3pP3/8/2NP4/PPP3PP/R1B2R1K w - - 1 16",
+    "Moves": "f7g7 a8g8 g7h8 g8h8",
+    "Rating": "1395",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "995",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ORfWQUnc#31",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "sk5BD",
+    "FEN": "r3r1k1/1p3ppp/p4n2/3p4/7q/P1NBP2b/1P3PP1/R2Q1RK1 w - - 0 19",
+    "Moves": "g2h3 h4h3",
+    "Rating": "1394",
+    "RatingDeviation": "76",
+    "Popularity": "79",
+    "NbPlays": "170",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/ppAKGWUc#37",
+    "OpeningTags": "Slav_Defense Slav_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "sk5Py",
+    "FEN": "r1b1k2r/1pp2ppp/p1N3n1/2b5/4P3/2N1B3/PPP2PPP/3R1RK1 b kq - 0 11",
+    "Moves": "c5e3 d1d8",
+    "Rating": "1353",
+    "RatingDeviation": "191",
+    "Popularity": "57",
+    "NbPlays": "14",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gIgkIEWD/black#22",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "sk66y",
+    "FEN": "2r1k2r/1pq2ppp/p2bp3/3nB3/Nn6/1P1B1Q1P/P2P1PP1/R3R1K1 w k - 2 17",
+    "Moves": "a1c1 c7c1 e1c1 c8c1",
+    "Rating": "1246",
+    "RatingDeviation": "124",
+    "Popularity": "60",
+    "NbPlays": "21",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ODqKq7zc#33",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Euwe_Attack"
+  },
+  {
+    "PuzzleId": "sk6RP",
+    "FEN": "r1b2rk1/pp1n1ppp/2p1p3/5q2/2PPQ1NP/2N1P1P1/PP3P2/R3K2R w KQ - 3 16",
+    "Moves": "e1c1 f5e4 c3e4 f7f5",
+    "Rating": "1257",
+    "RatingDeviation": "105",
+    "Popularity": "70",
+    "NbPlays": "30",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/5PWr8vut#31",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "sk6Vb",
+    "FEN": "r1b1r1k1/pppp1p1p/7Q/2q3N1/2P5/1RPn3P/P2KPPP1/5B1R b - - 3 16",
+    "Moves": "d3f2 h6h7 g8f8 h7f7",
+    "Rating": "1302",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "513",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ssmEzPg2/black#32",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "sk6b2",
+    "FEN": "r2q1rk1/4bpp1/p3pn1p/1pp3N1/4N2P/PP1nPP2/1BQPKP2/R6R b - - 4 16",
+    "Moves": "d3b2 e4f6 e7f6 c2h7",
+    "Rating": "1382",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "212",
+    "Themes": "clearance kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Zd5wix8Q/black#32",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  }
+]

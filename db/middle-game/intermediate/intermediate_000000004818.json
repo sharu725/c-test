@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BaGto",
+    "FEN": "r2q1r2/pp2bppk/2b1pn1p/2p5/4P3/2N3QN/PPPB1PPP/2KR3R b - - 0 14",
+    "Moves": "f6e4 c3e4",
+    "Rating": "1466",
+    "RatingDeviation": "80",
+    "Popularity": "79",
+    "NbPlays": "41",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/qO1IFU72/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "BaHMt",
+    "FEN": "r4k2/1bp4p/1p1p3b/pP2pp2/P1P5/3P1N2/1B1q1P1P/R2Q1R1K w - - 0 20",
+    "Moves": "d1d2 b7f3 h1g1 h6d2",
+    "Rating": "1429",
+    "RatingDeviation": "76",
+    "Popularity": "81",
+    "NbPlays": "401",
+    "Themes": "advantage hangingPiece intermezzo kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/UtSFR19f#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BaHh1",
+    "FEN": "r3r1k1/pp2bppp/2p2n2/3p1qB1/3P4/2N4P/PPPQRPP1/4R1K1 b - - 3 15",
+    "Moves": "f6e4 c3e4 d5e4 e2e4",
+    "Rating": "1500",
+    "RatingDeviation": "500",
+    "Popularity": "82",
+    "NbPlays": "1",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/eeZN1NH3/black#30",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "BaHjS",
+    "FEN": "r3k2r/pp3ppp/2p5/8/Qb1q4/2NP4/PP2B1PP/R3K2R w KQkq - 0 19",
+    "Moves": "a2a3 b4c3 b2c3 d4a4",
+    "Rating": "1474",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "248",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/z6adTxH5#37",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  },
+  {
+    "PuzzleId": "BaIL3",
+    "FEN": "r2q1rk1/pp3pp1/4bn2/2bpp1B1/2B5/P1NP1Q1P/1PP2P2/R3K2R w KQ - 0 15",
+    "Moves": "c3d5 e6d5 c4d5 d8d5 f3d5 f6d5",
+    "Rating": "1401",
+    "RatingDeviation": "75",
+    "Popularity": "76",
+    "NbPlays": "363",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/dBzXhY1n#29",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "BaLCY",
+    "FEN": "r4Bk1/3p1q1p/p1n1pbp1/1p6/4Q3/1B3N2/PP3PPP/3R2K1 b - - 0 19",
+    "Moves": "a8f8 d1d7 f7d7 b3e6 d7e6 e4e6",
+    "Rating": "1570",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "12556",
+    "Themes": "crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/6i7GyAXO/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "BaLtW",
+    "FEN": "2k3rr/2p1q3/Pp2p3/2NpPn1p/3P2p1/2PQ4/P4PPN/R5K1 b - - 0 24",
+    "Moves": "b6c5 a6a7 c8d7 d3b5",
+    "Rating": "1418",
+    "RatingDeviation": "80",
+    "Popularity": "87",
+    "NbPlays": "62",
+    "Themes": "advancedPawn crushing middlegame short",
+    "GameUrl": "https://lichess.org/4C29cOcO/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BaNve",
+    "FEN": "3Q4/5pkp/2Q3p1/8/8/4q2P/rr4P1/3R1R1K w - - 1 39",
+    "Moves": "f1g1 e3h3 g2h3 b2h2",
+    "Rating": "1427",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "12916",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/kKBFnsTA#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BaRHb",
+    "FEN": "2kr1b1r/pp1qnpp1/2p1b2p/3pR3/3P4/2NQ1N2/PPPB1PPP/4R1K1 b - - 8 18",
+    "Moves": "e7g6 e5e6 f7e6 d3g6",
+    "Rating": "1465",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "553",
+    "Themes": "advantage deflection master middlegame short",
+    "GameUrl": "https://lichess.org/NJIigOCW/black#36",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Normal_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "STNrm",
+    "FEN": "5k1r/pp3ppp/4p1n1/3p4/1r1b4/R1N1B2P/P1P2PP1/R4K2 b - - 3 25",
+    "Moves": "d4e5 e3c5 f8e8 c5b4",
+    "Rating": "1095",
+    "RatingDeviation": "83",
+    "Popularity": "63",
+    "NbPlays": "33",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/PRYDKQnY/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "STPLQ",
+    "FEN": "2r1b1k1/5qpp/p7/1pN1Q3/1P6/P5P1/1Pr3PP/R3R1K1 w - - 1 26",
+    "Moves": "a1b1 f7f2 g1h1 f2g2",
+    "Rating": "1115",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "2442",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/gkgkZZQJ#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "STRMW",
+    "FEN": "5rk1/1rp3pp/3p2p1/1pbP1q2/5B2/2Q4P/PPP3P1/4RR1K w - - 2 21",
+    "Moves": "f4g3 f5f1 e1f1 f8f1 h1h2 c5g1",
+    "Rating": "1083",
+    "RatingDeviation": "81",
+    "Popularity": "91",
+    "NbPlays": "8646",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/PiRSuBue#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "STSaQ",
+    "FEN": "r4rk1/ppqb3p/2n1pnB1/2bp2B1/8/2P2N2/PPQ2PPP/RN2R1K1 b - - 0 13",
+    "Moves": "h7g6 c2g6 g8h8 g5f6 f8f6 g6f6",
+    "Rating": "1185",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "497",
+    "Themes": "crushing exposedKing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/EKYVXOxT/black#26",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "STXQO",
+    "FEN": "r4rk1/1p3pbp/p1b2qp1/P1Nnn3/3N4/6PP/1P1B1P2/R2QRBK1 w - - 3 23",
+    "Moves": "d4c6 e5f3 d1f3 f6f3",
+    "Rating": "1059",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "3297",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Guq6xhzd#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "STYg9",
+    "FEN": "r1b1k2r/ppp2ppp/2p5/8/4P1nq/2NP3P/PPPQ2P1/R3KB1R w KQkq - 1 11",
+    "Moves": "e1d1 g4f2 d1c1 f2h1",
+    "Rating": "1045",
+    "RatingDeviation": "216",
+    "Popularity": "-82",
+    "NbPlays": "20",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/XtBahnVa#21",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "STZlC",
+    "FEN": "4rrk1/p4p1p/6p1/4b3/1QBq4/8/P4PPP/R4RK1 b - - 2 17",
+    "Moves": "d4h4 c4f7 f8f7 b4h4",
+    "Rating": "1094",
+    "RatingDeviation": "83",
+    "Popularity": "63",
+    "NbPlays": "74",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/xUPOcl0s/black#34",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "STbMy",
+    "FEN": "r1bq1rk1/1p2bppp/p3pn2/n3N3/2p5/P1N1P1P1/1P1BQPBP/R4RK1 w - - 4 17",
+    "Moves": "e5c4 a5c4 e2c4 d8d2",
+    "Rating": "1034",
+    "RatingDeviation": "80",
+    "Popularity": "99",
+    "NbPlays": "3194",
+    "Themes": "advantage capturingDefender master middlegame short",
+    "GameUrl": "https://lichess.org/ayLfOIkA#33",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "STd6w",
+    "FEN": "2bk3r/p4pp1/1pnQ1b1p/8/5PP1/8/qPP3BP/2KR3R b - - 0 19",
+    "Moves": "c8d7 d6d7",
+    "Rating": "1126",
+    "RatingDeviation": "219",
+    "Popularity": "67",
+    "NbPlays": "9",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gSegHl1e/black#38",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  }
+]

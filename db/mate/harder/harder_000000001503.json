@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "TS32D",
+    "FEN": "5R2/pppb1Rkp/6p1/6N1/3b2pq/2N4P/PP2P1K1/8 b - - 2 23",
+    "Moves": "g7h6 f7h7 h6g5 c3e4",
+    "Rating": "1931",
+    "RatingDeviation": "76",
+    "Popularity": "81",
+    "NbPlays": "283",
+    "Themes": "fork mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/PZtXytwJ/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TSBju",
+    "FEN": "1r2n1rk/1pnb1p1p/p2p1qPQ/P1pPpN2/2P1P3/R1NB2R1/1P3PP1/4K3 b - - 0 19",
+    "Moves": "f7g6 h6h7 h8h7 g3h3 f6h4 h3h4",
+    "Rating": "1804",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "14857",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/fmB17GTE/black#38",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Czech_Benoni_Defense"
+  },
+  {
+    "PuzzleId": "TSEpV",
+    "FEN": "5rk1/p1p3pp/2p5/3p4/7q/8/PPP1N1Pb/R1B3QK w - - 0 21",
+    "Moves": "g1h2 f8f1 e2g1 f1g1 h1g1 h4e1",
+    "Rating": "1966",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "150872",
+    "Themes": "attraction endgame long master mate mateIn3 pin sacrifice",
+    "GameUrl": "https://lichess.org/hSK11RU2#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TSJrj",
+    "FEN": "4r1k1/3N3p/4p1rQ/1p6/3pn3/2P2P2/P1P5/2KR4 w - - 1 37",
+    "Moves": "d1g1 g6g1 c1b2 d4c3 b2b3 g1b1 b3a3 e8a8",
+    "Rating": "1815",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "174",
+    "Themes": "endgame hangingPiece mate mateIn4 veryLong",
+    "GameUrl": "https://lichess.org/OzptcVXM#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TSNrx",
+    "FEN": "2r2rk1/2qn1ppp/1p5b/p2p4/P1PQ2R1/5N2/5PPP/BR4K1 b - - 1 21",
+    "Moves": "g8h8 d4g7 h6g7 a1g7 h8g8 g7d4",
+    "Rating": "1942",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "106",
+    "Themes": "discoveredAttack fork long master mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/JLCnKMBU/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TSReM",
+    "FEN": "8/8/P1k5/8/K2q4/Q7/8/8 w - - 3 62",
+    "Moves": "a4a5 d4b6 a5a4 b6b5",
+    "Rating": "1822",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1467",
+    "Themes": "endgame mate mateIn2 queenEndgame short",
+    "GameUrl": "https://lichess.org/5DpZ2DKe#123",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TSa5N",
+    "FEN": "r1bqkb1r/1p1pnQpp/p6n/2pNP1N1/2B5/P7/1B3PPP/R4RK1 b kq - 0 16",
+    "Moves": "h6f7 d5f6 g7f6 c4f7",
+    "Rating": "1839",
+    "RatingDeviation": "84",
+    "Popularity": "53",
+    "NbPlays": "48",
+    "Themes": "attackingF2F7 discoveredAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/TbWhRCgf/black#32",
+    "OpeningTags": "Center_Game Center_Game_Kieseritzky_Variation"
+  },
+  {
+    "PuzzleId": "TSgBc",
+    "FEN": "7k/1p6/p5q1/3Q4/P2P1p1P/2N5/1P3P2/4r2K w - - 1 37",
+    "Moves": "h1h2 g6g1 h2h3 e1e3 f2f3 g1g3",
+    "Rating": "1939",
+    "RatingDeviation": "102",
+    "Popularity": "89",
+    "NbPlays": "70",
+    "Themes": "endgame exposedKing long mate mateIn3",
+    "GameUrl": "https://lichess.org/LOiiaPKa#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TSwhh",
+    "FEN": "5k2/p4pb1/1p1p3p/5N2/8/3R1QP1/P4PKP/2r1q3 w - - 5 30",
+    "Moves": "f5d6 e1f1",
+    "Rating": "1987",
+    "RatingDeviation": "317",
+    "Popularity": "70",
+    "NbPlays": "20",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/rY000Y4p#59",
+    "OpeningTags": ""
+  }
+]

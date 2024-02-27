@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "N588k",
+    "FEN": "r2qr3/bpp2B1k/p2p1n1p/4p3/P2n4/3P2QP/1PP2PP1/R1B2RK1 b - - 0 18",
+    "Moves": "e8f8 g3g6 h7h8 c1h6 f8f7 g6f7",
+    "Rating": "2118",
+    "RatingDeviation": "80",
+    "Popularity": "78",
+    "NbPlays": "83",
+    "Themes": "advantage deflection long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/sXULF65j/black#36",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "N59rg",
+    "FEN": "6k1/p4pp1/1n5p/P7/6QP/1Nr1b1PK/4R1B1/6q1 b - - 4 32",
+    "Moves": "e3f2 e2e8 g8h7 g4f5 g7g6 f5f7",
+    "Rating": "2073",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "8242",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/00YASK67/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "N5AZl",
+    "FEN": "3r2k1/1p1r1pp1/1pn4p/2q1pP2/4B3/p1P5/PP2QPPP/R2R2K1 w - - 0 23",
+    "Moves": "g2g3 a3b2 a1b1 d7d1",
+    "Rating": "2023",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "452",
+    "Themes": "advancedPawn crushing middlegame short",
+    "GameUrl": "https://lichess.org/GUiNeru1#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "N5AtJ",
+    "FEN": "2k2r1r/2pp4/1p1q1b2/p1N4p/3P4/PQP4P/5Pp1/1R2R1K1 b - - 3 28",
+    "Moves": "f6d4 c3d4 d6d4 c5e4",
+    "Rating": "2242",
+    "RatingDeviation": "90",
+    "Popularity": "46",
+    "NbPlays": "40",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/55j2vFM6/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "N5Bwa",
+    "FEN": "4Qbk1/5p1p/1p4pB/8/1q6/3p1N1P/2r2PP1/4R1K1 w - - 0 28",
+    "Moves": "f3g5 b4e1 e8e1 d3d2 e1e2 c2c1 g1h2 d2d1q e2e8 d1d6 g2g3 d6e7",
+    "Rating": "2272",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "4573",
+    "Themes": "advancedPawn crushing middlegame promotion sacrifice veryLong",
+    "GameUrl": "https://lichess.org/GLuxU75H#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "N5CLp",
+    "FEN": "3rr1k1/2p2ppp/2p5/p2n4/Pq3P2/1PN1p1QP/2PPRRPK/8 w - - 0 23",
+    "Moves": "c3d5 e3f2 d5f6 g8h8 g3h4 h7h6",
+    "Rating": "2307",
+    "RatingDeviation": "84",
+    "Popularity": "37",
+    "NbPlays": "57",
+    "Themes": "advancedPawn crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/Y4bhAIPM#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "N5D6Z",
+    "FEN": "r3r1k1/ppp2ppN/7B/4n3/2Q1B3/3P2P1/P3q2P/5RK1 w - - 1 22",
+    "Moves": "c4c7 a8c8 c7b7 c8c2",
+    "Rating": "2134",
+    "RatingDeviation": "94",
+    "Popularity": "6",
+    "NbPlays": "26",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/h881vLk9#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "N5ELH",
+    "FEN": "2k4r/p3b2q/1np3N1/7p/5p2/2P5/PPQ3P1/1K1R4 b - - 0 29",
+    "Moves": "e7c5 g6h8 h7h8 c2f5 c8b7 f5c5",
+    "Rating": "2383",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "576",
+    "Themes": "crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/j3psGgn3/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "N5EfA",
+    "FEN": "k2r4/pp1r1p1p/2n2Qp1/3p4/P2pq1P1/1P4PP/2RB4/2R3K1 b - - 3 28",
+    "Moves": "d4d3 c2c6 b7c6 c1e1 d7d6 f6f2 f7f5 e1e4",
+    "Rating": "2363",
+    "RatingDeviation": "103",
+    "Popularity": "76",
+    "NbPlays": "60",
+    "Themes": "advantage middlegame sacrifice trappedPiece veryLong",
+    "GameUrl": "https://lichess.org/62AGhOoh/black#56",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "VTywP",
+    "FEN": "k2r3r/pp1n1pp1/2nQp2p/P2pP3/3PbPPP/R3BN2/1Pq1BK2/7R w - - 7 21",
+    "Moves": "a5a6 e4f3 a6b7 a8b7 f2f3 d7e5",
+    "Rating": "2379",
+    "RatingDeviation": "81",
+    "Popularity": "68",
+    "NbPlays": "138",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/thYf5lcR#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VU4jJ",
+    "FEN": "r7/2p2kr1/p1nq1ppQ/4p2p/2N1P2P/2P2N2/P1K5/5R2 b - - 2 27",
+    "Moves": "d6c5 f3g5 f7g8 h6g7 g8g7 g5e6 g7f7 e6c5",
+    "Rating": "2088",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1558",
+    "Themes": "attraction crushing fork middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/b7KfaJtG/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VU4xc",
+    "FEN": "1kbr2r1/N2qnp2/1p1p4/3Pb3/1PP3np/3B3P/R3N1P1/2BQ1RK1 w - - 1 22",
+    "Moves": "b4b5 g4e3 c1e3 d7h3 f1f2 h3e3",
+    "Rating": "2360",
+    "RatingDeviation": "78",
+    "Popularity": "78",
+    "NbPlays": "128",
+    "Themes": "advantage discoveredAttack long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/EQTOGdUc#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VU6PF",
+    "FEN": "r2qkb1r/pp3ppp/2pp1nb1/4p3/2B1P1PN/2NP3P/PPP2P2/R2QK2R b KQkq - 2 10",
+    "Moves": "f6e4 h4g6 e4c3 d1f3",
+    "Rating": "2152",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "507",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/9GwT9yYm/black#20",
+    "OpeningTags": "Russian_Game Russian_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "VU79v",
+    "FEN": "r2q1rk1/ppp2pp1/3p3p/3Pp2n/4P3/P1BBQP2/1PP2P1P/6RK b - - 2 17",
+    "Moves": "h5f4 e3f4 e5f4 g1g7 g8h8 g7f7 h8g8 f7g7",
+    "Rating": "2050",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "511",
+    "Themes": "advantage deflection discoveredAttack kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/f05sewwi/black#34",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation"
+  },
+  {
+    "PuzzleId": "VU7ZF",
+    "FEN": "1q5k/2p2r1p/3p3P/p2Pp1R1/P2nPp1Q/5P2/1rn3P1/2RK1N2 b - - 2 32",
+    "Moves": "b8b3 g5g8 h8g8 h4g5 g8h8 g5d8 f7f8 d8f8",
+    "Rating": "2065",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "7133",
+    "Themes": "attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/vKqZRUTU/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VU7hE",
+    "FEN": "r4rk1/1p1R1pp1/p6p/4N2q/5n1n/1BP5/PP3PP1/R4QK1 w - - 6 26",
+    "Moves": "b3f7 f8f7 e5f7 f4e2 f1e2 h5e2",
+    "Rating": "2254",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "134",
+    "Themes": "crushing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/vwnzs93I#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VU8QH",
+    "FEN": "r1b1r1k1/ppp1qp1p/6pQ/3p4/7R/2N1P3/Pn3PPP/5RK1 b - - 1 18",
+    "Moves": "e7f6 h6h7 g8f8 c3d5 f6g7 h7h8 g7h8 h4h8 f8g7 h8e8",
+    "Rating": "2315",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "4172",
+    "Themes": "crushing kingsideAttack middlegame skewer veryLong",
+    "GameUrl": "https://lichess.org/ZxzAlUfr/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Orthodox_Defense"
+  },
+  {
+    "PuzzleId": "VU8Y3",
+    "FEN": "2k2b1r/ppp2Rpp/1n2p3/4P3/2Pr4/2N5/PP2B1PP/R5K1 b - - 0 15",
+    "Moves": "b6c4 c3b5 c4e5 f7f8 h8f8 b5d4",
+    "Rating": "2264",
+    "RatingDeviation": "82",
+    "Popularity": "90",
+    "NbPlays": "234",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/LqeCf9Yt/black#30",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Four_Pawns_Attack"
+  }
+]

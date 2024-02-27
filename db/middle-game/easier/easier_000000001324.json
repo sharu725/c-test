@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "43u53",
+    "FEN": "r1b2rk1/1pp1q1pp/3p4/p3pp2/Pn6/1P2PN2/1BPPQPPP/R4RK1 b - - 2 12",
+    "Moves": "b4c2 e2c4 f8f7 c4c2",
+    "Rating": "1012",
+    "RatingDeviation": "87",
+    "Popularity": "93",
+    "NbPlays": "565",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/A23v6Gj4/black#24",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  },
+  {
+    "PuzzleId": "43uNT",
+    "FEN": "1nR3kr/1B3ppp/1n2p3/qpQ5/3p4/1r1P2P1/4PP1P/5RK1 b - - 9 27",
+    "Moves": "b6c8 c5c8 a5d8 c8d8",
+    "Rating": "1012",
+    "RatingDeviation": "160",
+    "Popularity": "33",
+    "NbPlays": "17",
+    "Themes": "backRankMate fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/izpuhXJm/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "43vSU",
+    "FEN": "r1b2rk1/ppp2ppp/3b4/4q3/2B2n2/2P1BQ2/PP1N1PPP/R4RK1 w - - 9 15",
+    "Moves": "e3d4 f4e2 c4e2 e5h2",
+    "Rating": "1199",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "301",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/r8qeDiHe#29",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "43vb2",
+    "FEN": "1k1r3r/p7/1qb5/2b5/2P5/P3BPpp/3NQ3/1R3RK1 b - - 1 31",
+    "Moves": "b8c7 b1b6 c5e3 e2e3",
+    "Rating": "1029",
+    "RatingDeviation": "226",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/UlSdkooe/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "43zFm",
+    "FEN": "r3kb1r/1p2qpp1/p1np1n1p/2p1p3/Q1B1P1bN/2PP4/PP1N1PPP/R1B2RK1 b kq - 3 10",
+    "Moves": "b7b5 c4b5 a6b5 a4a8",
+    "Rating": "1156",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "721",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/UoI65PH3/black#20",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "43zMk",
+    "FEN": "4r1k1/p2r3p/1p2q1pB/8/P1pn1Q2/3p1R2/1P5P/1K4R1 b - - 9 34",
+    "Moves": "d4e2 f4f8 e8f8 f3f8",
+    "Rating": "1010",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "1463",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/Vw3OlE8e/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "442hG",
+    "FEN": "rnbk3r/pppp3p/6p1/6N1/2B5/8/P5PP/4RR1K b - - 0 17",
+    "Moves": "h8e8 g5f7",
+    "Rating": "1178",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "1382",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/rs5wTw3h/black#34",
+    "OpeningTags": "Danish_Gambit Danish_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "443S0",
+    "FEN": "2r3k1/5ppp/r7/1B1P1bq1/p7/P2R4/1PQ2PPP/1K2R3 b - - 0 24",
+    "Moves": "c8c2 e1e8",
+    "Rating": "1098",
+    "RatingDeviation": "80",
+    "Popularity": "87",
+    "NbPlays": "324",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/MQBYPzTb/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "443Wj",
+    "FEN": "r7/4r1kp/4bqp1/pQ3p2/8/8/PP3PPP/3RR1K1 b - - 0 24",
+    "Moves": "e6a2 e1e7 f6e7 d1d7 e7d7 b5d7",
+    "Rating": "1192",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "877",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/zjDSiUNz/black#48",
+    "OpeningTags": ""
+  }
+]

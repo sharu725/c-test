@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "sheLd",
+    "FEN": "r2qkb1r/p3pppp/2p2n2/1Q1P1bB1/1np5/2N2N2/PP2PPPP/R3KB1R w KQkq - 0 9",
+    "Moves": "d5c6 b4c2",
+    "Rating": "917",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "90",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/w295WYtQ#17",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Showalter_Variation"
+  },
+  {
+    "PuzzleId": "shebP",
+    "FEN": "r1b2rk1/1p2nppp/p1n1p3/2N1q3/8/PN6/1PPQ2PP/2KR1B1R b - - 1 16",
+    "Moves": "f8d8 d2d8 c6d8 d1d8",
+    "Rating": "611",
+    "RatingDeviation": "90",
+    "Popularity": "97",
+    "NbPlays": "1176",
+    "Themes": "backRankMate mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/4mpYp6bU/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "sheyT",
+    "FEN": "8/2rbbpk1/p3p3/Np2P1pQ/1P2B3/P5PK/3q3P/8 b - - 1 35",
+    "Moves": "d2e3 h5h7 g7f8 h7h8",
+    "Rating": "961",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "543",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/2Ft4KHR5/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "shh4e",
+    "FEN": "k5r1/pp3p1p/2B1rP2/2R2N2/8/5b2/P6P/4R2K w - - 1 33",
+    "Moves": "c6f3 e6e1",
+    "Rating": "614",
+    "RatingDeviation": "95",
+    "Popularity": "83",
+    "NbPlays": "306",
+    "Themes": "endgame hangingPiece mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/MLgHzADt#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "shhUn",
+    "FEN": "2rq1rk1/2p2p2/p2p2R1/1p1P4/8/3Qb3/PPP2P2/1K5R b - - 0 21",
+    "Moves": "f7g6 d3g6",
+    "Rating": "707",
+    "RatingDeviation": "79",
+    "Popularity": "74",
+    "NbPlays": "130",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/kcEAw3SV/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "shhxK",
+    "FEN": "3r2rk/1ppb4/1pnp3p/4p2q/3PQp2/2P4P/PPB2PPN/3R2RK b - - 0 24",
+    "Moves": "d8f8 e4h7",
+    "Rating": "702",
+    "RatingDeviation": "90",
+    "Popularity": "91",
+    "NbPlays": "175",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/qGV9OmPW/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "shjgq",
+    "FEN": "5r2/8/3R4/4R3/2P3n1/4p3/P3k1P1/6K1 w - - 4 52",
+    "Moves": "e5g5 f8f1",
+    "Rating": "698",
+    "RatingDeviation": "85",
+    "Popularity": "95",
+    "NbPlays": "700",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/HOCBqknC#103",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "shjot",
+    "FEN": "r1bQ2k1/1pq2pp1/2p4p/p1P1p3/Pb6/8/1PB2PPP/3R2K1 b - - 1 28",
+    "Moves": "c7d8 d1d8",
+    "Rating": "507",
+    "RatingDeviation": "84",
+    "Popularity": "100",
+    "NbPlays": "70",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/J6WnfI0M/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "shkdR",
+    "FEN": "5r2/p3R3/1k6/1B5p/P2P3P/2P3P1/5r2/6K1 w - - 5 38",
+    "Moves": "c3c4 f2f1 g1h2 f8f2 h2h3 f1h1",
+    "Rating": "787",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "1564",
+    "Themes": "endgame exposedKing long mate mateIn3",
+    "GameUrl": "https://lichess.org/vrxJFQPv#75",
+    "OpeningTags": ""
+  }
+]

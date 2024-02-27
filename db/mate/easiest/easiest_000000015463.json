@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "U155p",
+    "FEN": "rnb2rk1/p1p2p1p/1p4p1/3pP3/2BP4/2P3R1/P1P2qPP/R2QN2K w - - 2 16",
+    "Moves": "c4d5 f2f1",
+    "Rating": "878",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "336",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/L2yxm3mB#31",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "U15v8",
+    "FEN": "rnb1qknr/ppp1b2p/7Q/5p2/2BPP3/7p/PPP3PP/RNB1K2R b KQ - 5 11",
+    "Moves": "g8h6 c1h6",
+    "Rating": "799",
+    "RatingDeviation": "93",
+    "Popularity": "71",
+    "NbPlays": "735",
+    "Themes": "bodenMate master mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/hJXhHQPA/black#22",
+    "OpeningTags": "Bird_Opening Bird_Opening_Froms_Gambit"
+  },
+  {
+    "PuzzleId": "U16LN",
+    "FEN": "8/5R2/3qp1p1/6k1/1p6/4p1R1/6PK/8 b - - 5 49",
+    "Moves": "g5h4 f7h7",
+    "Rating": "837",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "209",
+    "Themes": "endgame mate mateIn1 oneMove queenRookEndgame",
+    "GameUrl": "https://lichess.org/vFZbytHG/black#98",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "U17Yy",
+    "FEN": "r4rk1/pp1qp3/3p4/2pP2p1/2Pb4/2NB3b/PP4P1/R2Q1R1K w - - 0 21",
+    "Moves": "g2h3 d7h3",
+    "Rating": "867",
+    "RatingDeviation": "120",
+    "Popularity": "18",
+    "NbPlays": "26",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/H5FgzCCj#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "U188u",
+    "FEN": "r3kb1r/ppq2pp1/2n1pnp1/2P5/Q1B5/B1N1P3/P4PPP/R4RK1 w kq - 3 14",
+    "Moves": "c3b5 c7h2",
+    "Rating": "894",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "168",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Yba3wDsQ#27",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Grunfeld_Defense"
+  },
+  {
+    "PuzzleId": "U19Xf",
+    "FEN": "6k1/5p1p/1R4pP/p1p5/8/8/3r2r1/5K2 b - - 2 40",
+    "Moves": "g2h2 b6b8 d2d8 b8d8",
+    "Rating": "847",
+    "RatingDeviation": "106",
+    "Popularity": "82",
+    "NbPlays": "162",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/87R822Zk/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "U1BO0",
+    "FEN": "r1bq1rQk/1ppp2pp/p4b2/6N1/1nB5/8/PPP2PPP/R1B1R1K1 b - - 3 13",
+    "Moves": "f8g8 g5f7",
+    "Rating": "905",
+    "RatingDeviation": "83",
+    "Popularity": "95",
+    "NbPlays": "314",
+    "Themes": "mate mateIn1 oneMove opening smotheredMate",
+    "GameUrl": "https://lichess.org/TtHzvfHc/black#26",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "U1Bbn",
+    "FEN": "8/8/3k4/1b1P1p2/3K1Pp1/6P1/4N2b/2N5 w - - 6 54",
+    "Moves": "e2c3 h2g1",
+    "Rating": "908",
+    "RatingDeviation": "78",
+    "Popularity": "89",
+    "NbPlays": "126",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/ZOT41srs#107",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "U1Cl1",
+    "FEN": "4r1k1/1b3pp1/7p/p2p1p2/5Q2/3N4/PP4PP/4q2K w - - 0 34",
+    "Moves": "d3e1 e8e1 f4f1 e1f1",
+    "Rating": "600",
+    "RatingDeviation": "104",
+    "Popularity": "75",
+    "NbPlays": "449",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/l04FOJeZ#67",
+    "OpeningTags": ""
+  }
+]

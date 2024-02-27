@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "m2bHB",
+    "FEN": "r3r1k1/p1qbp1np/2p2ppb/1PBpP3/P2P1N2/5NP1/3Q1P1P/2R1R1K1 b - - 0 22",
+    "Moves": "g7e6 f4e6 h6d2 e6c7",
+    "Rating": "1195",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "162",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/tqycFqUc/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "m2bVK",
+    "FEN": "2rq1rk1/5pp1/p3pb1p/np1n4/8/1P1BBN1P/P4PP1/1Q1R1RK1 b - - 0 19",
+    "Moves": "d5c3 d3h7 g8h8 d1d8",
+    "Rating": "1184",
+    "RatingDeviation": "80",
+    "Popularity": "66",
+    "NbPlays": "77",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/L2j6RmkK/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "m2bkg",
+    "FEN": "2kr1b1r/1p3ppp/p7/3Nn3/5B2/8/PP3PPP/2R1K2R b K - 1 16",
+    "Moves": "e5c6 d5b6",
+    "Rating": "1025",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "330",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/TtbGVHh7/black#32",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "m2c05",
+    "FEN": "7r/3k4/pB2q1pp/3rPp2/2b1p2P/R7/5QP1/2R3K1 w - - 1 34",
+    "Moves": "c1c4 d5d1 g1h2 e6c4",
+    "Rating": "1010",
+    "RatingDeviation": "93",
+    "Popularity": "95",
+    "NbPlays": "1001",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/uT3FZzeH#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "m2dW2",
+    "FEN": "5rk1/p3r1pp/1q2P3/3Ppn2/1P6/P1Q5/2P3PP/1RB2R1K w - - 0 26",
+    "Moves": "c3e5 f5g3 h2g3 f8f1 h1h2 b6g1",
+    "Rating": "1165",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "4462",
+    "Themes": "advantage discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/kiV0qJ8i#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "m2hT2",
+    "FEN": "4r1k1/pp3ppp/1b4b1/4n3/1P1pN3/PP3P2/4R1PP/4R1K1 b - - 0 25",
+    "Moves": "e5c4 e4f6 g7f6 e2e8 g8g7 b3c4",
+    "Rating": "1182",
+    "RatingDeviation": "215",
+    "Popularity": "54",
+    "NbPlays": "3",
+    "Themes": "crushing discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/XLNejFVW/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "m2j2r",
+    "FEN": "r2q2k1/1pp3pp/1pn1p2r/8/3p4/5QP1/PPP3PN/R4R1K b - - 1 19",
+    "Moves": "a8a5 f3f7 g8h8 f7f8 d8f8 f1f8",
+    "Rating": "1027",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "1957",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/lWukWxIa/black#38",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  },
+  {
+    "PuzzleId": "m2oG9",
+    "FEN": "r1b1k2r/pp2bppp/2p2n2/q3p1B1/2B1P3/2N2Q2/PPP2PPP/3RK2R w Kkq - 2 11",
+    "Moves": "f3g3 f6e4 c4f7 e8f7",
+    "Rating": "1140",
+    "RatingDeviation": "78",
+    "Popularity": "78",
+    "NbPlays": "339",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/JHGaPHwZ#21",
+    "OpeningTags": "Italian_Game Italian_Game_Blackburne-Kostic_Gambit"
+  },
+  {
+    "PuzzleId": "m2q6s",
+    "FEN": "r4rk1/pp2Np2/4p3/2pnP1qp/3PQ2b/3B4/PP3PP1/R3K2R b KQ - 2 18",
+    "Moves": "d5e7 e4h7",
+    "Rating": "1179",
+    "RatingDeviation": "94",
+    "Popularity": "84",
+    "NbPlays": "29",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/M8NMd80g/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  }
+]

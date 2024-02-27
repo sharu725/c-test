@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "kCKAh",
+    "FEN": "rnb2rk1/pppp1ppp/4p3/4P3/3PBPQ1/2P5/P3N1PP/qN3RK1 b - - 1 12",
+    "Moves": "a1a2 e2g3 f7f5 e5f6",
+    "Rating": "2745",
+    "RatingDeviation": "117",
+    "Popularity": "91",
+    "NbPlays": "884",
+    "Themes": "crushing enPassant middlegame quietMove short",
+    "GameUrl": "https://lichess.org/DOJyN4Bv/black#24",
+    "OpeningTags": "Trompowsky_Attack Trompowsky_Attack_Classical_Defense"
+  },
+  {
+    "PuzzleId": "kCL89",
+    "FEN": "2kr3R/4qr2/2p1p1p1/p2pQ3/1p1P4/1Pn1P1P1/P1P2PP1/2K4R b - - 2 29",
+    "Moves": "c3a2 c1b2 a2c3 h8d8 e7d8 h1h8 f7f8 h8h7 c3b5 e5e6",
+    "Rating": "2779",
+    "RatingDeviation": "112",
+    "Popularity": "88",
+    "NbPlays": "735",
+    "Themes": "advantage clearance defensiveMove exposedKing middlegame pin quietMove veryLong",
+    "GameUrl": "https://lichess.org/7bF1zHHd/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kCM7e",
+    "FEN": "4rr2/pN4k1/2p3p1/2Pn2qp/1PB2nb1/P5Q1/6PP/R3RN1K w - - 0 31",
+    "Moves": "b7d6 e8e1 a1e1 h5h4 g3f2 f4e2 e1e2 f8f2",
+    "Rating": "2696",
+    "RatingDeviation": "97",
+    "Popularity": "92",
+    "NbPlays": "210",
+    "Themes": "advantage discoveredAttack middlegame quietMove trappedPiece veryLong",
+    "GameUrl": "https://lichess.org/n9XEcUDJ#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kCMFz",
+    "FEN": "r2qk2r/p2n1pp1/1p2bb1p/1B1pN3/4pP2/1QN5/PP4PP/3R1RK1 b kq - 1 15",
+    "Moves": "e8g8 e5d7 e6d7 d1d5 d7b5 d5d8",
+    "Rating": "2416",
+    "RatingDeviation": "82",
+    "Popularity": "83",
+    "NbPlays": "189",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/4oIvNWqs/black#30",
+    "OpeningTags": "Slav_Defense Slav_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "kCT2N",
+    "FEN": "6r1/3b3k/1p1pN3/p2P3p/P1P1pb2/1P2N3/3Q1KP1/B1R4q b - - 5 36",
+    "Moves": "f4e3 f2e3 g8g3 e3d4 h1h4 d2f4 h4f4 e6f4",
+    "Rating": "2404",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1194",
+    "Themes": "clearance crushing master middlegame veryLong",
+    "GameUrl": "https://lichess.org/T8UKceqL/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kCUaP",
+    "FEN": "r1bqk3/pppp1p2/5rn1/4P1BQ/8/P7/1PP1KbPP/R4B1R b q - 0 17",
+    "Moves": "d8e7 g5f6 e7c5 e2d1",
+    "Rating": "2555",
+    "RatingDeviation": "108",
+    "Popularity": "89",
+    "NbPlays": "358",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/n84S816l/black#34",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  },
+  {
+    "PuzzleId": "kCdHk",
+    "FEN": "2rr1k2/1p2p1b1/p3p1B1/4P2Q/4R2B/2Pn1P1P/P2q2PK/8 b - - 6 30",
+    "Moves": "c8c3 h4g5 d2g5 h5g5",
+    "Rating": "2447",
+    "RatingDeviation": "95",
+    "Popularity": "88",
+    "NbPlays": "482",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/XTNDH8cA/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kCgQl",
+    "FEN": "3r2k1/4qp1p/2b3pb/1p2N3/1Pp1P3/P1Rr3P/4QPPB/4R1K1 b - - 0 30",
+    "Moves": "c6e4 e5d3 c4d3 c3d3 d8d3 e2d3 e4d3 e1e7",
+    "Rating": "2688",
+    "RatingDeviation": "90",
+    "Popularity": "83",
+    "NbPlays": "604",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/RBINwPSr/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kCh9H",
+    "FEN": "r4rk1/p4pp1/bp2pBp1/2qpP3/2nN1Q2/2P5/P1P2PPP/1R2R1K1 b - - 9 17",
+    "Moves": "g7f6 e5f6 f8e8 f4h4 e6e5 d4f5 c4d6 f5h6",
+    "Rating": "2667",
+    "RatingDeviation": "91",
+    "Popularity": "82",
+    "NbPlays": "78",
+    "Themes": "advantage kingsideAttack master masterVsMaster middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/5xXNSbLi/black#34",
+    "OpeningTags": "French_Defense French_Defense_Winawer_Variation"
+  }
+]

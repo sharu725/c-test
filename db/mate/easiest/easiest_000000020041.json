@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "cypTx",
+    "FEN": "2rQ1k2/1p2npp1/3R4/p4p2/2B5/4q2r/PPP5/1K5R b - - 1 24",
+    "Moves": "c8d8 d6d8",
+    "Rating": "649",
+    "RatingDeviation": "87",
+    "Popularity": "100",
+    "NbPlays": "410",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/wn5MVsul/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "cyt10",
+    "FEN": "3Q3k/r6p/p5pP/8/1q2N2b/1P2P3/P4P2/1K1R4 b - - 0 33",
+    "Moves": "h4d8 d1d8 b4f8 d8f8",
+    "Rating": "820",
+    "RatingDeviation": "111",
+    "Popularity": "85",
+    "NbPlays": "35",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/62Vykhd5/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "cyuuo",
+    "FEN": "4k2r/3b1ppp/p1n1p3/2bp4/1pP1n3/5N2/PPB3PP/R2QR1qK w k - 3 20",
+    "Moves": "e1g1 e4f2",
+    "Rating": "849",
+    "RatingDeviation": "96",
+    "Popularity": "92",
+    "NbPlays": "654",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/RPlk7Cev#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "cyv8E",
+    "FEN": "2k2r2/p1p5/1P2p3/3pQ3/3Pp3/P2q2r1/1P1NR3/2R2K2 w - - 4 31",
+    "Moves": "f1e1 g3g1 d2f1 g1f1",
+    "Rating": "835",
+    "RatingDeviation": "82",
+    "Popularity": "95",
+    "NbPlays": "539",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Pp9BrWmt#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "cyv9h",
+    "FEN": "r1b2rk1/ppp3pp/2pq4/2b5/4P1n1/2NPB3/PPPQ1PPP/R4RK1 w - - 5 12",
+    "Moves": "e3c5 d6h2",
+    "Rating": "930",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "173",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/p2jH6SgZ#23",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "cyvZN",
+    "FEN": "r4r1k/7p/1qp1p3/p4p2/5P2/2Q5/P4P1P/2K3R1 b - - 1 29",
+    "Moves": "e6e5 c3e5 f8f6 e5f6",
+    "Rating": "814",
+    "RatingDeviation": "91",
+    "Popularity": "77",
+    "NbPlays": "167",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/kiAJaCiJ/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "cywKW",
+    "FEN": "6k1/np2Rp2/p1r3p1/7p/3B1P2/P6P/1P3PK1/8 b - - 5 28",
+    "Moves": "a7b5 e7e8 g8h7 e8h8",
+    "Rating": "986",
+    "RatingDeviation": "86",
+    "Popularity": "93",
+    "NbPlays": "124",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/vy1TODni/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "cywMm",
+    "FEN": "1r1q1rk1/p4pbp/2bQ2p1/8/4R3/2P5/PP3PPP/R1B3K1 w - - 0 16",
+    "Moves": "d6c6 d8d1 e4e1 d1e1",
+    "Rating": "646",
+    "RatingDeviation": "112",
+    "Popularity": "67",
+    "NbPlays": "70",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/GnCwaOJy#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "cyxpT",
+    "FEN": "2rq1rk1/1p1b1pb1/p2p1N2/4p3/3P1BpR/2P5/PPQN1P2/R3K3 b Q - 0 18",
+    "Moves": "d8f6 c2h7",
+    "Rating": "770",
+    "RatingDeviation": "83",
+    "Popularity": "100",
+    "NbPlays": "124",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/aKR5HBms/black#36",
+    "OpeningTags": "London_System London_System_Other_variations"
+  }
+]

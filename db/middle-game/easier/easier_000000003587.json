@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Au2fc",
+    "FEN": "3r2k1/ppp1rqp1/6P1/1PP4Q/P3pNn1/4P1P1/1b3PK1/5R2 b - - 0 32",
+    "Moves": "f7f6 h5h7 g8f8 h7h8",
+    "Rating": "1124",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "748",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PcPYj7rL/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Au7Sw",
+    "FEN": "2rr2k1/p2n1pp1/1p3q1p/8/3P4/1Q1B1P2/PP3P1P/1K1R3R b - - 1 19",
+    "Moves": "f6f3 d3h7 g8h7 b3f3",
+    "Rating": "1073",
+    "RatingDeviation": "156",
+    "Popularity": "83",
+    "NbPlays": "9",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/PbwxDZYZ/black#38",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "Au811",
+    "FEN": "r3k2r/pppqbp1p/3n4/3pQ3/8/2PP4/PP3PP1/RNB1R1K1 b kq - 8 17",
+    "Moves": "d6f5 e5h8",
+    "Rating": "1039",
+    "RatingDeviation": "80",
+    "Popularity": "100",
+    "NbPlays": "316",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/RoMpRoyg/black#34",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "Au8P0",
+    "FEN": "r3k2r/p1qbppb1/2np1np1/1pp4p/2N1PB2/2PP1N2/PP2BPPP/R2Q1RK1 w kq - 0 12",
+    "Moves": "c4d6 e7d6",
+    "Rating": "1167",
+    "RatingDeviation": "78",
+    "Popularity": "80",
+    "NbPlays": "331",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/1ca6ik4D#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "Au8d1",
+    "FEN": "r3r1k1/pp3ppp/8/3bB1q1/2p5/8/PPB3PP/R3QR1K w - - 1 20",
+    "Moves": "f1f5 g5g2",
+    "Rating": "1035",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1632",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/9kJumcSo#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Au9ZU",
+    "FEN": "r2qr1k1/pp3ppp/2p2b2/5Q2/5B2/2Pn3P/PP3PP1/R2R2K1 w - - 0 21",
+    "Moves": "f5d3 e8e1 d1e1 d8d3",
+    "Rating": "1118",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "3264",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/Bf4Ym1hX#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AuBIU",
+    "FEN": "r3k1nr/1p1npp1p/pqpp2p1/6B1/3bP3/2NQ1B2/PPP2PPP/1R1R2K1 b kq - 3 11",
+    "Moves": "d7e5 d3d4 e5f3 g2f3 b6d4 d1d4",
+    "Rating": "1162",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1025",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/W8BmW2KW/black#22",
+    "OpeningTags": "Modern_Defense Modern_Defense_Standard_Defense"
+  },
+  {
+    "PuzzleId": "AuBw5",
+    "FEN": "r4rk1/pb2b1p1/1qn2n1p/2pp4/1p6/1P2BNP1/P3PPBP/R2QNRK1 b - - 3 16",
+    "Moves": "f6e4 d1d5 f8f7 d5e4",
+    "Rating": "1068",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "2404",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/JuopWkBj/black#32",
+    "OpeningTags": "Benko_Gambit_Declined Benko_Gambit_Declined_Main_Line"
+  },
+  {
+    "PuzzleId": "AuCdf",
+    "FEN": "1r2r1k1/5ppp/2P1bn2/p2p4/8/q1NB1Q1P/2P2PP1/3R1RK1 b - - 0 18",
+    "Moves": "a3c3 d3h7 g8h7 f3c3",
+    "Rating": "1035",
+    "RatingDeviation": "82",
+    "Popularity": "92",
+    "NbPlays": "473",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/j7RbPNz6/black#36",
+    "OpeningTags": "Scotch_Game Scotch_Game_Schmidt_Variation"
+  }
+]

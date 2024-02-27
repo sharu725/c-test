@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DS6CP",
+    "FEN": "5rk1/p5pp/4r3/2q1pn2/2N2p2/3P1P2/P2Q2PP/2R1R2K w - - 4 27",
+    "Moves": "c4e5 f5g3 h2g3 e6h6",
+    "Rating": "1735",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "6452",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/JqIrUfGH#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSKR0",
+    "FEN": "r1b1k2r/pp2pp1p/6p1/1Bp1b1B1/4P3/2P5/P4PPP/3RK2R b Kkq - 1 12",
+    "Moves": "e8f8 g5h6 e5g7 d1d8",
+    "Rating": "1651",
+    "RatingDeviation": "118",
+    "Popularity": "43",
+    "NbPlays": "33",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/hs5yKRei/black#24",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "DSPTv",
+    "FEN": "r1b4k/1p1q2p1/2p1p1Q1/5r1p/1P2Np2/2R5/5PPP/3R2K1 w - - 2 32",
+    "Moves": "d1d7 a8a1 c3c1 a1c1 d7d1 c1d1",
+    "Rating": "1630",
+    "RatingDeviation": "85",
+    "Popularity": "86",
+    "NbPlays": "252",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/STlOLE4i#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSeIA",
+    "FEN": "5r1k/p5pp/1p2Nn2/1Q6/1Ppq4/8/P4nPP/R4R1K w - - 3 26",
+    "Moves": "f1f2 d4a1 f2f1 a1f1",
+    "Rating": "1627",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4113",
+    "Themes": "hangingPiece mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/iUoLUxEi#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSpCy",
+    "FEN": "7k/5pp1/2bb3p/1pq5/8/3B3P/1B1Q1PP1/6K1 b - - 5 29",
+    "Moves": "c5d5 d2h6 h8g8 h6g7",
+    "Rating": "1700",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "11599",
+    "Themes": "endgame mate mateIn2 pin short",
+    "GameUrl": "https://lichess.org/jYh4YLPa/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSpVn",
+    "FEN": "r1bqnbkr/pppp2pp/8/4P3/2nP4/5Q2/PPP2PPP/RNB2RK1 b - - 4 9",
+    "Moves": "c4b6 f3b3 d7d5 e5d6 b6c4 b3c4 c8e6 c4e6",
+    "Rating": "1764",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "176",
+    "Themes": "discoveredAttack enPassant kingsideAttack mate mateIn4 opening veryLong",
+    "GameUrl": "https://lichess.org/KszMexB3/black#18",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "DSqDy",
+    "FEN": "r5k1/1p3b1p/5ppQ/3q3P/3B4/3B4/1PP1rP2/1K4RR w - - 13 31",
+    "Moves": "d3e2 a8a1 b1a1 d5a2",
+    "Rating": "1785",
+    "RatingDeviation": "71",
+    "Popularity": "95",
+    "NbPlays": "12120",
+    "Themes": "attraction mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/m25bVeTC#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DSxI6",
+    "FEN": "3rRrk1/pb3B2/2qb2p1/5NQ1/8/3p1P2/PPP3PP/R5K1 b - - 0 22",
+    "Moves": "g8f7 e8e7 d6e7 g5e7 f7g8 e7g7",
+    "Rating": "1766",
+    "RatingDeviation": "172",
+    "Popularity": "80",
+    "NbPlays": "15",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/lC5Pu6MT/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DT1rH",
+    "FEN": "r2k3r/p1q2pp1/1p6/1Q1NPb1p/4nB2/3nP2P/PP3PP1/2R1KB1R w K - 1 17",
+    "Moves": "f1d3 c7c1 e1e2 c1d2 e2f3 d2f2",
+    "Rating": "1718",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "8833",
+    "Themes": "hangingPiece long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/uE1nmJjR#33",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  }
+]

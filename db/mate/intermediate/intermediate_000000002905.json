@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "J1O9I",
+    "FEN": "2r2k2/p2R3p/6pB/2bN1p2/2P5/1P1K2P1/1P3r1P/8 b - - 12 30",
+    "Moves": "f8e8 d5f6",
+    "Rating": "1463",
+    "RatingDeviation": "225",
+    "Popularity": "60",
+    "NbPlays": "27",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/QI8VlxR0/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J1SDS",
+    "FEN": "8/R7/8/p5PB/8/6k1/r7/7K w - - 1 58",
+    "Moves": "g5g6 a2a1 h5d1 a1d1",
+    "Rating": "1519",
+    "RatingDeviation": "74",
+    "Popularity": "79",
+    "NbPlays": "255",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/nMcr4XFk#115",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J1TjC",
+    "FEN": "q2r2k1/5ppp/p2Q4/4p1N1/2P3P1/P3B2P/5P2/5K2 w - - 1 27",
+    "Moves": "d6e5 a8h1 f1e2 h1d1",
+    "Rating": "1444",
+    "RatingDeviation": "74",
+    "Popularity": "71",
+    "NbPlays": "159",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/h10gBk9g#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J1WUo",
+    "FEN": "2kr3r/pp3pp1/4p1p1/3qP3/PP1nQ3/8/5PPP/RN3RK1 w - - 2 20",
+    "Moves": "e4d5 d4e2 g1h1 h8h2 h1h2 d8h8",
+    "Rating": "1488",
+    "RatingDeviation": "88",
+    "Popularity": "82",
+    "NbPlays": "664",
+    "Themes": "anastasiaMate attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/OMSxEWSk#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J1ZYt",
+    "FEN": "1rR2r2/5pkn/p3p1pp/1p1pP3/3P1P1q/P2Q3P/1P2N2K/1B4R1 b - - 0 29",
+    "Moves": "b8c8 g1g6 f7g6 d3g6 g7h8 g6h7",
+    "Rating": "1578",
+    "RatingDeviation": "159",
+    "Popularity": "73",
+    "NbPlays": "18",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/ej3HG7LO/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J1c1v",
+    "FEN": "4r1k1/p1Q2ppp/8/8/8/8/PPPr1q1P/2KR4 w - - 0 21",
+    "Moves": "d1d2 e8e1 d2d1 f2e3 c1b1 e1d1",
+    "Rating": "1578",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "2490",
+    "Themes": "backRankMate deflection endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/7w4k54mk#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J1dHE",
+    "FEN": "6k1/6p1/7p/1R6/6Pn/1P6/P2r1P1P/6K1 w - - 1 37",
+    "Moves": "a2a4 d2d1",
+    "Rating": "1494",
+    "RatingDeviation": "132",
+    "Popularity": "50",
+    "NbPlays": "98",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/Sq466aGM#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "J1mOD",
+    "FEN": "rnbq1r1k/pp4pp/2pbp3/8/2BP4/2P4R/P1P3PP/R1BQ3K b - - 0 15",
+    "Moves": "e6e5 h3h7 h8h7 d1h5",
+    "Rating": "1493",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "165",
+    "Themes": "attraction kingsideAttack mate mateIn2 opening sacrifice short",
+    "GameUrl": "https://lichess.org/RA7sZovS/black#30",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Ulysses_Gambit"
+  },
+  {
+    "PuzzleId": "J1oI7",
+    "FEN": "rnb2rk1/pp3ppp/4p3/q1bpN3/2P1n3/P7/1P1BPPPP/R2QKB1R w KQ - 0 10",
+    "Moves": "d2a5 c5f2",
+    "Rating": "1532",
+    "RatingDeviation": "92",
+    "Popularity": "68",
+    "NbPlays": "100",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/25J2quxw#19",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Ragozin_Defense"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SANpG",
+    "FEN": "r1b1k2r/4bpp1/1B3qnp/pp1Qp3/4P3/5N2/PPP2PPP/3R1RK1 b kq - 2 15",
+    "Moves": "a8b8 d5b5 e8f8 b6c5 f8g8 b5b8",
+    "Rating": "2403",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1562",
+    "Themes": "advantage discoveredAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/qYlqAvNY/black#30",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Hanham_Variation"
+  },
+  {
+    "PuzzleId": "SAQ09",
+    "FEN": "1r3rk1/R4pp1/4p2p/1p1pP3/1q1P1Q2/5N1P/2p2PP1/R5K1 w - - 0 30",
+    "Moves": "a7c7 b8c8 f4f7 f8f7",
+    "Rating": "2469",
+    "RatingDeviation": "88",
+    "Popularity": "90",
+    "NbPlays": "1208",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/HxdBm2ME#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SARWf",
+    "FEN": "2k1bQ2/2r2p2/4p3/p3P2P/qn1pB3/8/5PP1/1R4K1 b - - 0 37",
+    "Moves": "f7f5 e5f6 d4d3 e4g6 d3d2 f6f7 d2d1q b1d1",
+    "Rating": "2784",
+    "RatingDeviation": "96",
+    "Popularity": "87",
+    "NbPlays": "361",
+    "Themes": "advancedPawn crushing enPassant middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/1OI25SIp/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SAS97",
+    "FEN": "7r/1bQ1ppbp/pB2k1p1/2Pq4/2p5/5P2/P5PP/4R1K1 b - - 3 29",
+    "Moves": "e6f5 g2g4 f5g5 c7e7 g7f6 e7e3",
+    "Rating": "2511",
+    "RatingDeviation": "89",
+    "Popularity": "89",
+    "NbPlays": "595",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/9mQePl4F/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SATG4",
+    "FEN": "4rrk1/5pp1/p2p3p/2pNq1n1/3pP1QP/PP6/2P3P1/4RRK1 b - - 0 26",
+    "Moves": "g5e4 f1f5 e5g3 e1e4",
+    "Rating": "2445",
+    "RatingDeviation": "91",
+    "Popularity": "81",
+    "NbPlays": "36",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/M807sabf/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SAVFo",
+    "FEN": "r7/3p3k/b1p1r1p1/p1q2pQB/2P1p3/1P6/P5PP/4RR1K b - - 0 31",
+    "Moves": "g6h5 f1f5 c5e7 g5f4 e7d6 f5h5 h7g7 h5g5",
+    "Rating": "2555",
+    "RatingDeviation": "91",
+    "Popularity": "71",
+    "NbPlays": "51",
+    "Themes": "crushing discoveredAttack exposedKing middlegame veryLong",
+    "GameUrl": "https://lichess.org/oRwX4UY4/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SAXRL",
+    "FEN": "4r1k1/pp3p1p/2p2Qp1/8/2q2N2/P1P1r2P/1P4P1/3R1R1K w - - 4 28",
+    "Moves": "d1d7 c4f1 h1h2 e8f8",
+    "Rating": "2436",
+    "RatingDeviation": "87",
+    "Popularity": "71",
+    "NbPlays": "74",
+    "Themes": "advantage defensiveMove hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/9K96UmFQ#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SAZI5",
+    "FEN": "r3r1k1/1q1nbp1p/2b1p1p1/p2pB1P1/1ppP1P2/P1P1P2R/1PBNQ2P/R5K1 w - - 1 21",
+    "Moves": "h3h7 d7e5 f4e5 g8h7 e2h5 h7g7 h5h6 g7g8 c2g6 e7g5",
+    "Rating": "2711",
+    "RatingDeviation": "93",
+    "Popularity": "87",
+    "NbPlays": "679",
+    "Themes": "advantage intermezzo master middlegame veryLong",
+    "GameUrl": "https://lichess.org/11oVNUBC#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SAb7E",
+    "FEN": "4rk2/ppp2p2/6q1/4Q1p1/1bbN2K1/6B1/PP2NPPP/R6R w - - 3 24",
+    "Moves": "e5g5 c4e2 d4f3 e2f3 g2f3 f7f5",
+    "Rating": "2572",
+    "RatingDeviation": "85",
+    "Popularity": "57",
+    "NbPlays": "87",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/Pnv9eIlZ#47",
+    "OpeningTags": ""
+  }
+]

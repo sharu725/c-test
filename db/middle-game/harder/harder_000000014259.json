@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "h8nm5",
+    "FEN": "r1bq1rk1/ppp2pp1/2np4/4p1PQ/2B1P3/2NPb2P/PPP3P1/R3KR2 b Q - 1 12",
+    "Moves": "c8e6 g5g6 e3h6 g6f7 g8h8 c4e6",
+    "Rating": "1987",
+    "RatingDeviation": "79",
+    "Popularity": "88",
+    "NbPlays": "113",
+    "Themes": "advancedPawn advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/r4gqcDsG/black#24",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "h8oS7",
+    "FEN": "5rk1/5pp1/p2p1n1p/1p2p3/1P1qP3/P1rPN2P/4QPP1/1R1R2K1 b - - 2 26",
+    "Moves": "c3a3 e3c2 d4c3 c2a3",
+    "Rating": "1878",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "452",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/auYtVwon/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "h8pFw",
+    "FEN": "6k1/pbp2ppp/5b2/2p5/4qB2/2P3QP/PP1NrPP1/1R4K1 b - - 3 23",
+    "Moves": "e2e1 g1h2 e4e2 b1e1 e2e1 f4e3",
+    "Rating": "1941",
+    "RatingDeviation": "208",
+    "Popularity": "86",
+    "NbPlays": "14",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/T1Q8Wn1N/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "h8pNA",
+    "FEN": "1r3r1k/pR2ppbP/2np3B/8/3P4/2P2N2/q1b2PP1/2Q1KB1R b K - 4 16",
+    "Moves": "b8b7 h6g7 h8g7 c1h6 g7h8 h6f8",
+    "Rating": "1979",
+    "RatingDeviation": "86",
+    "Popularity": "84",
+    "NbPlays": "38",
+    "Themes": "attraction deflection exposedKing kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/BaS1YPz2/black#32",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Samisch_Attack"
+  },
+  {
+    "PuzzleId": "h8riA",
+    "FEN": "2k3rr/pppq2b1/3p4/3Ppp2/2P3Q1/P1N1P2P/1P3PP1/R4RK1 w - - 0 17",
+    "Moves": "g4e2 e5e4 c3e4 f5e4",
+    "Rating": "1849",
+    "RatingDeviation": "88",
+    "Popularity": "57",
+    "NbPlays": "46",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/Dt4ciEfC#33",
+    "OpeningTags": "Indian_Defense Indian_Defense_Medusa_Gambit"
+  },
+  {
+    "PuzzleId": "h8tPu",
+    "FEN": "6rr/1kp1bp2/1p1p1n2/1P2p1Np/2P1P1q1/2P1BNPp/5P2/Q4RK1 b - - 2 26",
+    "Moves": "g8g5 a1a6 b7b8 e3b6 c7b6 a6b6 b8c8 b6c6 c8d8 f1a1",
+    "Rating": "1882",
+    "RatingDeviation": "221",
+    "Popularity": "83",
+    "NbPlays": "15",
+    "Themes": "crushing defensiveMove deflection middlegame veryLong",
+    "GameUrl": "https://lichess.org/GMdggd6v/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "h8ucv",
+    "FEN": "5r1k/1p5P/5pQ1/p3p3/1qrp4/2N5/PP3PP1/2KR3R w - - 0 25",
+    "Moves": "g6d3 d4c3 b2c3 c4c3 d3c3 b4c3",
+    "Rating": "1844",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "9141",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/vJyDmMWD#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "h8wss",
+    "FEN": "2k5/2p2ppp/8/1PN5/3B2n1/6b1/2r1r1P1/R2R1K2 b - - 9 27",
+    "Moves": "c8d8 d4f6 d8c8 a1a8",
+    "Rating": "1896",
+    "RatingDeviation": "79",
+    "Popularity": "83",
+    "NbPlays": "131",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/6ZCddxjV/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "h92Tb",
+    "FEN": "2k5/pppb2pp/8/3P4/1PBn2nb/2N2r2/PP1P2PP/R1B2K1R w - - 0 17",
+    "Moves": "g2f3 g4e3 d2e3 d7h3 f1g1 d4f3",
+    "Rating": "1967",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "10286",
+    "Themes": "clearance exposedKing long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/O6y56ewS#33",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  }
+]

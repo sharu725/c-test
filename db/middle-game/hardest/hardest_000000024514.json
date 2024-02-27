@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "oi6Aq",
+    "FEN": "r2q1r1k/4b1pp/p2p1n2/P1pPpb1n/Q1P1N3/3B1NP1/5P1P/1RB1R1K1 w - - 2 25",
+    "Moves": "e4f6 f5d3 f3e5 d6e5",
+    "Rating": "2386",
+    "RatingDeviation": "78",
+    "Popularity": "79",
+    "NbPlays": "54",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/M6k9tNQa#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oi7XV",
+    "FEN": "r3nbk1/pb1n1ppp/1pp2q2/3p1N2/5B2/P1NP1B2/1PP1QPPP/R5K1 w - - 2 17",
+    "Moves": "g2g4 g7g6 f5h6 f8h6 f4h6 g6g5 h6g5 f6g5",
+    "Rating": "2123",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "7110",
+    "Themes": "advantage middlegame quietMove trappedPiece veryLong",
+    "GameUrl": "https://lichess.org/kkfmhXDv#33",
+    "OpeningTags": "Russian_Game Russian_Game_French_Attack"
+  },
+  {
+    "PuzzleId": "oi88k",
+    "FEN": "r2r2k1/5ppp/4p3/1B1qn3/P3Q3/3p2PP/P4PK1/R3R3 w - - 0 28",
+    "Moves": "f2f4 d3d2 e4d5 d2e1n",
+    "Rating": "2031",
+    "RatingDeviation": "85",
+    "Popularity": "88",
+    "NbPlays": "1079",
+    "Themes": "advancedPawn advantage middlegame promotion sacrifice short underPromotion",
+    "GameUrl": "https://lichess.org/2MgipqWS#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oi8T2",
+    "FEN": "rnbq1rk1/ppp3p1/4ppN1/7Q/3P4/2P5/P1P2PPP/R3K2R b KQ - 3 13",
+    "Moves": "g8f7 g6f8 f7f8 h5h8 f8e7 h8g7",
+    "Rating": "2044",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "1457",
+    "Themes": "advantage attraction deflection discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/z0SA1FWB/black#26",
+    "OpeningTags": "French_Defense French_Defense_Mediterranean_Defense"
+  },
+  {
+    "PuzzleId": "oi9wm",
+    "FEN": "2r3k1/p4pp1/1p2q2p/8/Q3B3/P1r2P2/K3R2P/3R4 w - - 4 27",
+    "Moves": "d1d5 f7f5 a4d7 e6d7 d5d7 f5e4",
+    "Rating": "2178",
+    "RatingDeviation": "78",
+    "Popularity": "84",
+    "NbPlays": "66",
+    "Themes": "advantage long master middlegame",
+    "GameUrl": "https://lichess.org/L9OtvVuH#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oi9x9",
+    "FEN": "3r2r1/4Rp2/Q1p2R2/7p/1P2b2P/3k2q1/P5B1/6K1 b - - 1 32",
+    "Moves": "d3c3 a6a3 c3c2 a3g3 g8g3 e7e4",
+    "Rating": "2137",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "1006",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/XHmqke0r/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oiA1B",
+    "FEN": "rn3k1r/4b1p1/p3pnBp/1p6/2P2q2/1P1Q1P2/PB3P1P/3R1RK1 b - - 1 18",
+    "Moves": "h6h5 d3d8 e7d8 b2a3 f4d6 d1d6",
+    "Rating": "2365",
+    "RatingDeviation": "82",
+    "Popularity": "82",
+    "NbPlays": "88",
+    "Themes": "crushing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/nDMavp6i/black#36",
+    "OpeningTags": "Benko_Gambit Benko_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "oiBI8",
+    "FEN": "r6k/pb1q2rp/2p4Q/3p4/8/2NB4/PPP3PP/1K3R2 b - - 2 25",
+    "Moves": "c6c5 d3h7 d7c6 f1f6 c6f6 h6f6",
+    "Rating": "2134",
+    "RatingDeviation": "93",
+    "Popularity": "75",
+    "NbPlays": "33",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/yhYlHFvU/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oiBKJ",
+    "FEN": "r4r2/4Np2/3p3R/qp5R/4PkP1/5B2/1bp1K1P1/8 b - - 1 38",
+    "Moves": "f8h8 e7d5 f4g3 h5h3",
+    "Rating": "2003",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "7012",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PQ9Ji2F5/black#76",
+    "OpeningTags": ""
+  }
+]

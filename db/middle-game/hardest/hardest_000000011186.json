@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "NB1AA",
+    "FEN": "r4rk1/1pqbnppp/p1n5/2ppp3/5PP1/1P1PP2R/PBPNB2P/R3Q1K1 b - - 1 17",
+    "Moves": "e5f4 e1h4 f7f6 h4h7 g8f7 h3h6 f8g8 h6f6",
+    "Rating": "2125",
+    "RatingDeviation": "158",
+    "Popularity": "-35",
+    "NbPlays": "14",
+    "Themes": "advantage kingsideAttack middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/tBbQTGTq/black#34",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation"
+  },
+  {
+    "PuzzleId": "NB1Kg",
+    "FEN": "2r3k1/4qp1p/p3p3/1p1pP1p1/2r3P1/2R4N/PPQ2P1P/2K4R w - - 2 22",
+    "Moves": "h1d1 b5b4 c3c4 c8c4",
+    "Rating": "2034",
+    "RatingDeviation": "75",
+    "Popularity": "70",
+    "NbPlays": "89",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/aMGo91qa#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NB1MX",
+    "FEN": "4r1k1/qpp2ppp/p1prbn2/2N5/1P2P3/P2PP2P/1NPQ2P1/R3K2R w KQ - 4 20",
+    "Moves": "c5e6 f6e4 d2c1 e4g3 e6c5 g3h1",
+    "Rating": "2199",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "439",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/aN0qfg5Z#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NB3Wv",
+    "FEN": "2rqr1k1/ppp2b1p/6p1/3P1p2/2R2b2/3QP3/PP1B1PKP/3R4 w - - 0 22",
+    "Moves": "e3f4 d8d5 d3d5 f7d5",
+    "Rating": "2128",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "189",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/NRQRvJC7#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NB58w",
+    "FEN": "r3r1k1/3nbpp1/p1p1pn1p/q6P/2PP1B2/P2Q1NN1/1R3PP1/R5K1 b - - 2 19",
+    "Moves": "f6h5 f4d2 a5a4 g3h5",
+    "Rating": "2100",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "6995",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/RIYN34DF/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "NB5N8",
+    "FEN": "2r1k1r1/5pBp/p2Qp2P/q5b1/bp1N2P1/8/PP4B1/K6R b - - 3 22",
+    "Moves": "c8d8 g2c6 a4c6 d6c6 d8d7 d4e6",
+    "Rating": "2141",
+    "RatingDeviation": "78",
+    "Popularity": "84",
+    "NbPlays": "66",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/ylXhvk81/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NB5mY",
+    "FEN": "r2qk2r/1pp1p2p/p5p1/3pN3/3n1P2/2NQ4/PPP2P2/2K4R b kq - 1 19",
+    "Moves": "d4c6 d3g6 h7g6 h1h8",
+    "Rating": "2092",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "6114",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/SeisVAb2/black#38",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "NB6ox",
+    "FEN": "r3k2r/ppp2pp1/3bpn2/8/7q/2N1BB2/PPP1Q1P1/R4RK1 w kq - 4 18",
+    "Moves": "f1d1 h4h1 g1f2 d6g3 f2g3 h1h4",
+    "Rating": "2170",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "5808",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/kC64tv7a#35",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "NB7ED",
+    "FEN": "1r6/1b3Qk1/pq1r2p1/1p5p/1P6/P1b2P2/B1P5/2K3RR b - - 0 32",
+    "Moves": "g7h8 h1h5 g6h5 g1g8 b8g8 f7g8",
+    "Rating": "2017",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "668",
+    "Themes": "exposedKing long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/rSr62ofM/black#64",
+    "OpeningTags": ""
+  }
+]

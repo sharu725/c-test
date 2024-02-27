@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "1UAhx",
+    "FEN": "r3kbnr/ppp2ppp/3p4/4P3/4QBbq/2N2P1P/PPPK4/R4B1R b kq - 2 12",
+    "Moves": "h4f2 f1e2 g4f3 e4f3 f2f3 e2f3",
+    "Rating": "1719",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "74",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/OMswfbZ3/black#24",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "1UC0t",
+    "FEN": "3r1knr/1pp5/p2bR2p/3q2p1/1P6/P1P2p2/1BQ3PP/4R1K1 b - - 1 24",
+    "Moves": "g8e7 c3c4 d5d2 c2d2 d6h2 g1h2 d8d2 b2h8",
+    "Rating": "1704",
+    "RatingDeviation": "333",
+    "Popularity": "82",
+    "NbPlays": "9",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/6SedQFV0/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1UFCl",
+    "FEN": "r3kb1r/2pn2pp/pp1q4/1Q1N4/3Pp3/8/PP3PPP/2R1K1NR w Kkq - 0 15",
+    "Moves": "d5c7 d6c7 b5h5 g7g6 h5g6 h7g6",
+    "Rating": "1733",
+    "RatingDeviation": "81",
+    "Popularity": "86",
+    "NbPlays": "53",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/ugrXoGYj#29",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "1UGVM",
+    "FEN": "r4rk1/ppp2ppp/3b4/4n3/4n2q/2P1BB2/PP3PPP/RN1Q1RK1 w - - 1 12",
+    "Moves": "f3e4 e5f3 g2f3 h4h2",
+    "Rating": "1615",
+    "RatingDeviation": "79",
+    "Popularity": "82",
+    "NbPlays": "100",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/3KzllQkR#23",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "1UGnl",
+    "FEN": "5rk1/ppp2p1p/1nn3P1/6N1/4Q3/8/q5P1/4R2K b - - 0 23",
+    "Moves": "h7g6 e4h4 g8g7 h4h7",
+    "Rating": "1607",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality middlegame quietMove short",
+    "GameUrl": "https://lichess.org/Wz9BVPPF/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1UJlS",
+    "FEN": "r4rk1/ppp2ppp/2nbp3/3nN3/3P3q/2N5/PPP1RPPP/R1BQ2K1 w - - 1 11",
+    "Moves": "e2e4 d5c3 e4h4 c3d1",
+    "Rating": "1668",
+    "RatingDeviation": "80",
+    "Popularity": "77",
+    "NbPlays": "39",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/JXxT15E8#21",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "1ULSY",
+    "FEN": "r4r1k/p3qp1p/3Rb1nN/1p6/2p1P3/6Q1/PPP1B1PP/2K2R2 w - - 1 25",
+    "Moves": "e2g4 e7g5 c1b1 g5h6 g4e6 f7e6",
+    "Rating": "1738",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2670",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/RjpYb6rT#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1ULUy",
+    "FEN": "k4r2/p1R5/1p6/nP1r4/q7/8/PK4Q1/6R1 b - - 1 36",
+    "Moves": "f8d8 g2d5 d8d5 g1g8 d5d8 g8d8",
+    "Rating": "1735",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "189",
+    "Themes": "clearance long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/Wxu8ZTNr/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1ULps",
+    "FEN": "r2q1rk1/p3bppp/2p1p3/3n4/3PNB2/8/PP3PPP/R2Q1RK1 w - - 6 16",
+    "Moves": "f4e5 f7f6 e5g3 f6f5 e4d2 f5f4",
+    "Rating": "1682",
+    "RatingDeviation": "74",
+    "Popularity": "85",
+    "NbPlays": "293",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/7VYoKNIv#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  }
+]

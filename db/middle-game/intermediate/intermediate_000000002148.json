@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "59NfO",
+    "FEN": "4rrk1/pp3ppp/8/7Q/1P6/P1q1P2P/2nN1PP1/R4RK1 w - - 0 19",
+    "Moves": "a1c1 c3d2 f1d1 d2c3",
+    "Rating": "1593",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "618",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/TR3xwdfv#37",
+    "OpeningTags": "Englund_Gambit Englund_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "59PgX",
+    "FEN": "r2q1kr1/1pp2pp1/p4n1p/4RP2/1b2P3/1PNPB2P/1PP5/3QK1R1 w - - 1 19",
+    "Moves": "e3c5 b4c5 e5c5 d8d4",
+    "Rating": "1465",
+    "RatingDeviation": "84",
+    "Popularity": "80",
+    "NbPlays": "27",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/hmY928QJ#37",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "59Qkh",
+    "FEN": "4rrk1/3q1pp1/p6p/3B4/2nB4/6R1/P5PP/R5K1 b - - 1 26",
+    "Moves": "g7g6 g3g6 g8h7 g6g7 h7h8 g7f7",
+    "Rating": "1487",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "968",
+    "Themes": "crushing discoveredAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/a4NhF1EV/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "59Qpo",
+    "FEN": "r1b2rk1/pp3p1p/1qpp1p2/5N2/2n1P3/1NP5/PP3bPP/R2QR2K b - - 1 14",
+    "Moves": "f2e1 d1g4 g8h8 g4g7",
+    "Rating": "1442",
+    "RatingDeviation": "184",
+    "Popularity": "-83",
+    "NbPlays": "8",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AZjmGTiG/black#28",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Boi_Variation"
+  },
+  {
+    "PuzzleId": "59R7Q",
+    "FEN": "r1bq1k1r/pp2p1b1/2p2nBn/3p2Np/3P1B1P/4PQ2/PPP2PP1/R3K2R b KQ - 8 13",
+    "Moves": "c8f5 g6f5 h6f5 g5e6 f8f7 e6d8",
+    "Rating": "1493",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "3868",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/CTDkOjj1/black#26",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "59RMN",
+    "FEN": "6k1/4prqp/p5p1/1p1Q4/4BP2/1Pr3P1/P7/bKR2R2 w - - 0 33",
+    "Moves": "b1a1 c3c1",
+    "Rating": "1581",
+    "RatingDeviation": "94",
+    "Popularity": "63",
+    "NbPlays": "146",
+    "Themes": "doubleCheck mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4RzQ2Thu#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "59SM1",
+    "FEN": "4r3/1p4pk/p1b2rqp/8/1P2p3/P1N1Q2P/2P2PP1/3RR1K1 w - - 4 28",
+    "Moves": "c3e2 f6f3 e2f4 f3e3 f4g6 e3e1 d1e1 h7g6",
+    "Rating": "1554",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "390",
+    "Themes": "crushing kingsideAttack middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/zmxJ7wML#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "59TBy",
+    "FEN": "1r4rk/p1p2p2/3p1p2/4p2b/qP2P2P/2bPQNB1/2P2P2/1R3KR1 b - - 2 24",
+    "Moves": "g8g7 e3h6 h8g8 h6h5 a4c2 f1g2",
+    "Rating": "1514",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "6306",
+    "Themes": "advantage defensiveMove fork long middlegame",
+    "GameUrl": "https://lichess.org/uvgvvE1j/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "59TGN",
+    "FEN": "1r2r1k1/1b5p/p3p1pB/3nnp2/3NB2P/5P2/2P3P1/1R3RK1 w - - 0 24",
+    "Moves": "b1b7 b8b7 e4d5 e6d5",
+    "Rating": "1533",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "866",
+    "Themes": "advantage hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/XEdr3dqQ#47",
+    "OpeningTags": ""
+  }
+]

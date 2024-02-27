@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BIm00",
+    "FEN": "1k1r1r2/1ppq4/p1bp3p/P5p1/1PP1N2n/3Q1P2/1B4PP/1R2R1K1 w - - 1 21",
+    "Moves": "b2c3 f8f3 g2f3 d7h3 b1b2 h4f3",
+    "Rating": "2214",
+    "RatingDeviation": "77",
+    "Popularity": "83",
+    "NbPlays": "86",
+    "Themes": "advantage intermezzo kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/rM0Qbc2E#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BInT6",
+    "FEN": "4r2r/2q3k1/p3p2n/1p3pN1/3N1p1p/1PP2R1P/1P4P1/K3R3 b - - 0 28",
+    "Moves": "e6e5 g5e6 g7f6 e6c7",
+    "Rating": "2292",
+    "RatingDeviation": "82",
+    "Popularity": "80",
+    "NbPlays": "137",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/SoBJ4n88/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BInYl",
+    "FEN": "2r2rk1/1b3pp1/p2bp2p/3p4/P1pP1Pn1/2P1PN2/1qB3PP/R2QBRK1 w - - 8 21",
+    "Moves": "d1d2 b2a1 e1h4 a1a3",
+    "Rating": "2208",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "526",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/twemdtgA#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BInud",
+    "FEN": "5rk1/Qb3p1p/2n3p1/1qp5/8/5P2/PP2N1PP/3R1RK1 w - - 3 22",
+    "Moves": "a2a4 b5b4 a7b7 b4b7",
+    "Rating": "2216",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1895",
+    "Themes": "crushing master middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/Q7rP5stD#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BIorC",
+    "FEN": "3r1rk1/pp3p1b/3bp2B/q4p1Q/7N/PB4PP/1PP3PK/R7 b - - 1 22",
+    "Moves": "d6g3 h2g3 f5f4 g3g4 a5h5 g4h5",
+    "Rating": "2297",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "834",
+    "Themes": "advantage hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/dYCXKuqy/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BIpvM",
+    "FEN": "rn2k2r/pp3ppp/4p3/4Q3/3P4/P1q4P/2P1KPP1/R1B4R b kq - 2 17",
+    "Moves": "c3a1 e5g7 h8f8 g7f8 e8f8 c1h6 f8e7 h1a1",
+    "Rating": "2186",
+    "RatingDeviation": "86",
+    "Popularity": "67",
+    "NbPlays": "44",
+    "Themes": "advantage attraction middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/sh555JMk/black#34",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Lasker_Variation"
+  },
+  {
+    "PuzzleId": "BIqBl",
+    "FEN": "rn3rk1/1p4p1/pn2p3/3p2PQ/2pP4/6q1/PPP3P1/R1BK3R b - - 0 19",
+    "Moves": "f8f5 h5e8 f5f8 e8e6",
+    "Rating": "2182",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "840",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/86JWxFig/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Campomanes_Attack"
+  },
+  {
+    "PuzzleId": "BIqca",
+    "FEN": "3rr2k/p3nq2/5pp1/1p1p2B1/2pP4/2P3Q1/PP4PP/R4RK1 b - - 1 27",
+    "Moves": "e7f5 f1f5 g6f5 g3h4 h8g8 g5f6",
+    "Rating": "2048",
+    "RatingDeviation": "76",
+    "Popularity": "74",
+    "NbPlays": "78",
+    "Themes": "crushing exposedKing kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/ikCsYMEF/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BIqv7",
+    "FEN": "r2q1rk1/pp2bppp/2p2n2/6B1/8/2N2Q2/PPP2PPP/3RR1K1 b - - 3 15",
+    "Moves": "d8c7 g5f4 c7b6 e1e7",
+    "Rating": "2052",
+    "RatingDeviation": "86",
+    "Popularity": "76",
+    "NbPlays": "38",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/6dANiiAy/black#30",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  }
+]

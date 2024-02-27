@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "LBhud",
+    "FEN": "5r2/pk6/3p1n1r/N6p/N4p2/PP5P/1P3PP1/1b1R2K1 b - - 2 29",
+    "Moves": "b7a6 d1d6 a6a5 a4c3 f8b8 b3b4 b8b4 a3b4",
+    "Rating": "2191",
+    "RatingDeviation": "90",
+    "Popularity": "85",
+    "NbPlays": "28",
+    "Themes": "advantage exposedKing middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/FY8vNwD1/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LBhx8",
+    "FEN": "r2bk2r/1q1p1pp1/p1b1p2p/2B1P3/2P2Q2/4RNP1/P4P1P/2R3K1 w kq - 5 26",
+    "Moves": "c5d6 g7g5 f4g4 h6h5 g4d4 c6f3",
+    "Rating": "2326",
+    "RatingDeviation": "84",
+    "Popularity": "90",
+    "NbPlays": "449",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/SM9aWjyR#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LBi0l",
+    "FEN": "6k1/pp4pp/q3p3/3pP2Q/3P4/bP4NR/r5nP/2B4K b - - 1 28",
+    "Moves": "a6d3 h5e8 a3f8 e8e6 g8h8 e6f7",
+    "Rating": "2156",
+    "RatingDeviation": "235",
+    "Popularity": "11",
+    "NbPlays": "7",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/dAbZ2OVS/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LBizl",
+    "FEN": "2rq1rk1/p1b2pp1/1pp1p2p/5b2/1PP5/1Q1nRNPP/P2B1P2/R4BK1 b - - 0 20",
+    "Moves": "d8f6 d2c3 f6g6 f3h4",
+    "Rating": "2037",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "56",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/4l8xAJos/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LBjyO",
+    "FEN": "2kr2nr/Qpp2ppp/4n3/8/4q3/2B4P/PP2BPP1/R3K2R b KQ - 2 14",
+    "Moves": "e6f4 a7a8 c8d7 e1c1",
+    "Rating": "2112",
+    "RatingDeviation": "85",
+    "Popularity": "75",
+    "NbPlays": "101",
+    "Themes": "castling crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/Gnh1YymP/black#28",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense"
+  },
+  {
+    "PuzzleId": "LBm6F",
+    "FEN": "2kr3r/ppp4p/1b1p4/4nRp1/3Pq3/2P2NB1/PP4PP/R2Q2K1 w - - 0 22",
+    "Moves": "f5g5 e4e3 g1h1 e5f3",
+    "Rating": "2027",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "702",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/bADGSyJR#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LBmg6",
+    "FEN": "r5k1/1p4pp/8/1NqpP3/1R4PP/pPQ5/P6r/K6R w - - 6 28",
+    "Moves": "h1f1 c5f2 f1f2 h2h1 f2f1 h1f1 c3e1 f1e1",
+    "Rating": "2051",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "5145",
+    "Themes": "mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/ocJf8MiP#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LBmlA",
+    "FEN": "r2qr1k1/p2b1ppp/2p2b2/7Q/8/3B4/PPP2PPP/RN3RK1 b - - 1 14",
+    "Moves": "f6b2 h5h7 g8f8 h7h8 f8e7 h8h4",
+    "Rating": "2319",
+    "RatingDeviation": "131",
+    "Popularity": "76",
+    "NbPlays": "19",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/453cCDvJ/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "LBmux",
+    "FEN": "r1b1k2r/pp2nppp/1q6/8/1n6/2N2NP1/PP2QbBP/R1B2K1R b kq - 1 12",
+    "Moves": "c8f5 e2f2 b6a6 f1g1",
+    "Rating": "2120",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "816",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/8y70pjtB/black#24",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  }
+]

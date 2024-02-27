@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "xTHqa",
+    "FEN": "r2q1r1k/pp4pp/4Q3/3B4/2n4N/P1P3P1/2P4P/R3b2K b - - 0 25",
+    "Moves": "e1c3 h4g6 h7g6 e6h3 d8h4 h3h4",
+    "Rating": "1424",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "11999",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/ctlwRdut/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xTIHe",
+    "FEN": "r2r2k1/1bb2p1p/5n2/pPBpp1p1/P6N/2N1P1Pq/4BP1P/R2Q1RK1 w - - 0 23",
+    "Moves": "h4g2 d5d4 e3e4 d4c3",
+    "Rating": "1478",
+    "RatingDeviation": "132",
+    "Popularity": "81",
+    "NbPlays": "27",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/rp2RclcT#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xTJvB",
+    "FEN": "rnb2rk1/1p2bpp1/p2pp2p/7Q/3qPP2/2N3R1/PPP3PP/R6K b - - 1 15",
+    "Moves": "d4c5 h5h6 e7g5 g3g5 c5g5 h6g5",
+    "Rating": "1580",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "587",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/9MR3Tlkj/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "xTJyR",
+    "FEN": "r2q1r1k/p2n1ppp/b1p1p3/4P3/1p2P3/3P2R1/PP1BQ1PP/RN4K1 w - - 3 17",
+    "Moves": "d2b4 d8b6 e2e3 b6b4",
+    "Rating": "1578",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "748",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/U1JuiKDl#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "xTKuN",
+    "FEN": "r1bq1rk1/1p2bppp/p2p1n2/4p1B1/2B1P3/2N5/PPPQ1PPP/R3K2R w KQ - 4 11",
+    "Moves": "c3d5 f6d5 g5e7 d5e7",
+    "Rating": "1419",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2403",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/NS5T4WO8#21",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "xTLHi",
+    "FEN": "r3r1k1/pp2qppp/8/2p1n3/Q4nb1/3P1N2/PP1NBPPP/R3RK2 b - - 11 16",
+    "Moves": "e5f3 e2f3 g4f3 e1e7 f3g2 f1g1",
+    "Rating": "1570",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1786",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/UaXMQPk4/black#32",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Old_Indian_Attack"
+  },
+  {
+    "PuzzleId": "xTLZ0",
+    "FEN": "r3r1k1/ppp1qppp/2n5/3p4/3P2b1/P1N5/1P2BBPP/R2QK2R w KQ - 1 16",
+    "Moves": "e1g1 g4e2 c3e2 e7e2",
+    "Rating": "1596",
+    "RatingDeviation": "406",
+    "Popularity": "100",
+    "NbPlays": "3",
+    "Themes": "equality fork middlegame short",
+    "GameUrl": "https://lichess.org/AWw2DBE9#31",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xTLv0",
+    "FEN": "3qr1k1/r5p1/p2p1n1p/1p1b1p2/3Pp3/P1R1B1P1/1PQ1PPBP/2R3K1 b - - 3 23",
+    "Moves": "d5e6 d4d5 f6d5 e3a7",
+    "Rating": "1567",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "262",
+    "Themes": "crushing discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/xz2NZ8dB/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xTMaI",
+    "FEN": "1n1k1r2/Q1b3p1/p5q1/1p2Pp2/2pP1B1p/6P1/PP5P/R4RK1 w - - 0 27",
+    "Moves": "d4d5 c7b6 a7b6 g6b6",
+    "Rating": "1508",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "1781",
+    "Themes": "crushing fork middlegame pin short",
+    "GameUrl": "https://lichess.org/d11Vk4Xg#53",
+    "OpeningTags": ""
+  }
+]

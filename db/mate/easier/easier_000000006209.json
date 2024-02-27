@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "NRame",
+    "FEN": "rn1qkb1r/1p2pppp/p4n2/4N2Q/2BP4/8/PP3PPP/RNB2RK1 b kq - 0 9",
+    "Moves": "f6h5 c4f7",
+    "Rating": "1025",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "317",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/bVk01Mlg/black#18",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+  },
+  {
+    "PuzzleId": "NRbP7",
+    "FEN": "r2q2rk/pb1n4/1pp1Q3/2P2pp1/1P1P4/3B2P1/P3PP1P/R4RK1 b - - 0 20",
+    "Moves": "d8e8 e6h6",
+    "Rating": "1116",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "296",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Lnct9buQ/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NRcAD",
+    "FEN": "rnb2r1k/ppppb1pp/3P1q2/1nP5/4R3/1B6/PP3PPP/RNBQ2K1 w - - 1 14",
+    "Moves": "d6e7 f6f2 g1h1 f2f1 d1f1 f8f1",
+    "Rating": "1135",
+    "RatingDeviation": "78",
+    "Popularity": "75",
+    "NbPlays": "122",
+    "Themes": "backRankMate long mate mateIn3 opening",
+    "GameUrl": "https://lichess.org/n3fGKzpy#27",
+    "OpeningTags": "Russian_Game Russian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "NRccS",
+    "FEN": "r3r1k1/pp4b1/6pp/2p1n3/3qN3/7Q/PPPB2PP/2KR3R w - - 2 23",
+    "Moves": "h1e1 e5d3 c2d3 d4b2",
+    "Rating": "1150",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "558",
+    "Themes": "mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/Vx64UZFO#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NRdQ1",
+    "FEN": "1R1k2r1/p2r1p1p/P1p4p/3bP3/8/5Q1P/2q2PP1/1R4K1 b - - 6 29",
+    "Moves": "d8e7 f3f6",
+    "Rating": "1196",
+    "RatingDeviation": "151",
+    "Popularity": "58",
+    "NbPlays": "39",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Olw09JRC/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NReWR",
+    "FEN": "1nq4k/p5p1/2p3p1/1p5r/1PQ3P1/P3P3/5PK1/2R4R w - - 2 35",
+    "Moves": "c4f7 c8g4 g2f1 h5h1",
+    "Rating": "1017",
+    "RatingDeviation": "79",
+    "Popularity": "86",
+    "NbPlays": "81",
+    "Themes": "deflection endgame interference mate mateIn2 short",
+    "GameUrl": "https://lichess.org/S0tWdoOK#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NRecB",
+    "FEN": "3r2k1/1p3ppp/p4n2/5P2/2q1P3/1N2nB1Q/PP2R2P/2R4K w - - 6 30",
+    "Moves": "c1c4 d8d1 e2e1 d1e1 h3f1 e1f1",
+    "Rating": "1090",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "110",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/XIh4SjIX#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NRgmg",
+    "FEN": "5r2/pp1kp1bp/6p1/8/1n6/1B6/PP4PP/1RB1N1K1 w - - 5 23",
+    "Moves": "c1d2 g7d4 d2e3 d4e3 g1h1 f8f1",
+    "Rating": "1029",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "434",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/GKbOvtMw#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NRhtQ",
+    "FEN": "rn2k2r/5ppp/ppp1p3/2b5/P1Pq4/1P3P2/3P2PP/1RBQK1NR w Kkq - 3 13",
+    "Moves": "c1b2 d4f2",
+    "Rating": "1189",
+    "RatingDeviation": "77",
+    "Popularity": "78",
+    "NbPlays": "400",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/rWohEe0q#25",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  }
+]

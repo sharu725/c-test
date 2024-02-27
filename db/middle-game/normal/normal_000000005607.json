@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "GP0Nx",
+    "FEN": "r3r1k1/pp3pp1/2p1bn1p/3p4/3P1P2/2PB1n1P/PPQ2P2/R3R1K1 w - - 0 19",
+    "Moves": "g1g2 f3e1 a1e1 e6h3 g2h3 e8e1",
+    "Rating": "1203",
+    "RatingDeviation": "75",
+    "Popularity": "59",
+    "NbPlays": "63",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/7YYDPU49#37",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "GP0X3",
+    "FEN": "r4rk1/pppq2pp/3p1B2/2bP4/2P5/P1N1P1P1/1P1Q2bP/R4RK1 w - - 0 18",
+    "Moves": "f6g7 f8f1 a1f1 g2f1",
+    "Rating": "1342",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "714",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/9y2LObxQ#35",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation"
+  },
+  {
+    "PuzzleId": "GP1DU",
+    "FEN": "6k1/5pb1/6rp/8/4P3/2N2n2/1P1r1B1P/1R3R1K w - - 0 31",
+    "Moves": "f2g3 g6g3 f1f3 g3f3",
+    "Rating": "1398",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "10864",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/GzWupF7j#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GP2jt",
+    "FEN": "rn2nrk1/pp3ppp/3p3q/4p3/8/3B1N2/PPP1QP2/1K1R1R2 b - - 7 20",
+    "Moves": "b8c6 f1h1 h6h1 d1h1",
+    "Rating": "1386",
+    "RatingDeviation": "74",
+    "Popularity": "64",
+    "NbPlays": "140",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/GXhWoiEa/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GP42i",
+    "FEN": "rnbq3r/p1p2p1Q/1p3k1p/3N4/3P3P/3B4/PPP2PP1/2R1R1K1 b - - 0 19",
+    "Moves": "d8d5 h7h8",
+    "Rating": "1288",
+    "RatingDeviation": "76",
+    "Popularity": "64",
+    "NbPlays": "469",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/H8Cp21Xt/black#38",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "GP49H",
+    "FEN": "r1b1Qrk1/ppp2ppp/3p4/8/1PB5/8/PqP2PPP/R3R1K1 b - - 1 16",
+    "Moves": "b2a1 c4f7 g8h8 e8f8",
+    "Rating": "1311",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "8102",
+    "Themes": "deflection kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/IGsKTdBU/black#32",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "GP6Ls",
+    "FEN": "r4bkr/ppp3p1/3p2qp/4n3/3Q4/2N1B3/PPP2PPP/R4RK1 w - - 4 16",
+    "Moves": "c3d5 e5f3 g1h1 f3d4",
+    "Rating": "1336",
+    "RatingDeviation": "125",
+    "Popularity": "5",
+    "NbPlays": "13",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/fp9wsyVV#31",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "GP6s5",
+    "FEN": "1k5r/p1p2ppp/Bb3n2/3r4/5B2/1R6/PP4PP/2R4K b - - 5 23",
+    "Moves": "h8d8 f4c7 b8a8 c7d8",
+    "Rating": "1365",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1858",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/iuA8ASPy/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GPAws",
+    "FEN": "r1bq1kr1/ppp4Q/2np1p2/8/4P2N/8/PPPP3p/R1B2R1K b - - 0 14",
+    "Moves": "d8e7 h4g6 g8g6 h7g6",
+    "Rating": "1228",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "7598",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/YL6D7JHD/black#28",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  }
+]

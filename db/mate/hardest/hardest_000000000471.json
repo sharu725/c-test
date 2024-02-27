@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "D3BFB",
+    "FEN": "r2qkb1r/2p2pp1/pNnpb3/1p2p3/8/PB1P1Q2/1PP3PP/R1B2RK1 b kq - 2 15",
+    "Moves": "c6d4 f3f7 e6f7 b3f7 e8e7 c1g5",
+    "Rating": "2048",
+    "RatingDeviation": "78",
+    "Popularity": "46",
+    "NbPlays": "49",
+    "Themes": "attackingF2F7 long mate mateIn3 opening sacrifice xRayAttack",
+    "GameUrl": "https://lichess.org/KG2cxQjc/black#30",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "D3C36",
+    "FEN": "2k1r3/1p2qpbp/2brn1p1/Q1B5/1P6/3BR3/P1P2P1P/1K6 b - - 0 25",
+    "Moves": "e7d7 a5a8 c8c7 c5b6 c7b6 a8a5",
+    "Rating": "2208",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "7498",
+    "Themes": "attraction long mate mateIn3 middlegame queensideAttack sacrifice",
+    "GameUrl": "https://lichess.org/CYuldn6d/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D3VRX",
+    "FEN": "1r3rk1/5Bq1/2p1p2R/p2p2pQ/2b5/6P1/P1P3PP/5RK1 b - - 0 23",
+    "Moves": "f8f7 h6h8 g7h8 h5f7",
+    "Rating": "2104",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "472",
+    "Themes": "deflection mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Q9Xu0VV3/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D43u3",
+    "FEN": "1r1r4/6RQ/2b1q2p/2P1p3/1p1ppP1k/3N2pP/4B1K1/2R5 w - - 0 44",
+    "Moves": "g7g6 e6h3 g2g1 h3h2 g1f1 h2h1",
+    "Rating": "2170",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "1379",
+    "Themes": "fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/20pEqMBM#87",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D45cv",
+    "FEN": "3rr2k/5Rb1/1p1p2Q1/pN6/2P5/1P6/P1B1qnPP/3R3K w - - 3 29",
+    "Moves": "f7f2 e2d1 c2d1 e8e1 f2f1 e1f1",
+    "Rating": "2065",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "5228",
+    "Themes": "backRankMate clearance fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/Tpl5x1BB#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D48PD",
+    "FEN": "4r1k1/2b2p2/3q4/p2p2P1/3Ppn1p/PR4N1/B1P2PP1/5QK1 w - - 0 30",
+    "Moves": "g3f5 f4e2 f1e2 d6h2 g1f1 h2h1",
+    "Rating": "2092",
+    "RatingDeviation": "81",
+    "Popularity": "83",
+    "NbPlays": "720",
+    "Themes": "clearance kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/34apRu1Z#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D4IQ2",
+    "FEN": "7k/p1q5/3b4/4pr1p/2P5/P3QP2/1B3P1r/5KR1 b - - 1 30",
+    "Moves": "d6c5 e3h6 c7h7 b2e5 f5e5 h6f6 h7g7 f6g7",
+    "Rating": "2174",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "1497",
+    "Themes": "deflection exposedKing fork mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/TZZ2ZMMR/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "D4J1V",
+    "FEN": "k2r3r/P1pnqp2/1p2bn1p/1p1pp1p1/1P2P3/2PPQB1P/5PP1/R3K1NR b KQ - 2 19",
+    "Moves": "d5e4 e3e4 f6e4 f3e4 e6d5 e4d5 c7c6 d5c6",
+    "Rating": "2352",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "4806",
+    "Themes": "exposedKing mate mateIn4 middlegame queensideAttack sacrifice veryLong",
+    "GameUrl": "https://lichess.org/B4O2jNer/black#38",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Napoleon_Attack"
+  },
+  {
+    "PuzzleId": "D4Kum",
+    "FEN": "r3k2r/1Q2bppp/p3p3/4P3/3N1n2/P4P1b/1P5P/3R2K1 b kq - 0 24",
+    "Moves": "a8d8 b7e7 e8e7 d4c6 e7f8 d1d8",
+    "Rating": "2157",
+    "RatingDeviation": "79",
+    "Popularity": "85",
+    "NbPlays": "103",
+    "Themes": "attraction deflection discoveredAttack fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/jd0xK7rU/black#48",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "XSV6w",
+    "FEN": "r1bq1rk1/p3bppp/1np1p3/6P1/4QP2/N1P5/PPB4P/R1B1K2R b KQ - 0 14",
+    "Moves": "c8b7 e4h7",
+    "Rating": "1054",
+    "RatingDeviation": "146",
+    "Popularity": "54",
+    "NbPlays": "30",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/1AR0Zjl8/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Delayed_Alapin"
+  },
+  {
+    "PuzzleId": "XSWB5",
+    "FEN": "1n3rk1/3b1pb1/3p1np1/rP1Pp3/1R2P3/1QN2PPp/3NBq1P/2B1R2K w - - 5 23",
+    "Moves": "e1f1 f2g2",
+    "Rating": "1009",
+    "RatingDeviation": "86",
+    "Popularity": "88",
+    "NbPlays": "454",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/zoECKILC#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XSZbF",
+    "FEN": "5rk1/1p2p2p/6p1/2Pp4/Q2Pbq2/6R1/P6P/R4NK1 w - - 1 25",
+    "Moves": "a4d1 f4f2",
+    "Rating": "1154",
+    "RatingDeviation": "73",
+    "Popularity": "97",
+    "NbPlays": "2612",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/9m4s4w2Z#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XSfTc",
+    "FEN": "r4rk1/pp2b1pp/2p1pq1n/4p3/P7/2N1Q3/1PP2PPP/R1B1R1K1 w - - 0 14",
+    "Moves": "e3e5 f6f2 g1h1 f2f1 e1f1 f8f1",
+    "Rating": "1107",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "823",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/Nmuhpfqw#27",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "XSguy",
+    "FEN": "1rq2rk1/R3b1pp/1p1p4/4ppn1/2P2P2/1P2B1P1/6QP/3RN1K1 b - - 0 25",
+    "Moves": "g5e4 a7e7 b8b7 e7b7",
+    "Rating": "1196",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "250",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/7jyQOL3n/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XShFz",
+    "FEN": "4r1k1/1bq2ppp/p2p2n1/1ppn2NQ/8/2P3N1/PPB2PPP/R5K1 b - - 1 19",
+    "Moves": "h7h6 c2g6 d5f4 g6f7",
+    "Rating": "1154",
+    "RatingDeviation": "76",
+    "Popularity": "76",
+    "NbPlays": "150",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/WlxUeLBX/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "XSjWP",
+    "FEN": "rn1qkb1r/pp2pppp/2p5/4Nb2/2PP2P1/8/PPn1BP1P/RNBQ1RK1 b kq - 0 9",
+    "Moves": "f5g6 e5g6 h7g6 d1c2",
+    "Rating": "1146",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "7174",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/muYUa6hI/black#18",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "XSjdC",
+    "FEN": "r4rk1/pp2pp1p/6p1/1N2q3/2nN2Q1/8/P4PPP/1R3K1R w - - 2 18",
+    "Moves": "b1e1 c4d2 f1g1 e5e1",
+    "Rating": "1007",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "466",
+    "Themes": "deflection mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/rpsd6VOC#35",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "XSkOg",
+    "FEN": "3r1rk1/1b3pp1/1p1ppq1p/8/1PP1n3/5NP1/2Q1PPBP/1R3RK1 b - - 2 17",
+    "Moves": "e4g5 f3g5 h6g5 g2b7",
+    "Rating": "1178",
+    "RatingDeviation": "162",
+    "Popularity": "36",
+    "NbPlays": "9",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/wrGOB8v5/black#34",
+    "OpeningTags": "Queens_Indian_Defense Queens_Indian_Defense_Fianchetto_Variation"
+  }
+]

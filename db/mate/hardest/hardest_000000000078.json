@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "27D5s",
+    "FEN": "R5k1/2q2ppp/2p2n2/4pN2/1b2P3/3P1Q1P/1r3PP1/6K1 b - - 2 25",
+    "Moves": "b4f8 f5h6 g7h6 f3g3 f6g4 g3g4 g8h8 a8f8",
+    "Rating": "2029",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "757",
+    "Themes": "deflection mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/Jj2K5nEH/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "27HEf",
+    "FEN": "r2q1rk1/pp3ppp/2np4/2p5/2P1Pn2/P2B1N2/1BP2P1K/R5R1 b - - 4 19",
+    "Moves": "f4d3 g1g7 g8h8 g7g8 h8g8 a1g1 d8g5 g1g5",
+    "Rating": "2171",
+    "RatingDeviation": "78",
+    "Popularity": "89",
+    "NbPlays": "351",
+    "Themes": "attraction doubleCheck kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/BZx22bAL/black#38",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "27N1U",
+    "FEN": "6k1/7p/3p2bb/1p1Pp2p/4q3/PKR1BrP1/1P1Q3P/2N5 w - - 5 36",
+    "Moves": "e3h6 e4c4",
+    "Rating": "2099",
+    "RatingDeviation": "84",
+    "Popularity": "92",
+    "NbPlays": "5075",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/oDCgG0Vp#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "27gqy",
+    "FEN": "6k1/6pp/p1Qb4/3p4/4p3/1P3q1P/P3K3/3R3R w - - 3 31",
+    "Moves": "e2d2 f3d3 d2c1 d6a3",
+    "Rating": "2151",
+    "RatingDeviation": "80",
+    "Popularity": "85",
+    "NbPlays": "202",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/hyl9JsYe#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "27nBc",
+    "FEN": "2k5/5pq1/pp1p4/2pP1Pr1/P1P3r1/1P4Qp/7K/5RR1 w - - 0 39",
+    "Moves": "g3d6 g7b2 h2h1 g4g1 f1g1 g5g1 h1g1 b2g2",
+    "Rating": "2252",
+    "RatingDeviation": "83",
+    "Popularity": "86",
+    "NbPlays": "50",
+    "Themes": "attraction endgame exposedKing mate mateIn4 veryLong",
+    "GameUrl": "https://lichess.org/Xk4iE8zr#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "27rLm",
+    "FEN": "r3k2r/1pp1qppp/pbnp4/3P4/2P1nP2/2N4B/PP2N3/R1BQK2R w KQkq - 0 14",
+    "Moves": "d5c6 e7h4 e2g3 h4g3 e1e2 g3f2 e2d3 e4c5",
+    "Rating": "2040",
+    "RatingDeviation": "72",
+    "Popularity": "96",
+    "NbPlays": "7618",
+    "Themes": "exposedKing mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/IVXonoBt#27",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "27xpn",
+    "FEN": "5r1r/ppp3k1/3p2p1/3Pp3/PPP1P3/4Nppq/3Q1P1P/R5RK w - - 0 26",
+    "Moves": "f2g3 h3h2 d2h2 h8h2 h1h2 f8h8",
+    "Rating": "2149",
+    "RatingDeviation": "77",
+    "Popularity": "78",
+    "NbPlays": "149",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/NmMVtWWg#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2845R",
+    "FEN": "r4rk1/1p4pp/4ppq1/1pppP3/5P2/1P3BP1/PKPPQ2P/4R2R w - - 0 23",
+    "Moves": "e5f6 a8a2 b2a2 g6c2 a2a1 f8a8",
+    "Rating": "2101",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "8194",
+    "Themes": "attraction deflection long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/zPBgk15c#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "28Tn1",
+    "FEN": "8/1R4Rp/4p3/3p2k1/3P4/1P2KP2/pq6/8 b - - 2 40",
+    "Moves": "g5h4 g7g4 h4h5 b7h7",
+    "Rating": "2039",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "2309",
+    "Themes": "discoveredAttack endgame mate mateIn2 queenRookEndgame short",
+    "GameUrl": "https://lichess.org/jozgD4Y6/black#80",
+    "OpeningTags": ""
+  }
+]

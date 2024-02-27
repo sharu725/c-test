@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "rLNF1",
+    "FEN": "r2q1rk1/pp1nn1pp/2pb4/4p1N1/8/1P1Q2N1/PBP2PPP/R3R1K1 b - - 1 14",
+    "Moves": "d7c5 d3h7",
+    "Rating": "1217",
+    "RatingDeviation": "80",
+    "Popularity": "84",
+    "NbPlays": "475",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/2h7DFwaA/black#28",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "rLNOP",
+    "FEN": "2Rr1rk1/3P1pp1/R2N1n1p/5Q2/8/p6P/3q2PK/8 b - - 1 35",
+    "Moves": "d8d7 c8f8 g8f8 a6a8 d7d8 a8d8",
+    "Rating": "1310",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1680",
+    "Themes": "attraction crushing long middlegame",
+    "GameUrl": "https://lichess.org/f4tgn6wc/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rLPcP",
+    "FEN": "r1b1k2r/ppp2pp1/4pq1p/2PpP3/1b6/2N5/PP2PPPP/R2QKB1R b KQkq - 0 9",
+    "Moves": "f6e5 d1a4 c8d7 a4b4",
+    "Rating": "1269",
+    "RatingDeviation": "77",
+    "Popularity": "70",
+    "NbPlays": "148",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/vjX5ivxx/black#18",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense"
+  },
+  {
+    "PuzzleId": "rLSXV",
+    "FEN": "1rb1k2r/5ppp/p1p1p3/q1bpP3/8/P1N2N2/1B1Q1PPP/R4RK1 w k - 2 16",
+    "Moves": "c3e2 a5d2 f3d2 b8b2",
+    "Rating": "1270",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "3700",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/ryCfpywu#31",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "rLScp",
+    "FEN": "2rqr1k1/3n1pp1/p2P3p/1p2p3/1Q2B3/P3P2P/1P3PP1/R3K2R w KQ - 6 23",
+    "Moves": "e1g1 c8c4 b4d2 c4e4",
+    "Rating": "1391",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "19944",
+    "Themes": "advantage interference middlegame short",
+    "GameUrl": "https://lichess.org/N66EaopH#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rLUS4",
+    "FEN": "1nkr2nr/2p5/p1q1pp2/Q4b1p/2NP2pP/2R1P3/PP2NPP1/4K2R b K - 4 19",
+    "Moves": "c6b5 c4d6 d8d6 a5c7",
+    "Rating": "1363",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "8468",
+    "Themes": "mate mateIn2 middlegame pin queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/sNJFUWI6/black#38",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "rLUlG",
+    "FEN": "5rk1/pr3ppp/2p1p3/3p4/Nq1Pn3/1P1Q2PP/P1P2P2/1R3RK1 b - - 0 20",
+    "Moves": "e4d2 c2c3 b4d6 d3d2",
+    "Rating": "1384",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1566",
+    "Themes": "advantage interference middlegame short",
+    "GameUrl": "https://lichess.org/7jppq1XI/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rLV0v",
+    "FEN": "r3r3/1p1k1p2/p1pq1b2/P4Q2/3P3p/2P4P/1P4P1/R4RK1 b - - 0 27",
+    "Moves": "d6e6 f5f6 e6f6 f1f6",
+    "Rating": "1359",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1270",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/i69mVlwa/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rLVPP",
+    "FEN": "1kqrbb1r/1pp1n1pp/p1np1p2/3N3P/B1PpP1P1/4BN2/PP2QP2/2KR2R1 w - - 0 19",
+    "Moves": "e3d4 c6d4 f3d4 e8a4",
+    "Rating": "1398",
+    "RatingDeviation": "80",
+    "Popularity": "65",
+    "NbPlays": "96",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/qA9VZn8c#37",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  }
+]

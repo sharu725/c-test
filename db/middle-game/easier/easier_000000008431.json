@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PZSwg",
+    "FEN": "r3k1nr/ppq1bppp/4p3/4P3/1BBP2P1/5N1P/P3QP2/Rb3RK1 w kq - 0 17",
+    "Moves": "e2c2 b1c2",
+    "Rating": "1168",
+    "RatingDeviation": "77",
+    "Popularity": "75",
+    "NbPlays": "437",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/W3uJ6FLa#33",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "PZT1O",
+    "FEN": "r4rk1/5ppp/p3p1b1/3pP3/1bqN1P2/2B3QP/PP4P1/R4RK1 w - - 1 23",
+    "Moves": "c3b4 c4d4 g1h2 d4b4",
+    "Rating": "1078",
+    "RatingDeviation": "78",
+    "Popularity": "89",
+    "NbPlays": "80",
+    "Themes": "crushing fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/YWvCOk0E#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PZU5R",
+    "FEN": "2rq1rk1/p4pbp/1p2p1p1/8/8/P3BQ2/1P4PP/3R1R1K b - - 5 22",
+    "Moves": "d8f6 f3f6 g7f6 f1f6",
+    "Rating": "1024",
+    "RatingDeviation": "83",
+    "Popularity": "92",
+    "NbPlays": "502",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/2cvkOY7d/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PZVkX",
+    "FEN": "2r1r1k1/5ppp/p2q4/1p2b3/1P1pP1b1/1N1P1nPP/P3NPB1/1R1Q1R1K w - - 1 21",
+    "Moves": "h3g4 d6h6 g2h3 h6h3",
+    "Rating": "1136",
+    "RatingDeviation": "78",
+    "Popularity": "66",
+    "NbPlays": "154",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/kj90trHF#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PZXiO",
+    "FEN": "r2qkb1r/pp1Npppp/3p4/1B6/4P3/2N5/PP2bPPP/R1B2RK1 b kq - 0 11",
+    "Moves": "d8d7 b5d7 e8d7 c3e2",
+    "Rating": "1179",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "189",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/oThke4yJ/black#22",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "PZYwX",
+    "FEN": "r2qr1k1/pbp2pp1/1pn4p/1B6/1b1P4/4PN2/PBQ2PPP/R4RK1 b - - 1 16",
+    "Moves": "a7a6 b5c6 b7c6 c2c6",
+    "Rating": "1026",
+    "RatingDeviation": "90",
+    "Popularity": "0",
+    "NbPlays": "38",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/qlLOfWpA/black#32",
+    "OpeningTags": "Polish_Opening Polish_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "PZZ9m",
+    "FEN": "r3kbnr/ppp2pp1/7p/8/2BnNB2/3P1P2/PPP2P1P/R3K2R w KQkq - 3 12",
+    "Moves": "e1c1 d4e2 c1b1 e2f4",
+    "Rating": "1107",
+    "RatingDeviation": "80",
+    "Popularity": "85",
+    "NbPlays": "135",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/dEXG8aLn#23",
+    "OpeningTags": "Elephant_Gambit Elephant_Gambit_Paulsen_Countergambit"
+  },
+  {
+    "PuzzleId": "PZZkj",
+    "FEN": "r4rk1/pp1qbppp/2n2n2/3p4/5NbQ/2NBPP2/PP4PP/R1B1K2R b KQ - 0 13",
+    "Moves": "f6h5 h4g4 d7g4 f3g4 h5f4 e3f4",
+    "Rating": "1077",
+    "RatingDeviation": "232",
+    "Popularity": "43",
+    "NbPlays": "2",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/rY9shl6B/black#26",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "PZb26",
+    "FEN": "r2q1r2/1pp2ppk/p1nb1n1p/8/3pPB2/1P1P1QNP/1PPN2PK/R4R2 b - - 4 16",
+    "Moves": "c6e5 f4e5 d6e5 f3f5 g7g6 f5e5",
+    "Rating": "1139",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "3314",
+    "Themes": "clearance crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/1IIMd1zf/black#32",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "bRk4g",
+    "FEN": "r3k1nr/ppp1qppp/8/3P4/1b6/2N2Q2/PP3PPP/R1BK3R b kq - 2 12",
+    "Moves": "a8d8 h1e1 e7e1 d1e1",
+    "Rating": "1447",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "895",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/babNNq7a/black#24",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "bRkjA",
+    "FEN": "1r1qk1r1/1b1nbp1p/2Bp1Q2/2p3N1/8/8/PPP2PPP/R3R1K1 b - - 2 20",
+    "Moves": "g8g5 f6h8 g5g8 h8g8",
+    "Rating": "1425",
+    "RatingDeviation": "75",
+    "Popularity": "76",
+    "NbPlays": "461",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/IK47r4lY/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bRl8e",
+    "FEN": "7r/R3ppk1/3p4/1ppNn1p1/4P3/3PQ2b/1PP2KBq/5R2 w - - 4 31",
+    "Moves": "e3g3 e5g4 g3g4 h3g4",
+    "Rating": "1561",
+    "RatingDeviation": "75",
+    "Popularity": "77",
+    "NbPlays": "109",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/4z2akr8d#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bRm0C",
+    "FEN": "r3kb1r/pp1b1ppp/nq2pn2/1N1p4/PPpP1B2/2P1P3/4BPPP/R2QK1NR b KQkq b3 0 9",
+    "Moves": "a6b4 b5c7 b6c7 f4c7",
+    "Rating": "1553",
+    "RatingDeviation": "74",
+    "Popularity": "83",
+    "NbPlays": "806",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/uWi7lIya/black#18",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "bRmGH",
+    "FEN": "r1bqk2r/1pp2pb1/p2p3p/2nPp1p1/4P3/P1NBQ1PP/1PP1KP1N/3R3R b kq - 2 15",
+    "Moves": "c8h3 g3g4 h3g4 h2g4",
+    "Rating": "1594",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "12216",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/p3r2PjdN/black#30",
+    "OpeningTags": "Rat_Defense Rat_Defense_Small_Center_Defense"
+  },
+  {
+    "PuzzleId": "bRo0b",
+    "FEN": "r3k2r/1pp1n1pp/p1pb4/4p1B1/4P3/2N2P2/PPP2P1P/3R1RK1 b kq - 2 14",
+    "Moves": "e8g8 d1d6 c7d6 g5e7",
+    "Rating": "1472",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "353",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/esw0gQHQ/black#28",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "bRoPB",
+    "FEN": "r4rk1/pb1qbppp/1pnppn2/1B2P3/3N4/2N1B3/PPP1QPPP/3R1RK1 b - - 0 12",
+    "Moves": "d6e5 d4c6 b7c6 d1d7",
+    "Rating": "1498",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "2635",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/E0TsCI2z/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Sozin_Attack"
+  },
+  {
+    "PuzzleId": "bRogW",
+    "FEN": "1n1r1rk1/1bq2ppp/p1pRp3/1P2P3/2p1PP2/2P1B3/2Q1B1PP/3R2K1 b - - 0 18",
+    "Moves": "c6b5 e3b6 d8d6 b6c7",
+    "Rating": "1484",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "2672",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/mcbgc0AR/black#36",
+    "OpeningTags": "Slav_Defense Slav_Defense_Modern_Line"
+  },
+  {
+    "PuzzleId": "bRpH8",
+    "FEN": "k2r3r/pp1q2pp/2pBpp2/Q2nP3/2RP4/5P2/P4P1P/1R4K1 b - - 1 20",
+    "Moves": "f6e5 a5a7 a8a7 c4a4",
+    "Rating": "1502",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "964",
+    "Themes": "attraction mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/YKo4z3S6/black#40",
+    "OpeningTags": ""
+  }
+]

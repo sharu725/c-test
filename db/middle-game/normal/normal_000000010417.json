@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "UQUW3",
+    "FEN": "r3r2k/pp3Qp1/5R2/2q1P2p/6b1/3B4/P1Pn2PP/7K b - - 2 28",
+    "Moves": "c5f8 f6h6 g7h6 f7h7",
+    "Rating": "1343",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "4567",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/R3LmLEzS/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UQWKm",
+    "FEN": "6k1/bbrp1qp1/p4p2/1p2pN1p/1P2P3/P5Q1/1B3PPP/3R2K1 b - - 1 28",
+    "Moves": "b7e4 f5h6 g8f8 h6f7",
+    "Rating": "1337",
+    "RatingDeviation": "82",
+    "Popularity": "55",
+    "NbPlays": "54",
+    "Themes": "crushing kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/eA1U7M6V/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UQXhQ",
+    "FEN": "r4rk1/2p3p1/p2p3p/1pbPp1q1/2PP4/1P3p1P/PB2QPP1/3R1RK1 w - - 0 19",
+    "Moves": "e2e3 g5g2",
+    "Rating": "1292",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "315",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/QdHjYWvW#37",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "UQYz2",
+    "FEN": "r1bk1b1r/1ppp1pp1/p6p/2qPN3/2Q5/8/PP3PPP/R1B1R1K1 b - - 4 14",
+    "Moves": "c5c4 e5f7",
+    "Rating": "1336",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "582",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/UCusqXW6/black#28",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "UQZN1",
+    "FEN": "1rb1k2r/p1p1qp2/2p5/4pN2/3N2n1/1P1P3p/P1P2PP1/R2QR1K1 w k - 0 21",
+    "Moves": "f5e7 h3h2 g1f1 h2h1q",
+    "Rating": "1228",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2877",
+    "Themes": "advancedPawn crushing deflection kingsideAttack middlegame promotion short",
+    "GameUrl": "https://lichess.org/jGZEviO7#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UQaJg",
+    "FEN": "r3k2r/1p3ppp/p2qpn2/3p1b2/Q2P4/2N1P3/PP3PPP/2R1KB1R b Kkq - 1 13",
+    "Moves": "d6d7 f1b5 a6b5 a4a8",
+    "Rating": "1346",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "582",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/SJO8M4yp/black#26",
+    "OpeningTags": "Slav_Defense Slav_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "UQmWU",
+    "FEN": "1r1qkb1r/p4pp1/4p2p/4Pn2/1PPp4/5P2/2QB1P1P/RN1R2K1 b k - 0 18",
+    "Moves": "f8b4 c2a4 e8f8 d2b4",
+    "Rating": "1365",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "590",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/VzUKqSBB/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "UQmsA",
+    "FEN": "3r1r2/2q2pk1/p4np1/1p4Qp/1P6/2P4B/P5PP/3R1R1K b - - 0 34",
+    "Moves": "d8d1 g5f6 g7g8 f1d1",
+    "Rating": "1255",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "4922",
+    "Themes": "advantage intermezzo master middlegame short",
+    "GameUrl": "https://lichess.org/9RilTHPQ/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UQsQt",
+    "FEN": "2kr1r2/1p3q2/p1b1p2Q/3pP1B1/3P4/P1P5/6PP/1R3NK1 w - - 3 22",
+    "Moves": "g5d8 f7f2 g1h1 f2f1 b1f1 f8f1",
+    "Rating": "1229",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1471",
+    "Themes": "backRankMate deflection long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/dZhjFUSu#43",
+    "OpeningTags": ""
+  }
+]

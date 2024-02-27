@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CIYL3",
+    "FEN": "2k3nr/1pp3pp/p4p2/3rP3/1nN2Bb1/4P3/PP3PPP/R3KB1R w KQ - 0 14",
+    "Moves": "a1c1 b4c2 c1c2 d5d1",
+    "Rating": "1821",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "883",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/cwM4KoWy#27",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "CIYRe",
+    "FEN": "rnb1k2r/pp3pb1/1qpp2pp/6N1/2P5/2NBP1P1/PPQ2PP1/R3K2R w KQkq - 0 13",
+    "Moves": "d3g6 h6g5 h1h8 g7h8",
+    "Rating": "1821",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "213",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/716s67Gp#25",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CIafD",
+    "FEN": "r1b1k2r/ppp4p/3p1qpQ/2b5/3p4/3B4/PPP2PPP/RN2R1K1 b kq - 1 13",
+    "Moves": "c8e6 d3c4 d6d5 c4d5 e8c8 d5e6",
+    "Rating": "1975",
+    "RatingDeviation": "88",
+    "Popularity": "71",
+    "NbPlays": "24",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/WUKTAJZm/black#26",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "CIbeI",
+    "FEN": "r5k1/pp1R1rp1/2p4p/8/P1B1Q1bq/8/1PP5/1K6 b - - 1 25",
+    "Moves": "a8f8 d7f7 f8f7 e4e8",
+    "Rating": "1868",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "572",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/820VT4wZ/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CIejA",
+    "FEN": "r4r2/pppq1p1k/3p1R1p/2b5/4P1p1/6PP/PpPQ2PK/1R6 b - - 3 20",
+    "Moves": "f8h8 f6h6 h7g8 d2g5 g8f8 h6h8",
+    "Rating": "1990",
+    "RatingDeviation": "72",
+    "Popularity": "95",
+    "NbPlays": "4105",
+    "Themes": "deflection long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/d1X58N1U/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CIerG",
+    "FEN": "3r1rk1/1bq2ppp/3bp3/p3N1P1/4pB1P/2P3Q1/PP3P2/1R2R1K1 w - - 0 21",
+    "Moves": "h4h5 f7f6 g5f6 f8f6",
+    "Rating": "1873",
+    "RatingDeviation": "74",
+    "Popularity": "70",
+    "NbPlays": "208",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/aOgMwjFb#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CIhD7",
+    "FEN": "r3r1k1/1p3q1p/2p1n1p1/2Pp1pB1/1P1b4/3B1RN1/3Q3P/5R1K b - - 0 38",
+    "Moves": "d4e5 g3f5 g6f5 f3f5",
+    "Rating": "1901",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "476",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/TEHyParu/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CIjU0",
+    "FEN": "r4r2/pbq1nppk/1p2p3/4P1N1/P7/2P5/5PPP/R2QR1K1 b - - 1 17",
+    "Moves": "h7g8 d1h5 f8c8 h5f7",
+    "Rating": "1901",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "287",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/EIQgoCjl/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "CIkvA",
+    "FEN": "r5k1/1p4p1/2p1rb2/6p1/p2P3P/PbP1BB2/1P6/2K1R2R w - - 0 25",
+    "Moves": "h4g5 e6e3 e1e3 f6g5 c1d2 a8e8",
+    "Rating": "1876",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "449",
+    "Themes": "advantage capturingDefender intermezzo long middlegame pin",
+    "GameUrl": "https://lichess.org/QR1WzNO6#49",
+    "OpeningTags": ""
+  }
+]

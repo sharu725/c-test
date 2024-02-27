@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "LVLW4",
+    "FEN": "r5r1/5Qpk/p1nq3p/1p2p3/1P6/2PP1P1P/P3K1R1/6R1 b - - 0 23",
+    "Moves": "a8a7 g2g7 g8g7 g1g7 h7h8 f7g8",
+    "Rating": "1663",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "287",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/qcjxQlPV/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LVMFS",
+    "FEN": "r3r1k1/pp3ppp/1q1b1B2/3pN3/3n1P2/3Q3P/PP4P1/RN2R1K1 b - - 0 16",
+    "Moves": "g7f6 d3g3 g8h8 e5f7",
+    "Rating": "1666",
+    "RatingDeviation": "74",
+    "Popularity": "71",
+    "NbPlays": "238",
+    "Themes": "deflection kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/4VWMMgY6/black#32",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "LVMQL",
+    "FEN": "1k1rb2r/p4pb1/4p1pp/2Pn4/3PNq1P/7Q/PPB3P1/1K1RR3 b - - 3 24",
+    "Moves": "d5b4 h3b3 b8a8 b3b4",
+    "Rating": "1648",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "8431",
+    "Themes": "advantage master masterVsMaster middlegame pin short",
+    "GameUrl": "https://lichess.org/bxvfnnLv/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LVO0F",
+    "FEN": "rn2kb1r/pp2ppp1/1qp2n2/4N2p/N2P1Bb1/8/PPP1BPPP/R2Q1RK1 b kq - 3 10",
+    "Moves": "g4e2 a4b6 e2d1 b6a8",
+    "Rating": "1669",
+    "RatingDeviation": "88",
+    "Popularity": "61",
+    "NbPlays": "26",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/xEy5Iaco/black#20",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "LVQiz",
+    "FEN": "r4rk1/pp4pp/2pPp3/6q1/3Q1n2/2N4P/PPP2PP1/3R1RK1 w - - 3 16",
+    "Moves": "d4e4 f4h3 g1h2 h3f2 f1f2 f8f2",
+    "Rating": "1665",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2771",
+    "Themes": "advantage deflection fork long middlegame pin",
+    "GameUrl": "https://lichess.org/539Se0W0#31",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "LVRta",
+    "FEN": "4r1k1/1p3pp1/p4n1p/R7/3Q1B2/1P5P/1Pr1qPP1/3R2K1 w - - 2 24",
+    "Moves": "a5e5 e8e5 f4e5 f6e4",
+    "Rating": "1735",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "231",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/dMQ2GrXW#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LVS5t",
+    "FEN": "r1b4k/1pp3pp/p1n1Pr2/5pq1/8/1BPR1Q2/PP3PPP/4R1K1 b - - 4 19",
+    "Moves": "f6e6 b3e6",
+    "Rating": "1613",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "81",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/KyT50n0s/black#38",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Other_variations"
+  },
+  {
+    "PuzzleId": "LVSxh",
+    "FEN": "3r1r1k/ppp1bNpp/4P3/3P4/5B2/2N3Pb/PPq1QP1P/n3R1K1 b - - 3 22",
+    "Moves": "f8f7 e6f7 c2e2 e1e2",
+    "Rating": "1601",
+    "RatingDeviation": "75",
+    "Popularity": "75",
+    "NbPlays": "163",
+    "Themes": "advancedPawn crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/KAe5srfj/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LVUge",
+    "FEN": "2q2rk1/3nppbp/p2p1np1/3N4/1r2P3/1N1QB2P/1PP2PP1/1RR3K1 b - - 1 17",
+    "Moves": "b4e4 d3e4 f6e4 d5e7 g8h8 e7c8",
+    "Rating": "1727",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "441",
+    "Themes": "advantage capturingDefender fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/kKjwZRfy/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  }
+]

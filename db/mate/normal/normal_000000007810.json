@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "fAgw1",
+    "FEN": "r3N1k1/pp4bp/4b3/7p/2P3qP/2N1PpB1/PP1Q1P2/R4RK1 w - - 1 23",
+    "Moves": "g1h1 g4h3 g3h2 h3g2",
+    "Rating": "1345",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "236",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/56t5Z3NI#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fAhy4",
+    "FEN": "2r3k1/1pp3pp/p2p4/4prP1/5nQP/P1P5/qPPN1P2/2KR3R w - - 0 19",
+    "Moves": "g4f5 f4e2",
+    "Rating": "1372",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "173",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/miDnzY1b#37",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "fAmjS",
+    "FEN": "r1b4k/pppp2pp/2nb4/8/2BNp2q/2P5/PP4PP/RNB2Q1K w - - 2 16",
+    "Moves": "d4f5 h4h2",
+    "Rating": "1331",
+    "RatingDeviation": "199",
+    "Popularity": "-29",
+    "NbPlays": "4",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/10qWFOpp#31",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "fApuu",
+    "FEN": "rnb1k2r/pp3pb1/2p2n2/3q4/5p1p/3R1N2/P1P1BPPP/3Q1K1R b kq - 5 18",
+    "Moves": "d5a2 d3d8 e8e7 d1d6",
+    "Rating": "1395",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1374",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/RTFGpdAC/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "fAssq",
+    "FEN": "4r3/8/p3r1kp/3R2p1/5p2/QP6/2q2PPP/3R2K1 w - - 3 39",
+    "Moves": "d5d6 c2d1 d6d1 e6e1 d1e1 e8e1",
+    "Rating": "1229",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "14256",
+    "Themes": "backRankMate endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/5Ly8Gnog#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fAtL2",
+    "FEN": "3r1rk1/pp1nqppp/1np1p3/4P3/3PN3/3Q3R/PPP1N1PP/R5K1 b - - 7 15",
+    "Moves": "d7e5 e4f6 g7f6 d3h7",
+    "Rating": "1321",
+    "RatingDeviation": "195",
+    "Popularity": "82",
+    "NbPlays": "6",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/ur9td8l4/black#30",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+  },
+  {
+    "PuzzleId": "fAwZ1",
+    "FEN": "2r3k1/5p1p/1p1QN1p1/p5q1/2r2p2/2P2b1P/P1PR2P1/4R1K1 b - - 0 25",
+    "Moves": "g5g3 d6d8 c8d8 d2d8",
+    "Rating": "1282",
+    "RatingDeviation": "85",
+    "Popularity": "25",
+    "NbPlays": "47",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/RA2hc4jv/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fAwkR",
+    "FEN": "1rk2b1r/1bNp1npp/p2P1n2/qp3PP1/5B2/2P5/PP2Q2P/R3R1K1 b - - 0 22",
+    "Moves": "f6d5 e2e8 f7d8 e8d8 c8d8 e1e8",
+    "Rating": "1334",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "9583",
+    "Themes": "attraction fork hookMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/T78J4qUB/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fAy8V",
+    "FEN": "6k1/R7/6Kp/6p1/p1r3P1/2P5/8/8 b - - 3 52",
+    "Moves": "c4g4 a7a8",
+    "Rating": "1344",
+    "RatingDeviation": "93",
+    "Popularity": "46",
+    "NbPlays": "30",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/wUawpFez/black#104",
+    "OpeningTags": ""
+  }
+]

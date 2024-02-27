@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "NCPQ9",
+    "FEN": "r2qkb1r/1Q1npppp/3p4/1Bp1P3/5P2/8/PPPP2PP/R1B3K1 b kq - 0 12",
+    "Moves": "a8b8 b5d7 d8d7 b7b8",
+    "Rating": "1268",
+    "RatingDeviation": "75",
+    "Popularity": "75",
+    "NbPlays": "650",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/EraUb4gV/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "NCPyr",
+    "FEN": "q4b1r/p2k1ppp/b2Ppn2/8/8/2N5/PPP2PPP/R1BQK2R w KQ - 1 12",
+    "Moves": "c1f4 a8g2 d1d4 g2h1",
+    "Rating": "1333",
+    "RatingDeviation": "76",
+    "Popularity": "75",
+    "NbPlays": "683",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/nNFOIifx#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "NCTgE",
+    "FEN": "1nbq1rk1/1pp3pp/1b1p1n2/4p2N/1P6/2PBP3/5PPP/BN1QK2R b K - 2 13",
+    "Moves": "c8g4 h5f6 d8f6 d1g4",
+    "Rating": "1255",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1789",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/UTUrxFWZ/black#26",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "NCUwD",
+    "FEN": "8/pk1b1pp1/1n1p2r1/1Pp2P2/4P2q/5R2/2Q1B2K/3R4 w - - 0 35",
+    "Moves": "f3h3 h4f2 h2h1 f2g2",
+    "Rating": "1282",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "12587",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PzY3ZMtM#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NCV9p",
+    "FEN": "4rr1k/p5pp/1p6/2p5/3Q4/2N1B2P/Pq3PP1/4R1K1 w - - 0 22",
+    "Moves": "d4c4 e8e3 f2e3 b2f2 g1h2 f2e1",
+    "Rating": "1227",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "8156",
+    "Themes": "crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/A8gYdUyu#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NCVP5",
+    "FEN": "2k4r/pp3pbp/1qpQpp2/8/1nP3PN/2B4P/PP3P2/1K1R4 b - - 2 22",
+    "Moves": "h8d8 d6d8 b6d8 d1d8 c8d8 c3b4",
+    "Rating": "1399",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "2119",
+    "Themes": "crushing long middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/mGkz0WID/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NCXeH",
+    "FEN": "r2q1r2/pp3pkp/3p1NpB/4p3/3nP3/3P3P/PP3QP1/R4RK1 b - - 2 18",
+    "Moves": "g7h6 f2h4 h6g7 h4h7",
+    "Rating": "1286",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "909",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/HgrI72Py/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  },
+  {
+    "PuzzleId": "NCZMn",
+    "FEN": "3rr1k1/1p3ppn/1p2R2p/2p2N2/6PN/P2P3P/1qPK1Q2/5R2 b - - 0 25",
+    "Moves": "f7e6 f5h6 g7h6 f2f7 g8h8 h4g6",
+    "Rating": "1295",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "10070",
+    "Themes": "clearance kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/bQYDWlzu/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NCZY2",
+    "FEN": "r3k2r/ppp2ppp/4nn2/3Np3/1q2P3/4BQ2/PPP3PP/R4RK1 b kq - 7 13",
+    "Moves": "b4e4 d5f6 g7f6 f3e4",
+    "Rating": "1368",
+    "RatingDeviation": "84",
+    "Popularity": "62",
+    "NbPlays": "46",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/JPz7SHZx/black#26",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Lewis_Gambit"
+  }
+]

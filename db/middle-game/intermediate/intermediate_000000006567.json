@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FmHpS",
+    "FEN": "r1bqkb1r/p4pp1/2p2n1p/nB2p1N1/1P6/5Q2/P1PP1PPP/RNB1K2R b KQkq - 0 9",
+    "Moves": "h6g5 b4a5 c6b5 f3a8",
+    "Rating": "1543",
+    "RatingDeviation": "345",
+    "Popularity": "100",
+    "NbPlays": "3",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/wY3Ehm64/black#18",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FmHyH",
+    "FEN": "3rkr2/1p6/1Q4Rp/p2p1p2/P2p1P2/1B1Pqn1P/1PP5/6RK b - - 4 31",
+    "Moves": "f3g1 g6e6 e8f7 e6e3",
+    "Rating": "1487",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1511",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/2zMqwPZZ/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FmJvs",
+    "FEN": "1rq3k1/p2nrpbp/2p3p1/PbNp2P1/1R1P4/1p2P2B/1P1B1P1P/3QR1K1 w - - 2 27",
+    "Moves": "d1b3 d7c5 h3c8 c5b3 b4b3 b8c8",
+    "Rating": "1478",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "240",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/VyK0KL9i#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FmKc7",
+    "FEN": "r5k1/pp1b2b1/4p3/8/2pqN3/6Q1/PP3P2/2K3RR w - - 0 24",
+    "Moves": "g3g5 d4b2 c1d1 d7a4 d1e1 b2b1",
+    "Rating": "1434",
+    "RatingDeviation": "440",
+    "Popularity": "43",
+    "NbPlays": "1",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/4TIgudUT#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FmLOO",
+    "FEN": "r2qr1k1/pp3p1Q/2p1b1B1/8/3b4/P2P2P1/1PP4P/1R3R1K b - - 6 25",
+    "Moves": "g8f8 f1f7 e6f7 h7f7",
+    "Rating": "1478",
+    "RatingDeviation": "313",
+    "Popularity": "67",
+    "NbPlays": "11",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/3QqgSKkP/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FmMaN",
+    "FEN": "r2qr1k1/pp2b2p/2np2p1/2pN1p2/2Pn4/PP5P/1B1P1PP1/RB1QR1K1 b - - 0 18",
+    "Moves": "e7f6 e1e8 d8e8 d5f6",
+    "Rating": "1540",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "465",
+    "Themes": "crushing kingsideAttack master middlegame short",
+    "GameUrl": "https://lichess.org/an1pDHuf/black#36",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_English_Variation"
+  },
+  {
+    "PuzzleId": "FmQ2l",
+    "FEN": "1k4r1/pqp5/1p1pQp2/6r1/3P3p/2P1PP2/PP3BPP/R4RK1 w - - 2 27",
+    "Moves": "f2h4 g5g2 g1h1 g2g1 f1g1 b7f3 g1g2 f3g2",
+    "Rating": "1565",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "6548",
+    "Themes": "deflection kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/uC8wYucv#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FmQTL",
+    "FEN": "r3r1k1/pp3ppp/2p2n2/3p4/3P2q1/P2B1N1P/1PP2PP1/1K1Q3R b - - 0 17",
+    "Moves": "g4h5 g2g4 h5h6 g4g5 h6h5 g5f6",
+    "Rating": "1410",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "6113",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/o9rsRwyP/black#34",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "FmRZO",
+    "FEN": "1rb1r3/1p4kp/2p2np1/p4p2/P2P1R2/1QPB3P/1P3KP1/8 w - - 1 24",
+    "Moves": "b3b6 f6d5 b6a7 d5f4 a7b8 f4d3",
+    "Rating": "1434",
+    "RatingDeviation": "80",
+    "Popularity": "81",
+    "NbPlays": "62",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/eBZRRXLZ#47",
+    "OpeningTags": ""
+  }
+]

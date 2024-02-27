@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HYLN3",
+    "FEN": "4r1k1/p1p2p1p/5pn1/8/8/P2PB1Q1/1qP2PPP/R5K1 w - - 0 23",
+    "Moves": "a1c1 b2c1 e3c1 e8e1",
+    "Rating": "1590",
+    "RatingDeviation": "87",
+    "Popularity": "76",
+    "NbPlays": "358",
+    "Themes": "backRankMate endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/3sjrZ0Ng#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HYLld",
+    "FEN": "6rk/pp3pqp/8/2Q5/P4N2/3P2P1/1PP4r/5R1K w - - 0 29",
+    "Moves": "h1h2 g7g3 h2h1 g3h4 f4h3 h4h3",
+    "Rating": "1452",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "181",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/RJ63ODxW#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HYQH3",
+    "FEN": "6k1/p4p1p/2b3r1/2p5/5pq1/1P2P2r/PB1P1RPQ/6RK w - - 15 39",
+    "Moves": "h2h3 g4h3",
+    "Rating": "1516",
+    "RatingDeviation": "188",
+    "Popularity": "44",
+    "NbPlays": "75",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/U4EOid4X#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HYal8",
+    "FEN": "6k1/pp2R3/2p3pr/5p2/3P2q1/2P2pP1/PP3P2/1Q4K1 w - - 2 32",
+    "Moves": "b1e1 h6h1 g1h1 g4h3 h1g1 h3g2",
+    "Rating": "1519",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "288",
+    "Themes": "attraction endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/6V8Y1trz#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HYgT0",
+    "FEN": "8/p3r1p1/1pkNp2p/1Q1nP3/8/P7/1P1q2P1/K7 b - - 1 39",
+    "Moves": "c6c7 b5c4 c7d8 c4c8",
+    "Rating": "1578",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1507",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/WcK4ngSW/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HYhHV",
+    "FEN": "3r1k2/5p2/3n2p1/4Q1P1/8/3q4/5PB1/4R1K1 b - - 7 45",
+    "Moves": "d6f5 e5h8",
+    "Rating": "1461",
+    "RatingDeviation": "81",
+    "Popularity": "80",
+    "NbPlays": "375",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/RAk2osqs/black#90",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HYlEI",
+    "FEN": "5n1r/3R1kpp/8/p1N1Q3/4P3/8/PPP2qPP/7K b - - 2 25",
+    "Moves": "f8d7 e5e6 f7f8 c5d7",
+    "Rating": "1523",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "364",
+    "Themes": "endgame fork intermezzo mate mateIn2 short",
+    "GameUrl": "https://lichess.org/VGvKMRX7/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HYmER",
+    "FEN": "1r3rk1/p4p1p/1bq5/5Q2/8/3R4/PPP2PPP/4R1K1 b - - 2 19",
+    "Moves": "c6c5 d3g3 g8h8 f5f6",
+    "Rating": "1583",
+    "RatingDeviation": "100",
+    "Popularity": "82",
+    "NbPlays": "37",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/pYEp5NHB/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "HYmfj",
+    "FEN": "3r1r1k/p1p3pp/1n3q2/8/8/3Q4/PPP2PPP/R1B2RK1 w - - 5 17",
+    "Moves": "d3b3 f6f2 f1f2 d8d1 f2f1 d1f1",
+    "Rating": "1431",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "11844",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/wXc71FKh#33",
+    "OpeningTags": "French_Defense French_Defense_Two_Knights_Variation"
+  }
+]

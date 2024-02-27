@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "jmai2",
+    "FEN": "2rr2k1/1b2bpp1/p1qp3p/1p1n4/4Q3/P2B1N1P/1P3PP1/R1B1R1K1 b - - 1 25",
+    "Moves": "d5f6 e4c6 b7c6 e1e7 c6f3 g2f3",
+    "Rating": "2055",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "141",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/vqJFWyXC/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jmdsf",
+    "FEN": "5rk1/p1p3pp/2p4n/2qpP2Q/6b1/PP1P4/4NRPP/5RK1 w - - 3 26",
+    "Moves": "d3d4 f8f2 d4c5 f2f1 g1f1 g4h5",
+    "Rating": "2016",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "2188",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/UhRxvl1L#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jmebr",
+    "FEN": "r3r3/pp4k1/2pp1qp1/4n2B/4P3/8/PPPQ4/2K3RR b - - 1 23",
+    "Moves": "e8f8 h5g6 e5g6 d2h6 g7f7 g1f1 f7e7 f1f6",
+    "Rating": "2309",
+    "RatingDeviation": "76",
+    "Popularity": "81",
+    "NbPlays": "237",
+    "Themes": "crushing middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/OjtAB8T9/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jmfNr",
+    "FEN": "4rrk1/pp4p1/1bp3QB/3pq3/4N3/1B6/PPP2PPP/5RK1 w - - 2 21",
+    "Moves": "e4g5 f8f2 g6h7 g8f8 h6g7 e5g7 f1f2 b6f2 g1f2 g7g5",
+    "Rating": "2398",
+    "RatingDeviation": "76",
+    "Popularity": "80",
+    "NbPlays": "164",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/hE19kJ29#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jmgIq",
+    "FEN": "2r3k1/1pqb2pp/p3p3/P2pPpQ1/1PrN4/2P5/5PPP/2R2RK1 b - - 0 20",
+    "Moves": "c4c3 c1c3 c7c3 g5e7",
+    "Rating": "2167",
+    "RatingDeviation": "78",
+    "Popularity": "89",
+    "NbPlays": "640",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/RiztQeTs/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jmgMO",
+    "FEN": "r2qk2r/ppp2ppp/1bnpb2n/8/2B1P3/1NQ2N2/PP3PPP/R1B2RK1 b kq - 0 10",
+    "Moves": "d8f6 c3f6 g7f6 c4e6 f7e6 c1h6",
+    "Rating": "2170",
+    "RatingDeviation": "82",
+    "Popularity": "91",
+    "NbPlays": "1096",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/3EmOcYuo/black#20",
+    "OpeningTags": "Scotch_Game Scotch_Game_Goring_Gambit"
+  },
+  {
+    "PuzzleId": "jmhuA",
+    "FEN": "r2q1r2/3bp1kp/p2p2p1/n5N1/1p1BPP2/3P4/Q1P3PP/5RK1 b - - 5 21",
+    "Moves": "g7h6 g5f7 f8f7 a2f7 d8f8 f7d5",
+    "Rating": "2221",
+    "RatingDeviation": "82",
+    "Popularity": "87",
+    "NbPlays": "854",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/LJcBosYR/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jmiDu",
+    "FEN": "5rk1/p3np2/Q1n4p/3pP3/3P1B2/P1PB1PKb/2R4P/7q b - - 7 25",
+    "Moves": "h3f5 c2c1 h1c1 f4c1",
+    "Rating": "2132",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "766",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/lqUC47aq/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jmixK",
+    "FEN": "5r1k/2p3pp/p7/1pQ2r1B/1P1Pp2q/P3B3/2R3P1/3R2K1 w - - 15 39",
+    "Moves": "c5c7 f5h5 c7f4 h4h1 g1f2 f8f4 e3f4 h1h4",
+    "Rating": "2054",
+    "RatingDeviation": "142",
+    "Popularity": "79",
+    "NbPlays": "12",
+    "Themes": "advantage hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/iHF9WnST#77",
+    "OpeningTags": ""
+  }
+]

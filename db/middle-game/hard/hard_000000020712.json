@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "rroy0",
+    "FEN": "4rrk1/pp4pp/5qp1/b2p4/3P4/2P5/PP3PPP/1RBQ1RK1 w - - 0 19",
+    "Moves": "d1a4 f6f2 f1f2 e8e1 f2f1 f8f1",
+    "Rating": "1783",
+    "RatingDeviation": "76",
+    "Popularity": "80",
+    "NbPlays": "178",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/dz9Zwext#37",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+  },
+  {
+    "PuzzleId": "rrpKg",
+    "FEN": "r4r1k/1p3p1p/1p2n2N/2b4P/4B1R1/4p3/1P6/1K4R1 b - - 6 33",
+    "Moves": "c5d4 g4g8 f8g8 h6f7",
+    "Rating": "1731",
+    "RatingDeviation": "79",
+    "Popularity": "88",
+    "NbPlays": "91",
+    "Themes": "deflection mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/3bB7T0wB/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rrpcW",
+    "FEN": "r4rk1/2p3b1/6pp/p1pP1b2/P1P1N2q/R3Q3/4BPP1/5RK1 w - - 0 22",
+    "Moves": "e4c5 g7d4 e3g3 h4g3 a3g3 d4c5",
+    "Rating": "1625",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "10525",
+    "Themes": "crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/fOKqtRMw#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rrrjS",
+    "FEN": "rnbq1rk1/ppp1p2p/6p1/3NP3/8/3Q1N1P/PPP3P1/2KR1B1n b - - 0 13",
+    "Moves": "h1f2 d5f6 g8g7 d3d8 f8d8 d1d8 b8c6 d8g8",
+    "Rating": "1683",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "11263",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/OxYjjmip/black#26",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Raphael_Variation"
+  },
+  {
+    "PuzzleId": "rrrpn",
+    "FEN": "r4rk1/1p1nbppp/1q2p2B/7n/3P4/2N3Q1/PP2NPPP/R4RK1 w - - 12 17",
+    "Moves": "g3g4 d7f6 g4h3 g7h6",
+    "Rating": "1726",
+    "RatingDeviation": "92",
+    "Popularity": "47",
+    "NbPlays": "32",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/gOAxF5BR#33",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+  },
+  {
+    "PuzzleId": "rrs2Q",
+    "FEN": "r4rk1/1pp2p1p/p2b2p1/3P1pq1/2B1n3/1P2P2P/PB3PP1/R2Q1RK1 b - - 0 18",
+    "Moves": "f5f4 d1d4 g5f6 d4f6",
+    "Rating": "1715",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "442",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/bqW0klyY/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "rrsks",
+    "FEN": "2r1r1k1/2R2ppp/1p1p4/3b4/1P2n3/5N1P/5PPB/4R1K1 w - - 2 28",
+    "Moves": "h2d6 e4d6 e1e8 c8e8 c7d7 d5f3",
+    "Rating": "1629",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "1016",
+    "Themes": "advantage hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/rFECVf1v#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rrssn",
+    "FEN": "1r1n4/2Nqnr1k/4R1p1/p2pQ2p/Pp1P1pPP/1B5R/1PP2P2/2K5 b - - 0 27",
+    "Moves": "d8e6 c7e6 b8b6 e6g5",
+    "Rating": "1620",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "968",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/YVvLrF5j/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rrvmX",
+    "FEN": "4r1k1/pR3p1p/6p1/2p2q2/5P2/3P1Q2/P1PBrbPP/3R3K w - - 5 23",
+    "Moves": "h2h3 e2d2 d1d2 e8e1 h1h2 f2g1",
+    "Rating": "1790",
+    "RatingDeviation": "114",
+    "Popularity": "44",
+    "NbPlays": "16",
+    "Themes": "clearance crushing kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/fOnJMF0m#45",
+    "OpeningTags": ""
+  }
+]

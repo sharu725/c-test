@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DhHob",
+    "FEN": "4r1k1/p1RQBqpp/4p3/8/1P6/P5Pb/5P2/4R1K1 w - - 0 40",
+    "Moves": "d7e6 h3e6 e1e6 f7e6",
+    "Rating": "1556",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2810",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/aKCp7eL7#79",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DhHsf",
+    "FEN": "r1bqnrk1/pp2bpp1/7B/3p1P2/2B5/2N3QP/PPP3P1/R4RK1 w - - 0 17",
+    "Moves": "c4d5 e7h4 g3e3 g7h6",
+    "Rating": "1542",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/2v07XRFl#33",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DhHy8",
+    "FEN": "r3r1k1/1b3pb1/p2pp1q1/1pp3NQ/3nP3/P1NP4/BPP3P1/1K3R1R w - - 4 23",
+    "Moves": "g5f7 g6h5 h1h5 e8f8 a2e6 d4e6",
+    "Rating": "1584",
+    "RatingDeviation": "80",
+    "Popularity": "84",
+    "NbPlays": "41",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/HdBBzkd6#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DhI5k",
+    "FEN": "r1bqk2r/b1p2pp1/B1pp1n1p/8/N3P3/4B3/PPP1QPPP/R4RK1 b kq - 0 12",
+    "Moves": "c8a6 e2a6 a7e3 a6c6 e8f8 f2e3",
+    "Rating": "1429",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "865",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/PS6meLrs/black#24",
+    "OpeningTags": "Scotch_Game Scotch_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "DhJB1",
+    "FEN": "4r1k1/r2q1nb1/p5Bp/2QN2p1/2P2P2/7P/PP4P1/5RK1 b - - 0 28",
+    "Moves": "d7d6 g6f7 a7f7 c5d6",
+    "Rating": "1538",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "735",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/UACB0frJ/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DhJD7",
+    "FEN": "r3r1k1/1b1qppbp/1n1p2p1/2pP4/P7/P1N2N1P/1B1Q1PP1/1R1R2K1 b - - 0 20",
+    "Moves": "b6a4 c3a4 a8a4 b2g7 g8g7 d2b2 f7f6 b2b7 d7b7 b1b7",
+    "Rating": "1590",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "723",
+    "Themes": "advantage attraction discoveredAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/HMRTXkcu/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DhL9x",
+    "FEN": "r1rq2k1/4bpp1/4p3/pp1bP1P1/2p1NnBP/P1P5/1PQ2P2/1K1R2R1 b - - 1 24",
+    "Moves": "d5e4 d1d8 c8d8 c2e4",
+    "Rating": "1428",
+    "RatingDeviation": "79",
+    "Popularity": "87",
+    "NbPlays": "496",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/bZ9uoOmn/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DhLFq",
+    "FEN": "6r1/1b1pk3/p3pn2/1pp2r1p/5PP1/P1N4P/1PPN3K/4RR2 w - - 0 23",
+    "Moves": "g4f5 g8g2 h2h1 g2d2 h1g1 d2g2",
+    "Rating": "1433",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "3184",
+    "Themes": "crushing discoveredAttack fork long middlegame",
+    "GameUrl": "https://lichess.org/RYCWNkJ6#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DhLZc",
+    "FEN": "r2q3r/1ppb1kpp/p2P4/b3n3/3P1R2/2P5/PP4PP/RN1Q2K1 b - - 0 14",
+    "Moves": "f7g8 d1b3 e5c4 b3c4 d7e6 c4e6",
+    "Rating": "1443",
+    "RatingDeviation": "80",
+    "Popularity": "88",
+    "NbPlays": "67",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/EDly2S9X/black#28",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  }
+]

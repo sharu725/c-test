@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "StePS",
+    "FEN": "r2r2k1/1p2nppp/2p5/1p2b2b/1P2P3/P1NRBP2/4N1PP/3R2K1 b - - 4 22",
+    "Moves": "e5c3 d3d8 a8d8 d1d8",
+    "Rating": "814",
+    "RatingDeviation": "86",
+    "Popularity": "94",
+    "NbPlays": "355",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/MnRFS0yG/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SteaU",
+    "FEN": "bkr3r1/p1q4p/1p1ppn2/1P3p2/Q1NP4/2P1PN1P/6P1/R4RK1 b - - 6 22",
+    "Moves": "c7c4 a4a7",
+    "Rating": "963",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "354",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/ZZe8XeuI/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Stedq",
+    "FEN": "r2q1rkR/pp4n1/6B1/3pn3/3p2b1/5PN1/PP1Q1K2/R5N1 b - - 2 25",
+    "Moves": "g8h8 d2h6 h8g8 h6h7",
+    "Rating": "991",
+    "RatingDeviation": "88",
+    "Popularity": "93",
+    "NbPlays": "545",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Yz98dTlf/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SthKb",
+    "FEN": "r7/ppq2pkp/2p5/4b3/3Q4/1PnN3P/P4PP1/R2R2K1 w - - 3 27",
+    "Moves": "d3e5 c3e2 g1h1 e2d4",
+    "Rating": "949",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "325",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/OarW2V1b#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Sthhu",
+    "FEN": "3rk2r/1pp2ppp/p4n2/4N3/4b3/2b5/PPP1RPPP/R1B3K1 w k - 0 13",
+    "Moves": "b2c3 d8d1 e2e1 d1e1",
+    "Rating": "664",
+    "RatingDeviation": "81",
+    "Popularity": "80",
+    "NbPlays": "343",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/b6iaHsLL#25",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Scotch_Variation"
+  },
+  {
+    "PuzzleId": "Stipm",
+    "FEN": "4r1k1/p4pPp/rp1p4/3Pp3/6P1/PqPn1P2/1P5Q/1K4NR b - - 0 31",
+    "Moves": "a6a3 h2h7",
+    "Rating": "563",
+    "RatingDeviation": "99",
+    "Popularity": "92",
+    "NbPlays": "776",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4jYMw5P8/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "StjFe",
+    "FEN": "3r2k1/6q1/7p/p2N2p1/2b2p2/Pn3P2/5QPP/3R2NK w - - 1 34",
+    "Moves": "d5f6 g7f6 d1d8 f6d8",
+    "Rating": "821",
+    "RatingDeviation": "87",
+    "Popularity": "91",
+    "NbPlays": "218",
+    "Themes": "advantage hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/fkxAzyh1#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "StkIl",
+    "FEN": "r2q2nr/pp2k1pp/2pp4/b5Pb/4P3/B1PQ1N1P/P2P1P2/RN2K2R w KQ - 3 17",
+    "Moves": "a3d6 d8d6 d3d6 e7d6",
+    "Rating": "631",
+    "RatingDeviation": "105",
+    "Popularity": "65",
+    "NbPlays": "321",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/5JNvCnTJ#33",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "StpHr",
+    "FEN": "r5r1/ppp1qpk1/4pb2/3pN1p1/3P2Rp/2P2RPQ/PP3P1P/6K1 w - - 1 27",
+    "Moves": "g4g5 f6g5 f3f7 e7f7 e5f7 g7f7",
+    "Rating": "734",
+    "RatingDeviation": "91",
+    "Popularity": "94",
+    "NbPlays": "423",
+    "Themes": "advantage hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/Mur9EKH3#53",
+    "OpeningTags": ""
+  }
+]

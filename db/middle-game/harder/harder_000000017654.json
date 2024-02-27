@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "rQ1nR",
+    "FEN": "r2q1b1r/1bp1k1p1/2n2n1p/pQ1pp3/4P3/2PP1N2/PP3PPP/RNB1K2R b KQ - 1 11",
+    "Moves": "d8d6 b5b7 a8b8 b7a6 b8b6 a6c8",
+    "Rating": "1861",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "3252",
+    "Themes": "advantage hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/2ZDlbpbp/black#22",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "rQ1pd",
+    "FEN": "1r4k1/1q1bp2p/RP1p1r2/2pP1p2/3b1P2/1Q5P/1P2B1P1/5R1K b - - 0 27",
+    "Moves": "b8a8 a6a8 b7a8 b6b7 a8b8 f1a1 f6f8 a1a8",
+    "Rating": "1819",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "2274",
+    "Themes": "advancedPawn crushing middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/o2TS4Ja7/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rQ2ZZ",
+    "FEN": "1r1q1rk1/4ppbp/2p3p1/p2nP3/2Q5/5N1P/1BP2PP1/1R1R2K1 b - - 2 19",
+    "Moves": "d8c7 d1d5 b8b4 c4c3",
+    "Rating": "1807",
+    "RatingDeviation": "117",
+    "Popularity": "-10",
+    "NbPlays": "18",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/VhMymopS/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Wing_Gambit"
+  },
+  {
+    "PuzzleId": "rQ2xx",
+    "FEN": "r3r1k1/7p/b1p3p1/8/8/1pPnb2P/1PK3PB/R2R1Q2 w - - 0 32",
+    "Moves": "c2b3 d3c5 b3c2 a6f1 a1a8 e8a8",
+    "Rating": "1809",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "218",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/fgJ76v0Y#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rQ5MW",
+    "FEN": "r4b1k/p1q4n/1pb2R2/4p2Q/4P3/2N3R1/PPPr2PP/6K1 b - - 0 23",
+    "Moves": "f8g7 f6f7 c7f7 h5f7",
+    "Rating": "1812",
+    "RatingDeviation": "73",
+    "Popularity": "93",
+    "NbPlays": "5216",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/eQDXKHlH/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rQ7DG",
+    "FEN": "3n1rk1/Q5pp/3pq3/8/3P4/N1PBp1P1/P4P1P/R5K1 w - - 0 23",
+    "Moves": "d3c4 e3f2 g1g2 d6d5",
+    "Rating": "1820",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "1007",
+    "Themes": "advancedPawn advantage middlegame short",
+    "GameUrl": "https://lichess.org/6sf0U3fC#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rQ7pf",
+    "FEN": "4rk2/1b3pp1/pq2pn1p/1pR1N3/3r4/P2B3P/1PQ2PP1/4R1K1 b - - 0 21",
+    "Moves": "b6d6 c5c7 e8e7 c7b7",
+    "Rating": "1914",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "6410",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Ry4QE0g7/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rQ7sZ",
+    "FEN": "r3k1nr/ppp2pp1/1bp3qp/4N1B1/3PP3/1Q5b/PP1N1PPP/R4RK1 b kq - 1 12",
+    "Moves": "g6g5 b3f7 e8d8 f7f8",
+    "Rating": "1802",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "1070",
+    "Themes": "attackingF2F7 mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/4GNkR8iD/black#24",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Other_variations"
+  },
+  {
+    "PuzzleId": "rQ814",
+    "FEN": "7k/6p1/qp4Np/p3pp2/K6Q/1Br3B1/P1n2PPP/8 b - - 7 35",
+    "Moves": "h8h7 g6f8 h7h8 h4h6 g7h6 g3e5",
+    "Rating": "1887",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "257",
+    "Themes": "deflection long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/gqpScDYv/black#70",
+    "OpeningTags": ""
+  }
+]

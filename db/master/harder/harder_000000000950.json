@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HVMte",
+    "FEN": "r2q1rk1/2p2ppp/p2p1n2/1p2p3/3bPP2/PB1P3P/1PP3P1/R1BQK2R b KQ - 0 13",
+    "Moves": "f6e4 d3e4 d8h4 e1d2",
+    "Rating": "1952",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "234",
+    "Themes": "advantage defensiveMove hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/PBjMW9oP/black#26",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Classical_Variation"
+  },
+  {
+    "PuzzleId": "HVSJF",
+    "FEN": "r2qrb2/5p1k/p2pbnpp/n3p3/1Q2P3/3PBNNP/PPB2PP1/R3R1K1 w - - 1 19",
+    "Moves": "e3b6 a5c6 b6d8 c6b4 d8f6 b4c2",
+    "Rating": "1824",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "1120",
+    "Themes": "advantage long master masterVsMaster middlegame",
+    "GameUrl": "https://lichess.org/8xVZi1pt#37",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Closed"
+  },
+  {
+    "PuzzleId": "HVVyQ",
+    "FEN": "r1b2rk1/2p1Npp1/p7/1p5p/P3R1nq/1BP4P/1P3bP1/R1BQ3K b - - 1 19",
+    "Moves": "g8h8 b3f7 f2c5 e7g6",
+    "Rating": "1991",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "167",
+    "Themes": "crushing kingsideAttack master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/GOdwkMbC/black#38",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "HVlgL",
+    "FEN": "3q1rk1/1p3ppp/pN2b3/3N4/P2Q1P1b/6P1/7P/4R1K1 b - - 0 22",
+    "Moves": "h4e7 d5e7 d8e7 f4f5",
+    "Rating": "1811",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "5252",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/nj4HILOL/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HVqwJ",
+    "FEN": "6k1/p4p2/1p2pQp1/3qP3/8/1P2R2P/r4PPK/8 b - - 1 37",
+    "Moves": "d5d7 e3e4 a2f2 f6f2",
+    "Rating": "1989",
+    "RatingDeviation": "75",
+    "Popularity": "80",
+    "NbPlays": "87",
+    "Themes": "crushing endgame master quietMove short",
+    "GameUrl": "https://lichess.org/BXYmWiYB/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HVyf1",
+    "FEN": "r1b2k1r/pp3pRp/2pbp3/7q/2PPQ3/8/PP3PBP/R1B1K3 w Q - 1 15",
+    "Moves": "g7g5 d6b4 c1d2 b4d2 e1d2 h5g5",
+    "Rating": "1801",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "329",
+    "Themes": "attraction crushing long master masterVsMaster middlegame",
+    "GameUrl": "https://lichess.org/sqpkPrya#29",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Stoltz_Variation"
+  },
+  {
+    "PuzzleId": "HWNME",
+    "FEN": "8/8/n1p2kpp/2P1pb2/N2b4/3N2P1/4KPBP/8 w - - 0 33",
+    "Moves": "g2c6 f5d3 e2d3 a6b4 d3e4 b4c6",
+    "Rating": "1844",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "4845",
+    "Themes": "attraction crushing endgame fork long master",
+    "GameUrl": "https://lichess.org/95Pidvjo#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HWRH5",
+    "FEN": "r2q2k1/3n1pbp/1pQ2pp1/3N4/8/4P1P1/P4P1P/3R2K1 b - - 1 27",
+    "Moves": "a8c8 c6c8 d8c8 d5e7 g8f8 e7c8",
+    "Rating": "1802",
+    "RatingDeviation": "75",
+    "Popularity": "79",
+    "NbPlays": "91",
+    "Themes": "attraction crushing fork long master middlegame sacrifice",
+    "GameUrl": "https://lichess.org/YCN3JYHb/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HWiZI",
+    "FEN": "6k1/1r2b1pp/3p4/3P1p2/1BN2P2/PP3pP1/2r4P/4R2K b - - 1 36",
+    "Moves": "e7f6 e1e8 g8f7 c4d6 f7g6 d6b7",
+    "Rating": "1852",
+    "RatingDeviation": "79",
+    "Popularity": "86",
+    "NbPlays": "43",
+    "Themes": "crushing endgame fork long master",
+    "GameUrl": "https://lichess.org/QHNvyHBx/black#72",
+    "OpeningTags": ""
+  }
+]

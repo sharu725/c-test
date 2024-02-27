@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "hnhHH",
+    "FEN": "r1b2rk1/pp4pp/2p1p3/2PpNpq1/3P1n2/3Q4/PP1NPPB1/R4RK1 w - - 2 17",
+    "Moves": "d3e3 g5g2",
+    "Rating": "1035",
+    "RatingDeviation": "82",
+    "Popularity": "73",
+    "NbPlays": "42",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/oWuxsvMg#33",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "hniHd",
+    "FEN": "r2q1rk1/pp1nppbp/2p3p1/4P3/8/2NRBQ1P/PPP2PP1/R5K1 w - - 1 14",
+    "Moves": "a1d1 d7e5 f3f4 e5d3",
+    "Rating": "1120",
+    "RatingDeviation": "78",
+    "Popularity": "47",
+    "NbPlays": "60",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/2qWdKhBg#27",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "hnizG",
+    "FEN": "2r3k1/1b4p1/1B1p4/1B3Pqp/p3rRp1/P5P1/2P4Q/2R3K1 w - - 0 29",
+    "Moves": "f4e4 g5c1 b5f1 b7e4",
+    "Rating": "1061",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "161",
+    "Themes": "crushing hangingPiece intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/coXUKvH3#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hnlZO",
+    "FEN": "2rq2rk/p2nbpp1/1p2pn1B/8/3P4/2NB1P2/PP1Q1PRP/R3K3 b Q - 0 17",
+    "Moves": "g7h6 d2h6 f6h7 h6h7",
+    "Rating": "1149",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "3107",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ZSgOsuuD/black#34",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Modern_Variation"
+  },
+  {
+    "PuzzleId": "hnnlg",
+    "FEN": "1kbQ4/p3np2/6n1/1Np3q1/3pP3/8/PPP5/1K1R4 b - - 0 35",
+    "Moves": "g5g4 d8c7 b8a8 c7a7",
+    "Rating": "1063",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "754",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AViNcxzs/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hnpCk",
+    "FEN": "kQ2r2r/pp4pp/N4pn1/8/8/8/Pq1B1PPP/2R1R1K1 b - - 12 25",
+    "Moves": "e8b8 a6c7",
+    "Rating": "1158",
+    "RatingDeviation": "75",
+    "Popularity": "79",
+    "NbPlays": "209",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/5AIY9bYN/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hnqd6",
+    "FEN": "rn1q1r2/1b2p1kp/p1p2ppn/1p2P3/P1pP2P1/2N2BQ1/1P3P1P/3RK1NR b K - 3 16",
+    "Moves": "d8c7 e5f6 e7f6 g3c7",
+    "Rating": "1095",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "1021",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/8sYsY36k/black#32",
+    "OpeningTags": "Slav_Defense Slav_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "hnqnU",
+    "FEN": "2r1k2r/p2p1p2/1p5p/q2Bn3/2b4Q/2P3P1/P3NP1P/R3R1K1 w k - 0 19",
+    "Moves": "d5c4 e5f3 g1f1 f3h4",
+    "Rating": "1154",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "6684",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/e5lgO0rF#37",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Leningrad_Variation"
+  },
+  {
+    "PuzzleId": "hnvpe",
+    "FEN": "6r1/1p6/p1n1k2p/2QpPp1q/4pP2/BP6/P6P/2R1R1rK w - - 5 32",
+    "Moves": "e1g1 h5f3 g1g2 f3g2",
+    "Rating": "1111",
+    "RatingDeviation": "82",
+    "Popularity": "93",
+    "NbPlays": "1303",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ivBldF1b#63",
+    "OpeningTags": ""
+  }
+]

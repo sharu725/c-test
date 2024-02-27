@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Pee5K",
+    "FEN": "rnb1k2r/pp3ppp/3q4/3N4/1P2p1n1/P4N1P/B1PP1bP1/R1BQ1R1K w kq - 0 13",
+    "Moves": "h3g4 d6h6 f3h2 f2g3 d5f6 g7f6 a2f7 e8f7",
+    "Rating": "1683",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "836",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/o3jLpQjh#25",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Boi_Variation"
+  },
+  {
+    "PuzzleId": "PeeyM",
+    "FEN": "r3r1k1/1p3ppp/3b1n2/1Q1p4/b2N2q1/P3BN2/1P3PPP/R4RK1 w - - 2 18",
+    "Moves": "b5b7 e8b8 b7a8 b8a8",
+    "Rating": "1653",
+    "RatingDeviation": "75",
+    "Popularity": "78",
+    "NbPlays": "70",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/5qPysXAB#35",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "PegBi",
+    "FEN": "r1bq1rk1/5pp1/2p1p2p/p7/Nb1Pn3/1B1Q1N2/1P3PPP/R4RK1 b - - 1 16",
+    "Moves": "e4c5 a4c5 b4c5 b3c2 f7f5 d4c5",
+    "Rating": "1737",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "495",
+    "Themes": "crushing intermezzo long middlegame quietMove",
+    "GameUrl": "https://lichess.org/0X8X3j8J/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "PegIc",
+    "FEN": "1r2r1k1/p3ppbp/3p2p1/3N4/1Pq5/P5Pb/1B1QPP1P/2R1K2R b K - 3 20",
+    "Moves": "c4e4 f2f3 e4d5 d2d5",
+    "Rating": "1697",
+    "RatingDeviation": "74",
+    "Popularity": "66",
+    "NbPlays": "279",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/r4VR8nf9/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PegeA",
+    "FEN": "r1b1r1k1/1p3ppp/p2b4/3p4/3PqP2/P4N1P/1P4P1/R1BQ1R1K b - - 2 18",
+    "Moves": "d6f4 f1e1 e4e1 f3e1",
+    "Rating": "1607",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "651",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/NpIeBtBl/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "Pehbo",
+    "FEN": "1r1qk2r/pb3ppp/1bn1pn2/1p6/4N3/2QP1NP1/1B2PPBP/R4RK1 b k - 2 15",
+    "Moves": "f6e4 c3g7 h8f8 d3e4",
+    "Rating": "1750",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1911",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/P81AAIAl/black#30",
+    "OpeningTags": "Kings_Indian_Attack Kings_Indian_Attack_Sicilian_Variation"
+  },
+  {
+    "PuzzleId": "PehvK",
+    "FEN": "r4rk1/pp4bp/3pp1p1/4n3/4Pq2/2N2P2/PP2B1PP/R2Q1RK1 w - - 0 16",
+    "Moves": "d1d6 e5f3 e2f3 f4d6",
+    "Rating": "1685",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1324",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/1ThOLxcf#31",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Samisch_Variation"
+  },
+  {
+    "PuzzleId": "Peiad",
+    "FEN": "2r1r1k1/p2q1pp1/7p/8/5N2/P2Pn2P/1PPQ2P1/R4RK1 w - - 0 22",
+    "Moves": "f1f2 c8c2 d2e3 e8e3",
+    "Rating": "1624",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "293",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/9mv5IHEs#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Peju9",
+    "FEN": "1n1q1r2/r1pkn3/p7/3BPp1Q/2pP1Pp1/6P1/P2B3P/R4RK1 w - - 2 30",
+    "Moves": "e5e6 d7c8 d5g2 d8d4 g1h1 d4d2",
+    "Rating": "1782",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1495",
+    "Themes": "advantage discoveredAttack fork long middlegame skewer",
+    "GameUrl": "https://lichess.org/NioyCikj#59",
+    "OpeningTags": ""
+  }
+]

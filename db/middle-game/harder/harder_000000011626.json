@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Z9d0B",
+    "FEN": "r3kb1r/pp3ppp/2p1pq2/3P1n2/5N2/3Q1P2/PPPB2PP/R4RK1 b kq - 0 15",
+    "Moves": "c6d5 d3b5 e8d8 b5b7",
+    "Rating": "1921",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "1258",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/dny01ghI/black#30",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "Z9ece",
+    "FEN": "rn3rk1/pp1b2p1/2pqp2p/5p1Q/3P4/3BB3/PPP2PPP/R4RK1 w - - 0 14",
+    "Moves": "h5g6 d7e8 g6g3 f5f4 g3h4 f4e3",
+    "Rating": "1896",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "3397",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/lTEtoydm#27",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "Z9jVa",
+    "FEN": "N2b1k1r/2p2p2/p3b3/4Pn1p/5Pp1/3R2P1/pPP2B1P/2KR4 w - - 0 22",
+    "Moves": "d3d8 f8g7 d8h8 a2a1q",
+    "Rating": "1930",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "991",
+    "Themes": "advancedPawn crushing middlegame promotion short",
+    "GameUrl": "https://lichess.org/6vatgwpe#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Z9kdf",
+    "FEN": "4r1k1/3q2pp/p2pb3/1pp3B1/2P5/1QNP4/PP4PK/5R2 w - - 0 26",
+    "Moves": "c3d5 e6d5 c4d5 d7g4",
+    "Rating": "1967",
+    "RatingDeviation": "76",
+    "Popularity": "79",
+    "NbPlays": "74",
+    "Themes": "advantage clearance middlegame short",
+    "GameUrl": "https://lichess.org/TqIW4NsN#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Z9kfj",
+    "FEN": "r4rk1/1Q3ppp/p2p4/2p4P/4N3/1P4Pb/Pqn1BP2/1RR3K1 b - - 1 22",
+    "Moves": "b2a2 e4c3 a2a5 c1c2",
+    "Rating": "1885",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "145",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/sZVa13yS/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Z9kqP",
+    "FEN": "r2qk1nr/pp1n1pbp/2pQ2p1/8/4Pp2/2N1BP1P/PPP5/R3KB1R w KQkq - 0 11",
+    "Moves": "d6f4 g7h6 f4h6 g8h6",
+    "Rating": "1816",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "1271",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/h9evBuOc#21",
+    "OpeningTags": "Rat_Defense Rat_Defense_Accelerated_Gurgenidze"
+  },
+  {
+    "PuzzleId": "Z9kz2",
+    "FEN": "1k1r3r/pp1b1p2/1qn2bp1/3p3p/1P1P4/P1QBBN2/5PPP/R4RK1 w - - 1 17",
+    "Moves": "f3e5 f6e5 d4e5 d5d4",
+    "Rating": "1951",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "6484",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/o5yGHyj9#33",
+    "OpeningTags": "English_Opening English_Opening_Agincourt_Defense"
+  },
+  {
+    "PuzzleId": "Z9y3n",
+    "FEN": "r2q1rk1/ppp2pp1/3p2P1/2bPp3/3N4/3P4/PPP2PP1/R2QK2R b KQ - 0 13",
+    "Moves": "c5d4 h1h8 g8h8 d1h5 h8g8 h5h7",
+    "Rating": "1802",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2029",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/z2EGWhd4/black#26",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "Z9yHR",
+    "FEN": "rn1qr1k1/pp3ppp/3b4/4p3/4R1b1/1B1P1N2/PPP2P2/R1BQ2K1 b - - 0 14",
+    "Moves": "h7h5 e4g4 h5g4 f3g5",
+    "Rating": "1832",
+    "RatingDeviation": "86",
+    "Popularity": "65",
+    "NbPlays": "30",
+    "Themes": "advantage middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/P8zdji14/black#28",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  }
+]

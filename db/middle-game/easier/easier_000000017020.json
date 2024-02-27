@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pmPB0",
+    "FEN": "r2r4/pp2qp1k/1bn3p1/7P/6b1/1P2P3/PB1P1P2/RQ2K1NR b KQ - 0 21",
+    "Moves": "g4h5 h1h5 h7g8 h5h8",
+    "Rating": "1034",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "79",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/DiaN57Bt/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pmRKm",
+    "FEN": "3r2r1/6b1/3q2kp/5p2/3P1N2/3Q2P1/PP6/RN1K4 b - - 1 31",
+    "Moves": "g6h7 d3f5 h7h8 f4g6 d6g6 f5g6",
+    "Rating": "1047",
+    "RatingDeviation": "245",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/wI9rxhQe/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pmRSJ",
+    "FEN": "r5k1/ppp3pp/2n5/3p3q/3P4/4Prb1/PPP1B1P1/R2Q1RK1 w - - 0 16",
+    "Moves": "f1f3 h5h2 g1f1 h2h1",
+    "Rating": "1133",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "99",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/cgXaXp4I#31",
+    "OpeningTags": "Bird_Opening Bird_Opening_Froms_Gambit"
+  },
+  {
+    "PuzzleId": "pmScl",
+    "FEN": "r1bqk2r/p3b1pp/2p1Pp2/3p1P2/3p4/5Q2/PP1N2PP/R1B2RK1 b kq - 1 15",
+    "Moves": "c8a6 f3h5 g7g6 f5g6",
+    "Rating": "1071",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "1164",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/lvHY5SaR/black#30",
+    "OpeningTags": "Scotch_Game Scotch_Game_Schmidt_Variation"
+  },
+  {
+    "PuzzleId": "pmSoC",
+    "FEN": "r1b2qk1/pp4pp/6p1/2p5/2Q1n3/4P3/PPP3PP/RN4K1 b - - 1 16",
+    "Moves": "c8e6 c4e6 f8f7 e6e4",
+    "Rating": "1080",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "297",
+    "Themes": "advantage fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/4IOvZpFS/black#32",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "pmUxH",
+    "FEN": "r3r1k1/2p2p1p/p1Q3p1/1p1n4/4Nq2/8/PP3PP1/2R1R1K1 b - - 5 28",
+    "Moves": "d5b4 e4f6 g8g7 f6e8",
+    "Rating": "1083",
+    "RatingDeviation": "81",
+    "Popularity": "92",
+    "NbPlays": "915",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/8pHYL0Bw/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pmWFO",
+    "FEN": "r4rk1/pp3ppp/2p5/2P2B2/1P1P2n1/P3PN1q/5P1b/R2QR1K1 w - - 4 20",
+    "Moves": "f3h2 h3h2 g1f1 h2f2",
+    "Rating": "1172",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "3918",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/KDZIN7hJ#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pmXa0",
+    "FEN": "5r1k/1p2n1pp/p1r1p3/2Np4/3PpPPq/4P3/PP4QP/3B1RK1 b - - 8 23",
+    "Moves": "c6b6 c5d7 b6d6 d7f8",
+    "Rating": "1143",
+    "RatingDeviation": "240",
+    "Popularity": "-33",
+    "NbPlays": "6",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/oD2leH69/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pmXpv",
+    "FEN": "2r2k2/2P2pp1/1p2bq2/5n2/8/2P3Pp/P6P/R2Q1RK1 b - - 1 30",
+    "Moves": "f6c3 d1d8 c8d8 c7d8q",
+    "Rating": "1050",
+    "RatingDeviation": "82",
+    "Popularity": "93",
+    "NbPlays": "1278",
+    "Themes": "advancedPawn mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/Ec6lIcMB/black#60",
+    "OpeningTags": ""
+  }
+]

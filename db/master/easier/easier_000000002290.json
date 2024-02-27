@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "fGI84",
+    "FEN": "3rQ1k1/pp3rPp/2p2P2/8/n1PP1n2/6P1/P2q1P2/1R2R1K1 b - - 1 32",
+    "Moves": "d8e8 e1e8 f7f8 g7f8q",
+    "Rating": "1063",
+    "RatingDeviation": "87",
+    "Popularity": "88",
+    "NbPlays": "43",
+    "Themes": "advancedPawn kingsideAttack master mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/QewjgRvo/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fGOnl",
+    "FEN": "8/5kn1/3qp1Q1/p7/3r4/P5RP/5PPK/8 b - - 0 44",
+    "Moves": "f7g8 g6g7",
+    "Rating": "1022",
+    "RatingDeviation": "88",
+    "Popularity": "81",
+    "NbPlays": "91",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/YiOgxV7L/black#88",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fGRer",
+    "FEN": "5k2/5pp1/p2p4/1p1P4/4b3/1P4r1/PP2K2R/4R3 b - - 1 38",
+    "Moves": "e4d5 h2h8 f8e7 e2f2 e7d7 f2g3",
+    "Rating": "1061",
+    "RatingDeviation": "81",
+    "Popularity": "93",
+    "NbPlays": "2061",
+    "Themes": "crushing discoveredAttack endgame long master",
+    "GameUrl": "https://lichess.org/52gitYbi/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fGY6N",
+    "FEN": "6r1/3k4/4pp1p/1p6/b1p2P1P/P2r1B2/4R1P1/4R2K b - - 3 34",
+    "Moves": "d3d1 e1d1 a4d1 e2d2",
+    "Rating": "1073",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "1573",
+    "Themes": "advantage endgame master short",
+    "GameUrl": "https://lichess.org/JHupLAjf/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fGd77",
+    "FEN": "2r3k1/4Qpp1/1p5p/8/2q5/7P/P3RPPK/8 w - - 0 28",
+    "Moves": "e2d2 c4f4 g2g3 f4d2",
+    "Rating": "1010",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "590",
+    "Themes": "crushing endgame fork master pin short",
+    "GameUrl": "https://lichess.org/uKyJybK9#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fGjJs",
+    "FEN": "8/8/7k/3p4/3PbK2/5p2/5R2/8 w - - 24 80",
+    "Moves": "f4e5 h6g5 f2f1 g5g4",
+    "Rating": "1062",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "964",
+    "Themes": "crushing defensiveMove endgame master short",
+    "GameUrl": "https://lichess.org/EmlV5iMb#159",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fH0nc",
+    "FEN": "rnbqkb1r/ppppp1pp/1n6/4PpB1/2PP4/8/PP3PPP/RN1QKBNR b KQkq - 2 5",
+    "Moves": "h7h6 d1h5 g7g6 h5g6",
+    "Rating": "1060",
+    "RatingDeviation": "83",
+    "Popularity": "88",
+    "NbPlays": "51",
+    "Themes": "master mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/hJ13nioo/black#10",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Staunton_Gambit"
+  },
+  {
+    "PuzzleId": "fH7VN",
+    "FEN": "2r2b1r/ppk1n3/2np2p1/8/5pQ1/6P1/PPP2P1P/2KR3R w - - 2 19",
+    "Moves": "g4f4 f8h6 f4h6 h8h6",
+    "Rating": "1036",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "807",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/TXH1KXqj#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "fHExS",
+    "FEN": "r1b3k1/pp2qppp/5n2/8/3P4/1BP3bP/PP4P1/RN1Q1K1R w - - 1 16",
+    "Moves": "d1f3 e7e1",
+    "Rating": "1116",
+    "RatingDeviation": "116",
+    "Popularity": "75",
+    "NbPlays": "13",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/VrJVU6Vd#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  }
+]

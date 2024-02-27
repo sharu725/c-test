@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "6pF9N",
+    "FEN": "1r1r1k2/5pp1/8/4p1NQ/8/qbP1P2P/5PP1/1R4K1 b - - 5 27",
+    "Moves": "b3d5 b1b8 d8b8 h5h8 f8e7 h8b8",
+    "Rating": "1838",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "220",
+    "Themes": "advantage long middlegame skewer",
+    "GameUrl": "https://lichess.org/FRiBCBce/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6pFDS",
+    "FEN": "r4rk1/1bq2pp1/2n1p2p/p1pnP1b1/1pN5/2PP1BB1/PP3QPP/R3NR1K b - - 4 20",
+    "Moves": "g5f4 g3f4 d5f4 f3c6",
+    "Rating": "1902",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "10343",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/2GQVdFXI/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6pFSp",
+    "FEN": "3rk1r1/2p1n2p/pp1pPp1q/3B4/4PR2/P1P3P1/1P2Q2P/R5K1 b - - 2 21",
+    "Moves": "h6f4 e2h5 g8g6 h5h7 g6g3 h2g3",
+    "Rating": "1965",
+    "RatingDeviation": "76",
+    "Popularity": "63",
+    "NbPlays": "71",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/dcfyxnoB/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6pGcW",
+    "FEN": "r1b1k2r/p2p1ppp/1p1B1n2/2P5/2B1P3/5P2/P2K2PP/n5NR b kq - 1 13",
+    "Moves": "b6c5 e4e5 f6g8 c4d5 a8b8 d6b8",
+    "Rating": "1903",
+    "RatingDeviation": "83",
+    "Popularity": "85",
+    "NbPlays": "37",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/kHgW2N0C/black#26",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "6pLG4",
+    "FEN": "r3r2k/7P/p2p2p1/1p5n/2p1q3/5Q2/PPP1B3/1K4RR w - - 0 30",
+    "Moves": "h1h5 e4f3 e2f3 g6h5",
+    "Rating": "1937",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "42",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/5JvZBbtZ#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6pNKT",
+    "FEN": "r1b1r1k1/pp3pbp/2np2p1/q7/3PB3/P1P1BN1P/1P3PP1/1R1QK2R w K - 1 15",
+    "Moves": "d1c2 e8e4 c2e4 c8f5 e4f4 f5b1",
+    "Rating": "1860",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "501",
+    "Themes": "advantage long middlegame sacrifice skewer",
+    "GameUrl": "https://lichess.org/uxjB6q28#29",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  },
+  {
+    "PuzzleId": "6pNrT",
+    "FEN": "2r2rk1/1p1nbppp/p3p3/3pP3/1q1P2P1/2NPB2Q/P1R4P/2R3K1 b - - 5 20",
+    "Moves": "c8c7 c3d5 c7c2 d5b4 c2c1 e3c1",
+    "Rating": "1916",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1208",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/a7YxiyQf/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6pNvV",
+    "FEN": "rr4k1/1b1n1ppp/pp1N4/4n1P1/P3P3/2q1B1QP/B1P5/2KR3R w - - 1 21",
+    "Moves": "g3f4 c3a1 c1d2 a1a2",
+    "Rating": "1929",
+    "RatingDeviation": "74",
+    "Popularity": "85",
+    "NbPlays": "98",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/5GLE9onH#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6pOun",
+    "FEN": "r3nrk1/2q1bppp/p2p4/1p1Bp3/3BP1Q1/P6P/1PP2PP1/R3R1K1 b - - 0 19",
+    "Moves": "e5d4 d5a8 e8f6 g4f3 f8a8 e4e5 a8c8 e5f6",
+    "Rating": "1809",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "930",
+    "Themes": "advantage hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/FI3sTc2i/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  }
+]

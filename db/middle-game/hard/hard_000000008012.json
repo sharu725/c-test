@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Kpfl6",
+    "FEN": "r1b2rk1/1p3ppp/p4B2/4p2q/3p4/1P1P4/1PP1QP1P/2KR2R1 b - - 0 18",
+    "Moves": "h5e2 g1g7 g8h8 g7g1",
+    "Rating": "1650",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "391",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/U8vfa8Z7/black#36",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "Kpgzn",
+    "FEN": "5r1k/p3q1p1/3R2Pb/1p5Q/8/1bP3P1/1B3P1N/6K1 w - - 3 31",
+    "Moves": "d6d2 e7e1 h2f1 b3c4",
+    "Rating": "1653",
+    "RatingDeviation": "251",
+    "Popularity": "85",
+    "NbPlays": "5",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/QpPPJXUI#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Kpjlh",
+    "FEN": "2rq1rk1/pp3p1p/2n1b1p1/3p4/8/PB1PQN1P/2P3P1/R4RK1 b - - 5 20",
+    "Moves": "d5d4 e3h6 e6b3 f3g5 d8g5 h6g5",
+    "Rating": "1746",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1410",
+    "Themes": "advantage long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/DKKWSjqu/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KplU1",
+    "FEN": "1k1r3r/pBpb3p/5p2/2N5/8/1R6/PPn3PP/5R1K b - - 4 30",
+    "Moves": "c2d4 c5a6",
+    "Rating": "1790",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "7388",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/O1ebO1lx/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KpnJx",
+    "FEN": "1n2k2r/p1p2ppp/8/2b2b2/1qP2Nn1/2Np1Q2/PP1P1PPP/R1BK1B1R w k - 5 12",
+    "Moves": "a2a3 b4b3 d1e1 c5f2 f3f2 g4f2",
+    "Rating": "1681",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "853",
+    "Themes": "advantage attackingF2F7 long middlegame",
+    "GameUrl": "https://lichess.org/l4gHXtKm#23",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "KpqMA",
+    "FEN": "5rk1/3b2q1/2p1p3/3p2Qp/3Pp1pP/2P1P1B1/Pr3PP1/R4RK1 w - - 2 26",
+    "Moves": "g5h5 f8f5 h5f5 e6f5",
+    "Rating": "1609",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/ReVPPe16#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KpsCD",
+    "FEN": "2rr2k1/p4pP1/2p1p3/1p1nP3/1b2NP1q/1P2P3/PB2QKR1/2R5 w - - 9 30",
+    "Moves": "e4g3 d5f4 e3f4 d8d2",
+    "Rating": "1769",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "11265",
+    "Themes": "advantage clearance middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/GfTDSGK8#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Kpt3i",
+    "FEN": "r2q1rk1/pp1bppbp/2np1np1/6B1/3NP1P1/2N2P2/PPPQ3P/2KR1B1R w - - 1 12",
+    "Moves": "g5h6 c6d4 h6g7 d4f3 d2h6 f6g4",
+    "Rating": "1741",
+    "RatingDeviation": "78",
+    "Popularity": "80",
+    "NbPlays": "46",
+    "Themes": "advantage capturingDefender long middlegame",
+    "GameUrl": "https://lichess.org/I7reKEf0#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  },
+  {
+    "PuzzleId": "Kpul5",
+    "FEN": "Qn2k2r/p3ppbp/1qp5/3p1bp1/3P4/1P4P1/P1P1PPP1/RN2KBNR w KQk - 1 11",
+    "Moves": "b1c3 g7d4 e1c1 d4c3",
+    "Rating": "1645",
+    "RatingDeviation": "77",
+    "Popularity": "78",
+    "NbPlays": "203",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/kOr9kagB#21",
+    "OpeningTags": "Trompowsky_Attack Trompowsky_Attack_Edge_Variation"
+  }
+]

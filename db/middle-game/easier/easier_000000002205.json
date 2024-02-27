@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "6jWOD",
+    "FEN": "3rk2r/pp1nppq1/2p4p/6p1/1PP5/2N1Q1Pb/P3BP1P/R3R1K1 b k - 2 20",
+    "Moves": "e8g8 g3g4 h3g4 e2g4",
+    "Rating": "1070",
+    "RatingDeviation": "295",
+    "Popularity": "-100",
+    "NbPlays": "1",
+    "Themes": "advantage middlegame quietMove short trappedPiece",
+    "GameUrl": "https://lichess.org/L5DGt8jP/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6jYl7",
+    "FEN": "1r2rb1k/1b5n/5q1P/p1pp3Q/Pp2p3/3P2P1/1PPB1PB1/R3R1K1 b - - 1 34",
+    "Moves": "e4d3 e1e8 b8e8 h5e8",
+    "Rating": "1059",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "1855",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/V8qVT5Rk/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6jcW6",
+    "FEN": "r1bq1r1k/pp3p1p/2p1pNpQ/P7/3P4/3B4/2P2PPP/R3R1K1 b - - 0 21",
+    "Moves": "d8f6 h6f8",
+    "Rating": "1091",
+    "RatingDeviation": "81",
+    "Popularity": "82",
+    "NbPlays": "127",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ozcR6cNF/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6jdmO",
+    "FEN": "r1b2rk1/pp2qpp1/2p1p2p/4n3/B7/2N4P/PPP1QPP1/R3K2R b KQ - 3 14",
+    "Moves": "f8d8 e2e5 b7b5 a4b3",
+    "Rating": "1129",
+    "RatingDeviation": "234",
+    "Popularity": "-14",
+    "NbPlays": "4",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/3vN6mYcT/black#28",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "6jew4",
+    "FEN": "3r2k1/p4pp1/7p/5Q2/1q2NB2/6P1/P5BP/4R2K w - - 2 29",
+    "Moves": "e4d6 b4e1 g2f1 e1f1",
+    "Rating": "1073",
+    "RatingDeviation": "162",
+    "Popularity": "65",
+    "NbPlays": "24",
+    "Themes": "hangingPiece mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/r9c2jsi7#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6jezZ",
+    "FEN": "1kr1r3/2p2p1p/N1R2Qb1/3p1n2/8/1P2q3/P5PP/2R4K b - - 0 31",
+    "Moves": "b8a7 c6c7 c8c7 c1c7 a7a8 f6c6",
+    "Rating": "1188",
+    "RatingDeviation": "143",
+    "Popularity": "65",
+    "NbPlays": "25",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/1HbEOFaT/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6jfAK",
+    "FEN": "1q2k2r/r2n1ppp/5b2/1Q2p3/4P3/2NR4/PPP3PP/2KR4 b k - 5 17",
+    "Moves": "b8b5 c3b5 f6g5 c1b1",
+    "Rating": "1106",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "666",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/7EXLA3pw/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "6jfbS",
+    "FEN": "2brr1k1/p6p/1p3bpB/1N3p2/4p3/6Q1/PP4PP/2R4K w - - 2 30",
+    "Moves": "c1c8 d8d1 g3e1 d1e1",
+    "Rating": "1093",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "175",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/NlSgjcVO#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "6jgJ6",
+    "FEN": "2rq3r/p3kppp/2Qbb3/8/1P6/P1N1PPP1/2P2P2/R3KB1R w KQ - 1 16",
+    "Moves": "c3d5 e6d5 c6d5 d6b4 a3b4 d8d5",
+    "Rating": "1169",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "670",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/HXsjJ1MW#31",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  }
+]

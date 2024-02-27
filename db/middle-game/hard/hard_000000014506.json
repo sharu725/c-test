@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "biVFL",
+    "FEN": "1r1r2k1/4npb1/1q4pp/p1p5/4P1PP/1bP1B3/1PN1BP2/2KRQ2R b - - 2 21",
+    "Moves": "b3c2 d1d8 b8d8 c1c2",
+    "Rating": "1614",
+    "RatingDeviation": "413",
+    "Popularity": "100",
+    "NbPlays": "2",
+    "Themes": "equality intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/HIizdbYp/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "biVHp",
+    "FEN": "3rkr2/pp2q2p/2p5/2n1p2Q/8/8/PP3PP1/3RR2K b - - 1 26",
+    "Moves": "e7f7 e1e5 c5e6 e5e6",
+    "Rating": "1626",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "467",
+    "Themes": "fork mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/yI7mjxdb/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "biXF9",
+    "FEN": "1r3rk1/6bp/2qp1pN1/8/p2P2P1/2P2P2/pPQ4R/K6R b - - 0 30",
+    "Moves": "h7g6 c2g6 a4a3 h2h8",
+    "Rating": "1644",
+    "RatingDeviation": "82",
+    "Popularity": "85",
+    "NbPlays": "41",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/cUrOs7rC/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "biXIY",
+    "FEN": "r3k2r/pp3ppp/1q2p3/3pN3/1b3P2/1n1P4/PB4PP/R2Q1R1K b kq - 1 17",
+    "Moves": "b3a1 d1a4 b6c6 e5c6",
+    "Rating": "1725",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "88",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/lybXc1JL/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "biXXu",
+    "FEN": "1r2k2r/1pqbbppp/1nn5/p7/P2NQ3/4BN2/1P2BPPP/2R2RK1 w k - 3 19",
+    "Moves": "f3e5 c7e5 e4e5 c6e5 d4f3 e5f3",
+    "Rating": "1631",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "429",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/drgy59pi#37",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "biY02",
+    "FEN": "r4rk1/pp3pq1/7p/2b3p1/8/2P3Q1/PP4KP/1B2RR2 b - - 1 26",
+    "Moves": "b7b6 b2b4 c5b4 c3b4",
+    "Rating": "1648",
+    "RatingDeviation": "77",
+    "Popularity": "80",
+    "NbPlays": "93",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/CNjHA1Zo/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "biYCk",
+    "FEN": "2r2rk1/p5p1/Np2pq1p/4N1p1/3P2Q1/4P3/PP3PPP/5RK1 w - - 1 19",
+    "Moves": "e5d7 f6f2 f1f2 c8c1 g4d1 c1d1 f2f1 d1f1",
+    "Rating": "1647",
+    "RatingDeviation": "83",
+    "Popularity": "88",
+    "NbPlays": "201",
+    "Themes": "kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/2O6PsvmQ#37",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Tartakower_Defense"
+  },
+  {
+    "PuzzleId": "biZ72",
+    "FEN": "4r2r/pp2P2N/2p2kp1/3q3P/7Q/Pn5P/1P5K/4R3 b - - 1 32",
+    "Moves": "f6g7 h4f6 g7g8 f6g6",
+    "Rating": "1752",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "591",
+    "Themes": "deflection mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/iDk2VNbR/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "biZiG",
+    "FEN": "r1b1kb1r/pp1p1ppp/2q5/4p1B1/4N3/3B1N2/PPn2PPP/2Q2RK1 b kq - 4 13",
+    "Moves": "c2d4 f3d4 c6c1 f1c1",
+    "Rating": "1783",
+    "RatingDeviation": "111",
+    "Popularity": "0",
+    "NbPlays": "17",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/7Jas07SJ/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  }
+]

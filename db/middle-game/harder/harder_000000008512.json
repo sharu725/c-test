@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Ppm2e",
+    "FEN": "r5k1/pR3p2/6p1/2pP3p/3q1P2/P2BrQ1P/6PK/2R5 w - - 1 29",
+    "Moves": "f3f2 e3h3 h2g1 h3h1 g1h1 d4f2",
+    "Rating": "1839",
+    "RatingDeviation": "137",
+    "Popularity": "-19",
+    "NbPlays": "12",
+    "Themes": "advantage deflection long middlegame",
+    "GameUrl": "https://lichess.org/6tRuPoHC#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PpmFV",
+    "FEN": "3r1rk1/ppp2p1p/6p1/1N2q3/1P6/P2bP3/B3QPPP/2R2RK1 w - - 2 20",
+    "Moves": "e2e1 e5b5 e1c3 d3f1",
+    "Rating": "1997",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "883",
+    "Themes": "advantage hangingPiece middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/hRMPX7N4#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PppLW",
+    "FEN": "r4rk1/4qpb1/4p1p1/p2pN2n/1ppP1P2/2P1PR1Q/1PB4P/R6K b - - 1 30",
+    "Moves": "b4b3 c2g6 f7g6 e5g6 e7e8 h3h5 f8f5 h5g4",
+    "Rating": "1921",
+    "RatingDeviation": "105",
+    "Popularity": "81",
+    "NbPlays": "34",
+    "Themes": "advantage capturingDefender fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/kzq7pKXS/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PpqON",
+    "FEN": "4rbk1/7p/4q1p1/p2n4/PpP1N1P1/3QP3/7N/R5K1 w - - 0 29",
+    "Moves": "e4g5 e6e3 d3e3 d5e3",
+    "Rating": "1993",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "1005",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/MIILmEBQ#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PpqbE",
+    "FEN": "3rr1k1/p1p2ppp/8/8/3p4/6N1/qPPQ1PPP/2KR3R w - - 0 18",
+    "Moves": "d2d3 a2a1",
+    "Rating": "1842",
+    "RatingDeviation": "311",
+    "Popularity": "100",
+    "NbPlays": "4",
+    "Themes": "equality middlegame oneMove",
+    "GameUrl": "https://lichess.org/j7IHEm8T#35",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ppred",
+    "FEN": "2r3k1/4pp1p/Q2p2p1/1p1P4/4P3/5PBq/P3BP1P/2r1R1K1 w - - 1 28",
+    "Moves": "e2f1 c1e1 a6c8 h3c8",
+    "Rating": "1935",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1029",
+    "Themes": "crushing hangingPiece middlegame pin short",
+    "GameUrl": "https://lichess.org/LBOBmiTl#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PpsDF",
+    "FEN": "r1b1k2r/pp3ppp/1qn1p3/2npP3/5PPP/2P2N2/P3NbB1/R1BQ1K1R w kq - 3 14",
+    "Moves": "f1f2 c5e4 f2e1 b6f2",
+    "Rating": "1840",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1755",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/BrEjA5bB#27",
+    "OpeningTags": "French_Defense French_Defense_Steinitz_Variation"
+  },
+  {
+    "PuzzleId": "PpuTH",
+    "FEN": "r1bq1r1k/pp3p2/2pnp1B1/8/5P2/3Q1R2/PP4PP/R6K b - - 0 21",
+    "Moves": "f7g6 d3g6 d6f5 f3h3",
+    "Rating": "1936",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "56",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/7dJ666gw/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ppv5v",
+    "FEN": "2r2rk1/pb2bppp/1pn1p3/4q1N1/4N3/P2Bp2Q/1PP3PP/3R1RK1 b - - 1 19",
+    "Moves": "e7g5 e4f6 g7f6 h3h7",
+    "Rating": "1858",
+    "RatingDeviation": "115",
+    "Popularity": "85",
+    "NbPlays": "39",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/0IgL2qZn/black#38",
+    "OpeningTags": "Blackmar-Diemer_Gambit_Declined Blackmar-Diemer_Gambit_Declined_Weinsbach_Declination"
+  }
+]

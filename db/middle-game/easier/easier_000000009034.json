@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ROSAB",
+    "FEN": "r5k1/4q1p1/4pp1p/r1p5/b7/R1Q3N1/3P1PPP/5RK1 b - - 2 30",
+    "Moves": "a4b5 a3a5 a8a5 c3a5",
+    "Rating": "1136",
+    "RatingDeviation": "78",
+    "Popularity": "83",
+    "NbPlays": "249",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/d2f0xMpB/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ROTEp",
+    "FEN": "4B2r/6pp/p3Qbk1/4p3/PP5P/2r1q1P1/7K/5R2 b - - 2 32",
+    "Moves": "g6h6 f1f6 g7g6 f6g6 h7g6 e6g6",
+    "Rating": "1086",
+    "RatingDeviation": "82",
+    "Popularity": "93",
+    "NbPlays": "422",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/anHWhX8z/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ROTGr",
+    "FEN": "r2q1r2/1pp4k/p2p4/2nPp2N/7P/2N2P1b/PPPQ4/2K3R1 b - - 0 20",
+    "Moves": "d8h4 g1g7 h7h8 d2h6",
+    "Rating": "1156",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "214",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/BpcFK19B/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ROTTh",
+    "FEN": "r4k2/1pp1pr2/p3Qb2/3p3P/1qnP1P2/2N1PN2/PPPB4/2KR2R1 w - - 7 21",
+    "Moves": "b2b3 b4a3 c1b1 a3b2",
+    "Rating": "1075",
+    "RatingDeviation": "99",
+    "Popularity": "89",
+    "NbPlays": "52",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/CUw0F0I4#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ROU1z",
+    "FEN": "r1b1k3/pp3pp1/2n1p3/2b5/2N1P1n1/2P2Nq1/PB2B2r/R3QR1K w q - 0 19",
+    "Moves": "f3h2 g3h2",
+    "Rating": "1112",
+    "RatingDeviation": "92",
+    "Popularity": "80",
+    "NbPlays": "33",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gYdeoU0S#37",
+    "OpeningTags": "French_Defense French_Defense_Kings_Indian_Attack"
+  },
+  {
+    "PuzzleId": "ROUgN",
+    "FEN": "3r2k1/ppp5/4r3/4nNp1/7p/2P2PK1/PP4PP/R1B4R w - - 0 20",
+    "Moves": "g3f2 e5d3 f2g1 e6e1",
+    "Rating": "1095",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "238",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ygs8igsy#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ROVdt",
+    "FEN": "r1bbr1k1/q5pn/p7/3NB2P/2P1B3/1P6/P3Q3/2R1K2R b K - 2 32",
+    "Moves": "e8e5 e4h7 g8h7 e2e5",
+    "Rating": "1156",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "306",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/CMzaQW8q/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ROXN9",
+    "FEN": "2kr2r1/pp2n3/3B2q1/2Q2b2/2P4p/P6p/3N2P1/2R2RK1 b - - 1 31",
+    "Moves": "c8d7 c5c7 d7e8 c7e7",
+    "Rating": "1120",
+    "RatingDeviation": "120",
+    "Popularity": "25",
+    "NbPlays": "20",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/xvdziZ0R/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ROas8",
+    "FEN": "3r1rk1/1p1qppbp/p5p1/2p1p2n/2N1P3/2PP2Pb/PPQB1P1P/R3RBK1 w - - 10 16",
+    "Moves": "c4e5 g7e5 f1h3 d7h3",
+    "Rating": "1124",
+    "RatingDeviation": "82",
+    "Popularity": "73",
+    "NbPlays": "113",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/1rsHu2kD#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Dunne_Attack"
+  }
+]

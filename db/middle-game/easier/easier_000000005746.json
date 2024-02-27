@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HPr26",
+    "FEN": "2r2rk1/1p3pbp/p4np1/2qNB3/6b1/P2B2N1/1P1Q2PP/R4R1K b - - 0 20",
+    "Moves": "c5d5 e5f6 g7f6 f1f6",
+    "Rating": "1156",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "1495",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ibOcpbwu/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HPrzm",
+    "FEN": "r1b2rk1/pp1p1ppp/2n1p3/7q/4P1n1/1NPBB3/P1PQ1PPP/R4RK1 w - - 5 12",
+    "Moves": "d3e2 h5h2",
+    "Rating": "1011",
+    "RatingDeviation": "161",
+    "Popularity": "54",
+    "NbPlays": "17",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/rcqziZ4y#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Four_Knights_Variation"
+  },
+  {
+    "PuzzleId": "HPs1P",
+    "FEN": "2kr3r/ppp1bp2/5n2/4n1Bp/1P2b1q1/P4N2/2P1BPPP/R1Q2RK1 w - - 0 19",
+    "Moves": "f3e5 g4g2",
+    "Rating": "1128",
+    "RatingDeviation": "128",
+    "Popularity": "91",
+    "NbPlays": "46",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/8Eq506eM#37",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "HPs1v",
+    "FEN": "r2qk2r/pp1bp2p/3p1npB/2pPb3/2P5/2NB4/PPQ2PPP/R4RK1 b kq - 5 12",
+    "Moves": "f6g4 d3g6 h7g6 c2g6",
+    "Rating": "1061",
+    "RatingDeviation": "80",
+    "Popularity": "86",
+    "NbPlays": "97",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/BZyaixPK/black#24",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "HPsWi",
+    "FEN": "1r2q1k1/3n2pp/2N5/3p1p2/3NbPrb/1P2P3/P2B1RPP/R2Q2K1 w - - 7 23",
+    "Moves": "g2g3 h4g3 h2g3 g4g3",
+    "Rating": "1092",
+    "RatingDeviation": "80",
+    "Popularity": "52",
+    "NbPlays": "211",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/3bgFLiza#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HPt5K",
+    "FEN": "2k3r1/1pp5/N2b1p1p/4qp2/8/4pr2/PPR1Q1P1/5RK1 w - - 0 26",
+    "Moves": "f1f3 e5h2 g1f1 h2h1",
+    "Rating": "1101",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "2040",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/h9BWe56M#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HPthg",
+    "FEN": "1k1r3r/ppqnb3/4p2p/3p1p2/1N1P2p1/PQP1P3/1P1N2PP/R4RK1 b - - 1 19",
+    "Moves": "e7g5 b4a6 b8c8 a6c7",
+    "Rating": "1121",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "4007",
+    "Themes": "crushing middlegame pin queensideAttack short",
+    "GameUrl": "https://lichess.org/bY3DJ0kZ/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "HPuCY",
+    "FEN": "2kr3r/pbp2p2/2nqp2p/1BbpN1p1/5P2/4P1P1/PP1N2P1/R2QK2R w KQ - 1 16",
+    "Moves": "e5c6 b7c6 b5c6 d6c6",
+    "Rating": "1065",
+    "RatingDeviation": "83",
+    "Popularity": "93",
+    "NbPlays": "193",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/4dQtThkb#31",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "HPuKE",
+    "FEN": "r1b1kb1r/1pqp1pp1/p3p3/2p3Bp/P1BnP1n1/2NP1N1P/1PP2PP1/R2Q1RK1 w kq - 1 10",
+    "Moves": "f3d4 c7h2",
+    "Rating": "1086",
+    "RatingDeviation": "79",
+    "Popularity": "70",
+    "NbPlays": "131",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/m2BsFDSY#19",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  }
+]

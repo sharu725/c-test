@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "dquCa",
+    "FEN": "2r1k2r/2qbpp1p/3p2p1/p5PN/1p1bP2P/5P2/PPPQ4/1K1R1B1R w k - 0 18",
+    "Moves": "d2d4 c7c2 b1a1 c2c1 d1c1 c8c1",
+    "Rating": "1058",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "48",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/T0FYD1xA#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "dqukb",
+    "FEN": "3rkr2/3b2pp/3Q4/p2pP3/8/5PP1/PP2Bq1P/1K1RR3 w - - 0 26",
+    "Moves": "d6d5 d7f5 b1a1 d8d5",
+    "Rating": "1046",
+    "RatingDeviation": "78",
+    "Popularity": "78",
+    "NbPlays": "111",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/WTR6VTAi#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dqvPf",
+    "FEN": "r2q1rk1/1bp3pp/p3p3/1p2Pn2/3P1pP1/2PB4/P1QN1P1P/R4RK1 w - - 1 17",
+    "Moves": "g4f5 d8g5",
+    "Rating": "1110",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "133",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/WeK2GE3T#33",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense"
+  },
+  {
+    "PuzzleId": "dqvTS",
+    "FEN": "r4rk1/1pp1nppp/p2p1q2/3Pn3/2PQ4/1P6/PN2BPPP/R4RK1 w - - 1 17",
+    "Moves": "b2d3 e5f3 e2f3 f6d4",
+    "Rating": "1103",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "6445",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/LT9ESo4E#33",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  },
+  {
+    "PuzzleId": "dqxPA",
+    "FEN": "3r2k1/p4pp1/1p1Np2p/1Pn4n/8/b3PP1P/2B2PKB/3R4 b - - 4 26",
+    "Moves": "c5b7 d6b7 d8d1 c2d1",
+    "Rating": "1042",
+    "RatingDeviation": "92",
+    "Popularity": "100",
+    "NbPlays": "24",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/dTG02M4Y/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dqzRo",
+    "FEN": "rn3rk1/pp1q2pp/2pb1n2/8/4P2N/1P3BPb/PBP1QP1P/R3R1K1 b - - 0 16",
+    "Moves": "d6c5 e2c4 d7f7 c4c5",
+    "Rating": "1106",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "3850",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/lXWpfe2t/black#32",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Catalan_Formation"
+  },
+  {
+    "PuzzleId": "dr0lq",
+    "FEN": "4r1k1/pp3pp1/2p2bp1/3p2B1/3P1Pq1/P1PQ4/1P2rP1P/R5RK b - - 6 25",
+    "Moves": "f6g5 g1g4",
+    "Rating": "1045",
+    "RatingDeviation": "132",
+    "Popularity": "25",
+    "NbPlays": "48",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/m6Rlet71/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dr2oZ",
+    "FEN": "4r3/pp4kp/2pp1qp1/5p1n/2Pn1P2/1P1P1NPP/P2Q2BK/4R3 b - - 1 22",
+    "Moves": "g7f7 f3g5 f6g5 f4g5",
+    "Rating": "1182",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "9236",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/qnbC7L3Y/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dr3Bq",
+    "FEN": "r1b1k2r/1p2ppbp/p1qp2p1/3P4/P7/3B4/1PP2PPP/R1BQ1RK1 b kq - 0 12",
+    "Moves": "c6d5 d3b5 d5b5 a4b5",
+    "Rating": "1081",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "340",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/uhU6GDpG/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  }
+]

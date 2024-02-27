@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "vCM6E",
+    "FEN": "3r2k1/1pp2pp1/p6p/3Pq3/1P5r/P3PbRP/R4P1K/2B3Q1 w - - 4 28",
+    "Moves": "c1b2 h4h3 h2h3 e5h5",
+    "Rating": "1128",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "1279",
+    "Themes": "attraction mate mateIn2 middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/SQ3Fb0v0#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vCMDH",
+    "FEN": "r1b2r2/5p1k/p4Bpp/1p1pPp2/3P3Q/4R3/P1q2PPP/4R1K1 b - - 3 25",
+    "Moves": "c8e6 h4h6 h7h6 e3h3",
+    "Rating": "1199",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "809",
+    "Themes": "attraction mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/WOlgNVkl/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vCOu1",
+    "FEN": "r1b1k2r/pp2bppp/2P2n2/1B2p3/8/P1N5/1PP2PPP/3RK1NR b Kkq - 0 11",
+    "Moves": "b7c6 b5c6 e8f8 c6a8",
+    "Rating": "1168",
+    "RatingDeviation": "99",
+    "Popularity": "-50",
+    "NbPlays": "43",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/7AODqo8u/black#22",
+    "OpeningTags": "Van_Geet_Opening Van_Geet_Opening_Battambang_Variation"
+  },
+  {
+    "PuzzleId": "vCSKC",
+    "FEN": "r1b2rk1/pp2qppp/2p2R2/4p1B1/2B1P2Q/2N5/PP4PP/n6K b - - 0 14",
+    "Moves": "g7f6 g5f6 e7f6 h4f6",
+    "Rating": "1073",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "759",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/QQpnEIZe/black#28",
+    "OpeningTags": "Italian_Game Italian_Game_Deutz_Gambit"
+  },
+  {
+    "PuzzleId": "vCSf2",
+    "FEN": "1r3rk1/2p1n1p1/p3qp1p/1pR5/8/1PB1PP2/PQ4PP/2KR4 w - - 0 24",
+    "Moves": "c3a5 e6e3 c1b1 e3c5",
+    "Rating": "1012",
+    "RatingDeviation": "86",
+    "Popularity": "92",
+    "NbPlays": "163",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Zh79iSOq#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vCTDg",
+    "FEN": "r1b1r1k1/1p3p2/ppp1q2p/4p1pn/4P3/P1PP1NBP/1P3PP1/R2Q1RK1 w - - 2 16",
+    "Moves": "f3e5 h5g3 f2g3 e6e5",
+    "Rating": "1072",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "452",
+    "Themes": "advantage capturingDefender intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/rn0QYew5#31",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "vCUO3",
+    "FEN": "2r1n1k1/1R4p1/p3b1Br/3pP2p/qB1P4/3Q1P2/6PP/4R1K1 w - - 0 31",
+    "Moves": "b7e7 a4b4 e7e8 c8e8",
+    "Rating": "1198",
+    "RatingDeviation": "127",
+    "Popularity": "57",
+    "NbPlays": "36",
+    "Themes": "crushing fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/Qw9GVyrN#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vCWcv",
+    "FEN": "1r3r1k/1p2b1p1/5qBB/p1p1p2n/PnPpP1Q1/1N1P2R1/1P4PP/R5K1 w - - 5 29",
+    "Moves": "g6h5 f6f2 g1h1 f2f1 a1f1 f8f1",
+    "Rating": "1109",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "526",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/B1GPf6vd#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vCYWc",
+    "FEN": "r1b5/1pp2Q2/p1k1pp2/3p2pp/1qnP4/2N2N1P/PPP1PPP1/2KR1B1R w - - 3 16",
+    "Moves": "b2b3 b4a3 c1b1 a3b2",
+    "Rating": "1172",
+    "RatingDeviation": "128",
+    "Popularity": "65",
+    "NbPlays": "41",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/gKafELhk#31",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  }
+]

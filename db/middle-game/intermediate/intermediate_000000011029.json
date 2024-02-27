@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QWJav",
+    "FEN": "r3r1k1/2q2pp1/b4Q2/p2p4/3p3P/6R1/P4PP1/1R4K1 b - - 0 26",
+    "Moves": "c7e5 g3g7 g8h8 f6h6",
+    "Rating": "1500",
+    "RatingDeviation": "500",
+    "Popularity": "-100",
+    "NbPlays": "0",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/MvYvBxpQ/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QWLnR",
+    "FEN": "r3k2r/2qpbpp1/pp2p3/4P2p/2P1BP2/3QB3/PP4PP/3R3K b kq - 0 19",
+    "Moves": "a8c8 e3b6 c7c4 d3d7",
+    "Rating": "1438",
+    "RatingDeviation": "76",
+    "Popularity": "77",
+    "NbPlays": "269",
+    "Themes": "crushing master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/mbrflMtu/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "QWM1W",
+    "FEN": "Q3r1k1/2p2ppp/3p2b1/p2P2P1/q1B5/8/1PP2B1P/2KR3R w - - 1 24",
+    "Moves": "a8c6 a4c2",
+    "Rating": "1453",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "331",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/nBblvN0P#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QWN5R",
+    "FEN": "5r1k/1p2q2p/2p3pQ/1p3p2/1P1Pb3/r1P1R3/2B3PP/4R1K1 b - - 3 34",
+    "Moves": "f8e8 c2e4 f5e4 e3e4 e7e4 e1e4 a3a1 g1f2",
+    "Rating": "1434",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "210",
+    "Themes": "advantage defensiveMove middlegame veryLong",
+    "GameUrl": "https://lichess.org/DjtnvPGR/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QWO6R",
+    "FEN": "2n1r1k1/pp1q1p1p/6p1/2pB4/P2b1BP1/3P1Q1P/1P3P2/5RK1 b - - 8 24",
+    "Moves": "b7b6 d5c6 d7e6 c6e8",
+    "Rating": "1437",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "291",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/EljlpCwn/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QWObX",
+    "FEN": "3r1rk1/1p3pp1/p7/2QPnRq1/P6p/3B4/1PP3P1/6RK b - - 2 33",
+    "Moves": "e5d3 c5f8 d8f8 f5g5",
+    "Rating": "1529",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "859",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/30Y5BT7x/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QWQR9",
+    "FEN": "r1b1k2r/p4ppp/2p2n2/n5N1/BP1q4/P2p4/2P2KPP/RNBQ3R w kq - 1 13",
+    "Moves": "c1e3 f6g4 d1g4 d4g4",
+    "Rating": "1461",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "490",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/3tukslPf#25",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "QWRd9",
+    "FEN": "3r1bk1/ppq2ppp/4p2B/2p1P3/P1r5/2P3QP/5PP1/R4RK1 b - - 0 20",
+    "Moves": "c7e7 h6g5 e7c7 g5d8",
+    "Rating": "1457",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "19495",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/stjVgmCy/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QWTPS",
+    "FEN": "4rrk1/ppqn2p1/2pb3p/3p1p2/3Pn3/2PBB2P/PP1N1PP1/2QRR1K1 w - - 0 17",
+    "Moves": "f2f3 d6h2 g1h1 e4g3",
+    "Rating": "1591",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "769",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/xpqBkFVx#33",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  }
+]

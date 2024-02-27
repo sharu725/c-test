@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ni912",
+    "FEN": "3rr3/1p3p1k/3q2p1/p2P2Rp/PbP4P/1Pn1BP2/1QB2P2/K2R4 b - - 9 27",
+    "Moves": "c3d1 g5h5 h7g8 b2h8",
+    "Rating": "1409",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "137",
+    "Themes": "master mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/23qJGPke/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ni9xE",
+    "FEN": "3rr3/1pRnk1p1/p3Q1pn/5p2/3P1N1P/qP4P1/P4P2/R5K1 b - - 10 29",
+    "Moves": "e7f8 f4g6",
+    "Rating": "1477",
+    "RatingDeviation": "468",
+    "Popularity": "43",
+    "NbPlays": "4",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/hLuWIgbe/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "niASE",
+    "FEN": "8/p2Q2pk/n4P1p/4P2q/8/P6P/5KP1/8 b - - 0 40",
+    "Moves": "h5e5 d7g7",
+    "Rating": "1430",
+    "RatingDeviation": "105",
+    "Popularity": "53",
+    "NbPlays": "45",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/LIcQdGqa/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "niPzw",
+    "FEN": "r1b1k2r/pp2ppbp/1qnp2p1/4n3/4P3/2N2P1N/PPPB2PP/2KRQB1R w kq - 1 11",
+    "Moves": "c3d5 e5d3 c1b1 b6b2",
+    "Rating": "1414",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "162",
+    "Themes": "mate mateIn2 opening queensideAttack short",
+    "GameUrl": "https://lichess.org/QUnWZWcL#21",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "niWo0",
+    "FEN": "r1b1r1k1/1p1p3p/pq4pB/4bQ2/2P5/6R1/P5PP/5R1K b - - 2 28",
+    "Moves": "b6e6 f5f8 e8f8 f1f8",
+    "Rating": "1461",
+    "RatingDeviation": "79",
+    "Popularity": "84",
+    "NbPlays": "59",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/mT76t2Ev/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "niYGK",
+    "FEN": "rn1q2k1/pp4pp/2p1R3/3n1r2/2BP3b/2N1B3/PPP2P2/R2Q2K1 b - - 1 15",
+    "Moves": "d5e3 e6e8",
+    "Rating": "1436",
+    "RatingDeviation": "85",
+    "Popularity": "64",
+    "NbPlays": "415",
+    "Themes": "doubleCheck mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/JKt5yC7g/black#30",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "nia1h",
+    "FEN": "r1bq1rk1/1p2bppp/p2np3/2pp4/5PN1/1P2P1R1/PBPP2PP/RN1Q2K1 b - - 9 13",
+    "Moves": "f7f5 g4h6 g8h8 b2g7",
+    "Rating": "1414",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "268",
+    "Themes": "kingsideAttack mate mateIn2 opening pin short",
+    "GameUrl": "https://lichess.org/CU1NFWRU/black#26",
+    "OpeningTags": "Bird_Opening Bird_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "niauy",
+    "FEN": "rn2r1k1/pp2qppp/8/3p4/3bn3/1B5N/PPPQ1PPP/RNB2K1R w - - 1 14",
+    "Moves": "d2d4 e4g3 h2g3 e7e1",
+    "Rating": "1586",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "70",
+    "Themes": "clearance mate mateIn2 opening sacrifice short",
+    "GameUrl": "https://lichess.org/nMqh5si9#27",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "nibuv",
+    "FEN": "8/8/2p3pp/1p2Qp1k/5P2/3q3P/P5PK/8 b - - 1 39",
+    "Moves": "d3e4 g2g4 h5h4 e5f6 g6g5 f6h6",
+    "Rating": "1562",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2466",
+    "Themes": "endgame long mate mateIn3 queenEndgame",
+    "GameUrl": "https://lichess.org/8O73Ssom/black#78",
+    "OpeningTags": ""
+  }
+]

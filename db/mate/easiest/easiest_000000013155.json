@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PUTvg",
+    "FEN": "6kb/5p1p/1Rn4P/p2p2P1/3P1P2/2PK4/8/r7 b - - 2 43",
+    "Moves": "c6e7 b6b8 e7c8 b8c8",
+    "Rating": "582",
+    "RatingDeviation": "81",
+    "Popularity": "100",
+    "NbPlays": "82",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/COcDsuOc/black#86",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PUTyg",
+    "FEN": "8/3R2pk/p4p2/1p2p1n1/6PQ/P2b3P/5P1K/1q6 b - - 8 41",
+    "Moves": "h7g6 h4h5",
+    "Rating": "899",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "397",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/fdORvHXB/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PUUzk",
+    "FEN": "3rQ1k1/pp3pbp/2p3pB/8/8/2P5/Pq3PPP/4R1K1 b - - 3 25",
+    "Moves": "d8e8 e1e8 g7f8 e8f8",
+    "Rating": "918",
+    "RatingDeviation": "117",
+    "Popularity": "82",
+    "NbPlays": "14",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/Enn59EwP/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PUVdH",
+    "FEN": "2k3r1/1p1qbp1p/3p1n2/p2Pp3/1pP1P3/1N1BBP1b/7P/1R1Q2NK w - - 3 25",
+    "Moves": "b3a5 h3g2",
+    "Rating": "961",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "175",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/TMC8P5UM#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PUVwM",
+    "FEN": "1k1r3r/ppp2Rpp/3q4/6B1/5n2/7Q/PPP2PPP/R5K1 w - - 1 19",
+    "Moves": "g5f4 d6d1 a1d1 d8d1",
+    "Rating": "898",
+    "RatingDeviation": "105",
+    "Popularity": "90",
+    "NbPlays": "720",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/jMagrlsP#37",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "PUWlv",
+    "FEN": "6k1/1p3qpp/1R1p4/p2Pp3/P1P1P3/3Q4/3NbrPP/6K1 w - - 1 24",
+    "Moves": "d3e3 f2f1 d2f1 f7f1",
+    "Rating": "957",
+    "RatingDeviation": "82",
+    "Popularity": "94",
+    "NbPlays": "407",
+    "Themes": "endgame kingsideAttack mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/4d1cC6ul#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PUWm2",
+    "FEN": "8/p2r3p/3p1Rp1/1Pp1p3/2P1P2k/1P3K2/8/8 b - - 3 36",
+    "Moves": "g6g5 f6h6",
+    "Rating": "855",
+    "RatingDeviation": "100",
+    "Popularity": "70",
+    "NbPlays": "85",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/9z7J17nf/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PUXEK",
+    "FEN": "8/k1p5/ppr5/8/7Q/5P2/r3n1PK/4R3 w - - 0 31",
+    "Moves": "h4e4 c6h6 e4h4 h6h4",
+    "Rating": "679",
+    "RatingDeviation": "86",
+    "Popularity": "96",
+    "NbPlays": "1748",
+    "Themes": "anastasiaMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/JFIgeW54#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PUXiW",
+    "FEN": "r3k2r/p4pp1/4p3/2ppq2p/6n1/1PN1P3/PBPP4/R2Q1RK1 w kq - 0 17",
+    "Moves": "d1f3 e5h2",
+    "Rating": "819",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "121",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gK4xldWN#33",
+    "OpeningTags": "Bird_Opening Bird_Opening_Lasker_Variation"
+  }
+]

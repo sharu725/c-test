@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "12rcX",
+    "FEN": "3r1rk1/pb3p1p/1p4R1/2p1P3/3p1P2/q1B1P2P/B1Q3P1/6K1 b - - 0 25",
+    "Moves": "g8h8 g6h6 f7f5 e5f6",
+    "Rating": "1731",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "5253",
+    "Themes": "advantage enPassant master middlegame short",
+    "GameUrl": "https://lichess.org/o1idb5LZ/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "12wEB",
+    "FEN": "r4r2/1bq1k1p1/p3p3/1p5Q/8/PBN5/1PP2bP1/R3R2K b - - 1 30",
+    "Moves": "f8h8 e1e6 e7d7 a1d1 b7d5 d1d5 d7e6 d5d8",
+    "Rating": "1796",
+    "RatingDeviation": "294",
+    "Popularity": "88",
+    "NbPlays": "2",
+    "Themes": "crushing discoveredAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/fSdGAnYx/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "12xCp",
+    "FEN": "r4rk1/bbpq1pp1/p1n2n1p/1p2pN2/P3P3/1BP1B2P/1P1N1PP1/R2Q1RK1 b - - 0 15",
+    "Moves": "f6e4 d1g4 d7f5 g4f5",
+    "Rating": "1717",
+    "RatingDeviation": "269",
+    "Popularity": "-49",
+    "NbPlays": "5",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/G862WCTz/black#30",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "12yme",
+    "FEN": "r1b2rk1/ppp2ppp/2np4/4p1q1/2B5/1PB4P/P1PPQPP1/2KR3R b - - 1 12",
+    "Moves": "g5g2 d1g1 g2h1 g1h1",
+    "Rating": "1632",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "11288",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/1IeigXqk/black#24",
+    "OpeningTags": "Kings_Pawn_Opening Kings_Pawn_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "130Tm",
+    "FEN": "r3r1k1/1p3qp1/p2p1p2/2pPnP1p/2P4R/1P2B2P/P1B1Q3/4R1K1 w - - 2 28",
+    "Moves": "e2h5 f7h5 h4h5 e5f3 g1f2 f3e1",
+    "Rating": "1660",
+    "RatingDeviation": "217",
+    "Popularity": "71",
+    "NbPlays": "18",
+    "Themes": "crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/56ylO94d#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "13142",
+    "FEN": "r2q1r1k/1pp1b1p1/p2p2QB/8/3pn3/PB1P3P/1PP2PP1/R5K1 b - - 0 18",
+    "Moves": "e7f6 h6g7 f6g7 g6h5 g7h6 h5h6",
+    "Rating": "1616",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "4273",
+    "Themes": "fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/2BJ6HFtL/black#36",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Lucena_Variation"
+  },
+  {
+    "PuzzleId": "131a4",
+    "FEN": "2r2rk1/5ppp/p1n5/q3pPP1/2R1P2P/1pP4R/1P2Q3/1NK5 w - - 1 27",
+    "Moves": "h3d3 c6d4 d3d4 e5d4",
+    "Rating": "1694",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "2184",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/WDt5YiFc#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "132lr",
+    "FEN": "r1b5/pp2pk1p/n1p4b/q1P2p1Q/3Pp3/P3P3/5P1P/R4RK1 b - - 1 24",
+    "Moves": "f7g7 g1h1 a6c7 f1g1 g7f8 h5h6",
+    "Rating": "1682",
+    "RatingDeviation": "75",
+    "Popularity": "68",
+    "NbPlays": "96",
+    "Themes": "clearance crushing deflection long middlegame",
+    "GameUrl": "https://lichess.org/KCChKVcX/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "133Vc",
+    "FEN": "q3kr2/3n2p1/p7/4np2/1P5b/P3P2P/1B2QP2/R2R1NK1 w - - 0 29",
+    "Moves": "e2h5 g7g6 h5e2 e5f3 e2f3 a8f3",
+    "Rating": "1618",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2322",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/gSgVXdaa#57",
+    "OpeningTags": ""
+  }
+]

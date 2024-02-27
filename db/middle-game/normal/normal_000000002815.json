@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "8EYS9",
+    "FEN": "r2q1r1k/pp2bpp1/2npbn1p/2p1p3/2P1P3/2NPBN1P/PP1QBPP1/R4RK1 w - - 8 11",
+    "Moves": "e3h6 g7h6 d2h6 f6h7",
+    "Rating": "1360",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "753",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/u8xKSGDg#21",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "8Eao6",
+    "FEN": "r3k2r/pp3ppp/1q1bp3/3p1bB1/Q2Pn3/2P2N2/PP2B1PP/R4RK1 b kq - 5 14",
+    "Moves": "b6c6 e2b5 e8g8 b5c6",
+    "Rating": "1217",
+    "RatingDeviation": "84",
+    "Popularity": "84",
+    "NbPlays": "64",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/1Vzzhny3/black#28",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "8EcvV",
+    "FEN": "3r3r/pp1k1pb1/1qp1p1n1/3pPP1p/3P2Q1/6BP/PPP1N3/2KRR3 w - - 0 20",
+    "Moves": "g4g5 g7h6 g5h6 h8h6",
+    "Rating": "1346",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2417",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/AYJvaXoA#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8Edix",
+    "FEN": "r5k1/1bpQ1pp1/p6p/1p2r1q1/8/1P2P3/P1B2RPP/R5K1 b - - 0 25",
+    "Moves": "a8e8 d7f7 g8h8 f7f8 e8f8 f2f8",
+    "Rating": "1354",
+    "RatingDeviation": "109",
+    "Popularity": "43",
+    "NbPlays": "23",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/iLcUfeI3/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8Ee9C",
+    "FEN": "r3k2r/pp4pp/2nb4/2pp4/6nP/4PN1q/PPP1BP2/RNBQR1K1 w kq - 5 14",
+    "Moves": "e2f1 d6h2 f3h2 h3h2",
+    "Rating": "1261",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "1788",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/OiMEM9yW#27",
+    "OpeningTags": "Englund_Gambit Englund_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "8EeeO",
+    "FEN": "2r1r1k1/p2q1ppp/8/1npp4/5B2/1PP2PPP/P1Q1R1K1/4R3 w - - 2 28",
+    "Moves": "e1d1 e8e2 c2e2 b5c3 e2d2 c3d1",
+    "Rating": "1365",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "165",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/REyhpNOe#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8EfRc",
+    "FEN": "r1bq1rk1/pp2pp2/3p1npp/2pP2B1/2P1PPn1/2P5/P1Q1B1PP/R3K1NR w KQ - 0 12",
+    "Moves": "g5h4 g4e3 c2d3 e3g2",
+    "Rating": "1236",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "532",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/nWNBUIq7#23",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  },
+  {
+    "PuzzleId": "8EgGz",
+    "FEN": "r4r2/pp2bpkp/3p1n2/2q5/2PQB3/1P6/PB3P1P/6RK b - - 1 20",
+    "Moves": "g7h8 d4f6 e7f6 b2f6",
+    "Rating": "1346",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "3244",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/3hFj28YO/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "8Ehw9",
+    "FEN": "r1bq1rk1/ppp3p1/5b1p/8/4p3/P3P3/1P1BBPPP/2RQK2R b K - 1 14",
+    "Moves": "f6b2 d1b3 g8h7 b3b2",
+    "Rating": "1289",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "3756",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/ZCoSzAGo/black#28",
+    "OpeningTags": "Queens_Gambit Queens_Gambit_Other_variations"
+  }
+]

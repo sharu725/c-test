@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SQjR2",
+    "FEN": "r6r/pQpn1pp1/3p1k2/2b2q2/2B1NP2/2P1p1Pp/PP5P/R3R2K b - - 2 22",
+    "Moves": "f6g6 g3g4 f5f4 e1f1 f4g4 f1g1",
+    "Rating": "2270",
+    "RatingDeviation": "84",
+    "Popularity": "64",
+    "NbPlays": "34",
+    "Themes": "crushing long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/V395jNCr/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SQkHr",
+    "FEN": "r2q1rk1/2pnb1pp/1pbpp1P1/8/p1PP4/2N1PN2/PPQ1BP2/2KR2R1 b - - 0 16",
+    "Moves": "c6f3 g6h7 g8h8 c2g6 e7f6 e2f3",
+    "Rating": "2064",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "1310",
+    "Themes": "advancedPawn advantage interference long middlegame",
+    "GameUrl": "https://lichess.org/Z7F3Fkf2/black#32",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "SQm8p",
+    "FEN": "r4r2/1pp1n2k/p1q3pp/8/3BP3/1P6/1PPQ2RP/6RK b - - 0 23",
+    "Moves": "c6e4 g1e1 e4h4 g2g4 f8f1 e1f1 h4g4 f1f7 h7g8 f7e7",
+    "Rating": "2331",
+    "RatingDeviation": "114",
+    "Popularity": "69",
+    "NbPlays": "32",
+    "Themes": "advantage fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/QFr8Tn4m/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SQmUV",
+    "FEN": "2rqr1k1/3bbppp/p2p1n2/1p1P2B1/3N4/P1N5/1P1Q1PPP/2R1R1K1 b - - 2 17",
+    "Moves": "f6d5 c3d5 e7g5 e1e8 d8e8 d2g5 c8c1 g5c1 e8e4 d5b6",
+    "Rating": "2291",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "3828",
+    "Themes": "advantage hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/ebrJT77y/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "SQnMA",
+    "FEN": "r2r2k1/1pq2pbp/p1n2np1/2p1pb2/2P5/PPN1PN1P/1BQ1BPP1/R2R2K1 w - - 1 21",
+    "Moves": "e2d3 d8d3 d1d3 e5e4 d3d5 e4f3 d5f5 g6f5",
+    "Rating": "2159",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "643",
+    "Themes": "advantage fork master middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/6ze7hmCY#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SQp7G",
+    "FEN": "r1bqr1k1/1p2nppp/p1n5/3p4/8/1BN2N2/PP2QPPP/R2R2K1 b - - 1 13",
+    "Moves": "d5d4 f3g5 e8f8 e2h5",
+    "Rating": "2250",
+    "RatingDeviation": "80",
+    "Popularity": "68",
+    "NbPlays": "106",
+    "Themes": "advantage clearance middlegame short",
+    "GameUrl": "https://lichess.org/5So0iA9S/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Accepted"
+  },
+  {
+    "PuzzleId": "SQpQK",
+    "FEN": "2r2rk1/1B3ppp/3P4/qpP1p3/p2p4/Q2P3P/P2b1PP1/1R3RK1 b - - 4 22",
+    "Moves": "c8d8 a3b2 b5b4 b2d2",
+    "Rating": "2150",
+    "RatingDeviation": "114",
+    "Popularity": "66",
+    "NbPlays": "15",
+    "Themes": "crushing interference middlegame short",
+    "GameUrl": "https://lichess.org/s9MrxSPG/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SQq59",
+    "FEN": "r3k2r/3bqpp1/ppn1p2p/2p5/4N1Q1/3PB3/PPP3PP/R4RK1 b kq - 1 18",
+    "Moves": "e8g8 e4f6 e7f6 f1f6",
+    "Rating": "2211",
+    "RatingDeviation": "83",
+    "Popularity": "90",
+    "NbPlays": "845",
+    "Themes": "crushing kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/6Cz62g2F/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "SQqna",
+    "FEN": "3r1rk1/p4pp1/1p1p3p/2pb4/5nq1/4RNN1/PPPQ1PPP/R5K1 b - - 1 19",
+    "Moves": "f8e8 h2h3 g4g6 e3e8 d8e8 d2f4",
+    "Rating": "2091",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "2038",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/G0oXQsWg/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_French_Variation"
+  }
+]

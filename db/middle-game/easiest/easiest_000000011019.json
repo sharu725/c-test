@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "WpWoQ",
+    "FEN": "r1bq1r1k/pp1n1Bp1/3p1bPQ/2p2p2/4PP2/2N5/PPP1K3/R1B4R b - - 0 19",
+    "Moves": "g7h6 h1h6 h8g7 h6h7",
+    "Rating": "944",
+    "RatingDeviation": "81",
+    "Popularity": "94",
+    "NbPlays": "753",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/tVYBK06a/black#38",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "WpYEk",
+    "FEN": "r3k2r/pp2bppp/1q2pn2/2p5/2bP4/3BP1B1/PP3PPP/1R1QK2R w Kkq - 0 15",
+    "Moves": "d3c4 b6b4 e1e2 b4c4",
+    "Rating": "822",
+    "RatingDeviation": "81",
+    "Popularity": "97",
+    "NbPlays": "1938",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/6IgmvQMj#29",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "WpcfU",
+    "FEN": "r7/pb1q2kp/1p3Bp1/3pPr2/2p2P2/6Q1/PPn3PP/R3R1K1 b - - 1 20",
+    "Moves": "g7f7 e5e6 d7e6 e1e6",
+    "Rating": "886",
+    "RatingDeviation": "119",
+    "Popularity": "82",
+    "NbPlays": "26",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/IZWSx0nU/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Wpcwt",
+    "FEN": "1r2r1k1/pbp1qppp/1p2pn2/8/3P2NQ/2PB4/PP3PPP/R4RK1 b - - 5 16",
+    "Moves": "f6g4 h4h7 g8f8 h7h8",
+    "Rating": "975",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "2372",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/tHKFkRH4/black#32",
+    "OpeningTags": "French_Defense French_Defense_Rubinstein_Variation"
+  },
+  {
+    "PuzzleId": "Wpeym",
+    "FEN": "2r3k1/ppQ2ppp/6q1/5b2/6n1/BP1p4/P2N1PPP/4R1K1 b - - 0 23",
+    "Moves": "g6h6 c7c8 f5c8 e1e8",
+    "Rating": "809",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "942",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/tXyVkgmY/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Wpk2D",
+    "FEN": "r1bq1rk1/ppp2ppp/1nn2b2/8/1P1PN3/P2BP3/1BQ2PPP/R3K2R b KQ - 2 13",
+    "Moves": "c8f5 e4f6 d8f6 d3f5",
+    "Rating": "883",
+    "RatingDeviation": "93",
+    "Popularity": "93",
+    "NbPlays": "346",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/BGubIcgQ/black#26",
+    "OpeningTags": "Polish_Opening Polish_Opening_Bugayev_Attack"
+  },
+  {
+    "PuzzleId": "WpksH",
+    "FEN": "r3kb1r/1pBnp1p1/p6p/3P1p2/2P1b3/P4BP1/1q3P1P/R3QRK1 b kq - 0 18",
+    "Moves": "a8c8 f3h5 g7g6 h5g6",
+    "Rating": "949",
+    "RatingDeviation": "86",
+    "Popularity": "87",
+    "NbPlays": "1569",
+    "Themes": "bodenMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AkK0dKoq/black#36",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "WplUz",
+    "FEN": "r1b1k1nr/pp3ppp/4p3/6B1/2Pn4/2P5/P4PPP/2KR1BNR b kq - 0 11",
+    "Moves": "d4f5 d1d8",
+    "Rating": "604",
+    "RatingDeviation": "96",
+    "Popularity": "87",
+    "NbPlays": "269",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Nui73Org/black#22",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "WplwL",
+    "FEN": "2r3k1/1p3pbp/1q2p1p1/1P1n4/2BnN3/6Q1/5PPP/1R1R2K1 w - - 8 27",
+    "Moves": "c4d5 d4e2 g1h1 e2g3",
+    "Rating": "968",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "152",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/BFrm0M7L#53",
+    "OpeningTags": ""
+  }
+]

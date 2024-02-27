@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "3aOfR",
+    "FEN": "k3r3/pp2r3/1b1Q4/3R4/8/2P1qPP1/PP5P/1K1R4 b - - 2 30",
+    "Moves": "e3f3 d6d8 b6d8 d5d8 e8d8 d1d8",
+    "Rating": "675",
+    "RatingDeviation": "83",
+    "Popularity": "96",
+    "NbPlays": "2326",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/31LXAft5/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3aQmC",
+    "FEN": "r3kb1r/pb2np2/3ppq1p/2p3p1/2BnP3/2NP1PQN/PP4PP/R1B2RK1 w kq - 1 13",
+    "Moves": "c3b5 d4e2 g1h1 e2g3",
+    "Rating": "984",
+    "RatingDeviation": "83",
+    "Popularity": "70",
+    "NbPlays": "128",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Ef06YPcT#25",
+    "OpeningTags": "English_Opening English_Opening_Jaenisch_Gambit"
+  },
+  {
+    "PuzzleId": "3aRKc",
+    "FEN": "r4rk1/1pp3bp/3p2p1/p2N1P1n/4n2P/4B3/PPP1B3/2KR2R1 b - - 0 22",
+    "Moves": "f8f5 d5e7 g8h8 e7f5",
+    "Rating": "831",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "112",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/ptekXdOO/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3aUBq",
+    "FEN": "r1k1Rb1r/pp4p1/2n2n2/7p/2B2B2/2N5/PP3PPP/3R2K1 b - - 3 19",
+    "Moves": "f6e8 c4e6",
+    "Rating": "924",
+    "RatingDeviation": "125",
+    "Popularity": "57",
+    "NbPlays": "37",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/A0YDQd7A/black#38",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "3aUl8",
+    "FEN": "r1b4k/2p3b1/ppP1p1pp/1P1p2N1/5rQ1/4q2R/PB4PP/5R1K w - - 2 36",
+    "Moves": "h3e3 f4f1",
+    "Rating": "600",
+    "RatingDeviation": "99",
+    "Popularity": "74",
+    "NbPlays": "368",
+    "Themes": "backRankMate hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ipuESh8v#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3aVdY",
+    "FEN": "r2qb3/1pp1nRpk/1b1p3p/p6Q/2BPP1PN/2P4P/PP1N4/2K5 w - - 1 22",
+    "Moves": "f7g7 h7g7 h4f5 e7f5",
+    "Rating": "819",
+    "RatingDeviation": "91",
+    "Popularity": "89",
+    "NbPlays": "725",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/YkK8E8iW#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3aWSy",
+    "FEN": "2rq2k1/p4p1p/1p1r1np1/3p4/1PPQp3/4P1PP/P4PB1/2RR2K1 b - - 0 24",
+    "Moves": "d5c4 d4d6 d8d6 d1d6",
+    "Rating": "995",
+    "RatingDeviation": "87",
+    "Popularity": "82",
+    "NbPlays": "214",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/uMtqx4tE/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3aXp7",
+    "FEN": "3r3k/6pp/2B2p2/1pQ1p3/1P6/P5Pq/1BPr3P/R4RK1 w - - 17 33",
+    "Moves": "f1f2 d2d1 a1d1 d8d1 f2f1 d1f1",
+    "Rating": "966",
+    "RatingDeviation": "86",
+    "Popularity": "74",
+    "NbPlays": "113",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/AWyh9bGt#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3aYHT",
+    "FEN": "r1b2rk1/p4ppp/4p3/3p4/Q7/1PP2N1n/P5PP/RN2R1qK w - - 8 19",
+    "Moves": "e1g1 h3f2",
+    "Rating": "934",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "325",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/WRhiK6l8#37",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "OkIUp",
+    "FEN": "1kb1rr2/1p5q/pQ6/3P2b1/3Npp1p/1B5P/PP4P1/1K2RR2 b - - 1 31",
+    "Moves": "h7c7 d4c6 c7c6 d5c6",
+    "Rating": "1631",
+    "RatingDeviation": "145",
+    "Popularity": "65",
+    "NbPlays": "27",
+    "Themes": "crushing middlegame pin queensideAttack short",
+    "GameUrl": "https://lichess.org/VRXrJRV0/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OkJFD",
+    "FEN": "r5kr/ppp5/2nbbq2/3p2p1/7p/3PBP1P/PP2NNP1/R2Q1RK1 w - - 0 18",
+    "Moves": "f2g4 e6g4 f3g4 f6e5",
+    "Rating": "1630",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "2926",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Rl91ZEyU#35",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "OkJPK",
+    "FEN": "r1b2rk1/1pR2Npp/p3p3/3pP3/1n6/1P1n4/P5PP/1B3R1K b - - 0 21",
+    "Moves": "d3e5 f7h6 g7h6 b1h7 g8h8 f1f8",
+    "Rating": "1707",
+    "RatingDeviation": "79",
+    "Popularity": "96",
+    "NbPlays": "9536",
+    "Themes": "deflection kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/ra5htHBf/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OkK1x",
+    "FEN": "r1bq1rk1/4npbp/pp4pB/3pP3/3p4/1PN2N2/P2Q1PPP/R4RK1 w - - 0 17",
+    "Moves": "h6g7 d4c3 d2h6 e7f5 g7f8 f5h6",
+    "Rating": "1656",
+    "RatingDeviation": "81",
+    "Popularity": "55",
+    "NbPlays": "73",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/tvgDArqF#33",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "OkMAz",
+    "FEN": "4r1k1/1bq2ppp/2p5/2P2P2/2p3P1/2P1N2P/1P1Q4/r3K1RR w - - 2 27",
+    "Moves": "e1e2 a1g1 h1g1 c7h2 e2d1 h2g1",
+    "Rating": "1686",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "372",
+    "Themes": "attraction crushing exposedKing fork long middlegame pin",
+    "GameUrl": "https://lichess.org/KeyRZ6Q7#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OkOT0",
+    "FEN": "4r3/4nk1R/3Q1b2/p2P4/5p2/2p1q3/PP6/1K1R4 b - - 1 35",
+    "Moves": "f7g6 h7h6 g6h6 d6f6 h6h5 d1h1",
+    "Rating": "1790",
+    "RatingDeviation": "74",
+    "Popularity": "77",
+    "NbPlays": "157",
+    "Themes": "attraction crushing deflection exposedKing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/4dPCP5W3/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OkPbf",
+    "FEN": "1r3rk1/2p2pp1/2p4p/p4qnQ/8/2N5/PPP2PPP/3RR1K1 w - - 0 20",
+    "Moves": "h2h4 g5h3 g2h3 f5h5",
+    "Rating": "1695",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "67",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/oz75sIQn#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OkQmt",
+    "FEN": "3r1rk1/p1pq1ppp/2p5/2b5/4PPn1/2NP1R2/PP4PP/R1BQ3K w - - 5 16",
+    "Moves": "d1e2 d7d4 c1d2 g4f2 f3f2 d4f2 e2f2 c5f2",
+    "Rating": "1788",
+    "RatingDeviation": "79",
+    "Popularity": "69",
+    "NbPlays": "57",
+    "Themes": "advantage kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/sLrjLh0j#31",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "OkRkp",
+    "FEN": "8/p1q2r1k/1p2p1p1/3rP1Rp/Pb1P3Q/4BP2/5RKP/8 w - - 6 35",
+    "Moves": "g5g6 h7g6 h4g5 g6h7 g5h5 h7g8",
+    "Rating": "1785",
+    "RatingDeviation": "84",
+    "Popularity": "88",
+    "NbPlays": "48",
+    "Themes": "advantage hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/Uzx5lhmW#69",
+    "OpeningTags": ""
+  }
+]

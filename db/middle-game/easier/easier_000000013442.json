@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "esB0p",
+    "FEN": "1Q6/pb3ppk/7p/1N4r1/4n2q/2B2P1P/PPP3PK/3R1R2 w - - 1 24",
+    "Moves": "b8b7 h4g3 h2g1 g3g2",
+    "Rating": "1149",
+    "RatingDeviation": "126",
+    "Popularity": "62",
+    "NbPlays": "26",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/8U5NPWki#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "esBEa",
+    "FEN": "r1b1r1k1/pp5p/2p5/2Pp4/1P1PpPp1/P3P3/2QN1q1P/R2K3R w - - 3 26",
+    "Moves": "d2f1 f2f3 d1e1 f3h1",
+    "Rating": "1070",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "3153",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/b1pUGxn3#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "esBb3",
+    "FEN": "3q1rk1/R4pp1/4p2p/4P3/1br5/1Q5P/1B3PP1/5RK1 b - - 3 29",
+    "Moves": "d8b6 b3c4 b6a7 c4b4",
+    "Rating": "1044",
+    "RatingDeviation": "81",
+    "Popularity": "88",
+    "NbPlays": "85",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/EP4YzfTm/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "esDq3",
+    "FEN": "5rk1/ppp2ppp/8/4pP1q/2B1Pn2/3P1PQ1/PPP2RbK/R7 w - - 4 19",
+    "Moves": "h2g1 h5h1",
+    "Rating": "1067",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "163",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Kp7r6LGD#37",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "esGxx",
+    "FEN": "r3k3/p1pb1p2/2p1n1p1/3pr3/6Rq/2PQ1P2/PP1N3P/R5NK b q - 3 27",
+    "Moves": "e6f4 g4h4 f4d3 h4h8 e8e7 h8a8",
+    "Rating": "1115",
+    "RatingDeviation": "85",
+    "Popularity": "93",
+    "NbPlays": "1310",
+    "Themes": "advantage long middlegame skewer",
+    "GameUrl": "https://lichess.org/3D68NhlL/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "esIQW",
+    "FEN": "r3k2r/2q1bppp/p1n2n2/1pppN3/3P1Q2/2P5/PP3PPP/RNB2RK1 b kq - 0 13",
+    "Moves": "f6d7 f4f7",
+    "Rating": "1070",
+    "RatingDeviation": "292",
+    "Popularity": "-100",
+    "NbPlays": "2",
+    "Themes": "attackingF2F7 crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/PHUMN1tm/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "esJYD",
+    "FEN": "r4r1k/pbpn1p2/1p1p1q1P/3P3P/2P3Q1/8/PP1N4/2KR2R1 b - - 4 23",
+    "Moves": "d7e5 g4g7 f6g7 h6g7",
+    "Rating": "1022",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "2651",
+    "Themes": "advancedPawn crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/y24qwaQV/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "esLfz",
+    "FEN": "5rr1/ppp3kp/8/4bqNQ/8/8/PPP2PPP/3RR1K1 w - - 10 21",
+    "Moves": "e1e5 f5f2 g1h1 f2f1 d1f1 f8f1",
+    "Rating": "1029",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "103",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/riJqQxIc#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "esLu4",
+    "FEN": "3qk2r/p1pb1N2/6p1/2b1p3/4P3/3P4/PPPQ2PP/R4RK1 w k - 1 21",
+    "Moves": "g1h1 h8h2 h1h2 d8h4",
+    "Rating": "1193",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "2558",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/CQg0yeAv#41",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "rVJGb",
+    "FEN": "r2b1rk1/2q3p1/p3p2Q/1p1pp3/1P1P4/P1P3R1/6PP/5RK1 b - - 0 28",
+    "Moves": "f8f6 f1f6 d8f6 h6f6",
+    "Rating": "1461",
+    "RatingDeviation": "285",
+    "Popularity": "100",
+    "NbPlays": "7",
+    "Themes": "equality middlegame pin short",
+    "GameUrl": "https://lichess.org/8eV55tb7/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rVM8D",
+    "FEN": "2qn1rk1/pb4pp/4p3/2b1Pp2/1pBN1P2/1Q2B3/P5PP/3R2K1 w - - 0 24",
+    "Moves": "d4f5 f8f5 e3c5 c8c5",
+    "Rating": "1572",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "5390",
+    "Themes": "advantage hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/5EMcvSBc#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rVN8r",
+    "FEN": "1Q3k1r/p3q1p1/1b3p2/1N6/2B1b1p1/8/PP3PP1/R5K1 b - - 2 25",
+    "Moves": "e7e8 b8e8 f8e8 b5d6 e8d7 d6e4",
+    "Rating": "1559",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "7359",
+    "Themes": "attraction crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/vwcfAJrv/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rVNa7",
+    "FEN": "r4r1k/1p2bqp1/p1p5/3p3p/8/2P2NQP/PP3PP1/1R3RK1 b - - 1 25",
+    "Moves": "a8d8 f3e5 f7f6 e5g6 h8h7 g6f8",
+    "Rating": "1520",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "3678",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/m40zs6xH/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rVOop",
+    "FEN": "3rk3/1q2r3/3pQ3/2pNn2p/4P1nP/8/PP6/R2R2BK w - - 0 35",
+    "Moves": "d5e7 b7e4",
+    "Rating": "1458",
+    "RatingDeviation": "91",
+    "Popularity": "68",
+    "NbPlays": "119",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/v5yZZX9A#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rVUBC",
+    "FEN": "1k1r2nr/pppQ4/2n2p1p/6p1/2q2P2/2N5/PPP3PP/3RR1K1 b - - 1 18",
+    "Moves": "d8d7 e1e8 c6d8 e8d8 d7d8 d1d8",
+    "Rating": "1500",
+    "RatingDeviation": "84",
+    "Popularity": "84",
+    "NbPlays": "465",
+    "Themes": "backRankMate long mate mateIn3 middlegame xRayAttack",
+    "GameUrl": "https://lichess.org/bOkNTCUj/black#36",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "rVUHp",
+    "FEN": "r1b1k2r/ppp1bpp1/7q/3P4/1PN2Pp1/2PB4/P2BQ1P1/R4RK1 w kq - 1 20",
+    "Moves": "g2g3 h6h1 g1f2 h8h2 f2e3 h2e2",
+    "Rating": "1494",
+    "RatingDeviation": "76",
+    "Popularity": "72",
+    "NbPlays": "166",
+    "Themes": "crushing exposedKing kingsideAttack long master middlegame skewer",
+    "GameUrl": "https://lichess.org/Sxjft6F3#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rVVp6",
+    "FEN": "1qk4r/1r4p1/Q1p1pp2/1nP5/1B2B3/8/1P3PPP/R4RK1 w - - 3 31",
+    "Moves": "e4c6 b8h2",
+    "Rating": "1417",
+    "RatingDeviation": "85",
+    "Popularity": "84",
+    "NbPlays": "891",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/c1EFoGWS#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rVXch",
+    "FEN": "r2qr1k1/1ppn1pp1/2np1b2/p5N1/2P4P/P1NPB3/1P2QPK1/R6R b - - 0 19",
+    "Moves": "f6g5 h4g5 d8g5 e3g5 e8e2 c3e2",
+    "Rating": "1571",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "1138",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/xg4tFH3N/black#38",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Two_Pawn_Attack"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "E719x",
+    "FEN": "rn2k2r/pp2pp1p/6p1/4b3/2P3Q1/2Pq1N2/P2B2PP/R3K2R b KQkq - 3 13",
+    "Moves": "e5c3 g4c8 d3d8 c8d8 e8d8 d2c3",
+    "Rating": "1262",
+    "RatingDeviation": "264",
+    "Popularity": "67",
+    "NbPlays": "5",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/6BENbRhQ/black#26",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Four_Pawns_Attack"
+  },
+  {
+    "PuzzleId": "E73Ts",
+    "FEN": "r7/p1pn1p1p/2q2nk1/8/3Qpp2/6P1/P1PR1P1P/4KB1R w K - 3 19",
+    "Moves": "f1h3 e4e3 e1g1 e3d2",
+    "Rating": "1219",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "3156",
+    "Themes": "advancedPawn advantage middlegame short",
+    "GameUrl": "https://lichess.org/iyVavReN#37",
+    "OpeningTags": "Elephant_Gambit Elephant_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "E74lq",
+    "FEN": "r4rk1/p2b1ppp/2nqp3/1p1n4/8/PP1P1NP1/1B3PBP/R2Q1RK1 w - - 0 16",
+    "Moves": "b2e5 c6e5 f3e5 d6e5",
+    "Rating": "1257",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "4993",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/O0OX8fAr#31",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "E75C6",
+    "FEN": "1kB5/pb5p/1p4PQ/4p1P1/n2p3P/1P1P4/4NR2/1q1K1R2 w - - 2 31",
+    "Moves": "e2c1 a4c3 d1d2 b1b2 d2e1 b2c1",
+    "Rating": "1374",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "768",
+    "Themes": "deflection exposedKing interference long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/84HAv2qq#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "E76NW",
+    "FEN": "r3qr1k/7p/p2p2p1/1p1Q1b2/8/P2P3P/1P2BPP1/2R1K2R w K - 0 28",
+    "Moves": "c1c6 f5d3 d5d3 e8c6 d3d4 h8g8",
+    "Rating": "1255",
+    "RatingDeviation": "81",
+    "Popularity": "50",
+    "NbPlays": "48",
+    "Themes": "advantage deflection long middlegame pin",
+    "GameUrl": "https://lichess.org/v1txbLjs#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "E77US",
+    "FEN": "4k2r/p1pp1p1p/bp4pB/4P3/1b2B1Q1/8/PqP2PPP/2R1K2R w Kk - 2 16",
+    "Moves": "e1d1 b2d4 e4d3 d4g4",
+    "Rating": "1219",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "10444",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/I7WoeLBt#31",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "E7BPV",
+    "FEN": "r2q1rk1/1pp3bp/p2p2p1/3Ppn2/2P1N3/4Q2P/PP2N3/2KR1B1R w - - 1 16",
+    "Moves": "e3d2 g7h6 d2h6 f5h6",
+    "Rating": "1221",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "4731",
+    "Themes": "crushing master masterVsMaster middlegame pin short",
+    "GameUrl": "https://lichess.org/4uUoe5Zo#31",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "E7E7X",
+    "FEN": "r2q1rk1/1pp1nppp/p2p4/3B4/Q2PP3/4B2P/P4P2/R4K1R w - - 1 19",
+    "Moves": "d5c4 b7b5 c4b5 a6b5",
+    "Rating": "1322",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1938",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/43PNW1hi#37",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Classical_Variation"
+  },
+  {
+    "PuzzleId": "E7EZH",
+    "FEN": "r2r3k/1b2bppp/p3p3/3qP3/2p2N2/2Pp1PQP/PP1B2P1/R4RK1 b - - 1 20",
+    "Moves": "d5e5 f4g6 h7g6 g3e5",
+    "Rating": "1263",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "4241",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/8YFuGB8r/black#40",
+    "OpeningTags": ""
+  }
+]

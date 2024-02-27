@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ikp2b",
+    "FEN": "2rqk2r/pp2p1bp/5pp1/3p1b2/2nP1B2/2N2N2/PPP1QPPP/2KRR3 b k - 3 14",
+    "Moves": "d8a5 e2e7",
+    "Rating": "839",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "107",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/8QL3kgO3/black#28",
+    "OpeningTags": "Modern_Defense Modern_Defense_Standard_Line"
+  },
+  {
+    "PuzzleId": "ikpnx",
+    "FEN": "2r4k/6pp/p7/3Q4/5r2/6N1/PP2nPPq/R4R1K w - - 0 26",
+    "Moves": "h1h2 f4h4",
+    "Rating": "811",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "153",
+    "Themes": "anastasiaMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/GDNYQ98Y#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ikrRn",
+    "FEN": "2rr2k1/1p3pp1/pPn2P1p/4p3/8/6QP/BP3PP1/2b3K1 b - - 0 28",
+    "Moves": "c1f4 g3g7",
+    "Rating": "730",
+    "RatingDeviation": "85",
+    "Popularity": "81",
+    "NbPlays": "546",
+    "Themes": "endgame kingsideAttack mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/70dLIE4N/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ikrSr",
+    "FEN": "r4rk1/1p3ppp/p7/4n1NQ/5q2/3p3P/PPB2PP1/2n2RK1 b - - 1 24",
+    "Moves": "e5g6 h5h7",
+    "Rating": "987",
+    "RatingDeviation": "87",
+    "Popularity": "52",
+    "NbPlays": "50",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/oEZljpuP/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ikt9Y",
+    "FEN": "8/ppp2R2/1b5p/5P1P/4B2k/1P3P2/P1P3KP/2r5 w - - 1 29",
+    "Moves": "f7g7 c1g1",
+    "Rating": "967",
+    "RatingDeviation": "98",
+    "Popularity": "94",
+    "NbPlays": "410",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/DjErxCa1#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ikucY",
+    "FEN": "5k2/7p/4BQp1/p2pP3/1b3P2/5b1P/5qPK/8 b - - 0 40",
+    "Moves": "f8e8 f6f7 e8d8 f7d7",
+    "Rating": "960",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "282",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/0MERXrcV/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ikuxo",
+    "FEN": "6k1/1R3pp1/2p1pn1p/2Pp4/3P1P2/r1NBPKP1/7P/8 b - - 0 26",
+    "Moves": "a3c3 b7b8 f6e8 b8e8",
+    "Rating": "844",
+    "RatingDeviation": "93",
+    "Popularity": "88",
+    "NbPlays": "324",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/RoSDBRuB/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ikvPV",
+    "FEN": "r1b1r1k1/pp1nqppp/2p5/3pN3/8/2NP2Q1/PPP2PPP/R3R1K1 w - - 2 15",
+    "Moves": "e5c6 e7e1 a1e1 e8e1",
+    "Rating": "591",
+    "RatingDeviation": "92",
+    "Popularity": "83",
+    "NbPlays": "138",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/yCrA2Gpi#29",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Spanish_Variation"
+  },
+  {
+    "PuzzleId": "ikvja",
+    "FEN": "r3k2r/ppp2pp1/2p5/2b5/4P3/2NP1bPq/PPP2PQp/R1B2R1K w kq - 6 15",
+    "Moves": "g2f3 h3f1",
+    "Rating": "735",
+    "RatingDeviation": "87",
+    "Popularity": "85",
+    "NbPlays": "484",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/qj5U8STK#29",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  }
+]

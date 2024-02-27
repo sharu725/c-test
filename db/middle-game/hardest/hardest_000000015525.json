@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "WDAFT",
+    "FEN": "2b1nqk1/5r1p/2p1p1pR/1p2P3/2pPP1KQ/P7/4N2P/2B5 b - - 4 33",
+    "Moves": "f7f1 h6h7 e8f6 e5f6 e6e5 g4g3 f8f6 h4f6",
+    "Rating": "2284",
+    "RatingDeviation": "80",
+    "Popularity": "90",
+    "NbPlays": "1310",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/f0F3I2ts/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WDBy0",
+    "FEN": "2r5/p4q2/PpN1p1nk/1P2P2p/8/B2Q4/2R2Pr1/5K2 b - - 1 37",
+    "Moves": "g2g4 c6d8 c8d8 d3d8 g6f4 d8f6 f7f6 e5f6",
+    "Rating": "2325",
+    "RatingDeviation": "107",
+    "Popularity": "21",
+    "NbPlays": "20",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/TD38tGOo/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WDCKh",
+    "FEN": "2r2rk1/pp1b4/4p3/2q1Pp2/2BQ1Rp1/3P4/PP4PP/1R4K1 b - - 0 23",
+    "Moves": "c5d4 f4d4 b7b5 c4b3",
+    "Rating": "2053",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "651",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/bUiBHjLo/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WDET9",
+    "FEN": "r2q3k/2p2B1p/3p4/pp3br1/3P4/P1Q4P/1P4P1/R4RK1 b - - 2 25",
+    "Moves": "d6d5 h3h4 g5g2 g1g2",
+    "Rating": "2120",
+    "RatingDeviation": "110",
+    "Popularity": "64",
+    "NbPlays": "30",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/1SsipGsh/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WDFTI",
+    "FEN": "2kr1b1r/pp3p2/2p4p/3N2p1/8/q6P/P1PBQPP1/1R3RK1 b - - 0 19",
+    "Moves": "c6d5 b1b7 c8b7 e2b5 b7c7 d2a5 a3a5 b5a5",
+    "Rating": "2319",
+    "RatingDeviation": "107",
+    "Popularity": "85",
+    "NbPlays": "40",
+    "Themes": "attraction crushing middlegame queensideAttack sacrifice veryLong",
+    "GameUrl": "https://lichess.org/ewsQ6YKZ/black#38",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "WDFeP",
+    "FEN": "3q1rk1/5ppp/3bp3/p2p3n/3P3n/P1N1P2P/1r3PPN/R1BQR1K1 b - - 1 21",
+    "Moves": "b2b3 d1b3 d8g5 h2g4",
+    "Rating": "2265",
+    "RatingDeviation": "82",
+    "Popularity": "90",
+    "NbPlays": "1558",
+    "Themes": "advantage defensiveMove hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/jiUJwn8N/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WDFnl",
+    "FEN": "r1b1Q3/pp4qk/2p1p2r/5p2/3P1Pn1/2PB1R1P/P5P1/4R2K b - - 0 26",
+    "Moves": "b7b5 d3f5 e6f5 e1e7 h6e6 e8h5 g4h6 e7g7",
+    "Rating": "2360",
+    "RatingDeviation": "92",
+    "Popularity": "89",
+    "NbPlays": "518",
+    "Themes": "advantage exposedKing middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/q759lnYH/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WDG2c",
+    "FEN": "r4r2/6kb/p2q2pp/3p4/2pPpPP1/2P1N3/PP1Q1R2/6RK b - - 0 28",
+    "Moves": "f8f4 f2f4 d6f4 e3f5 f4f5 g4f5",
+    "Rating": "2165",
+    "RatingDeviation": "76",
+    "Popularity": "75",
+    "NbPlays": "152",
+    "Themes": "crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/fr2INNbl/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "WDGyx",
+    "FEN": "r2q1rk1/ppp1bp2/4b3/4R2Q/8/2N5/PP3PPP/R5K1 b - - 0 19",
+    "Moves": "e7f6 a1d1 d8d1 c3d1 f6e5 h5e5",
+    "Rating": "2090",
+    "RatingDeviation": "83",
+    "Popularity": "83",
+    "NbPlays": "60",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/s1v5NZe4/black#38",
+    "OpeningTags": "Scotch_Game Scotch_Game_Benima_Defense"
+  }
+]

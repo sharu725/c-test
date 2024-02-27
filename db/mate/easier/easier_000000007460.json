@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SAhys",
+    "FEN": "1r3r1k/p1p3pp/b1B5/3p4/3P1p2/5Q2/PP2RKP1/R1Bq4 w - - 5 23",
+    "Moves": "e2d2 d1f1",
+    "Rating": "1190",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "484",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/xGQO7FZK#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SAi1B",
+    "FEN": "5r1k/5r2/p2p2Rp/1p2p3/1P6/5Q1N/P7/6RK b - - 0 41",
+    "Moves": "f7f3 g6h6",
+    "Rating": "1154",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1840",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/VEUaFQN1/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SAiwu",
+    "FEN": "1rbqkb1r/2N2ppp/2np4/3Np3/4P3/8/PPP2PPP/R2QK2R b KQk - 2 14",
+    "Moves": "e8d7 d1g4 f7f5 g4f5",
+    "Rating": "1045",
+    "RatingDeviation": "82",
+    "Popularity": "93",
+    "NbPlays": "708",
+    "Themes": "mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/jwK4ZkfC/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  },
+  {
+    "PuzzleId": "SAkBk",
+    "FEN": "8/2p2pp1/Kpk1P3/6p1/7r/8/PPPn1P1P/4R2R w - - 0 29",
+    "Moves": "e6e7 h4a4",
+    "Rating": "1087",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "360",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/3Z1h49TQ#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SAmsJ",
+    "FEN": "2r3k1/p5p1/3q1b1p/4p3/7P/2N2P2/PP1B4/RKR1Q3 w - - 2 33",
+    "Moves": "c3e4 d6d3 c1c2 d3c2",
+    "Rating": "1189",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "6307",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/VHcUGdJs#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SAn7j",
+    "FEN": "7r/p2Nk1pp/4R3/2Nn4/Pr6/7P/2p2PP1/6K1 b - - 0 30",
+    "Moves": "e7f7 d7e5 f7f8 c5d7 f8g8 e6e8",
+    "Rating": "1102",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "761",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/s1QfQG8L/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SAqPd",
+    "FEN": "3r2k1/PR3p2/6pK/7p/8/r7/8/8 b - - 0 35",
+    "Moves": "d8a8 b7b8 a8b8 a7b8q",
+    "Rating": "1103",
+    "RatingDeviation": "130",
+    "Popularity": "43",
+    "NbPlays": "26",
+    "Themes": "advancedPawn endgame mate mateIn2 promotion rookEndgame short",
+    "GameUrl": "https://lichess.org/DSX0RO79/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SAqfK",
+    "FEN": "r2q1rk1/ppp1bppp/4p3/3pP3/2nP1Pb1/2PQBN2/PPB3PP/R4RK1 b - - 1 14",
+    "Moves": "c4b2 d3h7",
+    "Rating": "1051",
+    "RatingDeviation": "78",
+    "Popularity": "85",
+    "NbPlays": "102",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/95mrCTZE/black#28",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "SArGb",
+    "FEN": "r1b2k1r/1pppnp1p/p1nb1Np1/4p3/P1BPP3/5N2/1PP2PPP/R1B1K2R b KQ - 0 10",
+    "Moves": "c6d4 c1h6",
+    "Rating": "1121",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "242",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/qsKRHrDn/black#20",
+    "OpeningTags": "Vienna_Game Vienna_Game_Other_variations"
+  }
+]

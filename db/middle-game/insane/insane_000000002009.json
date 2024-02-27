@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "B162M",
+    "FEN": "r1bk2nr/pp1n2pp/2p1Q3/4p1N1/3qP3/8/P4PPP/R2R2K1 b - - 9 18",
+    "Moves": "d4c5 e6f7 c5e7 g5e6 e7e6 f7e6",
+    "Rating": "2516",
+    "RatingDeviation": "82",
+    "Popularity": "89",
+    "NbPlays": "100",
+    "Themes": "advantage exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/93obEUS9/black#36",
+    "OpeningTags": "Vienna_Game Vienna_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "B17RA",
+    "FEN": "r1bq1rk1/p6p/2p3p1/2bpPpR1/5P2/2NB3Q/PPP4P/R6K b - - 3 19",
+    "Moves": "d5d4 h3h6 g8h8 g5g6 f8g8 g6g8",
+    "Rating": "2575",
+    "RatingDeviation": "82",
+    "Popularity": "84",
+    "NbPlays": "65",
+    "Themes": "crushing kingsideAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/BSV5Z85e/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Four_Knights_Variation"
+  },
+  {
+    "PuzzleId": "B1A4K",
+    "FEN": "2kr3r/ppp2p2/3qp3/7B/3P2n1/4P3/PP3PPP/2RQ1R1K w - - 3 20",
+    "Moves": "c1c7 d6c7 d1g4 d8d5",
+    "Rating": "2645",
+    "RatingDeviation": "89",
+    "Popularity": "90",
+    "NbPlays": "1106",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Zhvmtozm#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "B1HYW",
+    "FEN": "r1b3k1/pp1pQrb1/1q4pp/2n1P3/2BpNP2/8/PPn3PP/R1B2R1K b - - 0 15",
+    "Moves": "c5e6 e7e8 f7f8 e8g6 d7d5 e4f6 f8f6 e5f6",
+    "Rating": "2545",
+    "RatingDeviation": "113",
+    "Popularity": "90",
+    "NbPlays": "362",
+    "Themes": "crushing exposedKing kingsideAttack middlegame skewer veryLong",
+    "GameUrl": "https://lichess.org/V8VBYz8H/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Halasz_Gambit"
+  },
+  {
+    "PuzzleId": "B1K4u",
+    "FEN": "3r1rk1/pp1nq1p1/4pnQp/4B3/2Pp1P2/1P6/P1B3PP/3R1RK1 w - - 0 22",
+    "Moves": "d1d4 d7e5 f4e5 e7c5 g1h1 c5d4 e5f6 f8f6 g6h7 g8f8",
+    "Rating": "2780",
+    "RatingDeviation": "117",
+    "Popularity": "91",
+    "NbPlays": "878",
+    "Themes": "advantage middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/bDXh1DTS#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "B1Onk",
+    "FEN": "5rr1/pkp4p/2q5/3nQ3/3P4/P7/1PP2PPP/R1B2RK1 w - - 1 23",
+    "Moves": "c2c4 d5f4 e5b5 c6b5 c4b5 f4h3 g1h1 h3f2 f1f2 f8f2",
+    "Rating": "2673",
+    "RatingDeviation": "98",
+    "Popularity": "86",
+    "NbPlays": "354",
+    "Themes": "advantage deflection kingsideAttack middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/ucLc4xHj#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "B1V9Z",
+    "FEN": "3q1rk1/1p1bppbp/p2p2p1/P1rP4/3NP3/3QBP2/1P4PP/R2R2K1 w - - 1 17",
+    "Moves": "d4e6 f7e6 e3c5 d6c5 d5e6 g7d4",
+    "Rating": "2467",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "3541",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/xOZjr7Pe#33",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Samisch_Variation"
+  },
+  {
+    "PuzzleId": "B1WT9",
+    "FEN": "r1b3k1/1p3p1p/p5pB/3Qp3/8/2P5/PP2Bq2/R2K2b1 b - - 3 26",
+    "Moves": "c8e6 d5e5 a8d8 d1c1 f2e1 c1c2 g1d4 e5e6",
+    "Rating": "2692",
+    "RatingDeviation": "89",
+    "Popularity": "92",
+    "NbPlays": "424",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/jtWSLxbs/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "B1bYc",
+    "FEN": "r2qr1k1/5p1p/p1bp2PB/1p1N4/4P2b/5Q2/PPB5/R6K b - - 0 25",
+    "Moves": "c6d5 g6h7 g8h8 a1g1 d8f6 h6g7 f6g7 g1g7 h8g7 f3g4 g7h8 g4h4",
+    "Rating": "2660",
+    "RatingDeviation": "92",
+    "Popularity": "82",
+    "NbPlays": "88",
+    "Themes": "advancedPawn attraction crushing fork middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/1Ggnqhvf/black#50",
+    "OpeningTags": ""
+  }
+]

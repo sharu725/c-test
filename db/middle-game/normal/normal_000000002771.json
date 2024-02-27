@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "86uNT",
+    "FEN": "r1b5/ppp2kp1/2np1q1p/2b1p3/4P3/3PB3/PPP2PPP/R2Q1RK1 b - - 1 12",
+    "Moves": "c5e3 f2e3 f7g6 f1f6",
+    "Rating": "1395",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "246",
+    "Themes": "crushing discoveredAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/AiJcogu2/black#24",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "86uXm",
+    "FEN": "2k1r2r/2qb1R1p/4p1p1/ppnpP3/3Q2BP/P1N5/1PP3P1/2K2R2 w - - 0 24",
+    "Moves": "c3b5 c5b3 c1b1 b3d4 b5c7 c8c7",
+    "Rating": "1315",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "9490",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/WZLYJhn2#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "86vcM",
+    "FEN": "2k4r/1p3p1q/p1n1p2r/3p1p2/3P2P1/PP2PQP1/5PB1/2R2RK1 w - - 1 25",
+    "Moves": "g4g5 h6h1 g2h1 h7h2",
+    "Rating": "1323",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "2034",
+    "Themes": "clearance kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/MJ7wUnEu#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "86vjS",
+    "FEN": "r6k/p5pp/4q3/P3bp2/3Pp3/B7/P3QPP1/RN1R2Kr w - - 3 26",
+    "Moves": "g1h1 e6h6 h1g1 h6h2 g1f1 h2h1",
+    "Rating": "1202",
+    "RatingDeviation": "84",
+    "Popularity": "87",
+    "NbPlays": "45",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/toTIGTIN#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "86y3O",
+    "FEN": "r5k1/1bpq4/1p2rb2/pP3pnp/P1P3p1/4P1P1/1B2BP1P/1R1Q1RK1 w - - 0 23",
+    "Moves": "d1d7 g5h3",
+    "Rating": "1355",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "97",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/opPULmDO#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "86yHF",
+    "FEN": "5rk1/p1q2p1p/2p3p1/1p1r3n/4N3/2QR4/PPP2PPP/3R2K1 b - - 1 23",
+    "Moves": "f8d8 d3d5 d8d5 d1d5",
+    "Rating": "1303",
+    "RatingDeviation": "83",
+    "Popularity": "81",
+    "NbPlays": "61",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/w2DdlHpw/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "87000",
+    "FEN": "r2q1rk1/2p3p1/p1nbRn1p/1p6/8/P1N2N1P/1PP2PP1/R1BQ2K1 w - - 1 16",
+    "Moves": "c3d5 f6d5",
+    "Rating": "1262",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "377",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/9u8Jn5RO#31",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "873A1",
+    "FEN": "2r3k1/3nqpp1/7p/3pPN2/1ppP1Q2/r4P2/P4P1P/R4RK1 b - - 1 26",
+    "Moves": "e7g5 f4g5 h6g5 f5e7",
+    "Rating": "1233",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "205",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/n7mjDsoY/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "873Rn",
+    "FEN": "r1b1r1k1/ppp1bppp/2n3q1/4p3/2Pp2B1/P2P3P/1P3PPN/R1BQ1RK1 b - - 4 13",
+    "Moves": "f7f5 g4h5 g6d6 h5e8",
+    "Rating": "1231",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "3516",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/PNecjpQR/black#26",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "U7yb8",
+    "FEN": "rn1q2k1/pp4pp/2p5/5bb1/4N3/1PQ2rP1/PB1P1P1P/1R3RK1 b - - 3 18",
+    "Moves": "f5e4 c3g7",
+    "Rating": "1054",
+    "RatingDeviation": "139",
+    "Popularity": "100",
+    "NbPlays": "10",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/7YmjmBX5/black#36",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "U80K6",
+    "FEN": "2r2r1k/ppq3bp/3p4/3P1p2/4Q3/5N1P/PP3P2/1K1RR3 w - - 0 22",
+    "Moves": "e4e3 c7c2 b1a1 c2b2",
+    "Rating": "1109",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1542",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/FEA8vBw2#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "U8114",
+    "FEN": "5k2/1p2q1r1/p2r1nnQ/2B5/1PB1p1p1/P3P1P1/5P1P/2KR4 b - - 1 33",
+    "Moves": "d6d1 c1d1 e7c5 b4c5",
+    "Rating": "1084",
+    "RatingDeviation": "82",
+    "Popularity": "81",
+    "NbPlays": "68",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/mYLaRwU6/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "U84pn",
+    "FEN": "rn1qk2r/pb2bppp/1p1p1n2/2p1p1B1/2P1P3/2NP1N2/PP2BPPP/R2Q1RK1 w kq - 0 9",
+    "Moves": "c3d5 f6d5 c4d5 e7g5",
+    "Rating": "1188",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "230",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/WtXPR8BW#17",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "U87ov",
+    "FEN": "3r2k1/p4ppp/2n1qn2/2p2b2/8/Pr2PN2/1B2BPPP/R1Q2RK1 b - - 11 19",
+    "Moves": "f6e4 e2c4 e6c4 c1c4",
+    "Rating": "1196",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1408",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/EPTw13dr/black#38",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "U89Hn",
+    "FEN": "3r1nk1/1b2r3/1pq1Pp1p/p1p3bQ/2P3R1/6P1/P4PBP/3R2K1 w - - 2 26",
+    "Moves": "g2c6 d8d1 g1g2 b7c6",
+    "Rating": "1061",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "465",
+    "Themes": "crushing hangingPiece intermezzo master middlegame short",
+    "GameUrl": "https://lichess.org/qPB6ERmF#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "U8ATp",
+    "FEN": "2rq1rk1/5pbp/1p2pnp1/1N1p4/Pp1P4/4P1P1/1Q3PBP/2R2RK1 b - - 1 17",
+    "Moves": "f8e8 c1c8 d8c8 b5d6 c8c6 d6e8",
+    "Rating": "1194",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "1378",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/vhAyNQH7/black#34",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "U8DI9",
+    "FEN": "r4rk1/2p2ppp/b1p1q3/p3p3/2P1P2B/8/PPP1QPPP/2KR3R w - - 2 14",
+    "Moves": "b2b3 e6h6 c1b1 h6h4",
+    "Rating": "1027",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "1080",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/imfrqcs8#27",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "U8Dn2",
+    "FEN": "1rb2rk1/5ppp/p1n1q3/1p6/7Q/P4B2/1PP2PPP/2KRR3 b - - 2 19",
+    "Moves": "e6h6 h4h6 g7h6 f3c6",
+    "Rating": "1108",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "1694",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/qmTpuGDO/black#38",
+    "OpeningTags": "French_Defense French_Defense_Classical_Variation"
+  }
+]

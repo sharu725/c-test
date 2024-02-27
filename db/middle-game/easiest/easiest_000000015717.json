@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "kmKms",
+    "FEN": "5r2/p1bq1B2/n1pkRQ2/1p1p2p1/3P4/8/PPP2PPP/R5K1 b - - 0 23",
+    "Moves": "d7e6 f6e6",
+    "Rating": "914",
+    "RatingDeviation": "103",
+    "Popularity": "95",
+    "NbPlays": "663",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/T9YYxLza/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kmLaT",
+    "FEN": "r2q4/1Q4pk/6bp/8/3B3P/8/PPn2PP1/2R3K1 b - - 0 31",
+    "Moves": "a8b8 b7g7",
+    "Rating": "829",
+    "RatingDeviation": "96",
+    "Popularity": "94",
+    "NbPlays": "499",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/C49pGHpl/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kmLuA",
+    "FEN": "5rk1/ppp2pp1/2n1b1qp/4p3/4Pn2/N1Pr1N1P/PPQ2PPK/R3RB2 w - - 8 18",
+    "Moves": "f1d3 g6g2",
+    "Rating": "916",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "103",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/VUsi1G3I#35",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kmOKR",
+    "FEN": "6rk/p1pqR1rp/2p2Q2/2bp2N1/5p2/2P5/PP3PPP/4R1K1 b - - 11 26",
+    "Moves": "c5e7 g5f7",
+    "Rating": "990",
+    "RatingDeviation": "84",
+    "Popularity": "91",
+    "NbPlays": "954",
+    "Themes": "master mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/q118EmX3/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kmONH",
+    "FEN": "r4r1k/p2p2qp/1p2Pp1n/7Q/3P4/P4p1P/BP3P2/R3R1K1 w - - 2 26",
+    "Moves": "g1h1 g7g2",
+    "Rating": "885",
+    "RatingDeviation": "79",
+    "Popularity": "74",
+    "NbPlays": "109",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/OUbyBiKP#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kmOPA",
+    "FEN": "r3k3/pp2p3/n1pqpp2/6rN/3P1P2/2PQ2P1/PP5P/R3K2R b KQq - 0 18",
+    "Moves": "g5h5 d3g6 e8d7 g6h5",
+    "Rating": "721",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "1080",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/SttQmkhO/black#36",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "kmRMJ",
+    "FEN": "r5k1/3q2b1/2b5/1p2p1P1/3pPp2/3P4/1P1NQ3/3R1BK1 w - - 2 35",
+    "Moves": "e2h2 d7g4 h2g2 g4d1",
+    "Rating": "966",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "1075",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/RxClLjbm#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kmRWm",
+    "FEN": "r1bqr1k1/5ppp/pnpb4/1pp5/2P1P3/3QNN1P/PP3PP1/R1B1R1K1 w - - 2 15",
+    "Moves": "b2b3 d6h2 f3h2 d8d3",
+    "Rating": "934",
+    "RatingDeviation": "78",
+    "Popularity": "97",
+    "NbPlays": "4615",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/48MBZSIY#29",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "kmSYS",
+    "FEN": "r3q1k1/1p3ppp/p7/2pN1b2/5B2/3P4/PPP2PPP/R2K3R b - - 0 15",
+    "Moves": "e8c6 d5e7 g8h8 e7c6",
+    "Rating": "909",
+    "RatingDeviation": "92",
+    "Popularity": "33",
+    "NbPlays": "49",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/DakIKtuf/black#30",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  }
+]

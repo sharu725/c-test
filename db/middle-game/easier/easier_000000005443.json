@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "GW4DX",
+    "FEN": "r3q1k1/p1pnr1pp/8/2NR4/3Q4/1P6/P1P2PPP/R5K1 w - - 1 23",
+    "Moves": "c5d7 e7e1 a1e1 e8e1",
+    "Rating": "1087",
+    "RatingDeviation": "86",
+    "Popularity": "72",
+    "NbPlays": "99",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/dLLAw63f#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GW4Yl",
+    "FEN": "3r1r1k/ppp2pp1/1b3N1p/4PP2/8/5KP1/PnP4R/7R b - - 0 24",
+    "Moves": "d8d4 h2h6 g7h6 h1h6 h8g7 h6h7",
+    "Rating": "1185",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "6115",
+    "Themes": "hookMate kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/kAPGGPeF/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GW4aE",
+    "FEN": "2r2rk1/3b1ppp/4pb2/p3N3/4Q3/PqP5/5PPP/B1R2RK1 b - - 6 21",
+    "Moves": "b3d5 e4d5 e6d5 e5d7",
+    "Rating": "1141",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "8088",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/YcO9XZFX/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GW4t7",
+    "FEN": "r4rk1/pp1q1p1p/2nb2p1/3Q2N1/3P4/2P2p1P/PB3PP1/R3R1K1 w - - 0 19",
+    "Moves": "g5f3 d6h2 f3h2 d7d5",
+    "Rating": "1121",
+    "RatingDeviation": "79",
+    "Popularity": "65",
+    "NbPlays": "148",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/2ZAolpiU#37",
+    "OpeningTags": "Slav_Defense Slav_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "GW5HS",
+    "FEN": "2kr2nr/ppp1bQ1p/2n3p1/3pP3/3P4/2P1B3/PP2B1q1/RN1K2R1 b - - 1 15",
+    "Moves": "g2h3 e2g4 h3g4 g1g4",
+    "Rating": "1023",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2696",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/joLPoWJy/black#30",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Cunningham_Defense"
+  },
+  {
+    "PuzzleId": "GW605",
+    "FEN": "r4rk1/1Rb3p1/p1pq1np1/3p2P1/3P4/2N1Q2P/P1PB4/5RK1 w - - 1 25",
+    "Moves": "g5f6 d6h2",
+    "Rating": "1029",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "256",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/zClmANtc#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GW6sZ",
+    "FEN": "r3kb1r/ppp2ppp/8/1BqNPb2/5B2/5P2/PPP3PP/R3K2R b KQkq - 2 12",
+    "Moves": "c5b5 d5c7 e8d8 c7b5",
+    "Rating": "1183",
+    "RatingDeviation": "104",
+    "Popularity": "60",
+    "NbPlays": "22",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/cCJD7JXp/black#24",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "GW7dm",
+    "FEN": "r1b2rB1/1p2npk1/pqn1p1p1/3pP1N1/8/1N5Q/PP3PPP/R4RK1 b - - 5 18",
+    "Moves": "f8g8 h3h7 g7f8 h7f7",
+    "Rating": "1193",
+    "RatingDeviation": "75",
+    "Popularity": "76",
+    "NbPlays": "228",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/dGxz7kkd/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "GW8Q7",
+    "FEN": "r4rk1/2pp1p1p/p4qp1/8/Pp6/2N2P2/2Q2P1P/R4RK1 w - - 0 19",
+    "Moves": "c3d5 f6g5 g1h1 g5d5",
+    "Rating": "1144",
+    "RatingDeviation": "81",
+    "Popularity": "81",
+    "NbPlays": "109",
+    "Themes": "crushing fork middlegame pin short",
+    "GameUrl": "https://lichess.org/wPnZbcu9#37",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Closed"
+  }
+]

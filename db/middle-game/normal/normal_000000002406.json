@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "72NSX",
+    "FEN": "r2qk1nr/ppp1b2p/2n1Np2/3pB3/3P4/N1P3P1/PP3PbP/R2Q1RK1 b kq - 0 12",
+    "Moves": "d8d7 d1h5",
+    "Rating": "1211",
+    "RatingDeviation": "279",
+    "Popularity": "33",
+    "NbPlays": "11",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/mpFQJReW/black#24",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "72NsO",
+    "FEN": "r4rk1/ppp3pp/4p3/4p3/2B1Nn2/2PP3q/PP1Q1P1P/R4R1K w - - 0 19",
+    "Moves": "f1g1 h3f3 g1g2 f3g2",
+    "Rating": "1226",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "2205",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/8xukhs6o#37",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "72P0g",
+    "FEN": "r1b1qrk1/3nbppp/p1N1pn2/1p1p2B1/3P4/1BN5/PPP2PPP/R2QR1K1 w - - 4 13",
+    "Moves": "c3d5 f6d5 b3d5 e7g5",
+    "Rating": "1368",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "178",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/dzJXJSa0#25",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+  },
+  {
+    "PuzzleId": "72PB3",
+    "FEN": "r5k1/p4pp1/2p4p/1q1b4/3PrB2/P1R5/1P3QPP/5RK1 w - - 1 26",
+    "Moves": "f4e5 e4e2 c3g3 e2f2 g3g7 g8f8",
+    "Rating": "1387",
+    "RatingDeviation": "198",
+    "Popularity": "-100",
+    "NbPlays": "4",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/YOLRp6R2#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "72PNu",
+    "FEN": "r6k/2n2Qpp/p1pbp3/3pN1q1/1pPPn1N1/1P5P/PB4PK/R7 b - - 6 25",
+    "Moves": "a8f8 f7f8 d6f8 e5f7 h8g8 f7g5",
+    "Rating": "1217",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "824",
+    "Themes": "advantage fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/VMtc4qsW/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "72PQ3",
+    "FEN": "r3k2r/ppp1qppp/2nbp1b1/3p4/3Pn3/P1NBPN1P/1PP2PP1/R1BQR1K1 w kq - 3 10",
+    "Moves": "c3e4 d5e4",
+    "Rating": "1315",
+    "RatingDeviation": "76",
+    "Popularity": "73",
+    "NbPlays": "299",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/wGa5TlDe#19",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "72PUz",
+    "FEN": "5rk1/p1p2pbp/3n2p1/3q4/3nN3/6PP/PP3P2/R1BQRK2 w - - 2 18",
+    "Moves": "e4d6 d5h1",
+    "Rating": "1395",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "4738",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/2y0XzeZr#35",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "72Pvk",
+    "FEN": "r2qr1k1/pp3ppb/7p/3p3P/1P2n1P1/PB1P1Q2/1BPK4/R6R w - - 3 22",
+    "Moves": "d2c1 d8g5 c1b1 e4d2",
+    "Rating": "1293",
+    "RatingDeviation": "98",
+    "Popularity": "17",
+    "NbPlays": "36",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/zdNLqjuE#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "72RSc",
+    "FEN": "r2q1rk1/pp3ppp/2pb1B2/3p4/6b1/1P1BPQ2/P1P2PPP/RN2K2R b KQ - 0 13",
+    "Moves": "g4f3 f6d8 f3g2 h1g1 d6h2 g1g2",
+    "Rating": "1294",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "350",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/5tUTXnax/black#26",
+    "OpeningTags": "Englund_Gambit_Declined Englund_Gambit_Declined_Reversed_French"
+  }
+]

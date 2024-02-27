@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BXmKj",
+    "FEN": "1k6/p7/Kp2b3/1B3p2/1P2p1p1/P3P1P1/5P2/8 w - - 32 59",
+    "Moves": "a3a4 e6c8",
+    "Rating": "1014",
+    "RatingDeviation": "97",
+    "Popularity": "75",
+    "NbPlays": "44",
+    "Themes": "bishopEndgame endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/bLrv2Gjo#117",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BXo1t",
+    "FEN": "6k1/5p1p/5Q1P/2n1P3/3q4/1K1P4/1P3P2/8 w - - 1 46",
+    "Moves": "b3a3 d4a4",
+    "Rating": "1095",
+    "RatingDeviation": "75",
+    "Popularity": "73",
+    "NbPlays": "150",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/YB8c0DBu#91",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BXpAQ",
+    "FEN": "7k/5pp1/Bp2p2p/3p4/PP6/2r4q/2r3P1/1Q4RK w - - 0 40",
+    "Moves": "g2h3 c3h3",
+    "Rating": "1098",
+    "RatingDeviation": "81",
+    "Popularity": "71",
+    "NbPlays": "214",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/gUfmdA9i#79",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BXppz",
+    "FEN": "r2r2Q1/pp1k1Pp1/4R3/2p3N1/1nP5/3q4/5PPP/1R4K1 w - - 1 22",
+    "Moves": "f7f8q d3b1 e6e1 b1e1",
+    "Rating": "1177",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "3582",
+    "Themes": "hangingPiece mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/BaPb8wqT#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BXpxV",
+    "FEN": "r3kb1r/pp1b1N1p/1q2p3/3p3B/3P4/8/PP3PPP/RNB2RK1 b kq - 0 13",
+    "Moves": "e8e7 c1g5 e7e8 f7h8",
+    "Rating": "1158",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "605",
+    "Themes": "discoveredAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Pn9eYXUj/black#26",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "BXr03",
+    "FEN": "r1b1k1nr/pppp1p2/8/2b1P2p/4P1pq/1BN5/PPP3pP/R1BQNR1K w kq - 0 12",
+    "Moves": "h1g2 h4h3 g2h1 h3f1",
+    "Rating": "1136",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1724",
+    "Themes": "deflection mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/mTiz3Ilz#23",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "BXxDF",
+    "FEN": "4rk2/5pbQ/4pNp1/p1P1P1P1/1p3P2/7P/Pp3BK1/3q4 b - - 1 30",
+    "Moves": "b2b1q h7g8 f8e7 g8e8",
+    "Rating": "1147",
+    "RatingDeviation": "82",
+    "Popularity": "85",
+    "NbPlays": "55",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/X23wEvDp/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BXyzR",
+    "FEN": "3r2k1/pp3ppp/7q/2pr4/8/1P4R1/PNQ2PPP/2R3K1 w - - 2 26",
+    "Moves": "b2c4 h6c1 c2c1 d5d1 c1d1 d8d1",
+    "Rating": "1108",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "9622",
+    "Themes": "backRankMate fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/oIX25y9Q#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BXz1K",
+    "FEN": "r1b1r1k1/ppp2ppp/3p1q2/8/6N1/3P4/PPP1QPPP/R1B1R1K1 b - - 2 14",
+    "Moves": "c8g4 e2e8 a8e8 e1e8",
+    "Rating": "1087",
+    "RatingDeviation": "85",
+    "Popularity": "76",
+    "NbPlays": "91",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/a4QmrpRh/black#28",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  }
+]

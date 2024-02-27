@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pCBoh",
+    "FEN": "5rk1/Qp3ppp/4qb2/3p4/P7/8/1Pr2PPP/RNB1R1K1 w - - 1 18",
+    "Moves": "e1e6 c2c1 e6e1 c1e1",
+    "Rating": "1102",
+    "RatingDeviation": "81",
+    "Popularity": "92",
+    "NbPlays": "185",
+    "Themes": "backRankMate hangingPiece mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/uIBCmMhC#35",
+    "OpeningTags": "Scotch_Game Scotch_Game_Benima_Defense"
+  },
+  {
+    "PuzzleId": "pCCST",
+    "FEN": "1r3rk1/p3p1bp/2p3p1/4n3/4q3/4B2R/PPPQB1P1/R3K3 b Q - 1 18",
+    "Moves": "e4g2 e2c4 e5c4 d2g2",
+    "Rating": "1033",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "2355",
+    "Themes": "advantage discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/icDXnoak/black#36",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "pCCVY",
+    "FEN": "r1bqk2r/1p2npp1/1n2p2p/p2pP3/P1pP4/B1P2N1P/2P1BPP1/R2Q1RK1 b kq - 0 13",
+    "Moves": "b6a4 a3e7 d8e7 a1a4",
+    "Rating": "1062",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "1403",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/SCwNjv1i/black#26",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "pCCvu",
+    "FEN": "r6r/4k2p/p2qpp1Q/3p4/3Pb3/2P3P1/PP4PP/R4RK1 b - - 1 19",
+    "Moves": "e4g6 h6g7 e7e8 g7h8",
+    "Rating": "1143",
+    "RatingDeviation": "79",
+    "Popularity": "88",
+    "NbPlays": "147",
+    "Themes": "crushing interference middlegame short",
+    "GameUrl": "https://lichess.org/eW4KIGST/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "pCD4J",
+    "FEN": "r4rk1/pQq2pp1/P3pn1p/1p6/3P4/R4N2/2P2PPP/5RK1 b - - 0 18",
+    "Moves": "c7b7 a6b7 a8b8 a3a7",
+    "Rating": "1016",
+    "RatingDeviation": "78",
+    "Popularity": "80",
+    "NbPlays": "123",
+    "Themes": "advancedPawn advantage capturingDefender discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/4b6QIZfy/black#36",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "pCDHX",
+    "FEN": "2kr1b1r/6pp/p3p3/1Ppb2q1/5n2/1NP5/1P1N1PPP/R1BQ1RK1 w - - 1 21",
+    "Moves": "g2g3 f4h3",
+    "Rating": "1011",
+    "RatingDeviation": "81",
+    "Popularity": "89",
+    "NbPlays": "255",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/s5894TQY#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pCDzn",
+    "FEN": "3r1r2/6R1/pp1Q4/4p3/2P1Bbqk/1P6/P3RP2/5K2 w - - 3 35",
+    "Moves": "d6h6 f4h6 g7g4 h4g4",
+    "Rating": "1122",
+    "RatingDeviation": "83",
+    "Popularity": "92",
+    "NbPlays": "286",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/JY41o0wk#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pCFYk",
+    "FEN": "r3r1k1/p4ppp/2n1b3/qp1p4/3P4/1PRBQ3/P2N1PPP/5RK1 b - - 7 18",
+    "Moves": "a5c3 d3h7 g8h7 e3c3",
+    "Rating": "1078",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "556",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/Pfi3yIWf/black#36",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "pCGLo",
+    "FEN": "r1b2rk1/ppp1nppp/2n1p3/6q1/2B4N/2Q1R3/PB3PPP/R5K1 b - - 1 16",
+    "Moves": "e7f5 h4f5",
+    "Rating": "1181",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "680",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/0jGdkHYQ/black#32",
+    "OpeningTags": "Italian_Game Italian_Game_Evans_Gambit"
+  }
+]

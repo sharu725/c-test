@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EqQ16",
+    "FEN": "r2qkb1r/1b1pn1pp/p4p2/1p1Pp3/4N3/3B1Q2/PPP2PPP/R1B2RK1 b kq - 3 12",
+    "Moves": "b7d5 e4d6",
+    "Rating": "1505",
+    "RatingDeviation": "286",
+    "Popularity": "-21",
+    "NbPlays": "8",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/zG8Gw5Dw/black#24",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation"
+  },
+  {
+    "PuzzleId": "EqQZn",
+    "FEN": "4k3/1p3p2/3Bp3/8/1P4p1/Pp1RP3/1R4r1/K6r w - - 1 31",
+    "Moves": "b2b1 g2a2",
+    "Rating": "1415",
+    "RatingDeviation": "79",
+    "Popularity": "50",
+    "NbPlays": "126",
+    "Themes": "endgame mate mateIn1 oneMove pin",
+    "GameUrl": "https://lichess.org/gSNSzvnt#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EqU79",
+    "FEN": "6k1/4p2p/B3P3/6p1/1PPb4/R7/2r2rPP/6RK w - - 1 40",
+    "Moves": "c4c5 f2g2 g1g2 c2c1 a6f1 c1f1 g2g1 f1g1",
+    "Rating": "1490",
+    "RatingDeviation": "92",
+    "Popularity": "50",
+    "NbPlays": "34",
+    "Themes": "endgame mate mateIn4 sacrifice veryLong",
+    "GameUrl": "https://lichess.org/Wp6ru2gg#79",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EqWLo",
+    "FEN": "Q7/5p1p/6pk/8/6P1/4P2K/p4q1P/Q7 w - - 0 41",
+    "Moves": "a8a2 f2f3 h3h4 g6g5",
+    "Rating": "1541",
+    "RatingDeviation": "101",
+    "Popularity": "54",
+    "NbPlays": "43",
+    "Themes": "endgame mate mateIn2 queenEndgame short",
+    "GameUrl": "https://lichess.org/NxHNsZVq#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EqZ8U",
+    "FEN": "8/p6p/4Qpb1/1p4pk/3P4/2p1P3/P2q2BK/8 b - - 5 41",
+    "Moves": "c3c2 e6h3",
+    "Rating": "1483",
+    "RatingDeviation": "476",
+    "Popularity": "33",
+    "NbPlays": "2",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/7J7V9WcE/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EqfCt",
+    "FEN": "1k3b1r/ppp1pQpp/3r4/3n4/2q5/2N1B3/PPP2PPP/3RK2R b K - 3 14",
+    "Moves": "d5e3 f7e8 d6d8 d1d8",
+    "Rating": "1541",
+    "RatingDeviation": "83",
+    "Popularity": "87",
+    "NbPlays": "1960",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/jxlIQZnh/black#28",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Gubinsky-Melts_Defense"
+  },
+  {
+    "PuzzleId": "EqmkD",
+    "FEN": "rk2r3/ppp3pp/5p2/8/3Pq3/1P2nN1Q/P1P3PP/2KR3R w - - 4 22",
+    "Moves": "d1e1 e4c2",
+    "Rating": "1412",
+    "RatingDeviation": "412",
+    "Popularity": "54",
+    "NbPlays": "6",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/aX0bzvHi#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Eqrec",
+    "FEN": "5R2/1pk2P2/pr6/3p4/1K1P4/P1P5/1P6/8 w - - 5 51",
+    "Moves": "b4c5 b6b5",
+    "Rating": "1453",
+    "RatingDeviation": "76",
+    "Popularity": "57",
+    "NbPlays": "177",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/A8ekw3qL#101",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Equwk",
+    "FEN": "r4q2/3Q2k1/1pp3P1/3P3p/7P/3r4/pP6/K6R b - - 4 40",
+    "Moves": "g7h8 d7h7",
+    "Rating": "1469",
+    "RatingDeviation": "248",
+    "Popularity": "38",
+    "NbPlays": "29",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/a6NdFz6V/black#80",
+    "OpeningTags": ""
+  }
+]

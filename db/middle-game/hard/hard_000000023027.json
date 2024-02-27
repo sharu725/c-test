@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "xuL8C",
+    "FEN": "r3kr2/bpp1n1p1/p2p4/P7/1P1PP1qN/2P5/3Q1PPP/RN3RK1 w q - 0 21",
+    "Moves": "h4f3 f8f3 d2e2 f3f4 e2g4 f4g4",
+    "Rating": "1660",
+    "RatingDeviation": "353",
+    "Popularity": "100",
+    "NbPlays": "5",
+    "Themes": "equality long middlegame pin",
+    "GameUrl": "https://lichess.org/RV4pj4WL#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xuLW2",
+    "FEN": "1q2kb1r/1b3ppp/1p1ppn2/1Nn5/2PQ4/r5P1/P2NPPBP/R2R2K1 w k - 2 17",
+    "Moves": "b5a3 b7g2 g1g2 b8a8 g2g1 a8a3",
+    "Rating": "1748",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "8024",
+    "Themes": "advantage attraction fork long middlegame",
+    "GameUrl": "https://lichess.org/3iKaCTGy#33",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "xuLcY",
+    "FEN": "4r3/pp1q1pk1/1n4p1/2b4p/5Q1P/1BP2PB1/P1P5/4R2K w - - 4 29",
+    "Moves": "e1e8 d7h3 g3h2 h3f1 h2g1 f1g1",
+    "Rating": "1738",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "152",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/LulkC0Pp#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xuLhT",
+    "FEN": "r2q1rk1/1p2b1pp/p1np4/4p3/2P2Pn1/N1NQ4/PP4PP/R1B2RK1 w - - 1 14",
+    "Moves": "h2h3 d8b6 c4c5 b6c5",
+    "Rating": "1644",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "561",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/LafkAuMQ#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kalashnikov_Variation"
+  },
+  {
+    "PuzzleId": "xuMbR",
+    "FEN": "4rrk1/pp1q1ppp/2n2n2/2bp1N2/5P2/P1PBPQ1P/1P4P1/1R2R1K1 b - - 8 17",
+    "Moves": "f6e4 f3g4 d7f5 g4f5",
+    "Rating": "1774",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1266",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/OLqE5FIn/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "xuMfy",
+    "FEN": "r3kbnr/1p2pppp/p7/3q3b/5B2/3B1P2/PPP1Q1PP/2KR3R b kq - 1 11",
+    "Moves": "d5a2 d3b5 a6b5 e2b5",
+    "Rating": "1618",
+    "RatingDeviation": "109",
+    "Popularity": "90",
+    "NbPlays": "39",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/fjFK9HtF/black#22",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "xuOcK",
+    "FEN": "rn3rk1/1p4p1/2p3P1/q3Pp2/1bbP4/p1N5/P2B1PP1/R2QK2R b KQ - 2 19",
+    "Moves": "b4c3 h1h8 g8h8 d1h5 h8g8 h5h7",
+    "Rating": "1650",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "783",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/UUGbh74g/black#38",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "xuR3K",
+    "FEN": "3r1rk1/pp2q1p1/2b1pn1p/2p1p3/2P1B3/4P3/PPQN1PPP/3RR1K1 b - - 1 18",
+    "Moves": "f6e4 d2e4 c6e4 c2e4",
+    "Rating": "1611",
+    "RatingDeviation": "436",
+    "Popularity": "100",
+    "NbPlays": "3",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/NDubSql6/black#36",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xuSZJ",
+    "FEN": "rn1qr1k1/1bp3bp/1p1ppnp1/5pN1/3P4/1QN3P1/PP2PPBP/R1B1R1K1 b - - 1 12",
+    "Moves": "b7g2 g5e6 e8e6 b3e6 g8h8 g1g2",
+    "Rating": "1719",
+    "RatingDeviation": "113",
+    "Popularity": "73",
+    "NbPlays": "23",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/SUDKgq6C/black#24",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "qXSoY",
+    "FEN": "r1r3k1/1p3ppp/3N1q2/8/4QnP1/pPP2P1P/P7/1K1RR3 b - - 6 34",
+    "Moves": "c8c3 e4e8 a8e8 e1e8",
+    "Rating": "1325",
+    "RatingDeviation": "112",
+    "Popularity": "33",
+    "NbPlays": "25",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/Sq4iNSyF/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qXVI0",
+    "FEN": "5k2/2N2p2/4b1p1/1BK2n1p/P1P2r2/8/r7/4R3 b - - 5 37",
+    "Moves": "f8e7 c7d5 e7f8 d5f4",
+    "Rating": "1392",
+    "RatingDeviation": "455",
+    "Popularity": "100",
+    "NbPlays": "2",
+    "Themes": "equality fork middlegame short",
+    "GameUrl": "https://lichess.org/yjxgh0HU/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qXW0v",
+    "FEN": "r1b1k2r/ppp2B2/3p3p/2b1p2p/7N/2PPP2P/P3K1P1/5R2 b kq - 0 16",
+    "Moves": "e8e7 h4g6 e7d7 g6h8",
+    "Rating": "1270",
+    "RatingDeviation": "96",
+    "Popularity": "100",
+    "NbPlays": "56",
+    "Themes": "equality fork middlegame short",
+    "GameUrl": "https://lichess.org/JWpdccQJ/black#32",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qXZez",
+    "FEN": "rn1k3r/2N1ppbp/2pp2p1/p7/2qPn3/4BN1P/1P1Q1PP1/2R2RK1 w - - 2 17",
+    "Moves": "c7a8 e4d2 c1c4 d2c4",
+    "Rating": "1222",
+    "RatingDeviation": "77",
+    "Popularity": "75",
+    "NbPlays": "316",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/erViCI5i#33",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "qXZhJ",
+    "FEN": "r2q1rk1/2p1bppp/2n5/1p2pNB1/p3n3/2P2Q1P/PPB2PP1/R3K2R w KQ - 0 16",
+    "Moves": "g5e7 d8d2 e1f1 d2c2",
+    "Rating": "1354",
+    "RatingDeviation": "76",
+    "Popularity": "75",
+    "NbPlays": "97",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/ks0OLDRX#31",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "qXa0H",
+    "FEN": "1r1r2k1/p4ppp/3Pp3/2Q5/4N3/5P1P/PP4q1/K2R3R w - - 0 24",
+    "Moves": "d6d7 g2b2",
+    "Rating": "1386",
+    "RatingDeviation": "93",
+    "Popularity": "47",
+    "NbPlays": "35",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/zrJCj1U2#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qXbas",
+    "FEN": "r1b1k2r/pp2bppp/1q2p3/3pPn2/1P6/PN3Q2/4BPPP/R1B1K2R b KQkq - 2 13",
+    "Moves": "e7b4 a3b4",
+    "Rating": "1328",
+    "RatingDeviation": "111",
+    "Popularity": "48",
+    "NbPlays": "22",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/KovCt86B/black#26",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "qXbfi",
+    "FEN": "r2r2k1/7p/6p1/1p1nqp2/1PnRp3/PQ2P1P1/5P1P/3R1BK1 w - - 0 30",
+    "Moves": "d4d5 d8d5 f1c4 b5c4 b3c4 a8d8",
+    "Rating": "1369",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "832",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/flMMUbC3#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qXbvr",
+    "FEN": "r1bqk2r/ppp2ppp/4p3/3pP3/3Pn3/2P1P3/P1PB2PP/R2QKB1R w KQkq - 1 10",
+    "Moves": "f1d3 d8h4 g2g3 e4g3 h2g3 h4h1",
+    "Rating": "1339",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "101",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/Ujerr8vl#19",
+    "OpeningTags": "Bird_Opening Bird_Opening_Other_variations"
+  }
+]

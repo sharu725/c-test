@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Eisaf",
+    "FEN": "2rq1rk1/pp3ppp/4pn2/n2p2B1/3P4/P1P5/2PQBPPP/R3R1K1 b - - 6 14",
+    "Moves": "f6e4 g5d8 e4d2 d8a5",
+    "Rating": "1119",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "774",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/HzsA0t50/black#28",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "Eisk2",
+    "FEN": "r1b2r1k/1p4pp/p1p5/4p3/3nB3/2NP2pq/PPPQ1P1P/3R1R1K w - - 0 23",
+    "Moves": "f2g3 f8f1 d1f1 h3f1",
+    "Rating": "1167",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "170",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/rL5p4nqc#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Eitzv",
+    "FEN": "6k1/1R6/p5pb/1p2p2n/3pP1B1/P2P3P/1P2NKPQ/3r4 w - - 1 32",
+    "Moves": "h2e5 h6e3 f2f3 d1f1",
+    "Rating": "1115",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "842",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/FfqkYW7v#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Eiu1g",
+    "FEN": "1rr3k1/p3pp2/1q1pN1p1/3P4/2p3bP/4B3/PbPQ4/KR5R w - - 0 22",
+    "Moves": "b1b2 b6b2",
+    "Rating": "1002",
+    "RatingDeviation": "230",
+    "Popularity": "82",
+    "NbPlays": "19",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/AKaEu84O#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EiuKr",
+    "FEN": "r3r1k1/pp1n3p/2pb1p2/3p1Q2/3P3P/1BP2N2/PP2qPP1/R1B3KR w - - 3 19",
+    "Moves": "b3c2 e2e1 f3e1 e8e1",
+    "Rating": "1019",
+    "RatingDeviation": "78",
+    "Popularity": "78",
+    "NbPlays": "122",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/i0Clw5dp#37",
+    "OpeningTags": "French_Defense French_Defense_Queens_Knight"
+  },
+  {
+    "PuzzleId": "Eiv1U",
+    "FEN": "rq1r2k1/pb3ppp/1p2pB2/1Nb3N1/2P5/4P3/P1Q2PPP/R4RK1 b - - 0 18",
+    "Moves": "g7f6 c2h7 g8f8 h7f7",
+    "Rating": "1180",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "366",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/FPgprTc9/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "EivPg",
+    "FEN": "r6r/pppkn1p1/8/2bNpp1p/2PnQ3/3P1P2/PP1B1P1P/R4RK1 w - - 0 17",
+    "Moves": "e4e5 d4f3 g1g2 f3e5",
+    "Rating": "1140",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "1174",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/iQKOM4wU#33",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "EiwTt",
+    "FEN": "1r2qr1k/Q3N1p1/5p1p/1b6/5n2/8/PPP2PPP/R3R2K b - - 1 20",
+    "Moves": "f8f7 e7g6 h8g8 e1e8",
+    "Rating": "1072",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "1051",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/PEoxLxwq/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EixWq",
+    "FEN": "r1bqkb1r/1p1n1pn1/p3p1pp/3pP3/2pP4/N1P1BP2/PP1Q2PP/R3KBNR w KQkq - 1 13",
+    "Moves": "e3h6 d8h4 g2g3 h4h6 d2h6 h8h6",
+    "Rating": "1089",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "619",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/Zsxc59MZ#25",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Maroczy_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "j8a8u",
+    "FEN": "r4r1k/p5pp/5n2/1P2p3/Q7/4B1Pq/PP3P1P/2R1R1K1 w - - 3 24",
+    "Moves": "a4c4 f6g4 c4g4 h3g4",
+    "Rating": "1303",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "101",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/5kXYKrzY#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "j8aN7",
+    "FEN": "r2qkb1r/pp3ppp/1n2p3/3pPn2/P1Pp4/1PNQ1N2/5PPP/R1B2RK1 w kq - 0 12",
+    "Moves": "f3d4 d5c4",
+    "Rating": "1385",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "68",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/TfiIK1wF#23",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "j8bBB",
+    "FEN": "r3k2r/pp1n1pp1/4p2p/3pP3/2pP4/q1P1QN2/3N1PPP/1R2K2R w Kkq - 0 16",
+    "Moves": "b1b7 a3c1 e1e2 c1h1",
+    "Rating": "1326",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "616",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/694y9Cin#31",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "j8db8",
+    "FEN": "r1b2rk1/pppp2pp/n7/3P4/1qP1p3/4Q3/P2N1PPP/R3KB1R b KQ - 3 14",
+    "Moves": "a6c5 a1b1 b4a5 b1b5",
+    "Rating": "1340",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "3192",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/wck0pQBB/black#28",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "j8eqR",
+    "FEN": "4k2r/4npp1/p2N2p1/1p6/6P1/1P1n3P/1r3PK1/2R1R3 b k - 1 24",
+    "Moves": "e8f8 c1c8 e7c8 e1e8",
+    "Rating": "1326",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "794",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/UeD1kHex/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "j8ffI",
+    "FEN": "r3k1n1/2p2p1p/p1pbb3/3p4/7q/1P2PQ2/PBPP1PPP/RN2K2R w KQq - 2 11",
+    "Moves": "b1c3 e6g4 f3g3 d6g3",
+    "Rating": "1394",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "2201",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/wQsWTAR6#21",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  },
+  {
+    "PuzzleId": "j8hox",
+    "FEN": "4rknr/1p3R1p/p1pPq2Q/4p3/2P1Pp2/1PN2P2/P6P/2K3R1 b - - 6 31",
+    "Moves": "f8f7 h6g7",
+    "Rating": "1355",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "798",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Uw1H6DBd/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "j8iM6",
+    "FEN": "r1bq3k/2p2Q2/p4p1p/1pb1r3/P2p4/1B6/1PPB2PP/RN5K b - - 0 20",
+    "Moves": "d8e8 f7f6 h8h7 f6h6",
+    "Rating": "1316",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "223",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/XiXjYull/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "j8iqf",
+    "FEN": "r1b1k2r/1pqp1pp1/p3p3/4P3/5PQ1/1NN3pP/PPP2bP1/R4R1K w kq - 1 19",
+    "Moves": "g4g7 h8h3 g2h3 c7c6 c3d5 c6d5",
+    "Rating": "1286",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "2272",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/dA5IvYow#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  }
+]

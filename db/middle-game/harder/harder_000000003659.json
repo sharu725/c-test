@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "B1MjB",
+    "FEN": "r6k/pppq2p1/4N1Qp/3n4/bP6/P7/5PPP/4R1K1 b - - 1 28",
+    "Moves": "a8g8 e6g5 d5f6 g5f7 d7f7 g6f7",
+    "Rating": "1930",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "11353",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/X1RrSKwr/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "B1Okb",
+    "FEN": "r3qr1k/ppQ3pp/5b2/1b1Pp3/4P3/4B1P1/PP2P1BP/R4RK1 w - - 1 20",
+    "Moves": "c7b7 f8f7 b7a8 e8a8",
+    "Rating": "1857",
+    "RatingDeviation": "74",
+    "Popularity": "73",
+    "NbPlays": "168",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/aS9adzow#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "B1Okg",
+    "FEN": "5rk1/p1p3pp/2p5/4P1q1/5n2/2N1B2b/PPP3PP/R4QK1 w - - 6 21",
+    "Moves": "e3f4 f8f4 f1e2 h3g2 e2g2 f4g4 g2g4 g5g4",
+    "Rating": "1991",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1079",
+    "Themes": "crushing kingsideAttack master middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/u2XlNgDk#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "B1Pvd",
+    "FEN": "Qqkr3r/p4p2/1b6/4PP1p/6p1/P5PP/1P4BK/2R5 b - - 4 33",
+    "Moves": "b6c7 c1c7 c8c7 a8c6",
+    "Rating": "1936",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "604",
+    "Themes": "attraction mate mateIn2 middlegame pin queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/FLSYLV2W/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "B1SCt",
+    "FEN": "rn1q1rk1/1p2b1pp/p2p1n2/2pPpb2/2P1Np2/5NP1/PPQ1PPBP/R1B2RK1 w - - 2 11",
+    "Moves": "f3h4 f5e4 g2e4 f6e4 c2e4 e7h4",
+    "Rating": "1932",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1056",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/SHJzTk3x#21",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  },
+  {
+    "PuzzleId": "B1T9y",
+    "FEN": "r2r2k1/3n1ppp/p1N1q3/1p3p2/5R2/P1Q5/1P4PP/4R2K b - - 5 24",
+    "Moves": "e6d6 f4d4",
+    "Rating": "1886",
+    "RatingDeviation": "124",
+    "Popularity": "58",
+    "NbPlays": "27",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/vhEfI2v6/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "B1WED",
+    "FEN": "3rr1k1/pp2nppp/1bp1q1b1/3nN3/6P1/PQN1P2P/1B1PBP2/R4KR1 w - - 2 18",
+    "Moves": "e5g6 d5e3 d2e3 e6b3",
+    "Rating": "1866",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "321",
+    "Themes": "crushing discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/m5fmKxKK#35",
+    "OpeningTags": "Polish_Opening Polish_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "B1WFP",
+    "FEN": "r2r2k1/1pp2pp1/p1n2q1p/3p1b2/1P2p1B1/P1N1P3/2PPQ1PP/R4RK1 b - - 1 18",
+    "Moves": "c6e7 g4f5 e7f5 g2g4 f5d4 e3d4",
+    "Rating": "1981",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "81",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/0oHAnjeG/black#36",
+    "OpeningTags": "Polish_Opening Polish_Opening_Czech_Defense"
+  },
+  {
+    "PuzzleId": "B1ZE9",
+    "FEN": "r4rk1/p4pp1/3N3p/1p5n/2p2n1q/P3BP2/BPP2PKP/R1QR4 w - - 1 24",
+    "Moves": "g2h1 h4h3 e3f4 h3f3 h1g1 h5f4 c1f4 f3f4",
+    "Rating": "1915",
+    "RatingDeviation": "85",
+    "Popularity": "80",
+    "NbPlays": "43",
+    "Themes": "crushing kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/mF56NoJT#47",
+    "OpeningTags": ""
+  }
+]

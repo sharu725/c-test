@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EIbUl",
+    "FEN": "r4r2/6Q1/1qpkpR1p/2n1p3/4P2N/PpPPP2P/3K2P1/8 b - - 0 28",
+    "Moves": "f8g8 h4f5",
+    "Rating": "1146",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "185",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/z6j7YYvF/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EIc3P",
+    "FEN": "1k1r3r/pp2R3/2pn3q/Q5pp/5n2/3P1P2/PPP3PP/4R1K1 b - - 5 30",
+    "Moves": "d6c8 a5c7 b8a8 c7b7",
+    "Rating": "1145",
+    "RatingDeviation": "79",
+    "Popularity": "84",
+    "NbPlays": "524",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/VcOMiLxB/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EIcUo",
+    "FEN": "r3k2r/ppQ2ppp/8/3pp3/6n1/PP1P1nPq/1BP1PP1P/R4RK1 w kq - 0 14",
+    "Moves": "e2f3 h3h2",
+    "Rating": "1081",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "111",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/L0UhW5Fj#27",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  },
+  {
+    "PuzzleId": "EIclu",
+    "FEN": "6k1/5pp1/2Nq4/3P3N/1p1Qp2P/1bn1P1P1/7K/8 b - - 0 35",
+    "Moves": "c3d5 d4g7",
+    "Rating": "1061",
+    "RatingDeviation": "77",
+    "Popularity": "75",
+    "NbPlays": "204",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/vAoQ1LbS/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EIdaF",
+    "FEN": "5rk1/p5p1/6q1/3bR3/3P1p1p/5P2/PP1Q2PP/7K w - - 0 29",
+    "Moves": "e5d5 g6b1 d2c1 b1c1",
+    "Rating": "1074",
+    "RatingDeviation": "79",
+    "Popularity": "67",
+    "NbPlays": "283",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/HiTFLNGO#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EIfVc",
+    "FEN": "r6k/pp2Q1pp/6r1/8/8/4PP2/P3qP1P/R2R2K1 w - - 5 25",
+    "Moves": "g1h1 e2f3",
+    "Rating": "1165",
+    "RatingDeviation": "96",
+    "Popularity": "81",
+    "NbPlays": "76",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/lqisTUSk#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EIffL",
+    "FEN": "2rr4/6kp/pq4p1/1p5P/8/1Q1R4/PPP5/1K4R1 w - - 1 36",
+    "Moves": "d3d8 b6g1 d8d1 g1d1",
+    "Rating": "1095",
+    "RatingDeviation": "81",
+    "Popularity": "80",
+    "NbPlays": "103",
+    "Themes": "endgame hangingPiece mate mateIn2 short",
+    "GameUrl": "https://lichess.org/lCBikFSU#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EIgXP",
+    "FEN": "r5k1/pppQ2pp/2np3q/4p3/8/3P3P/PPP3PN/5R1K b - - 2 18",
+    "Moves": "c6d4 d7f7 g8h8 f7f8 a8f8 f1f8",
+    "Rating": "1087",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "396",
+    "Themes": "backRankMate endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/v3bggxNS/black#36",
+    "OpeningTags": "Vienna_Game Vienna_Game_Falkbeer_Variation"
+  },
+  {
+    "PuzzleId": "EIgir",
+    "FEN": "3r2k1/5pbp/6p1/1NP5/5PP1/4B1nP/r7/1R2K2R w K - 1 22",
+    "Moves": "h1g1 a2e2",
+    "Rating": "1099",
+    "RatingDeviation": "80",
+    "Popularity": "86",
+    "NbPlays": "856",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/bKQDxsEb#43",
+    "OpeningTags": ""
+  }
+]

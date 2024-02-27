@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "sCTSs",
+    "FEN": "4r1r1/p2b4/2p3k1/1p1p2Pp/1Q1P1P1P/4q1N1/PPP1p2N/1K2R3 b - - 3 35",
+    "Moves": "e3g3 b4d6 d7e6 f4f5 g6h7 d6g3",
+    "Rating": "1882",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "85",
+    "Themes": "crushing discoveredAttack fork long middlegame pin",
+    "GameUrl": "https://lichess.org/SFxGIpnt/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sCTXb",
+    "FEN": "r4rk1/pbpnq1pp/2pp4/4pP2/8/2PP1N1P/PP3PP1/RN1QR1K1 b - - 0 12",
+    "Moves": "f8f5 d1b3 e7f7 b3b7",
+    "Rating": "1917",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "136",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/BMvYfE5n/black#24",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "sCToR",
+    "FEN": "r4rk1/2qnbppp/pp2p3/3b4/P7/1N3PB1/1PP1B1PP/R2Q1R1K b - - 1 16",
+    "Moves": "e7d6 g3d6 c7d6 c2c4",
+    "Rating": "1832",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4376",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/IoCenogp/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "sCVBc",
+    "FEN": "3rRrk1/2p2ppp/1pn5/p6q/8/P1P2N2/4Q1PP/4R2K b - - 5 22",
+    "Moves": "f7f6 e2e6 h5f7 e8f8 g8f8 e6c6",
+    "Rating": "1892",
+    "RatingDeviation": "74",
+    "Popularity": "82",
+    "NbPlays": "115",
+    "Themes": "advantage fork long middlegame pin",
+    "GameUrl": "https://lichess.org/54QETfgi/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sCYDL",
+    "FEN": "2r3k1/pp3ppp/4pnb1/4N3/3P2P1/qB2PP2/P6P/4QRK1 b - - 0 19",
+    "Moves": "g6c2 e1c1 a3f8 b3c2",
+    "Rating": "1925",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "259",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/VLtBwn6o/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sCYPO",
+    "FEN": "1r1q1rk1/p5pp/1pR2p2/8/1b1P4/5Q2/PP3PPP/5KNR b - - 2 18",
+    "Moves": "d8d4 f3b3 g8h8 c6c4 d4d7 c4b4",
+    "Rating": "1804",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1246",
+    "Themes": "advantage interference long middlegame",
+    "GameUrl": "https://lichess.org/Q1xUwa2V/black#36",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "sCZFg",
+    "FEN": "1r3rk1/p1nbqp1p/3p2p1/2pP4/2P1P1n1/P3p1NN/4B1PP/R1Q2RK1 b - - 5 21",
+    "Moves": "b8b3 c1d1 d7a4 e2g4",
+    "Rating": "1924",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "2204",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/H3BT7vEl/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sCZG7",
+    "FEN": "rn3k1r/pp2nPbp/2p5/6B1/3P2Q1/3p4/q5PP/1N3RK1 b - - 2 17",
+    "Moves": "a2d5 g5e7 f8e7 g4g7 h8f8 f1e1",
+    "Rating": "1998",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "92",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/eiNSHeZq/black#34",
+    "OpeningTags": "Rat_Defense Rat_Defense_Harmonist"
+  },
+  {
+    "PuzzleId": "sCbBs",
+    "FEN": "2kr2nr/1ppb3p/p1n2p2/3p1q2/3P2p1/PQP2N2/P3BPPP/R1B2RK1 w - - 0 14",
+    "Moves": "a1b1 c6a5 f3h4 a5b3 h4f5 b3c1",
+    "Rating": "1989",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "75",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/l62Jhuyl#27",
+    "OpeningTags": "Elephant_Gambit Elephant_Gambit_Other_variations"
+  }
+]

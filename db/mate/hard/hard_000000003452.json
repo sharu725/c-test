@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "dJ3z0",
+    "FEN": "5k2/pq3rbp/b2p3B/5pQ1/5P2/7P/PP5K/6R1 b - - 6 28",
+    "Moves": "g7h6 g5d8",
+    "Rating": "1771",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "201",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/YHHK7H9e/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dJ4ol",
+    "FEN": "r1b5/2n3R1/2kp4/3Bp2p/ppP1P3/4B1P1/PP5P/6K1 b - - 1 29",
+    "Moves": "c7d5 e4d5",
+    "Rating": "1667",
+    "RatingDeviation": "85",
+    "Popularity": "91",
+    "NbPlays": "5700",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/04eaNCi1/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dJAw2",
+    "FEN": "6k1/pp4pp/8/3p2N1/1n1p4/q2b4/P1rQKPPP/2NRR3 w - - 0 23",
+    "Moves": "c1d3 a3d3",
+    "Rating": "1641",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "1282",
+    "Themes": "master mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/4rkZn9vZ#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dJBaO",
+    "FEN": "3r1k2/1p1n1p1n/2p1pb1P/8/3P2QN/4R1N1/1q3rP1/4R1K1 b - - 1 33",
+    "Moves": "f6h4 g4g7 f8e8 e3e6 f7e6 e1e6 h4e7 g7e7",
+    "Rating": "1631",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "604",
+    "Themes": "fork mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/f9HUQFRe/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dJE9Y",
+    "FEN": "r2qkbnr/1bp3p1/ppnpPp1p/1B1Q4/5P2/5N2/PPP3PP/RNB1K2R b KQkq - 1 10",
+    "Moves": "a6b5 d5h5 g7g6 h5g6 e8e7 g6f7",
+    "Rating": "1771",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "776",
+    "Themes": "exposedKing long mate mateIn3 opening",
+    "GameUrl": "https://lichess.org/qqzij8gD/black#20",
+    "OpeningTags": "French_Defense French_Defense_La_Bourdonnais_Variation"
+  },
+  {
+    "PuzzleId": "dJEo8",
+    "FEN": "rn1qkbnr/p2bpppp/1p6/2p4Q/2Bp4/1P2P3/PBPP1PPP/RN2K1NR b KQkq - 3 6",
+    "Moves": "g8f6 c4f7",
+    "Rating": "1706",
+    "RatingDeviation": "168",
+    "Popularity": "-75",
+    "NbPlays": "13",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/fc5pSq4p/black#12",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dJHpr",
+    "FEN": "6k1/p1Q2p2/7p/5p2/4P3/P7/1PPq1PPP/R1n2K2 w - - 1 27",
+    "Moves": "c7c3 d2e2 f1g1 e2d1 c3e1 d1e1",
+    "Rating": "1704",
+    "RatingDeviation": "137",
+    "Popularity": "87",
+    "NbPlays": "35",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/NtQYyop3#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dJKEU",
+    "FEN": "r2qr1k1/p2n2pp/5b2/2p1NQ2/3p1PR1/1P6/P4P1P/6RK b - - 3 25",
+    "Moves": "d4d3 g4g7 f6g7 f5f7 g8h8 f7g7",
+    "Rating": "1782",
+    "RatingDeviation": "143",
+    "Popularity": "74",
+    "NbPlays": "24",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/846gRGDE/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dJNjC",
+    "FEN": "r3q2k/1pp4p/p2p1p2/2b5/2BnP1b1/P2P4/1PP1NPPP/R2Q1RK1 w - - 2 15",
+    "Moves": "f2f3 d4e2 g1h1 e2g3 h2g3 e8h5",
+    "Rating": "1621",
+    "RatingDeviation": "78",
+    "Popularity": "96",
+    "NbPlays": "11076",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/5XgKjkR5#29",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "5WhOa",
+    "FEN": "r2k3r/pp2Bppp/4p3/1Q1pPn2/3q4/1P5P/P4PP1/RN2K2R b KQ - 0 16",
+    "Moves": "d8e7 b5b7 e7d8 b7a8 d8c7 a8h8",
+    "Rating": "934",
+    "RatingDeviation": "107",
+    "Popularity": "78",
+    "NbPlays": "41",
+    "Themes": "advantage interference long middlegame skewer",
+    "GameUrl": "https://lichess.org/FGL36WCN/black#32",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "5Wi1n",
+    "FEN": "r2qk1r1/1p2bp2/p1np4/2p1p2p/4P1NB/P2P3b/1PPNBP2/R2Q2RK b q - 0 17",
+    "Moves": "e7h4 g4f6 d8f6 g1g8 e8d7 g8a8",
+    "Rating": "959",
+    "RatingDeviation": "85",
+    "Popularity": "94",
+    "NbPlays": "560",
+    "Themes": "advantage discoveredAttack long middlegame skewer",
+    "GameUrl": "https://lichess.org/VupEFS3J/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "5WiIn",
+    "FEN": "r3k2r/pp1b1ppp/2n5/2q1b3/8/1P1BPQ1P/PBP2PP1/RN2K2R w KQkq - 1 14",
+    "Moves": "b1c3 e5c3 b2c3 c5c3",
+    "Rating": "886",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "447",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/mFx3obOt#27",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "5Wib2",
+    "FEN": "r4rk1/pp4pp/2p1q3/2b5/4NB2/2N4P/PP4P1/R2R3K b - - 0 20",
+    "Moves": "e6e4 c3e4 f8f4 e4c5",
+    "Rating": "928",
+    "RatingDeviation": "93",
+    "Popularity": "93",
+    "NbPlays": "350",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/iUadhC7u/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5WkQN",
+    "FEN": "3r2k1/1p3pp1/p1q2b1p/5B2/1P6/P3rQP1/2P4P/2R2RK1 w - - 0 38",
+    "Moves": "f3e3 f6d4 e3d4 d8d4",
+    "Rating": "959",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "183",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/cTamOHQC#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5Wl3f",
+    "FEN": "4r1k1/2q1bpp1/6np/1pP2b2/rP1RN3/2P5/P3QPPP/R5K1 b - - 4 27",
+    "Moves": "e7f6 e4f6 g7f6 e2e8",
+    "Rating": "810",
+    "RatingDeviation": "232",
+    "Popularity": "-25",
+    "NbPlays": "7",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/KWNaDusW/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5WmSj",
+    "FEN": "6k1/p2r1p1p/n2P1Bp1/2p5/b1p4P/1rP2P2/4RKP1/4R3 b - - 7 31",
+    "Moves": "b3b8 e2e8 b8e8 e1e8",
+    "Rating": "573",
+    "RatingDeviation": "86",
+    "Popularity": "86",
+    "NbPlays": "230",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/wWToIebs/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5Wmpa",
+    "FEN": "r4r1k/pb1p3p/1pnP1Q2/6Bq/2B5/5N2/PP3KPP/4R3 b - - 0 21",
+    "Moves": "f8f6 g5f6",
+    "Rating": "905",
+    "RatingDeviation": "94",
+    "Popularity": "84",
+    "NbPlays": "530",
+    "Themes": "doubleBishopMate kingsideAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/YgqzO7vg/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5Wnda",
+    "FEN": "r2q1rk1/3p2pp/p3p1p1/1p2Q3/3B3b/2N5/PP3PKP/2RR4 b - - 2 19",
+    "Moves": "f8f5 e5g7",
+    "Rating": "750",
+    "RatingDeviation": "80",
+    "Popularity": "100",
+    "NbPlays": "218",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/bvyxHhXB/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Accepted"
+  }
+]

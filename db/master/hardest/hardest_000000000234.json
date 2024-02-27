@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "2UUM0",
+    "FEN": "5rk1/pp3ppp/4P3/3P4/8/5QP1/Pqr3BP/5R1K b - - 0 25",
+    "Moves": "c2g2 e6f7 g8h8 f3g2",
+    "Rating": "2140",
+    "RatingDeviation": "89",
+    "Popularity": "86",
+    "NbPlays": "650",
+    "Themes": "advancedPawn advantage endgame intermezzo master short",
+    "GameUrl": "https://lichess.org/uIecyLUv/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2UUor",
+    "FEN": "6k1/2p3p1/3p3p/1pPP3P/1P2K1b1/1r1N4/8/2R5 b - - 4 36",
+    "Moves": "g4f5 e4f5 b3d3 f5e6",
+    "Rating": "2235",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "125",
+    "Themes": "crushing endgame master short",
+    "GameUrl": "https://lichess.org/FSl02EJC/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2UVWa",
+    "FEN": "r4r2/p3Q1k1/1pq1p1pp/8/5N2/8/P4PPP/3R2K1 b - - 0 30",
+    "Moves": "f8f7 f4e6 g7g8 d1d8 a8d8 e7f7 g8f7 e6d8 f7f6 d8c6",
+    "Rating": "2297",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "4931",
+    "Themes": "advantage attraction endgame fork master masterVsMaster sacrifice veryLong",
+    "GameUrl": "https://lichess.org/dkbJUUL5/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2UYQV",
+    "FEN": "r1b1r1k1/pp1nBpbn/2pP2pp/4p3/N1P1P3/q2B1N1P/P5P1/R2Q1R1K b - - 0 17",
+    "Moves": "d7c5 d6d7 e8e7 d7d8q",
+    "Rating": "2244",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "1521",
+    "Themes": "advancedPawn crushing master middlegame promotion short",
+    "GameUrl": "https://lichess.org/ML81o0ZI/black#34",
+    "OpeningTags": "Old_Indian_Defense Old_Indian_Defense_Czech_Variation"
+  },
+  {
+    "PuzzleId": "2Ud27",
+    "FEN": "r4rk1/1bq1b1pp/p3p3/1p1nPpN1/8/P2P1NQ1/1P4PP/R1B2R1K b - - 1 18",
+    "Moves": "c7c6 f3d4 c6e8 g5e6",
+    "Rating": "2089",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1074",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/E84ofZ3V/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "2UdLw",
+    "FEN": "r1b2rk1/ppb1q1pp/2n1pp2/8/2NPP3/P2BQN2/1P4PP/3R1RK1 w - - 4 17",
+    "Moves": "d4d5 e6d5 e4d5 c7b6 e3b6 a7b6",
+    "Rating": "2089",
+    "RatingDeviation": "80",
+    "Popularity": "82",
+    "NbPlays": "56",
+    "Themes": "advantage long master middlegame pin",
+    "GameUrl": "https://lichess.org/qu7rgrTd#33",
+    "OpeningTags": "French_Defense French_Defense_Alapin_Gambit"
+  },
+  {
+    "PuzzleId": "2Un7x",
+    "FEN": "5rk1/Q5pp/4p3/3p3q/B2P1pn1/2P2NP1/PP3PK1/R7 w - - 0 25",
+    "Moves": "a4c2 f4g3 a7e7 g4e3 f2e3 h5f3",
+    "Rating": "2384",
+    "RatingDeviation": "84",
+    "Popularity": "90",
+    "NbPlays": "646",
+    "Themes": "crushing discoveredAttack long master middlegame",
+    "GameUrl": "https://lichess.org/GhiZwLJV#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2UqV5",
+    "FEN": "5rk1/1p1rq1pp/pBn1p3/4p3/2QpP3/P1P2P2/P5PP/3R1RK1 b - - 2 25",
+    "Moves": "e7a3 b6c5 a3c5 c4c5",
+    "Rating": "2048",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "4297",
+    "Themes": "crushing fork master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/RA9yeWE2/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2V1PA",
+    "FEN": "r2qk2r/pQp2ppp/2n1b3/8/1nBP4/5N2/PP1N1PPP/R3K2R w KQkq - 1 12",
+    "Moves": "d4d5 a8b8 b7c6 b4c6",
+    "Rating": "2022",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "898",
+    "Themes": "advantage master middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/S1qPD2JI#23",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  }
+]

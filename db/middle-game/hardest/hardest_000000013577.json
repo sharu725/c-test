@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "S9b3k",
+    "FEN": "r1b2rk1/1p3ppp/pq6/6BQ/8/1NnP4/P5PP/4RR1K b - - 1 17",
+    "Moves": "c3d5 h5f7 f8f7 e1e8 f7f8 f1f8",
+    "Rating": "2045",
+    "RatingDeviation": "82",
+    "Popularity": "72",
+    "NbPlays": "212",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/T3xLViN2/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_French_Variation"
+  },
+  {
+    "PuzzleId": "S9cgA",
+    "FEN": "4rrk1/3nppb1/pq4p1/1p1pP3/2pP4/2P1QR1P/PPBN2P1/5RK1 w - - 0 19",
+    "Moves": "f3f7 f8f7 f1f7 g8f7 e3f3 d7f6",
+    "Rating": "2218",
+    "RatingDeviation": "127",
+    "Popularity": "85",
+    "NbPlays": "12",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/i3zSrjnv#37",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "S9cqL",
+    "FEN": "1r6/2p2p1k/3p1np1/p3p2p/2P1P2P/R1KP3B/2N2r1P/6R1 w - - 1 28",
+    "Moves": "a3a5 f2f3 a5b5 b8b5 c4b5 f3h3",
+    "Rating": "2241",
+    "RatingDeviation": "89",
+    "Popularity": "79",
+    "NbPlays": "26",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/S25jljDR#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "S9eRr",
+    "FEN": "r4rk1/p2q1ppn/1pn4p/2p1pNb1/4P3/2PPB1N1/PP2Q1PP/3RK2R b K - 9 16",
+    "Moves": "g5e3 e2g4 g7g6 f5h6 e3h6 g4d7",
+    "Rating": "2184",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "751",
+    "Themes": "crushing discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/DtBRxr6b/black#32",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Macleod_Attack"
+  },
+  {
+    "PuzzleId": "S9gS8",
+    "FEN": "5r2/4q2k/1p1p3b/pPpPp1rQ/P1P3P1/2BP1pP1/5P1K/R4R2 w - - 1 36",
+    "Moves": "h5h3 f8h8 f1h1 h7g8 h2g1 h6g7 h3f1 h8h1",
+    "Rating": "2118",
+    "RatingDeviation": "94",
+    "Popularity": "63",
+    "NbPlays": "26",
+    "Themes": "crushing discoveredAttack middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/4ffhRaWN#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "S9h1H",
+    "FEN": "r1r5/3np1kp/1q1p1pp1/1NpPn3/P3P3/2Q2NPP/1P3P2/R4K1R w - - 0 19",
+    "Moves": "f3d2 a8a4 a1a4 b6b5",
+    "Rating": "2022",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "1442",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/3H0hNNFx#37",
+    "OpeningTags": "Benko_Gambit_Accepted Benko_Gambit_Accepted_Fully_Accepted_Variation"
+  },
+  {
+    "PuzzleId": "S9iFH",
+    "FEN": "r3r1k1/ppqb2pp/2n5/3p2BQ/2pPpb2/2P4P/PPBN1PP1/R3R1K1 b - - 3 17",
+    "Moves": "c6e7 g5e7 e8e7 h5d5",
+    "Rating": "2297",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "400",
+    "Themes": "advantage capturingDefender discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/BHjKK0Xv/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "S9iWU",
+    "FEN": "r1bq1rk1/1p3ppp/pbpp1n2/6B1/3P4/PB1Q1N2/1P3PPP/R4RK1 b - - 2 15",
+    "Moves": "d8d7 b3c2 d7f5 d3f5 c8f5 c2f5",
+    "Rating": "2358",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "1005",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/hHrHMgZ0/black#30",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "S9jyF",
+    "FEN": "r2q1rk1/ppp2ppp/1bn2n2/3P4/1PB5/P1N1B3/4QPPP/R4RK1 b - - 0 13",
+    "Moves": "c6d4 e2d3 d4c6 d5c6 d8d3 c4d3",
+    "Rating": "2090",
+    "RatingDeviation": "80",
+    "Popularity": "87",
+    "NbPlays": "49",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/4Mi4qac4/black#26",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation"
+  }
+]

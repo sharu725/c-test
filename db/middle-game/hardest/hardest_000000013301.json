@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "RZm4n",
+    "FEN": "2r3k1/pQ3ppp/4p3/4Pb2/P5q1/4nNP1/2rNB2P/4R2K b - - 0 22",
+    "Moves": "c2c1 e1c1 c8c1 f3g1",
+    "Rating": "2218",
+    "RatingDeviation": "83",
+    "Popularity": "90",
+    "NbPlays": "823",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/Zp7V3lcN/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RZnXg",
+    "FEN": "4rk1r/p1pn2pp/Q7/2bn4/b5Pq/NP3PN1/P2P3P/R1BK3R b - - 4 16",
+    "Moves": "h4f6 a6f6 g7f6 b3a4",
+    "Rating": "2067",
+    "RatingDeviation": "109",
+    "Popularity": "100",
+    "NbPlays": "44",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/mmvFvuod/black#32",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RZozi",
+    "FEN": "R3n1k1/6pp/1B1p2q1/Pp1Pp3/1P2Pp2/3Q1P2/6bP/2r2BK1 w - - 2 29",
+    "Moves": "a8e8 g8f7 e8e6 g2f1 e6g6 f1d3",
+    "Rating": "2198",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1450",
+    "Themes": "crushing discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/8jVBJwTr#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RZp6P",
+    "FEN": "2rr2k1/5pbp/p3pnp1/8/3B4/2N1P1P1/PP3PK1/2RR4 w - - 0 22",
+    "Moves": "d1d2 e6e5 c1d1 e5d4",
+    "Rating": "2106",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "198",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/2QeaJeMS#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RZq1r",
+    "FEN": "r1bq1rk1/1pp4p/p5p1/4p1N1/3nNn1Q/P7/1PB2PPP/3RR1K1 b - - 1 21",
+    "Moves": "f4h5 e4g3 d8f6 g3h5 g6h5 c2h7",
+    "Rating": "2398",
+    "RatingDeviation": "110",
+    "Popularity": "72",
+    "NbPlays": "26",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/7C4sAZBD/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RZrBB",
+    "FEN": "r2qk1nr/ppp2Np1/3p4/2b1pp2/2BnP1Q1/2NP4/PPP2RP1/R1B3K1 w kq - 0 14",
+    "Moves": "g4g6 h8h1 g1h1 d8h4 h1g1 d4e2 c3e2 h4f2 g1h2 f2h4",
+    "Rating": "2284",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "5422",
+    "Themes": "attraction fork mate mateIn5 middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/HXUldkHH#27",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "RZrwC",
+    "FEN": "2r2r1k/1b3Qpp/p4b2/1qp1P3/1p3P2/3NB3/PPP1K2P/3R2R1 w - - 1 28",
+    "Moves": "f7h5 c5c4 d3b4 c4c3",
+    "Rating": "2230",
+    "RatingDeviation": "80",
+    "Popularity": "68",
+    "NbPlays": "108",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/65tHSRu4#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RZtik",
+    "FEN": "r3r2k/1pb2ppp/p4n2/3pq3/P2NpP2/BPPnP2P/4R1P1/R2Q1NK1 b - f3 0 22",
+    "Moves": "e4f3 g2f3 d3f4 e3f4",
+    "Rating": "2390",
+    "RatingDeviation": "92",
+    "Popularity": "89",
+    "NbPlays": "890",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/mbZNuMLF/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RZufY",
+    "FEN": "r1bq1r2/1p3kbp/p4np1/8/P7/1Q3N2/1P3PPP/R1B2K1R b - - 1 16",
+    "Moves": "c8e6 f3g5 f7g8 g5e6 d8d5 b3d5",
+    "Rating": "2151",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "275",
+    "Themes": "crushing deflection fork long middlegame",
+    "GameUrl": "https://lichess.org/6m94Rfhd/black#32",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+  }
+]

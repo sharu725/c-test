@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "zRYce",
+    "FEN": "2rq1rk1/1b3pp1/4p3/pp1pP1b1/3Pn3/PP1B1N2/1BP3Q1/R4RK1 w - - 0 23",
+    "Moves": "d3e4 g5e3 g1h1 d5e4",
+    "Rating": "1730",
+    "RatingDeviation": "102",
+    "Popularity": "66",
+    "NbPlays": "17",
+    "Themes": "crushing intermezzo kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/oWhO20iZ#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zRan3",
+    "FEN": "5rk1/pb3pp1/1p5p/1B5q/3QpB2/1P1pP2P/P4PP1/2R3K1 w - - 2 24",
+    "Moves": "d4e5 d3d2 e5h5 d2c1q",
+    "Rating": "1738",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "651",
+    "Themes": "advancedPawn advantage middlegame promotion short",
+    "GameUrl": "https://lichess.org/AEDaKj2x#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zRePu",
+    "FEN": "r3k2r/1pp1qp2/1p2n1pp/4p1n1/4P1QN/P2PB3/1PP2RPP/5RK1 w kq - 3 18",
+    "Moves": "f2f7 g5f7 h4g6 h8g8",
+    "Rating": "1767",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2710",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/Sky5mu33#35",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Maroczy_Variation"
+  },
+  {
+    "PuzzleId": "zReSE",
+    "FEN": "1k5r/qp1R4/p1p1P2r/P5p1/2Q5/1P3N2/1B3bP1/R4K2 w - - 0 28",
+    "Moves": "b2h8 h6h1 f3g1 h1g1 f1e2 a7e3",
+    "Rating": "1620",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "110",
+    "Themes": "fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/o6Q8oMVd#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zRgkS",
+    "FEN": "3rnrk1/p4ppp/1p2pq2/1B6/1B1PP3/P7/1Q3PPP/2R2K2 b - - 11 28",
+    "Moves": "f6d4 b2d4 d8d4 b4f8 g8f8 c1c8",
+    "Rating": "1772",
+    "RatingDeviation": "87",
+    "Popularity": "72",
+    "NbPlays": "38",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/C39nOVug/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zRgzn",
+    "FEN": "r3r1k1/pp1bnpp1/3b3p/2pN4/7N/3P2P1/q1P1QPBP/1R2R1K1 w - - 0 16",
+    "Moves": "b1b7 e7d5 b7d7 e8e2",
+    "Rating": "1713",
+    "RatingDeviation": "74",
+    "Popularity": "79",
+    "NbPlays": "115",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/forrwRDT#31",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Sicilian_Invitation"
+  },
+  {
+    "PuzzleId": "zRhBi",
+    "FEN": "2q1r1k1/pp2rp1p/2p1nQpP/3p4/P2P2b1/2PB4/1P1NRPP1/R5K1 w - - 3 23",
+    "Moves": "e2e6 f7e6 d3g6 h7g6 f6g6 g8h8",
+    "Rating": "1652",
+    "RatingDeviation": "353",
+    "Popularity": "100",
+    "NbPlays": "5",
+    "Themes": "defensiveMove equality long middlegame",
+    "GameUrl": "https://lichess.org/G5dLUENA#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zRhcQ",
+    "FEN": "4rr1k/3qNppQ/3p4/p3R3/1p4b1/1P4P1/P1P2B2/1K1R4 b - - 0 29",
+    "Moves": "h8h7 d1h1 g4h5 h1h5",
+    "Rating": "1725",
+    "RatingDeviation": "80",
+    "Popularity": "85",
+    "NbPlays": "3967",
+    "Themes": "anastasiaMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/7XarGtdo/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zRiPE",
+    "FEN": "r1b1kbnr/pp3ppp/8/2PQ4/8/4PP1P/PqP2P2/RN2KB1R b KQkq - 0 9",
+    "Moves": "b2a1 f1b5 e8e7 d5d6",
+    "Rating": "1716",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2106",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/xkGzfZHy/black#18",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Steinitz_Countergambit"
+  }
+]

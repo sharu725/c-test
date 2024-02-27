@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "jo0me",
+    "FEN": "3r2k1/1p3R1p/p5p1/8/2p3bP/2P3q1/P1QBr3/2K2R2 b - - 0 33",
+    "Moves": "d8d2 c2g6 h7g6 f7f8 g8h7 f1f7 h7h6 f8h8",
+    "Rating": "2298",
+    "RatingDeviation": "84",
+    "Popularity": "87",
+    "NbPlays": "362",
+    "Themes": "mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/UDHIXy1W/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jo1R1",
+    "FEN": "3r1r1k/pp1bq3/2pp2Bp/4n2N/2Pb4/1P4PP/P1QB2K1/4RR2 w - - 3 26",
+    "Moves": "d2h6 f8f1 e1f1 e5g6 h6g7 d4g7",
+    "Rating": "2372",
+    "RatingDeviation": "130",
+    "Popularity": "49",
+    "NbPlays": "17",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/JJn0KlDj#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jo2dr",
+    "FEN": "r2k3r/ppp2ppp/3b4/1Q1Pn2q/8/4PN2/P4PPP/R1B2RK1 w - - 3 15",
+    "Moves": "f3e5 d6e5 h2h3 e5a1 b5b7 a8c8",
+    "Rating": "2214",
+    "RatingDeviation": "82",
+    "Popularity": "92",
+    "NbPlays": "1439",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/gBjIqqbN#29",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "jo4RD",
+    "FEN": "5r1k/p1NR3p/3Q2p1/2p2pb1/5n2/P4P2/4qPKP/3R4 w - - 10 36",
+    "Moves": "g2g3 g5h4 g3h4 e2f2 h4g5 f4h3 g5h6 f2h4",
+    "Rating": "2249",
+    "RatingDeviation": "88",
+    "Popularity": "90",
+    "NbPlays": "2748",
+    "Themes": "attraction deflection mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/rKksyEo5#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jo4kA",
+    "FEN": "rn1q1rk1/1p2bpp1/2pp1n1p/p3p1N1/P1B1P1b1/2NPB1Q1/1PP2PPP/R3K2R b KQ - 3 10",
+    "Moves": "h6g5 h2h4 f6h5 g3g4",
+    "Rating": "2211",
+    "RatingDeviation": "113",
+    "Popularity": "74",
+    "NbPlays": "18",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/FeELekxs/black#20",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "jo5Or",
+    "FEN": "r2qr1k1/pppb1ppp/1bnp2n1/8/2BP4/1Q2BNN1/PP3PPP/R3R1K1 b - - 3 14",
+    "Moves": "d7e6 d4d5 c6a5 d5e6",
+    "Rating": "2141",
+    "RatingDeviation": "79",
+    "Popularity": "86",
+    "NbPlays": "277",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/noxZXFet/black#28",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Classical_Variation"
+  },
+  {
+    "PuzzleId": "jo6zV",
+    "FEN": "r2B2k1/p4pp1/1p2p3/1B4Qp/5n2/4qb2/P5PP/2RR3K w - - 0 25",
+    "Moves": "c1c3 e3c3 g5f4 f3d1",
+    "Rating": "2096",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "224",
+    "Themes": "crushing hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/j6pGWByo#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jo7Sp",
+    "FEN": "5k1r/pp3Pp1/8/2b1P3/3rp1Bq/8/PP2Q2P/R4RK1 w - - 1 22",
+    "Moves": "g1h1 e4e3 a1d1 d4g4",
+    "Rating": "2122",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "93",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/a78JyiL6#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jo87n",
+    "FEN": "2r3k1/5ppp/1n2p3/p2pB3/2r5/PqRQPP1P/1P4P1/2R3K1 b - - 0 24",
+    "Moves": "b3b2 c3c4 d5c4 c1c4 b6c4 e5b2",
+    "Rating": "2271",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "4471",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/0THQZr1x/black#48",
+    "OpeningTags": ""
+  }
+]

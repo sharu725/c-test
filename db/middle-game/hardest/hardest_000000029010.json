@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "xxnod",
+    "FEN": "r4k2/1pp2ppQ/pbn1rq1p/5P2/1P1p4/P1P5/5P1P/RBB2RK1 b - - 0 19",
+    "Moves": "e6d6 h7h8 f8e7 h8a8 f6h4 f1e1 e7f6 e1e4",
+    "Rating": "2360",
+    "RatingDeviation": "82",
+    "Popularity": "81",
+    "NbPlays": "104",
+    "Themes": "advantage middlegame skewer veryLong",
+    "GameUrl": "https://lichess.org/Li7vJzu1/black#38",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "xxrPR",
+    "FEN": "r2qkb1r/ppp2ppp/4b3/8/2Q5/8/PPP2PPP/RNB1R1K1 b kq - 0 11",
+    "Moves": "d8d1 c4e6 f7e6 e1d1",
+    "Rating": "2020",
+    "RatingDeviation": "80",
+    "Popularity": "73",
+    "NbPlays": "49",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/k19kKJBz/black#22",
+    "OpeningTags": "Italian_Game Italian_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "xxscL",
+    "FEN": "rn3qr1/pb2b2k/5P1p/1pp2P2/2pPN3/7Q/PP4PP/R1B2RK1 b - - 0 19",
+    "Moves": "e7f6 c1h6 g8g2 h3g2 f6d4 g1h1",
+    "Rating": "2270",
+    "RatingDeviation": "75",
+    "Popularity": "78",
+    "NbPlays": "189",
+    "Themes": "crushing defensiveMove long master middlegame",
+    "GameUrl": "https://lichess.org/FvhMp83V/black#38",
+    "OpeningTags": "Slav_Defense Slav_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "xxulU",
+    "FEN": "2r3k1/6p1/p6p/2r2p2/1q1p4/3P1PNQ/2P2P1P/2RK2R1 w - - 4 29",
+    "Moves": "g1e1 c5c2 c1c2 b4b1 d1e2 c8e8 g3e4 b1c2",
+    "Rating": "2382",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "264",
+    "Themes": "advantage middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/5qHr8GzZ#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xxwcF",
+    "FEN": "rnbqk2r/1p1n1pp1/p6p/3NP3/3p4/3B1Q2/PPP2PP1/2KRR3 b kq - 1 15",
+    "Moves": "e8g8 f3e4 g7g6 e5e6",
+    "Rating": "2271",
+    "RatingDeviation": "96",
+    "Popularity": "88",
+    "NbPlays": "31",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/D91yVHGI/black#30",
+    "OpeningTags": "French_Defense French_Defense_Alekhine-Chatard_Attack"
+  },
+  {
+    "PuzzleId": "xxxcA",
+    "FEN": "2r2rk1/p1q1bppp/1p3n2/4pQ2/8/2NBP1B1/Pn3PPP/2RR2K1 b - - 3 19",
+    "Moves": "b2d1 c3d5 g7g6 c1c7",
+    "Rating": "2221",
+    "RatingDeviation": "119",
+    "Popularity": "82",
+    "NbPlays": "14",
+    "Themes": "crushing discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/lSnC41JY/black#38",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  },
+  {
+    "PuzzleId": "xxxmZ",
+    "FEN": "r4rk1/1pp2pnp/p2p2p1/6PP/3P4/1P2P3/q1P1Q3/1NKR3R b - - 0 18",
+    "Moves": "g7h5 h1h5 g6h5 e2h5 a2a5 e3e4",
+    "Rating": "2335",
+    "RatingDeviation": "93",
+    "Popularity": "77",
+    "NbPlays": "36",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/g0ppeOLq/black#36",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Indian_Variation"
+  },
+  {
+    "PuzzleId": "xxzle",
+    "FEN": "3r1rk1/1bq2ppp/p2p4/1p1Pp3/1P5b/P3RQ2/1B3PP1/1B1R2K1 b - - 1 20",
+    "Moves": "h4g5 f3f5 g7g6 f5g5",
+    "Rating": "2202",
+    "RatingDeviation": "80",
+    "Popularity": "91",
+    "NbPlays": "3416",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/HzkR57g9/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "xy0JS",
+    "FEN": "rn1qr1k1/pp3ppp/2p2b2/3p4/3P4/2PB1Q1P/PP1N1PP1/R3R1K1 b - - 3 13",
+    "Moves": "a7a5 e1e8 d8e8 f3f5 g7g6 f5f6",
+    "Rating": "2032",
+    "RatingDeviation": "75",
+    "Popularity": "78",
+    "NbPlays": "343",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/8C9rTRHO/black#26",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  }
+]

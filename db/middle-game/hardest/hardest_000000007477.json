@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FSy47",
+    "FEN": "1rq2rk1/Qb3pbp/3p2p1/8/8/8/PPP2PPP/RNB1R1K1 w - - 1 16",
+    "Moves": "b1c3 c8g4 a7b7 b8b7",
+    "Rating": "2252",
+    "RatingDeviation": "89",
+    "Popularity": "44",
+    "NbPlays": "28",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/nr6MYgmu#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "FT1CU",
+    "FEN": "4r1k1/1p1br1p1/p4p1B/3pqP2/P2N2Q1/2P1p2P/1PN1K1P1/R7 w - - 4 28",
+    "Moves": "c2e3 g7g5 h6g5 f6g5",
+    "Rating": "2334",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1045",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/WyYrVWNt#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FT1Im",
+    "FEN": "r2r2k1/1pp2pp1/5q1p/pP2p1bP/P1P1P1b1/5N1N/2RpK1B1/3Q3R b - - 5 28",
+    "Moves": "d8d3 e2d3 a8d8 d3e2",
+    "Rating": "2060",
+    "RatingDeviation": "81",
+    "Popularity": "76",
+    "NbPlays": "65",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/Ijklt7h6/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FT1rq",
+    "FEN": "r1b3k1/pp2q1p1/4p2p/3pn3/1b1N2PP/3BB1NK/Pr6/R2Q1R2 w - - 2 20",
+    "Moves": "a1b1 e7h4 h3h4 b2h2",
+    "Rating": "2226",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "1428",
+    "Themes": "attraction mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/aFfONzvW#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FT30B",
+    "FEN": "1r1q1rk1/1p2bpp1/4p2p/p1PpPP1Q/8/P3B2P/1P4P1/R4RK1 b - - 0 23",
+    "Moves": "d5d4 e3h6",
+    "Rating": "2063",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "252",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/wYdDCUJJ/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FT3cr",
+    "FEN": "5rk1/3bpp1p/p2p2pB/1p1P1P2/2r1P3/q1P3QP/6P1/1R3RK1 b - - 1 23",
+    "Moves": "f8c8 f5g6 h7g6 f1f7 g8f7 b1f1 d7f5 e4f5",
+    "Rating": "2068",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "572",
+    "Themes": "attraction crushing discoveredAttack kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/tZqmQZr0/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FT3vf",
+    "FEN": "r4rk1/p2qbppp/4p3/1p1nB3/2pP2Q1/2N5/PP3PPP/R3R1K1 b - - 1 15",
+    "Moves": "e7f6 c3d5 f6e5 e1e5 f7f5 g4g5 d7d5 e5d5",
+    "Rating": "2347",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "226",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/a959Mauh/black#30",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "FT3zy",
+    "FEN": "2r2rk1/1p1bnppp/pq2p3/3pP3/1b1P4/1P1B1N2/PB3PPP/2RQ1RK1 w - - 4 16",
+    "Moves": "d3h7 g8h7 f3g5 h7g6",
+    "Rating": "2253",
+    "RatingDeviation": "194",
+    "Popularity": "67",
+    "NbPlays": "10",
+    "Themes": "equality hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/v3XuopUP#31",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FT49d",
+    "FEN": "3qk2r/5p2/1b2pn1p/1pB1Np2/1PpP4/7P/4BPb1/3QK1R1 b k - 1 21",
+    "Moves": "g2d5 e5f7 b6c5 f7d8 c5b4 e1f1",
+    "Rating": "2241",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "2216",
+    "Themes": "advantage attackingF2F7 long middlegame",
+    "GameUrl": "https://lichess.org/yoDjOoOY/black#42",
+    "OpeningTags": ""
+  }
+]

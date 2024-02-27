@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "irl0I",
+    "FEN": "5qk1/1R2rBpp/p1p2p2/1pP5/P2bP3/N5P1/Q4P1P/6K1 b - - 0 27",
+    "Moves": "f8f7 b7b8 e7e8 b8e8",
+    "Rating": "1197",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "916",
+    "Themes": "endgame kingsideAttack mate mateIn2 pin short",
+    "GameUrl": "https://lichess.org/WEy0Xih1/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "irnGe",
+    "FEN": "r3k2r/pp1b1ppp/4p3/3nP3/1Q6/2Nq4/PP1P2PP/R1B2R1K w kq - 1 15",
+    "Moves": "c3d5 d3f1",
+    "Rating": "1186",
+    "RatingDeviation": "280",
+    "Popularity": "47",
+    "NbPlays": "6",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/SvNWLZOx#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "irrQK",
+    "FEN": "5r2/6bk/2pNQ1p1/2P1p2p/p3P3/P1PP1P2/3qp2P/6RK b - - 5 37",
+    "Moves": "e2e1q e6g6 h7h8 g6g7",
+    "Rating": "1195",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "5575",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/zOAwJ4hJ/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "irs5k",
+    "FEN": "6rk/6p1/R6p/3p3Q/3p4/1p4P1/PPP3PK/4q3 b - - 1 34",
+    "Moves": "b3c2 a6h6 g7h6 h5h6",
+    "Rating": "1120",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "250",
+    "Themes": "endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/PgvSf9eA/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "irscd",
+    "FEN": "r4rk1/1pp2ppp/2nb1q2/p7/4Pn2/4N1PP/PP3PBK/1RBQ1R2 w - - 3 17",
+    "Moves": "g3f4 f6f4 h2g1 f4h2",
+    "Rating": "1050",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "68",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/SAnjdxES#33",
+    "OpeningTags": "Kings_Indian_Attack Kings_Indian_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "irwNx",
+    "FEN": "3r2k1/pp3ppp/4p3/6q1/2P2n1N/4Q2P/PP3PP1/5RK1 w - - 2 21",
+    "Moves": "h4f3 g5g2",
+    "Rating": "1174",
+    "RatingDeviation": "231",
+    "Popularity": "67",
+    "NbPlays": "17",
+    "Themes": "endgame kingsideAttack master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/xFmIGPmu#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iryZW",
+    "FEN": "2k3r1/1pp4p/p4p2/4n3/7r/2N1B3/PP3PPP/3R1RK1 w - - 8 24",
+    "Moves": "c3d5 e5f3 g1h1 h4h2",
+    "Rating": "1081",
+    "RatingDeviation": "84",
+    "Popularity": "89",
+    "NbPlays": "362",
+    "Themes": "arabianMate mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/N8FCGvqB#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "irzpo",
+    "FEN": "r4rk1/5p1p/2pb4/1p2p2Q/1P1pP3/P2q2B1/5RPP/5R1K w - - 0 29",
+    "Moves": "f2f7 d3f1 f7f1 f8f1",
+    "Rating": "1182",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "240",
+    "Themes": "backRankMate mate mateIn2 middlegame short xRayAttack",
+    "GameUrl": "https://lichess.org/9UGXo1Jl#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "is171",
+    "FEN": "8/8/R7/2p1p1r1/2rp1k2/7K/5P2/4R3 b - - 2 39",
+    "Moves": "f4f3 a6f6 g5f5 f6f5",
+    "Rating": "1175",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "6728",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/6zIh5sQu/black#78",
+    "OpeningTags": ""
+  }
+]

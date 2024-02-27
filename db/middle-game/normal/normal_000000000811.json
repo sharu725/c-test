@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "2MImR",
+    "FEN": "rn3rkR/pp2q1p1/2p1ppp1/6N1/3P4/4Q3/PPP2PPP/R5K1 b - - 1 18",
+    "Moves": "g8h8 e3h3 h8g8 h3h7",
+    "Rating": "1297",
+    "RatingDeviation": "74",
+    "Popularity": "81",
+    "NbPlays": "152",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/TZNnBJ7Z/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "2MN4p",
+    "FEN": "2kr1b1r/pppn3p/1q2ppp1/1N1p4/P2P4/3BP3/1PP2PPP/R2Q1RK1 b - - 0 12",
+    "Moves": "a7a6 a4a5 b6b5 d3b5",
+    "Rating": "1392",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "3127",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/5BMiDQ6G/black#24",
+    "OpeningTags": "Richter-Veresov_Attack Richter-Veresov_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "2MNIm",
+    "FEN": "4r1k1/2br2Pp/pp1q1p2/5P2/4pBR1/P7/1P3QP1/5RK1 b - - 2 30",
+    "Moves": "d6d4 f2d4 d7d4 f4c7",
+    "Rating": "1245",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "17605",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/kNy2HVe8/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2MOaT",
+    "FEN": "1r1r2k1/4Npp1/p3b3/4q1P1/3p4/1P1Qp3/P5PP/4RRK1 b - - 3 27",
+    "Moves": "g8f8 e7g6 f8g8 g6e5",
+    "Rating": "1299",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "393",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/UZTpKGw1/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2MQax",
+    "FEN": "4rrk1/Rb1q2pn/6Qp/1p1pPp2/2pP3B/2P5/1P1N2PP/5RK1 b - - 1 24",
+    "Moves": "e8e6 a7b7 d7b7 g6e6",
+    "Rating": "1304",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "645",
+    "Themes": "crushing deflection master middlegame short",
+    "GameUrl": "https://lichess.org/4DLCmmnS/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2MRrH",
+    "FEN": "r1bqkb1r/3p2pp/2p1p3/1pPnNp2/pP1P4/5Q1P/P3PPPB/R3KB1R b KQkq - 2 14",
+    "Moves": "d5b4 f3h5 g7g6 e5g6 d8g5 h5g5",
+    "Rating": "1236",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "255",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/iQPqnmX8/black#28",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "2MSD8",
+    "FEN": "r3r1k1/pq3ppp/8/2Q5/8/P1B1P1Pb/5P1P/R3R1K1 w - - 1 22",
+    "Moves": "e3e4 e8e4 f2f3 e4e1 a1e1 b7f3 c5f2 f3c3",
+    "Rating": "1284",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "675",
+    "Themes": "crushing discoveredAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/bFHo3Pom#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "2MTOv",
+    "FEN": "r2k1r2/2p2Qpp/p1pq4/1p6/3NP3/2P1B3/PP3KPP/R7 w - - 5 18",
+    "Moves": "e3g5 d8c8 f7f8 d6f8",
+    "Rating": "1238",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "4844",
+    "Themes": "advantage defensiveMove middlegame pin short",
+    "GameUrl": "https://lichess.org/VXqhWpYG#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "2MTnc",
+    "FEN": "r1b2rk1/pp2pp1p/2n3p1/2P4q/2B5/1P2BN1P/P3KPP1/Q6R b - - 3 16",
+    "Moves": "e7e5 g2g4 c8g4 h3g4",
+    "Rating": "1258",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "175",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/8bCmwqq9/black#32",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Exchange_Variation"
+  }
+]

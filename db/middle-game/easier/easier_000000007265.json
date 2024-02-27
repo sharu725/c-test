@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "M3Sza",
+    "FEN": "r1bq1rk1/1pp2ppp/p5n1/4p3/1P1p4/P1NBP1P1/2P3PP/R2Q1RK1 w - - 0 15",
+    "Moves": "e3d4 d8d4 f1f2 d4c3",
+    "Rating": "1167",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "1094",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/hqJX78pl#29",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "M3TDI",
+    "FEN": "r2q1r2/pp4pk/5npp/3Pp3/1P6/PQPP3P/4N1P1/R4RK1 b - - 0 19",
+    "Moves": "f6d5 f1f8 d8f8 b3d5",
+    "Rating": "1069",
+    "RatingDeviation": "77",
+    "Popularity": "66",
+    "NbPlays": "161",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/SRZyiUnp/black#38",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "M3TRi",
+    "FEN": "2rq1rk1/pb3ppp/np2pn2/4N3/2PP4/P1NB4/5PPP/R2Q1RK1 b - - 0 15",
+    "Moves": "d8d4 d3h7 f6h7 d1d4",
+    "Rating": "1053",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1110",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/3jmVu3oS/black#30",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Modern_Variation"
+  },
+  {
+    "PuzzleId": "M3Wg1",
+    "FEN": "r4r2/2q3kp/p2bpp2/n2b3p/P1pPpP2/4P1B1/2PQ1NPP/1R3RK1 b - - 1 24",
+    "Moves": "g7g6 f4f5 e6f5 g3d6 c7d6 d2a5",
+    "Rating": "1060",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "5614",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/uR00JiOX/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M3bC1",
+    "FEN": "r1b3k1/ppp1nrpp/4p3/P2qP1B1/6QP/P1p5/2P2PP1/R3KB1R w KQ - 1 15",
+    "Moves": "f2f4 d5d2",
+    "Rating": "1183",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "192",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Du8dlyf0#29",
+    "OpeningTags": "French_Defense French_Defense_Winawer_Variation"
+  },
+  {
+    "PuzzleId": "M3f4B",
+    "FEN": "7k/1p3Q1p/p3q1pN/8/2nbb1P1/7P/PP1B3K/5B2 b - - 1 32",
+    "Moves": "e6f7 h6f7 h8g7 f1c4",
+    "Rating": "1175",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1449",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/xbiEp56D/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "M3jzY",
+    "FEN": "r1bqr1k1/4bppp/p1n2n2/1p6/3pNB2/3Q1N2/PPB2PPP/R4RK1 b - - 3 15",
+    "Moves": "c6b4 e4f6 e7f6 d3h7",
+    "Rating": "1005",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "4484",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/7d3qyuWI/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Declined"
+  },
+  {
+    "PuzzleId": "M3lwL",
+    "FEN": "r3k2r/pp3ppp/3bpq2/1b1p4/6P1/2N1QP2/PPP4P/2KR2NR w kq - 0 14",
+    "Moves": "c3b5 d6f4 e3f4 f6f4",
+    "Rating": "1127",
+    "RatingDeviation": "80",
+    "Popularity": "88",
+    "NbPlays": "61",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/nIr27EK7#27",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "M3oX3",
+    "FEN": "5rk1/1b3p1Q/r5p1/2pqB3/4pP2/PP2P1R1/6PP/R5K1 b - - 0 22",
+    "Moves": "g8h7 g3h3 h7g8 h3h8",
+    "Rating": "1070",
+    "RatingDeviation": "88",
+    "Popularity": "90",
+    "NbPlays": "36",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/LBvT3TQe/black#44",
+    "OpeningTags": ""
+  }
+]

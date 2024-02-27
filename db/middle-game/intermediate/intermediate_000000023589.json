@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "uoNth",
+    "FEN": "1r1b1rk1/pppq1ppp/3pb3/n7/2PP1N2/P1Q2N1P/1P2RPP1/4R1K1 b - - 8 23",
+    "Moves": "a5c4 f4e6 f7e6 c3c4",
+    "Rating": "1563",
+    "RatingDeviation": "304",
+    "Popularity": "100",
+    "NbPlays": "9",
+    "Themes": "capturingDefender equality intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/zeVFHTxZ/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uoOz2",
+    "FEN": "1k1r1b1r/5pp1/1P1p2q1/1Nn5/P2N2P1/2Q1Bb2/8/2R1R1K1 w - - 0 32",
+    "Moves": "d4f3 g6g4 g1f2 c5e4",
+    "Rating": "1494",
+    "RatingDeviation": "124",
+    "Popularity": "75",
+    "NbPlays": "20",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/kh8343xW#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uoQ4r",
+    "FEN": "r4rk1/2p3pn/2Pp3p/1p3p2/1P6/P1b4P/R3BPP1/2N2K1R b - - 0 26",
+    "Moves": "c3b4 a3b4 a8a2 c1a2",
+    "Rating": "1433",
+    "RatingDeviation": "79",
+    "Popularity": "78",
+    "NbPlays": "63",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/CARfetMW/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uoRii",
+    "FEN": "2q1rrkb/pp3p1p/2pn1PpB/8/3P2P1/5N2/PP1Q1P1P/2R2RK1 w - - 3 20",
+    "Moves": "h6f8 c8g4 g1h1 g4f3",
+    "Rating": "1422",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "17514",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Wo8yPq4Y#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uoTOq",
+    "FEN": "r2qr1k1/1b3pp1/1p3b1p/p1p5/1nNpPP2/1Q1P2P1/PP2N1BP/3RR1K1 w - - 2 20",
+    "Moves": "a2a3 a5a4 a3b4 a4b3",
+    "Rating": "1597",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "314",
+    "Themes": "crushing master middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/QEJz5Uwm#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uoTjS",
+    "FEN": "3r2k1/R3Qpbp/1r1q2p1/2p5/2bp4/1P1N3P/2B2PP1/4R1K1 b - - 0 28",
+    "Moves": "c4e6 e1e6 d6e6 e7d8",
+    "Rating": "1497",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "3670",
+    "Themes": "advantage deflection kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/rXKhkEZN/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uoXsH",
+    "FEN": "r3k2n/1Rpb1p1P/p3p3/3p4/3P1P2/4P3/P1qN2P1/4KB1R b Kq - 0 21",
+    "Moves": "e8c8 f1a6 c2c1 e1e2 c1a3 b7b6 a3a6 b6a6",
+    "Rating": "1506",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "discoveredAttack equality middlegame queensideAttack veryLong",
+    "GameUrl": "https://lichess.org/4lrVf4SE/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uoYcm",
+    "FEN": "r1b2rk1/ppp2ppp/8/3Nn3/8/6P1/PPP2PB1/1K1R3R b - - 0 15",
+    "Moves": "c7c6 d5e7 g8h8 h1h7 h8h7 d1h1 c8h3 h1h3",
+    "Rating": "1443",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "5831",
+    "Themes": "anastasiaMate attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/t1VktMLB/black#30",
+    "OpeningTags": "French_Defense French_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "uoZbu",
+    "FEN": "r7/ppp1qk2/2np2r1/4p2Q/4P1bP/2NP4/PPP3P1/2KR2NR w - - 2 17",
+    "Moves": "d1f1 f7g7 h5g6 g7g6",
+    "Rating": "1549",
+    "RatingDeviation": "77",
+    "Popularity": "68",
+    "NbPlays": "122",
+    "Themes": "advantage defensiveMove middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/qmiSShbv#33",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Arctic_Defense"
+  }
+]

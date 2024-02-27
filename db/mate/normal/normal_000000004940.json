@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Q3j4Q",
+    "FEN": "5k2/R6R/1r6/4K3/4pp1p/6pP/P2r4/8 b - - 2 44",
+    "Moves": "d2d8 h7h8",
+    "Rating": "1258",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "835",
+    "Themes": "endgame master mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/R3s3vHY1/black#88",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Q3k2O",
+    "FEN": "1br3k1/ppq3p1/2r1ppp1/3pN3/3Pn3/1P2P3/PQ2NPPP/2R2RK1 w - - 0 25",
+    "Moves": "e5c6 c7h2",
+    "Rating": "1231",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "229",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/yMtEvzH4#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Q3ozm",
+    "FEN": "8/P1R2pkp/6p1/8/3r3P/8/r5B1/6RK w - - 3 42",
+    "Moves": "a7a8q d4h4 g2h3 h4h3",
+    "Rating": "1302",
+    "RatingDeviation": "75",
+    "Popularity": "76",
+    "NbPlays": "146",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/S54tZGkt#83",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Q3qBb",
+    "FEN": "r2q3r/1ppbbk2/p5pp/4N2Q/3PPp2/7P/PP3PP1/R4RK1 b - - 1 17",
+    "Moves": "f7g8 h5g6 g8f8 g6f7",
+    "Rating": "1205",
+    "RatingDeviation": "77",
+    "Popularity": "78",
+    "NbPlays": "198",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ra84YxcB/black#34",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Cozio_Defense"
+  },
+  {
+    "PuzzleId": "Q3qmA",
+    "FEN": "r2r2k1/p1q3pp/1p6/1P2R3/1Pp5/4QP2/6P1/R6K b - - 0 30",
+    "Moves": "d8d3 e5e8 g8f7 e3e6",
+    "Rating": "1219",
+    "RatingDeviation": "77",
+    "Popularity": "77",
+    "NbPlays": "490",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/6bgINIpY/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Q3qvx",
+    "FEN": "Q7/3b3p/2p2r1k/6pq/1P1BP1n1/1Q1P1rP1/5PB1/R3R1K1 w - - 5 39",
+    "Moves": "d4f6 h5h2 g1f1 f3f2",
+    "Rating": "1204",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "934",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/B6XZESks#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Q3t0L",
+    "FEN": "8/3Q4/1p3k2/p1b2p2/6P1/5r1K/7P/8 w - - 1 52",
+    "Moves": "h3h4 c5f2 h4h5 f3h3",
+    "Rating": "1297",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "382",
+    "Themes": "endgame master masterVsMaster mate mateIn2 short superGM",
+    "GameUrl": "https://lichess.org/O5vKhx6X#103",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Q3tKD",
+    "FEN": "r1b1k2r/pp1pNppp/1q2p3/8/4P3/2N1b3/PPP2PPP/R2QKB1R w KQkq - 0 9",
+    "Moves": "e7c8 e3f2 e1d2 b6e3",
+    "Rating": "1242",
+    "RatingDeviation": "79",
+    "Popularity": "81",
+    "NbPlays": "1246",
+    "Themes": "attackingF2F7 mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ntGUg8j2#17",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "Q3u9c",
+    "FEN": "3r2k1/p4ppp/4p1q1/8/5Q2/2r4P/P2R1PPK/8 b - - 0 32",
+    "Moves": "d8d2 f4b8 c3c8 b8c8 d2d8 c8d8",
+    "Rating": "1245",
+    "RatingDeviation": "112",
+    "Popularity": "50",
+    "NbPlays": "15",
+    "Themes": "backRankMate endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/OllHM0CQ/black#64",
+    "OpeningTags": ""
+  }
+]

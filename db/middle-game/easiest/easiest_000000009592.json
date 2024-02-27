@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SVIdC",
+    "FEN": "r5k1/pp1bqrn1/1n2p2Q/3pPp2/2pP4/2P1R3/PPB2PPP/3R1NK1 b - - 4 23",
+    "Moves": "g8f8 h6h8",
+    "Rating": "656",
+    "RatingDeviation": "85",
+    "Popularity": "95",
+    "NbPlays": "95",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/JX4NpVBt/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SVMsl",
+    "FEN": "2krr3/pppq1ppp/5nb1/4B3/P1QP4/2P2N1P/5PP1/R3R1K1 b - - 0 18",
+    "Moves": "d7d5 c4c7",
+    "Rating": "868",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "354",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/a5Il62Cm/black#36",
+    "OpeningTags": "Scotch_Game Scotch_Game_Goring_Gambit"
+  },
+  {
+    "PuzzleId": "SVQqg",
+    "FEN": "2r1r1k1/pp3ppp/8/1Q1p4/3P4/P2n1N2/1P3PPP/R1B1q1K1 w - - 1 20",
+    "Moves": "f3e1 e8e1",
+    "Rating": "983",
+    "RatingDeviation": "88",
+    "Popularity": "78",
+    "NbPlays": "337",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/SQ9ONrYq#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SVRB8",
+    "FEN": "2r4k/p1r3pp/3b2p1/P2Pp1q1/3p4/3Q1P1P/2PB2P1/2R2RK1 b - - 4 29",
+    "Moves": "g5f4 d2f4",
+    "Rating": "813",
+    "RatingDeviation": "78",
+    "Popularity": "99",
+    "NbPlays": "1059",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/gK0BCPAb/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SVRGZ",
+    "FEN": "4r1k1/1p2q1pp/p1prP1b1/8/7P/4R1Q1/PP3PP1/4R1K1 b - - 0 26",
+    "Moves": "d6e6 e3e6 e7e6 e1e6",
+    "Rating": "718",
+    "RatingDeviation": "92",
+    "Popularity": "74",
+    "NbPlays": "104",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/GXebYcUz/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SVRKY",
+    "FEN": "r4rk1/p3bppp/4b3/3q4/5B2/3B3P/PP4P1/R2Q1R1K b - - 1 17",
+    "Moves": "e6h3 d3h7 g8h7 d1d5",
+    "Rating": "941",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "777",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/B9FAXYlL/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kramnik_Variation"
+  },
+  {
+    "PuzzleId": "SVStE",
+    "FEN": "r4rk1/1pp2pp1/p6p/3n4/P5nq/R2B3P/2Q2P2/5RK1 b - - 5 22",
+    "Moves": "h4h3 d3h7 g8h8 a3h3",
+    "Rating": "910",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "2290",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/DLf0GIo8/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SVTms",
+    "FEN": "r1b2rk1/pppp1pp1/5q1p/4p3/3bP3/2NP2P1/PPP2PBP/R2QK2R w KQ - 0 10",
+    "Moves": "c3d5 f6f2",
+    "Rating": "793",
+    "RatingDeviation": "80",
+    "Popularity": "100",
+    "NbPlays": "93",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ThRigcLJ#19",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "SVUa3",
+    "FEN": "r3r1k1/pp3n1p/2p2pp1/3p1p2/5P2/2P2R2/PP3bPP/RNB4K w - - 0 22",
+    "Moves": "f3f2 e8e1 f2f1 e1f1",
+    "Rating": "600",
+    "RatingDeviation": "104",
+    "Popularity": "71",
+    "NbPlays": "229",
+    "Themes": "backRankMate fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/sOzqkKO5#43",
+    "OpeningTags": ""
+  }
+]

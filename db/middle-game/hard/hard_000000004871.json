@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CgEvZ",
+    "FEN": "3r1rk1/5pp1/p3q2p/1ppnN3/4B3/P7/1PQ2PPP/4R1K1 b - - 5 24",
+    "Moves": "c5c4 e4h7 g8h8 e5g6 e6g6 h7g6",
+    "Rating": "1606",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2574",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/30H4RF64/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CgEwy",
+    "FEN": "r2q1rk1/1p1b1p2/2p1p1p1/4P1Np/PpBP1nPQ/8/1P3P1P/R2R2K1 w - - 3 22",
+    "Moves": "g4h5 d8g5 h4g5 f4h3 g1g2 h3g5",
+    "Rating": "1742",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "5056",
+    "Themes": "advantage attraction fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/BjHJ3r36#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CgF2E",
+    "FEN": "r2qr1k1/1pp2pbp/p2p1np1/3P4/2P1PB2/2N2Q1P/PP4P1/2R2RK1 b - - 1 15",
+    "Moves": "d8e7 f4g5 f6d7 g5e7",
+    "Rating": "1727",
+    "RatingDeviation": "88",
+    "Popularity": "74",
+    "NbPlays": "23",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/Rj63vjuO/black#30",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Four_Pawns_Attack"
+  },
+  {
+    "PuzzleId": "CgFEz",
+    "FEN": "5r2/1R1R1pk1/pp2pq1p/2b3pQ/4N3/P3P1P1/1r3PP1/6K1 b - - 3 28",
+    "Moves": "b2b1 g1h2 f6g6 h5g6 g7g6 e4c5",
+    "Rating": "1789",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "1053",
+    "Themes": "crushing defensiveMove long middlegame pin",
+    "GameUrl": "https://lichess.org/ACuTg5GA/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CgFH0",
+    "FEN": "6k1/1p3p2/p3pBp1/1b1pP2p/3q4/1Pr4P/R4PPK/R2B4 b - - 3 37",
+    "Moves": "c3c1 a1c1 d4f4 g2g3 f4c1 a2c2 c1c2 d1c2",
+    "Rating": "1730",
+    "RatingDeviation": "221",
+    "Popularity": "-29",
+    "NbPlays": "12",
+    "Themes": "crushing hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/MggVV6sW/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CgGO0",
+    "FEN": "r3r1k1/p2q3p/1p4pB/2p2bQ1/2P5/3B1R1P/P1P2PP1/6K1 b - - 7 23",
+    "Moves": "d7e7 f3f5 e7g5 f5g5",
+    "Rating": "1666",
+    "RatingDeviation": "107",
+    "Popularity": "71",
+    "NbPlays": "14",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/U6zRrM9Q/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CgHB1",
+    "FEN": "r3qrk1/1ppbbp1n/p6Q/4p3/4PP2/2NB3P/PPP3P1/R4RK1 b - - 0 16",
+    "Moves": "e5f4 e4e5 f7f5 e5f6",
+    "Rating": "1730",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "241",
+    "Themes": "crushing enPassant middlegame quietMove short",
+    "GameUrl": "https://lichess.org/MzeuQ9yh/black#32",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CgIpb",
+    "FEN": "r4rk1/p1pqbpp1/1p5p/3p4/1PnRnB2/5NP1/P3PPBP/2Q2RK1 b - - 1 18",
+    "Moves": "e7b4 c1c4 d5c4 d4d7",
+    "Rating": "1750",
+    "RatingDeviation": "97",
+    "Popularity": "68",
+    "NbPlays": "29",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/7EBGnwUt/black#36",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "CgNkE",
+    "FEN": "8/p3rqbk/R3b1p1/2B1p2p/2B1Pp2/1P3P2/P1Q3PP/6K1 w - - 3 31",
+    "Moves": "c5a7 e6c4 c2c4 e7a7 c4f7 a7f7",
+    "Rating": "1782",
+    "RatingDeviation": "94",
+    "Popularity": "74",
+    "NbPlays": "19",
+    "Themes": "advantage intermezzo long middlegame",
+    "GameUrl": "https://lichess.org/sf7sGZlb#61",
+    "OpeningTags": ""
+  }
+]

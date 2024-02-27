@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "AIdJg",
+    "FEN": "r4r2/3bn3/pk1N3p/P5p1/1P3p2/1B2n3/4pBPP/2R3K1 b - - 0 32",
+    "Moves": "b6a7 c1c7 a7b8 c7b7",
+    "Rating": "1674",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1530",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/e4BLW5kr/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AIdR3",
+    "FEN": "r4r1k/1bq4p/p2b1N2/1p3Qp1/1PpN4/4P1P1/P6P/2R2RK1 b - - 2 30",
+    "Moves": "a8e8 f6e8 f8f5 e8c7",
+    "Rating": "1604",
+    "RatingDeviation": "96",
+    "Popularity": "82",
+    "NbPlays": "17",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/cPGsOlss/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AIke5",
+    "FEN": "r4rk1/pp2bppp/4pn2/2p2qB1/3P4/2P2N1P/PP3PP1/R2QR1K1 b - - 0 13",
+    "Moves": "a8d8 e1e5 f5g6 f3h4 g6g5 e5g5",
+    "Rating": "1749",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "10610",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/v47RjDh4/black#26",
+    "OpeningTags": "French_Defense French_Defense_Rubinstein_Variation"
+  },
+  {
+    "PuzzleId": "AIlgO",
+    "FEN": "2kr3r/ppq2ppp/2b1p3/2p1P1PP/1nPp1P2/3P1NQ1/PP6/RNBK1B2 w - - 1 19",
+    "Moves": "a2a3 c6a4 d1e2 b4c2",
+    "Rating": "1603",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "478",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/vxmMjJMw#37",
+    "OpeningTags": "French_Defense French_Defense_Kings_Indian_Attack"
+  },
+  {
+    "PuzzleId": "AIlk2",
+    "FEN": "Q3kb1r/4ppp1/n2p1n2/2pPq1N1/2P3b1/5P2/r3PKPP/5B1R b k - 1 21",
+    "Moves": "e8d7 a8c6 d7d8 g5f7",
+    "Rating": "1637",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "5759",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/LZEpxIGg/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AInxp",
+    "FEN": "5rk1/p1p1rppp/1pRq4/3P4/4n3/1B3Q2/P4PPP/3R2K1 b - - 3 24",
+    "Moves": "d6b4 c6c4 b4c4 b3c4",
+    "Rating": "1761",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "2251",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/c40BUAAX/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AIocR",
+    "FEN": "r4r1k/p2R2pp/1pb5/2p3q1/2P2p2/P1Q5/1P3PPP/R4BK1 w - - 2 24",
+    "Moves": "d7d6 c6g2 f1g2 f4f3 c3f3 f8f3",
+    "Rating": "1781",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "8765",
+    "Themes": "crushing long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/lAjTUfu5#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AIr7t",
+    "FEN": "r5k1/pp4pp/2n1Q3/4P3/4p3/2P3q1/PP3rP1/1K1R3R b - - 0 20",
+    "Moves": "g8h8 h1h7 h8h7 d1h1 g3h4 h1h4",
+    "Rating": "1639",
+    "RatingDeviation": "78",
+    "Popularity": "75",
+    "NbPlays": "79",
+    "Themes": "attraction long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/lI2zU7jl/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AIs3N",
+    "FEN": "r1b1k1nr/ppqp1p1p/4p1p1/b5B1/3nP1Q1/R1PB4/5PPP/1N2K1NR b Kkq - 3 10",
+    "Moves": "b7b6 a3a5",
+    "Rating": "1703",
+    "RatingDeviation": "77",
+    "Popularity": "56",
+    "NbPlays": "75",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/lvAWhdve/black#20",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Mengarini_Variation"
+  }
+]

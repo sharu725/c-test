@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BIITc",
+    "FEN": "3r2k1/pp3p2/7p/3p2p1/3B2n1/1B1P1q2/PPP2P1P/1K2Q2R w - - 1 25",
+    "Moves": "e1e7 f3h1 e7e1 h1e1",
+    "Rating": "962",
+    "RatingDeviation": "84",
+    "Popularity": "94",
+    "NbPlays": "1244",
+    "Themes": "backRankMate hangingPiece mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/hA30QRml#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BIInf",
+    "FEN": "2r1Q2k/7p/2np2pB/pp6/8/5P1P/PqN3P1/R3R2K b - - 0 30",
+    "Moves": "c8e8 e1e8",
+    "Rating": "966",
+    "RatingDeviation": "165",
+    "Popularity": "82",
+    "NbPlays": "13",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/FgkCmsDr/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BIJVS",
+    "FEN": "2rr2k1/5ppp/1RN1pn2/8/4n3/4P2P/5PPB/1R4K1 b - - 2 26",
+    "Moves": "d8f8 c6e7 g8h8 e7c8",
+    "Rating": "957",
+    "RatingDeviation": "87",
+    "Popularity": "83",
+    "NbPlays": "97",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/VVSpEPAY/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BIKWD",
+    "FEN": "r4rk1/p4ppp/1p2p3/4N3/3P1P1q/2RBPb2/4Q1PP/6K1 w - - 0 21",
+    "Moves": "e2f3 h4e1 f3f1 e1c3",
+    "Rating": "939",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "3563",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/rwVRX0Vh#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BIKsl",
+    "FEN": "3rk3/ppp2p1p/8/8/3b4/PQ3P1b/1P4PP/RNq2RK1 w - - 0 19",
+    "Moves": "g1h1 c1f1",
+    "Rating": "706",
+    "RatingDeviation": "83",
+    "Popularity": "88",
+    "NbPlays": "276",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/5e3wiSrZ#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  },
+  {
+    "PuzzleId": "BIMla",
+    "FEN": "r4rk1/pb3ppp/1q6/1p2pN2/8/1PP1P3/Q4PPP/R4RK1 b - - 1 20",
+    "Moves": "b6g6 f5e7 g8h8 e7g6",
+    "Rating": "805",
+    "RatingDeviation": "85",
+    "Popularity": "88",
+    "NbPlays": "233",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/EviQkaR1/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BIP2S",
+    "FEN": "r1bq1Q1k/ppp3pp/4p2r/3pP3/3P3b/3BP3/PPP3PP/R1B2RK1 b - - 13 17",
+    "Moves": "d8f8 f1f8",
+    "Rating": "510",
+    "RatingDeviation": "93",
+    "Popularity": "100",
+    "NbPlays": "68",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/e3V62dqX/black#34",
+    "OpeningTags": "Bird_Opening Bird_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "BIPI3",
+    "FEN": "r1nq3r/1p1kpP2/p2p2B1/2pP4/P1P2P1p/1Pb2QnP/6P1/1RB2RK1 w - - 1 19",
+    "Moves": "f3c3 g3e2 g1h2 e2c3",
+    "Rating": "848",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "1419",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/29xKOcXx#37",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "BIT2H",
+    "FEN": "1r1q1rk1/4bp2/p1n1p2p/1p1p2p1/3Pn3/2P2NBP/PPQ2PP1/1BR2RK1 b - - 3 18",
+    "Moves": "e4g3 c2h7",
+    "Rating": "775",
+    "RatingDeviation": "81",
+    "Popularity": "100",
+    "NbPlays": "145",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/KVGJUkpd/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  }
+]

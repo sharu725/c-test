@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "g0eFp",
+    "FEN": "2kr1b1r/1ppq2p1/p2p3p/3Pp1P1/n3Pp1P/2N2P2/PPPQ4/2K2BRR b - - 4 22",
+    "Moves": "a4c3 f1h3 d7h3 h1h3",
+    "Rating": "1755",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "10008",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/mAvAPIWv/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "g0eiN",
+    "FEN": "r1b2rk1/2q1bppp/p3pn2/1p6/3PN3/3BR3/PP3PPP/R1BQ2K1 b - - 1 15",
+    "Moves": "c8b7 e4f6 e7f6 d3h7",
+    "Rating": "1655",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "2422",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/AQyKFdkM/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "g0lFm",
+    "FEN": "3r1r1k/pQ3B1p/6p1/1PpN4/P2bP3/1P6/KBR5/5q2 b - - 1 32",
+    "Moves": "f1f7 b2d4 c5d4 c2c7 f7f2 a2a3",
+    "Rating": "1672",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "810",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/r4zzLe6Z/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "g0lju",
+    "FEN": "r2q1r1k/pb2bppp/2p1p3/3p4/P4BQ1/2N3P1/1P3P1P/3RR1K1 b - - 8 19",
+    "Moves": "e7b4 f4e5 f7f6 g4b4",
+    "Rating": "1609",
+    "RatingDeviation": "159",
+    "Popularity": "-7",
+    "NbPlays": "9",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/Avy7IPUS/black#38",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "g0n9G",
+    "FEN": "1k2qn1r/pbp5/1p2p2p/1Nb1P3/2PN1p2/1P1Q2pP/PB4P1/3R3K b - - 0 25",
+    "Moves": "e8h5 d4c6 b7c6 d3d8 b8b7 d8c7 b7a6 c7a7",
+    "Rating": "1604",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "1042",
+    "Themes": "clearance mate mateIn4 middlegame queensideAttack sacrifice veryLong",
+    "GameUrl": "https://lichess.org/B8uactds/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "g0ohy",
+    "FEN": "5rk1/p4p1p/b3pPp1/3pP3/5R1Q/2p1q1N1/Pr4PP/3B1R1K b - - 1 28",
+    "Moves": "a6f1 g3f1 e3f4 h4f4",
+    "Rating": "1776",
+    "RatingDeviation": "79",
+    "Popularity": "73",
+    "NbPlays": "294",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/WEP8uHoK/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "g0p4P",
+    "FEN": "4rrk1/5ppp/2p2q2/Q2p1p2/p2Pn3/1P2PN2/P4PPP/R3R1K1 w - - 2 22",
+    "Moves": "a5a4 e8a8 a4b4 f8b8 b4b8 a8b8",
+    "Rating": "1626",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1286",
+    "Themes": "advantage clearance long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/ObA20HIU#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "g0rL6",
+    "FEN": "2r1nrk1/1Q2Rppp/8/2p2q2/2P5/1P6/P5PP/5RK1 b - - 5 29",
+    "Moves": "e8d6 f1f5 d6b7 e7b7",
+    "Rating": "1617",
+    "RatingDeviation": "85",
+    "Popularity": "70",
+    "NbPlays": "37",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/0KOW0cIL/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "g0uMD",
+    "FEN": "r6r/pp1nkpbp/3pp1p1/1Np5/B1PnP3/3P4/PP3PPP/1RB2RK1 w - - 1 15",
+    "Moves": "c1f4 d4e2 g1h1 e2f4",
+    "Rating": "1770",
+    "RatingDeviation": "315",
+    "Popularity": "-27",
+    "NbPlays": "4",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/E8wmTWST#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  }
+]

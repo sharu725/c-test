@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "e5iOD",
+    "FEN": "5rk1/rb4pp/5n2/p1qp1PB1/1pp5/2P5/PP1Q2BP/4RR1K b - - 1 24",
+    "Moves": "f6e4 e1e4 d5e4 g5e3 c5d5 d2d5 b7d5 e3a7",
+    "Rating": "2478",
+    "RatingDeviation": "83",
+    "Popularity": "84",
+    "NbPlays": "141",
+    "Themes": "advantage middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/orO1O56b/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "e5k9V",
+    "FEN": "r2q1rk1/1b2bp2/p1n1pn2/1p1p2B1/3P4/P1NQP3/1PB2PPP/R4RK1 b - - 0 15",
+    "Moves": "f6e4 c3e4 f7f5 e4c5",
+    "Rating": "2430",
+    "RatingDeviation": "84",
+    "Popularity": "84",
+    "NbPlays": "474",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/P9DZUBmB/black#30",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Modern_Variation"
+  },
+  {
+    "PuzzleId": "e5kyV",
+    "FEN": "R4rk1/5ppp/4p3/6Q1/2r2n2/5N2/2q2PPP/R6K b - - 5 26",
+    "Moves": "c2c1 f3g1 f7f6 a8f8 g8f8 a1c1 f6g5 c1c4",
+    "Rating": "2449",
+    "RatingDeviation": "104",
+    "Popularity": "86",
+    "NbPlays": "910",
+    "Themes": "advantage defensiveMove middlegame veryLong",
+    "GameUrl": "https://lichess.org/TXfn9lmi/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "e5nTk",
+    "FEN": "2r2kr1/4Rp1p/p4P2/1p3NP1/n6P/2b5/2P5/1K1R4 b - - 3 28",
+    "Moves": "c3b4 e7c7 a4c3 b1a1 c8e8 f5h6",
+    "Rating": "2599",
+    "RatingDeviation": "83",
+    "Popularity": "97",
+    "NbPlays": "83",
+    "Themes": "crushing defensiveMove long master middlegame",
+    "GameUrl": "https://lichess.org/cXBGi4wU/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "e5rCz",
+    "FEN": "7r/ppp2p1r/3p1qk1/2PPbN1p/1P2Ppp1/P4P1R/2Q2PK1/7R w - - 0 29",
+    "Moves": "c5d6 g4h3 g2h3 f6d8 d6c7 d8c7",
+    "Rating": "2508",
+    "RatingDeviation": "131",
+    "Popularity": "79",
+    "NbPlays": "19",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/uMZOfBSX#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "e5rm8",
+    "FEN": "3br3/4kq2/6R1/1p2Q3/3P3P/1PP5/1r3PP1/5NK1 b - - 6 35",
+    "Moves": "e7d7 g6d6 d7c7 d6e6 c7c8 e6c6 d8c7 c6c7 f7c7 e5e8",
+    "Rating": "2418",
+    "RatingDeviation": "115",
+    "Popularity": "83",
+    "NbPlays": "33",
+    "Themes": "crushing deflection discoveredAttack exposedKing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/sGmL4lUl/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "e5sGZ",
+    "FEN": "3rk2r/2pnqppp/p1Q2n2/8/2P1P3/5N1P/PP4P1/R2K1B1R w k - 1 17",
+    "Moves": "e4e5 e8g8 e5f6 e7e3",
+    "Rating": "2647",
+    "RatingDeviation": "98",
+    "Popularity": "77",
+    "NbPlays": "89",
+    "Themes": "castling crushing middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/8iPLb3Ns#33",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Albin_Countergambit"
+  },
+  {
+    "PuzzleId": "e60w7",
+    "FEN": "r2qk2r/4bp2/2n1p1p1/p2bP2p/1ppPN3/2P2BQ1/5PPP/R1B1R1K1 b kq - 1 18",
+    "Moves": "b4b3 e4d6 e7d6 f3d5 e6d5 e5d6 e8f8 g3f3 f8g7 f3d5",
+    "Rating": "2790",
+    "RatingDeviation": "96",
+    "Popularity": "92",
+    "NbPlays": "754",
+    "Themes": "advantage discoveredAttack master middlegame veryLong",
+    "GameUrl": "https://lichess.org/AB2lpV50/black#36",
+    "OpeningTags": "Slav_Defense Slav_Defense_Geller_Gambit"
+  },
+  {
+    "PuzzleId": "e6340",
+    "FEN": "r3r2k/b4Qp1/2Pp3p/p4Nq1/2B1P3/8/1Bb3PP/1N5K b - - 4 32",
+    "Moves": "e8g8 h2h4 g5g4 c4e2 c2b3 f7g8 b3g8 e2g4",
+    "Rating": "2782",
+    "RatingDeviation": "118",
+    "Popularity": "91",
+    "NbPlays": "277",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/oHYZnkRa/black#64",
+    "OpeningTags": ""
+  }
+]

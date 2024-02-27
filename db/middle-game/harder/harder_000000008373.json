@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "POAyF",
+    "FEN": "3r4/1kp3r1/5p2/2bppP1p/Qp6/2P2P2/3N1q2/R2K1B2 b - - 1 29",
+    "Moves": "b4c3 a4a6 b7b8 a6a8",
+    "Rating": "1945",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "333",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/H4uxE446/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "POBbY",
+    "FEN": "2q1k2r/1ppRn1pp/1rP2p2/4p3/2B1P3/2PQ3P/6P1/2B3K1 b k - 5 19",
+    "Moves": "b7c6 c4e6 c6c5 d7e7 e8e7 e6c8",
+    "Rating": "1959",
+    "RatingDeviation": "91",
+    "Popularity": "71",
+    "NbPlays": "36",
+    "Themes": "advantage discoveredAttack exposedKing long middlegame quietMove",
+    "GameUrl": "https://lichess.org/9ia4QsZK/black#38",
+    "OpeningTags": "Giuoco_Piano Giuoco_Piano_Other_variations"
+  },
+  {
+    "PuzzleId": "POBuQ",
+    "FEN": "3r2k1/1bq1bppp/2p1p3/1P2P3/1nr2P2/1QN3P1/3BP1BP/R4RK1 b - - 0 20",
+    "Moves": "d8d2 b3c4 c7b6 g1h1 c6b5 c4b5 b6b5 c3b5 b7g2 h1g2",
+    "Rating": "1972",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "886",
+    "Themes": "advantage hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/aVRff28K/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "POC6e",
+    "FEN": "2kr3r/Qpp2pp1/p1b4p/2Bn3P/1PB2q2/8/P1P2PP1/2KRR3 w - - 2 20",
+    "Moves": "c1b1 d5c3 b1b2 c3d1",
+    "Rating": "1806",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "50",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/PCKGfA7T#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "POCxb",
+    "FEN": "rn2k2r/pbppnppp/1p2pq2/8/2PP2Q1/2NBB3/PP3PPP/R3K2R b KQkq - 6 10",
+    "Moves": "b8a6 e3g5 h7h5 g4h4",
+    "Rating": "1962",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1408",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/G0m4CMGj/black#20",
+    "OpeningTags": "English_Defense English_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "POE1A",
+    "FEN": "rn4k1/p4rb1/1pp1P1Rp/3p1B2/3P2Q1/1PN5/P1Pq1PPP/5bK1 b - - 0 25",
+    "Moves": "f1e2 e6f7 g8f8 g4e2 d2e2 c3e2",
+    "Rating": "1950",
+    "RatingDeviation": "74",
+    "Popularity": "78",
+    "NbPlays": "89",
+    "Themes": "advancedPawn crushing long middlegame",
+    "GameUrl": "https://lichess.org/1S1nVfb7/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "POEsa",
+    "FEN": "r4rk1/pp1qp1bp/2pnbpp1/8/3PNP2/2PB4/PP2Q1PP/R1B2RK1 b - - 6 15",
+    "Moves": "a8e8 e4c5 e6g4 c5d7 g4e2 d3e2",
+    "Rating": "1965",
+    "RatingDeviation": "72",
+    "Popularity": "94",
+    "NbPlays": "10662",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/0R4m4SRt/black#30",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "POGIE",
+    "FEN": "4rnk1/pp2q3/2b1p2Q/5Bp1/7p/1P5P/P4P2/3RR1K1 w - - 8 32",
+    "Moves": "f5g6 e7f6 g6h7 f8h7 h6f6 h7f6",
+    "Rating": "1987",
+    "RatingDeviation": "129",
+    "Popularity": "31",
+    "NbPlays": "10",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/fSvKO5EO#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "POHik",
+    "FEN": "2rr2k1/p4pp1/Pq2pn1p/1b2N1bP/2pP4/2P2BBQ/2R2PPK/R7 b - - 0 28",
+    "Moves": "b5a6 c2a2 a6b5 a2a7",
+    "Rating": "1933",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "190",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/xU3a55bh/black#56",
+    "OpeningTags": ""
+  }
+]

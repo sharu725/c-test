@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "UpOeG",
+    "FEN": "r1bqr1k1/ppp1p1b1/2np1p2/7Q/2PP1B2/2NBP3/PP3PP1/R3K3 b Q - 2 13",
+    "Moves": "e7e5 h5h7 g8f8 f4h6",
+    "Rating": "1505",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "11213",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/E7SNIXSU/black#26",
+    "OpeningTags": "London_System London_System_Other_variations"
+  },
+  {
+    "PuzzleId": "UpP9k",
+    "FEN": "r3r1k1/5pbp/p1R1p1p1/qp1p4/3P4/BP2PN2/P1QN1PPP/6K1 w - - 2 19",
+    "Moves": "c2b2 b5b4 a3b4 a5b4",
+    "Rating": "1410",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "994",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/MGaRXQnj#37",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "UpSQb",
+    "FEN": "1r3r1k/3b1pp1/1b1p1q1p/1pp1pP1Q/p3P3/P1PP2RP/BP4P1/R1B4K w - - 2 23",
+    "Moves": "a2f7 f6f7 g3g6 d7f5 e4f5 f7f5 h5f5 f8f5",
+    "Rating": "1544",
+    "RatingDeviation": "158",
+    "Popularity": "-100",
+    "NbPlays": "8",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/nWILNYz3#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UpSoa",
+    "FEN": "r5k1/1RQ2ppp/p4r2/8/3qP1P1/P2P1K1P/8/5B1R w - - 1 33",
+    "Moves": "f3g3 d4f2",
+    "Rating": "1453",
+    "RatingDeviation": "439",
+    "Popularity": "53",
+    "NbPlays": "8",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/7XbzVfi8#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UpSsb",
+    "FEN": "rn2rQk1/pp4pp/2p1p1b1/3Nq3/2P3P1/1P1BP3/P6P/R4RK1 b - - 2 22",
+    "Moves": "e8f8 d5e7 g8h8 f1f8",
+    "Rating": "1524",
+    "RatingDeviation": "87",
+    "Popularity": "75",
+    "NbPlays": "135",
+    "Themes": "backRankMate deflection mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Rs4xMU8g/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UpStG",
+    "FEN": "1brqk2r/1p1n1pp1/p3p1p1/8/3PB1P1/7P/PP3P2/R1BQ1RK1 w k - 1 17",
+    "Moves": "e4b7 d8c7 f2f4 c7b7",
+    "Rating": "1591",
+    "RatingDeviation": "95",
+    "Popularity": "78",
+    "NbPlays": "26",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ZwdHRKo7#33",
+    "OpeningTags": "Slav_Defense Slav_Defense_Quiet_Variation"
+  },
+  {
+    "PuzzleId": "UpTKd",
+    "FEN": "3r1k2/p2rb3/1p2p3/1Pp1P2p/P1Pn1Pp1/3RN1P1/1B4K1/3R4 w - - 2 31",
+    "Moves": "e3c2 d4c2 d3d7 c2e3 g2g1 e3d1 d7d8 e7d8",
+    "Rating": "1432",
+    "RatingDeviation": "77",
+    "Popularity": "83",
+    "NbPlays": "69",
+    "Themes": "crushing fork master middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/FTNpQl85#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UpUOn",
+    "FEN": "r1b1rnk1/5pb1/p2p2p1/q2P2P1/2pBPp2/2N3N1/PP5Q/2KR3R b - - 1 21",
+    "Moves": "f4g3 h2h8 g7h8 h1h8",
+    "Rating": "1556",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "429",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/1VtC8ZU7/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UpUZs",
+    "FEN": "r4b1r/2p3p1/ppkp2B1/3Np3/3nP1Qq/3PB3/PPP2PP1/R4RK1 w - - 3 18",
+    "Moves": "g4h4 d4e2 g1h1 h8h4",
+    "Rating": "1548",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "968",
+    "Themes": "intermezzo kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/sgKtCsmV#35",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  }
+]

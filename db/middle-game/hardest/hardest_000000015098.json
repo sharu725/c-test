@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "VKzCL",
+    "FEN": "r5rk/5p1p/p1Rp4/1p1PbQ2/3pPp1q/3B4/PP3PPP/2R3K1 w - - 8 22",
+    "Moves": "f5f7 a8f8 f7f8 g8f8",
+    "Rating": "2129",
+    "RatingDeviation": "138",
+    "Popularity": "0",
+    "NbPlays": "16",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/V3jXR5pE#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VKzbJ",
+    "FEN": "8/1pq2k2/4bprp/p2p3Q/3Pp3/1BP3bP/PP1N2P1/5RK1 w - - 8 28",
+    "Moves": "c3c4 g3h2 g1h1 c7g3 f1f6 f7f6",
+    "Rating": "2294",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "896",
+    "Themes": "clearance crushing long middlegame",
+    "GameUrl": "https://lichess.org/xO8sbDyH#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VL04j",
+    "FEN": "2r3k1/6p1/1r2p2p/q2pNp2/b2P1P2/2pB2P1/1PQK3P/R3R3 w - - 0 30",
+    "Moves": "b2c3 c8c3 c2c3 b6b2 d2e3 a5c3",
+    "Rating": "2040",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "784",
+    "Themes": "crushing deflection long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/WnmSHTQ4#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VL0lb",
+    "FEN": "3k1n2/1b5q/ppppp3/5n1r/3PN2P/6P1/PPP2P2/R2Q1RK1 b - - 1 21",
+    "Moves": "f5h4 e4f6 c6c5 d1h5 h7h5 f6h5",
+    "Rating": "2252",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "623",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/t2PzweE5/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VL1PM",
+    "FEN": "r2q3r/1pp2k1p/3p2pQ/1N1Pp3/1pn2PP1/8/P3K2R/R7 b - - 0 24",
+    "Moves": "d8d7 h6h7 h8h7 h2h7 f7e8 b5c7 d7c7 h7c7",
+    "Rating": "2255",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1960",
+    "Themes": "advantage fork middlegame sacrifice veryLong xRayAttack",
+    "GameUrl": "https://lichess.org/U19dwRB3/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VL1YK",
+    "FEN": "6rk/ppp4p/1b4r1/3P1qpQ/4NPR1/8/PP2R1P1/7K b - - 2 31",
+    "Moves": "f5f8 e4g5 g6h6 g5f7 f8f7 g4g8 h8g8 h5h6",
+    "Rating": "2148",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "136",
+    "Themes": "advantage discoveredAttack fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/akygwYIs/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VL35V",
+    "FEN": "N4rk1/pQ1n1pp1/7p/4q3/3n4/3B3P/PPP2PP1/R3K2R w KQ - 0 16",
+    "Moves": "e1d2 d7c5 b7c7 e5g5",
+    "Rating": "2310",
+    "RatingDeviation": "81",
+    "Popularity": "86",
+    "NbPlays": "140",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/yqYD1kdb#31",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Ross_Gambit"
+  },
+  {
+    "PuzzleId": "VL4uR",
+    "FEN": "2r3k1/2q2pp1/p4b1p/3P4/1Pp2p2/PR2rP1P/2QN2P1/2R3K1 w - - 0 28",
+    "Moves": "d2c4 c7c4 b3e3 c4c2 c1c2 c8c2",
+    "Rating": "2056",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "1607",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/2oFDEfXX#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VL6vH",
+    "FEN": "1kbr1b1r/p1p3p1/1p5q/1PpBp3/QNP2p2/P2P2P1/4PR1P/R5K1 b - - 1 24",
+    "Moves": "c5b4 a4a7 b8a7 a3b4 c8a6 a1a6 a7b8 a6a8",
+    "Rating": "2069",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "5133",
+    "Themes": "discoveredAttack intermezzo mate mateIn4 middlegame queensideAttack sacrifice veryLong",
+    "GameUrl": "https://lichess.org/zleehcws/black#48",
+    "OpeningTags": ""
+  }
+]

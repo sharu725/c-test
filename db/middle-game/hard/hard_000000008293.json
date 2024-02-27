@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "LYUbI",
+    "FEN": "5r2/1pq2pk1/p5pN/3p2PQ/4r3/2P5/PP4P1/R4R1K w - - 1 27",
+    "Moves": "h5f3 e4h4 h1g1 c7h2 g1f2 h4f4 f3f4 h2f4",
+    "Rating": "1679",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "1651",
+    "Themes": "advantage middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/4ihSHNGk#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LYV8l",
+    "FEN": "2R2bk1/5p2/3p2P1/4p3/1p2q3/1n3QBP/1P2NPK1/r7 b - - 1 37",
+    "Moves": "e4g6 f3b3 g6e4 b3f3 e4f3 g2f3",
+    "Rating": "1771",
+    "RatingDeviation": "75",
+    "Popularity": "73",
+    "NbPlays": "326",
+    "Themes": "advantage hangingPiece long master middlegame",
+    "GameUrl": "https://lichess.org/UXRlNEG3/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LYX4d",
+    "FEN": "3r1rk1/p4ppp/bp2pq2/4N3/4Q3/2P5/PP3PPP/R2R2K1 b - - 5 16",
+    "Moves": "h7h6 e5d7 f6e7 d7f8",
+    "Rating": "1751",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2324",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/6q9UusC1/black#32",
+    "OpeningTags": "French_Defense French_Defense_Burn_Variation"
+  },
+  {
+    "PuzzleId": "LYXeC",
+    "FEN": "3r2k1/2q4p/p3r1p1/1p3p2/4Pb1Q/P1N4P/1Pn2PP1/3RRBK1 b - - 0 22",
+    "Moves": "d8d1 e1d1 g6g5 h4h5",
+    "Rating": "1605",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "616",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/2iFT89uq/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LYYCf",
+    "FEN": "r1b3n1/p1k1bQ2/2pq4/4N3/8/8/P1p2PPP/RNB3K1 w - - 0 21",
+    "Moves": "b1c3 d6d1 c3d1 c2d1q",
+    "Rating": "1634",
+    "RatingDeviation": "81",
+    "Popularity": "95",
+    "NbPlays": "15289",
+    "Themes": "advancedPawn backRankMate mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/5vhGNRDw#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LYYhH",
+    "FEN": "rn1qk2r/p1pp1ppp/1p2p3/3nN3/3P4/2PP2B1/P4PPP/R2QK2R b KQkq - 4 10",
+    "Moves": "d5c3 d1f3 e8g8 f3a8",
+    "Rating": "1607",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "436",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/JTGOssAx/black#20",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "LYbaB",
+    "FEN": "1r5k/p4Bpp/5n2/2p2QN1/5P2/q1pP3P/PrP5/KR4R1 w - - 1 31",
+    "Moves": "f7e6 b2b1 g1b1 b8b1 a1b1 a3b2",
+    "Rating": "1604",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "260",
+    "Themes": "attraction long master mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/PSCM5wMn#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LYc6V",
+    "FEN": "r3k2r/pppb1ppp/6q1/3P4/4n3/2N5/PP2QPPP/R3KB1R b KQkq - 1 16",
+    "Moves": "f7f5 f2f3 e8g8 f3e4",
+    "Rating": "1634",
+    "RatingDeviation": "73",
+    "Popularity": "98",
+    "NbPlays": "818",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ppBTHvvj/black#32",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense"
+  },
+  {
+    "PuzzleId": "LYdq3",
+    "FEN": "r4rk1/1bp2p2/pb3q2/1p4p1/8/1BNQ1P1P/PP3P2/R4RK1 b - - 0 19",
+    "Moves": "f6f3 d3g6 g8h8 g6h6",
+    "Rating": "1746",
+    "RatingDeviation": "86",
+    "Popularity": "85",
+    "NbPlays": "37",
+    "Themes": "advantage kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/NH8T9xnU/black#38",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  }
+]

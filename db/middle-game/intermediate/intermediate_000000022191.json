@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "rSAFo",
+    "FEN": "4r1rk/3Rbpp1/p6p/4PN2/2p2PQ1/q6P/6PK/3R4 w - - 0 33",
+    "Moves": "f5e7 e8e7",
+    "Rating": "1495",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "1",
+    "Themes": "equality middlegame oneMove",
+    "GameUrl": "https://lichess.org/kerRppUp#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rSCFT",
+    "FEN": "r6k/pp2r1pn/4p1Bp/3pP2Q/2p2q1P/2P1RP1R/PP3KP1/8 b - - 6 33",
+    "Moves": "h7f8 g2g3 f8g6 g3f4 g6f4 h5g4",
+    "Rating": "1422",
+    "RatingDeviation": "151",
+    "Popularity": "-100",
+    "NbPlays": "11",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/DO72sJ5H/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rSD4P",
+    "FEN": "r1q5/pp4p1/3kpb1p/3pn3/1P6/2P2Q2/P4PPP/RNR3K1 w - - 5 20",
+    "Moves": "f3f4 f6g5 f4g3 g5c1 b1a3 c1a3",
+    "Rating": "1422",
+    "RatingDeviation": "121",
+    "Popularity": "67",
+    "NbPlays": "13",
+    "Themes": "crushing long middlegame skewer",
+    "GameUrl": "https://lichess.org/LTWBxf0f#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rSDyn",
+    "FEN": "r1bqr1k1/pp1nbppp/2p5/3p2B1/3Pn3/2NBP3/PPQ1NPPP/2KR3R w - - 9 11",
+    "Moves": "c3e4 d5e4 d3e4 e7g5",
+    "Rating": "1564",
+    "RatingDeviation": "93",
+    "Popularity": "33",
+    "NbPlays": "31",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/GoAKS7xN#21",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "rSEKK",
+    "FEN": "Q1b1kb1r/4n2p/p3p1p1/1p2q3/8/8/PPB2RPP/RN4K1 b k - 0 18",
+    "Moves": "e5b2 c2g6 h7g6 f2b2",
+    "Rating": "1407",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "8679",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/sfJbVLiP/black#36",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "rSEuC",
+    "FEN": "2rqk2r/1p2nppp/p2bpn2/3pN3/3QPP2/2N5/PPPB2PP/R4RK1 w k - 1 14",
+    "Moves": "e4d5 d6c5 d4c5 c8c5",
+    "Rating": "1526",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "4661",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/zfZrxp7a#27",
+    "OpeningTags": "Bird_Opening Bird_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "rSFuJ",
+    "FEN": "r4rk1/bppq1pp1/p2p3B/3PpN2/1P1nP3/3P2PP/P4PK1/1R1QR3 b - - 0 18",
+    "Moves": "g7h6 d1g4 g8h7 g4g7",
+    "Rating": "1571",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "128",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/uaHpSKTI/black#36",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "rSHOj",
+    "FEN": "3rr1k1/ppp2ppp/5n2/2P1bb2/8/2NPB3/PP2BPPP/R3R1K1 w - - 1 17",
+    "Moves": "f2f4 e5c3 b2c3 e8e3",
+    "Rating": "1445",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "873",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/tyHDmDND#33",
+    "OpeningTags": "Ponziani_Opening Ponziani_Opening_Jaenisch_Counterattack"
+  },
+  {
+    "PuzzleId": "rSIu9",
+    "FEN": "r2qkb1r/ppp2ppp/2p5/8/3PnPP1/7P/PPP1P3/R1BQKB1R w KQkq - 0 10",
+    "Moves": "f1g2 d8h4 e1f1 h4f2",
+    "Rating": "1544",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "583",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/RoCfE7if#19",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_The_Walrus"
+  }
+]

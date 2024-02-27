@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "uJLMH",
+    "FEN": "4rqk1/1p1n2pn/p2p3p/P1pPprB1/2P3Q1/2NN4/1P3PPP/R4RK1 b - - 0 19",
+    "Moves": "f5g5 g4d7",
+    "Rating": "1106",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "298",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/tVs92XBk/black#38",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_French_Benoni"
+  },
+  {
+    "PuzzleId": "uJM8x",
+    "FEN": "r1bq1rk1/ppp3pp/2n2p2/3p4/2PPp3/2PBPNP1/P5PP/2RQ1RK1 w - - 0 13",
+    "Moves": "d3e4 d5e4",
+    "Rating": "1066",
+    "RatingDeviation": "85",
+    "Popularity": "91",
+    "NbPlays": "402",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/PheZxsax#25",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "uJPSL",
+    "FEN": "2kr2nr/ppp2ppp/4n3/4P3/4N3/6B1/PP3PPP/2R2K1R b - - 2 15",
+    "Moves": "g8e7 e4d6 c8b8 d6f7",
+    "Rating": "1185",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "2539",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/Ir07Uyj6/black#30",
+    "OpeningTags": "Elephant_Gambit Elephant_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "uJSWP",
+    "FEN": "r2q1rB1/ppp2pk1/4p1p1/3nPbN1/3n3Q/8/PP3PPP/R1B1R1K1 b - - 0 19",
+    "Moves": "f8g8 h4h7 g7f8 h7f7",
+    "Rating": "1115",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "147",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/XWi9Y5CZ/black#38",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation"
+  },
+  {
+    "PuzzleId": "uJVaR",
+    "FEN": "3r1rk1/1pp1q1p1/p1nnbp1p/4p3/P7/2PQ1NNP/1PB2PP1/R3R1K1 b - - 4 19",
+    "Moves": "d6f5 g3f5 d8d3 f5e7",
+    "Rating": "1178",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "517",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/cRVk9rbW/black#38",
+    "OpeningTags": "Vienna_Game Vienna_Game_Anderssen_Defense"
+  },
+  {
+    "PuzzleId": "uJW5g",
+    "FEN": "5rk1/3qppbp/2Np1Pp1/1Q6/5P2/1nN4P/1PP3P1/2B2K2 b - - 0 24",
+    "Moves": "b3c1 c6e7 d7e7 f6e7",
+    "Rating": "1111",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "133",
+    "Themes": "advancedPawn crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/d0rW4B6p/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uJXG2",
+    "FEN": "r4qk1/1r3p1p/6p1/1P2p3/P3Pn2/3B1Q1P/6P1/R4RK1 w - - 3 26",
+    "Moves": "d3c4 f8c5 g1h2 c5c4",
+    "Rating": "1063",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "229",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/lRcgPuoW#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uJaL0",
+    "FEN": "r1bbr1k1/pp3ppp/8/2pPN1P1/2P2Q2/2q5/P3B1P1/R4RK1 b - - 0 18",
+    "Moves": "c3e5 f4f7 g8h8 f7f8 e8f8 f1f8",
+    "Rating": "1124",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "2725",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/9XA9mQaL/black#36",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  },
+  {
+    "PuzzleId": "uJbmY",
+    "FEN": "1r1r4/R5pp/4pk2/5p2/1bN1n3/1P3N2/4KPPP/1R6 w - - 8 25",
+    "Moves": "f3e5 e4c3 e2f3 c3b1",
+    "Rating": "1161",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "10681",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/aWfK1luz#49",
+    "OpeningTags": ""
+  }
+]

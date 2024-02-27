@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "sReoh",
+    "FEN": "r4rk1/1ppb1pp1/p5np/3RP3/5q2/P1P2N2/B1Q2PPP/5RK1 b - - 0 19",
+    "Moves": "d7c6 d5d4 f4f3 g2f3",
+    "Rating": "1481",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "5718",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/7SRkbp2K/black#38",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Ragozin_Defense"
+  },
+  {
+    "PuzzleId": "sRfAS",
+    "FEN": "3r2k1/1Q3pp1/p4bbp/P7/1P1q4/5N1P/B4PP1/6K1 b - - 0 32",
+    "Moves": "g6e4 b7f7 g8h7 f3d4",
+    "Rating": "1454",
+    "RatingDeviation": "74",
+    "Popularity": "84",
+    "NbPlays": "521",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/3Z44zw3G/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sRfgn",
+    "FEN": "2rq1rk1/p4ppp/1p6/2ppPN2/4nP2/1P2P1P1/P6P/2RQ1RK1 b - - 1 19",
+    "Moves": "d8d7 d1g4 d7f5 g4f5",
+    "Rating": "1589",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "266",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/dBvxBfat/black#38",
+    "OpeningTags": "Queens_Indian_Defense Queens_Indian_Defense_Fianchetto_Variation"
+  },
+  {
+    "PuzzleId": "sRiQq",
+    "FEN": "2r4k/p1p2Rbp/6p1/1pPbp1Pn/4N3/4B2P/PP4B1/R5K1 w - - 0 23",
+    "Moves": "e4f6 d5f7 f6h5 g6h5",
+    "Rating": "1477",
+    "RatingDeviation": "357",
+    "Popularity": "-67",
+    "NbPlays": "5",
+    "Themes": "equality hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/5hQLbQQB#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sRkgA",
+    "FEN": "r2qk2r/ppp2pp1/2nb4/1B1p1b2/3P3p/P1P1PNB1/5PPP/R2QK2R w KQkq - 0 12",
+    "Moves": "g3h4 h8h4 f3h4 d8h4",
+    "Rating": "1464",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "1990",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/rgG3LL1U#23",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "sRlFs",
+    "FEN": "r3k2r/pbppqppp/np2p3/1N2P3/3P4/P4N2/1PP2PPP/R2Q1RK1 b kq - 0 12",
+    "Moves": "c7c6 b5d6 e7d6 e5d6",
+    "Rating": "1441",
+    "RatingDeviation": "157",
+    "Popularity": "-50",
+    "NbPlays": "11",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/rzGUb0j3/black#24",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Queenside_Fianchetto_Variation"
+  },
+  {
+    "PuzzleId": "sRp7G",
+    "FEN": "r1b2r2/2p1k1pp/p1Qp4/1p2p1q1/4P3/4P3/PP4PP/RN2R1K1 w - - 2 17",
+    "Moves": "c6a8 c8h3 a8f8 e7f8",
+    "Rating": "1437",
+    "RatingDeviation": "85",
+    "Popularity": "65",
+    "NbPlays": "51",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/yoha1oyE#33",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "sRric",
+    "FEN": "2r3k1/1p1q1ppp/pb3P2/3p4/P7/1PNP3P/1P1B2P1/2R1R2K b - - 0 24",
+    "Moves": "g7f6 c3d5 d7d5 c1c8",
+    "Rating": "1462",
+    "RatingDeviation": "436",
+    "Popularity": "100",
+    "NbPlays": "2",
+    "Themes": "deflection discoveredAttack equality middlegame short",
+    "GameUrl": "https://lichess.org/Otw9Wa5K/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sRrqw",
+    "FEN": "r4b1r/pppk1q1p/2npb3/3N1n2/4Q2B/5N2/PPP1PPPP/R3KB1R w KQ - 5 13",
+    "Moves": "d5f6 d7c8 f3g5 f7f6 e4e6 f6e6 g5e6 f5h4",
+    "Rating": "1504",
+    "RatingDeviation": "325",
+    "Popularity": "100",
+    "NbPlays": "3",
+    "Themes": "defensiveMove equality interference middlegame veryLong",
+    "GameUrl": "https://lichess.org/lGmjd5qh#25",
+    "OpeningTags": ""
+  }
+]

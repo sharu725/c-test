@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "JHDRC",
+    "FEN": "r4r1k/1p2q2p/3p2p1/p3n3/2BQ2bP/2N3B1/PPP3P1/2K4R b - - 3 22",
+    "Moves": "g4e6 g3e5 d6e5 d4e5 e7f6 e5e6 f6f4 c1b1",
+    "Rating": "1764",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "6666",
+    "Themes": "advantage defensiveMove kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/yQgUJtx2/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JHE75",
+    "FEN": "r6r/5ppp/p1pQ1kq1/8/3Pb3/2b3P1/PP3P1P/R4RK1 b - - 2 16",
+    "Moves": "f6g5 d6f4 g5h5 f4h4",
+    "Rating": "1790",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1785",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/zLmzAmNd/black#32",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Other_variations"
+  },
+  {
+    "PuzzleId": "JHFED",
+    "FEN": "rn2r1k1/ppp2pp1/3b2p1/3P4/N1B4q/3PBR2/PPP1NK2/R2Q4 w - - 2 18",
+    "Moves": "e2g3 h4h2 f2f1 d6g3 f3g3 h2g3",
+    "Rating": "1697",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1006",
+    "Themes": "crushing deflection long middlegame",
+    "GameUrl": "https://lichess.org/ZAMYTOqL#35",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit"
+  },
+  {
+    "PuzzleId": "JHFfi",
+    "FEN": "r3k2r/p4p1p/2nq1n2/1pp3p1/3pPNb1/3P2N1/PPP1BQPP/R3K2R w KQkq - 0 14",
+    "Moves": "e2g4 f6g4 g3f5 d6f4 f2f4 g5f4",
+    "Rating": "1779",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "10953",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/tAcjxwcF#27",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "JHFwp",
+    "FEN": "3r4/pk4pp/3r1pb1/n2Np3/4P3/1BP5/PP4PP/4RRK1 w - - 7 24",
+    "Moves": "b3c2 d6d5 e4d5 g6c2",
+    "Rating": "1607",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "882",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/XqQe0JO6#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JHGCk",
+    "FEN": "r4Q2/p5pk/1p4qp/2pP4/2P1PR2/3B3b/P5PP/5RK1 w - - 1 29",
+    "Moves": "f4f2 a8f8 e4e5 g6d3",
+    "Rating": "1786",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1193",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/gh6w43HX#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JHGEt",
+    "FEN": "r2qr1k1/1pp2p2/p5p1/3p2Pp/5b1P/3B1N1R/P4P2/1R1Q1K2 w - - 0 22",
+    "Moves": "b1b7 d8c8 f3g1 c8b7",
+    "Rating": "1676",
+    "RatingDeviation": "72",
+    "Popularity": "95",
+    "NbPlays": "10040",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/o5dX15eH#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JHHCD",
+    "FEN": "r2qrknQ/1b1p1p1N/pp4p1/2p1np2/2P1P3/2NP4/PPB3PP/R4RK1 b - - 8 18",
+    "Moves": "f8e7 h8e5",
+    "Rating": "1610",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "1015",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/MshBQnSJ/black#36",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JHHGb",
+    "FEN": "r2qr1k1/pp3p1p/6pb/6N1/2bpP1Q1/P1N5/1PP2PPP/3RR1K1 w - - 2 17",
+    "Moves": "b2b3 d8g5 g4g5 h6g5",
+    "Rating": "1768",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "431",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/pfWdgbL4#33",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  }
+]

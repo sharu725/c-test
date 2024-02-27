@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Std39",
+    "FEN": "r2n2k1/5pp1/p6p/1p3N2/3Qb1q1/1B6/PPP2PPP/R5K1 w - - 0 24",
+    "Moves": "f5h6 g7h6 f2f3 e4f3 d4g4 f3g4",
+    "Rating": "1192",
+    "RatingDeviation": "80",
+    "Popularity": "80",
+    "NbPlays": "128",
+    "Themes": "advantage hangingPiece long middlegame pin",
+    "GameUrl": "https://lichess.org/dTH2BYJw#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "StdNz",
+    "FEN": "5r1k/3qpp1p/p2p4/1p3n2/4P3/1PQ4P/P2r2P1/R3R1K1 b - - 1 26",
+    "Moves": "d2d4 e4f5 d7f5 c3d4",
+    "Rating": "1071",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "3838",
+    "Themes": "capturingDefender crushing kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/IOqzryFY/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "StfkN",
+    "FEN": "rqb1rk2/p2p1pbp/B1p1p1p1/2N5/8/2P5/PP3PPP/R2QR1K1 b - - 8 18",
+    "Moves": "c8a6 c5d7 f8g8 d7b8",
+    "Rating": "1034",
+    "RatingDeviation": "413",
+    "Popularity": "-100",
+    "NbPlays": "2",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/ABtjXtdk/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "Stgdb",
+    "FEN": "rn1q1rk1/1pp3pp/p2p4/2b1p3/6Q1/P2P2n1/NPP2PPP/R1B1K2R w KQ - 0 12",
+    "Moves": "g4g3 c5f2 g3f2 f8f2",
+    "Rating": "1004",
+    "RatingDeviation": "82",
+    "Popularity": "87",
+    "NbPlays": "243",
+    "Themes": "attackingF2F7 crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/dhGJQGyd#23",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Boi_Variation"
+  },
+  {
+    "PuzzleId": "StjCi",
+    "FEN": "r2qkb1r/1p3ppp/2p1pn2/3p4/pnPP4/PQ2PN2/1P3PPP/RNB2RK1 w kq - 0 11",
+    "Moves": "b3c3 f6e4 a3b4 e4c3",
+    "Rating": "1039",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "169",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/LF2GVtEC#21",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "Stjmb",
+    "FEN": "r4r2/pp4k1/2q4p/3NQbp1/3P1pP1/8/PP5P/3R2K1 b - - 1 32",
+    "Moves": "g7g8 d5e7 g8h7 e7c6",
+    "Rating": "1060",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "741",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/ypU7GrbM/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Stl00",
+    "FEN": "r1b1k2r/pppp1ppp/5n2/4q3/P3P3/2P2Q2/2P2PPP/R1B1KB1R w KQkq - 2 10",
+    "Moves": "f1d3 e5c3 e1d1 c3a1",
+    "Rating": "1001",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "327",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/ss5q1LaM#19",
+    "OpeningTags": "Vienna_Game Vienna_Game_Anderssen_Defense"
+  },
+  {
+    "PuzzleId": "Stmrb",
+    "FEN": "5r1k/p1n5/1p2pbpN/2p5/2P3P1/P2QBq1P/1P6/1K1R4 b - - 0 29",
+    "Moves": "f8d8 h6f7 h8h7 f7d8",
+    "Rating": "1126",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "3845",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/0yzuF8OZ/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Stn33",
+    "FEN": "r4rk1/pppqppb1/2np4/6P1/2PPN3/3Q2P1/PP2PP2/R3K2R b KQ - 2 15",
+    "Moves": "c6b4 e4f6 e7f6 d3h7",
+    "Rating": "1044",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "2662",
+    "Themes": "clearance kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/IX16nUCA/black#30",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Fianchetto_Variation"
+  }
+]

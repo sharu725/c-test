@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "mAIf7",
+    "FEN": "r1bq1r1k/ppb1n1p1/2p4N/3p4/1P1Q1N2/PB2B2P/2P3P1/5RK1 b - - 0 22",
+    "Moves": "e7f5 f4g6 h8h7 g6f8 d8f8 h6f5",
+    "Rating": "1879",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "343",
+    "Themes": "advantage fork long middlegame pin",
+    "GameUrl": "https://lichess.org/fS7xVsnf/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mAIwK",
+    "FEN": "6k1/pp3p2/1npqrp1B/8/3P2b1/3B4/PPQ2PPP/R5K1 w - - 0 20",
+    "Moves": "d3g6 f6f5 g6f7 g8f7",
+    "Rating": "1841",
+    "RatingDeviation": "76",
+    "Popularity": "75",
+    "NbPlays": "127",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/LTIfNtj1#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mAJmo",
+    "FEN": "r1r3k1/3qb1p1/3p1pQp/p2P4/1p3R2/2PB4/PP3NPP/2K2n2 b - - 1 26",
+    "Moves": "f6f5 d3f5 d7f5 f4f5",
+    "Rating": "1953",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "74",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/KJJFr2fW/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mAKZV",
+    "FEN": "6r1/pppq1prk/1b1p3p/3P2pn/2B1P3/5PBP/PP3PK1/R2Q1R2 w - - 1 23",
+    "Moves": "g2h2 h5f4 g3f4 g5f4",
+    "Rating": "1886",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2042",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/X6GCtQx6#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mAKq2",
+    "FEN": "rn2r1k1/pppq1ppp/3b4/5bN1/2B5/2PQ4/PP1N1PPP/R4RK1 w - - 1 13",
+    "Moves": "c4f7 d7f7 d3d6 c7d6 g5f7 g8f7",
+    "Rating": "1990",
+    "RatingDeviation": "78",
+    "Popularity": "75",
+    "NbPlays": "52",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/pdlpSkNY#25",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Steinitz_Variation"
+  },
+  {
+    "PuzzleId": "mAOLG",
+    "FEN": "r2qk1r1/1ppn4/p1nb2p1/3N4/3Pp3/4P2Q/PPP3PP/R1B1K2R b KQq - 0 17",
+    "Moves": "d8g5 h3e6 c6e7 d5e7 d7f8 e6g8 g5g2 h1f1 d6b4 c2c3",
+    "Rating": "1967",
+    "RatingDeviation": "74",
+    "Popularity": "83",
+    "NbPlays": "109",
+    "Themes": "advantage capturingDefender fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/q866ngud/black#34",
+    "OpeningTags": "Bird_Opening Bird_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "mAOvi",
+    "FEN": "r1q2rk1/p1p1bpp1/bp5p/4p3/2nPP3/1PN2NP1/P1Q1PRBP/R5K1 b - - 0 18",
+    "Moves": "e5d4 c3d5 c4e3 d5e7",
+    "Rating": "1896",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2777",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/g0GXO7C4/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "mAP0y",
+    "FEN": "rn1qr1k1/1pp2ppp/p2p1b2/3P4/P1P1N3/2P4P/4QPP1/R1B1R1K1 b - - 0 15",
+    "Moves": "f6c3 e4f6 g7f6 e2e8 d8e8 e1e8",
+    "Rating": "1908",
+    "RatingDeviation": "84",
+    "Popularity": "85",
+    "NbPlays": "33",
+    "Themes": "crushing discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/ByLyW95B/black#30",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "mAP9o",
+    "FEN": "r4rk1/p4bp1/6Q1/n1p2pB1/B7/2P2P1N/PP4Pq/RN3K2 w - - 1 24",
+    "Moves": "g5f4 h2h1 h3g1 f7g6",
+    "Rating": "1818",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "12020",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/t6sqr6uf#47",
+    "OpeningTags": ""
+  }
+]

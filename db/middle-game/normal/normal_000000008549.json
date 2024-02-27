@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Oukx5",
+    "FEN": "2rqk3/pp3p1r/2n1p1p1/1B1p2PP/3P4/P1Q5/1P3P2/R3K2R w KQ - 1 21",
+    "Moves": "c3e3 d8a5 e3d2 a5b5",
+    "Rating": "1247",
+    "RatingDeviation": "90",
+    "Popularity": "85",
+    "NbPlays": "57",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/qNxTpIAv#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Oumsl",
+    "FEN": "2r1r1k1/1p1q1pp1/p2pb2p/3Nn1b1/1PP1P3/PQN5/4B1PP/R4RK1 w - - 7 22",
+    "Moves": "d5b6 g5e3 g1h1 e3b6",
+    "Rating": "1399",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "7381",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/ScKOM1k3#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OumyJ",
+    "FEN": "r1b1k2r/1pq1n1pp/2pp1p2/p1b1pP2/1nP1P1P1/2NPBN1P/PP1QB3/R3K2R w KQkq - 1 16",
+    "Moves": "g4g5 c5e3",
+    "Rating": "1264",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "258",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/g6hz6BNI#31",
+    "OpeningTags": "English_Opening English_Opening_The_Whale"
+  },
+  {
+    "PuzzleId": "OuoTT",
+    "FEN": "3Q4/2n2kpp/1qb1pr2/8/1p2P3/6P1/1P3P1P/R1R2BK1 w - - 4 38",
+    "Moves": "d8d6 b6f2 g1h1 c6e4 f1g2 e4g2",
+    "Rating": "1313",
+    "RatingDeviation": "98",
+    "Popularity": "80",
+    "NbPlays": "69",
+    "Themes": "long master mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/oO29V43a#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OupJM",
+    "FEN": "r1bq1rk1/1p4pp/4p3/2bpP3/1p1NpB2/2P5/P2Q1PPP/1R3RK1 w - - 0 18",
+    "Moves": "c3b4 c5d4 d2d4 f8f4",
+    "Rating": "1355",
+    "RatingDeviation": "78",
+    "Popularity": "89",
+    "NbPlays": "551",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/9HQVhR2T#35",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "Oupi1",
+    "FEN": "r3r1k1/pp1qbppn/2p4p/3NP3/5B2/7P/PPP2PP1/R2QR1K1 w - - 0 15",
+    "Moves": "e5e6 d7d5 d1d5 c6d5 e6f7 g8f7",
+    "Rating": "1318",
+    "RatingDeviation": "76",
+    "Popularity": "78",
+    "NbPlays": "584",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/Fd63dIAX#29",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "OusgW",
+    "FEN": "rn3rk1/pp2q1pp/8/3p4/4p3/1QN1P3/PP1P1nPP/R1B1K2R w KQ - 0 15",
+    "Moves": "e1g1 f2h3 g2h3 e7g5 g1h1 f8f1",
+    "Rating": "1270",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "4332",
+    "Themes": "deflection kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/AgMWGSB8#29",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "OutjE",
+    "FEN": "r2q1rk1/pp1bbpnp/4p1pQ/3pP3/8/PP1B4/1BP2PPP/RN3RK1 w - - 2 14",
+    "Moves": "b1d2 e7g5 h6h3 g5d2",
+    "Rating": "1203",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "6127",
+    "Themes": "advantage interference middlegame short",
+    "GameUrl": "https://lichess.org/CKKOsWCu#27",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "OuunM",
+    "FEN": "r1b1kb1r/ppB2ppp/8/8/q3p3/8/PPP1QPPP/3RKB1R b Kkq - 0 11",
+    "Moves": "f8c5 d1d8 e8e7 d8h8",
+    "Rating": "1314",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "14867",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/7KabAIUL/black#22",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  }
+]

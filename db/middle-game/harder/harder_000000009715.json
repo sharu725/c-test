@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "TRKYY",
+    "FEN": "rn3r1k/1b2Nppp/1b2q3/pp2p1B1/2p1P1Q1/2P4P/PPB2PP1/R3R1K1 w - - 8 25",
+    "Moves": "g4g3 f7f6 g5e3 b6e3",
+    "Rating": "1804",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "8617",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/8BdhRux4#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TRMfC",
+    "FEN": "2rqr1k1/p3ppbp/3pbnp1/1P1Nn3/4P3/1N2BP2/PP1Q2PP/2KR1B1R w - - 1 14",
+    "Moves": "c1b1 f6d5 e4d5 e6f5",
+    "Rating": "1906",
+    "RatingDeviation": "75",
+    "Popularity": "20",
+    "NbPlays": "66",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Gnd8sTsJ#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  },
+  {
+    "PuzzleId": "TRMhq",
+    "FEN": "2nr1k2/1b1p1r1p/1p2R1p1/pP2Pp2/2P5/P1B4P/4BPP1/3R2K1 w - - 1 30",
+    "Moves": "c3d2 d7e6 d2h6 f8e8 d1d8 e8d8",
+    "Rating": "1860",
+    "RatingDeviation": "121",
+    "Popularity": "86",
+    "NbPlays": "25",
+    "Themes": "crushing hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/eGKRp8Pi#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TRMvV",
+    "FEN": "3r1k2/p3qpb1/b1p2p2/2P5/1p2p1Q1/1P2R3/P4PPP/4R1K1 b - - 1 31",
+    "Moves": "a6d3 e3g3 e7e5 g4g7",
+    "Rating": "1980",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "211",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/zSWQKfEJ/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TROS5",
+    "FEN": "r1b2rk1/p3qpp1/1pn1p2p/4N3/5P2/2PB4/P1Q2PPP/3R1RK1 b - - 3 16",
+    "Moves": "c8b7 d3h7 g8h8 d1d7 e7e8 d7b7 c6e5 f4e5",
+    "Rating": "1956",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "2790",
+    "Themes": "clearance crushing interference middlegame veryLong",
+    "GameUrl": "https://lichess.org/VqcJVtFv/black#32",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Harrwitz_Attack"
+  },
+  {
+    "PuzzleId": "TRQEA",
+    "FEN": "1r4k1/p5pp/1r2p3/8/4P3/K1PQ4/PP1N1q2/R1B2n1R w - - 0 24",
+    "Moves": "h1f1 f2c5 b2b4 b6b4 d3d8 b8d8",
+    "Rating": "1828",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "2072",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/Kjb3ZxJv#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TRQoS",
+    "FEN": "6k1/pp4pp/2p5/3p2q1/NPP5/P2Rr1bP/6Q1/5BK1 w - - 0 23",
+    "Moves": "c4d5 e3d3 f1d3 g5e3 g1h1 e3d3",
+    "Rating": "1850",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "49",
+    "Themes": "advantage clearance exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/0uOK36Xq#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TRSPD",
+    "FEN": "rnb4r/pp2kppp/2pNpn2/8/1Q6/3P4/q1P1KPPP/5BNR b - - 3 15",
+    "Moves": "a2d5 d6f5 e7d7 b4e7",
+    "Rating": "1996",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "8173",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/aIGfyPUt/black#30",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Gubinsky-Melts_Defense"
+  },
+  {
+    "PuzzleId": "TRTBp",
+    "FEN": "r5rk/7p/p1R2p1q/4bQ2/2P5/6P1/PP3PK1/3R4 b - - 2 25",
+    "Moves": "a8d8 d1d8 g8d8 f5e5 f6e5 c6h6",
+    "Rating": "1897",
+    "RatingDeviation": "96",
+    "Popularity": "29",
+    "NbPlays": "32",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/4cTNztyp/black#50",
+    "OpeningTags": ""
+  }
+]

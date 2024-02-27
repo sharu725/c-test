@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QUUUC",
+    "FEN": "1R1r2k1/5p1p/3rpQp1/2q2n2/8/7P/5PP1/1R3BK1 b - - 1 32",
+    "Moves": "c5c7 b1b7 c7b7 b8b7",
+    "Rating": "1942",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2567",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/N9Yr8D5V/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QUUiX",
+    "FEN": "r1bq1rk1/pp2bppp/4p3/8/2R5/3B4/PB3PPP/3QR1K1 b - - 0 17",
+    "Moves": "b7b6 d3h7 g8h7 d1h5",
+    "Rating": "1990",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "300",
+    "Themes": "attraction crushing kingsideAttack middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/uM9vCsOI/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Declined"
+  },
+  {
+    "PuzzleId": "QUVzo",
+    "FEN": "r2q1r1k/ppp4p/3p2b1/3Bn1N1/7Q/2N5/PPP2PP1/2K4R b - - 1 17",
+    "Moves": "c7c6 h4h7 g6h7 h1h7",
+    "Rating": "1957",
+    "RatingDeviation": "85",
+    "Popularity": "69",
+    "NbPlays": "71",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/8TOSZLJG/black#34",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Hopton_Attack"
+  },
+  {
+    "PuzzleId": "QUZZf",
+    "FEN": "r1b3k1/pp4pp/1n2pq2/8/2P5/P2B3Q/6PP/4R2K b - - 1 25",
+    "Moves": "e6e5 h3h7 g8f8 e1f1",
+    "Rating": "1834",
+    "RatingDeviation": "72",
+    "Popularity": "96",
+    "NbPlays": "11195",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/Zgu24G79/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QUZwT",
+    "FEN": "1k1r1b1r/1p1q2p1/1p1p4/pN1Pp1Q1/P3P3/R4R2/2P3pP/6K1 b - - 5 25",
+    "Moves": "f8e7 g5e3 h8h2 g1h2",
+    "Rating": "1978",
+    "RatingDeviation": "165",
+    "Popularity": "14",
+    "NbPlays": "9",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/gQIFVIzS/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QUa9A",
+    "FEN": "2kr2r1/pppbqp1p/2p5/3n2N1/8/2BP2P1/PPPQPP1P/R3K2R w KQ - 7 14",
+    "Moves": "g5e4 f7f5 f2f3 f5e4",
+    "Rating": "1980",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "1044",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/eZoRx0Vc#27",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "QUgCz",
+    "FEN": "r1b1r1k1/p2n1ppp/2p2q2/P3p3/2N1P3/2Q2N2/1P3PPP/3RK2R b K - 3 17",
+    "Moves": "d7c5 c4d6 e8d8 c3c5",
+    "Rating": "1913",
+    "RatingDeviation": "80",
+    "Popularity": "83",
+    "NbPlays": "56",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/cHnzvRoG/black#34",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "QUglT",
+    "FEN": "r3kbnr/pp2pppp/b1N5/8/Q2P4/P1Nq4/1P1B1PPP/3K3R b kq - 2 16",
+    "Moves": "a6b5 c3b5 b7c6 b5c7 e8d8 c7a8",
+    "Rating": "1913",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "379",
+    "Themes": "advantage fork long middlegame pin",
+    "GameUrl": "https://lichess.org/PGPR4lxj/black#32",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Gubinsky-Melts_Defense"
+  },
+  {
+    "PuzzleId": "QUh1r",
+    "FEN": "r2r4/q4Bk1/pp1B2p1/2p5/Pn1b4/1P5P/2PQ2PK/R4R2 w - - 1 25",
+    "Moves": "d6g3 d4g1 h2g1 d8d2 g3e5 g7h7",
+    "Rating": "1946",
+    "RatingDeviation": "86",
+    "Popularity": "65",
+    "NbPlays": "35",
+    "Themes": "crushing defensiveMove discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/3mYp1lfi#49",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "OPc71",
+    "FEN": "2r2br1/1b2k1p1/3Np1Rp/4P2P/3P1R2/p1P1P3/5K2/8 b - - 1 38",
+    "Moves": "c8b8 f4f7 e7d8 d6b7 d8e8 f7c7",
+    "Rating": "2268",
+    "RatingDeviation": "89",
+    "Popularity": "89",
+    "NbPlays": "1052",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/qPs0BiCS/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OPcTw",
+    "FEN": "4r1k1/2q2ppp/p2b4/1p2pPQn/8/2BB4/1PP3PP/4R2K b - - 7 27",
+    "Moves": "h5f4 g5f4 e5f4 e1e8 d6f8 c3b4",
+    "Rating": "2088",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "2172",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/EMoYCS1t/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OPcWY",
+    "FEN": "1n2kq1r/3p1pp1/b1p4p/3BbN2/8/5Q1N/2P2PPP/1R4K1 b k - 0 20",
+    "Moves": "c6d5 f3e3 e8d8 e3e5",
+    "Rating": "2102",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "74",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/17GmDLLE/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OPdQM",
+    "FEN": "r3k2r/pppb1pp1/7p/Q2PNq2/2B1K3/2P5/PP1P2PP/RNB4R w kq - 1 13",
+    "Moves": "e4d4 f5f2 d4d3 d7f5",
+    "Rating": "2342",
+    "RatingDeviation": "80",
+    "Popularity": "90",
+    "NbPlays": "140",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/d5P6WzSY#25",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "OPeYO",
+    "FEN": "2r3k1/b2r1ppp/Q3pn2/BN2p3/P1q1P3/8/2P2PPP/R3R1K1 w - - 9 23",
+    "Moves": "a1d1 a7f2 g1f2 c4c2 f2f3 d7d1 a6c8 c2c8",
+    "Rating": "2352",
+    "RatingDeviation": "84",
+    "Popularity": "81",
+    "NbPlays": "66",
+    "Themes": "attraction crushing master middlegame veryLong",
+    "GameUrl": "https://lichess.org/A8kuzSpC#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OPfS4",
+    "FEN": "5r1k/1pp3p1/p5qp/P3p3/1PB1P3/1QP3Nb/5K2/6R1 w - - 1 27",
+    "Moves": "g3f5 g6h5 b3d1 h5h4 g1g3 h3f5",
+    "Rating": "2328",
+    "RatingDeviation": "107",
+    "Popularity": "74",
+    "NbPlays": "17",
+    "Themes": "crushing exposedKing long middlegame pin",
+    "GameUrl": "https://lichess.org/tlMvXuxy#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OPgrV",
+    "FEN": "5rk1/5p2/r2p1ppQ/qp6/4P1PP/5P2/1P2B3/1K1R3R w - - 3 23",
+    "Moves": "h6d2 a5a2 b1c2 f8c8 c2d3 a2b3 d2c3 c8c3",
+    "Rating": "2179",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "189",
+    "Themes": "crushing middlegame queensideAttack veryLong",
+    "GameUrl": "https://lichess.org/VjXYe2IX#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OPiQf",
+    "FEN": "r3r1k1/pppq1pp1/3b1n1p/5N2/4P3/1P4P1/P2N1PKP/R2Q1R2 b - - 2 18",
+    "Moves": "f6e4 d1g4 d7f5 g4f5",
+    "Rating": "2013",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "1850",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/OFbqXSO0/black#36",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  },
+  {
+    "PuzzleId": "OPjEU",
+    "FEN": "rnbb1r1k/2q3p1/2p4Q/pp1nN1N1/1P2p3/6P1/PBP2PBP/R4RK1 b - - 0 18",
+    "Moves": "g7h6 e5f7 h8g8 f7h6",
+    "Rating": "2051",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "1047",
+    "Themes": "doubleCheck kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/I4HbGMSo/black#36",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Dutch_Variation"
+  }
+]

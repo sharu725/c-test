@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "mhpRQ",
+    "FEN": "r3kbnr/ppp2ppp/4P3/2q1p3/2B1Pp2/8/PPP3PP/RNBQ1R1K b kq - 2 10",
+    "Moves": "c5c4 d1d7",
+    "Rating": "1265",
+    "RatingDeviation": "200",
+    "Popularity": "83",
+    "NbPlays": "13",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/QwCQfXdu/black#20",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "mhrtT",
+    "FEN": "r3k1nr/1p1n1ppp/2p1P3/q7/3P4/pPbB1Q1P/P1PB1PP1/1K1R3R b kq - 0 13",
+    "Moves": "c3d2 f3f7 e8d8 f7d7",
+    "Rating": "1214",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "11352",
+    "Themes": "attackingF2F7 mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Yrzf9Agz/black#26",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+  },
+  {
+    "PuzzleId": "mhsvs",
+    "FEN": "2k4r/1pp2pp1/p1p5/8/4rn2/1P2N3/P4PP1/RN3RK1 w - - 2 21",
+    "Moves": "b1d2 f4e2",
+    "Rating": "1253",
+    "RatingDeviation": "140",
+    "Popularity": "57",
+    "NbPlays": "61",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/wANT4J2K#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mhtBp",
+    "FEN": "r1b1k1r1/1pp2p2/p2p2nB/1B6/4q3/8/P4PPP/R2Q1RK1 b q - 1 19",
+    "Moves": "c7c6 f1e1 e4e1 d1e1",
+    "Rating": "1378",
+    "RatingDeviation": "78",
+    "Popularity": "25",
+    "NbPlays": "104",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/y0APVN8p/black#38",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Cozio_Defense"
+  },
+  {
+    "PuzzleId": "mhuTl",
+    "FEN": "r7/pb1n1pkp/1p3qp1/2pp4/8/2PPrNP1/PP1Q1PBP/4R1K1 w - - 0 19",
+    "Moves": "e1e3 d5d4 c3d4 c5d4 f3d4 b7g2",
+    "Rating": "1393",
+    "RatingDeviation": "88",
+    "Popularity": "77",
+    "NbPlays": "43",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/5onqhJCC#37",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "mhvDI",
+    "FEN": "r2q4/pppk2pp/1bnp1n2/4P3/3P2b1/2P5/PP2N1PP/R1BQK2R b KQ - 0 14",
+    "Moves": "d6e5 d4e5",
+    "Rating": "1271",
+    "RatingDeviation": "177",
+    "Popularity": "100",
+    "NbPlays": "20",
+    "Themes": "discoveredAttack equality middlegame oneMove",
+    "GameUrl": "https://lichess.org/VseQYPS9/black#28",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mhxM2",
+    "FEN": "r3n1k1/2q2pbp/3p2p1/1R1Pp3/n1B1P3/P4PP1/Q1KB3P/7R w - - 1 27",
+    "Moves": "d2a5 a8a5 b5a5 c7a5",
+    "Rating": "1209",
+    "RatingDeviation": "277",
+    "Popularity": "-100",
+    "NbPlays": "4",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/oB1x7O1l#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mi03a",
+    "FEN": "2b1rrk1/1p3pp1/2nRp2p/p1B1P3/2P2P2/Pq4P1/1P3QBP/3R2K1 w - - 1 25",
+    "Moves": "d6c6 b3d1 f2f1 d1f1 g2f1 b7c6",
+    "Rating": "1366",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "556",
+    "Themes": "crushing hangingPiece kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/wxGR5CN6#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mi1tg",
+    "FEN": "2kr2nr/pp4p1/2p2p1p/8/8/2Nb1BB1/P4PPP/4R1K1 b - - 1 23",
+    "Moves": "d3a6 f3g4 f6f5 g4f5 d8d7 e1e8",
+    "Rating": "1326",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "9132",
+    "Themes": "long mate mateIn3 middlegame pin",
+    "GameUrl": "https://lichess.org/LpSB6xle/black#46",
+    "OpeningTags": ""
+  }
+]

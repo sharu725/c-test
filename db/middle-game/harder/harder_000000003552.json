@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "AhS1J",
+    "FEN": "r2r2k1/p2q1pp1/n1R1p2p/1p2P3/1P1N4/P3Q2P/5PP1/2R3K1 b - - 1 24",
+    "Moves": "a6b4 c6d6 b4d5 d6d7 d5e3 d7d8 a8d8 f2e3",
+    "Rating": "1934",
+    "RatingDeviation": "118",
+    "Popularity": "81",
+    "NbPlays": "42",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/trUjx9jH/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AhS3g",
+    "FEN": "r4rk1/2p2ppp/4p3/2Pq4/bp1P2n1/3BQN2/1P1R1PPP/1KR5 w - - 4 19",
+    "Moves": "e3e4 d5a2 b1a2 a4c2 e4a8 f8a8 d3a6 a8a6",
+    "Rating": "1928",
+    "RatingDeviation": "74",
+    "Popularity": "83",
+    "NbPlays": "108",
+    "Themes": "discoveredAttack mate mateIn4 middlegame queensideAttack sacrifice veryLong",
+    "GameUrl": "https://lichess.org/NZdoI6CV#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "AhTCl",
+    "FEN": "r3k2r/2q1bppp/1nn1b3/pB2p3/Np6/1P3N2/P1P1QPPP/3R1RK1 w kq - 0 17",
+    "Moves": "a4b6 c7b6 f3e5 a8c8",
+    "Rating": "1914",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "363",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/cp1gaJ9G#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "AhTlM",
+    "FEN": "r4r2/6kp/6p1/p1p1qP1n/2B5/5Q1P/1PP1N3/5RK1 b - - 0 25",
+    "Moves": "f8f5 f3b7 g7h6 f1f5 e5f5 b7a8",
+    "Rating": "1895",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "337",
+    "Themes": "advantage discoveredAttack fork long middlegame",
+    "GameUrl": "https://lichess.org/AvioI927/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AhWgf",
+    "FEN": "1r1r2k1/1q2bppp/1N3n2/3bp3/1p6/1P1BBP1P/2P2QP1/R4RK1 b - - 1 28",
+    "Moves": "d5b3 d3a6 b7c7 c2b3",
+    "Rating": "1932",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "758",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/cHqjoWDQ/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AhWrw",
+    "FEN": "r2q1rk1/p2b1p1p/2np2p1/1pp2PN1/8/2PPB3/PP4PP/R2Q1RK1 b - - 0 15",
+    "Moves": "d7f5 f1f5 d8e7 f5f3",
+    "Rating": "1894",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "237",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/frPXLWLm/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "AhXDo",
+    "FEN": "r3r1k1/pppq1pbp/3p2p1/3P4/2PNb3/P2n3P/1P1QBPPB/R4RK1 b - - 8 18",
+    "Moves": "d3b2 d2b2 c7c5 d5c6",
+    "Rating": "1999",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "177",
+    "Themes": "advantage enPassant hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/4gX7wwoN/black#36",
+    "OpeningTags": "London_System London_System_Other_variations"
+  },
+  {
+    "PuzzleId": "AhXFo",
+    "FEN": "2r2rk1/pp1bbppp/1q2p3/3pP3/1P1n4/P1N3Q1/1B3PPP/R3RBK1 b - - 4 16",
+    "Moves": "d4c2 c3d5 e6d5 e5e6 d5d4 e6d7",
+    "Rating": "1929",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "110",
+    "Themes": "advancedPawn advantage long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/P3sIOCXq/black#32",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "AhYal",
+    "FEN": "r2q1rk1/ppp3pp/1bnpb3/4pnN1/8/P1NPB1P1/1PP2PBP/R2Q1RK1 b - - 1 11",
+    "Moves": "d8e7 g5e6 f5e3 f2e3",
+    "Rating": "1867",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "64",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/beLC2WyJ/black#22",
+    "OpeningTags": "Kings_Knight_Opening Kings_Knight_Opening_Normal_Variation"
+  }
+]

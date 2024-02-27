@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ocXm5",
+    "FEN": "b1r3k1/4b1pp/p3Np2/qp1pP3/8/3Q1P2/PP4PP/2B2RK1 b - - 0 25",
+    "Moves": "c8c1 f1c1 a5b6 e6d4",
+    "Rating": "1699",
+    "RatingDeviation": "80",
+    "Popularity": "84",
+    "NbPlays": "42",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/uNRtrWJ0/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ocYga",
+    "FEN": "r3k2r/1b1pnp2/4p2p/pp1pP1p1/3P2Bq/PP2BP1P/2P3P1/R2Q1RK1 w kq - 3 19",
+    "Moves": "g2g3 h4g3 g1h1 h6h5 f1g1 g3h4 d1f1 h5g4",
+    "Rating": "1771",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "869",
+    "Themes": "crushing kingsideAttack middlegame trappedPiece veryLong",
+    "GameUrl": "https://lichess.org/XZmc6cRf#37",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "ocZv7",
+    "FEN": "3r3r/1kpb4/p2b4/Pp1Pp1pq/2B2pN1/5P1P/1R2Q1PK/1R6 b - - 3 35",
+    "Moves": "h5h4 c4b5 h4g3 h2g1",
+    "Rating": "1703",
+    "RatingDeviation": "86",
+    "Popularity": "71",
+    "NbPlays": "45",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ow9OMsbx/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ocajk",
+    "FEN": "5r1k/4Q1bp/2bR2p1/4N3/1p6/1B5P/2P2qPK/8 b - - 1 32",
+    "Moves": "f2f1 e5g6 h7g6 e7h4 g7h6 h4h6",
+    "Rating": "1797",
+    "RatingDeviation": "104",
+    "Popularity": "65",
+    "NbPlays": "14",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/UPyb609o/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ocbBw",
+    "FEN": "2r2rk1/1q3pbp/ppn1p1p1/3pPnB1/3P4/2R2N2/PPQ1BPPP/2R3K1 b - - 5 17",
+    "Moves": "h7h6 c3c6 b7c6 c2c6 c8c6 c1c6",
+    "Rating": "1609",
+    "RatingDeviation": "81",
+    "Popularity": "94",
+    "NbPlays": "407",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/0jbGwVNq/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Modern_Defense"
+  },
+  {
+    "PuzzleId": "ocbaS",
+    "FEN": "r4bnr/pppqpkpp/8/5b2/4PQ2/2N2N2/PP2KPPP/n1B4R b - - 1 13",
+    "Moves": "e7e5 f3e5 f7e8 e5d7",
+    "Rating": "1622",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "414",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/lon5TSM1/black#26",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations"
+  },
+  {
+    "PuzzleId": "ocecd",
+    "FEN": "1k1r4/ppqbpnbr/3p2p1/8/3PP1Pp/1QN1B2P/PP4BK/R3R3 w - - 5 21",
+    "Moves": "b3f7 g7e5 d4e5 h7f7",
+    "Rating": "1792",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "5792",
+    "Themes": "advantage discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/2ZhY9CkW#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ocgN4",
+    "FEN": "r5k1/p3bp1p/2b1q1p1/4p3/1QP5/3B4/PP3PPP/R4RK1 w - - 2 20",
+    "Moves": "c4c5 e6d5 d3e4 d5e4 b4e4 c6e4",
+    "Rating": "1616",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "880",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/iVvoSUY9#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ochGv",
+    "FEN": "r2qk2r/1b1nbppp/p2ppn2/1p2P3/3P4/2NBBN2/PPQ2PPP/R4RK1 b kq - 0 11",
+    "Moves": "b7f3 e5f6 d7f6 g2f3",
+    "Rating": "1651",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "101",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/TrM4oUxl/black#22",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Delayed_Alapin_Variation"
+  }
+]

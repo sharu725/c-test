@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PaAhH",
+    "FEN": "r3rk2/pbqN1ppQ/2pb3p/n7/5n2/3B4/PPPN1PPP/R3R1K1 b - - 3 20",
+    "Moves": "c7d7 h7h8",
+    "Rating": "1221",
+    "RatingDeviation": "240",
+    "Popularity": "56",
+    "NbPlays": "28",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/KJG7QDfV/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PaFCw",
+    "FEN": "3r1rk1/pp4pp/8/1PQ1p1q1/4p3/B1P2P1b/P3PK1P/R4R2 b - - 4 20",
+    "Moves": "d8d2 c5f8",
+    "Rating": "1278",
+    "RatingDeviation": "239",
+    "Popularity": "67",
+    "NbPlays": "11",
+    "Themes": "kingsideAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/wZKfPR5n/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PaRyd",
+    "FEN": "8/5k2/1p3p1p/2p2P2/3n2R1/1P6/P4RK1/3r4 w - - 0 40",
+    "Moves": "g4g6 d4f5 g6g4 f5e3",
+    "Rating": "1226",
+    "RatingDeviation": "163",
+    "Popularity": "54",
+    "NbPlays": "24",
+    "Themes": "advantage endgame master short",
+    "GameUrl": "https://lichess.org/t1MsMaRk#79",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PaXYz",
+    "FEN": "6k1/p3r3/1p4p1/3n1p1p/2NBp2P/2Pn2P1/PP3P2/3R2K1 w - - 8 38",
+    "Moves": "c4e5 d3e5 d4e5 e7e5",
+    "Rating": "1236",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "5068",
+    "Themes": "crushing endgame master short",
+    "GameUrl": "https://lichess.org/Sq74PGtc#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PagYj",
+    "FEN": "2r3k1/pb3pp1/1pn2q1p/3n4/2P5/P4N2/1PQ2PPP/3R1BK1 w - - 0 22",
+    "Moves": "d1d5 c6b4 a3b4 b7d5",
+    "Rating": "1310",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "545",
+    "Themes": "crushing discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/bFfxk7oP#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Pajkd",
+    "FEN": "1k1r4/1p2b1pp/2p1qp2/3PP3/6P1/7P/1P3QB1/R5K1 b - - 0 29",
+    "Moves": "c6d5 f2a7 b8c7 a1c1",
+    "Rating": "1301",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "3002",
+    "Themes": "crushing endgame master masterVsMaster short",
+    "GameUrl": "https://lichess.org/mbsFqBmz/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PalOT",
+    "FEN": "rnbqk2r/4bppp/p2p1n2/3Np3/1Q6/4BN1P/PPP2PP1/R3KB1R w KQkq - 1 12",
+    "Moves": "e3b6 f6d5 b6d8 d5b4",
+    "Rating": "1371",
+    "RatingDeviation": "82",
+    "Popularity": "77",
+    "NbPlays": "76",
+    "Themes": "crushing hangingPiece master opening short",
+    "GameUrl": "https://lichess.org/9O2Ol527#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "PalfT",
+    "FEN": "7r/2p5/4k3/3p1pQ1/r5b1/2P3Pp/7P/5R1K b - - 2 34",
+    "Moves": "a4e4 g5g6 e6d7 g6g7 e4e7 g7h8",
+    "Rating": "1238",
+    "RatingDeviation": "76",
+    "Popularity": "78",
+    "NbPlays": "213",
+    "Themes": "crushing endgame fork long master",
+    "GameUrl": "https://lichess.org/ctmqNxdw/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PauCS",
+    "FEN": "6k1/1p3pb1/p2p1qp1/P2P4/4PBQp/7P/1P3rP1/R5K1 w - - 0 31",
+    "Moves": "e4e5 f6f4 g4f4 f2f4",
+    "Rating": "1396",
+    "RatingDeviation": "109",
+    "Popularity": "82",
+    "NbPlays": "30",
+    "Themes": "crushing endgame master short",
+    "GameUrl": "https://lichess.org/HmdiQLWK#61",
+    "OpeningTags": ""
+  }
+]

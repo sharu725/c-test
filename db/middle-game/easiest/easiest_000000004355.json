@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CsJhP",
+    "FEN": "r3k3/p3bq2/1pp1bn1p/8/3Q2p1/3P4/PPP3PP/R1B2RK1 w q - 0 19",
+    "Moves": "c1h6 e7c5 d4c5 b6c5",
+    "Rating": "906",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "158",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/5eyhkZ6D#37",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+  },
+  {
+    "PuzzleId": "CsLXq",
+    "FEN": "r1b4r/p2pk3/2pb1p1p/6p1/2BB1n2/2P5/PP3PPP/R4RK1 b - - 5 17",
+    "Moves": "e7d8 d4f6 d8c7 f6h8 c8a6 c4a6",
+    "Rating": "851",
+    "RatingDeviation": "87",
+    "Popularity": "87",
+    "NbPlays": "778",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/gPDhAE6d/black#34",
+    "OpeningTags": "Scotch_Game Scotch_Game_Schmidt_Variation"
+  },
+  {
+    "PuzzleId": "CsNs8",
+    "FEN": "3r1rk1/pp3ppp/1qpp4/7n/1P2P3/PQ1P3P/1PR3PB/5R1K w - - 4 21",
+    "Moves": "h2g1 h5g3 h1h2 g3f1",
+    "Rating": "920",
+    "RatingDeviation": "86",
+    "Popularity": "94",
+    "NbPlays": "1252",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/k4Ld5UIe#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CsP1o",
+    "FEN": "2kr1b1r/pp2nppp/8/4p3/4n3/1N6/PPP2PPP/R1B1R1K1 w - - 0 15",
+    "Moves": "e1e4 d8d1 e4e1 d1e1",
+    "Rating": "567",
+    "RatingDeviation": "96",
+    "Popularity": "94",
+    "NbPlays": "205",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AKGwUp75#29",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "CsSDD",
+    "FEN": "r4k1r/1b3ppp/p2Qp3/1p6/8/PBN5/1PP1NqPP/3Rn2K b - - 2 21",
+    "Moves": "f8g8 d6d8 a8d8 d1d8",
+    "Rating": "600",
+    "RatingDeviation": "95",
+    "Popularity": "79",
+    "NbPlays": "355",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/gPEDDV1W/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CsWqe",
+    "FEN": "1r2r1k1/4bp1p/1R2p1p1/p2q4/Q3N3/4PP2/3P2PP/R5K1 b - - 0 27",
+    "Moves": "b8b6 a4e8 g8g7 e8e7",
+    "Rating": "939",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "726",
+    "Themes": "crushing fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/clJNQkAH/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CsYGl",
+    "FEN": "rn1q3k/ppp3rP/3pp3/2b1p2Q/P3P3/3P2P1/1PP2P2/RN2K2R b KQ - 0 15",
+    "Moves": "d8f6 h5e8 f6f8 e8f8 g7g8 h7g8q",
+    "Rating": "712",
+    "RatingDeviation": "88",
+    "Popularity": "88",
+    "NbPlays": "709",
+    "Themes": "advancedPawn doubleCheck exposedKing kingsideAttack long mate mateIn3 middlegame promotion",
+    "GameUrl": "https://lichess.org/IxLVw6Ui/black#30",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Boi_Variation"
+  },
+  {
+    "PuzzleId": "CsYsC",
+    "FEN": "r4rk1/2p2ppp/p1b1pn2/1p1q4/3P4/PPBQ4/2P1BPPP/R4RK1 w - - 0 15",
+    "Moves": "c3a5 d5g2",
+    "Rating": "690",
+    "RatingDeviation": "101",
+    "Popularity": "96",
+    "NbPlays": "570",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/8F7DU0j7#29",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "CsZh1",
+    "FEN": "4rrk1/1p3ppp/p1b5/6q1/P2p4/1QP1B3/1R3PPP/4R1K1 w - - 0 23",
+    "Moves": "e3g5 e8e1",
+    "Rating": "694",
+    "RatingDeviation": "97",
+    "Popularity": "80",
+    "NbPlays": "100",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/j4vfxSHJ#45",
+    "OpeningTags": ""
+  }
+]

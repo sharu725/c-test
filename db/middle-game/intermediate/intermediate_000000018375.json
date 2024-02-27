@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "iCvpr",
+    "FEN": "3qk2r/Q2npp2/2p1b1pn/7p/8/2NP1N2/P1PKBPPP/1R6 w k - 0 15",
+    "Moves": "f3e5 d7e5 b1b8 e6c8",
+    "Rating": "1404",
+    "RatingDeviation": "102",
+    "Popularity": "64",
+    "NbPlays": "24",
+    "Themes": "advantage defensiveMove hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/rSBRkOdd#29",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "iCx1y",
+    "FEN": "1r3rk1/p1qb1pRp/3bpn2/2pp4/5P2/1P2P3/1BPP2PP/RN1Q2K1 b - - 0 15",
+    "Moves": "g8g7 d1g4 g7h8 b2f6",
+    "Rating": "1597",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "81",
+    "Themes": "deflection mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/xcQ3vMb9/black#30",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation"
+  },
+  {
+    "PuzzleId": "iCx9k",
+    "FEN": "2r2rk1/5ppp/1p1q4/3p1R2/P2Pn3/1NP2Q1P/1P4P1/R6K w - - 2 27",
+    "Moves": "f3f4 e4g3 f4g3 d6g3",
+    "Rating": "1429",
+    "RatingDeviation": "75",
+    "Popularity": "80",
+    "NbPlays": "473",
+    "Themes": "crushing fork middlegame short xRayAttack",
+    "GameUrl": "https://lichess.org/bNxqEsnW#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iCxgA",
+    "FEN": "r1q2rk1/3nppbp/p2p4/B1pP1N2/Q1P2Pb1/6P1/1R2B2P/4K1R1 b - - 0 23",
+    "Moves": "g7b2 f5e7 g8g7 e7c8",
+    "Rating": "1440",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2510",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/iCwXFbYK/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iCxrY",
+    "FEN": "r4rk1/ppp1bppp/8/3b2P1/1n4qP/3P2N1/PP2PP1N/R1BQ1RK1 b - - 4 16",
+    "Moves": "g4h4 g3f5 h4h3 f5e7",
+    "Rating": "1488",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "1315",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/l9qK1w60/black#32",
+    "OpeningTags": "Grob_Opening Grob_Opening_Spike"
+  },
+  {
+    "PuzzleId": "iCzjg",
+    "FEN": "r1b1k3/ppq3p1/2p5/7r/1PPpNn1P/3P1P2/PQ6/2KR3R b - - 0 23",
+    "Moves": "e8d7 b2d4 d7e8 e4d6 e8f8 d4f4",
+    "Rating": "1560",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "8231",
+    "Themes": "crushing discoveredAttack interference long middlegame",
+    "GameUrl": "https://lichess.org/AXDljAj6/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iD0sT",
+    "FEN": "4r1k1/5pp1/p1p3bp/8/2Q5/1BPPq3/PP3RPP/5RK1 w - - 0 31",
+    "Moves": "g1h1 e3f2 h2h3 f2f1",
+    "Rating": "1561",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "14265",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/k7mlWb4v#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iD155",
+    "FEN": "r2q1rk1/1b1np1b1/p2p2Bp/3P4/5PP1/2p4P/P2QNB2/2KRR3 w - - 0 22",
+    "Moves": "e2c3 g7c3 d2c3 a8c8",
+    "Rating": "1459",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "719",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/8te8IFPp#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iD171",
+    "FEN": "r3k2r/1p1n1pp1/pqp1P3/3p1p1p/3Q4/2N1PPP1/PPP3P1/2K1R2R b kq - 0 17",
+    "Moves": "b6d4 e6d7 e8d7 e3d4",
+    "Rating": "1413",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "1031",
+    "Themes": "advancedPawn crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/AYT8tqvw/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  }
+]

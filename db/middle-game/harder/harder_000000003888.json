@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BisC1",
+    "FEN": "r2q1rk1/1b2bp2/p2p3p/1p2p1pn/4P3/P1NR1NBP/1PP1QPP1/5RK1 w - - 2 17",
+    "Moves": "f3e5 h5g3 f2g3 d8b6 e2f2 b6f2",
+    "Rating": "1835",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1623",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/SP9ZYc2z#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_OKelly_Variation"
+  },
+  {
+    "PuzzleId": "BitWP",
+    "FEN": "4r1k1/ppr2pp1/1q2bn1p/3p1N2/Q2P1bP1/P1NB3P/1P3P2/K3R2R b - - 6 21",
+    "Moves": "a7a6 c3d5 e6d5 e1e8",
+    "Rating": "1935",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "1299",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/CVVZHbYX/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Bitb3",
+    "FEN": "2r1r3/2pk2b1/p2pR1p1/1p1P1q1p/3p4/PQ3PP1/1PP4P/2K1R3 b - - 7 23",
+    "Moves": "c7c5 d5c6 d7c6 e6e8",
+    "Rating": "1867",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "845",
+    "Themes": "crushing deflection enPassant master middlegame short",
+    "GameUrl": "https://lichess.org/5NdizcLJ/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Biui2",
+    "FEN": "2r2r2/1p1q2pk/2pp2p1/pP2b2p/P1Pp3R/B2Q2P1/5PK1/7R b - - 7 29",
+    "Moves": "d7f5 h4h5 g6h5 h1h5 h7g6 h5f5",
+    "Rating": "1809",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "352",
+    "Themes": "crushing long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/T0nYGr5w/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Biuu5",
+    "FEN": "r1bqr1k1/p4p1p/2B3p1/8/3b4/1P2P1P1/P4P1P/R2QK1NR w KQ - 0 16",
+    "Moves": "c6a8 d4c3 e1f1 c8a6 f1g2 d8a8",
+    "Rating": "1942",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "2811",
+    "Themes": "crushing discoveredAttack fork long master middlegame",
+    "GameUrl": "https://lichess.org/qm70BSGo#31",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Indian_Variation"
+  },
+  {
+    "PuzzleId": "BiuyW",
+    "FEN": "r2qk2r/pbpn2bp/1p3pp1/4N1Bn/4P2P/2NB4/PPP2PP1/R2QK2R w KQkq - 0 12",
+    "Moves": "e5d7 f6g5 d3b5 c7c6",
+    "Rating": "1908",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "580",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/3jkr7YcN#23",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "BiwYP",
+    "FEN": "2rqk2r/1p1b2pp/p1nbpn2/2ppN1P1/3P4/2PBB3/PP3P1P/RN1QR1K1 b k - 0 12",
+    "Moves": "f6e4 d1h5 g7g6 e5g6 h7g6 h5h8",
+    "Rating": "1819",
+    "RatingDeviation": "103",
+    "Popularity": "63",
+    "NbPlays": "21",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/nNM8V2gD/black#24",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "Biwwm",
+    "FEN": "r5k1/5ppp/4r3/4pq2/6n1/1QR1B1P1/P4P1P/2R3K1 b - - 11 27",
+    "Moves": "e6a6 b3b7 g7g6 c3c8 a8c8 c1c8",
+    "Rating": "1824",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1083",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/AmEngm3T/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Bix7r",
+    "FEN": "r3k2r/1b5p/pnpBp1p1/1p2P3/P1pP3q/2P2PR1/2Q1N1P1/1R3K2 w kq - 0 20",
+    "Moves": "g3g6 h7g6 c2g6 e8d8",
+    "Rating": "1953",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "100",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/2oPw8jsV#39",
+    "OpeningTags": ""
+  }
+]

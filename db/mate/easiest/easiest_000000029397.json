@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "vBoyl",
+    "FEN": "4Qr1k/3P2pp/2p2p2/1p1p1R2/1P6/P6P/6PK/q7 b - - 1 35",
+    "Moves": "f8e8 d7e8q",
+    "Rating": "849",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "500",
+    "Themes": "advancedPawn backRankMate endgame mate mateIn1 oneMove promotion",
+    "GameUrl": "https://lichess.org/DKtMEr0L/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vBpMX",
+    "FEN": "rnbqkb1r/ppp1pppp/8/2n1P3/8/3P1N2/PP1PNPPP/R1BQKB1R w KQkq - 1 7",
+    "Moves": "d3d4 c5d3",
+    "Rating": "703",
+    "RatingDeviation": "80",
+    "Popularity": "100",
+    "NbPlays": "294",
+    "Themes": "mate mateIn1 oneMove opening smotheredMate",
+    "GameUrl": "https://lichess.org/cDahr14c#13",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Scandinavian_Variation"
+  },
+  {
+    "PuzzleId": "vBqdG",
+    "FEN": "r2r2k1/5ppp/3p2q1/P1b1p2N/2B1P3/2PP1n1R/4Q2P/R1B4K w - - 2 30",
+    "Moves": "e2f3 g6g1",
+    "Rating": "746",
+    "RatingDeviation": "107",
+    "Popularity": "100",
+    "NbPlays": "18",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/tXuEDSNK#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vBrVg",
+    "FEN": "8/p2r1pk1/2Q1b1pp/4P3/2P2b2/8/R4PP1/1R4K1 w - - 0 38",
+    "Moves": "b1b7 d7d1",
+    "Rating": "931",
+    "RatingDeviation": "93",
+    "Popularity": "95",
+    "NbPlays": "465",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/EeQ5Op40#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vBs57",
+    "FEN": "6k1/6rp/p1pp2p1/1pb3rn/8/3B1R2/5PPP/4R1K1 b - - 1 34",
+    "Moves": "d6d5 e1e8 c5f8 f3f8",
+    "Rating": "817",
+    "RatingDeviation": "98",
+    "Popularity": "95",
+    "NbPlays": "446",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/SPgLopGM/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vBtRV",
+    "FEN": "2rq1rk1/pb1pbppp/1p2p3/3nP3/1n1PQ3/5N2/PP1N1PPP/RBB2RK1 b - - 2 13",
+    "Moves": "c8c7 e4h7",
+    "Rating": "699",
+    "RatingDeviation": "86",
+    "Popularity": "97",
+    "NbPlays": "335",
+    "Themes": "kingsideAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/yQBa36ou/black#26",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  },
+  {
+    "PuzzleId": "vBuZN",
+    "FEN": "8/8/p1P5/PpR5/8/6kP/1r6/6K1 w - - 4 46",
+    "Moves": "c6c7 b2b1 c5c1 b1c1",
+    "Rating": "632",
+    "RatingDeviation": "93",
+    "Popularity": "95",
+    "NbPlays": "693",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/ZXSJZirW#91",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vBvZR",
+    "FEN": "r1b3k1/pp4pp/2p3r1/3pPp2/7q/1P1QP2P/PB3PPK/2R2R2 w - - 0 19",
+    "Moves": "f2f4 h4g3 h2g1 g3g2",
+    "Rating": "884",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "258",
+    "Themes": "master mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/rpTcDvt5#37",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Accelerated_Move_Order"
+  },
+  {
+    "PuzzleId": "vBvyc",
+    "FEN": "r7/8/2k5/3pR3/5B2/2P5/5PPP/3R2K1 w - - 0 34",
+    "Moves": "d1d5 a8a1 f4c1 a1c1 d5d1 c1d1 e5e1 d1e1",
+    "Rating": "928",
+    "RatingDeviation": "110",
+    "Popularity": "29",
+    "NbPlays": "69",
+    "Themes": "backRankMate endgame mate mateIn4 veryLong",
+    "GameUrl": "https://lichess.org/NBMSAFTN#67",
+    "OpeningTags": ""
+  }
+]

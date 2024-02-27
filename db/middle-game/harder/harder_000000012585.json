@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "c4g8l",
+    "FEN": "6k1/1b1N3p/2p1p1p1/2Pp4/p1r5/K2QP1q1/PP3r2/R6R b - - 1 28",
+    "Moves": "f2f3 a1g1 g3g1 h1g1",
+    "Rating": "1933",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "1382",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/fvbG9tfn/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "c4hj3",
+    "FEN": "r4rk1/1bqn1pp1/2p1pn1p/pp6/3P3B/P1Q1PN2/1P2BPPP/R4RK1 w - - 2 15",
+    "Moves": "e2b5 f6d5 c3d2 c6b5",
+    "Rating": "1885",
+    "RatingDeviation": "72",
+    "Popularity": "94",
+    "NbPlays": "10357",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/VRweyulo#29",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Spielmann_Variation"
+  },
+  {
+    "PuzzleId": "c4jii",
+    "FEN": "r3k2r/pp2bppp/1qn1pn2/8/Q1pP4/2N1BB2/PP3PPP/R4RK1 b kq - 3 12",
+    "Moves": "b6a6 a4a6 b7a6 f3c6",
+    "Rating": "1951",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "7076",
+    "Themes": "capturingDefender crushing middlegame short",
+    "GameUrl": "https://lichess.org/ClQ21aYb/black#24",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "c4kVv",
+    "FEN": "2kr3r/p3qp2/Pp1p4/1Pp1n2p/8/2PB2Pp/3Q4/4RR1K b - - 0 25",
+    "Moves": "d8g8 d3f5 c8d8 d2d5 d8e8 d5a8",
+    "Rating": "1984",
+    "RatingDeviation": "74",
+    "Popularity": "69",
+    "NbPlays": "237",
+    "Themes": "clearance crushing long middlegame",
+    "GameUrl": "https://lichess.org/cJFHGBAq/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "c4mxT",
+    "FEN": "rqb3rk/1p2b1pp/pPp2n1n/P1Pp4/3Pp2B/2N1P3/2N1B1PP/R2Q1RK1 b - - 3 21",
+    "Moves": "f6g4 h4g3 b8g3 h2g3",
+    "Rating": "1979",
+    "RatingDeviation": "71",
+    "Popularity": "94",
+    "NbPlays": "8341",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/6zqYKZFI/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "c4ndH",
+    "FEN": "5r1k/6pp/p2Q4/1p5r/6b1/P1PKR3/1P3PP1/R6q b - - 3 30",
+    "Moves": "g4f5 d3d2 f8g8 a1h1",
+    "Rating": "1882",
+    "RatingDeviation": "77",
+    "Popularity": "83",
+    "NbPlays": "54",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/k67ul8s5/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "c4o6s",
+    "FEN": "4rrk1/pp1n2p1/2pb1q2/3p4/3P2Q1/2N5/PPP2PP1/R1B2RK1 w - - 3 17",
+    "Moves": "g4d7 f6f2 f1f2 e8e1 f2f1 e1f1",
+    "Rating": "1989",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "191",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/cZ4HOryG#33",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "c4orV",
+    "FEN": "1r1r2k1/4qp1p/3RP2b/P1pnP1pP/2N5/1P3QP1/5R2/6K1 b - - 0 41",
+    "Moves": "d8d6 e6f7 g8f8 e5d6",
+    "Rating": "1966",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "2011",
+    "Themes": "advancedPawn crushing intermezzo kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/e1nnEIil/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "c4otR",
+    "FEN": "5rk1/1b1nq2p/p5p1/1p1np3/2pP3P/2P2B2/P1QB1PP1/R4RK1 w - - 0 20",
+    "Moves": "a1b1 f8f3 g2f3 e7h4 c2e4 d5f4 d2f4 b7e4",
+    "Rating": "1958",
+    "RatingDeviation": "76",
+    "Popularity": "79",
+    "NbPlays": "55",
+    "Themes": "advantage discoveredAttack middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/jjiO3BXH#39",
+    "OpeningTags": ""
+  }
+]

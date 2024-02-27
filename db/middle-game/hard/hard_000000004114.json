@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Ahvaz",
+    "FEN": "r5k1/4ppbp/2b3p1/r1N1P3/p2P4/R3B2P/5PP1/R5K1 w - - 10 25",
+    "Moves": "c5b3 a4b3 a3a5 a8a5 a1a5 b3b2",
+    "Rating": "1757",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "7708",
+    "Themes": "advancedPawn crushing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/oB8jXlJ7#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AhwjQ",
+    "FEN": "2k2r2/pp1n2p1/2p2q2/8/1PP4p/PQ5P/4rPPB/R4RK1 w - - 2 26",
+    "Moves": "a1a2 f6f2 f1f2 e2e1 f2f1 f8f1",
+    "Rating": "1740",
+    "RatingDeviation": "88",
+    "Popularity": "57",
+    "NbPlays": "36",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/Hex1pVtp#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AhxT2",
+    "FEN": "4r1k1/Q2R1p1p/2p3p1/8/8/5qB1/PPP2P1P/4rRK1 w - - 2 28",
+    "Moves": "a2a4 e1f1 g1f1 f3h1",
+    "Rating": "1601",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "597",
+    "Themes": "attraction mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/I2shS51a#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ahzx5",
+    "FEN": "r3kr2/ppp2Npp/2n5/3Bp3/8/8/PPqP1Q2/RNB2K2 w q - 0 16",
+    "Moves": "b1a3 c2d3 f1g2 d3d5",
+    "Rating": "1630",
+    "RatingDeviation": "75",
+    "Popularity": "79",
+    "NbPlays": "116",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/22jW18nS#31",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "Ai0u4",
+    "FEN": "r1b2rk1/pp1p2p1/2n1p2p/8/2P1N2P/3QPN2/Pq4P1/R4RK1 b - - 0 16",
+    "Moves": "c6e5 f3e5 b2e5 f1f8 g8f8 a1f1",
+    "Rating": "1674",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "99",
+    "Themes": "attraction crushing discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/CMg5ZRSY/black#32",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Ai2LL",
+    "FEN": "r2q1r1k/6pp/p2npp2/1bRp4/P2Q1B2/2P2N2/5PPP/1R4K1 b - - 0 25",
+    "Moves": "b5c4 f4d6 d8d6 c5c4",
+    "Rating": "1674",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "11886",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/TaryjX0z/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ai2Sf",
+    "FEN": "rn1q1r1k/pp2bppn/2p1p2p/8/3P4/2NBBRQ1/PPP3PP/5RK1 b - - 4 14",
+    "Moves": "e7g5 f3f7 f8f7 f1f7",
+    "Rating": "1728",
+    "RatingDeviation": "78",
+    "Popularity": "78",
+    "NbPlays": "59",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/gzwvMoG6/black#28",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Teichmann_Variation"
+  },
+  {
+    "PuzzleId": "Ai387",
+    "FEN": "r4rk1/n4ppp/3bp3/RB1p4/Qq1P4/4PN1P/5PP1/5RK1 b - - 1 19",
+    "Moves": "a7b5 a5a8 b4a4 a8a4",
+    "Rating": "1736",
+    "RatingDeviation": "80",
+    "Popularity": "95",
+    "NbPlays": "13113",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/x6YXJZcn/black#38",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  },
+  {
+    "PuzzleId": "Ai6CW",
+    "FEN": "r1b1nr2/ppp2kbQ/3p1q2/3P1p2/2P2Bn1/2N5/PP4P1/2KR1BNR w - - 7 17",
+    "Moves": "f1e2 f8h8 h7h8 g7h8",
+    "Rating": "1756",
+    "RatingDeviation": "78",
+    "Popularity": "96",
+    "NbPlays": "11380",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/13Wwhr32#33",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Samisch_Variation"
+  }
+]

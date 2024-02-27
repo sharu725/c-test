@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "YBYIC",
+    "FEN": "r3k2r/pq1n2pp/3Bpp1n/1p6/3PP3/3Q2P1/PP3P1P/2R2RK1 b kq - 2 16",
+    "Moves": "e8f7 c1c7 b7c7 d6c7",
+    "Rating": "1141",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "252",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/cN3LF5PC/black#32",
+    "OpeningTags": "Slav_Defense Slav_Defense_Modern_Line"
+  },
+  {
+    "PuzzleId": "YBaUN",
+    "FEN": "r2q1rk1/pp2b1pp/8/3p3b/1nPP4/1BQ2pPP/PP1N1P2/R3R1K1 b - - 0 19",
+    "Moves": "b4c6 c4d5 g8h8 d5c6",
+    "Rating": "1062",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "530",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/JYuY4eHg/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+  },
+  {
+    "PuzzleId": "YBaht",
+    "FEN": "r1bq1rk1/6p1/p1p1p2p/1p2Pp1Q/1P1Pp3/P3P1R1/1P4PP/R1B3K1 b - - 1 20",
+    "Moves": "g8h7 h5g6 h7h8 g6g7",
+    "Rating": "1187",
+    "RatingDeviation": "147",
+    "Popularity": "82",
+    "NbPlays": "17",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/CAKi2Hta/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YBctU",
+    "FEN": "r7/2p2k2/pb1p3B/1p2n3/4P1b1/2P5/PP1N1PP1/R4RK1 w - - 2 20",
+    "Moves": "g1h1 a8h8 h1g1 h8h6",
+    "Rating": "1107",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "1967",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/xa2Tp1w1#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YBeCW",
+    "FEN": "2kr1b1r/1pp1q2p/p2p2p1/3Pnp2/1PP1b3/P4N2/4BPPP/R1BQ1RK1 w - - 1 14",
+    "Moves": "c1g5 e5f3 g2f3 e7g5",
+    "Rating": "1001",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "1228",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/feFHmLiZ#27",
+    "OpeningTags": "Russian_Game Russian_Game_Classical_Attack"
+  },
+  {
+    "PuzzleId": "YBecl",
+    "FEN": "r3r1k1/p4ppp/5q2/2ppR3/1b1P2Q1/1P3NP1/P4PKP/R7 w - - 0 22",
+    "Moves": "d4c5 e8e5 f3e5 f6e5",
+    "Rating": "1177",
+    "RatingDeviation": "78",
+    "Popularity": "78",
+    "NbPlays": "303",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/UoPdYQ1X#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YBfGx",
+    "FEN": "rn3qk1/p1p3pp/1p6/5pQ1/4P3/5bR1/PPP2P1P/R3K3 b Q - 0 18",
+    "Moves": "f5e4 g5d5 g8h8 d5a8",
+    "Rating": "1141",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "4554",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/qa5YOKbr/black#36",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Tennison_Gambit"
+  },
+  {
+    "PuzzleId": "YBft7",
+    "FEN": "r1b2rkR/ppB3p1/1nn1pp2/6N1/3P4/8/qP3PPP/3Q1RK1 b - - 1 18",
+    "Moves": "g8h8 d1h5 h8g8 h5h7",
+    "Rating": "1031",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "141",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/mQYjsYvK/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "YBhOc",
+    "FEN": "r4rk1/p3bppp/2p1p3/2pq3Q/4NP2/2BPn3/PPP3PP/R4RK1 w - - 2 15",
+    "Moves": "e4g5 d5g2",
+    "Rating": "1068",
+    "RatingDeviation": "167",
+    "Popularity": "33",
+    "NbPlays": "23",
+    "Themes": "kingsideAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/vng1SWHK#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "61B2E",
+    "FEN": "3r2k1/pp2nRpp/1q6/3r4/2B5/1P5P/P1P3P1/5R1K b - - 2 26",
+    "Moves": "d5d1 f7f8",
+    "Rating": "977",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "765",
+    "Themes": "doubleCheck mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/m3B1Ak3c/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "61BJ4",
+    "FEN": "r4rk1/pb2b1pp/np6/1N1qQp2/8/4B3/PPP1B1PP/R4RK1 w - - 0 17",
+    "Moves": "e5e7 d5g2",
+    "Rating": "697",
+    "RatingDeviation": "83",
+    "Popularity": "100",
+    "NbPlays": "93",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Fp7ciI5i#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  },
+  {
+    "PuzzleId": "61BmL",
+    "FEN": "r1b2r1Q/3p1Nk1/p3p1p1/1p1nPnN1/3q2pQ/5P2/PP3R2/R5K1 b - - 0 27",
+    "Moves": "f8h8 h4h8",
+    "Rating": "732",
+    "RatingDeviation": "83",
+    "Popularity": "100",
+    "NbPlays": "128",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4G9Yjwjp/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "61E8U",
+    "FEN": "r2nk2r/ppp2qp1/4ppQ1/7B/3P4/2P3P1/PP3PP1/R3K2R b KQkq - 0 18",
+    "Moves": "f7g6 h5g6 e8e7 h1h8",
+    "Rating": "668",
+    "RatingDeviation": "167",
+    "Popularity": "20",
+    "NbPlays": "17",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/yXfxRfK5/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "61EDZ",
+    "FEN": "r1bqk2r/pppn2bp/5np1/4ppB1/2P4P/2N1PN2/PP3PP1/R2QKB1R w KQkq - 0 9",
+    "Moves": "f3e5 d7e5 d1d8 e8d8",
+    "Rating": "730",
+    "RatingDeviation": "97",
+    "Popularity": "65",
+    "NbPlays": "54",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/DhvOdCBu#17",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Queens_Knight_Variation"
+  },
+  {
+    "PuzzleId": "61LeQ",
+    "FEN": "3r2k1/1p3p2/p1p3pp/3r4/2pq4/P2P2B1/2Q2PPP/3RR1K1 w - - 0 26",
+    "Moves": "d3c4 d4d1 c2d1 d5d1",
+    "Rating": "958",
+    "RatingDeviation": "92",
+    "Popularity": "91",
+    "NbPlays": "78",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/Dj5pLWy7#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "61Me7",
+    "FEN": "2kr3r/1pp1npb1/N3bn2/6B1/3P4/2P2BN1/PP2QPPq/R3R1K1 w - - 1 22",
+    "Moves": "g1f1 h2h1 g3h1 h8h1",
+    "Rating": "978",
+    "RatingDeviation": "81",
+    "Popularity": "89",
+    "NbPlays": "63",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/WETKnQEP#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "61Nf0",
+    "FEN": "2k2r2/p1p3p1/1p2p1q1/1P3r1p/P1PNN3/3P3P/3Q3P/R4RK1 w - - 1 26",
+    "Moves": "g1h1 f5f1 a1f1 f8f1",
+    "Rating": "773",
+    "RatingDeviation": "91",
+    "Popularity": "68",
+    "NbPlays": "159",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/6mOvA9OG#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "61OnQ",
+    "FEN": "4k2r/p4ppp/1p2p3/5q2/2NK4/B2b4/P3QP1P/R4R2 b k - 0 21",
+    "Moves": "d3e2 c4d6 e8d7 d6f5",
+    "Rating": "932",
+    "RatingDeviation": "95",
+    "Popularity": "69",
+    "NbPlays": "158",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/4hFOQyTk/black#42",
+    "OpeningTags": ""
+  }
+]

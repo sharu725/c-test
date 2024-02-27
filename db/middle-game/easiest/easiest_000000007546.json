@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "MNQ5D",
+    "FEN": "r4Qk1/1p5p/p1np2pB/2p1n3/4P3/P2q2PP/6B1/5R1K b - - 3 30",
+    "Moves": "a8f8 f1f8",
+    "Rating": "622",
+    "RatingDeviation": "83",
+    "Popularity": "100",
+    "NbPlays": "90",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/FK5g8o2X/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MNQHv",
+    "FEN": "r3r1k1/pp2qp1p/1bp3pB/5b2/3PB3/8/PPQ2PPP/R3R1K1 w - - 4 18",
+    "Moves": "e4f5 e7e1 a1e1 e8e1",
+    "Rating": "670",
+    "RatingDeviation": "94",
+    "Popularity": "73",
+    "NbPlays": "157",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/r9tvw7Dq#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Classical_Variation"
+  },
+  {
+    "PuzzleId": "MNQWd",
+    "FEN": "4r1k1/1Qp2pp1/5n1p/3Pq3/P1P5/2P2pPb/5P1P/1R1Rr1KB w - - 5 25",
+    "Moves": "d1e1 e5e1 b1e1 e8e1",
+    "Rating": "751",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "105",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/EyIyPDHt#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MNQwK",
+    "FEN": "1q1r2k1/5p1p/1p1bp1p1/rP6/P7/1Q2PB1P/5PP1/2RR2K1 w - - 1 28",
+    "Moves": "b3d3 d6h2 g1h1 d8d3",
+    "Rating": "945",
+    "RatingDeviation": "79",
+    "Popularity": "88",
+    "NbPlays": "194",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/zkBcP9Qh#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MNROD",
+    "FEN": "r1b2rk1/pppp1ppp/3b4/4q3/2P5/4P3/PP1NBPPP/R2Q1RK1 w - - 0 12",
+    "Moves": "b2b3 e5h2",
+    "Rating": "999",
+    "RatingDeviation": "98",
+    "Popularity": "71",
+    "NbPlays": "28",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Kw3nRl1q#23",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "MNVCM",
+    "FEN": "r4r1k/2p3Rp/3p1q2/1NpPp3/p1n1PpQ1/P4P2/1PK4P/6R1 w - - 0 37",
+    "Moves": "b5c7 c4e3 c2c1 e3g4",
+    "Rating": "836",
+    "RatingDeviation": "98",
+    "Popularity": "92",
+    "NbPlays": "529",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/XIT7SvZo#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MNX6Y",
+    "FEN": "r3k2r/1pp2ppp/p1n1b3/2b1q2n/5P2/2NB2N1/PPPB2PP/R1Q2RK1 w kq - 1 13",
+    "Moves": "g1h1 h5g3 h2g3 e5h5",
+    "Rating": "852",
+    "RatingDeviation": "83",
+    "Popularity": "96",
+    "NbPlays": "849",
+    "Themes": "clearance kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/bbj5wNDz#25",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Gubinsky-Melts_Defense"
+  },
+  {
+    "PuzzleId": "MNZBF",
+    "FEN": "r2q1r1k/pp4pp/3pbn2/5p2/1PP2P2/P5P1/1B1Q2BP/R4RK1 w - - 5 20",
+    "Moves": "g2b7 d8b6 c4c5 b6b7",
+    "Rating": "941",
+    "RatingDeviation": "96",
+    "Popularity": "94",
+    "NbPlays": "649",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/HzWCyRFA#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MNdkr",
+    "FEN": "2rr2k1/1p1P1ppp/pb3q2/8/4R3/6Q1/PP3PPP/3R2K1 b - - 0 25",
+    "Moves": "c8c2 e4e8 d8e8 d7e8q",
+    "Rating": "889",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "2355",
+    "Themes": "advancedPawn kingsideAttack mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/j7rBGXKh/black#50",
+    "OpeningTags": ""
+  }
+]

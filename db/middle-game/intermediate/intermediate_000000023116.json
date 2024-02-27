@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "tfZNR",
+    "FEN": "r2q1rk1/ppp2ppp/3p1n2/2b1p3/2BnPP2/2NPB2P/PPP2QP1/R4RK1 b - - 4 11",
+    "Moves": "e5f4 e3d4 c5d4 f2d4 c7c5 d4f2",
+    "Rating": "1553",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "7291",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/hjnJu6Oa/black#22",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "tfau1",
+    "FEN": "2b1k2r/1p3ppp/3pp3/1Nb5/2P1P1n1/P2B2q1/1PQ2PP1/R1B2RK1 w k - 0 16",
+    "Moves": "c1f4 g3f4",
+    "Rating": "1529",
+    "RatingDeviation": "100",
+    "Popularity": "-8",
+    "NbPlays": "21",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/QhcAgODI#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "tfayh",
+    "FEN": "3r2k1/p5b1/3P4/qp5R/2r5/1Qp5/P1P5/K6R b - - 2 41",
+    "Moves": "a7a6 b3c4 b5c4 h5a5",
+    "Rating": "1547",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1154",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/6BVKOj7J/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tfb8o",
+    "FEN": "r2r2k1/pp3p1p/6p1/2q1p3/3n4/PbNB1P2/1PPQ2PP/2KR3R w - - 7 21",
+    "Moves": "d2f2 b3c2 d3c2 d4b3 c1b1 c5f2",
+    "Rating": "1528",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "61",
+    "Themes": "crushing discoveredAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/mtREomFu#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tfbLt",
+    "FEN": "rn3rk1/pp2bpp1/2p1p2p/4P3/1PP4n/P2B1N2/1B3PPP/R4RK1 w - - 3 17",
+    "Moves": "f3d2 f8d8 d3e4 d8d2",
+    "Rating": "1537",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "378",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/1rhZ4I4C#33",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "tfbPv",
+    "FEN": "rnb1k1r1/ppp2p1p/8/8/3PQB1q/6p1/PPP1P1B1/RN4K1 b q - 3 14",
+    "Moves": "e8f8 f4d6 c7d6 e4h4",
+    "Rating": "1494",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1382",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/DUduJK4M/black#28",
+    "OpeningTags": "Bird_Opening Bird_Opening_Froms_Gambit"
+  },
+  {
+    "PuzzleId": "tfbli",
+    "FEN": "3r2nr/2k1n1pp/Pppb1p2/3p4/2PP4/3B1N2/5PPP/R1B2RK1 b - - 0 19",
+    "Moves": "d8a8 c4c5 b6c5 d4c5",
+    "Rating": "1404",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "1006",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/oRG630kK/black#38",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "tfd8T",
+    "FEN": "2kr2nr/ppp2ppp/1b3q2/4R3/8/1QP2N2/P4PPP/R1B3K1 b - - 0 16",
+    "Moves": "g8e7 c1g5 f6f3 g2f3",
+    "Rating": "1505",
+    "RatingDeviation": "75",
+    "Popularity": "65",
+    "NbPlays": "326",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/SlSeVREg/black#32",
+    "OpeningTags": "Italian_Game Italian_Game_Evans_Gambit"
+  },
+  {
+    "PuzzleId": "tfe0S",
+    "FEN": "r1b2r2/1pp1Nppk/1p5p/6q1/1PB2n2/3P3P/PB1Q1PP1/R3R1K1 w - - 3 19",
+    "Moves": "c4d5 f4h3 g1f1 g5d2",
+    "Rating": "1475",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1457",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/5w3HIjIg#37",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  }
+]

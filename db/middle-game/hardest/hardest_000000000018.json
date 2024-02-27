@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "02FTV",
+    "FEN": "r1q1k3/pppbn3/3p2r1/3PpPn1/1PP3p1/P1NBQ3/5PPN/R4RK1 b q - 0 20",
+    "Moves": "e7f5 d3f5 d7f5 f2f4 g4f3 h2f3",
+    "Rating": "2113",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "74",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/6VQrn3YJ/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "02Ggp",
+    "FEN": "5rk1/p1p2ppp/1pn5/5N2/3q1BQ1/P1n5/2P3PP/4R2K b - - 0 19",
+    "Moves": "c3e4 f5d4 e4f2 h1g1 f2g4 d4c6",
+    "Rating": "2207",
+    "RatingDeviation": "80",
+    "Popularity": "83",
+    "NbPlays": "146",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/WTFLBo2s/black#38",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  },
+  {
+    "PuzzleId": "02Gmj",
+    "FEN": "6k1/3r1pp1/npNp4/2pP3Q/2q4b/P6P/1P2rNP1/1R3RK1 w - - 1 28",
+    "Moves": "f2g4 c4e4 g4h6 g7h6",
+    "Rating": "2197",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "120",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/k50aoy3u#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "02Hq5",
+    "FEN": "r2qk2r/2p1n1pp/1bP2p2/pP2p3/Q2pP3/B1Pb4/P2N1PPP/RN2R1K1 w kq - 0 18",
+    "Moves": "c3d4 d8d4 a4d4 b6d4 d2b3 d4a1",
+    "Rating": "2055",
+    "RatingDeviation": "120",
+    "Popularity": "2",
+    "NbPlays": "39",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/VpTLyxMo#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Nurnberg_Variation"
+  },
+  {
+    "PuzzleId": "02KVJ",
+    "FEN": "r1br2k1/p1b2ppp/1pB5/P2p3q/3Qn3/2P4P/1P3PP1/R1B1R1NK b - - 1 19",
+    "Moves": "b6a5 c6a8 c7b6 e1e4",
+    "Rating": "2305",
+    "RatingDeviation": "102",
+    "Popularity": "61",
+    "NbPlays": "27",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/jZZaIBjJ/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Delayed_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "02Lda",
+    "FEN": "2k1r3/pp3p1p/2p5/q1b1B3/3nP3/2N3QP/PP3PP1/5K1R w - - 4 20",
+    "Moves": "f1g1 e8e5 g3e5 d4f3 g2f3 c5f2 g1f2 a5e5",
+    "Rating": "2394",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1491",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/n1mQcQwR#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "02MWI",
+    "FEN": "2r3k1/3np3/p1b3qp/2N1b2p/7P/B1N2rp1/PPP5/1K1RQ1R1 b - - 0 26",
+    "Moves": "f3c3 b2c3 d7c5 e1e5",
+    "Rating": "2144",
+    "RatingDeviation": "138",
+    "Popularity": "43",
+    "NbPlays": "14",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/E6ZPAOEh/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "02MgP",
+    "FEN": "3r1rk1/p1q3pb/1p1b4/8/3B2PQ/2P2p1P/PP3P2/R3RNK1 w - - 1 28",
+    "Moves": "f1g3 d6g3 h4g3 c7g3 f2g3 d8d4 c3d4 f3f2",
+    "Rating": "2047",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "869",
+    "Themes": "advancedPawn advantage kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/jRGb0WQd#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "02Nzx",
+    "FEN": "r3r3/2pbkp1p/2p2p2/1pb1P3/p7/1BN5/PPP2PPP/2KRR3 w - - 0 15",
+    "Moves": "e5f6 e7f8 e1e8 d7e8 b3a4 b5a4",
+    "Rating": "2288",
+    "RatingDeviation": "80",
+    "Popularity": "64",
+    "NbPlays": "61",
+    "Themes": "advantage defensiveMove long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/IlE1ZcIO#29",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Scotch_Variation_Accepted"
+  }
+]

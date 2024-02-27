@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "NXAXX",
+    "FEN": "r4rk1/pp1n1pp1/2pb1p1p/8/2BP4/qPP1BN2/b1QK1PPP/3R3R b - - 4 14",
+    "Moves": "d7b6 d1a1 b6c4 b3c4",
+    "Rating": "1476",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "667",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/YFQAJ0ZO/black#28",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+  },
+  {
+    "PuzzleId": "NXB1M",
+    "FEN": "2r1k1r1/5p2/p1b1p3/q1b1P3/1p5Q/2N3B1/PP3PP1/3R1RK1 w - - 0 28",
+    "Moves": "c3e4 c6e4 h4e4 g8g3",
+    "Rating": "1580",
+    "RatingDeviation": "74",
+    "Popularity": "84",
+    "NbPlays": "604",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/6GxLg00b#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NXBsf",
+    "FEN": "6q1/3knr2/p2p2r1/1pp1p3/4P2Q/P2PB1PP/1PP2P1K/R4R2 w - - 3 28",
+    "Moves": "f2f4 f7h7 h4h7 g8h7",
+    "Rating": "1567",
+    "RatingDeviation": "94",
+    "Popularity": "74",
+    "NbPlays": "25",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/mpqlwQgH#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NXDL9",
+    "FEN": "r3kb1r/pp1nqppp/8/2ppP3/8/2P5/PP2QPPP/RNB2RK1 b kq - 2 12",
+    "Moves": "e7e5 e2e5 d7e5 f1e1 f7f6 f2f4 e8d7 f4e5",
+    "Rating": "1554",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1697",
+    "Themes": "advantage middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/tRcvtp9M/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "NXDiV",
+    "FEN": "r3Q1k1/1p3p2/p4B1p/q2p4/3P2b1/2PB1N2/PP3P2/2K1R3 b - - 0 22",
+    "Moves": "a8e8 e1e8",
+    "Rating": "1471",
+    "RatingDeviation": "461",
+    "Popularity": "50",
+    "NbPlays": "6",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/YPdFp1X4/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NXF3i",
+    "FEN": "rn1q1rk1/3p1pn1/p3p3/6N1/2p3Q1/2P5/P4PPP/R2R2K1 b - - 1 20",
+    "Moves": "d7d5 g4h4 d8g5 h4g5",
+    "Rating": "1590",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "562",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ygpoU3Qw/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NXHjr",
+    "FEN": "2r2rk1/1pp1b1pp/p1np1n2/3Np3/2P1P1q1/1P2QN1P/PB3PP1/3R1RK1 b - - 0 15",
+    "Moves": "g4e4 d5f6 e7f6 e3e4",
+    "Rating": "1514",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "233",
+    "Themes": "crushing intermezzo kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/cUGgBuEt/black#30",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Morphy_Gambit"
+  },
+  {
+    "PuzzleId": "NXIHu",
+    "FEN": "1r4k1/6pp/2b1Rn2/2Pp4/3B4/2P5/4NPPP/1r3RK1 w - - 1 24",
+    "Moves": "h2h3 b1f1 g1f1 b8b1",
+    "Rating": "1404",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "attraction equality middlegame short",
+    "GameUrl": "https://lichess.org/nnEwTWiS#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NXIwB",
+    "FEN": "r1b2rk1/pppp2pp/2n1p3/2P5/N3Pqn1/P4N2/1P2BPPP/R2Q1RK1 w - - 0 14",
+    "Moves": "a4c3 c6e5 g2g3 e5f3 e2f3 f4f3 d1f3 f8f3",
+    "Rating": "1539",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "4198",
+    "Themes": "advantage kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/bvgQ7kpt#27",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  }
+]

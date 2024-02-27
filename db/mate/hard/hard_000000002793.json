@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "VinBn",
+    "FEN": "r1b2rk1/pp3p2/2p2nQ1/4pq2/2BP4/2N1P3/PP3P2/2K3RR b - - 0 18",
+    "Moves": "f5g6 g1g6",
+    "Rating": "1632",
+    "RatingDeviation": "199",
+    "Popularity": "0",
+    "NbPlays": "24",
+    "Themes": "kingsideAttack master mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/9JEznmH9/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Anti-Tartakower_Variation"
+  },
+  {
+    "PuzzleId": "Vj1SU",
+    "FEN": "R7/3P2kp/2p1R1p1/2P2p2/5P2/7P/P5PK/2qr4 w - - 2 37",
+    "Moves": "d7d8q c1f4 g2g3 f4f2",
+    "Rating": "1704",
+    "RatingDeviation": "75",
+    "Popularity": "78",
+    "NbPlays": "215",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/T0jsPrQM#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Vj1bD",
+    "FEN": "r1b1r1k1/ppp2ppp/8/1Bbp4/4n2q/3N4/PPP3PP/RNBQR2K w - - 6 13",
+    "Moves": "b5e8 e4g3",
+    "Rating": "1683",
+    "RatingDeviation": "85",
+    "Popularity": "74",
+    "NbPlays": "281",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/GWj4Zdwk#25",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "VjZuC",
+    "FEN": "r1bq2kQ/pp1nb1p1/4p3/2ppP1P1/5r2/2P1P3/PP3PP1/R3K2R b KQ - 1 16",
+    "Moves": "g8f7 g5g6 f7g6 h8h5",
+    "Rating": "1752",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "149",
+    "Themes": "attraction mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/LKOWhPNR/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "VjgYa",
+    "FEN": "r3k2r/1pb2p2/p1n5/2Pp1pp1/P2N4/2P1P1q1/1P1BQ1B1/3R1RK1 w kq - 0 20",
+    "Moves": "f1f5 h8h1 g1h1 g3h2",
+    "Rating": "1672",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "703",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/Uc5Wn5Fa#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VjgYh",
+    "FEN": "1rb1Nb1r/pp2pB1p/2n3pk/6R1/5pP1/5N2/PP3P1P/2K4R b - g3 0 19",
+    "Moves": "c8d7 g5h5 g6h5 g4g5",
+    "Rating": "1779",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "5081",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/fzKmZuEI/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "VjkSK",
+    "FEN": "r3b1k1/p1p3pp/1p4r1/8/5QP1/1P2p2P/PBPq4/R4RK1 b - - 0 26",
+    "Moves": "e8c6 f4f7 g8h8 f7f8 a8f8 f1f8",
+    "Rating": "1660",
+    "RatingDeviation": "90",
+    "Popularity": "72",
+    "NbPlays": "36",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/TMzOpHxr/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VjkWd",
+    "FEN": "1R6/5kpp/p1b2p2/1p6/6n1/P6q/1P2NQPP/6RK w - - 6 31",
+    "Moves": "f2g3 h3h2 g3h2 g4f2",
+    "Rating": "1699",
+    "RatingDeviation": "81",
+    "Popularity": "85",
+    "NbPlays": "521",
+    "Themes": "mate mateIn2 middlegame sacrifice short smotheredMate",
+    "GameUrl": "https://lichess.org/kI10Us2O#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Vjsim",
+    "FEN": "2kr3r/Qppn1ppp/2q1b3/1B6/5b2/2N2P2/PPP3PP/1K1R3R b - - 1 14",
+    "Moves": "c6b6 b5d7 e6d7 a7a8",
+    "Rating": "1758",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "178",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/H98zzO0U/black#28",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  }
+]

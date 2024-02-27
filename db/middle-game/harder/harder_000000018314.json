@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "tPWJ2",
+    "FEN": "5rk1/ppp2rp1/1b1pQ3/3P4/3P1P2/2P3qp/PP2R1P1/5RK1 b - - 0 31",
+    "Moves": "g8h8 f1f3 h3h2 g1h1 g3h4 f3h3",
+    "Rating": "1809",
+    "RatingDeviation": "160",
+    "Popularity": "88",
+    "NbPlays": "15",
+    "Themes": "crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/Zf1TxkpO/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tPWYT",
+    "FEN": "r6R/pppk1p2/4r3/3Q4/6P1/3n4/PqP5/2RK2N1 b - - 5 24",
+    "Moves": "e6d6 d5f7 d7c6 c2d3 b2c1 d1c1",
+    "Rating": "1981",
+    "RatingDeviation": "82",
+    "Popularity": "81",
+    "NbPlays": "95",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/2c9PZXqL/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tPX05",
+    "FEN": "r1b3r1/p3kp1p/2N1pp2/1B1pn3/6q1/4P3/P1P2PPP/1R1Q1RK1 b - - 6 18",
+    "Moves": "e5c6 d1g4 g8g4 b5c6",
+    "Rating": "1831",
+    "RatingDeviation": "79",
+    "Popularity": "87",
+    "NbPlays": "726",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/BDQYcPbg/black#36",
+    "OpeningTags": "Torre_Attack Torre_Attack_Classical_Defense"
+  },
+  {
+    "PuzzleId": "tPXZL",
+    "FEN": "r2q1rk1/ppp1ppbp/6p1/8/3nP3/2N1BP2/PPPQ3P/2KR3R b - - 1 12",
+    "Moves": "d4f3 d2f2 d8e8 f2f3 g7c3 b2c3",
+    "Rating": "1914",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "7913",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/Vu4Tmn0R/black#24",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Gedult_Gambit"
+  },
+  {
+    "PuzzleId": "tPYMb",
+    "FEN": "2rr2k1/4qp1p/p5p1/1p2p3/4QPP1/Pb1B3P/1PP5/2KR3R w - - 1 23",
+    "Moves": "d1d2 b3d5 e4e5 e7e5 f4e5 d5h1",
+    "Rating": "1933",
+    "RatingDeviation": "81",
+    "Popularity": "71",
+    "NbPlays": "44",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/PNo6BsCE#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tPYjU",
+    "FEN": "6k1/p4R1p/3N4/1p6/n6B/P2P4/K5PP/2rr1B1R w - - 11 37",
+    "Moves": "f7f2 c1a1 a2b3 d1b1 f2b2 b1b2",
+    "Rating": "1874",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "180",
+    "Themes": "hookMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/rTR8O7zx#73",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tPZfj",
+    "FEN": "7r/2pk1ppp/Q2bpn2/2q5/3r4/2N1B3/PP3PPP/R4RK1 b - - 2 16",
+    "Moves": "d6h2 g1h2 c5d6 a6d6",
+    "Rating": "1877",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "192",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/IHge7xml/black#32",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "tPcOf",
+    "FEN": "8/pQ3p1p/2nkb3/6B1/1bP5/3p4/PP3qPP/R2K1BNR w - - 1 17",
+    "Moves": "f1d3 f2e1 d1c2 c6d4",
+    "Rating": "1984",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "7429",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Vj2EgXyt#33",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "tPcXG",
+    "FEN": "r2q1rk1/pp2p3/2p1NbpQ/8/3P4/2P5/P1b3PP/R1B3K1 b - - 0 17",
+    "Moves": "f6d4 c3d4 f8f7 e6d8",
+    "Rating": "1989",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4971",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/SSTLfvQm/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  }
+]

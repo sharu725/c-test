@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Xnq5M",
+    "FEN": "r3k2r/2p2ppp/p3p3/3pBb2/P2Pn3/2PqP3/1P1N1PPP/R1Q1K2R w KQkq - 1 15",
+    "Moves": "f2f3 d3e3 e1d1 e4f2",
+    "Rating": "1378",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "13113",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/yBkQ8C3v#29",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "XnqB1",
+    "FEN": "rn1q1rk1/pp2bppp/3p1nb1/2p1p3/4P1PN/1PPP3P/P4P2/RNBQKB1R b KQ - 2 11",
+    "Moves": "f6e4 h4g6 f7g6 d3e4",
+    "Rating": "1399",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "822",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/5e7s6QFo/black#22",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "XnrvH",
+    "FEN": "r4rk1/pbq2ppp/2p1p3/1p2n3/3PQ3/PBP5/2P1NPPP/R4RK1 b - - 0 15",
+    "Moves": "c6c5 e4e5 c7e5 d4e5",
+    "Rating": "1349",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "121",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/6VrDubPh/black#30",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "Xnsom",
+    "FEN": "2kr3r/ppp1q1p1/3b1n2/3Pp2p/2B1N1n1/3P1RQP/PPP3P1/R1B4K w - - 5 16",
+    "Moves": "c1g5 f6e4 d3e4 e7g5",
+    "Rating": "1283",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "471",
+    "Themes": "capturingDefender crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/DPXKvAey#31",
+    "OpeningTags": "Bird_Opening Bird_Opening_Lasker_Gambit"
+  },
+  {
+    "PuzzleId": "Xnt68",
+    "FEN": "2r1k3/1p2qp2/p3p1p1/3pbb1n/3P4/2P2N2/PP1NBPPQ/2KR4 w - - 0 21",
+    "Moves": "f3e5 c8c3 b2c3 e7a3",
+    "Rating": "1276",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "953",
+    "Themes": "mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/fUpBa4NP#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Xnwp9",
+    "FEN": "rnb2rRk/1p5p/2pp3Q/p3pq1N/8/P7/1P5P/K5R1 b - - 5 29",
+    "Moves": "f8g8 g1g8 h8g8 h6g7",
+    "Rating": "1205",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1321",
+    "Themes": "attraction mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ZQSVn2P6/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Xnxht",
+    "FEN": "r4rk1/pp2bppp/2p5/4Q3/2B1n3/P1NP3P/1qP3P1/R4R1K w - - 0 16",
+    "Moves": "e5e7 e4g3 h1h2 g3f1 a1f1 b2c3",
+    "Rating": "1350",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "822",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/CAcuz649#31",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "XnzEL",
+    "FEN": "4r3/p1k3pp/1ppb4/5b2/4nP2/1B5P/PP1R1BP1/R6K w - - 4 28",
+    "Moves": "d2e2 e4g3 f2g3 e8e2",
+    "Rating": "1304",
+    "RatingDeviation": "76",
+    "Popularity": "75",
+    "NbPlays": "159",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/ToO0SWUP#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XnzVG",
+    "FEN": "3r3k/4Npb1/p1q3pp/1n2P3/5P2/5Q1P/1P3BP1/3R2K1 b - - 4 35",
+    "Moves": "c6f3 d1d8 h8h7 g2f3",
+    "Rating": "1326",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "551",
+    "Themes": "crushing hangingPiece intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/fruz1Ycr/black#70",
+    "OpeningTags": ""
+  }
+]

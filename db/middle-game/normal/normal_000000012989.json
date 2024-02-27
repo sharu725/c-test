@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "bvguw",
+    "FEN": "7r/3q1pk1/p1R2np1/3pb3/1P2p3/PQ2P2P/1B2BPK1/R7 w - - 3 30",
+    "Moves": "b2e5 d7h3 g2g1 h3h1",
+    "Rating": "1342",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "4420",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/uxSOpxYF#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bvhXY",
+    "FEN": "rnb2rk1/1p3pp1/2pP4/1p2Bn2/3P3P/2PB2P1/PP3K2/R6R b - - 0 24",
+    "Moves": "b8d7 d3f5 d7e5 f5c8",
+    "Rating": "1252",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "389",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/EpKFVeDe/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bvjog",
+    "FEN": "r4rk1/p1pqbppp/1p1p4/3P4/2PQ4/8/PP3PPP/R1B2RK1 w - - 0 13",
+    "Moves": "b2b3 e7f6 d4f6 g7f6",
+    "Rating": "1227",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "192",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/9tJIIXlu#25",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "bvmLN",
+    "FEN": "r2q1rk1/ppp1bppp/3p4/4p2n/4PP2/1PNP3P/1PP2QP1/R1B1K2R w KQ - 1 12",
+    "Moves": "f4e5 e7h4 e1g1 h4f2",
+    "Rating": "1267",
+    "RatingDeviation": "78",
+    "Popularity": "71",
+    "NbPlays": "100",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/5OOtwWkj#23",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "bvny4",
+    "FEN": "r4rk1/2q1bpp1/p1p1p2p/3pNb2/N2Pn2B/2Q5/PPP2PPP/R3R1K1 w - - 12 17",
+    "Moves": "c3c6 c7c6 e5c6 e7h4",
+    "Rating": "1269",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "776",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/1stUmYHz#33",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "bvogI",
+    "FEN": "r1bq2k1/p3b1pp/2p1p3/2p3N1/5r2/3PpN1P/PPP1Q1P1/R3K2R w KQ - 0 17",
+    "Moves": "e2e3 e7g5 f3g5 d8g5",
+    "Rating": "1206",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "617",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/mEUgv83F#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Grand_Prix_Attack"
+  },
+  {
+    "PuzzleId": "bvpGl",
+    "FEN": "2kr3r/p3bp2/Pp5p/2p5/2P1BPb1/BP4P1/3qn2P/RQ2R2K b - - 0 24",
+    "Moves": "f7f5 e4f5 g4f5 b1f5 d2d7 f5d7 d8d7 e1e2",
+    "Rating": "1344",
+    "RatingDeviation": "109",
+    "Popularity": "85",
+    "NbPlays": "13",
+    "Themes": "advantage exposedKing middlegame veryLong",
+    "GameUrl": "https://lichess.org/6t4ar7ZJ/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bvprO",
+    "FEN": "r4rk1/3q1ppp/1P1b1n2/4n3/3p4/P1N5/1BB2PPP/R2Q1RK1 w - - 0 19",
+    "Moves": "d1d4 e5f3 g2f3 d6h2 g1h2 d7d4",
+    "Rating": "1221",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "166",
+    "Themes": "advantage discoveredAttack kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/SSVwukxh#37",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bvs3A",
+    "FEN": "4k2r/1pp2p1p/6p1/r2p4/1P3B2/2q1P3/2P2PPP/R2QK1NR w KQk - 1 16",
+    "Moves": "e1f1 a5a1 d1a1 c3a1",
+    "Rating": "1229",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "595",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/gVyHGZ9u#31",
+    "OpeningTags": "Rapport-Jobava_System Rapport-Jobava_System_Other_variations"
+  }
+]

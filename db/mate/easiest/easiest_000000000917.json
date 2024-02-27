@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "1meEl",
+    "FEN": "2k5/1pp3Rp/5p2/5p2/2P5/1P2q3/P7/3R1K2 b - - 6 36",
+    "Moves": "f5f4 g7g8 e3e8 g8e8",
+    "Rating": "883",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "404",
+    "Themes": "endgame mate mateIn2 queenRookEndgame short",
+    "GameUrl": "https://lichess.org/1CpYNhtG/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1mefe",
+    "FEN": "6k1/p4pp1/5b1p/6P1/8/2q5/Pr1Q4/1K1R1R2 w - - 0 32",
+    "Moves": "d2b2 c3b2",
+    "Rating": "724",
+    "RatingDeviation": "95",
+    "Popularity": "95",
+    "NbPlays": "184",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/X1GgMRbf#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1mfRc",
+    "FEN": "4rbk1/1b2r3/pqn2p1p/1pNp1Q2/1P1P2p1/P4N2/1BR2PPP/2R3K1 w - - 0 26",
+    "Moves": "f3h4 e7e1 c1e1 e8e1",
+    "Rating": "589",
+    "RatingDeviation": "101",
+    "Popularity": "93",
+    "NbPlays": "651",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/d4W28kwU#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1mfiP",
+    "FEN": "rnb2rk1/pp3ppp/4p3/3n2N1/1q6/2N1P3/PPQ2PPP/R3KB1R b KQ - 1 11",
+    "Moves": "d5c3 c2h7",
+    "Rating": "764",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "1377",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/bxkqTFTP/black#22",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Weenink_Variation"
+  },
+  {
+    "PuzzleId": "1mgwx",
+    "FEN": "8/2R1nk2/5b2/2BN4/p3rP2/1p1R3B/1P6/1K6 w - - 6 35",
+    "Moves": "d5e7 e4e1 d3d1 e1d1",
+    "Rating": "661",
+    "RatingDeviation": "85",
+    "Popularity": "88",
+    "NbPlays": "351",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Glw80q4t#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1mjFq",
+    "FEN": "3r4/2p3kp/1PP3p1/4N3/4Kp2/5P2/5bPP/1R6 w - - 1 39",
+    "Moves": "b6c7 d8d4",
+    "Rating": "652",
+    "RatingDeviation": "84",
+    "Popularity": "97",
+    "NbPlays": "386",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/T7vhs12d#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1mjSM",
+    "FEN": "5rk1/1p1rbppp/pq6/2p1B3/6Q1/1PN1P3/P1P2PPP/5RK1 b - - 1 16",
+    "Moves": "b6e6 g4g7",
+    "Rating": "879",
+    "RatingDeviation": "82",
+    "Popularity": "70",
+    "NbPlays": "56",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/cyiF7hGi/black#32",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "1mjco",
+    "FEN": "rnb2rk1/p3b2p/2p3p1/3p1q2/3P4/8/PPP2PPP/RNBQR1K1 w - - 0 15",
+    "Moves": "e1e7 f5f2 g1h1 f2f1 d1f1 f8f1",
+    "Rating": "734",
+    "RatingDeviation": "87",
+    "Popularity": "94",
+    "NbPlays": "1482",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/Lpr0mTq2#29",
+    "OpeningTags": "Latvian_Gambit_Accepted Latvian_Gambit_Accepted_Main_Line"
+  },
+  {
+    "PuzzleId": "1mkQC",
+    "FEN": "r3kb1r/pp3pp1/1q1p2bp/1Q1Pp3/4n2B/5N1P/PPP1BPP1/1R2K2R b Kkq - 6 15",
+    "Moves": "b6b5 e2b5",
+    "Rating": "773",
+    "RatingDeviation": "100",
+    "Popularity": "36",
+    "NbPlays": "68",
+    "Themes": "bodenMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/NIdn8c8H/black#30",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Scotch_Variation"
+  }
+]

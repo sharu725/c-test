@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "t5U31",
+    "FEN": "r2q1rk1/p4ppp/1p3n2/3Q4/3P4/5P2/PP3P1P/R1B1R1K1 w - - 0 18",
+    "Moves": "d5e5 f8e8 c1f4 e8e5",
+    "Rating": "1182",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "400",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/S5bV4ynM#35",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "t5WSp",
+    "FEN": "r3k2r/pp2nppp/2pQ4/8/4P1b1/2N1q3/PP2B1PP/3RK2R b Kkq - 5 13",
+    "Moves": "g4e2 d6d7 e8f8 d7d8 a8d8 d1d8",
+    "Rating": "1040",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "1124",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/X7dz67TO/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Declined"
+  },
+  {
+    "PuzzleId": "t5X6y",
+    "FEN": "r1b2rk1/pp1q1pbp/3Bp1p1/3N4/2P3n1/3Q1N2/PP3PPP/R3R1K1 b - - 2 15",
+    "Moves": "d7d6 d5f6 g4f6 d3d6",
+    "Rating": "1184",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "484",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/K9d9irmj/black#30",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "t5XDE",
+    "FEN": "Nn1k1bnr/1p2pppp/p7/3P4/8/5P2/P1P1BP1P/q1BQK2R w K - 0 13",
+    "Moves": "a8c7 a1c3 c1d2 c3c7",
+    "Rating": "1027",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "947",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/7z5mmBYu#25",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "t5ZyV",
+    "FEN": "r5k1/5ppp/2q2b2/r1p5/2Q5/P3PNP1/5PKP/R2R4 w - - 0 24",
+    "Moves": "c4d5 c6d5 d1d5 f6a1",
+    "Rating": "1174",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "1799",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/8Ig9wZiW#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "t5a1l",
+    "FEN": "r4rk1/pp4pp/2n1bq2/3ppp2/8/4P1B1/PPPQBPPP/R4RK1 w - - 3 15",
+    "Moves": "c2c3 f5f4 e3f4 e5f4",
+    "Rating": "1185",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "566",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/kpzNL3aL#29",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "t5biJ",
+    "FEN": "2r3k1/1p2brPp/pq2pp2/2pnB3/4Q3/3P1N2/PPP2PP1/1K1R3R b - - 2 20",
+    "Moves": "f6e5 e4h7",
+    "Rating": "1012",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "175",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/tdsZ6Bqp/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "t5c5S",
+    "FEN": "2rr2k1/pb2qp1p/1p2pp2/2b3BQ/8/2PB4/PP3PPP/3R1RK1 b - - 1 17",
+    "Moves": "f6g5 h5h7 g8f8 h7h8",
+    "Rating": "1064",
+    "RatingDeviation": "81",
+    "Popularity": "92",
+    "NbPlays": "236",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/2mb7xtD9/black#34",
+    "OpeningTags": "French_Defense French_Defense_Rubinstein_Variation"
+  },
+  {
+    "PuzzleId": "t5dBM",
+    "FEN": "1r1qr1k1/5p1p/3pp1pB/2p3N1/2PnR3/6P1/1bP2P1P/1R1Q2K1 w - - 0 20",
+    "Moves": "b1b2 b8b2 e4d4 c5d4",
+    "Rating": "1183",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "5830",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/Ld9OiFpR#39",
+    "OpeningTags": ""
+  }
+]

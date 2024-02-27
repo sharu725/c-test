@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HTrWa",
+    "FEN": "r5k1/pp1n2pn/3pq2p/2p5/2PPN3/1B3P2/PP1Q3P/4R1K1 w - - 1 24",
+    "Moves": "e4c5 e6g6 g1h1 d6c5",
+    "Rating": "1703",
+    "RatingDeviation": "89",
+    "Popularity": "77",
+    "NbPlays": "29",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/7ZgOxRWK#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HTs2o",
+    "FEN": "r2q1rk1/p3bpp1/1p2p2p/3n4/8/2PB1PB1/P1Q2P1P/3RR1K1 b - - 0 17",
+    "Moves": "d8c8 d3h7 g8h8 d1d5 e6d5 e1e7",
+    "Rating": "1798",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "635",
+    "Themes": "advantage capturingDefender discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/2xVuZNdn/black#34",
+    "OpeningTags": "French_Defense French_Defense_Rubinstein_Variation"
+  },
+  {
+    "PuzzleId": "HTsFR",
+    "FEN": "r2qk2r/1ppbbppp/p2p4/3N4/2Q1P3/P7/1PP2PPP/R1B2RK1 b kq - 0 14",
+    "Moves": "d7b5 d5c7 e8f8 c7b5",
+    "Rating": "1695",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "363",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Hb1fWaE1/black#28",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "HTtOL",
+    "FEN": "3r1bk1/1b3ppp/p4q2/1p6/6N1/PB4QP/1p3PP1/4R1K1 b - - 1 27",
+    "Moves": "f6g6 b3f7 g8f7 g4e5 f7g8 e5g6",
+    "Rating": "1790",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "2024",
+    "Themes": "advantage attraction fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/w39EIJKU/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HTwTP",
+    "FEN": "r2q1rk1/5ppp/1pp1p3/2n1P3/1b1p1P2/2N1P3/PPQB2PP/R4RK1 w - - 0 16",
+    "Moves": "c3e2 d4d3 d2b4 d3c2",
+    "Rating": "1615",
+    "RatingDeviation": "75",
+    "Popularity": "64",
+    "NbPlays": "92",
+    "Themes": "advancedPawn crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/MYd87m2e#31",
+    "OpeningTags": "Slav_Defense Slav_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "HTwdr",
+    "FEN": "3r1rk1/1pp3p1/p7/3Pp1qp/1P1bQn2/P4BN1/5PPP/3R1RK1 w - - 4 23",
+    "Moves": "g3e2 f4h3 g1h1 h3f2 f1f2 d4f2",
+    "Rating": "1642",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1523",
+    "Themes": "advantage deflection fork long middlegame pin",
+    "GameUrl": "https://lichess.org/HKXrno4G#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HTxbX",
+    "FEN": "5rk1/5pp1/4p1qp/8/3Q4/P2nPP1P/1r1B2P1/3R1RK1 w - - 4 26",
+    "Moves": "e3e4 d3f4 f1f2 f4h3 g1f1 h3f2",
+    "Rating": "1609",
+    "RatingDeviation": "154",
+    "Popularity": "79",
+    "NbPlays": "24",
+    "Themes": "crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/BCj0rVNp#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HTydm",
+    "FEN": "1r3rk1/pp1b3p/3p2p1/1P2qp2/Q3P2P/6P1/PP4BK/R2R4 b - - 4 23",
+    "Moves": "d7b5 a4b3 g8h8 d1d5 b5c4 b3c4",
+    "Rating": "1623",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "954",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/4MVRa4U8/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HTz0Y",
+    "FEN": "r2q1rk1/1p2bppp/2p1pn2/p3P3/P7/1B3Q1P/1PP1NPP1/3R1RK1 b - - 0 16",
+    "Moves": "f6d5 c2c4 d8c7 c4d5",
+    "Rating": "1694",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "67",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/8lTojxer/black#32",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FP3mW",
+    "FEN": "r3k2r/1p1n1pp1/p3p2p/3pq3/1Q5P/2N5/PPP2PP1/2KR3R b kq - 1 18",
+    "Moves": "e5c7 c3d5 e6d5 h1e1",
+    "Rating": "1690",
+    "RatingDeviation": "75",
+    "Popularity": "73",
+    "NbPlays": "251",
+    "Themes": "advantage middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/DIITQy7f/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+  },
+  {
+    "PuzzleId": "FP4j9",
+    "FEN": "rnb2rk1/pp2Qppp/8/2pB4/5q2/2P2N2/P4PPP/R2R2K1 b - - 0 14",
+    "Moves": "b8c6 d5c6 f4f6 e7f6",
+    "Rating": "1769",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "73",
+    "Themes": "advantage master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/nXcghHPg/black#28",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Vienna_Variation"
+  },
+  {
+    "PuzzleId": "FP57N",
+    "FEN": "r2qr1k1/pb3pbp/4p1p1/3p4/1Qn2B2/2N3P1/PP3PBP/3R1RK1 b - - 1 18",
+    "Moves": "b7c6 b4c4 d5c4 d1d8 e8d8 g2c6",
+    "Rating": "1771",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1233",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/u85htzMV/black#36",
+    "OpeningTags": "Indian_Defense Indian_Defense_Kings_Indian_Variation"
+  },
+  {
+    "PuzzleId": "FP5Ay",
+    "FEN": "r4r1k/ppq2pp1/2b1p2p/2p2n1N/6Q1/1P1P1B2/PBP2PPb/R4R1K b - - 1 19",
+    "Moves": "c6f3 b2g7 f5g7 g4g7",
+    "Rating": "1610",
+    "RatingDeviation": "82",
+    "Popularity": "85",
+    "NbPlays": "99",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Kj2siFZ5/black#38",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "FP5hL",
+    "FEN": "r5rk/1p2P1Qp/pq1N4/2p5/Pbp5/1P4P1/1B5P/2n2R1K b - - 0 24",
+    "Moves": "g8g7 f1f8 a8f8 e7f8q",
+    "Rating": "1609",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "5757",
+    "Themes": "advancedPawn kingsideAttack mate mateIn2 middlegame pin promotion short",
+    "GameUrl": "https://lichess.org/qzNkZtLR/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FP6u7",
+    "FEN": "1r3r2/Q1p4k/1p1p2p1/4p1q1/PPB1P3/2PP1b2/5RP1/R5K1 b - - 1 26",
+    "Moves": "f3g2 a7c7 h7h6 f2g2",
+    "Rating": "1655",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "4340",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/43dRjSVt/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FP7mr",
+    "FEN": "5rk1/p1p3p1/1bp4p/1p2pN1q/4P3/1N6/PPP2R1K/R1Q5 w - - 5 22",
+    "Moves": "h2g2 h5g4 g2h2 b6f2",
+    "Rating": "1696",
+    "RatingDeviation": "80",
+    "Popularity": "79",
+    "NbPlays": "56",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/zNnmRVxO#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FP9lF",
+    "FEN": "r4rk1/p5b1/1q1p2pp/3P1p2/3N1P2/3Q4/PP4PP/2R2RK1 w - - 1 20",
+    "Moves": "g1h1 b6d4 d3d4 g7d4",
+    "Rating": "1664",
+    "RatingDeviation": "142",
+    "Popularity": "4",
+    "NbPlays": "11",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/nSQdzuPm#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FPAm8",
+    "FEN": "4k3/p5Q1/4q3/2p1rp2/2PbB3/1P1PB3/P3KP2/2R5 w - - 0 31",
+    "Moves": "e4d5 e5e3 e2f1 d4g7 d5e6 e3e6",
+    "Rating": "1733",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "10841",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/2XfAVhQa#61",
+    "OpeningTags": ""
+  }
+]

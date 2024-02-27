@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "akiy6",
+    "FEN": "5rk1/1b4pp/p3pP2/3q4/1b1PN2P/3BQ3/1P4P1/2R3K1 b - - 0 25",
+    "Moves": "g7f6 e3g3 g8h8 c1c7",
+    "Rating": "1914",
+    "RatingDeviation": "177",
+    "Popularity": "18",
+    "NbPlays": "6",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/3g02k7CN/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "akjQF",
+    "FEN": "1k4rr/2p1qp2/1pQp4/1BnP4/6pp/6P1/5P2/R5K1 b - - 5 35",
+    "Moves": "c5b7 c6b7 b8b7 b5c6 b7c8 a1a8",
+    "Rating": "1995",
+    "RatingDeviation": "81",
+    "Popularity": "87",
+    "NbPlays": "64",
+    "Themes": "attraction long mate mateIn3 middlegame queensideAttack sacrifice",
+    "GameUrl": "https://lichess.org/4qz0Yqjw/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "akjlo",
+    "FEN": "3q1rk1/pp2npbp/4rnp1/3pN3/2pP1BP1/4Q2P/PPP2PB1/R3R1K1 b - - 0 17",
+    "Moves": "f6d7 e5f7 e6e3 f7d8 e3e1 a1e1 f8f4 e1e7",
+    "Rating": "1942",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "101",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/JRn1LXtR/black#34",
+    "OpeningTags": "French_Defense French_Defense_Kings_Indian_Attack"
+  },
+  {
+    "PuzzleId": "aklEF",
+    "FEN": "3r4/ppp1q1kp/3b2p1/2nQ4/3P4/N1P5/PP1B2PP/R5K1 w - - 5 19",
+    "Moves": "a1e1 d6h2 g1h1 e7e1 d2e1 d8d5",
+    "Rating": "1899",
+    "RatingDeviation": "206",
+    "Popularity": "50",
+    "NbPlays": "8",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/EIoeDrdH#37",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Calabrese_Countergambit"
+  },
+  {
+    "PuzzleId": "aklVK",
+    "FEN": "r1b3rk/8/1np2q1p/p3R2Q/P4p1N/2P4P/1PB2PP1/6K1 b - - 0 31",
+    "Moves": "c8h3 c2g6 f6h4 h5h4",
+    "Rating": "1966",
+    "RatingDeviation": "185",
+    "Popularity": "15",
+    "NbPlays": "26",
+    "Themes": "advantage master middlegame quietMove short",
+    "GameUrl": "https://lichess.org/WMx9g4aa/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aknEy",
+    "FEN": "r3k2r/3p2pp/p1bBpP2/6q1/2B5/6P1/PR2QP1n/1R4K1 b kq - 0 24",
+    "Moves": "g5f6 e2h5 f6g6 h5h2",
+    "Rating": "1996",
+    "RatingDeviation": "91",
+    "Popularity": "87",
+    "NbPlays": "63",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/wuxO80Sx/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aknUx",
+    "FEN": "r3r1k1/1b3p1p/p1q2Bp1/1ppp4/7Q/PP1PP3/5PPP/R2R2K1 w - - 2 23",
+    "Moves": "g2g4 d5d4 e3e4 e8e4 d3e4 c6e4 f2f3 e4f3 h4g3 f3f6",
+    "Rating": "1987",
+    "RatingDeviation": "82",
+    "Popularity": "58",
+    "NbPlays": "41",
+    "Themes": "crushing middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/NquZUqFo#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "akoUp",
+    "FEN": "3r1rk1/4n1bp/p7/1pQ2pq1/4p3/N1P5/PPB2PPP/R4RK1 w - - 0 22",
+    "Moves": "c2e4 d8c8 e4d5 g8h8",
+    "Rating": "1895",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "123",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/v15S6FJX#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "akoex",
+    "FEN": "r3k2r/pppqbp2/2n5/3pP1p1/3Pn1bp/2PB1NB1/PP1N2PP/R2Q1RK1 w kq - 0 12",
+    "Moves": "d2e4 d5e4 d3e4 h4g3",
+    "Rating": "1886",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "294",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/fwodFj3l#23",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Petrovs_Defense"
+  }
+]

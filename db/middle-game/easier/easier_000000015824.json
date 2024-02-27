@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "m5HtQ",
+    "FEN": "5rk1/1Q3ppp/2p5/1p2N3/3qP3/6B1/5PPP/r4RK1 w - - 0 26",
+    "Moves": "b7c6 a1f1 g1f1 d4d1",
+    "Rating": "1054",
+    "RatingDeviation": "78",
+    "Popularity": "81",
+    "NbPlays": "401",
+    "Themes": "attraction mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/U6GwMMGu#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "m5Lmq",
+    "FEN": "Qn2r1k1/p4p1p/5pp1/8/2P5/8/Pq3PPP/3RKB1R w K - 2 15",
+    "Moves": "f1e2 b2e2",
+    "Rating": "1160",
+    "RatingDeviation": "133",
+    "Popularity": "86",
+    "NbPlays": "13",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/lXEUMw5q#29",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "m5MHZ",
+    "FEN": "1rbq3r/1p2p1k1/p2p1np1/3P2QB/4P1P1/2N5/PP3P2/R3K2R b KQ - 1 19",
+    "Moves": "c8g4 g5g6 g7f8 g6f7",
+    "Rating": "1067",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1174",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/x1qth95H/black#38",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "m5Nmc",
+    "FEN": "r2qk2r/3bnp2/p1p1p1pp/4P3/2PQN3/5N2/P1P2PPP/5RK1 b kq - 3 19",
+    "Moves": "d7c8 e4f6 e8f8 d4d8",
+    "Rating": "1041",
+    "RatingDeviation": "309",
+    "Popularity": "-87",
+    "NbPlays": "2",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/I9jsBuxD/black#38",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "m5OIC",
+    "FEN": "Q4b1r/2pk1p2/p3p3/1p4pp/3P4/2Pn2qP/PP4P1/RN3K1R w - - 1 19",
+    "Moves": "a8f3 g3e1",
+    "Rating": "1056",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "587",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/sKNQSDI1#37",
+    "OpeningTags": "St_George_Defense St_George_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "m5PGp",
+    "FEN": "rn3rk1/pb6/1p1q1ppp/2np4/3Q4/P1B2P2/1PB3PP/2K1R1NR w - - 0 20",
+    "Moves": "c2g6 c5b3 c1b1 b3d4",
+    "Rating": "1090",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "3532",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/qErmnBxX#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "m5Ppr",
+    "FEN": "2rr2k1/1b3pbp/ppnBp1p1/2q5/2P5/1P2QP2/P1N1B1PP/3R1RK1 b - - 5 20",
+    "Moves": "d8d6 e3c5 b6c5 d1d6",
+    "Rating": "1185",
+    "RatingDeviation": "78",
+    "Popularity": "89",
+    "NbPlays": "385",
+    "Themes": "advantage capturingDefender intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/DvCdVBmG/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "m5PqL",
+    "FEN": "r1b2rk1/pp5p/1q2pB2/3pnp2/3P4/2PB1P2/PP1Q2PP/R3R1K1 b - - 0 16",
+    "Moves": "e5d3 d2g5 g8f7 g5g7 f7e8 g7e7",
+    "Rating": "1133",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "741",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/Z1DJGrgB/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "m5UfH",
+    "FEN": "r2qk2r/pp3p1p/2n1pnp1/3p1b2/2BP1B2/P3PN2/1P3PPP/R2QK2R w KQkq - 0 11",
+    "Moves": "c4b5 d8a5 f3d2 a5b5",
+    "Rating": "1112",
+    "RatingDeviation": "83",
+    "Popularity": "88",
+    "NbPlays": "46",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/jU9IQkTf#21",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Symmetrical_Variation"
+  }
+]

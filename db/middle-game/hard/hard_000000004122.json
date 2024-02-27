@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "AjC79",
+    "FEN": "r3k2r/ppp2ppp/2nbp2n/3p4/3Pq3/1PP1P3/PBN1BPPP/R2Q1RK1 w kq - 0 13",
+    "Moves": "e2d3 d6h2 g1h2 e4h4 h2g1 h6g4 d1g4 h4g4",
+    "Rating": "1760",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "4573",
+    "Themes": "attraction crushing kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/0p7uTGLc#25",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation"
+  },
+  {
+    "PuzzleId": "AjHVa",
+    "FEN": "r3q3/4b1pQ/3ppk1P/p3p1p1/1p3r2/3B1P2/PPP5/1K1R3R b - - 0 26",
+    "Moves": "g7g6 h7g7",
+    "Rating": "1766",
+    "RatingDeviation": "86",
+    "Popularity": "87",
+    "NbPlays": "230",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/wXSQ3L3P/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AjHZG",
+    "FEN": "2k4r/1pp1n1p1/p1p2pb1/4q2p/4P1PN/2N2Q1P/PP3P2/3R2K1 b - - 3 23",
+    "Moves": "h5g4 f3g4 c8b8 h4g6 e7g6 g4g6",
+    "Rating": "1693",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "1229",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/G7z5Mzgf/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AjJcy",
+    "FEN": "r3k2r/pbqpppbp/1p3np1/2p1P3/Q1P5/4P1P1/PP3PBP/RNB2RK1 b kq - 0 10",
+    "Moves": "b7g2 e5f6 g2f1 f6g7 h8g8 g1f1",
+    "Rating": "1716",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "2808",
+    "Themes": "advancedPawn advantage long middlegame",
+    "GameUrl": "https://lichess.org/LRIlRfjh/black#20",
+    "OpeningTags": "English_Opening English_Opening_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "AjJvp",
+    "FEN": "Qn2kb1r/2qb1p2/4p1pn/P1ppP2p/1p3P2/N1PP1N2/4B1PP/1RB1K2R w Kk - 0 17",
+    "Moves": "e1g1 d7c6 a8b8 c7b8",
+    "Rating": "1729",
+    "RatingDeviation": "314",
+    "Popularity": "100",
+    "NbPlays": "5",
+    "Themes": "equality middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/qzslLDuC#33",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AjMWy",
+    "FEN": "r1b2k2/1p1p1ppp/p1nQ1n2/2p5/2B1q3/5N2/PP3PPP/R4RK1 b - - 1 14",
+    "Moves": "f8g8 c4f7 g8f7 f3g5",
+    "Rating": "1612",
+    "RatingDeviation": "89",
+    "Popularity": "80",
+    "NbPlays": "40",
+    "Themes": "attraction crushing kingsideAttack middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/GeUNUblR/black#28",
+    "OpeningTags": "Center_Game Center_Game_Kieseritzky_Variation"
+  },
+  {
+    "PuzzleId": "AjNoA",
+    "FEN": "r2q1rk1/pp3ppp/3pb3/3B4/3P4/2NNnPnP/PP3RP1/R2Q2K1 w - - 0 19",
+    "Moves": "d1d2 e3d5 c3d5 e6d5",
+    "Rating": "1624",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1691",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/DzAGi31f#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Mason_Variation"
+  },
+  {
+    "PuzzleId": "AjOA1",
+    "FEN": "r1b2rk1/2p1qppp/p2p1n2/1pbB2Q1/4PP1P/2N5/PPPB2P1/1K1R3R b - - 1 15",
+    "Moves": "f6d5 c3d5 e7g5 h4g5",
+    "Rating": "1612",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "551",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/VRCzrmCu/black#30",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "AjQTE",
+    "FEN": "3q1rk1/2r1ppbp/pp1p1np1/6B1/2P2P1Q/1PN3P1/P4PBP/4R1K1 b - - 0 18",
+    "Moves": "e7e6 c3e4 f6e4 g5d8",
+    "Rating": "1604",
+    "RatingDeviation": "105",
+    "Popularity": "33",
+    "NbPlays": "44",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/uDTXFgsF/black#36",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  }
+]

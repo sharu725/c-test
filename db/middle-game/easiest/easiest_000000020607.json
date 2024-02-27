@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "zDMDw",
+    "FEN": "r3r1k1/p1p1P1pp/1p4q1/5p2/4bP2/2P1Q1BP/PP4P1/R4RK1 w - - 1 24",
+    "Moves": "g3h4 g6g2",
+    "Rating": "586",
+    "RatingDeviation": "85",
+    "Popularity": "100",
+    "NbPlays": "134",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/LRnjPWQD#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zDNGI",
+    "FEN": "r4rk1/5ppp/p2p4/q1p5/2P1Q1nP/8/PP3PP1/R3R1K1 b - - 0 21",
+    "Moves": "f8e8 e4e8 a8e8 e1e8",
+    "Rating": "562",
+    "RatingDeviation": "98",
+    "Popularity": "91",
+    "NbPlays": "284",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ePsmiLSf/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zDP6D",
+    "FEN": "7r/1pk5/1Rn1p1pp/1QnpP3/3p2PP/2q2N2/2P5/1R4K1 b - - 1 27",
+    "Moves": "c3e3 g1g2 e3f3 g2f3",
+    "Rating": "919",
+    "RatingDeviation": "90",
+    "Popularity": "90",
+    "NbPlays": "139",
+    "Themes": "crushing defensiveMove master middlegame short",
+    "GameUrl": "https://lichess.org/l2nuOW3z/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zDPhq",
+    "FEN": "r1r3k1/1p1nqppp/4b3/2pp4/Pp1P4/1P1QP3/2B2PPP/RN3RK1 b - - 1 17",
+    "Moves": "c5c4 d3h7 g8f8 h7h8",
+    "Rating": "618",
+    "RatingDeviation": "81",
+    "Popularity": "100",
+    "NbPlays": "109",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/UtyQfELM/black#34",
+    "OpeningTags": "Slav_Defense Slav_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "zDQNn",
+    "FEN": "3q1b1r/2r1kppp/3pP3/8/1Q1pP3/3P2Pb/PP5P/R1B1K2R b KQ - 0 18",
+    "Moves": "f7e6 c1g5 e7e8 g5d8",
+    "Rating": "981",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "181",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/WUlQZaPk/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Grand_Prix_Attack"
+  },
+  {
+    "PuzzleId": "zDQnG",
+    "FEN": "3r2k1/5ppp/p3p3/1b1rP3/3B1P2/qP2Q3/P4RPP/R5K1 w - - 1 27",
+    "Moves": "d4b6 d5d1 e3e1 d1e1",
+    "Rating": "742",
+    "RatingDeviation": "77",
+    "Popularity": "60",
+    "NbPlays": "52",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/7h0AyfAo#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zDSXP",
+    "FEN": "5rr1/p3k2R/4p3/8/2N3b1/1P3q2/P1R2P2/5K2 b - - 5 30",
+    "Moves": "e7e8 c4d6 e8d8 c2c8",
+    "Rating": "905",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "161",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/C8nLVnGS/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zDVe5",
+    "FEN": "7k/ppq3pp/3N2r1/8/2Np1r2/P2P1Q1P/1PP2PP1/R3R1K1 b - - 0 24",
+    "Moves": "f4f3 e1e8 f3f8 e8f8",
+    "Rating": "969",
+    "RatingDeviation": "89",
+    "Popularity": "93",
+    "NbPlays": "408",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/31tGAFU5/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zDVeq",
+    "FEN": "rnr3k1/pQ3ppp/1n2p3/2q1P3/8/7P/PP1N2P1/R2K1R2 b - - 1 18",
+    "Moves": "c5c6 b7f7 g8h8 f7f8 c8f8 f1f8",
+    "Rating": "902",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "2996",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/jo9wRxDZ/black#36",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Four_Pawns_Attack"
+  }
+]

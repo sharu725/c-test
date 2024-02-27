@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "hdIZ4",
+    "FEN": "4r1k1/5ppp/p7/1p1Q4/3b4/P6P/1PB2qPB/3R2K1 w - - 0 27",
+    "Moves": "g1h1 e8e1 d1e1 f2e1 h2g1 e1g1",
+    "Rating": "1020",
+    "RatingDeviation": "83",
+    "Popularity": "88",
+    "NbPlays": "48",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/oO09UCdW#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hdJ3C",
+    "FEN": "5rk1/np2qpbp/p3p1p1/3p4/1P1P1B2/P1Q1PN2/5PPP/2R3K1 b - - 0 19",
+    "Moves": "f8c8 c3c8 a7c8 c1c8",
+    "Rating": "1134",
+    "RatingDeviation": "80",
+    "Popularity": "85",
+    "NbPlays": "83",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/03IwQQL3/black#38",
+    "OpeningTags": "Rapport-Jobava_System Rapport-Jobava_System_Other_variations"
+  },
+  {
+    "PuzzleId": "hdJYf",
+    "FEN": "1r4k1/p4ppp/b1p1p3/q2pPnB1/N1P5/1R3N2/Pr4PP/3Q3K b - - 2 21",
+    "Moves": "a5a4 b3b8 b2b8 d1a4 b8b1 f3g1",
+    "Rating": "1060",
+    "RatingDeviation": "86",
+    "Popularity": "100",
+    "NbPlays": "30",
+    "Themes": "advantage defensiveMove discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/kbBoXDsv/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hdKEs",
+    "FEN": "5rk1/4qpp1/3p1n2/1bp1p1N1/1p2P3/1P1P3P/r1P1QPP1/2R2RK1 b - - 2 23",
+    "Moves": "f6h5 e2h5 e7g5 h5g5",
+    "Rating": "1070",
+    "RatingDeviation": "430",
+    "Popularity": "-100",
+    "NbPlays": "1",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/hV1inzuy/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hdLvw",
+    "FEN": "r4r1k/pR4pp/5q2/8/1Q5n/5N2/P4PPP/4R1K1 w - - 1 24",
+    "Moves": "f3h4 f6f2 g1h1 f2f1 e1f1 f8f1",
+    "Rating": "1158",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "3848",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/8DdJAQ0x#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hdMIn",
+    "FEN": "1r1q1r1k/p3n1pp/5p2/1pp5/4P2R/P1bP4/B2NQ1PP/5RK1 b - - 1 21",
+    "Moves": "e7g6 h4h7 h8h7 e2h5",
+    "Rating": "1098",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "1259",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/V7SxcFzT/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hdMSm",
+    "FEN": "r1k2b1r/ppp3pp/4p2n/1N2KP2/2B5/8/PPn2P1P/2BR4 b - - 0 16",
+    "Moves": "e6f5 c4e6 c8b8 d1d8",
+    "Rating": "1079",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "174",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/kiNmMRMg/black#32",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Scandinavian_Variation"
+  },
+  {
+    "PuzzleId": "hdOMC",
+    "FEN": "r4rk1/p2n1ppp/3bp3/2pq4/Q2Pp3/2P5/PP3PPP/RNB2RK1 w - - 2 13",
+    "Moves": "a4d7 d6h2 g1h2 d5d7",
+    "Rating": "1070",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1705",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/cFSxJTJQ#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "hdPnp",
+    "FEN": "1r2r2k/6pp/2P3b1/1q1B4/p1p3P1/2P4P/PP2Q3/1NKRR3 w - - 3 31",
+    "Moves": "e2c4 b5b2",
+    "Rating": "1063",
+    "RatingDeviation": "78",
+    "Popularity": "84",
+    "NbPlays": "188",
+    "Themes": "master mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/uv8h1tN9#61",
+    "OpeningTags": ""
+  }
+]

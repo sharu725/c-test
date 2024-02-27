@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "run91",
+    "FEN": "r1bq1rk1/4bppp/p1npp3/1p2P3/5Q2/2NB1N2/PPP2PPP/R4RK1 b - - 0 13",
+    "Moves": "d6e5 f4e4 f7f5 e4c6 c8d7 c6b7",
+    "Rating": "2003",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "127",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/YEU3h78D/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "runUd",
+    "FEN": "1k6/npq4p/4p3/2P1b2r/p1P5/P3BP1P/1P1Q1P2/R4RK1 w - - 1 23",
+    "Moves": "f3f4 c7g7 g1h2 g7g4",
+    "Rating": "2177",
+    "RatingDeviation": "81",
+    "Popularity": "91",
+    "NbPlays": "1532",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/D0fvwQK2#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ruoBS",
+    "FEN": "3r2k1/2pqbp1p/4p1pB/4P3/8/3p1Q1P/P1r2PP1/1R1R2K1 b - - 2 28",
+    "Moves": "c7c5 b1b7 d7e8 d1d3 d8d3 f3d3 c2a2 d3d7 e8d7 b7d7 e7h4 g2g3",
+    "Rating": "2393",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "3206",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/bxDKR0LN/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rup2y",
+    "FEN": "5kr1/1b1n1p1p/3N1p2/2b1pN2/4P3/2P2P2/rP4PP/2KR3R w - - 5 20",
+    "Moves": "d6b7 g8g2 d1d2 a2a1 c1c2 g2d2 c2d2 a1h1",
+    "Rating": "2188",
+    "RatingDeviation": "80",
+    "Popularity": "90",
+    "NbPlays": "1084",
+    "Themes": "crushing master middlegame veryLong",
+    "GameUrl": "https://lichess.org/P0Q7XWeb#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rupAG",
+    "FEN": "r3r1k1/ppb2pp1/7p/2N5/4B2q/P2P3P/1PP1QP1n/R1B1R2K w - - 3 25",
+    "Moves": "c1e3 e8e4 h1g2 e4e5 f2f4 e5h5",
+    "Rating": "2260",
+    "RatingDeviation": "116",
+    "Popularity": "77",
+    "NbPlays": "25",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/sfT9RBRg#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rupdE",
+    "FEN": "q4rk1/6bp/1p2p1p1/2p2p2/Q1B2P2/N4nP1/PPP3KP/R2R4 w - - 6 27",
+    "Moves": "a4b3 f3h4 g2f2 a8g2 f2e3 g7d4",
+    "Rating": "2390",
+    "RatingDeviation": "86",
+    "Popularity": "83",
+    "NbPlays": "37",
+    "Themes": "advantage doubleCheck long middlegame",
+    "GameUrl": "https://lichess.org/P7yrnIv1#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rur6D",
+    "FEN": "2r1k1Q1/1pq2r1p/4p3/Pb6/2p5/8/PK1n3P/5R2 b - - 1 29",
+    "Moves": "f7f8 g8e6 c7e7 e6c8",
+    "Rating": "2193",
+    "RatingDeviation": "81",
+    "Popularity": "87",
+    "NbPlays": "392",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/K8Wq5G2k/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rurLF",
+    "FEN": "1r1r2k1/5pp1/p2b2qp/Q2R4/4p2n/4B1PP/P4P1N/3R2K1 b - - 0 26",
+    "Moves": "h4f3 h2f3 e4f3 e3f4 d6f4 d5d8",
+    "Rating": "2164",
+    "RatingDeviation": "101",
+    "Popularity": "87",
+    "NbPlays": "22",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/bUQwyTOd/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rurwx",
+    "FEN": "r2r2k1/2q1pp1p/p5pQ/2p5/2P1P3/P2n3P/6PN/1R3RK1 b - - 1 22",
+    "Moves": "c7a5 f1f7 g8f7 h6h7 f7e6 h7g6 e6d7 b1b7",
+    "Rating": "2108",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "2064",
+    "Themes": "attraction crushing deflection kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/fxk90BuU/black#44",
+    "OpeningTags": ""
+  }
+]

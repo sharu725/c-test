@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "I2RKa",
+    "FEN": "2rr2k1/p1b1qpp1/Np2p2p/2pnP3/3P4/6P1/2Q2P1P/1B1RR1K1 b - - 1 33",
+    "Moves": "c5d4 c2h7 g8f8 h7h8",
+    "Rating": "1082",
+    "RatingDeviation": "78",
+    "Popularity": "82",
+    "NbPlays": "180",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/XHgWiNPQ/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "I2TsJ",
+    "FEN": "2kr3r/1p1q3b/p1p1p3/2P1P3/Q7/5NB1/PPP1n2P/2KR3R w - - 1 27",
+    "Moves": "c1b1 d7d1 h1d1 d8d1",
+    "Rating": "1107",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "2072",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/ZPFi0MJY#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "I2TyS",
+    "FEN": "r2q1r1k/p1pn2pp/Q2p4/2b4n/6b1/2P1PNP1/PP3PBP/RNB2RK1 w - - 3 13",
+    "Moves": "h2h3 g4f3 g2f3 f8f3",
+    "Rating": "1087",
+    "RatingDeviation": "83",
+    "Popularity": "90",
+    "NbPlays": "2298",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/aMbG499M#25",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Soller_Gambit"
+  },
+  {
+    "PuzzleId": "I2UJq",
+    "FEN": "2r1k2r/pp2npbp/1qn1p1p1/3pPb2/3P4/1N3N2/PP1BBPPP/2RQ1RK1 w k - 2 13",
+    "Moves": "d2a5 c6a5 c1c8 e7c8 b3a5 b6a5",
+    "Rating": "1197",
+    "RatingDeviation": "120",
+    "Popularity": "76",
+    "NbPlays": "17",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/bSwCO6jh#25",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "I2Uv3",
+    "FEN": "r1k5/1pp2pp1/p2p1r2/P2Pb3/B3P2p/2N2b1P/1P3P2/1RB2RK1 w - - 0 25",
+    "Moves": "a4d1 f6g6 c1g5 g6g5",
+    "Rating": "1159",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "3470",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/JM7V8Y3D#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "I2VO9",
+    "FEN": "7k/2p5/1pPp2pb/p4b2/P1q2p2/2N2N1P/1P1Q2B1/2K5 w - - 0 41",
+    "Moves": "d2d4 c4d4 f3d4 f4f3 c1d1 f3g2",
+    "Rating": "1112",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "115",
+    "Themes": "advancedPawn crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/n5PwXT4P#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "I2Wsk",
+    "FEN": "r2r1k2/1b2npR1/pp2p1p1/n2qP1P1/P3NPPQ/2pp4/1PB5/R1B3K1 b - - 0 26",
+    "Moves": "f8g7 h4h6 g7g8 e4f6",
+    "Rating": "1149",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "130",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PfntKcJH/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "I2ZI4",
+    "FEN": "r1b2rk1/pp3p1p/5qp1/4n1N1/1P6/P7/1Q2BPPP/R4RK1 w - - 3 18",
+    "Moves": "g5e4 e5f3 e2f3 f6b2",
+    "Rating": "1181",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "161",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/8vooxmqm#35",
+    "OpeningTags": "Tarrasch_Defense Tarrasch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "I2aci",
+    "FEN": "1k1r4/ppq2p2/7r/3Pp1p1/Q2nP3/6PP/P5B1/1R2R1K1 w - - 3 27",
+    "Moves": "e1c1 d4e2 g1h2 e2c1",
+    "Rating": "1097",
+    "RatingDeviation": "93",
+    "Popularity": "30",
+    "NbPlays": "49",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/BjGW5TVa#53",
+    "OpeningTags": ""
+  }
+]

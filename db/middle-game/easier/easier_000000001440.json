@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "4QZvf",
+    "FEN": "r1bk1b1r/pp1ppppp/2n2n2/1N6/4P3/3BB3/PPPN1PPP/R3K2R b KQ - 2 9",
+    "Moves": "a7a6 e3b6 d8e8 b5c7",
+    "Rating": "1130",
+    "RatingDeviation": "78",
+    "Popularity": "75",
+    "NbPlays": "76",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/92aMIzBc/black#18",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Godiva_Variation"
+  },
+  {
+    "PuzzleId": "4QbMd",
+    "FEN": "r2q1rk1/3b1pb1/pppPn1pp/n3B3/4N1P1/5N1P/PPPQBP2/2KR3R w - - 2 19",
+    "Moves": "e5f6 g7f6 e4f6 d8f6",
+    "Rating": "1197",
+    "RatingDeviation": "83",
+    "Popularity": "72",
+    "NbPlays": "294",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/SeSOQHeQ#37",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "4QfNd",
+    "FEN": "rn3rk1/pp3p1p/3pb1p1/q5P1/4N3/P2B1N2/1PP2PP1/2KR3R b - - 1 17",
+    "Moves": "a5b6 e4f6 g8g7 h1h7",
+    "Rating": "1106",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "562",
+    "Themes": "hookMate kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/WFI3FRk3/black#34",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Nimzowitsch_Variation"
+  },
+  {
+    "PuzzleId": "4Qjrm",
+    "FEN": "5rk1/2r2ppp/1b1N4/p2P2PP/1p6/5Q2/PPq5/K2R2R1 w - - 1 29",
+    "Moves": "g1g2 c2c1 d1c1 c7c1",
+    "Rating": "1101",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "258",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/W7imDxFs#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4QlzO",
+    "FEN": "5rk1/p3q1bp/bp1N2p1/3pP3/3n1P2/3P2Q1/PP4P1/R1B2RK1 w - - 1 25",
+    "Moves": "c1e3 d4e2 g1f2 e2g3",
+    "Rating": "1064",
+    "RatingDeviation": "83",
+    "Popularity": "76",
+    "NbPlays": "94",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/7n9IIOsz#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4QsFt",
+    "FEN": "1r3r1k/2p2p2/R2p1p1p/2P5/4P3/1P3N1q/1PQN1P2/3R2K1 w - - 0 22",
+    "Moves": "c5d6 f8g8 f3g5 g8g5",
+    "Rating": "1117",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "186",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/hMnuW9Zr#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4Qtnl",
+    "FEN": "r6k/pp1Rq1pp/2p2rn1/5B1Q/4P3/2P5/P5PP/5RK1 b - - 6 24",
+    "Moves": "e7e5 f5g6 f6f1 g1f1 e5h5 g6h5",
+    "Rating": "1170",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "2056",
+    "Themes": "crushing long middlegame pin",
+    "GameUrl": "https://lichess.org/uBzsS1Sf/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4QxPu",
+    "FEN": "1r1k1b1r/QBpq2p1/3p1n2/4n1p1/6b1/2N1B3/PP3PPP/R4RK1 b - - 0 16",
+    "Moves": "e5c6 b7c6 d7c6 a7b8",
+    "Rating": "1196",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "502",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/ab7glhDZ/black#32",
+    "OpeningTags": "Danish_Gambit Danish_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "4QyJF",
+    "FEN": "bn3rk1/5ppp/2p1p3/q2nN3/2pP4/2N1PQ2/1P3PPP/4KB1R w K - 3 15",
+    "Moves": "f3d1 d5c3 e5c4 c3d1 c4a5 d1b2",
+    "Rating": "1029",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "209",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/eLZqNzI2#29",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Noteboom_Variation"
+  }
+]

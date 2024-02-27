@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PpERK",
+    "FEN": "5rk1/ppp1q1b1/3pr3/8/7P/P1P3RQ/1PP2PP1/1K5R b - - 2 26",
+    "Moves": "f8f2 g3g7 g8g7 h3g3 g7h8 g3f2",
+    "Rating": "1188",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "387",
+    "Themes": "advantage attraction exposedKing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/57yQhHzS/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PpFoe",
+    "FEN": "r2r2k1/pp3ppp/4pn2/8/8/6P1/PqB1QP1P/R4RK1 b - - 1 19",
+    "Moves": "a8c8 c2h7 g8h7 e2b2",
+    "Rating": "1155",
+    "RatingDeviation": "87",
+    "Popularity": "41",
+    "NbPlays": "60",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/8fT23LBl/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+  },
+  {
+    "PuzzleId": "PpH97",
+    "FEN": "7r/1q3kp1/p1rp2p1/1P1p1pP1/R2PpP2/1QP1n1KP/4N3/R7 b - - 0 34",
+    "Moves": "a6b5 a4a7 c6c7 a7b7",
+    "Rating": "1081",
+    "RatingDeviation": "135",
+    "Popularity": "67",
+    "NbPlays": "54",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/g7I2Ynf0/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PpITG",
+    "FEN": "1r3rk1/2b2ppp/p2qp3/1p1p4/2nP4/PP2P2P/Q1RNBPP1/2R3K1 w - - 1 21",
+    "Moves": "b3c4 d6h2 g1f1 h2h1",
+    "Rating": "1159",
+    "RatingDeviation": "194",
+    "Popularity": "33",
+    "NbPlays": "13",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/jQOvqrV6#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PpJBp",
+    "FEN": "rq3rk1/5ppp/4pb2/pNp1n3/P1P1N3/7P/1P1R1PP1/R2Q2K1 b - - 1 23",
+    "Moves": "e5c4 e4f6 g7f6 d1g4 g8h8 g4c4",
+    "Rating": "1012",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "404",
+    "Themes": "crushing fork long master middlegame",
+    "GameUrl": "https://lichess.org/1c1HO2KE/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PpKC9",
+    "FEN": "r1b4Q/pp1kpp1p/2np2p1/8/2P1P3/4qP2/PP4PP/R3KB1R w KQ - 0 14",
+    "Moves": "f1e2 c6d4 h8d4 e3d4",
+    "Rating": "1180",
+    "RatingDeviation": "80",
+    "Popularity": "88",
+    "NbPlays": "82",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/E8kp2DFx#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "PpLF3",
+    "FEN": "r3k2r/1b3ppp/p4nq1/1p1pQN2/8/P1P1PpN1/1P4PP/R5K1 b kq - 3 19",
+    "Moves": "e8d8 e5e7 d8c8 f5d6 c8b8 e7b7",
+    "Rating": "1126",
+    "RatingDeviation": "78",
+    "Popularity": "97",
+    "NbPlays": "10952",
+    "Themes": "exposedKing fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/ku2h6uNc/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kan_Variation"
+  },
+  {
+    "PuzzleId": "PpO0d",
+    "FEN": "r2qrbk1/p1p2pnp/3p2p1/2pN4/4PP2/1PQ1B3/P1P3PP/3RR1K1 b - - 2 19",
+    "Moves": "e8e4 d5f6 d8f6 c3f6",
+    "Rating": "1042",
+    "RatingDeviation": "92",
+    "Popularity": "93",
+    "NbPlays": "373",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/ooC2htBI/black#38",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "PpPma",
+    "FEN": "r1b1k2r/3nbpp1/1qpp1n1p/1p2p3/4P3/P1NP1N1P/B1PB1PP1/R2Q1RK1 b kq - 0 12",
+    "Moves": "a8a3 a2f7 e8f7 a1a3",
+    "Rating": "1116",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "1104",
+    "Themes": "advantage attackingF2F7 discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/a1iJmsnK/black#24",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  }
+]

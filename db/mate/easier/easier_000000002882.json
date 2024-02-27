@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Ary26",
+    "FEN": "5rkB/pp3r1p/1n4p1/8/2pQR1P1/7q/5P2/4R1K1 b - - 3 30",
+    "Moves": "f7f2 d4g7",
+    "Rating": "1134",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "169",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/dsG4l10c/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "As0iB",
+    "FEN": "3qr1k1/pR3pp1/2p4p/3b2b1/4P1P1/3B4/P1P2Q1P/6K1 b - - 0 25",
+    "Moves": "d5e4 f2f7 g8h8 f7g7",
+    "Rating": "1034",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "1530",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/gB3545ak/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "As1XI",
+    "FEN": "r6r/pppk3p/3b4/7q/8/2Q5/PPP1RPPP/R1B3K1 w - - 3 18",
+    "Moves": "c3d3 h5h2 g1f1 h2h1",
+    "Rating": "1005",
+    "RatingDeviation": "81",
+    "Popularity": "91",
+    "NbPlays": "396",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/2s7VMzC7#35",
+    "OpeningTags": "Italian_Game Italian_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "As5Qt",
+    "FEN": "N3r1k1/pQ3pp1/3p4/8/3qPP2/1P1P1bPp/P6P/R4R1K w - - 3 24",
+    "Moves": "f1f3 d4a1 f3f1 a1f1",
+    "Rating": "1060",
+    "RatingDeviation": "83",
+    "Popularity": "83",
+    "NbPlays": "71",
+    "Themes": "endgame hangingPiece kingsideAttack mate mateIn2 short",
+    "GameUrl": "https://lichess.org/rMCoqV8F#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "As6BF",
+    "FEN": "2b2q1k/br6/2p2NQp/p5p1/8/2P3P1/PP4PP/R6K b - - 3 24",
+    "Moves": "b7g7 g6h6 g7h7 h6f8",
+    "Rating": "1182",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "89",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/yNrOL8vx/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "As9OF",
+    "FEN": "Q1R3r1/2k1p2p/2ppPr2/8/5p2/5P2/7P/7K b - - 0 39",
+    "Moves": "g8c8 a8a7 c7d8 a7d7",
+    "Rating": "1088",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "72",
+    "Themes": "endgame mate mateIn2 queenRookEndgame short",
+    "GameUrl": "https://lichess.org/bYcCaAbj/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AsB3E",
+    "FEN": "r4r1k/ppp3pp/2nb2p1/3N4/2B1n3/P2QBPqP/1PP3P1/R4RK1 w - - 1 18",
+    "Moves": "f3e4 g3h2",
+    "Rating": "1044",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "218",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/QpGBnCUk#35",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "AsCDp",
+    "FEN": "1br1k2r/1b1p1p2/1pnqp3/6p1/2PP2P1/4PP1p/P2NB2P/R2QNRK1 w k - 1 20",
+    "Moves": "d2e4 d6h2",
+    "Rating": "1137",
+    "RatingDeviation": "79",
+    "Popularity": "-33",
+    "NbPlays": "72",
+    "Themes": "kingsideAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/UzOF08yC#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AsCPD",
+    "FEN": "r3kb1r/pQ3ppp/2p2n2/8/4Pp2/1BN2P1q/PP3P1P/3R2KR b kq - 0 17",
+    "Moves": "h3c8 b7f7",
+    "Rating": "1159",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "427",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ARgFahmu/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  }
+]

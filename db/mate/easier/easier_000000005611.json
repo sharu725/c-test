@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "LDusP",
+    "FEN": "3q1b1k/7p/6p1/3BP3/1QP2Pb1/8/P5P1/1R5K w - - 2 38",
+    "Moves": "b4b7 d8h4 h1g1 f8c5 g1f1 h4h1",
+    "Rating": "1159",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "1596",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/9ZpXwr8l#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LDv6Q",
+    "FEN": "r1b1k2r/ppp3pp/2pb1n2/4qP2/3Np3/2P5/PP1PQPPP/RNB2RK1 w kq - 1 10",
+    "Moves": "d2d3 e5h2",
+    "Rating": "1177",
+    "RatingDeviation": "141",
+    "Popularity": "88",
+    "NbPlays": "44",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/0O6Wlk18#19",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Schliemann_Defense"
+  },
+  {
+    "PuzzleId": "LDwJl",
+    "FEN": "3Q4/5pk1/R7/1p6/1P2P3/P4PPP/1r3r2/3R1K2 w - - 1 51",
+    "Moves": "f1e1 b2e2",
+    "Rating": "1079",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "437",
+    "Themes": "endgame mate mateIn1 oneMove queenRookEndgame",
+    "GameUrl": "https://lichess.org/wkGSMuNT#101",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LDyNt",
+    "FEN": "b1r5/p3k3/8/P5Np/3P1P1P/8/1RP2Kr1/2R5 w - - 2 40",
+    "Moves": "f2e3 c8c3",
+    "Rating": "1161",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "1904",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/w035L0xz#79",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LE4mA",
+    "FEN": "4r1k1/Q2R4/2pBp3/1pPp1p2/3P1Pp1/3BP1K1/R6r/6q1 w - - 1 42",
+    "Moves": "a2g2 g1g2",
+    "Rating": "1083",
+    "RatingDeviation": "83",
+    "Popularity": "94",
+    "NbPlays": "345",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/WGdhC9XY#83",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LE6ex",
+    "FEN": "r3k2r/ppp1bpp1/2np3p/4p3/2B1P1n1/1NPP1N1q/PP3P1P/R1BQR2K w kq - 2 12",
+    "Moves": "e1g1 g4f2",
+    "Rating": "1193",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "165",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/EfyzqGlZ#23",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "LEA6P",
+    "FEN": "8/7p/8/R7/7P/2k3P1/7r/2K5 w - - 1 47",
+    "Moves": "a5a7 h2h1",
+    "Rating": "1189",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "2045",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/tlFf4kDE#93",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LECzk",
+    "FEN": "5r1k/p1P4p/4p2p/3pN1q1/3Pb1P1/P5Q1/6RP/R4r1K w - - 1 30",
+    "Moves": "a1f1 f8f1",
+    "Rating": "1014",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "337",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/2UPXqVJx#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "LEE94",
+    "FEN": "r5k1/p5pp/4p3/2np4/p1p5/2P2QP1/q1P3PP/5R1K b - - 1 24",
+    "Moves": "a2c2 f3f7 g8h8 f7f8 a8f8 f1f8",
+    "Rating": "1050",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "2465",
+    "Themes": "backRankMate endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/FOX9BHQy/black#48",
+    "OpeningTags": ""
+  }
+]

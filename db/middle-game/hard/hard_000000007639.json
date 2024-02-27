@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Jsm2g",
+    "FEN": "r1bq1rk1/ppp2ppp/2n1p3/8/3P1Q1P/P2B4/1PP3P1/2KR2NR b - - 2 13",
+    "Moves": "b7b6 f4e4 f7f5 e4c6",
+    "Rating": "1683",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "870",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/WBKzAu7b/black#26",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Ryder_Gambit"
+  },
+  {
+    "PuzzleId": "JsmBq",
+    "FEN": "1r1r3k/2bP2qp/2P1Q3/7R/4B2P/4P1P1/5P1K/q7 b - - 1 46",
+    "Moves": "h7h6 h5h6 g7h6 e6h6 h8g8 e4d5",
+    "Rating": "1688",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "975",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/oW2QDBnW/black#92",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JsmM8",
+    "FEN": "r3r1k1/pp4q1/2b3p1/3p1p2/5Q2/3BR3/PPP2PP1/3R2K1 w - - 0 25",
+    "Moves": "d3f5 e8e3 f2e3 g6f5",
+    "Rating": "1694",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "570",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/ABYwIHmr#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JsmaI",
+    "FEN": "r2q1rk1/pp3ppp/5n2/3pp3/3B2b1/PB1P1N1P/1PP1QPP1/R3K2R b KQ - 0 13",
+    "Moves": "e5d4 h3g4 f8e8 f3e5",
+    "Rating": "1778",
+    "RatingDeviation": "114",
+    "Popularity": "75",
+    "NbPlays": "18",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/LvCSCXMy/black#26",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "Jsnp6",
+    "FEN": "2rk4/pp1b2p1/3P1nqp/4R3/5r2/6N1/PP2QPPP/R5K1 b - - 0 27",
+    "Moves": "g6c2 e5e8 f6e8 e2e7",
+    "Rating": "1666",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "136",
+    "Themes": "clearance master masterVsMaster mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/5yeKtjxp/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Jsnxn",
+    "FEN": "r7/3q1p1k/1p1b3p/5p2/1PPp1P2/3P1N2/rR1QPK1P/6R1 b - - 8 29",
+    "Moves": "a2b2 d2b2 d6f4 b2d4 d7d4 f3d4",
+    "Rating": "1702",
+    "RatingDeviation": "75",
+    "Popularity": "76",
+    "NbPlays": "193",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/CKyMFEyP/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JsonR",
+    "FEN": "2kr4/ppp3pp/2n1b3/2q1r3/2P5/2N3QP/PP2B1PK/R6R b - - 3 19",
+    "Moves": "e5g5 c3e4 g5g3 e4c5 g3h3 g2h3",
+    "Rating": "1602",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "355",
+    "Themes": "advantage fork long master middlegame",
+    "GameUrl": "https://lichess.org/qqLCVfl7/black#38",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Philidor_Countergambit"
+  },
+  {
+    "PuzzleId": "Jsq0P",
+    "FEN": "3r1b1r/1Q1q2p1/5p2/p1Nnpk1p/2BP4/2P1BP2/1P3P1P/5RK1 b - - 4 23",
+    "Moves": "d7b7 c4d3 e5e4 d3e4",
+    "Rating": "1640",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "600",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/InuVLwPM/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JstDe",
+    "FEN": "r2q2k1/pb3pbp/1p2p1p1/4n3/Q3PB2/2N5/PP2BPPP/3R2K1 b - - 1 19",
+    "Moves": "d8e7 f4e5 g7e5 d1d7 e7f6 d7b7",
+    "Rating": "1645",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "203",
+    "Themes": "crushing interference long middlegame",
+    "GameUrl": "https://lichess.org/AxXcy4aB/black#38",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Russian_Variation"
+  }
+]

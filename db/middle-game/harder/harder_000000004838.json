@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EdQHW",
+    "FEN": "2rqkb1r/p4ppp/3P1nb1/2P5/5B2/8/P3NP1P/2RQK2R b Kk - 0 17",
+    "Moves": "f6e4 d1a4 d8d7 c5c6 d7d6 f4d6",
+    "Rating": "1987",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "106",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/gF2sVqSS/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "EdRI5",
+    "FEN": "q4rk1/p3bppp/bp2p3/2p1Pn2/3N1P2/1P4P1/PBPP3P/R2QK2R w KQ - 0 14",
+    "Moves": "d4f5 a8h1 e1f2 h1h2 f2e3 e6f5",
+    "Rating": "1988",
+    "RatingDeviation": "92",
+    "Popularity": "81",
+    "NbPlays": "42",
+    "Themes": "crushing hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/RBHFjRst#27",
+    "OpeningTags": "French_Defense French_Defense_Queens_Knight"
+  },
+  {
+    "PuzzleId": "EdRUZ",
+    "FEN": "r3k2r/p4pp1/b1p1pn2/q2pb1Bp/4P3/N1P2Q2/PPB2PPP/2KRR3 b kq - 5 14",
+    "Moves": "a8b8 e4d5 e5c3 f3c3 a5c3 b2c3",
+    "Rating": "1946",
+    "RatingDeviation": "75",
+    "Popularity": "80",
+    "NbPlays": "207",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/E8o18xj8/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "EdSwD",
+    "FEN": "4rrk1/pp1q2pp/4p1p1/2bpP3/3Nn1Q1/2P2R1P/PP3PPB/3R2K1 b - - 19 26",
+    "Moves": "f8f3 g2f3 e4f2 g1f2",
+    "Rating": "1901",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "65",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/ruoeRp8D/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EdVG8",
+    "FEN": "r4rk1/pp3ppp/2n1p3/2qpP3/8/7P/PPN1QPP1/2R2RK1 b - - 3 17",
+    "Moves": "c6d4 e2e3 d4e2 e3e2",
+    "Rating": "1909",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "1390",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/0l2oMCX4/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "EdVwg",
+    "FEN": "1qr3k1/pp4pp/4p1r1/3p4/3n1pQ1/P6P/1PPBNPP1/2R2RK1 w - - 6 24",
+    "Moves": "g4h5 f4f3 e2f4 d4e2",
+    "Rating": "1961",
+    "RatingDeviation": "74",
+    "Popularity": "85",
+    "NbPlays": "270",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/SeRNUGH7#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EdWUj",
+    "FEN": "1rbR1knr/ppN1bppp/8/4N1q1/8/6P1/PPP1Q2P/4KB1R b K - 2 15",
+    "Moves": "e7d8 e5g6 h7g6 e2e8",
+    "Rating": "1962",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "815",
+    "Themes": "clearance mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/CgXscYPG/black#30",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "EdZkt",
+    "FEN": "2r2rk1/p4ppp/bp4q1/3p4/1Q1N4/P3PP1P/1P4P1/2RR2K1 w - - 3 22",
+    "Moves": "d4b5 c8c1 d1c1 g6d3 c1c3 d3b5 b4b5 a6b5",
+    "Rating": "1866",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "670",
+    "Themes": "crushing middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/eA6AS7d0#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Edb4u",
+    "FEN": "r1b5/2q3pk/2p1pr1p/p1P1Np1Q/1pPBn3/7P/PP3PP1/3RR1K1 w - - 4 27",
+    "Moves": "e5c6 c7c6 d4f6 e4f6",
+    "Rating": "1975",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "1001",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/VeHsrbpz#53",
+    "OpeningTags": ""
+  }
+]

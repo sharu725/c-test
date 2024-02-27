@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ZNO5Y",
+    "FEN": "1q4k1/p4ppp/1n6/4r3/6n1/B3P3/P1Q2PPP/R4RK1 w - - 4 21",
+    "Moves": "h2h3 e5c5 h3g4 c5c2",
+    "Rating": "1888",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "74",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/uqhhxhG5#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZNOLz",
+    "FEN": "1r2q1rk/7p/1n6/1P2pp2/3p3B/3P1bP1/3Q1P1P/1R2N1K1 b - - 1 35",
+    "Moves": "f3b7 h4f6 g8g7 d2h6",
+    "Rating": "1860",
+    "RatingDeviation": "74",
+    "Popularity": "80",
+    "NbPlays": "101",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/ofp1i9wA/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZNRco",
+    "FEN": "rn3r1k/p1ppq1pp/1p1b1p1n/6P1/2B2N2/1P2P2Q/PBPPN2P/R3K2b b Q - 0 14",
+    "Moves": "f6g5 f4g6 h7g6 h3h6",
+    "Rating": "1902",
+    "RatingDeviation": "82",
+    "Popularity": "89",
+    "NbPlays": "178",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/P7nTDbam/black#28",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "ZNXXu",
+    "FEN": "2r2rk1/pb1q1ppp/1p2nb2/3p4/1P1N3P/P3PP2/4B1P1/2RQBRK1 w - - 1 20",
+    "Moves": "e2b5 c8c1 d1c1 e6d4 b5d7 d4e2 g1h2 e2c1",
+    "Rating": "1954",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "186",
+    "Themes": "crushing fork middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/z9PRaOQj#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZNXuc",
+    "FEN": "r3r1k1/p4ppp/5q2/8/Q7/1P2B3/1b3PPP/3RR1K1 b - - 3 24",
+    "Moves": "b2c3 e3d4 e8e1 d1e1 c3e1 d4f6",
+    "Rating": "1972",
+    "RatingDeviation": "221",
+    "Popularity": "44",
+    "NbPlays": "4",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/EasBksc1/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZNYnx",
+    "FEN": "rn2r1k1/pp2Bpp1/2q2P1p/7P/6b1/2p3Q1/P1P3P1/R4R1K b - - 4 24",
+    "Moves": "c6e6 a1e1 e6d5 g3g4",
+    "Rating": "1958",
+    "RatingDeviation": "87",
+    "Popularity": "70",
+    "NbPlays": "28",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/gETH6OLv/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZNZL8",
+    "FEN": "r4r1k/2q1bppp/p1b2n2/1p1PpP2/8/P1NBB1Q1/1PP3PP/3R1RK1 b - - 0 18",
+    "Moves": "f6d5 c3d5 c6d5 f5f6 e7f6 f1f6",
+    "Rating": "1941",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "571",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/YNeaurK1/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "ZNZcE",
+    "FEN": "r4r1k/pp3p1p/2pN4/3p4/3P1n2/2P1b3/PPB3PK/R4R2 b - - 3 28",
+    "Moves": "a8d8 d6f5 d8e8 f5e3 e8e3 f1f4",
+    "Rating": "1985",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1893",
+    "Themes": "capturingDefender crushing long middlegame",
+    "GameUrl": "https://lichess.org/6CExk4SS/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZNaoo",
+    "FEN": "6k1/pp1r4/4b2B/1q3p2/8/P1r1PN2/5PPP/Q4R1K w - - 1 27",
+    "Moves": "a1c3 b5f1 f3g1 f1g1 h1g1 d7d1 c3e1 d1e1",
+    "Rating": "1928",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "9997",
+    "Themes": "attraction backRankMate hangingPiece master mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/2g9402RQ#53",
+    "OpeningTags": ""
+  }
+]

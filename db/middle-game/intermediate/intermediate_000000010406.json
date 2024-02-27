@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "P10TU",
+    "FEN": "r1bq1rk1/pp1p2pp/4p2B/2p5/2P5/2P2RQ1/Pb4PP/R5K1 b - - 0 16",
+    "Moves": "d8e7 f3f8 e7f8 a1f1",
+    "Rating": "1529",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "3",
+    "Themes": "equality middlegame pin short",
+    "GameUrl": "https://lichess.org/IfoyFYab/black#32",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P14B4",
+    "FEN": "3r3r/1bkq2pp/1Q2p3/4P3/2p5/2n5/2P2PPP/RR4K1 b - - 0 23",
+    "Moves": "c7c8 a1a8 b7a8 b6b8",
+    "Rating": "1505",
+    "RatingDeviation": "86",
+    "Popularity": "84",
+    "NbPlays": "88",
+    "Themes": "mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/4X59QpwL/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P14CO",
+    "FEN": "2kr1b1r/p1p1pN2/p3qp1p/Q2p2p1/3Pn3/2P1P2P/1P2KPPB/5B1R b - - 1 19",
+    "Moves": "e6f7 a5c7",
+    "Rating": "1417",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1095",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/oDMqE5ut/black#38",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Torre_Attack"
+  },
+  {
+    "PuzzleId": "P14Oi",
+    "FEN": "7k/6b1/r5pp/8/1Np5/3b4/q2r2PP/2RQR2K w - - 0 30",
+    "Moves": "b4a2 d2d1 c1d1 a6a2 e1e8 h8h7",
+    "Rating": "1456",
+    "RatingDeviation": "78",
+    "Popularity": "75",
+    "NbPlays": "77",
+    "Themes": "crushing intermezzo long middlegame",
+    "GameUrl": "https://lichess.org/E80pUTDM#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P15Ej",
+    "FEN": "r1b1k2r/pp1n1p2/2p3p1/q3n1B1/1b2P2P/2N2P2/PPPQ4/2KR1BNR w kq - 1 15",
+    "Moves": "g1e2 e5f3 d2e3 f3g5",
+    "Rating": "1422",
+    "RatingDeviation": "242",
+    "Popularity": "38",
+    "NbPlays": "5",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/a6K4RFDM#29",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "P15LD",
+    "FEN": "r1b2rk1/1p3pp1/p2p2np/4p1q1/4P3/1B1P3P/PPPNQPP1/R4RK1 w - - 9 17",
+    "Moves": "d2f3 g6f4 f3g5 f4e2 g1h1 h6g5",
+    "Rating": "1550",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "579",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/4jyfTAXd#33",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "P16Cl",
+    "FEN": "r1b1r1k1/2p3pn/1p1p1P1p/p2P4/P1P1N2q/2P1B2P/6Q1/R4RK1 b - - 0 23",
+    "Moves": "e8e4 g2g7",
+    "Rating": "1451",
+    "RatingDeviation": "186",
+    "Popularity": "80",
+    "NbPlays": "18",
+    "Themes": "kingsideAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Si5IFI73/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "P16iA",
+    "FEN": "r2qkb1r/3n1ppp/p3pn2/1p1pN3/3P1PP1/2NQP2P/PP1B4/R3K2R b KQkq - 0 13",
+    "Moves": "f8b4 e5c6 d8b6 c6b4",
+    "Rating": "1475",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "1311",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/wfys4XQH/black#26",
+    "OpeningTags": "Slav_Defense Slav_Defense_Quiet_Variation"
+  },
+  {
+    "PuzzleId": "P18UW",
+    "FEN": "3q1rk1/5ppp/7r/2PPp3/p2b4/Pp1B4/1P2Q1PP/2R2R1K w - - 1 27",
+    "Moves": "d5d6 h6h2 h1h2 d8h4",
+    "Rating": "1524",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "347",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/Wg6nLU1Q#53",
+    "OpeningTags": ""
+  }
+]

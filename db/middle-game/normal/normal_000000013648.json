@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "drsdi",
+    "FEN": "4rbk1/pp1r1Np1/2p2N2/3n4/1P1q1P1Q/P6P/2P3P1/4RR1K b - - 0 26",
+    "Moves": "d4f6 f7g5 f6h6 h4h6 g7h6 e1e8",
+    "Rating": "1231",
+    "RatingDeviation": "250",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "crushing long middlegame quietMove",
+    "GameUrl": "https://lichess.org/lsX33KrX/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "drtG1",
+    "FEN": "N1bkr3/pp3ppp/2n2nq1/3p4/1b6/5B2/PPPBNP1P/R2QK2R w KQ - 0 13",
+    "Moves": "h1g1 g6g1",
+    "Rating": "1362",
+    "RatingDeviation": "159",
+    "Popularity": "82",
+    "NbPlays": "62",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/xv2LgdkD#25",
+    "OpeningTags": "Scotch_Game Scotch_Game_Modern_Defense"
+  },
+  {
+    "PuzzleId": "drvLZ",
+    "FEN": "1rbk3r/R4ppp/4p3/1B1p3n/1b1P4/NP3N2/1P3PPP/4K2R w K - 0 14",
+    "Moves": "f3d2 b4a3 b2a3 b8b5",
+    "Rating": "1357",
+    "RatingDeviation": "85",
+    "Popularity": "82",
+    "NbPlays": "51",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/pfeOxDoe#27",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "drw7g",
+    "FEN": "r3k2r/pppq2pp/2nb1p2/1B1Q3P/8/1P2P2P/PBPP1P2/R3K2R w KQkq - 1 13",
+    "Moves": "e1g1 d6h2 g1h2 d7d5",
+    "Rating": "1373",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1100",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/Z7G3UUox#25",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  },
+  {
+    "PuzzleId": "drxPl",
+    "FEN": "r4rk1/1pp2ppp/p2b1q2/8/8/2B2b2/PPP2PPP/R2QR1K1 w - - 0 14",
+    "Moves": "c3f6 f3d1 a1d1 g7f6",
+    "Rating": "1306",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2764",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/BRyrtnIV#27",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "drxaQ",
+    "FEN": "2r2r1k/2qn1p1p/p3pPpQ/1pp1P3/5P2/2pP1R2/PP5P/R1B3K1 b - - 3 23",
+    "Moves": "f8g8 h6h7 h8h7 f3h3",
+    "Rating": "1297",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "1354",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/srWKBZyX/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ds1jX",
+    "FEN": "r3k2r/pppq1p1p/4nbp1/8/8/P2BBQ2/1PP1KPPP/R3R3 b kq - 1 17",
+    "Moves": "f6b2 f3b7 e8g8 b7b2",
+    "Rating": "1212",
+    "RatingDeviation": "237",
+    "Popularity": "33",
+    "NbPlays": "3",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/DaETnjD9/black#34",
+    "OpeningTags": "French_Defense French_Defense_Winawer_Variation"
+  },
+  {
+    "PuzzleId": "ds2DN",
+    "FEN": "r2r2k1/pRqb2pp/5p2/5p2/2P5/B1Q3P1/P4bBP/3R3K b - - 0 22",
+    "Moves": "c7b7 g2b7 d7c6 b7c6 d8d1 h1g2",
+    "Rating": "1235",
+    "RatingDeviation": "101",
+    "Popularity": "86",
+    "NbPlays": "55",
+    "Themes": "crushing hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/uok5ptzS/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ds2mZ",
+    "FEN": "r4rk1/ppb1n1pp/3qp3/2N5/3P1pQ1/2P1B2P/PP4P1/R4RK1 w - - 0 20",
+    "Moves": "e3f4 f8f4 f1f4 d6f4",
+    "Rating": "1312",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "271",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/6EsfYS9N#39",
+    "OpeningTags": ""
+  }
+]

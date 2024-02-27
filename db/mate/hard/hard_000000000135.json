@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "1UgR3",
+    "FEN": "1n3rk1/1rq1Q1pp/p1p2p1N/1p2p2P/1P2P3/P3PR2/2P3P1/1R4K1 b - - 3 26",
+    "Moves": "g7h6 f3g3 g8h8 e7f8",
+    "Rating": "1653",
+    "RatingDeviation": "90",
+    "Popularity": "44",
+    "NbPlays": "29",
+    "Themes": "deflection kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/5vzqR8ag/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1Ugmx",
+    "FEN": "8/p4ppp/k1p3rr/1p6/5q2/2RQ1N2/P4PP1/5RK1 w - - 2 31",
+    "Moves": "a2a4 g6g2 g1g2 f4g4",
+    "Rating": "1670",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "12337",
+    "Themes": "attraction mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/jIIXix2h#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1UiLi",
+    "FEN": "4Q3/1P4k1/6pp/p1p1b3/5qn1/8/1P4PP/R5BK w - - 3 30",
+    "Moves": "a1d1 g4f2 g1f2 f4h2",
+    "Rating": "1605",
+    "RatingDeviation": "88",
+    "Popularity": "78",
+    "NbPlays": "92",
+    "Themes": "deflection endgame fork mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/lkmOTPB3#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1UieA",
+    "FEN": "r1b2rk1/ppqnb1p1/4p1P1/3pP3/5B2/2P5/PP3PP1/R2QK2R b KQ - 0 16",
+    "Moves": "f8f4 h1h8 g8h8 d1h5 h8g8 h5h7 g8f8 h7h8",
+    "Rating": "1751",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "10728",
+    "Themes": "attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/S08Mk2pc/black#32",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "1UpGe",
+    "FEN": "4r2k/n1QP4/6p1/p6p/PpP4P/4p3/2R1KN2/q7 b - - 5 47",
+    "Moves": "e3f2 d7e8q",
+    "Rating": "1797",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "2628",
+    "Themes": "advancedPawn endgame hangingPiece master mate mateIn1 oneMove promotion",
+    "GameUrl": "https://lichess.org/78JsvtWq/black#94",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1V6Mc",
+    "FEN": "r1b1k1nr/pp3pBp/1qn1p3/2bp4/8/1P3N2/P1P1PPPP/RN1QKB1R w KQkq - 1 7",
+    "Moves": "g7h8 c5f2 e1d2 b6e3",
+    "Rating": "1653",
+    "RatingDeviation": "224",
+    "Popularity": "-7",
+    "NbPlays": "7",
+    "Themes": "attackingF2F7 mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/LUJZESfD#13",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "1V6Xx",
+    "FEN": "r1b1q1k1/1pQ4p/3BpPp1/4n3/4B1n1/P4p2/1P6/1K4R1 b - - 12 40",
+    "Moves": "e8f7 c7d8 f7e8 d8e8",
+    "Rating": "1776",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "2506",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/unJTsOM8/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1V8XS",
+    "FEN": "1k5r/ppp5/5p1p/4p1p1/1P1r4/P2PRq2/2PQnP2/3R1BK1 w - - 2 25",
+    "Moves": "f1e2 d4g4 g1f1 f3h1",
+    "Rating": "1609",
+    "RatingDeviation": "77",
+    "Popularity": "80",
+    "NbPlays": "67",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/VW2g1p2l#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "1VKZC",
+    "FEN": "r4rk1/pp1q1ppp/2p3N1/3p4/2BB4/6Q1/PP3PPP/R5K1 b - - 0 19",
+    "Moves": "d5c4 g6e7 g8h8 g3g7",
+    "Rating": "1624",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1623",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/BGAawCf2/black#38",
+    "OpeningTags": "Italian_Game Italian_Game_Schilling-Kostic_Gambit"
+  }
+]

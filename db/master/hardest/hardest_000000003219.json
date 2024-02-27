@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "aAm9J",
+    "FEN": "8/3N2p1/7p/p2p1k1P/P2b1P2/1PpK2P1/8/8 b - - 3 44",
+    "Moves": "f5g4 d3d4 c3c2 d7e5 g4g3 e5d3",
+    "Rating": "2016",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "3205",
+    "Themes": "crushing defensiveMove endgame hangingPiece long master",
+    "GameUrl": "https://lichess.org/wtyuhgOe/black#88",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aAmnK",
+    "FEN": "r1b1k1nr/ppppqp1p/2n4b/7Q/2B1Pp2/2NP4/PPP3PP/R1B2RK1 b kq - 0 9",
+    "Moves": "e7e5 h5f7 e8d8 c1f4 h6f4 f7f8",
+    "Rating": "2308",
+    "RatingDeviation": "96",
+    "Popularity": "89",
+    "NbPlays": "1298",
+    "Themes": "advantage attackingF2F7 long master masterVsMaster opening",
+    "GameUrl": "https://lichess.org/AAZ4b5PK/black#18",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Muzio_Gambit"
+  },
+  {
+    "PuzzleId": "aAn3t",
+    "FEN": "r2q2k1/ppp2pbp/3prnp1/3N2B1/4PQ2/8/PPP3PP/2KB1R2 b - - 4 16",
+    "Moves": "f6d5 f4f7 g8h8 g5d8",
+    "Rating": "2059",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "2137",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/usdNhsjZ/black#32",
+    "OpeningTags": "East_Indian_Defense East_Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "aB6UA",
+    "FEN": "1k4rr/p4R2/3p4/1P2p3/4qn2/3NN1Pb/PP5P/2R1Q1K1 w - - 1 29",
+    "Moves": "d3f4 e5f4 e1d2 e4e3 d2e3 f4e3",
+    "Rating": "2054",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "369",
+    "Themes": "crushing long master middlegame",
+    "GameUrl": "https://lichess.org/hrI94Vyf#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aB9vs",
+    "FEN": "8/8/8/8/7P/4rp2/7R/4k1K1 w - - 5 74",
+    "Moves": "h4h5 e3e2 h5h6 f3f2 h2f2 e2f2",
+    "Rating": "2328",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "2029",
+    "Themes": "advancedPawn crushing endgame exposedKing long master rookEndgame",
+    "GameUrl": "https://lichess.org/NjOfUtpV#147",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aBAEM",
+    "FEN": "1r2r1k1/2q4p/3p2pb/1RnP1p2/2N1n3/B4B1P/2Q2PP1/1R4K1 w - - 0 24",
+    "Moves": "c4a5 b8b5 b1b5 e4d2",
+    "Rating": "2195",
+    "RatingDeviation": "126",
+    "Popularity": "71",
+    "NbPlays": "17",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/eBlIjD9X#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aBAw5",
+    "FEN": "2r5/1b1p2bk/1q1Pp1p1/4PpQp/p2P1B1P/1r3P2/6PK/1B1R2R1 w - - 0 32",
+    "Moves": "g2g4 b3b2 d1d2 b2b1 g4h5 b1g1 g5g1 g6h5",
+    "Rating": "2363",
+    "RatingDeviation": "84",
+    "Popularity": "84",
+    "NbPlays": "160",
+    "Themes": "crushing deflection master middlegame veryLong",
+    "GameUrl": "https://lichess.org/jO0tXfEq#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aBbjv",
+    "FEN": "8/3k3p/R7/p3PKp1/6P1/P4p1P/4r3/8 w - - 0 40",
+    "Moves": "f5g5 e2e5 g5h4 e5f5 g4f5 f3f2",
+    "Rating": "2379",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "2931",
+    "Themes": "advancedPawn advantage endgame long master quietMove rookEndgame sacrifice",
+    "GameUrl": "https://lichess.org/HRqYEY3J#79",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aBiXh",
+    "FEN": "rn1qk1nr/pp3ppp/3bb3/3p4/2pP4/2N3P1/PPP1NPBP/R1BQK2R w KQkq - 4 8",
+    "Moves": "c3d5 e6d5 g2d5 d6b4 c2c3 d8d5",
+    "Rating": "2296",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "398",
+    "Themes": "advantage discoveredAttack long master opening",
+    "GameUrl": "https://lichess.org/mi3aawHD#15",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  }
+]

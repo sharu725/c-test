@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PUQYC",
+    "FEN": "6k1/2r2pp1/1p2pbp1/2Pn4/1P1P4/1R3N1P/5PP1/q1B2QK1 b - - 2 28",
+    "Moves": "f6d4 b3a3 a1a3 c1a3",
+    "Rating": "1755",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "9307",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/msrSDCOp/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PUReH",
+    "FEN": "2Qb1q2/3R2pk/3N1p1p/4p3/1r2P3/6P1/5P1P/r4BK1 b - - 3 42",
+    "Moves": "b4b1 d7d8 b1f1 g1g2 f8d8 c8d8",
+    "Rating": "1631",
+    "RatingDeviation": "75",
+    "Popularity": "76",
+    "NbPlays": "216",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/VXL0LbWF/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PUS63",
+    "FEN": "r1b3kr/ppp3p1/6Qp/3pN3/3PN3/4q3/PPP3PP/5R1K b - - 7 19",
+    "Moves": "e3e4 f1f8 g8f8 g6f7",
+    "Rating": "1729",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "1497",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/yVQPqntm/black#38",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "PUSmd",
+    "FEN": "2kr3r/1bqp1pQp/pp1bp1n1/8/PP2P3/2PB1N2/5PPP/R1B2RK1 w - - 1 16",
+    "Moves": "c3c4 g6e5 f3e5 d6e5 g7h6 e5a1",
+    "Rating": "1782",
+    "RatingDeviation": "157",
+    "Popularity": "0",
+    "NbPlays": "9",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/QFgW3Frz#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "PUWC3",
+    "FEN": "r1q4k/pb4pp/1pn5/4r1NQ/P7/8/4BPPP/R3K2R b KQ - 2 22",
+    "Moves": "c8f5 g5f7 h8g8 f7e5 f5h5 e2h5",
+    "Rating": "1678",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "384",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/3zBSlvyr/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PUWr0",
+    "FEN": "3r2k1/pr1bppbp/3p2p1/2p2P2/2N1P1PP/P1PB1R2/1P6/1R4K1 b - - 0 29",
+    "Moves": "g7c3 b2c3 b7b1 d3b1",
+    "Rating": "1608",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "792",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/v0ilSg4y/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PUYFV",
+    "FEN": "r2qk2r/pp1nbpp1/3p2p1/3P2P1/5p1P/2NB1Q2/PPP2P2/R3K2R b KQkq - 1 15",
+    "Moves": "e7g5 h4g5 h8h1 f3h1",
+    "Rating": "1695",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "12122",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/wVwRO9d6/black#30",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "PUZ7N",
+    "FEN": "2rr2k1/p1q1bppp/1p2pn2/4N3/3p4/B1P1P1P1/P3QPKP/2RR4 w - - 0 18",
+    "Moves": "c3d4 c7b7 e2f3 b7f3 g2f3 e7a3",
+    "Rating": "1614",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "8185",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/QGlhO9Iz#35",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "PUZE9",
+    "FEN": "r4rk1/pp2qpp1/3pbb1Q/4p3/4N3/3P2RP/PP3PPN/n1B3K1 b - - 0 21",
+    "Moves": "a8c8 e4f6 e7f6 h6f6",
+    "Rating": "1647",
+    "RatingDeviation": "137",
+    "Popularity": "67",
+    "NbPlays": "10",
+    "Themes": "crushing kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/XdiIP1rc/black#42",
+    "OpeningTags": ""
+  }
+]

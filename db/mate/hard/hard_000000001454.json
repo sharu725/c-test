@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "GNGob",
+    "FEN": "rnb1k2r/pp3ppp/2P5/4p3/2B2Pnq/2NP2b1/PPP4P/R1BQ1KNR w kq - 0 10",
+    "Moves": "g1f3 h4h3 f1e2 h3g2",
+    "Rating": "1747",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "4752",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/lqi5NXkm#19",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "GNOUy",
+    "FEN": "7k/1b2b1rp/4p3/8/3Q1P2/2P1P2R/P2pqNPP/3R2K1 w - - 5 30",
+    "Moves": "g2g3 e2e1 d1e1 d2e1q",
+    "Rating": "1637",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "84",
+    "Themes": "advancedPawn mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/q10gohbE#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GNOin",
+    "FEN": "3rR3/5p1p/7k/1N3pp1/8/P1Q3PK/7P/3rn3 w - - 4 41",
+    "Moves": "e8d8 g5g4 h3h4 e1g2",
+    "Rating": "1661",
+    "RatingDeviation": "75",
+    "Popularity": "67",
+    "NbPlays": "59",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/jaZ6hPCh#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GNU2B",
+    "FEN": "4r2k/p1p2r2/1p1p1q2/4b3/6Q1/4RN2/P4PPP/1R4K1 w - - 7 25",
+    "Moves": "f3e5 f6f2 g1h1 f2f1 b1f1 f7f1",
+    "Rating": "1647",
+    "RatingDeviation": "165",
+    "Popularity": "11",
+    "NbPlays": "7",
+    "Themes": "backRankMate fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/x4PtD46L#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GNWLw",
+    "FEN": "2rq1rk1/7R/2bp2p1/8/3BP1P1/1p3P2/1PP5/2K4R b - - 0 24",
+    "Moves": "f8e8 h7g7 g8f8 h1h8",
+    "Rating": "1666",
+    "RatingDeviation": "84",
+    "Popularity": "85",
+    "NbPlays": "55",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/0QbjyVIq/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GNhV3",
+    "FEN": "r2qkb1r/ppp1pppp/8/1N3b2/Q1P5/3n1N2/PP1K1PPP/R6R b kq - 1 12",
+    "Moves": "d3c5 b5d6",
+    "Rating": "1799",
+    "RatingDeviation": "87",
+    "Popularity": "37",
+    "NbPlays": "199",
+    "Themes": "doubleCheck mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/aoIPhJ5p/black#24",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "GNhWT",
+    "FEN": "r6k/pp3Qpp/2q1n3/2b1B3/8/2N2R1P/PP1r2P1/R6K b - - 2 21",
+    "Moves": "a8f8 e5g7 e6g7 f7f8 c5f8 f3f8",
+    "Rating": "1633",
+    "RatingDeviation": "79",
+    "Popularity": "96",
+    "NbPlays": "13574",
+    "Themes": "backRankMate deflection fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/yN7vZq5h/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GNkGd",
+    "FEN": "7Q/1b6/5kpp/2p2p2/8/1P3qP1/P6P/6K1 b - - 3 38",
+    "Moves": "f6g5 h8d8 g5h5 d8h4",
+    "Rating": "1709",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1415",
+    "Themes": "endgame master mate mateIn2 short",
+    "GameUrl": "https://lichess.org/gOYXj6qf/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GNrWJ",
+    "FEN": "6qk/ppp3Bp/3r3Q/6N1/8/P6P/1Pb3P1/5RK1 b - - 0 28",
+    "Moves": "g8g7 f1f8 g7f8 h6f8",
+    "Rating": "1629",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "13960",
+    "Themes": "endgame mate mateIn2 short xRayAttack",
+    "GameUrl": "https://lichess.org/FBjtF8JD/black#56",
+    "OpeningTags": ""
+  }
+]

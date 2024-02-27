@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "MO24q",
+    "FEN": "2kr3r/pp2pQ1p/6p1/2qP4/5P2/8/PP3nPP/R1B2R1K w - - 1 19",
+    "Moves": "h1g1 f2h3 g1h1 c5g1 f1g1 h3f2",
+    "Rating": "1308",
+    "RatingDeviation": "84",
+    "Popularity": "80",
+    "NbPlays": "209",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice smotheredMate",
+    "GameUrl": "https://lichess.org/aiGSc5JE#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "MO5eq",
+    "FEN": "rn2k1nr/ppq2ppp/4p3/3pP3/bP1p1P2/P4N2/2P3PP/R1BQKB1R w KQkq - 2 11",
+    "Moves": "f3d4 c7c3 c1d2 c3d4",
+    "Rating": "1314",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "15813",
+    "Themes": "advantage fork interference middlegame short",
+    "GameUrl": "https://lichess.org/5swjBF7X#21",
+    "OpeningTags": "French_Defense French_Defense_Winawer_Variation"
+  },
+  {
+    "PuzzleId": "MO8IQ",
+    "FEN": "r2q1r1k/2p2pp1/p2pnR1p/1p1Nn2Q/4P2P/P2P4/BPP3P1/R5K1 b - - 6 22",
+    "Moves": "c7c6 f6h6 g7h6 h5h6 h8g8 d5f6 d8f6 h6f6",
+    "Rating": "1359",
+    "RatingDeviation": "119",
+    "Popularity": "67",
+    "NbPlays": "42",
+    "Themes": "crushing kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/ahxlN9ey/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MO8ce",
+    "FEN": "1br1r1k1/1p4p1/p1n3p1/3p1p2/3Nn3/1P2PB1P/PB3P1q/2RQ1KR1 w - - 4 29",
+    "Moves": "g1g6 h2f2",
+    "Rating": "1366",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "6693",
+    "Themes": "master masterVsMaster mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/PFTVzeva#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MO8qY",
+    "FEN": "rn2k2r/1pp2p1p/p1b2p2/4q3/6Q1/P7/3NPPPP/1R2KB1R b Kkq - 7 19",
+    "Moves": "e5g5 g4c8 e8e7 c8h8",
+    "Rating": "1288",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1317",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/WU14DJ7S/black#38",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "MO9rO",
+    "FEN": "r4rk1/p7/1pp1p1p1/3pBq1n/3P3Q/2P1P3/5P2/5KRR w - - 8 33",
+    "Moves": "h4h5 f5f2",
+    "Rating": "1277",
+    "RatingDeviation": "78",
+    "Popularity": "85",
+    "NbPlays": "624",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/PyZGmVHr#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MOA1T",
+    "FEN": "r5k1/p4ppp/1qP5/4p3/4P1b1/2Pr1P1n/PBQ3PP/R4R1K w - - 0 19",
+    "Moves": "c2d3 b6g1 f1g1 h3f2",
+    "Rating": "1343",
+    "RatingDeviation": "82",
+    "Popularity": "87",
+    "NbPlays": "1731",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short smotheredMate",
+    "GameUrl": "https://lichess.org/SbIuedbL#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lowenthal_Variation"
+  },
+  {
+    "PuzzleId": "MOAc8",
+    "FEN": "2r2rk1/pp3p2/4pp1p/1b1p3Q/7P/2PqP3/PP1N1P1N/2KR3R w - - 4 19",
+    "Moves": "h5h6 c8c3 b2c3 d3c3 c1b1 b5d3",
+    "Rating": "1398",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "10683",
+    "Themes": "long mate mateIn3 middlegame queensideAttack sacrifice",
+    "GameUrl": "https://lichess.org/X1n8JIWp#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "MOBlr",
+    "FEN": "2r2rk1/5p2/bq2p2p/p1bpP1p1/Pp2P3/1Q4PP/1P1N1P2/2R1RBK1 w - - 1 24",
+    "Moves": "f1a6 c5f2 g1g2 f2e1 c1e1 b6a6",
+    "Rating": "1236",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "3022",
+    "Themes": "crushing fork long master middlegame",
+    "GameUrl": "https://lichess.org/SaEAgD8W#47",
+    "OpeningTags": ""
+  }
+]

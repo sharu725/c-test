@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "JW68V",
+    "FEN": "r1b3k1/5ppp/2R5/2qp4/pp1N2PQ/3r3P/PPP5/2K4R b - - 1 23",
+    "Moves": "c5d4 h4d8",
+    "Rating": "796",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "314",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/wNZWC32B/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JW6hR",
+    "FEN": "r4Nk1/5pp1/2p2n1p/2R2N1P/8/5Q2/pP4P1/K3q3 w - - 0 29",
+    "Moves": "c5c1 e1c1",
+    "Rating": "666",
+    "RatingDeviation": "85",
+    "Popularity": "78",
+    "NbPlays": "211",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/3HS2T1ok#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JW7FA",
+    "FEN": "r3q1k1/pp3pp1/2p1b2p/8/P1nRP2Q/8/2P3PP/3R2K1 b - - 3 23",
+    "Moves": "c4e5 d4d8 g8h7 d8e8",
+    "Rating": "851",
+    "RatingDeviation": "95",
+    "Popularity": "94",
+    "NbPlays": "278",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/FikpKCPw/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JW8LZ",
+    "FEN": "3rr1k1/5p2/p5p1/1p1N4/3qP3/3nB1P1/P5NP/1R3RK1 b - - 6 32",
+    "Moves": "d4e4 d5f6 g8g7 f6e4",
+    "Rating": "985",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "1978",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/USYI0ZFC/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JW8ru",
+    "FEN": "2q5/5n2/2pkb2R/3p4/1P1P1pP1/2P2P2/2N2BK1/R7 w - - 5 41",
+    "Moves": "a1e1 f7h6",
+    "Rating": "946",
+    "RatingDeviation": "86",
+    "Popularity": "67",
+    "NbPlays": "110",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/ABmTEnHn#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JWDma",
+    "FEN": "r1bqr2k/pp2p2p/2np2p1/5pN1/2BP4/4P3/PP3PPP/R2QK2R b KQ - 0 13",
+    "Moves": "e7e5 g5f7 h8g7 f7d8",
+    "Rating": "955",
+    "RatingDeviation": "96",
+    "Popularity": "50",
+    "NbPlays": "42",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/ATMUJ61o/black#26",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "JWEM6",
+    "FEN": "r1bqk2r/4pp1p/p2p1np1/1p1Pb3/1P2P3/2N5/PB1QBPPP/R3K2R b KQkq - 3 12",
+    "Moves": "f6e4 c3e4 e5b2 d2b2",
+    "Rating": "857",
+    "RatingDeviation": "87",
+    "Popularity": "79",
+    "NbPlays": "148",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/5ken4vUu/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "JWFXq",
+    "FEN": "3r1bk1/ppp2RpB/4r2p/4q3/8/2P4P/PPQ3P1/5RK1 b - - 1 26",
+    "Moves": "g8h8 f7f8 d8f8 f1f8",
+    "Rating": "751",
+    "RatingDeviation": "95",
+    "Popularity": "97",
+    "NbPlays": "735",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/nAz6Y6zN/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JWI3G",
+    "FEN": "rnbkB3/pp1p2Qp/2pq4/8/4p3/4bN2/PPPB2PP/R2K3R w - - 0 14",
+    "Moves": "f3e5 d6d2",
+    "Rating": "800",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "154",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/XTcebJNh#27",
+    "OpeningTags": "Vienna_Game Vienna_Game_Stanley_Variation"
+  }
+]

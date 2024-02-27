@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "odiLH",
+    "FEN": "r1b1k2r/pp3pP1/1qp1p3/4P2p/8/2N1n2P/PPP1B1P1/R1Q1K2R b KQkq - 0 18",
+    "Moves": "e3g2 e1f1 h8g8 f1g2",
+    "Rating": "1205",
+    "RatingDeviation": "223",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/GAociSfc/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "odiNy",
+    "FEN": "2rr4/pp2kpp1/2n1Nn1p/8/1qB5/1P6/P3Q1PP/2R1RK2 b - - 0 19",
+    "Moves": "f7e6 e2e6 e7f8 e6f7",
+    "Rating": "1383",
+    "RatingDeviation": "80",
+    "Popularity": "65",
+    "NbPlays": "44",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/gtMjGWjF/black#38",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Vienna_Variation"
+  },
+  {
+    "PuzzleId": "odidN",
+    "FEN": "r2b2k1/1p4pp/1p1p3q/3Pp3/p1P1BrP1/P6P/1P2QPK1/4RR2 w - - 3 24",
+    "Moves": "e2d2 f4g4 h3g4 h6d2",
+    "Rating": "1247",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1050",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/tXucsncl#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "odj0T",
+    "FEN": "3q1kr1/4bp2/4p2p/p1r5/P4B2/5N2/1Q3PPP/4R1K1 b - - 8 27",
+    "Moves": "g8g6 b2h8 g6g8 f4h6",
+    "Rating": "1335",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1894",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/MIVssWou/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "odjTe",
+    "FEN": "rnb1kb1r/pp3Np1/2p4p/8/1q2P3/2N4P/PPP2RP1/R2Q2K1 b kq - 0 16",
+    "Moves": "f8c5 d1d8",
+    "Rating": "1206",
+    "RatingDeviation": "155",
+    "Popularity": "73",
+    "NbPlays": "38",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/epHdFpxf/black#32",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "odk1Y",
+    "FEN": "r1q1k1nr/1b1n1p1p/p2P2p1/1p6/3NP1Q1/1B2B3/P1P2PPP/bN3RK1 b kq - 2 13",
+    "Moves": "g8f6 b3f7 e8f7 g4e6 f7g7 e6e7",
+    "Rating": "1377",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "2263",
+    "Themes": "advantage attackingF2F7 attraction long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/oJE2rPcr/black#26",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "odk97",
+    "FEN": "r2qkb1r/pp3ppp/2n5/1Bp5/3pP3/5b1P/PPP2PP1/R1BQK2R w KQkq - 0 11",
+    "Moves": "d1f3 d8a5 c1d2 a5b5",
+    "Rating": "1225",
+    "RatingDeviation": "112",
+    "Popularity": "53",
+    "NbPlays": "16",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/wMDT4p1A#21",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "odpTr",
+    "FEN": "r3r1k1/1p3ppp/5q2/p7/1n1p4/5B2/PPPQ1PPP/1K1RR3 w - - 2 24",
+    "Moves": "d2d4 e8e1 d4f6 e1d1 f3d1 g7f6",
+    "Rating": "1341",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "1531",
+    "Themes": "crushing intermezzo long middlegame",
+    "GameUrl": "https://lichess.org/qrCkb1L8#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "odqjL",
+    "FEN": "4rrk1/p1p2p2/1p2pn1R/8/3P1Pp1/2PB4/qPQ5/2K3R1 w - - 0 25",
+    "Moves": "h6f6 a2a1 c2b1 a1b1 c1b1 g8g7",
+    "Rating": "1239",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "462",
+    "Themes": "advantage long middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/zZRMqtKI#49",
+    "OpeningTags": ""
+  }
+]

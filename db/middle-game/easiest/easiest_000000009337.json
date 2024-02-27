@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Rjpry",
+    "FEN": "1r4nr/pp2kppp/1q2p3/1B1p1b2/Qb1P4/2N1P3/PP3PPP/R3K1NR b KQ - 3 10",
+    "Moves": "g8f6 a4b4",
+    "Rating": "878",
+    "RatingDeviation": "237",
+    "Popularity": "-60",
+    "NbPlays": "4",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/l5DzO9fF/black#20",
+    "OpeningTags": "Slav_Defense Slav_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "RjpvQ",
+    "FEN": "3r2k1/p3ppbp/5np1/4p3/6b1/1Bq3Q1/PPP2PPP/R1B3K1 w - - 0 17",
+    "Moves": "g3c3 d8d1 c3e1 d1e1",
+    "Rating": "586",
+    "RatingDeviation": "97",
+    "Popularity": "94",
+    "NbPlays": "472",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/u5c0g12W#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "Rjqkr",
+    "FEN": "3r1r2/1pq2ppk/2p2nbN/p7/P3PpPP/2QB1P2/1PP5/R5RK b - - 2 25",
+    "Moves": "h7h6 g4g5 h6h7 g5f6",
+    "Rating": "825",
+    "RatingDeviation": "82",
+    "Popularity": "94",
+    "NbPlays": "833",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/GVBjx8ft/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Rjtt8",
+    "FEN": "r1b2rk1/ppb5/7p/3p3B/4pB1P/2P3K1/PP6/RN3R2 b - - 0 26",
+    "Moves": "c7f4 f1f4 f8f4 g3f4",
+    "Rating": "609",
+    "RatingDeviation": "94",
+    "Popularity": "71",
+    "NbPlays": "225",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/PsKDFAI3/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RjuRE",
+    "FEN": "2r1k2r/p4pp1/2p4p/n1b5/7q/2P5/PP1P1pPP/RNBQ1R1K w k - 1 17",
+    "Moves": "g2g3 h4e4 d1f3 e4f3",
+    "Rating": "990",
+    "RatingDeviation": "190",
+    "Popularity": "-60",
+    "NbPlays": "7",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/TpaLpYc4#33",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "Rjuet",
+    "FEN": "r1b2k2/pp3p1p/2pN1bp1/q3n3/2Pp4/3Q2P1/PP1N1PBP/4R1K1 w - - 1 19",
+    "Moves": "d3d4 e5f3 d2f3 f6d4",
+    "Rating": "954",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1753",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/7y6Vm53j#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "Rjui4",
+    "FEN": "1r3r2/2q1ppbk/p2p2pp/1pp5/2PnP1b1/1P1PB2P/P4PPN/1RQ2RK1 w - - 0 19",
+    "Moves": "h2g4 d4e2 g1h1 e2c1",
+    "Rating": "909",
+    "RatingDeviation": "110",
+    "Popularity": "5",
+    "NbPlays": "33",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/ssWh7bXC#37",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "RjvXm",
+    "FEN": "1b1r1rk1/pp1n1pp1/2p4p/8/1PPPBq2/2N2b1P/P1Q1RPP1/4R1K1 w - - 0 21",
+    "Moves": "e4f3 f4h2 g1f1 h2h1",
+    "Rating": "800",
+    "RatingDeviation": "151",
+    "Popularity": "67",
+    "NbPlays": "27",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/xLFLfif7#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RjwoV",
+    "FEN": "r3r1k1/pp3pp1/2n4p/3b2q1/3Pn3/P3P3/1BQNBPPP/R4RK1 w - - 9 16",
+    "Moves": "d2e4 d5e4 c2e4 e8e4",
+    "Rating": "949",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "124",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/z3hijyih#31",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  }
+]

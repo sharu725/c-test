@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "vvDKB",
+    "FEN": "r4rk1/pp1b1p2/7P/2Rq3n/3B4/7P/P3N1P1/5RK1 b - - 1 23",
+    "Moves": "d5a2 h6h7 g8h7 c5h5 h7g6 e2f4",
+    "Rating": "2164",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "6784",
+    "Themes": "advancedPawn attraction long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/Tqfosqyn/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vvDg7",
+    "FEN": "2r3k1/1b2bppp/4pn2/qB6/Nn1P4/4PN2/1B2QPPP/1R4K1 b - - 12 23",
+    "Moves": "b7f3 g2f3 c8c2 e2f1",
+    "Rating": "2133",
+    "RatingDeviation": "139",
+    "Popularity": "93",
+    "NbPlays": "32",
+    "Themes": "defensiveMove equality middlegame short",
+    "GameUrl": "https://lichess.org/2jiSqsHM/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vvE7C",
+    "FEN": "5rk1/pb2nrpp/2p1q3/2b3PP/2NpPB2/Pp1P2QN/1PP5/R2K1R2 w - - 0 26",
+    "Moves": "c2b3 b7c8 f1h1 e6g4 g3g4 c8g4 d1d2 g4h3",
+    "Rating": "2272",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1743",
+    "Themes": "advantage exposedKing middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/qITuWtbT#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vvE9j",
+    "FEN": "6kb/p4p1p/6pB/2r5/3r1NQ1/5RP1/2q1B1P1/7K b - - 13 31",
+    "Moves": "d4f4 g4f4 c5h5 h1g1",
+    "Rating": "2224",
+    "RatingDeviation": "134",
+    "Popularity": "57",
+    "NbPlays": "12",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/CmGMhPtI/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vvFvH",
+    "FEN": "5nk1/3r1ppp/4p3/q2pPnNP/3P2P1/p1r5/2BQ1P2/1R3RK1 b - - 2 26",
+    "Moves": "f5h4 b1b8 d7d8 b8d8 a5d8 d2c3",
+    "Rating": "2330",
+    "RatingDeviation": "91",
+    "Popularity": "87",
+    "NbPlays": "543",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/4zLm6JwY/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vvGZs",
+    "FEN": "r4rk1/4p2p/p2q2p1/1p1pR3/3P1bb1/1PP2PK1/P1BN3B/R2Q4 w - - 6 25",
+    "Moves": "g3g4 f4h2 g4h3 h2e5",
+    "Rating": "2028",
+    "RatingDeviation": "78",
+    "Popularity": "85",
+    "NbPlays": "65",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/4TPCtzDN#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "vvI2R",
+    "FEN": "r1b4r/p3k1pp/2n1p3/1B1n1p2/3q4/P3N3/3B1PPP/R2QK2R b KQ - 0 18",
+    "Moves": "c8b7 b5c6 d5e3 f2e3",
+    "Rating": "2122",
+    "RatingDeviation": "80",
+    "Popularity": "80",
+    "NbPlays": "51",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/IoEmRI6t/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Delayed_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "vvIsK",
+    "FEN": "rnb2rk1/ppp1bppp/3p1n2/6B1/2N5/2NP4/PPP1BPPP/R3K2R w KQ - 3 10",
+    "Moves": "c3e4 d6d5 e4f6 g7f6 g5h6 d5c4",
+    "Rating": "2021",
+    "RatingDeviation": "81",
+    "Popularity": "86",
+    "NbPlays": "50",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/uBNTyWKo#19",
+    "OpeningTags": "Russian_Game Russian_Game_Paulsen_Attack"
+  },
+  {
+    "PuzzleId": "vvJ1y",
+    "FEN": "1r3rk1/pp2ppbp/6p1/2Pp1b2/3Nn3/P5P1/1BPqPPBP/1R1Q1RK1 w - - 0 14",
+    "Moves": "d1d2 e4d2 d4f5 g6f5 b2g7 g8g7",
+    "Rating": "2024",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "65",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/AQg9O1UW#27",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Other_variations"
+  }
+]

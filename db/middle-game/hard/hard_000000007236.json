@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Ipzrl",
+    "FEN": "2kr1q2/ppp2Npp/1b3n2/4p3/2Bn2b1/2NP4/PPPQ2PP/R1B2K1R w - - 2 14",
+    "Moves": "f7d8 f6e4 d8f7 e4d2",
+    "Rating": "1749",
+    "RatingDeviation": "78",
+    "Popularity": "80",
+    "NbPlays": "64",
+    "Themes": "advantage discoveredAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/EVv4pq8D#27",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "Iq0MP",
+    "FEN": "2kr1n2/2p1q1p1/1p1p3n/pP1Ppp1r/2P1P1bP/P5P1/2KQN1BN/R4R2 b - - 1 25",
+    "Moves": "f5e4 h2g4 h6g4 g2h3 h5h4 g3h4",
+    "Rating": "1700",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "1888",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/NXDV4dkl/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Iq1jQ",
+    "FEN": "2r1bk2/1p2ppbp/p2p2p1/3Pn1B1/3NP3/1Pr2P1P/P1R1B1P1/5RK1 w - - 3 20",
+    "Moves": "f1c1 e5f3 d4f3 c3c2 c1c2 c8c2",
+    "Rating": "1739",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "213",
+    "Themes": "crushing deflection long middlegame",
+    "GameUrl": "https://lichess.org/wdQAzl7d#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Iq2BX",
+    "FEN": "2r2rk1/pp1R1ppp/q3pb2/8/P7/2P2B1P/1PQ2PP1/5RK1 b - - 1 22",
+    "Moves": "f8d8 f3b7 a6a5 b7c8",
+    "Rating": "1604",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "282",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/pxxEdjil/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Iq3Ai",
+    "FEN": "rq2k2r/3bb3/2p5/2PpnpP1/PP1Np3/2B1P1p1/5PK1/RN1Q1R2 w kq - 0 20",
+    "Moves": "f2g3 e5g4 d1g4 f5g4",
+    "Rating": "1798",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "44",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/FtfrtgJV#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Iq5FU",
+    "FEN": "4rr1k/pp2Npbp/3pbnp1/7P/3BP3/8/PPPR1PP1/1K3B1R w - - 1 16",
+    "Moves": "e7d5 f6e4 d4g7 h8g7",
+    "Rating": "1743",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "171",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/bQSoA7QF#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "Iq8n5",
+    "FEN": "5rk1/1p5p/4Q1pb/2p5/PqPp1rPP/3R4/PB2K3/1R6 b - - 2 31",
+    "Moves": "g8h8 b2d4 f4d4 b1b4",
+    "Rating": "1730",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "13036",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/3vdMo78B/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Iq9Ob",
+    "FEN": "r1b1q1k1/pp3pp1/2p2b1p/3p1N2/3P4/2P3PB/PP3P1P/R2Q2K1 b - - 1 19",
+    "Moves": "e8e4 f5d6 e4e7 d6c8",
+    "Rating": "1748",
+    "RatingDeviation": "75",
+    "Popularity": "69",
+    "NbPlays": "337",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/qFHr0SZZ/black#38",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "IqBRm",
+    "FEN": "2kr3r/p1p5/2pq1pn1/Q1Np1b2/3P2pp/P7/1PP1NPPP/R4RK1 b - - 7 17",
+    "Moves": "c8b8 a5b4 b8a8 b4b7",
+    "Rating": "1640",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "10277",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/5Fk2ug3z/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Levitsky_Attack"
+  }
+]

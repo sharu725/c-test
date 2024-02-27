@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "s8R53",
+    "FEN": "2b1k2r/2q2p1p/2N1p1p1/3n4/2BP2n1/Q1N1P3/5PPP/5RK1 w k - 1 19",
+    "Moves": "c3d5 c7h2",
+    "Rating": "790",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "198",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/aFgJdGJf#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "s8R6J",
+    "FEN": "r1b2rk1/1pqpbppp/p1n1p3/8/2PNP1n1/1QNBB3/PP3PPP/2R2RK1 w - - 11 12",
+    "Moves": "d4c6 c7h2",
+    "Rating": "916",
+    "RatingDeviation": "78",
+    "Popularity": "96",
+    "NbPlays": "1453",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/l9p4xDlo#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "s8S2g",
+    "FEN": "r4rk1/pp2nppp/2p5/q1Pp4/B2P2b1/P7/1P3PPP/RN1QR1K1 w - - 1 16",
+    "Moves": "d1g4 a5e1",
+    "Rating": "575",
+    "RatingDeviation": "92",
+    "Popularity": "96",
+    "NbPlays": "247",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Rq0kZI4b#31",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "s8Ubh",
+    "FEN": "8/3k1r2/5r1p/2B1Q3/2Pn4/1P6/P3n1PP/3R2K1 w - - 1 35",
+    "Moves": "g1h1 f6f1 d1f1 f7f1",
+    "Rating": "980",
+    "RatingDeviation": "91",
+    "Popularity": "94",
+    "NbPlays": "272",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/LPWfzA9e#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s8WYh",
+    "FEN": "4k1nr/5ppp/4p3/p2r4/R3Nn2/8/1P1BR1PP/7K w k - 0 24",
+    "Moves": "d2f4 d5d1 e2e1 d1e1",
+    "Rating": "654",
+    "RatingDeviation": "93",
+    "Popularity": "94",
+    "NbPlays": "434",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/RL0uKugu#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s8XuF",
+    "FEN": "r2qk3/5pp1/nnp1p3/pp1pP1N1/3P3r/P1NQ4/1PP2P2/2KR3R w q - 0 18",
+    "Moves": "h1h4 d8g5 f2f4 g5h4",
+    "Rating": "812",
+    "RatingDeviation": "99",
+    "Popularity": "67",
+    "NbPlays": "264",
+    "Themes": "crushing fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/tWTgfS5N#35",
+    "OpeningTags": "French_Defense French_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "s8ZS0",
+    "FEN": "r3k1nr/p3ppb1/1n1p1q1p/2pP4/NpP3p1/4B2P/PPBQ1PP1/2KR3R w kq - 1 18",
+    "Moves": "a4b6 f6b2",
+    "Rating": "786",
+    "RatingDeviation": "84",
+    "Popularity": "90",
+    "NbPlays": "392",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/ta3QE3J8#35",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "s8a5V",
+    "FEN": "3r2k1/p1R2pp1/1r6/5q1p/2Qp4/B1p4P/P1P2PP1/4R1K1 w - - 1 21",
+    "Moves": "e1e7 b6b1 c4f1 b1f1",
+    "Rating": "859",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "826",
+    "Themes": "crushing kingsideAttack master middlegame short",
+    "GameUrl": "https://lichess.org/DOrEURrk#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "s8eEt",
+    "FEN": "r1b2rk1/ppp1q2p/6n1/3P1p2/4p3/2N5/PPP1B1PP/R2Q1RK1 w - - 3 19",
+    "Moves": "e2c4 e7c5 g1h1 c5c4",
+    "Rating": "856",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "1286",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/DgUclxvv#37",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Classical_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "65ItE",
+    "FEN": "r2q1rk1/2p1b1np/p1bp1pp1/1p1Np3/3PP3/3BP2P/PPPN2PQ/3R1RK1 b - - 3 21",
+    "Moves": "g7e6 d5e7 d8e7 d4d5 c6d5 e4d5",
+    "Rating": "1486",
+    "RatingDeviation": "75",
+    "Popularity": "77",
+    "NbPlays": "397",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/BGGptUPP/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "65JFU",
+    "FEN": "r1b2rk1/pp4p1/7Q/4N3/4q3/2p5/PP4RP/6RK b - - 0 24",
+    "Moves": "e4e5 g2g7 e5g7 g1g7",
+    "Rating": "1516",
+    "RatingDeviation": "85",
+    "Popularity": "41",
+    "NbPlays": "39",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AKgfPJUs/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "65K67",
+    "FEN": "3r1rk1/1p4pp/p6q/3bPp2/3NnP2/1P6/PQ2N1PP/3R1R1K w - - 5 24",
+    "Moves": "e2c3 e4g3 h1g1 g3f1",
+    "Rating": "1497",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "14683",
+    "Themes": "advantage kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/LaFh4lLG#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "65KBQ",
+    "FEN": "r3k2r/1p3pp1/b1p1p2p/p3P3/Pn1q4/1P3BP1/2PN1RKP/2R1Q3 b kq - 1 23",
+    "Moves": "e8c8 c2c3 b4d3 c3d4 d3e1 c1e1",
+    "Rating": "1419",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "1526",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/gWURs32U/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "65Lep",
+    "FEN": "r3r1k1/1bq2pp1/p1pb1n1p/3pN3/3P1B2/1PN2Q1P/P4PP1/R3R1K1 w - - 0 17",
+    "Moves": "f3g3 f6h5",
+    "Rating": "1535",
+    "RatingDeviation": "78",
+    "Popularity": "70",
+    "NbPlays": "114",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/CWw7vzHO#33",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Austrian_Defense"
+  },
+  {
+    "PuzzleId": "65Lzn",
+    "FEN": "r4r2/ppp1kpQ1/3p3p/4p3/2B1P2q/P2P4/1PP1nbPP/R1B2R1K w - - 1 17",
+    "Moves": "g7h6 e2g3",
+    "Rating": "1475",
+    "RatingDeviation": "231",
+    "Popularity": "58",
+    "NbPlays": "50",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/4DSsqHXi#33",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "65N3b",
+    "FEN": "r4rk1/pp6/2nb2pp/1Q1p2p1/3P1qP1/5N1P/PP1N1P2/R4RK1 b - - 3 18",
+    "Moves": "c6d4 b5d5 f8f7 d5d4",
+    "Rating": "1582",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "2784",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ypAQiMQv/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "65OKp",
+    "FEN": "r1bq1rk1/3n1pp1/p3p2p/1p1pP3/2p3Qb/PPP1P1B1/2BN1PPP/R4RK1 b - - 4 16",
+    "Moves": "d8g5 g4h4 g5h4 g3h4",
+    "Rating": "1497",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "930",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/mik9qbz9/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "65Pua",
+    "FEN": "r3k2r/pbp2ppp/1pn1p3/2b5/4P3/P1P2NP1/1P1N3P/2KR1B1R b kq - 0 16",
+    "Moves": "c6a5 b2b4 c5e3 b4a5",
+    "Rating": "1553",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1115",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/77dNe7J5/black#32",
+    "OpeningTags": "French_Defense French_Defense_Normal_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "szD4E",
+    "FEN": "8/4rp1k/5R1p/3Bp1pP/Q1pnN1q1/3p2P1/1P3P1K/8 w - - 2 36",
+    "Moves": "a4a6 g4h5 h2g2 g5g4",
+    "Rating": "2152",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "711",
+    "Themes": "advantage defensiveMove master middlegame short",
+    "GameUrl": "https://lichess.org/LF7Q0HF4#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "szD9P",
+    "FEN": "r2q1r2/ppp2pk1/2bpn1p1/4P1b1/3PN1P1/2P2NQ1/PPB2R2/R6K b - - 2 25",
+    "Moves": "g5h4 f3h4 f8h8 f2h2",
+    "Rating": "2046",
+    "RatingDeviation": "76",
+    "Popularity": "79",
+    "NbPlays": "68",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/sPdw2XBg/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "szDWF",
+    "FEN": "r6r/1p1bk2p/p2pP3/q3p3/N7/P1R5/1PQ2PPP/4R1K1 b - - 0 26",
+    "Moves": "a5a4 b2b3 a4g4 e6d7",
+    "Rating": "2318",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "670",
+    "Themes": "advancedPawn advantage middlegame short",
+    "GameUrl": "https://lichess.org/ORUcQErM/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "szESQ",
+    "FEN": "4n1k1/p2p2p1/1pn1p1Qp/2p1P3/2b5/2P1Bq2/P4P1P/R2R2K1 w - - 2 19",
+    "Moves": "g6e8 g8h7 h2h3 f3h3",
+    "Rating": "2202",
+    "RatingDeviation": "77",
+    "Popularity": "76",
+    "NbPlays": "93",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/30b2bfXt#37",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "szFGr",
+    "FEN": "r2r2k1/pp3ppp/qbn1p3/2P1P3/1P1p1PP1/PQ5P/3RN3/RNK5 b - - 0 26",
+    "Moves": "c6b4 a3b4 a6a1 d2a2 d4d3 e2c3",
+    "Rating": "2118",
+    "RatingDeviation": "126",
+    "Popularity": "85",
+    "NbPlays": "39",
+    "Themes": "advantage defensiveMove long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/Xqjxkvqp/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "szFdk",
+    "FEN": "3r2r1/1p6/2p2k2/p3pP2/5n1Q/2P5/Pq3PB1/R2R2K1 b - - 3 36",
+    "Moves": "g8g5 d1d8 b2a1 g1h2",
+    "Rating": "2309",
+    "RatingDeviation": "83",
+    "Popularity": "84",
+    "NbPlays": "162",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/fYbprmLd/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "szGuF",
+    "FEN": "r4rk1/pp2p2p/2p3p1/3b4/3q4/P1N3bP/1PP1QPP1/R1B1R1K1 w - - 3 19",
+    "Moves": "c3d5 d4f2 e2f2 g3f2",
+    "Rating": "2317",
+    "RatingDeviation": "80",
+    "Popularity": "67",
+    "NbPlays": "58",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/y0dJoWoP#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "szH21",
+    "FEN": "r3k2r/1pq1pp1p/p1n3p1/1B1n4/Q7/B1P1P3/P4PPP/R3K2R b KQkq - 1 15",
+    "Moves": "d5c3 b5c6 b7c6 a4d4 f7f6 d4c3",
+    "Rating": "2032",
+    "RatingDeviation": "100",
+    "Popularity": "71",
+    "NbPlays": "26",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/jdF053J2/black#30",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "szHnv",
+    "FEN": "r1bq3r/ppp2kp1/2np3p/4P1Nn/1b1P1B2/2N5/PPP3PP/R2Q1RK1 b - - 1 11",
+    "Moves": "h6g5 f4g5 h5f6 e5f6 g7g6 c3d5",
+    "Rating": "2031",
+    "RatingDeviation": "76",
+    "Popularity": "69",
+    "NbPlays": "541",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/EbG2EhHK/black#22",
+    "OpeningTags": "Vienna_Game Vienna_Game_Max_Lange_Defense"
+  }
+]

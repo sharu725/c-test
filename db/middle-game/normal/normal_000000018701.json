@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "sbGEG",
+    "FEN": "2k4r/ppp2pp1/8/2b5/2r1qP2/7P/PP1Q2P1/K2R3R b - - 0 21",
+    "Moves": "c4c2 d2d7 c8b8 d7d8 h8d8 d1d8",
+    "Rating": "1222",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "3469",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/P9fVYhIo/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sbGT3",
+    "FEN": "3r2k1/pb3rpp/1pp1p3/2q1Pp2/Q1P2P2/6P1/P3P1BP/2R2R1K w - - 5 21",
+    "Moves": "a4a7 d8a8 a7a8 b7a8",
+    "Rating": "1249",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "3840",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/H4RzvY4i#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sbGdo",
+    "FEN": "rn2k2r/pp2npp1/2pp1qbp/6P1/1P1pP2P/P2P1PN1/2P5/R2QKB1R b KQkq - 0 16",
+    "Moves": "h6g5 h4g5 f6g5 h1h8",
+    "Rating": "1334",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "647",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/XyJaerCR/black#32",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_McConnell_Defense"
+  },
+  {
+    "PuzzleId": "sbH9k",
+    "FEN": "2kr1BQ1/1p1qb3/p7/4n3/P3N3/2P5/1P3PPP/R5K1 w - - 1 23",
+    "Moves": "g8g7 d7d1 a1d1 d8d1",
+    "Rating": "1320",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "845",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/Th1sqxkl#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sbLTU",
+    "FEN": "r5rk/p7/2Q2n1p/3p4/3P4/BP4q1/P6N/R3R1K1 w - - 0 29",
+    "Moves": "g1h1 g3g2",
+    "Rating": "1370",
+    "RatingDeviation": "242",
+    "Popularity": "47",
+    "NbPlays": "19",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/IbSE4Y9T#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sbNPx",
+    "FEN": "rnb1k2r/ppp1pp1p/6p1/6B1/4QP2/2b5/P1P2KPP/q2R1BNR b kq - 6 13",
+    "Moves": "a1d1 e4e7",
+    "Rating": "1352",
+    "RatingDeviation": "209",
+    "Popularity": "65",
+    "NbPlays": "30",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Fu2B6Wv2/black#26",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "sbOb3",
+    "FEN": "6r1/pp2k1q1/2b1p2n/3pPpNR/1P6/P2B3P/1B2QP2/7K w - - 3 34",
+    "Moves": "e2e3 d5d4 h1g1 d4e3",
+    "Rating": "1318",
+    "RatingDeviation": "116",
+    "Popularity": "69",
+    "NbPlays": "14",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/iRRW3QvR#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sbPWm",
+    "FEN": "r3r3/p2b1kpp/2NP1n2/1Ppp2B1/8/2PP4/1P3KPP/R3R3 w - - 5 24",
+    "Moves": "c6e5 e8e5 e1e5 f6g4 f2e2 g4e5",
+    "Rating": "1395",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "187",
+    "Themes": "advantage attraction fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/FQrf5r29#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sbQUK",
+    "FEN": "r2q1rk1/2p1bppp/1p2pn2/8/2P1b3/1P3NP1/1BQ2PBP/3R1RK1 w - - 0 16",
+    "Moves": "d1d8 e4c2 d8a8 f8a8",
+    "Rating": "1380",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2295",
+    "Themes": "advantage hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/coJzI4YH#31",
+    "OpeningTags": "Mieses_Opening Mieses_Opening_Other_variations"
+  }
+]

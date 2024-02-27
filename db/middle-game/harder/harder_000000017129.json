@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pqiGV",
+    "FEN": "3rR1k1/1p1q1pp1/p1p3b1/2Pp4/1P1R1Pn1/P1Q3P1/1B4B1/6K1 b - - 0 29",
+    "Moves": "d8e8 d4d5 e8e1 g2f1 f7f6 d5d7",
+    "Rating": "1808",
+    "RatingDeviation": "133",
+    "Popularity": "20",
+    "NbPlays": "13",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/vIwQiazV/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pqm1G",
+    "FEN": "r5k1/pp2q1p1/4pr1p/3p4/3N2QP/2P5/PP1N2P1/3KR3 w - - 2 24",
+    "Moves": "d4e6 a8e8 g4g7 e7g7 e6g7 e8e1 d1e1 g8g7",
+    "Rating": "1938",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "806",
+    "Themes": "crushing exposedKing middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/KB7PSxqt#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pqn9V",
+    "FEN": "r3kb1Q/ppp4p/4p1p1/8/2B4q/2P5/P2P1PPP/n1BKR3 b q - 2 14",
+    "Moves": "e8c8 c4e6 c8b8 c3c4 h4f2 h8a1",
+    "Rating": "1961",
+    "RatingDeviation": "106",
+    "Popularity": "41",
+    "NbPlays": "18",
+    "Themes": "crushing discoveredAttack long middlegame quietMove trappedPiece",
+    "GameUrl": "https://lichess.org/pxBYpJDh/black#28",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "pqnD2",
+    "FEN": "r6r/3n1kp1/1q2pp2/p7/Pp1PN3/1P1Q2P1/6PP/2R2R1K w - - 1 23",
+    "Moves": "d4d5 h8h2 h1h2 a8h8",
+    "Rating": "1826",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "230",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/nXPtBirK#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pqnMC",
+    "FEN": "1k3b1r/Rpprpppp/6b1/8/1P6/2P5/1P1PBPPP/2BK3R w - - 1 15",
+    "Moves": "e2g4 f7f5 a7b7 b8b7",
+    "Rating": "1810",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "82",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/EfMzX4vx#29",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "pqnzm",
+    "FEN": "2kr3N/ppp3pp/5n2/n7/8/2N5/PPPP1qPK/R1BQR3 w - - 0 14",
+    "Moves": "e1f1 f2h4 h2g1 f6g4 d1g4 h4g4",
+    "Rating": "1856",
+    "RatingDeviation": "89",
+    "Popularity": "75",
+    "NbPlays": "26",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/wFeX3RcU#27",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "pqqap",
+    "FEN": "2r2r1k/6bp/p1qNQ1p1/1pp1p1P1/5P2/PP2P3/2PP4/4RRK1 w - - 6 32",
+    "Moves": "d6f7 f8f7 e6f7 c8c7 f7c7 c6c7",
+    "Rating": "1878",
+    "RatingDeviation": "104",
+    "Popularity": "79",
+    "NbPlays": "43",
+    "Themes": "crushing long middlegame sacrifice trappedPiece",
+    "GameUrl": "https://lichess.org/bNnmiF4o#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pqqoy",
+    "FEN": "r5k1/5p1p/6p1/Ppb4r/3NpPn1/2P1B1P1/1P2Q3/R4KRq b - - 8 31",
+    "Moves": "g4h2 f1f2 h2g4 e2g4",
+    "Rating": "1992",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1849",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/qqJrXr5s/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pqrw0",
+    "FEN": "1r2k2r/p4p1p/2p2p2/qpn1p2b/4P3/PBP2N1P/1KP1QPP1/3R3R w k - 4 17",
+    "Moves": "d1d6 c5a4 b3a4 b5a4",
+    "Rating": "1889",
+    "RatingDeviation": "78",
+    "Popularity": "71",
+    "NbPlays": "361",
+    "Themes": "crushing discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/6aBFosVZ#33",
+    "OpeningTags": "Czech_Defense Czech_Defense_Other_variations"
+  }
+]

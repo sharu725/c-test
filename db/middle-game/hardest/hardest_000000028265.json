@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "wSVIT",
+    "FEN": "3r1rk1/2npqp2/p3p1pp/1p2P3/1n5P/2N1QP2/PP3P2/1B1RR1K1 b - - 0 20",
+    "Moves": "e7h4 d1d4 h4g5 e3g5 h6g5 d4b4",
+    "Rating": "2080",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "1247",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/xYFaFRbY/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wSWt3",
+    "FEN": "2rq2r1/pp2pk1p/3pp1pB/3nP3/2B1Q3/5P2/PP3P2/3R1K2 b - - 4 23",
+    "Moves": "d8a5 d1d5 c8c4 d5a5 c4e4 f3e4",
+    "Rating": "2168",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "299",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/74m1cURD/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wSYWL",
+    "FEN": "3r1r1k/1b2qppp/p3pn2/1p1n4/2pP2N1/2P3N1/PPB2PPP/R2QR1K1 w - - 12 21",
+    "Moves": "g3e4 f6g4 d1g4 f7f5 g4g5 f5e4 g5e7 d5e7",
+    "Rating": "2050",
+    "RatingDeviation": "89",
+    "Popularity": "76",
+    "NbPlays": "42",
+    "Themes": "crushing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/e0oc0LRS#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wSZFW",
+    "FEN": "r3kb1r/1p2n2p/pB1p1pp1/P1p5/4PPn1/2NB1Nq1/1PP5/R2Q1R1K w kq - 0 18",
+    "Moves": "c3e2 g3h3 h1g1 g4e3",
+    "Rating": "2128",
+    "RatingDeviation": "79",
+    "Popularity": "84",
+    "NbPlays": "452",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/BSRAQs1i#35",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "wSZIj",
+    "FEN": "5rk1/2pq1ppp/R2np3/8/1r1P4/6P1/1PQ2PBP/3R2K1 b - - 0 23",
+    "Moves": "b4c4 a6d6 d7b5 c2d3 c7d6 g2f1",
+    "Rating": "2331",
+    "RatingDeviation": "79",
+    "Popularity": "67",
+    "NbPlays": "51",
+    "Themes": "advantage defensiveMove long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/gSNO5mZs/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wSZnU",
+    "FEN": "4r1k1/pp4p1/4p3/2p1R1Q1/1b3P1P/1Pn3PK/Pq6/4R3 b - - 1 35",
+    "Moves": "c3d5 e5e6 e8e6 e1e6",
+    "Rating": "2265",
+    "RatingDeviation": "86",
+    "Popularity": "89",
+    "NbPlays": "872",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ZrLfVMw4/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wSZql",
+    "FEN": "4k2r/1pr2pbp/pq2p1p1/P2pPn1P/5PQ1/2N5/1PPB2P1/R4R1K b k - 0 19",
+    "Moves": "b6b2 a1a2 b2b4 c3d5 b4c5 d5c7",
+    "Rating": "2172",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "517",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/ebphZR5o/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "wSb96",
+    "FEN": "2rqr1k1/1p1b1p1p/p2P2pB/3Bp3/4P3/3Q4/P4PPP/5RK1 b - - 1 21",
+    "Moves": "d7c6 d5f7 g8f7 d3b3",
+    "Rating": "2291",
+    "RatingDeviation": "80",
+    "Popularity": "81",
+    "NbPlays": "49",
+    "Themes": "attraction crushing kingsideAttack middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/jdflhEmf/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wScM2",
+    "FEN": "r6r/p1p1kppp/8/2Q1p3/3P3b/P1P1B3/1q4PP/RN5K b - - 2 18",
+    "Moves": "e7f6 c5e5 f6g6 g2g4 b2c2 e5h5",
+    "Rating": "2251",
+    "RatingDeviation": "112",
+    "Popularity": "32",
+    "NbPlays": "22",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/URpvzL93/black#36",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Queens_Knight_Defense"
+  }
+]

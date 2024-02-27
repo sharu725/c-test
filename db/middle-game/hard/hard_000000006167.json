@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "G2L1N",
+    "FEN": "r3r1k1/pp3pp1/1q1b1n1p/8/3P2b1/P1NB1N1P/1P1K1PP1/R2Q3R w - - 3 16",
+    "Moves": "h3g4 b6b2 d1c2 d6f4 d2d1 b2a1",
+    "Rating": "1771",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1826",
+    "Themes": "crushing exposedKing interference long middlegame",
+    "GameUrl": "https://lichess.org/iHHeWDyX#31",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "G2NMf",
+    "FEN": "2krr3/1pp3p1/p2bb1Np/2p5/4N3/7P/PPP2PP1/R3R1K1 b - - 3 18",
+    "Moves": "e6f5 e4d6 c7d6 g6e7 e8e7 e1e7",
+    "Rating": "1610",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "224",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/tkWaM3A0/black#36",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "G2NPq",
+    "FEN": "r3r1k1/pqpQ1p1p/1b3p2/8/8/8/PP1PB1PP/RNB4K b - - 0 18",
+    "Moves": "e8e2 d7g4 g8f8 g4e2 a8e8 e2f1",
+    "Rating": "1730",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "537",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/4fw1DSx4/black#36",
+    "OpeningTags": "Ponziani_Opening Ponziani_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "G2Sba",
+    "FEN": "r3r1k1/1pb1qp1p/p5pR/P1Pp1b2/1P1Q1P2/N3P3/4B1P1/2KR4 w - - 3 22",
+    "Moves": "d1h1 e7e3 d4e3 e8e3",
+    "Rating": "1770",
+    "RatingDeviation": "77",
+    "Popularity": "76",
+    "NbPlays": "422",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/T0e3TlzO#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G2TBU",
+    "FEN": "3r1rk1/1p3ppp/pN1bb3/4n1q1/4P3/1P3B2/PB2QPPP/2R2RK1 w - - 13 21",
+    "Moves": "f1d1 e5f3 e2f3 e6g4",
+    "Rating": "1658",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "10099",
+    "Themes": "crushing kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/kAaU4cKq#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G2Vkm",
+    "FEN": "3r4/kq4b1/1p3npp/P2rp3/4b3/1Q2BN2/1P4PP/R3R2K b - - 0 25",
+    "Moves": "d8d6 a5b6 a7b8 a1a7",
+    "Rating": "1605",
+    "RatingDeviation": "151",
+    "Popularity": "76",
+    "NbPlays": "11",
+    "Themes": "crushing doubleCheck middlegame short",
+    "GameUrl": "https://lichess.org/TqyUmVce/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G2Wun",
+    "FEN": "2r2rk1/1p1bppbp/pq1p1npB/4n3/3NP3/P1N4P/BPPQ1PP1/R4RK1 w - - 7 14",
+    "Moves": "a1b1 g7h6 d2h6 b6d4",
+    "Rating": "1623",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "12340",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/wWnxgxKG#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  },
+  {
+    "PuzzleId": "G2XYu",
+    "FEN": "4r1k1/Q4p1p/4q1p1/2Pp2B1/4b3/2Pn1N2/P4PPP/R5K1 w - - 1 23",
+    "Moves": "f3d4 e6g4 f2f3 g4g5",
+    "Rating": "1722",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "64",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/o2kurUM7#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G2Y07",
+    "FEN": "r3k1nr/ppp3pp/2pq1p2/2b1p2b/4P3/3PBN1P/PPPN1PP1/R2Q1RK1 b kq - 4 9",
+    "Moves": "g8e7 d2c4 d6d8 e3c5",
+    "Rating": "1712",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "7535",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/S3ipjVMr/black#18",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Classical_Variation"
+  }
+]

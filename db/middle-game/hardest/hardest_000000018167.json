@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "bdHsl",
+    "FEN": "2rr2k1/1q3pp1/R3pn1p/2bnN3/1p6/3Q2P1/1P1BPPBP/R5K1 b - - 7 22",
+    "Moves": "c5f2 g1f2 b7c7 e5c6",
+    "Rating": "2155",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "74",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/zdGHAw1O/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bdHvE",
+    "FEN": "4rrk1/p4pp1/2pb3p/1p1p4/3P1P2/1QN1P3/PP4RK/R1B1q3 b - - 3 21",
+    "Moves": "e8e3 c1e3 e1e3 c3e2",
+    "Rating": "2219",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "795",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/fT93tGjf/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bdKhY",
+    "FEN": "r7/4q1p1/4p2p/pk2Pp1Q/1PN1bP2/4P1P1/PK5R/R7 w - - 1 32",
+    "Moves": "h5e2 e7b4 b2c1 b4c3 c1d1 c3a1",
+    "Rating": "2320",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "248",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/UTrauWw6#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bdMpb",
+    "FEN": "r1bqr1k1/ppp3pn/2n3Np/3N4/Q1Bb4/5P2/PP4PP/2KR3R b - - 1 16",
+    "Moves": "d8g5 f3f4 d4b2 c1b2",
+    "Rating": "2011",
+    "RatingDeviation": "79",
+    "Popularity": "76",
+    "NbPlays": "109",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/7DsrwfZt/black#32",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Macleod_Attack"
+  },
+  {
+    "PuzzleId": "bdNGK",
+    "FEN": "1n3rk1/rq1pbNpp/p3p3/2p1P2Q/1p1P4/1P2P3/P1P3PP/R4RK1 b - - 1 18",
+    "Moves": "c5d4 f7g5 e7g5 f1f8 g8f8 a1f1 g5f6 h5h7 f8e8 h7h8",
+    "Rating": "2212",
+    "RatingDeviation": "112",
+    "Popularity": "73",
+    "NbPlays": "51",
+    "Themes": "attraction crushing deflection discoveredAttack kingsideAttack middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/5QCqOQxY/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_French_Variation"
+  },
+  {
+    "PuzzleId": "bdPeY",
+    "FEN": "r1bq1rk1/1pp2ppp/p4b2/4N3/3n1B2/2Q3N1/PP3PPP/R3R1K1 b - - 2 16",
+    "Moves": "f8e8 a1d1 f6e5 f4e5 e8e5 e1e5",
+    "Rating": "2028",
+    "RatingDeviation": "80",
+    "Popularity": "91",
+    "NbPlays": "95",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/6JH7LTXT/black#32",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Open"
+  },
+  {
+    "PuzzleId": "bdQk9",
+    "FEN": "3r2k1/p3q3/1p4p1/2p2p1n/2brP3/P1Q5/1B3RPP/1B2R1K1 w - - 2 31",
+    "Moves": "e4f5 e7e1 c3e1 d4d1 f2f1 c4f1 e1e6 g8f8 b2g7 h5g7",
+    "Rating": "2183",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "5129",
+    "Themes": "advantage master middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/zqRcWlOC#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "bdRBV",
+    "FEN": "2r1qrk1/1pp1bppp/p3P3/3R4/4QB2/8/PP3PPP/4R1K1 b - - 0 18",
+    "Moves": "e7f6 e6e7 e8e7 e4e7 f6e7 e1e7",
+    "Rating": "2023",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "3506",
+    "Themes": "advancedPawn crushing long middlegame",
+    "GameUrl": "https://lichess.org/QkmOzhlB/black#36",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "bdUOX",
+    "FEN": "4k3/p1pb1pBp/3brPr1/3Q4/8/8/PqP3PP/4RR1K b - - 0 24",
+    "Moves": "d7c8 e1e6 c8e6 d5e6 f7e6 f6f7 e8d7 g7b2",
+    "Rating": "2132",
+    "RatingDeviation": "96",
+    "Popularity": "94",
+    "NbPlays": "20",
+    "Themes": "advancedPawn advantage middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/h1MA0OIv/black#48",
+    "OpeningTags": ""
+  }
+]

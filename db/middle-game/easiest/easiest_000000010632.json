@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "VeHou",
+    "FEN": "1q2r1kb/5p1p/4p1pB/1p1R4/1Pn1N3/7P/r1B1QPP1/4R1K1 b - - 0 30",
+    "Moves": "e6d5 e4f6 h8f6 e2e8 b8e8 e1e8",
+    "Rating": "725",
+    "RatingDeviation": "79",
+    "Popularity": "100",
+    "NbPlays": "205",
+    "Themes": "discoveredAttack kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/WzuoWKTh/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VeIPR",
+    "FEN": "4rb1r/1pB3pp/1Pk1p3/2ppQR2/8/1q6/5PPP/R5K1 b - - 0 29",
+    "Moves": "e6f5 e5e8",
+    "Rating": "992",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "173",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/RaDqiWt7/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VeJ2g",
+    "FEN": "rn1qk2r/p4pp1/2N4p/1pQ2p2/2pP4/B1n1P3/P4PPP/R4RK1 b kq - 0 15",
+    "Moves": "b8c6 c5c6 d8d7 c6a8",
+    "Rating": "984",
+    "RatingDeviation": "93",
+    "Popularity": "84",
+    "NbPlays": "62",
+    "Themes": "crushing deflection fork middlegame short",
+    "GameUrl": "https://lichess.org/LLN4Rsah/black#30",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "VeM8D",
+    "FEN": "r4r1k/1p1q4/4bpp1/3p4/p7/P1N1PP2/1P3Q1P/1K4RR w - - 0 25",
+    "Moves": "g1g6 e6f5 e3e4 f5g6",
+    "Rating": "904",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "1113",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/LVuGKeYv#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VeNZH",
+    "FEN": "r4rk1/ppp2pp1/1bn4B/3qpb2/1P2N3/2PP1N1P/P4PP1/R2Q1RK1 b - - 0 17",
+    "Moves": "g7h6 e4f6 g8g7 f6d5",
+    "Rating": "924",
+    "RatingDeviation": "90",
+    "Popularity": "83",
+    "NbPlays": "41",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/RFfVjMWY/black#34",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Piano"
+  },
+  {
+    "PuzzleId": "VeOWx",
+    "FEN": "r4k2/pp3Pb1/2q5/7p/3pr2Q/1P5R/1PP3PP/R1B4K w - - 1 24",
+    "Moves": "h4h5 e4e1",
+    "Rating": "625",
+    "RatingDeviation": "83",
+    "Popularity": "96",
+    "NbPlays": "219",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/aLK0PkJF#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VeOln",
+    "FEN": "r4r1k/ppp3p1/6QN/1P1pb3/8/P1NP3P/3B1qP1/R6K w - - 1 28",
+    "Moves": "h6g4 f2f1 a1f1 f8f1",
+    "Rating": "637",
+    "RatingDeviation": "93",
+    "Popularity": "94",
+    "NbPlays": "162",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/D5jqiDm9#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VeQSS",
+    "FEN": "r4rk1/pb1pqpp1/1pn5/6NQ/8/8/PP2NPPP/R3K2R b KQ - 4 16",
+    "Moves": "f7f6 h5h7",
+    "Rating": "943",
+    "RatingDeviation": "82",
+    "Popularity": "96",
+    "NbPlays": "310",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/cSaTCOVR/black#32",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "VeR04",
+    "FEN": "3r2k1/1p1q1ppp/2pp3r/p1n5/2P2N2/P3Q1P1/1P3P1P/3RR1K1 b - - 2 24",
+    "Moves": "d8e8 e3e8 d7e8 e1e8",
+    "Rating": "600",
+    "RatingDeviation": "101",
+    "Popularity": "60",
+    "NbPlays": "256",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/cyTOUWlH/black#48",
+    "OpeningTags": ""
+  }
+]

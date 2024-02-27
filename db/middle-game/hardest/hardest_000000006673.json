@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DmJzT",
+    "FEN": "2r3k1/p4pb1/4b1p1/7p/q3PQ1P/B7/PPP3P1/1K1R1R2 w - - 1 25",
+    "Moves": "d1d2 a4c4 b2b3 c4c3 e4e5 g7e5 f4e5 c3e5",
+    "Rating": "2306",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2620",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/I40AszLg#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DmK0b",
+    "FEN": "2rq1r1k/pb3ppB/1p2p3/8/3b3P/2P5/PPQ2PP1/2KR3R w - - 1 18",
+    "Moves": "d1d4 d8d4 c3d4 g7g6 h7g6 f7g6",
+    "Rating": "2299",
+    "RatingDeviation": "78",
+    "Popularity": "84",
+    "NbPlays": "127",
+    "Themes": "advantage long middlegame pin quietMove sacrifice trappedPiece",
+    "GameUrl": "https://lichess.org/RXXLxe4P#35",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Torre_Attack"
+  },
+  {
+    "PuzzleId": "DmLQu",
+    "FEN": "3rkr2/ppp2p1p/4B3/3Q4/4P3/2q2N2/P1p1KPPP/R6R w - - 2 18",
+    "Moves": "d5e5 c3d3 e2e1 d3d1 a1d1 c2d1q",
+    "Rating": "2050",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "753",
+    "Themes": "advancedPawn long mate mateIn3 middlegame promotion",
+    "GameUrl": "https://lichess.org/zVn8lkIu#35",
+    "OpeningTags": "Scotch_Game Scotch_Game_Benima_Defense"
+  },
+  {
+    "PuzzleId": "DmMaF",
+    "FEN": "r3k1nr/3b1ppp/2n1p3/R2pP3/1bpP1P2/4B3/3NB1PP/1qQ2RK1 b kq - 0 17",
+    "Moves": "b1c1 a5a8 d7c8 f1c1",
+    "Rating": "2278",
+    "RatingDeviation": "226",
+    "Popularity": "100",
+    "NbPlays": "12",
+    "Themes": "equality hangingPiece intermezzo middlegame pin short",
+    "GameUrl": "https://lichess.org/PXurvksE/black#34",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DmOjU",
+    "FEN": "r2q1rk1/pp3p1p/3p2pb/2p1p3/4Pn2/1P1P1P1P/PBPQN3/1K4RR b - - 1 16",
+    "Moves": "g8g7 e2f4 g7g8 f4g6 h6d2 g6e5",
+    "Rating": "2204",
+    "RatingDeviation": "81",
+    "Popularity": "89",
+    "NbPlays": "260",
+    "Themes": "advantage discoveredAttack long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/ab9FwQSg/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Snyder_Variation"
+  },
+  {
+    "PuzzleId": "DmP8s",
+    "FEN": "r2qk2r/pppb1n2/2n1p1Q1/8/P2P4/2P1PN2/5PPP/R1B1K2R b KQkq - 0 14",
+    "Moves": "d8e7 c1a3 e7d8 g6g7",
+    "Rating": "2342",
+    "RatingDeviation": "83",
+    "Popularity": "83",
+    "NbPlays": "50",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/2Q6VuodX/black#28",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Vienna_Variation"
+  },
+  {
+    "PuzzleId": "DmPcK",
+    "FEN": "r1b1k2r/ppp2pp1/2pq4/2b5/4P1B1/2N3P1/PPPP1P2/R1BQ1RK1 w kq - 1 11",
+    "Moves": "d1f3 d6h6 g4h5 h6h5 f3h5 h8h5",
+    "Rating": "2042",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "744",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/Kv1uaKRX#21",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "DmR2Z",
+    "FEN": "6rr/3nkq2/1p3P2/p1p3p1/R7/1P4R1/1PP3PP/3Q2K1 b - - 0 24",
+    "Moves": "d7f6 g3e3 e7f8 d1d6 f8g7 e3e7",
+    "Rating": "2160",
+    "RatingDeviation": "77",
+    "Popularity": "97",
+    "NbPlays": "1699",
+    "Themes": "advantage exposedKing long middlegame pin",
+    "GameUrl": "https://lichess.org/YpEqFYHa/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DmS1E",
+    "FEN": "4rr1k/ppp4N/3p4/3P4/8/3B4/q1P3RP/6RK b - - 0 30",
+    "Moves": "f8f4 g2g5 a2d5 g5d5",
+    "Rating": "2367",
+    "RatingDeviation": "82",
+    "Popularity": "77",
+    "NbPlays": "75",
+    "Themes": "crushing middlegame quietMove short",
+    "GameUrl": "https://lichess.org/oOORKqc7/black#60",
+    "OpeningTags": ""
+  }
+]

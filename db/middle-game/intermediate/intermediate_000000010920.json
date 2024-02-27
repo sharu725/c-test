@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QGILL",
+    "FEN": "r1q2rk1/p1pb2pp/2p2pn1/3p3Q/8/NP2PN2/PBPP1PPP/R4RK1 w - - 8 12",
+    "Moves": "f3d4 d7g4 h5g4 c8g4",
+    "Rating": "1499",
+    "RatingDeviation": "92",
+    "Popularity": "25",
+    "NbPlays": "28",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/7pwFhcSe#23",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation"
+  },
+  {
+    "PuzzleId": "QGJ2B",
+    "FEN": "4rrk1/pp5p/3pq1p1/2p1np2/2P1P3/3PQ1PP/PP3RBK/5R2 w - - 0 24",
+    "Moves": "e4f5 e5g4 h3g4 e6e3",
+    "Rating": "1543",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "20129",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/0fjpAh5m#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QGJQi",
+    "FEN": "r4rk1/pp1n1ppp/2p5/3p4/3P1N2/1Bq5/P1P2Q2/1RB2K2 b - - 1 21",
+    "Moves": "d7f6 c1d2 f6e4 d2c3 e4f2 f1f2",
+    "Rating": "1556",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "2534",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/ETyaSFQN/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QGKWa",
+    "FEN": "rnb1k2r/pp3ppp/2p1p3/4P3/1BP2P2/3q4/PP4PP/R2QK1NR b KQkq - 0 10",
+    "Moves": "d3c4 d1d6 c6c5 b4c5",
+    "Rating": "1524",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "619",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/sHarrvfh/black#20",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+  },
+  {
+    "PuzzleId": "QGKYR",
+    "FEN": "r1bqr1k1/pp3pp1/n1pb1p2/7p/3P1B2/2PB4/PPQ1NPPP/R3K2R w KQ - 2 11",
+    "Moves": "e1c1 e8e2 d3e2 d6f4",
+    "Rating": "1542",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "6165",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/wl8m4feA#21",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+  },
+  {
+    "PuzzleId": "QGLJb",
+    "FEN": "r5k1/1prb2p1/pRn1p1Bp/3pP2P/5R2/5N2/P2K2P1/8 b - - 10 29",
+    "Moves": "a8f8 g6h7 g8h7 f4f8",
+    "Rating": "1501",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "1",
+    "Themes": "deflection equality kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/ecKFZoaq/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QGMzz",
+    "FEN": "r4rk1/ppqn1ppp/2pbpn2/4N3/3P1B2/2NQ4/PPP2PPP/R4RK1 w - - 1 13",
+    "Moves": "d3g3 f6h5 g3h4 h5f4",
+    "Rating": "1561",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "2332",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/XDxoHoVg#25",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "QGNMy",
+    "FEN": "2r1k3/1p1RBN2/p3P1p1/5p1r/2P3n1/1P4P1/P4P2/b5K1 b - - 0 29",
+    "Moves": "g4e5 f7d6",
+    "Rating": "1478",
+    "RatingDeviation": "87",
+    "Popularity": "87",
+    "NbPlays": "798",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/FotvZGmL/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QGO3c",
+    "FEN": "2kr3r/p1pqbp2/1pb4p/3pP1p1/3Q4/2NR1NP1/PPP3PP/3R2K1 w - - 0 17",
+    "Moves": "c3d5 e7c5 d4c5 b6c5",
+    "Rating": "1462",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "5741",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/uUGLKE66#33",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  }
+]

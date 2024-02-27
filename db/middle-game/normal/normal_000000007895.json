@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "N0Inj",
+    "FEN": "r1b1k2r/pp3pp1/4p2p/q2pP3/n1pP4/2P2N2/2PQBPPP/RR4K1 b kq - 1 15",
+    "Moves": "a5c3 a1a4 c3d2 f3d2",
+    "Rating": "1313",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "368",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/dDvK1Ydc/black#30",
+    "OpeningTags": "French_Defense French_Defense_MacCutcheon_Variation"
+  },
+  {
+    "PuzzleId": "N0J2K",
+    "FEN": "r1q2rk1/p3bpp1/2p1p3/3pP1p1/7P/2Q1P1B1/PP3P2/2KR3R b - - 0 19",
+    "Moves": "g5h4 g3h4 e7h4 h1h4",
+    "Rating": "1285",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "317",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/7jirpjAa/black#38",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Mason_Variation"
+  },
+  {
+    "PuzzleId": "N0Jfs",
+    "FEN": "1r3r2/5pkp/p5p1/2p2b2/P2pq3/1P4NP/2PQ2P1/4RRK1 b - - 3 22",
+    "Moves": "e4c2 g3f5 c2f5 f1f5",
+    "Rating": "1263",
+    "RatingDeviation": "76",
+    "Popularity": "74",
+    "NbPlays": "282",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/cIaGEkeH/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "N0KLL",
+    "FEN": "r2qr1kb/1b2pp1p/p2p1npB/1p4N1/2n2P2/1BN5/PPPQ2PP/3R1RK1 b - - 2 18",
+    "Moves": "c4d2 b3f7",
+    "Rating": "1224",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "545",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/bWUgLLkW/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "N0Mrs",
+    "FEN": "2kr3r/pp3R1p/4p3/3pPn2/8/1P6/P1P3PP/qN2Q2K b - - 2 20",
+    "Moves": "a1a2 e1c3 c8b8 c3c7 b8a8 c7b7",
+    "Rating": "1308",
+    "RatingDeviation": "80",
+    "Popularity": "86",
+    "NbPlays": "94",
+    "Themes": "long mate mateIn3 middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/6tFuBbyF/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "N0ORE",
+    "FEN": "5k1b/p2bp2p/1r1p2p1/r7/2p1P1P1/2Pn1P2/PP5Q/KRN4R w - - 1 33",
+    "Moves": "c1d3 a5a2 a1a2 b6a6",
+    "Rating": "1201",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "4352",
+    "Themes": "attraction mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/BN94BsQO#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "N0OdE",
+    "FEN": "2kr3r/pbp2ppp/1pq1pn2/1N6/2PP4/3BP3/PP1Q2PP/2KR2R1 b - - 4 16",
+    "Moves": "f6e4 b5a7 c8b8 a7c6",
+    "Rating": "1320",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "2243",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/7dTJ9E4W/black#32",
+    "OpeningTags": "French_Defense French_Defense_Rubinstein_Variation"
+  },
+  {
+    "PuzzleId": "N0Poj",
+    "FEN": "r3k1r1/ppp2p2/2n1p2B/6P1/3q4/1Pb5/P2PQP1P/R3K1NR w KQq - 1 15",
+    "Moves": "g1f3 c3d2 e2d2 d4a1",
+    "Rating": "1345",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "797",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/fWYN8Aas#29",
+    "OpeningTags": "French_Defense French_Defense_Horwitz_Attack"
+  },
+  {
+    "PuzzleId": "N0Ucj",
+    "FEN": "r1bqr1k1/pp1n1p2/2pb1n1Q/3p2N1/3P4/2NB4/PPP2PPP/R4RK1 b - - 2 12",
+    "Moves": "d6f8 d3h7 f6h7 h6h7",
+    "Rating": "1265",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "9262",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/d7QvvlbM/black#24",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  }
+]

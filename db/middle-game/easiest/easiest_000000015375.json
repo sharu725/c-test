@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "jkYag",
+    "FEN": "r1bq1r1k/ppp3p1/2n4p/2bp2N1/3p3R/1B1Q4/PPP2PPP/R1B3K1 b - - 1 13",
+    "Moves": "d8f6 d3h7",
+    "Rating": "816",
+    "RatingDeviation": "78",
+    "Popularity": "96",
+    "NbPlays": "167",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/QRdE7k5G/black#26",
+    "OpeningTags": "Russian_Game Russian_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "jkZiE",
+    "FEN": "r3r1k1/pbqnbpp1/1pp4p/3p4/3P2nB/2N1PB1P/PP3PP1/R2Q1RK1 w - - 0 15",
+    "Moves": "h4e7 c7h2",
+    "Rating": "819",
+    "RatingDeviation": "88",
+    "Popularity": "79",
+    "NbPlays": "103",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Kswv3n4x#29",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "jkbXO",
+    "FEN": "r1b2rQk/p1pp2pp/1p6/n3N3/2P2B2/q5P1/4PPKP/7R b - - 3 18",
+    "Moves": "f8g8 e5f7",
+    "Rating": "983",
+    "RatingDeviation": "113",
+    "Popularity": "69",
+    "NbPlays": "69",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/PDhc6lX9/black#36",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Queens_Knight_Variation"
+  },
+  {
+    "PuzzleId": "jkdcE",
+    "FEN": "1rb2rk1/p4pbp/3q2p1/3Bp3/5B2/5Q2/PPP2PPP/3R1RK1 b - - 1 15",
+    "Moves": "e5f4 d5f7 f8f7 d1d6",
+    "Rating": "802",
+    "RatingDeviation": "82",
+    "Popularity": "95",
+    "NbPlays": "886",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/XLKkDzHR/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "jkeNC",
+    "FEN": "rn2k1nr/5ppp/2p1p3/q1Pp4/pR1P4/4PN2/P2Q1PPP/4KB1R b Kkq - 3 13",
+    "Moves": "g8f6 b4b8 a8b8 d2a5",
+    "Rating": "903",
+    "RatingDeviation": "105",
+    "Popularity": "85",
+    "NbPlays": "61",
+    "Themes": "crushing deflection discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/J6BEEYYn/black#26",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Baltic_Defense"
+  },
+  {
+    "PuzzleId": "jkeo4",
+    "FEN": "3r3k/6pp/2p2n2/2P5/1PQ5/6qP/3rR1B1/4R1K1 b - - 6 32",
+    "Moves": "d8d4 e2e8 f6e8 e1e8",
+    "Rating": "846",
+    "RatingDeviation": "92",
+    "Popularity": "95",
+    "NbPlays": "1304",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/BTfJMMCG/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jkirK",
+    "FEN": "r3r1k1/p1p2p1p/2p2p2/2b5/1q2N3/8/P3QPPP/R3R1K1 b - - 3 18",
+    "Moves": "f6f5 e4f6 g8f8 f6e8",
+    "Rating": "936",
+    "RatingDeviation": "76",
+    "Popularity": "99",
+    "NbPlays": "727",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/S7WCQFdv/black#36",
+    "OpeningTags": "French_Defense French_Defense_Schlechter_Variation"
+  },
+  {
+    "PuzzleId": "jkitV",
+    "FEN": "3r2r1/1p1k3p/p2P1p2/2Q2b1q/1P2p3/5N2/P4RPP/3R3K w - - 3 29",
+    "Moves": "f3d4 h5d1 f2f1 d1f1",
+    "Rating": "617",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "1200",
+    "Themes": "hangingPiece kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/u374xLwg#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jkiuj",
+    "FEN": "3rr1k1/p1p2ppp/8/4P3/2q5/5N2/PP2QbPP/R1B4K w - - 0 19",
+    "Moves": "e2c4 d8d1 f3e1 d1e1 c4f1 e1f1",
+    "Rating": "511",
+    "RatingDeviation": "109",
+    "Popularity": "94",
+    "NbPlays": "1107",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/i2pnfHAE#37",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  }
+]

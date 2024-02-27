@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "rGOQH",
+    "FEN": "3r2k1/1Qr3p1/p3Rp1p/1p2bP2/1P6/q2B3P/2P3P1/3R2K1 w - - 2 28",
+    "Moves": "b7b6 e5d4 b6d4 d8d4",
+    "Rating": "1184",
+    "RatingDeviation": "90",
+    "Popularity": "81",
+    "NbPlays": "27",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/eZYkPdmb#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rGOc7",
+    "FEN": "r4rk1/pp3ppp/5n2/2p5/3P4/P5Pq/1PPB1P1P/1R1Q1RK1 w - - 1 21",
+    "Moves": "d4c5 f6g4 d1g4 h3g4",
+    "Rating": "1190",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "6964",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/znA3w2xC#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rGQVK",
+    "FEN": "2rr2k1/4Rp2/1n4pp/pBqp1p2/Pp1b1B2/1P1R2NP/2P2QP1/2K5 w - - 0 29",
+    "Moves": "f2d4 c5c2",
+    "Rating": "1135",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "207",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/obMnQEsj#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rGRE8",
+    "FEN": "rn5Q/pb1k1p2/1p2pB2/3pP2P/3P4/2qB4/P1P1KPr1/R6R b - - 2 18",
+    "Moves": "c3d4 h8d8 d7c6 d8d6",
+    "Rating": "1174",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "2587",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/RDa28Uis/black#36",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "rGSux",
+    "FEN": "r3r1k1/pp1R1ppp/2n5/q3p3/8/B3PQ1P/P4PP1/R5K1 b - - 6 18",
+    "Moves": "a5a3 f3f7 g8h8 f7g7",
+    "Rating": "1041",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "452",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/QgTGWDm1/black#36",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "rGTto",
+    "FEN": "2r2rk1/1p3ppp/p2p2q1/3Np3/3nP2b/4B3/PPP2PB1/R2Q1RK1 w - - 11 21",
+    "Moves": "d5e7 h4e7 e3d4 e5d4",
+    "Rating": "1120",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "443",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/kDOr2WBK#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rGW8K",
+    "FEN": "r4rk1/p1p1q1pp/2pb4/8/2N1p3/1P2Pp1P/PBP2P2/R2Q1RK1 w - - 0 16",
+    "Moves": "c4d6 e7g5 g1h1 g5g2",
+    "Rating": "1108",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1456",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/cAlx0kaW#31",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "rGWHC",
+    "FEN": "3r2k1/p1q2pb1/1p1r2pp/2p1p3/2PnP3/BP4P1/P2R1PBP/2QR2K1 w - - 0 27",
+    "Moves": "a3b2 d4e2 d2e2 d6d1",
+    "Rating": "1081",
+    "RatingDeviation": "91",
+    "Popularity": "93",
+    "NbPlays": "44",
+    "Themes": "crushing deflection discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/dCxs8pLU#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rGWPK",
+    "FEN": "1r2r1k1/pbp3pp/1bp5/7Q/3qP2P/8/PP4P1/R1B2R1K b - - 3 18",
+    "Moves": "e8e4 h5f7 g8h8 f7f8 b8f8 f1f8",
+    "Rating": "1009",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "2469",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/odwxx79e/black#36",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Macleod_Attack"
+  }
+]

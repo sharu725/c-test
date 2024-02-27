@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "YKMDi",
+    "FEN": "r1r3k1/p2qbp2/2ppbn1Q/4p1N1/4P3/3P2NP/P4PP1/R4RK1 b - - 2 19",
+    "Moves": "d7d8 g3h5 f6h5 h6h7 g8f8 h7h8",
+    "Rating": "1790",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "6455",
+    "Themes": "fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/7aBAJiJq/black#38",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "YKNuW",
+    "FEN": "2rr2k1/p4p1p/1pq1pp2/2p5/P1PPb3/4Q1P1/1B3P1P/2R1R1K1 b - - 1 22",
+    "Moves": "e4h1 d4d5 e6d5 g1h1 d5d4 e3e4",
+    "Rating": "1799",
+    "RatingDeviation": "81",
+    "Popularity": "57",
+    "NbPlays": "57",
+    "Themes": "advantage interference long master middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/87lGtiup/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YKO6M",
+    "FEN": "r5k1/p2n1ppp/2Q1pn2/q2p4/3P2b1/2N5/r3PPBP/2R2KNR b - - 1 16",
+    "Moves": "a2b2 c6a8 b2b8 a8c6",
+    "Rating": "1621",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "109",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/64i3wXyX/black#32",
+    "OpeningTags": "Grob_Opening Grob_Opening_Grob_Gambit"
+  },
+  {
+    "PuzzleId": "YKOOI",
+    "FEN": "2r3k1/4p1b1/4PpR1/1p3P1q/3BQ3/1P2P3/r5P1/5RK1 w - - 1 30",
+    "Moves": "f1f3 c8c1 f3f1 c1f1 g1f1 h5d1",
+    "Rating": "1741",
+    "RatingDeviation": "75",
+    "Popularity": "62",
+    "NbPlays": "882",
+    "Themes": "attraction long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/4yym5BG8#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YKQFS",
+    "FEN": "5rk1/pppn1rpp/4p1p1/2P5/3P2Pq/B3P2P/P3QPK1/R4R2 w - - 1 20",
+    "Moves": "a1b1 f7f3 e2f3 f8f3",
+    "Rating": "1760",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2218",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/fl0hMtfk#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YKQmO",
+    "FEN": "3r1r1k/pb3p1n/1p5Q/4pNq1/2P5/8/PP3PPP/3RR1K1 w - - 5 25",
+    "Moves": "d1d8 g5g2",
+    "Rating": "1701",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "571",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/9iyyvHCt#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YKSEQ",
+    "FEN": "r4r2/1pqn2pk/2p1p1p1/p2pP1Pn/7B/2PBP2P/PP6/R2QK2R b KQ - 0 19",
+    "Moves": "d7e5 d1h5 h7g8 d3g6 e5g6 h5g6",
+    "Rating": "1606",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "3487",
+    "Themes": "advantage deflection long middlegame pin",
+    "GameUrl": "https://lichess.org/hqqBpMkt/black#38",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "YKTVp",
+    "FEN": "3r2k1/pb3ppp/1p1bp3/3P4/1PB5/P5Pq/1B1Q1P1P/5RK1 b - - 0 24",
+    "Moves": "d6b8 d2g5 f7f6 b2f6",
+    "Rating": "1698",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "5428",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/D4JFL0WZ/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "YKUjb",
+    "FEN": "2r4k/6p1/p2npr2/1p2N1Rp/3pbP1q/1Pp4P/P4RP1/2Q2BK1 b - - 5 33",
+    "Moves": "e4h7 g2g3 h4g5 f4g5 f6f2 g1f2",
+    "Rating": "1646",
+    "RatingDeviation": "91",
+    "Popularity": "79",
+    "NbPlays": "40",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/zCTx3jUO/black#66",
+    "OpeningTags": ""
+  }
+]

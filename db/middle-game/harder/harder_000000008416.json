@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PWSPL",
+    "FEN": "r2qkb1r/ppp2ppp/4pn2/8/3P4/6Q1/PPP3PP/RNB2RK1 b kq - 1 11",
+    "Moves": "f8d6 g3g7 h8g8 g7f6 d8f6 f1f6",
+    "Rating": "1866",
+    "RatingDeviation": "176",
+    "Popularity": "83",
+    "NbPlays": "15",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/sgGP5KeC/black#22",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Gedult_Gambit"
+  },
+  {
+    "PuzzleId": "PWTrq",
+    "FEN": "r2q3k/ppp2B2/3p1nrp/2b1p3/4P1bB/2NP1Q2/PPP2P2/R4R1K w - - 1 18",
+    "Moves": "h4f6 d8f6 f3f6 g6f6",
+    "Rating": "1922",
+    "RatingDeviation": "97",
+    "Popularity": "75",
+    "NbPlays": "21",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/aB3NO0gS#35",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "PWTw5",
+    "FEN": "5rk1/p5p1/7p/4Nr1P/1Q1P4/2p1qB2/P5P1/5RK1 w - - 1 34",
+    "Moves": "g1h1 f5h5 f3h5 f8f1 h1h2 e3f4",
+    "Rating": "1826",
+    "RatingDeviation": "102",
+    "Popularity": "82",
+    "NbPlays": "18",
+    "Themes": "crushing discoveredAttack long master middlegame",
+    "GameUrl": "https://lichess.org/xDbMJ1HQ#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PWU5n",
+    "FEN": "3qk2r/p1p1pp1p/6p1/4b3/8/2B2B1P/Prn2PP1/R2Q1K1R b k - 1 15",
+    "Moves": "e5c3 f3c6 e8f8 d1d8 f8g7 d8d3",
+    "Rating": "1877",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "1070",
+    "Themes": "advantage deflection long middlegame",
+    "GameUrl": "https://lichess.org/Y7bHQj36/black#30",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "PWVPF",
+    "FEN": "2krr3/ppp2q1p/1b1p2p1/1P4R1/P1NPPp2/1nP5/4QK1P/4N1R1 b - - 2 25",
+    "Moves": "b3d4 c4b6 c7b6 c3d4",
+    "Rating": "1933",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "9669",
+    "Themes": "advantage intermezzo middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/811FlY2E/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PWVSa",
+    "FEN": "r2q2k1/1p1b1r1p/3p2pP/3P1p2/p1P5/P1Q1RP2/1P3P2/1K2R3 b - - 7 28",
+    "Moves": "d8a5 e3e8 d7e8 e1e8 a8e8 c3a5",
+    "Rating": "1860",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "85",
+    "Themes": "crushing deflection kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/piwrAhpb/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PWXCZ",
+    "FEN": "2rr2k1/p3q1pp/2p1bp2/3np3/Q7/4PN1P/PP3PP1/2RRB1K1 w - - 0 21",
+    "Moves": "c1c6 e6d7 c6c8 d7a4 c8d8 e7d8",
+    "Rating": "1812",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "55",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/UFooNKQt#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PWYC8",
+    "FEN": "2k2b1r/ppp2ppp/7n/3rPb2/4NP2/3BK3/PPP3PP/R1B4R w - - 1 13",
+    "Moves": "c2c4 h6g4 e3e2 d5d3",
+    "Rating": "1921",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "799",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/SLxpi6yJ#25",
+    "OpeningTags": "French_Defense French_Defense_Rubinstein_Variation"
+  },
+  {
+    "PuzzleId": "PWYW3",
+    "FEN": "1r3r2/1p1qp1bk/p2p2p1/2pQn2p/P1P1PB2/1P4PP/6BK/3R1R2 b - - 5 25",
+    "Moves": "a6a5 f4e5 f8f1 g2f1 g7e5 d5e5",
+    "Rating": "1821",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "999",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/m34ooG1p/black#50",
+    "OpeningTags": ""
+  }
+]

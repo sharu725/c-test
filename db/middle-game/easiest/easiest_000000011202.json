@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "XO7Gw",
+    "FEN": "B1k3r1/p4p1p/3p1P2/B1pbp3/8/3q4/P6P/R1Q2R1K w - - 1 30",
+    "Moves": "a8d5 d3d5 f1f3 d5f3",
+    "Rating": "874",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "611",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/oYQwgrAv#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XO7Zh",
+    "FEN": "rn3rk1/3p1pp1/b5qp/p1pNP3/2p2B2/PP6/5PPP/R2Q1RK1 b - - 1 20",
+    "Moves": "c4b3 d5e7 g8h8 e7g6",
+    "Rating": "835",
+    "RatingDeviation": "104",
+    "Popularity": "95",
+    "NbPlays": "1009",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/5PXQ8jXk/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XO8lB",
+    "FEN": "r1r3k1/p3pbq1/3p4/1R3BNp/5Pn1/3Q4/1RPN2PP/7K w - - 4 25",
+    "Moves": "g5f7 g4f2 h1g1 f2d3",
+    "Rating": "986",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "428",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/IARyrOCP#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XO9cu",
+    "FEN": "2k4r/ppp2pp1/2nr4/5p1p/1P1P2n1/P3BBPq/2P2P1P/R2Q1RK1 w - - 4 19",
+    "Moves": "f3g2 h3h2",
+    "Rating": "770",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "402",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/HRuHu2sj#37",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "XOAcS",
+    "FEN": "1kn4r/pp2r3/4Npp1/P2p4/3P4/R1P5/1Q3P1q/1R3K2 b - - 3 33",
+    "Moves": "e7e6 b2b7",
+    "Rating": "840",
+    "RatingDeviation": "86",
+    "Popularity": "85",
+    "NbPlays": "64",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/043wtclY/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XOCXN",
+    "FEN": "4r1k1/pppq1ppp/b2p1b2/3P4/2P5/3Q1P2/PPB3PP/R1B3K1 b - - 1 17",
+    "Moves": "d7e7 d3h7 g8f8 h7h8",
+    "Rating": "627",
+    "RatingDeviation": "90",
+    "Popularity": "92",
+    "NbPlays": "258",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ku7YNlTp/black#34",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "XOE62",
+    "FEN": "6k1/1b1r1pp1/p1p4p/2b5/B1N1nB2/2P5/PP3PPP/R5K1 w - - 0 22",
+    "Moves": "a1e1 c5f2 g1f1 f2e1",
+    "Rating": "803",
+    "RatingDeviation": "82",
+    "Popularity": "96",
+    "NbPlays": "662",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/45s0c4rP#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "XOGqW",
+    "FEN": "3krb1r/pp2p1p1/2p1Qn2/3p3p/qP6/3PB2P/P4PP1/R3R1K1 b - - 0 19",
+    "Moves": "a7a6 e3b6",
+    "Rating": "915",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "334",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/zale8uAO/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "XOJSa",
+    "FEN": "1k1r1bnr/ppp1p2p/6p1/1B2nQ2/3R4/2N4P/PPP3P1/R1B4K b - - 0 14",
+    "Moves": "g6f5 d4d8",
+    "Rating": "604",
+    "RatingDeviation": "100",
+    "Popularity": "67",
+    "NbPlays": "238",
+    "Themes": "backRankMate hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Lrks52ZF/black#28",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Zeller_Defense"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ZLVT3",
+    "FEN": "4k3/pp2r3/2p2p1Q/8/3P3R/2P3q1/PP1K2N1/4q3 w - - 0 41",
+    "Moves": "g2e1 g3f2 d2c1 e7e1",
+    "Rating": "2312",
+    "RatingDeviation": "87",
+    "Popularity": "71",
+    "NbPlays": "61",
+    "Themes": "deflection endgame master mate mateIn2 short",
+    "GameUrl": "https://lichess.org/U3eDErJt#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZLVrY",
+    "FEN": "r1r3k1/4pp1p/6p1/3Pq3/2pRp1P1/p3Q3/P3B2P/1K1R4 w - - 0 32",
+    "Moves": "e3e4 e5b8 b1a1 b8b2",
+    "Rating": "2184",
+    "RatingDeviation": "78",
+    "Popularity": "87",
+    "NbPlays": "632",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/XRu2nCnu#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZM0mT",
+    "FEN": "8/2R3p1/1P3p1k/3N4/4n2p/7P/6PK/1r6 w - - 4 42",
+    "Moves": "b6b7 e4g3 c7c1 b1c1 b7b8q c1h1",
+    "Rating": "2052",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "7712",
+    "Themes": "endgame hookMate long mate mateIn3 quietMove",
+    "GameUrl": "https://lichess.org/2jtpHtoc#83",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZM8sw",
+    "FEN": "5rk1/5rp1/4Q1pN/p1p5/4pP2/P3Pq2/1P4R1/6K1 b - - 3 35",
+    "Moves": "g7h6 e6g6 g8h8 g6h6 f7h7 h6f8",
+    "Rating": "2085",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "7416",
+    "Themes": "deflection endgame exposedKing long mate mateIn3",
+    "GameUrl": "https://lichess.org/NeYNSb5G/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZMO8J",
+    "FEN": "4r2k/ppp2pBp/2nbr3/3p1p2/2qP4/P1P2P2/5P1P/R2Q2RK b - - 1 23",
+    "Moves": "h8g8 g7f6 d6g3 g1g3 g8f8 g3g8 f8g8 d1g1 g8f8 g1g7",
+    "Rating": "2034",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "393",
+    "Themes": "attraction discoveredAttack kingsideAttack mate mateIn5 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/gmBOtzhZ/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZMk9g",
+    "FEN": "8/5ppk/1p5p/pPr5/P3qP2/3RP1Pn/1Q4KP/3R4 w - - 3 30",
+    "Moves": "g2h3 c5h5 h3g4 f7f5 g4h5 e4f3 h5h4 f3g4",
+    "Rating": "2010",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "6560",
+    "Themes": "endgame mate mateIn4 sacrifice veryLong",
+    "GameUrl": "https://lichess.org/XGGyGCQE#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZMmcc",
+    "FEN": "r1b4k/pp5p/n2B1n2/3Pp3/5q1N/1P4rP/P6K/R2QRB2 w - - 1 23",
+    "Moves": "d6e5 f4f2 f1g2 g3h3",
+    "Rating": "2377",
+    "RatingDeviation": "80",
+    "Popularity": "83",
+    "NbPlays": "93",
+    "Themes": "master mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/7mILBcsX#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZMw1i",
+    "FEN": "r4k2/ppp2p1p/3p1q2/2n2N2/2P3Q1/1P6/P4PPP/4R1K1 b - - 6 24",
+    "Moves": "a8e8 g4g8 f8g8 e1e8",
+    "Rating": "2048",
+    "RatingDeviation": "73",
+    "Popularity": "93",
+    "NbPlays": "4462",
+    "Themes": "attraction deflection endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/OJDLCEhq/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZMxIG",
+    "FEN": "3rkb1r/ppp2ppp/8/3BP1B1/7q/7N/PP4PR/3R1K2 b k - 2 16",
+    "Moves": "h4g3 d5c6 b7c6 d1d8",
+    "Rating": "2013",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "3301",
+    "Themes": "discoveredAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/o8y2wMBs/black#32",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  }
+]

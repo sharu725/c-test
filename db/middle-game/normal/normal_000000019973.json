@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "wIgcS",
+    "FEN": "r1b2brk/1pQ5/3p1nq1/p2Pp2p/4PppB/P4P2/1P2B1PP/2R1RNK1 b - - 2 24",
+    "Moves": "f6e4 f3e4",
+    "Rating": "1343",
+    "RatingDeviation": "75",
+    "Popularity": "77",
+    "NbPlays": "391",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/ce43ElvL/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wIgpn",
+    "FEN": "r4rk1/pp3p1p/6p1/2pPP3/2Pb1Nbq/7P/PP4Q1/R2N1R1K b - - 0 24",
+    "Moves": "d4e5 g2g4 h4g4 h3g4",
+    "Rating": "1389",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "425",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/yiQ80UkX/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wIkVS",
+    "FEN": "6r1/p1k2p1b/2p1pn1p/N2pb2P/P3P1P1/3P1P2/8/1R3R1K b - - 4 31",
+    "Moves": "g8b8 b1b8 c7b8 a5c6 b8a8 c6e5",
+    "Rating": "1337",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "1443",
+    "Themes": "attraction crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/7NibBEIV/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wIlVR",
+    "FEN": "r3qr1k/1pp3pp/n2ppn2/5p2/bpPP4/P2Q1NP1/1P1NPPBP/R3R1K1 w - - 3 14",
+    "Moves": "a3b4 a6b4 d3c3 b4c2",
+    "Rating": "1380",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2198",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/5muSsqy7#27",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Fianchetto_Attack"
+  },
+  {
+    "PuzzleId": "wInQ7",
+    "FEN": "r1q2rk1/p4Npp/np6/8/3pRR2/1Q5P/PP3PP1/6K1 b - - 0 23",
+    "Moves": "a6c5 f7h6 g8h8 b3g8 f8g8 h6f7",
+    "Rating": "1365",
+    "RatingDeviation": "87",
+    "Popularity": "84",
+    "NbPlays": "1078",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice smotheredMate",
+    "GameUrl": "https://lichess.org/cfDjXnas/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wInnW",
+    "FEN": "3r1rk1/1p2p2p/2q2Np1/p1pN1p2/2P5/4P3/PP3PPP/2KR1B1R b - - 0 17",
+    "Moves": "e7f6 d5e7 g8f7 e7c6 d8d1 c1d1",
+    "Rating": "1219",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "941",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/R73Z5cZN/black#34",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Queens_Knight_Variation"
+  },
+  {
+    "PuzzleId": "wIo49",
+    "FEN": "r2q1rk1/pb4bp/1p3pp1/3pP3/2pQnP2/N1P1B2P/PP2B1PK/3R1R2 w - - 0 18",
+    "Moves": "e2f3 f6e5 d4e4 d5e4",
+    "Rating": "1256",
+    "RatingDeviation": "82",
+    "Popularity": "85",
+    "NbPlays": "75",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/5DQEZwxW#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "wIoaU",
+    "FEN": "5r2/Pkpq2b1/1p1r3p/1P2p1p1/Q2nP3/4B3/6PP/2RR2K1 b - - 2 31",
+    "Moves": "f8a8 a4a6",
+    "Rating": "1286",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "81",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/DKPTkYVv/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "wIpSu",
+    "FEN": "r1r3k1/3bbp1B/p1n1pn1Q/1p1p2N1/1P1P1q2/P1N4P/2P2PP1/R3R1K1 b - - 4 17",
+    "Moves": "f6h7 h6h7 g8f8 h7h8",
+    "Rating": "1381",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "1564",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/kpGghkLF/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  }
+]

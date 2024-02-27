@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EXba4",
+    "FEN": "5r2/pp5k/3pbp1b/8/5N1P/PP3Q2/2rp4/K2R4 b - - 2 40",
+    "Moves": "f8c8 f3d3 h7h8 f4e6",
+    "Rating": "1471",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/IU31Ziwd/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EXc9v",
+    "FEN": "r1b1r1k1/ppp2pp1/8/5qBQ/4p2P/8/PPn1BPP1/2R2K1R b - - 3 18",
+    "Moves": "c2e3 g5e3 f5h5 e2h5",
+    "Rating": "1505",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "85",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/atMpzfUt/black#36",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Tennison_Gambit"
+  },
+  {
+    "PuzzleId": "EXdWn",
+    "FEN": "6k1/5pp1/5n1p/1b5N/2r5/3Q1P1P/2B2qP1/2R4K b - - 4 39",
+    "Moves": "f6h5 d3d8 b5e8 d8e8",
+    "Rating": "1561",
+    "RatingDeviation": "76",
+    "Popularity": "81",
+    "NbPlays": "97",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/c21nHwo0/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EXg71",
+    "FEN": "2rqn2k/4b1rp/p2p2P1/2P1pb2/3p4/1B6/PP1N2PQ/R3K2R b KQ - 0 24",
+    "Moves": "d6c5 h2h7 g7h7 h1h7",
+    "Rating": "1496",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "168",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/fXO51mPN/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EXgdS",
+    "FEN": "2kr3r/ppp5/3b4/5p2/3P2qp/1R2PNP1/P4PK1/1Q3R2 w - - 0 28",
+    "Moves": "b3b7 h4h3 g2h2 g4f3",
+    "Rating": "1450",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1070",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/14ddz5No#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EXhTD",
+    "FEN": "r1bq1rk1/p4pp1/4p2p/3p4/2P5/3B4/P1P1QPPP/R4RK1 b - - 0 14",
+    "Moves": "d5d4 e2e4 f7f5 e4a8",
+    "Rating": "1450",
+    "RatingDeviation": "74",
+    "Popularity": "78",
+    "NbPlays": "613",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/SYSCWneY/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Four_Knights_Variation"
+  },
+  {
+    "PuzzleId": "EXhwu",
+    "FEN": "2R2nk1/5pp1/1q1np2p/2Np4/rP1P4/3Q1N2/6PP/7K b - - 5 26",
+    "Moves": "a4b4 c8f8 g8f8 c5d7 f8g8 d7b6",
+    "Rating": "1537",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "7827",
+    "Themes": "advantage attraction fork long master middlegame sacrifice",
+    "GameUrl": "https://lichess.org/mkXSo0oD/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EXjeN",
+    "FEN": "r4rk1/pp3nbp/n2pq3/2pNp3/1PP5/P3Q2P/4BPP1/R4RK1 b - - 0 20",
+    "Moves": "a8c8 e2g4 e6e8 g4c8",
+    "Rating": "1556",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1193",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/ohCJHBht/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EXkeD",
+    "FEN": "rnR2qk1/3nb1p1/p3p2B/4Pr2/Pp1Pb1Q1/3B4/1P3PPP/4K2R b K - 1 18",
+    "Moves": "e4d3 g4g7",
+    "Rating": "1477",
+    "RatingDeviation": "92",
+    "Popularity": "83",
+    "NbPlays": "256",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/yVheZFTZ/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  }
+]

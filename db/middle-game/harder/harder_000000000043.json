@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "07pIs",
+    "FEN": "5r1r/pp1q1pk1/4bR1p/3pP1pQ/7P/3B2P1/PP4P1/5RK1 b - - 0 24",
+    "Moves": "e6g4 f6g6 f7g6 h5g6",
+    "Rating": "1883",
+    "RatingDeviation": "94",
+    "Popularity": "74",
+    "NbPlays": "50",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/KZQMpW3W/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "07rR1",
+    "FEN": "2kr1r2/ppp3pp/2n2n2/5b2/1q3B2/1BPp1P2/PP2N1PP/R2QR1K1 b - - 0 15",
+    "Moves": "d3e2 d1d8 f8d8 c3b4",
+    "Rating": "1984",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "1374",
+    "Themes": "advantage middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/K57zJbku/black#30",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "07rUc",
+    "FEN": "6r1/p4kP1/2p1bp2/2p1pq2/2P3RQ/2BP4/P1P3RK/5r2 w - - 7 36",
+    "Moves": "h4h6 f5g4 g2g4 e6g4",
+    "Rating": "1856",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1486",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/q6Ab9YNo#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "07rnC",
+    "FEN": "4rrk1/ppq2ppp/2np1b2/3Q4/2B2P2/1PP3RP/P5P1/R1B3K1 b - - 0 19",
+    "Moves": "f6c3 g3c3 e8e1 g1f2",
+    "Rating": "1966",
+    "RatingDeviation": "113",
+    "Popularity": "33",
+    "NbPlays": "17",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/0kKZjTKK/black#38",
+    "OpeningTags": "Montevideo_Defense Montevideo_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "07rso",
+    "FEN": "1r5k/2p3b1/1p1p2bq/p7/P1P1R3/1P3B1P/2Q2BP1/6K1 w - - 11 39",
+    "Moves": "f2e3 h6e3 e4e3 g6c2",
+    "Rating": "1945",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "158",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/qvATvqzx#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "07syz",
+    "FEN": "5rk1/p1R1bpp1/1p3n1p/3p1qn1/1P1Pp1b1/PN2P1P1/1B1QNP1P/2R3KB w - - 1 26",
+    "Moves": "c7e7 g5h3 g1f1 f5f2",
+    "Rating": "1851",
+    "RatingDeviation": "81",
+    "Popularity": "79",
+    "NbPlays": "205",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/FoNevVqn#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "07tOY",
+    "FEN": "1k1r4/p1p2ppp/1p1q1nb1/5B2/8/2P1P3/PPQ2PPb/R1B2R1K w - - 2 18",
+    "Moves": "f5g6 h7g6 f1d1 d6d1 c2d1 d8d1",
+    "Rating": "1820",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "2286",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/8etYTAgl#35",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Hartlaub-Charlick_Gambit"
+  },
+  {
+    "PuzzleId": "07ubu",
+    "FEN": "r5k1/2p2pp1/pp2n2r/3qp3/4N1Q1/P1PP4/1P3PPP/3R1RK1 w - - 0 21",
+    "Moves": "e4g5 e6g5 g4g5 h6g6 g5g6 f7g6",
+    "Rating": "1980",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "699",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/7gQVo95J#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "07xlP",
+    "FEN": "rn1qk2r/5ppp/p3pn2/1p1bN3/3P2PP/2PB1P2/2P5/R1BQK2R w KQkq - 0 16",
+    "Moves": "d3b5 a6b5 a1a8 d5a8",
+    "Rating": "1894",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "79",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/ljBs3tpt#31",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  }
+]

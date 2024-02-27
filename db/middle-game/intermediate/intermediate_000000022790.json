@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "stuyc",
+    "FEN": "1r2r1k1/ppbq1ppp/2p2pn1/2P5/PP1P4/4BB1P/3Q1PP1/3R1RK1 w - - 5 18",
+    "Moves": "f3g4 f6f5 g4f3 f5f4 d4d5 f4e3",
+    "Rating": "1596",
+    "RatingDeviation": "73",
+    "Popularity": "97",
+    "NbPlays": "4698",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/laDoUBhn#35",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Accelerated_Panov_Attack"
+  },
+  {
+    "PuzzleId": "stvK9",
+    "FEN": "5r1k/p1p3pp/2pb4/5qB1/2Q3n1/2NP3P/PPP3P1/R5K1 w - - 1 18",
+    "Moves": "c4g4 f5f2 g1h1 f2f1 a1f1 f8f1",
+    "Rating": "1428",
+    "RatingDeviation": "87",
+    "Popularity": "54",
+    "NbPlays": "59",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/isfkDU12#35",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "stvVZ",
+    "FEN": "r1b2rk1/5p2/Pq2p1pQ/3pn3/8/7R/2P2PPP/5RK1 b - - 2 26",
+    "Moves": "f7f6 h6h7",
+    "Rating": "1474",
+    "RatingDeviation": "89",
+    "Popularity": "80",
+    "NbPlays": "1121",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/DBfrYuUR/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "stwU6",
+    "FEN": "r1b1k1nr/ppp1pp1p/6p1/3P4/8/2Q5/P1P1KPPP/RNq2B1R b kq - 2 12",
+    "Moves": "g8f6 b1d2 c1a1 c3a1",
+    "Rating": "1560",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "2239",
+    "Themes": "advantage middlegame quietMove short trappedPiece",
+    "GameUrl": "https://lichess.org/t1MZPTIA/black#24",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "stx6L",
+    "FEN": "2kr4/pp2q3/1bp1bn1r/4B1p1/3P3p/2PN4/PP2Q1PP/4RR1K b - - 3 22",
+    "Moves": "h4h3 f1f6 h3g2 h1g1",
+    "Rating": "1579",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/iPGxz0iS/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "su2SQ",
+    "FEN": "5r1k/2p1qp1p/r5pB/p1b2Q2/Pp1pP2P/3P4/BPP5/R3K1R1 b Q - 0 22",
+    "Moves": "g6f5 h6g7 h8g8 g7f6",
+    "Rating": "1511",
+    "RatingDeviation": "75",
+    "Popularity": "71",
+    "NbPlays": "157",
+    "Themes": "discoveredAttack fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PAnPSO2M/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "su3fG",
+    "FEN": "1r1r4/p1Qnkppp/4pq2/1B3b2/1b1Pp3/2N5/PPP2PPP/2KR2NR w - - 5 12",
+    "Moves": "c1b1 b4c3 c7c3 b8b5 c3a3 e7e8",
+    "Rating": "1568",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "328",
+    "Themes": "capturingDefender crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/tH2sus21#23",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Zeller_Defense"
+  },
+  {
+    "PuzzleId": "su434",
+    "FEN": "r4r2/1p4k1/1n1pB1p1/p1pP4/P1P4q/1P2Q1N1/1R4PP/7K b - - 0 29",
+    "Moves": "h4g3 h2g3 f8f1 h1h2 a8h8 e6h3",
+    "Rating": "1591",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "308",
+    "Themes": "crushing hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/tlm2uAjG/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "su4Ph",
+    "FEN": "4r1k1/p2q2pp/2pB1n2/2Pp1p2/3Q4/5P2/PP2r1PP/4RRK1 w - - 5 21",
+    "Moves": "d6e5 e8e5 e1e2 e5e2",
+    "Rating": "1498",
+    "RatingDeviation": "115",
+    "Popularity": "85",
+    "NbPlays": "13",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ecSGLqEj#41",
+    "OpeningTags": ""
+  }
+]

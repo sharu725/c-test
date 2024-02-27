@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PSxHn",
+    "FEN": "1r2k1r1/5p2/p1pbp2p/3p1bqB/N2P4/4PQP1/PP3P2/2R2RK1 b - - 2 19",
+    "Moves": "f5e4 f3f7 e8d8 a4c5 d6c5 c1c5",
+    "Rating": "2503",
+    "RatingDeviation": "85",
+    "Popularity": "54",
+    "NbPlays": "42",
+    "Themes": "advantage attackingF2F7 long master middlegame",
+    "GameUrl": "https://lichess.org/TxZUCdcH/black#38",
+    "OpeningTags": "Slav_Defense Slav_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "PT3Jb",
+    "FEN": "1r3rk1/p2n1pbp/6p1/2pBp2q/Q7/2B1PP2/PP3P1P/R1R2K2 b - - 5 20",
+    "Moves": "h5h2 a4d7 e5e4 d7g4",
+    "Rating": "2717",
+    "RatingDeviation": "101",
+    "Popularity": "91",
+    "NbPlays": "248",
+    "Themes": "advantage hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/cCMvZb9g/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PTFTb",
+    "FEN": "2bb3k/6pp/p1PP4/4p3/1P3q2/1Q5P/5rB1/3R3K b - - 0 41",
+    "Moves": "c8h3 b3h3 f2g2 h1g2",
+    "Rating": "2585",
+    "RatingDeviation": "108",
+    "Popularity": "86",
+    "NbPlays": "788",
+    "Themes": "crushing hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/Q6GySL4T/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PTsA6",
+    "FEN": "2r3k1/3q2pp/1p1P1p2/2n1p3/r6B/P1P1QP2/1P4PP/1K1R1R2 w - - 0 24",
+    "Moves": "h4f2 d7f5 b1a1 f5c2 e3c5 b6c5",
+    "Rating": "2684",
+    "RatingDeviation": "85",
+    "Popularity": "92",
+    "NbPlays": "1289",
+    "Themes": "crushing long master middlegame",
+    "GameUrl": "https://lichess.org/C6yxvvSj#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PTxGM",
+    "FEN": "6r1/k1q1p3/rRb2p2/2P5/2Q1P1p1/p7/6PP/1R4K1 b - - 1 43",
+    "Moves": "a6a4 b1b5 c7b6 c5b6 a7b7 c4a4",
+    "Rating": "2774",
+    "RatingDeviation": "106",
+    "Popularity": "87",
+    "NbPlays": "805",
+    "Themes": "advantage exposedKing long master masterVsMaster middlegame quietMove",
+    "GameUrl": "https://lichess.org/u15eHoHT/black#86",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PTzkZ",
+    "FEN": "3r4/1p1b1p1k/q2r2p1/3NQ3/p5P1/8/1P3P2/2RR2K1 b - - 0 38",
+    "Moves": "d7g4 d5f6 d6f6 d1d8 a6b6 e5h2 g4h5 c1c8 f6f5 d8h8 h7g7 h2h4",
+    "Rating": "2787",
+    "RatingDeviation": "100",
+    "Popularity": "85",
+    "NbPlays": "232",
+    "Themes": "crushing deflection discoveredAttack fork master middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/papSPzRn/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PU5ZS",
+    "FEN": "5r1k/6n1/b7/3Qp3/3bP1KP/6P1/8/3B4 w - - 5 55",
+    "Moves": "d5d6 a6c8 g4g5 g7e6",
+    "Rating": "2430",
+    "RatingDeviation": "96",
+    "Popularity": "84",
+    "NbPlays": "147",
+    "Themes": "advantage endgame master short",
+    "GameUrl": "https://lichess.org/rideSfVL#109",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PU6IB",
+    "FEN": "8/8/2N2pp1/pp5p/5P1P/k5K1/6P1/8 w - - 0 35",
+    "Moves": "g3f3 a5a4 f3e3 b5b4 e3d4 b4b3",
+    "Rating": "2548",
+    "RatingDeviation": "85",
+    "Popularity": "90",
+    "NbPlays": "164",
+    "Themes": "crushing endgame knightEndgame long master quietMove",
+    "GameUrl": "https://lichess.org/G6lqmrCK#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PU6mV",
+    "FEN": "1k6/1bp2p1p/p7/1p2PQ2/2pqP3/2Nn2P1/PP4KP/3R4 w - - 6 26",
+    "Moves": "f5f7 b5b4 f7f8 b8a7 d1d3 c4d3 f8f2 d4f2 g2f2 b4c3",
+    "Rating": "2534",
+    "RatingDeviation": "80",
+    "Popularity": "85",
+    "NbPlays": "156",
+    "Themes": "crushing defensiveMove endgame master veryLong",
+    "GameUrl": "https://lichess.org/YsGvqgag#51",
+    "OpeningTags": ""
+  }
+]

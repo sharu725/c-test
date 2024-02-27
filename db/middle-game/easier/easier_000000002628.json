@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "81M6s",
+    "FEN": "3r1k1r/pp3ppp/4p3/7q/QP4n1/P1N2nP1/4BP2/R2R2K1 w - - 0 19",
+    "Moves": "e2f3 h5h2 g1f1 h2f2",
+    "Rating": "1059",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "3021",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/0FBb08cf#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "81MRe",
+    "FEN": "3rkb1r/1pp1pppp/p1n5/5b2/3P4/1BPqBN2/PP1Q1PPP/R3K2R w KQk - 3 13",
+    "Moves": "e1c1 d3b1",
+    "Rating": "1095",
+    "RatingDeviation": "81",
+    "Popularity": "93",
+    "NbPlays": "140",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/8YRwTolp#25",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "81PKY",
+    "FEN": "rn1q1rk1/pp2ppbp/3p4/6NQ/3pPB2/2N5/PPP2PP1/R3K3 b Q - 0 12",
+    "Moves": "d4c3 h5h7",
+    "Rating": "1011",
+    "RatingDeviation": "80",
+    "Popularity": "88",
+    "NbPlays": "165",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/WcWN2of5/black#24",
+    "OpeningTags": "London_System London_System_Other_variations"
+  },
+  {
+    "PuzzleId": "81PcE",
+    "FEN": "1r1q1r1k/1b1p1pp1/p3pNnQ/2p1P3/5P2/7R/PPP3B1/R1B3K1 b - - 0 19",
+    "Moves": "g7h6 h3h6 h8g7 h6h7",
+    "Rating": "1051",
+    "RatingDeviation": "75",
+    "Popularity": "58",
+    "NbPlays": "130",
+    "Themes": "hookMate kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/zJ1tyUNe/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "81QIf",
+    "FEN": "r4rk1/1p3q1p/2np2p1/p1p1p3/P3P3/2PPb1PB/1P4PP/RN1Q1RK1 w - - 1 18",
+    "Moves": "g1h1 f7f1 d1f1 f8f1",
+    "Rating": "1150",
+    "RatingDeviation": "223",
+    "Popularity": "67",
+    "NbPlays": "5",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/nhsfuEoL#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "81V6x",
+    "FEN": "2r5/pb1n2k1/1p3q1p/3p4/3P1N2/6P1/PP3PP1/1Q3RK1 b - - 2 21",
+    "Moves": "d7f8 f4h5 g7f7 h5f6",
+    "Rating": "1150",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "367",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/vzHWev3N/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "81V9o",
+    "FEN": "r2q2k1/1p4p1/p2b1p1p/3p3P/3p4/1QPB1Rn1/PP4K1/R1B1r3 b - - 2 23",
+    "Moves": "g3h5 b3d5 g8f8 d5h5",
+    "Rating": "1159",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "3969",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/4JtAvU3s/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "81VFw",
+    "FEN": "r5k1/ppp3p1/2npqn1p/8/4PBb1/P1PP2QP/2P3P1/R4RK1 b - - 0 16",
+    "Moves": "f6h5 g3g4 e6g4 h3g4 h5f4 f1f4",
+    "Rating": "1114",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "62",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/mFe0TShu/black#32",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "81WmQ",
+    "FEN": "1rb2rk1/p2n2pp/2p1pq2/3p4/5PP1/8/PPPQN2P/2KR1B1R w - - 2 16",
+    "Moves": "b2b3 f6a1",
+    "Rating": "1063",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "223",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/PCF9nDvl#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Richter-Rauzer_Variation"
+  }
+]

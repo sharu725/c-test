@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "VWbJS",
+    "FEN": "2r1r3/p5n1/2RRb1k1/4P1p1/3N4/P5P1/2P2P2/5K2 b - - 2 34",
+    "Moves": "g6f7 d4e6 g7e6 d6e6 c8c6 e6c6",
+    "Rating": "2018",
+    "RatingDeviation": "119",
+    "Popularity": "88",
+    "NbPlays": "18",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/9ExH4lJP/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VWbTY",
+    "FEN": "r2q1rk1/pb2pp1p/6pB/3n4/2B5/8/PbPQ1PPP/3R1RK1 b - - 1 14",
+    "Moves": "d5b6 d2b4 d8c7 b4b2",
+    "Rating": "2199",
+    "RatingDeviation": "79",
+    "Popularity": "79",
+    "NbPlays": "173",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/kO93TmCC/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Open"
+  },
+  {
+    "PuzzleId": "VWbto",
+    "FEN": "7r/1q1nkp2/4bp1p/p1p1p3/P6Q/1P1P1NP1/2P1PP1P/2KR2R1 w - - 1 19",
+    "Moves": "e2e4 b7b4",
+    "Rating": "2293",
+    "RatingDeviation": "157",
+    "Popularity": "-5",
+    "NbPlays": "28",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/Q8GE87k5#37",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "VWfeE",
+    "FEN": "r1b2rk1/ppp2ppp/3p3n/4q1NQ/2B1P3/8/Pb4PP/RNB2R1K w - - 2 14",
+    "Moves": "g5f7 h6f7 c4f7 g8h8 h5e5 b2e5",
+    "Rating": "2368",
+    "RatingDeviation": "78",
+    "Popularity": "70",
+    "NbPlays": "88",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/Q9NyrAZm#27",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "VWgB4",
+    "FEN": "r2qk2r/pp3ppp/2n1pn2/1B1p4/Qb1P1B2/2N2P1P/PP3PP1/R3K2R b KQkq - 3 10",
+    "Moves": "b4d6 b5c6 b7c6 a4c6 e8e7 c6b7 d8d7 f4d6",
+    "Rating": "2165",
+    "RatingDeviation": "78",
+    "Popularity": "85",
+    "NbPlays": "64",
+    "Themes": "crushing middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/6gprCx93/black#20",
+    "OpeningTags": "Slav_Defense Slav_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "VWhLx",
+    "FEN": "1r3r1k/3n1p1p/p2p2pP/2bN2B1/1n2q2N/8/1PPQ1PP1/2KR3R w - - 0 22",
+    "Moves": "d2c3 f7f6 d5b4 c5b4",
+    "Rating": "2338",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "745",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/DzdBpZ4l#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VWhgH",
+    "FEN": "r1b2rk1/1pb3pp/2p1p3/p1qpP3/4pP2/P3P1B1/1P2B1PP/2RQ1RK1 b - - 1 18",
+    "Moves": "c5e3 g3f2 e3f4 f2c5",
+    "Rating": "2058",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2974",
+    "Themes": "advantage defensiveMove master middlegame short",
+    "GameUrl": "https://lichess.org/H92sVHO6/black#36",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "VWi1b",
+    "FEN": "5rk1/6b1/3p1Pp1/3Pp1Pp/1pP4P/1Q2q3/3N4/r1KR1R2 w - - 1 31",
+    "Moves": "c1b2 e3d4 b2c2 a1a3 b3a3 b4a3",
+    "Rating": "2197",
+    "RatingDeviation": "78",
+    "Popularity": "84",
+    "NbPlays": "66",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/Ji94fKl0#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "VWjOn",
+    "FEN": "r1b2rk1/pppp1ppp/5n2/3n2B1/1bN5/2PP1N2/PP2BPPP/R3K2R b KQ - 0 12",
+    "Moves": "d5c3 a2a3 c3e2 a3b4",
+    "Rating": "2282",
+    "RatingDeviation": "79",
+    "Popularity": "78",
+    "NbPlays": "71",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/rmTl8xKQ/black#24",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SP2fE",
+    "FEN": "2rqk2r/3p2pp/p2Qpp2/3n4/4b2B/1P3N2/P1P2PPP/3R1RK1 b k - 1 18",
+    "Moves": "e4c2 d1d5 e6d5 f1e1 c2e4 d6d5 d8e7 d5e4 e7e4 e1e4",
+    "Rating": "2325",
+    "RatingDeviation": "89",
+    "Popularity": "80",
+    "NbPlays": "56",
+    "Themes": "advantage intermezzo middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/swtaf4av/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "SP2sP",
+    "FEN": "7k/pp4bp/B1p3p1/5n2/8/1QP2P2/PP1r1rPP/R5KR w - - 1 22",
+    "Moves": "a1d1 f2g2 g1f1 f5e3 f1e1 d2d1",
+    "Rating": "2001",
+    "RatingDeviation": "116",
+    "Popularity": "100",
+    "NbPlays": "14",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/WYaxzoZI#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SP3kP",
+    "FEN": "r3k2r/1b1p1pp1/n1nN1q1p/p1Q1p3/B3P3/3P4/PPP2PPP/R4RK1 b kq - 10 16",
+    "Moves": "e8d8 c5b6 d8e7 d6f5 e7f8 b6b7",
+    "Rating": "2329",
+    "RatingDeviation": "83",
+    "Popularity": "82",
+    "NbPlays": "331",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/5WdE3niy/black#32",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "SP6az",
+    "FEN": "5rk1/p1q1b2p/1nnr2pQ/1p2N1P1/3pP3/P6B/1PpB1PK1/R6R b - - 0 28",
+    "Moves": "c6e5 h3e6 f8f7 h6h7 g8f8 h7h8",
+    "Rating": "2015",
+    "RatingDeviation": "82",
+    "Popularity": "88",
+    "NbPlays": "57",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame pin",
+    "GameUrl": "https://lichess.org/JKVEhqCh/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SP7NA",
+    "FEN": "2r3k1/1p1n1pp1/p3p2p/2qn4/P3b3/1N3NP1/1P1QPPBP/3R2K1 b - - 1 24",
+    "Moves": "c5c2 d1c1 c2c1 b3c1",
+    "Rating": "2077",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1691",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/clccMMpW/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SP7P5",
+    "FEN": "r6r/pp1nQ2p/3p2pk/q7/5P2/5R2/PpP3PP/R1B3K1 b - - 2 17",
+    "Moves": "b2a1q f3h3 a5h5 h3h5 g6h5 e7g5",
+    "Rating": "2097",
+    "RatingDeviation": "81",
+    "Popularity": "68",
+    "NbPlays": "89",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/y6y6k7QV/black#34",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Austrian_Attack"
+  },
+  {
+    "PuzzleId": "SP7Za",
+    "FEN": "r3k2r/pp4pp/2n2q2/2b2b2/3Np3/P7/1BP2PPP/RN1Q1RK1 w kq - 0 13",
+    "Moves": "d1h5 g7g6 d4f5 f6b2 f5g7 b2g7 h5c5 g7a1 b1c3 a1b2",
+    "Rating": "2272",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2573",
+    "Themes": "crushing defensiveMove middlegame veryLong",
+    "GameUrl": "https://lichess.org/DIL2Z6Fw#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Mengarini_Variation"
+  },
+  {
+    "PuzzleId": "SP96A",
+    "FEN": "2r3k1/ppP3pp/3q2n1/3P4/5Pn1/2Q4P/P5P1/2R2RK1 b - - 0 25",
+    "Moves": "g6f4 f1f4 d6f4 h3g4",
+    "Rating": "2002",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "241",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/id8B6Oe7/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SP9dB",
+    "FEN": "r2q1rk1/pp3ppp/4p3/2p5/2NnQP2/8/PPP2PPP/2KR3R w - - 0 15",
+    "Moves": "e4b7 d4e2 c1b1 e2c3 b2c3 a8b8",
+    "Rating": "2349",
+    "RatingDeviation": "87",
+    "Popularity": "89",
+    "NbPlays": "769",
+    "Themes": "advantage long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/AGKeE1xJ#29",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  }
+]

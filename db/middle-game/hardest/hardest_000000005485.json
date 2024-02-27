@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BKsRP",
+    "FEN": "r3r1k1/pp3ppp/2nqpn2/3p4/3P4/2PQ1N2/PP1N1PPP/R3R1K1 b - - 4 13",
+    "Moves": "e6e5 d4e5 e8e5 f3e5",
+    "Rating": "2206",
+    "RatingDeviation": "151",
+    "Popularity": "83",
+    "NbPlays": "8",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/uRZOrsv0/black#26",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "BKtFD",
+    "FEN": "7k/6p1/5r1p/3qB3/2pP2QP/r1n1R1P1/5P2/5NK1 b - - 1 44",
+    "Moves": "f6f7 g4g6 a3a8 e3c3",
+    "Rating": "2274",
+    "RatingDeviation": "89",
+    "Popularity": "75",
+    "NbPlays": "54",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/RhWlwoq9/black#88",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BKxDi",
+    "FEN": "2k3nr/ppp3pp/3p1p2/nB1Pr3/1P2P3/2P3N1/P4R2/R2K4 b - - 0 20",
+    "Moves": "e5g5 g3f5 a5c6 d5c6",
+    "Rating": "2156",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "188",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/g87Af0DP/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BKxYW",
+    "FEN": "rnbr2k1/5Rpp/p7/1pb1p3/3NP1n1/P1N5/BPP3PP/R1B3K1 b - - 0 15",
+    "Moves": "d8d4 f7c7 d4c4 c7c5",
+    "Rating": "2065",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "1122",
+    "Themes": "crushing discoveredAttack fork middlegame pin short",
+    "GameUrl": "https://lichess.org/FHSi1X12/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "BKy3f",
+    "FEN": "3q2k1/r4r1p/4Rnp1/p1pP4/PpPp4/1B5P/4Q1P1/5R1K b - - 3 27",
+    "Moves": "f6h5 e6e8 g8g7 e2e5 d8f6 f1f6",
+    "Rating": "2220",
+    "RatingDeviation": "80",
+    "Popularity": "83",
+    "NbPlays": "59",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/wCAc73YW/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BKy9v",
+    "FEN": "r5k1/p1pp1ppp/1p5B/3nb3/6Q1/N1P2P2/PP2qPKP/R7 b - - 6 19",
+    "Moves": "d5e3 h6e3 e2b2 g4e4",
+    "Rating": "2226",
+    "RatingDeviation": "76",
+    "Popularity": "81",
+    "NbPlays": "100",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/TgnQcTJj/black#38",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "BKyfm",
+    "FEN": "rnb3q1/pp2pk2/4pbpB/3p4/6Q1/3B1N2/PpP2PP1/1K1R4 b - - 1 17",
+    "Moves": "e6e5 d3g6 g8g6 g4c8 g6h6 c8b7",
+    "Rating": "2300",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "160",
+    "Themes": "crushing deflection long master middlegame",
+    "GameUrl": "https://lichess.org/YN0uAtRC/black#34",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Spielmann_Gambit"
+  },
+  {
+    "PuzzleId": "BL0Uz",
+    "FEN": "rn2k3/6bR/b1p1p1P1/3pPp2/3q1P2/3B2Q1/2PK4/1N6 b q - 5 31",
+    "Moves": "e8f8 g3h4 b8d7 h7g7 d4f4 h4f4",
+    "Rating": "2326",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "162",
+    "Themes": "crushing long middlegame quietMove",
+    "GameUrl": "https://lichess.org/gPnpYxM0/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BL3Y9",
+    "FEN": "3r1rk1/b1p2ppp/p1n1bn2/4p3/1PN1P3/PB1q1N2/1BQ2PPP/R4RK1 w - - 3 16",
+    "Moves": "f3e5 c6e5 c4e5 d3b3 c2b3 e6b3",
+    "Rating": "2021",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "2504",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/dDIU404p#31",
+    "OpeningTags": "Mieses_Opening Mieses_Opening_Reversed_Rat"
+  }
+]

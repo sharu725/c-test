@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BgRQ9",
+    "FEN": "3rr1k1/ppp2ppp/q4n2/8/8/2Q5/PP3PPP/R1B2RK1 w - - 1 17",
+    "Moves": "c3c7 a6f1 g1f1 d8d1",
+    "Rating": "1154",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "3211",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/cWQODgU2#33",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Icelandic-Palme_Gambit"
+  },
+  {
+    "PuzzleId": "BgRpo",
+    "FEN": "r1b2rk1/1p1p1ppp/p1p5/6q1/1PP1P1n1/2N3P1/1P2NKBP/R2Q3R w - - 1 15",
+    "Moves": "f2g1 g5e3 g1f1 e3f2",
+    "Rating": "1090",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "420",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/967IPjy3#29",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "BgS1L",
+    "FEN": "r3r1k1/1ppnq1np/p2p2p1/P2P4/1PPN2b1/6P1/4NPBP/R2QK2R w KQ - 5 23",
+    "Moves": "e1g1 g4e2 d4e2 e7e2",
+    "Rating": "1139",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "435",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/v3W9SCEo#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BgTqj",
+    "FEN": "r3kn1r/p2bqppp/2R1p3/1B2P3/Q4P2/4PR2/PP4PP/6K1 b kq - 2 19",
+    "Moves": "d7c6 b5c6 f8d7 c6a8",
+    "Rating": "1151",
+    "RatingDeviation": "84",
+    "Popularity": "91",
+    "NbPlays": "31",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Y13hkpIO/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BgU9G",
+    "FEN": "2r3k1/p4ppp/2pb4/3p4/Q3b3/2P2P1P/PP3qPN/R1B4K w - - 3 22",
+    "Moves": "f3e4 f2e1 h2f1 e1f1",
+    "Rating": "1084",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "337",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/eclC0fea#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BgVS4",
+    "FEN": "r5k1/ppq3pp/2nb4/2pp1br1/4n2N/2P1P2P/PP1N1PP1/R1BQRBK1 w - - 7 16",
+    "Moves": "h4f5 d6h2 g1h1 e4f2",
+    "Rating": "1197",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "705",
+    "Themes": "deflection kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/6HHjErdb#31",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Soller_Gambit"
+  },
+  {
+    "PuzzleId": "BgW8I",
+    "FEN": "r2q1r2/1p4kp/2n3p1/pNN1pb2/P2p3P/3R2Q1/1PP2PP1/1K5R b - - 0 22",
+    "Moves": "f5d3 c5e6 g7h8 e6d8",
+    "Rating": "1098",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "3225",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/NFYq7SjG/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BgX9H",
+    "FEN": "r3kb1r/pp3ppp/1q2p3/3pP3/3n1P2/2P5/PP2B2P/1NBQ1RK1 w kq - 0 15",
+    "Moves": "d1d4 f8c5 d4c5 b6c5",
+    "Rating": "1080",
+    "RatingDeviation": "82",
+    "Popularity": "93",
+    "NbPlays": "140",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/ZLNhfvzu#29",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "BgXLB",
+    "FEN": "r2qr1k1/p3B1pp/1bp2p2/3p4/P7/1NP5/1P3PPP/RN1bR1K1 w - - 0 17",
+    "Moves": "e7d8 e8e1",
+    "Rating": "1060",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "474",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/iJ2p40iD#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  }
+]

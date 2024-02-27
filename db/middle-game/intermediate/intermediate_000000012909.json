@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "V1Oak",
+    "FEN": "r1b1rk2/1pp2Rpp/1p1p4/3B4/1P1qP3/P2P2Q1/2P3PP/7K b - - 0 20",
+    "Moves": "f8g8 f7g7 g8h8 g7g8 e8g8 g3g8",
+    "Rating": "1544",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "7265",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/AnoTJSwY/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "V1Q8C",
+    "FEN": "4rrk1/1Q4p1/2pp4/8/5p1p/P1PP1Pq1/1P2B1P1/4RRK1 w - - 1 27",
+    "Moves": "b7c6 h4h3 f1f2 h3h2 g1h1 g3f2 e1f1 f2e2",
+    "Rating": "1594",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "17792",
+    "Themes": "advancedPawn crushing deflection middlegame veryLong",
+    "GameUrl": "https://lichess.org/cxf3UAkD#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "V1Qv4",
+    "FEN": "r5rk/1p4pp/2p2p2/p2pq2P/1bP5/1P1BP3/3R1PQ1/1K5R b - - 3 27",
+    "Moves": "b4d2 g2g6 f6f5 d3f5 e5f5 g6f5",
+    "Rating": "1434",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality long middlegame",
+    "GameUrl": "https://lichess.org/AHlCWKB6/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "V1Qxm",
+    "FEN": "r4r1k/ppp1q1pp/2n5/4p1N1/5p1P/bP1QP3/1B1P1PP1/2KR3R b - - 1 18",
+    "Moves": "a8d8 d3h7",
+    "Rating": "1436",
+    "RatingDeviation": "249",
+    "Popularity": "38",
+    "NbPlays": "15",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Kdj8Cwdk/black#36",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "V1S0R",
+    "FEN": "b1Q5/5qpk/p4p2/rp6/1b1BpR2/4P2P/6P1/7K b - - 9 42",
+    "Moves": "g7g5 f4f6 f7f6 d4f6",
+    "Rating": "1465",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "1444",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/Cy3IOATe/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "V1SLw",
+    "FEN": "r1b2rk1/pp1p1ppp/2p2n2/4pQB1/2BbP3/8/P1q1NPPP/2R2RK1 b - - 1 13",
+    "Moves": "c2e2 c4e2 d7d5 f5f3",
+    "Rating": "1590",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1177",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/N7mlTPhj/black#26",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Piano"
+  },
+  {
+    "PuzzleId": "V1Tyq",
+    "FEN": "r5k1/5r1n/p1pp1p2/2p3bQ/5PR1/1P2q3/1PP3PP/3N1R1K b - - 4 22",
+    "Moves": "e3e2 g4g5 f6g5 h5e2",
+    "Rating": "1579",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "40",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/o3dOkWb2/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "V1U3H",
+    "FEN": "1rb2rk1/ppq2pp1/1b1p1n1p/1P2p3/2P5/2NPPQP1/5PBP/R1B2RK1 w - - 1 15",
+    "Moves": "c1a3 c8g4 c3d5 g4f3 d5c7 f3g2",
+    "Rating": "1532",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "6986",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/dprJREbF#29",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "V1VFu",
+    "FEN": "4r1k1/pQpq1pp1/3pbb1p/8/8/B2B2P1/P4P1P/4R1K1 b - - 2 24",
+    "Moves": "e6d5 e1e8 d7e8 b7d5",
+    "Rating": "1453",
+    "RatingDeviation": "75",
+    "Popularity": "70",
+    "NbPlays": "834",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/tF9Nx6fQ/black#48",
+    "OpeningTags": ""
+  }
+]

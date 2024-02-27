@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CG7hM",
+    "FEN": "2r3r1/1p3Npk/p5RB/3p1p2/1bnP4/7P/1P6/1K4R1 b - - 0 32",
+    "Moves": "c8c6 g6g7 g8g7 g1g7",
+    "Rating": "1377",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "10890",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/NB0vM9DK/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CG8yz",
+    "FEN": "rr4k1/5p1P/4p1p1/p2p1b2/R1pP4/2P2PQ1/3b4/2n2K1R b - - 0 35",
+    "Moves": "g8h8 g3e5 f7f6 e5f6",
+    "Rating": "1323",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "2117",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/senwO1YT/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CG9qN",
+    "FEN": "3r1k1r/2p3pp/2Bq1p2/2b5/Q5n1/B4N2/P4PPP/4RK1R w - - 2 25",
+    "Moves": "e1d1 d6d1",
+    "Rating": "1267",
+    "RatingDeviation": "83",
+    "Popularity": "83",
+    "NbPlays": "65",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/mlBuReOM#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CGAUM",
+    "FEN": "rn2k2r/pp3ppp/2p1pnN1/8/2PP2P1/2qB3P/P4P2/R1BQK2R w KQkq - 0 13",
+    "Moves": "c1d2 c3d3 g6h8 d3e4 d1e2 e4h1",
+    "Rating": "1363",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "176",
+    "Themes": "crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/G71EJ50I#25",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "CGC8G",
+    "FEN": "2rq1rk1/4Qppp/5n2/p7/8/1BbP3P/P1PNRPP1/5RK1 b - - 5 19",
+    "Moves": "c3d2 e7d8 f8d8 e2d2 a5a4 b3a4",
+    "Rating": "1392",
+    "RatingDeviation": "76",
+    "Popularity": "76",
+    "NbPlays": "276",
+    "Themes": "advantage intermezzo long middlegame",
+    "GameUrl": "https://lichess.org/KbGLV8o4/black#38",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CGGbm",
+    "FEN": "r1b1r1k1/pp3ppp/3R4/2p5/1n2BB2/5PP1/PPP4P/2K1R3 b - - 3 16",
+    "Moves": "f7f5 e4d5 b4d5 e1e8",
+    "Rating": "1253",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "349",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/NJ4QHtWS/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Hubsch_Gambit"
+  },
+  {
+    "PuzzleId": "CGHDU",
+    "FEN": "rn2k2r/pbp2ppp/1p2p3/2q1P3/4pP2/P1B5/1PP1Q1PP/2KR2NR b kq - 0 12",
+    "Moves": "e8g8 c3b4 c5c6 b4f8",
+    "Rating": "1226",
+    "RatingDeviation": "90",
+    "Popularity": "77",
+    "NbPlays": "41",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/rMs5bEqK/black#24",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CGISQ",
+    "FEN": "r3k2r/1pp2ppp/3b2n1/3p2NQ/3P3P/1PP1P1P1/1BKR1q2/7R b kq - 1 22",
+    "Moves": "f2e3 d2e2 e3e2 h5e2",
+    "Rating": "1262",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1454",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/Q32zufSS/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CGLDL",
+    "FEN": "r3k1nr/pp1n1ppp/4p3/2ppP3/q1PP4/BRPQ1N2/P4PPP/4K2R w Kkq - 6 13",
+    "Moves": "c4d5 c5c4 d3b1 c4b3",
+    "Rating": "1289",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "2390",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Mxeh1KrY#25",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  }
+]

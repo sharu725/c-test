@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HJauA",
+    "FEN": "4Q3/8/4p1pk/4P2p/4qP1P/6P1/6K1/8 w - - 11 54",
+    "Moves": "g2h3 e4h1",
+    "Rating": "1313",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "852",
+    "Themes": "endgame mate mateIn1 oneMove queenEndgame",
+    "GameUrl": "https://lichess.org/nlG8pDTg#107",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HJbYW",
+    "FEN": "3rr1k1/pp3p1p/2p2P1Q/5b2/5P2/2N1q3/PPP3BP/K4n2 b - - 1 30",
+    "Moves": "e3g1 h6g7",
+    "Rating": "1345",
+    "RatingDeviation": "200",
+    "Popularity": "54",
+    "NbPlays": "16",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/IRatP7Oa/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HJdF6",
+    "FEN": "r2qkb1r/pp2pppp/2np1n2/2p1N3/2B1P1b1/P1N5/1PPP1PPP/R1BQK2R b KQkq - 4 6",
+    "Moves": "g4d1 c4f7",
+    "Rating": "1343",
+    "RatingDeviation": "87",
+    "Popularity": "44",
+    "NbPlays": "95",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/6DkolSFx/black#12",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HJjfP",
+    "FEN": "3Q1b1r/1p3pkp/3pp1p1/8/4n3/2P1PN2/Pq3PPP/3RKB1R w K - 6 16",
+    "Moves": "f1d3 b2f2",
+    "Rating": "1337",
+    "RatingDeviation": "76",
+    "Popularity": "79",
+    "NbPlays": "169",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/sDTKXZZA#31",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  },
+  {
+    "PuzzleId": "HJllG",
+    "FEN": "5rk1/4R2R/5pp1/p2r4/2p2PP1/3b2K1/P7/8 b - - 3 36",
+    "Moves": "g6g5 e7g7",
+    "Rating": "1262",
+    "RatingDeviation": "199",
+    "Popularity": "69",
+    "NbPlays": "13",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/TIV5nLMR/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HJmnY",
+    "FEN": "2rq4/k7/8/pp1B4/1K1PP3/1P6/PB2Q3/2R2R2 w - - 0 36",
+    "Moves": "b4b5 d8b6 b5a4 b6b4",
+    "Rating": "1276",
+    "RatingDeviation": "76",
+    "Popularity": "62",
+    "NbPlays": "401",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/D0o8h28s#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HJoiI",
+    "FEN": "3R1bk1/r3rpp1/7p/p1p3NQ/8/5R1P/5PPK/1q6 b - - 3 32",
+    "Moves": "h6g5 d8f8 g8f8 h5h8",
+    "Rating": "1275",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "4600",
+    "Themes": "attraction mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/bNEaIigi/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HJp0m",
+    "FEN": "r3r1k1/1p2qp1p/p5P1/8/1nBpP3/6RP/PPPB4/2K3R1 b - - 0 23",
+    "Moves": "h7g6 g3g6 g8h8 g6h6",
+    "Rating": "1384",
+    "RatingDeviation": "89",
+    "Popularity": "65",
+    "NbPlays": "30",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/PQdYXswM/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HJqj1",
+    "FEN": "r3kbQ1/p7/2pp2p1/1p2ppqp/1P2Pnb1/2PP3P/P2N1PP1/R1B2RK1 w q - 0 16",
+    "Moves": "h3g4 f4e2 g1h1 g5h4",
+    "Rating": "1272",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "3374",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/xClWb9AS#31",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "uLsSZ",
+    "FEN": "r1b1r1k1/pp2qpp1/2p4p/3p4/3Pn3/3QPP2/PP1N2PP/1BR1R1K1 b - - 0 18",
+    "Moves": "e4d2 d3h7 g8f8 h7h8",
+    "Rating": "1256",
+    "RatingDeviation": "113",
+    "Popularity": "78",
+    "NbPlays": "83",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PE4ncGh9/black#36",
+    "OpeningTags": "Indian_Defense Indian_Defense_Anti-Nimzo-Indian"
+  },
+  {
+    "PuzzleId": "uLsZd",
+    "FEN": "r3k2r/ppqn1pp1/2p2np1/3p4/8/1PNP4/P1P1BPP1/R1BQ1RbK w kq - 2 14",
+    "Moves": "h1g1 c7h2",
+    "Rating": "1293",
+    "RatingDeviation": "197",
+    "Popularity": "81",
+    "NbPlays": "62",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ahmYRO7r#27",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation"
+  },
+  {
+    "PuzzleId": "uLuXd",
+    "FEN": "1k1r3r/pp2n1bp/3p1pp1/4P3/NPq2R2/2P3PP/P2Q2B1/1R4K1 b - - 0 21",
+    "Moves": "d6e5 d2d8 h8d8 f4c4",
+    "Rating": "1300",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "3446",
+    "Themes": "advantage middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/X89uKll4/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLumE",
+    "FEN": "3rr1k1/pp3pp1/8/4q2p/5n1P/1N1n1RN1/PP1Q2PK/1R6 b - - 0 31",
+    "Moves": "f4g6 f3d3 d8d3 d2d3",
+    "Rating": "1366",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "650",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Mt4IVaPb/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLv9Y",
+    "FEN": "1rb3k1/3p2pp/p4q2/2bpp3/3N2Q1/2P5/PP3PPP/1R3RK1 w - - 0 18",
+    "Moves": "d4f5 d7d6 g4g7 f6g7 f5g7 g8g7",
+    "Rating": "1397",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1860",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/11lbdKK1#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "uLvC7",
+    "FEN": "r1bq1rk1/1p1n2bp/p2p4/4pp2/8/NP2BP2/1PPQN1PP/R3K2R w KQ - 0 16",
+    "Moves": "e3h6 d8h4 g2g3 h4h6 d2h6 g7h6",
+    "Rating": "1286",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "1032",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/aeOV0HM4#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "uLvCG",
+    "FEN": "7r/pp1q1k2/5b2/3p1p2/3N4/1Pn1B3/P5Q1/2K3R1 b - - 1 31",
+    "Moves": "d7c8 g2g6 f7e7 d4f5",
+    "Rating": "1329",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "566",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/n0CQpcyj/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLwwP",
+    "FEN": "br4k1/4qppp/1r2p3/p1p5/8/P1N1P1QP/1PB2PP1/1R3K2 b - - 6 24",
+    "Moves": "b6b2 g3b8 b2b8 b1b8",
+    "Rating": "1385",
+    "RatingDeviation": "85",
+    "Popularity": "60",
+    "NbPlays": "71",
+    "Themes": "crushing middlegame short xRayAttack",
+    "GameUrl": "https://lichess.org/KRl5I0mK/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uLxHd",
+    "FEN": "r1bq1r1k/1p5p/p2p1bp1/3Pp3/8/2P3Q1/P1BB1PPP/1R3RK1 w - - 0 22",
+    "Moves": "f1e1 f6h4 g3e3 h4f2 e3f2 f8f2",
+    "Rating": "1295",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "319",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/Eyr8FMr7#43",
+    "OpeningTags": ""
+  }
+]

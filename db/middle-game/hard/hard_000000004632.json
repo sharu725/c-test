@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "C4Umn",
+    "FEN": "r2q1rk1/p3b2p/1pn1p2Q/3pP3/3P4/1pP2N1P/PP4PK/R4R2 b - - 0 18",
+    "Moves": "b3a2 h6e6 g8h8 e6c6",
+    "Rating": "1664",
+    "RatingDeviation": "80",
+    "Popularity": "63",
+    "NbPlays": "59",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/wsCU7mVC/black#36",
+    "OpeningTags": "French_Defense French_Defense_La_Bourdonnais_Variation"
+  },
+  {
+    "PuzzleId": "C4VlF",
+    "FEN": "2bq1rk1/5pp1/1p2p2p/1Nb2n2/2Q5/4PN2/3B1PPP/5RK1 b - - 0 18",
+    "Moves": "f5h4 c4h4 d8h4 f3h4 g7g5 h4f3",
+    "Rating": "1796",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1325",
+    "Themes": "advantage hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/j5GTgeht/black#36",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Krause_Variation"
+  },
+  {
+    "PuzzleId": "C4WYV",
+    "FEN": "2r2rk1/3b1pp1/2np1q1p/1B2pN2/4P3/8/1P2QPPP/2RR2K1 w - - 3 21",
+    "Moves": "d1d6 c6d4 c1c8 d4e2",
+    "Rating": "1698",
+    "RatingDeviation": "75",
+    "Popularity": "77",
+    "NbPlays": "170",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/aa13MrtU#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C4X4y",
+    "FEN": "2b2r1k/p4pb1/8/3NP2p/7P/3BB3/qrP3Q1/2K4R b - - 2 24",
+    "Moves": "c8g4 g2e4 a2a1 c1d2 b2c2 d3c2",
+    "Rating": "1746",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "573",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/kIrNzt6R/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C4XaM",
+    "FEN": "2kr2r1/pp3p1p/8/8/3Bn1b1/5N2/PP2N1PP/nK3B1R b - - 6 18",
+    "Moves": "a1b3 a2b3 g4f3 g2f3",
+    "Rating": "1645",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "1",
+    "Themes": "equality hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/T2QdvqFw/black#36",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C4cov",
+    "FEN": "r3kb1r/pp3ppp/2n1pn2/1B1p2B1/3q2b1/2N3Q1/PPP2PPP/R3K1NR w KQkq - 0 10",
+    "Moves": "g5f6 g7f6 g1f3 g4f3",
+    "Rating": "1712",
+    "RatingDeviation": "77",
+    "Popularity": "71",
+    "NbPlays": "230",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/WzTB1sCQ#19",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+  },
+  {
+    "PuzzleId": "C4dVD",
+    "FEN": "2r1rnk1/1b2q1pp/2p1pp2/N2n4/3P4/pP1BP3/1BQ2PPP/2R2RK1 w - - 0 22",
+    "Moves": "a5b7 a3b2 c2b2 e7b7",
+    "Rating": "1733",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "108",
+    "Themes": "advancedPawn advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/lKHasZuP#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C4dg1",
+    "FEN": "2kr3r/ppp1qp2/2p2n2/2P3B1/3PP3/P1P3p1/Q6P/4RRK1 b - - 0 22",
+    "Moves": "g3h2 g1h1 d8g8 a2g2 e7d7 f1f6 h8h5 f6f5",
+    "Rating": "1668",
+    "RatingDeviation": "354",
+    "Popularity": "100",
+    "NbPlays": "4",
+    "Themes": "defensiveMove equality middlegame veryLong",
+    "GameUrl": "https://lichess.org/6ZLLQHXY/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C4hId",
+    "FEN": "r1bk3r/p1p2pp1/1p6/1BBPq2p/6n1/2N3P1/2P2P1P/3QR1K1 b - - 3 17",
+    "Moves": "e5c3 c5e7",
+    "Rating": "1761",
+    "RatingDeviation": "116",
+    "Popularity": "58",
+    "NbPlays": "88",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/OT0NCCl8/black#34",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  }
+]

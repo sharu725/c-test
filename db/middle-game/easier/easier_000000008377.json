@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PPHAH",
+    "FEN": "rnb2q1r/p2n2k1/1bp1p2p/1p1pP1BB/1P6/P1N2N1P/2PQ1PP1/R4RK1 b - - 0 17",
+    "Moves": "h6g5 d2g5 g7h7 g5g6",
+    "Rating": "1101",
+    "RatingDeviation": "78",
+    "Popularity": "80",
+    "NbPlays": "222",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/K1RbYrac/black#34",
+    "OpeningTags": "French_Defense French_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "PPIwE",
+    "FEN": "rn3rk1/1bpq1pb1/p3p1p1/1p1p2N1/3P1B1Q/1B4P1/PPP2P2/R4RK1 b - - 1 16",
+    "Moves": "f7f6 h4h7",
+    "Rating": "1071",
+    "RatingDeviation": "214",
+    "Popularity": "67",
+    "NbPlays": "14",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/3aolowBq/black#32",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "PPKW2",
+    "FEN": "4r1k1/1q2r2p/p4Rp1/1p1b2P1/4pQ1P/PP6/6B1/5RK1 b - - 2 36",
+    "Moves": "a6a5 f6f8 e8f8 f4f8",
+    "Rating": "1112",
+    "RatingDeviation": "87",
+    "Popularity": "87",
+    "NbPlays": "38",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/nm8CYllY/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PPKjI",
+    "FEN": "r5r1/b4Q1k/p2p1p1p/1p1P4/1P2P2q/P5P1/5PKP/4RR2 b - - 0 27",
+    "Moves": "g8g7 f7g7 h7g7 g3h4",
+    "Rating": "1191",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "5984",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/0p2zTTDf/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PPLKb",
+    "FEN": "rn1q3r/ppb2k2/2p2p2/3p2p1/3P4/P1N2P2/1PPQ2PP/2KR1B1R w - - 0 18",
+    "Moves": "g2g4 c7f4 d2f4 g5f4",
+    "Rating": "1102",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "258",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/gI9FA7sd#35",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "PPLrB",
+    "FEN": "r1b2rk1/ppq1bp2/4pR2/8/7Q/1NNBn3/PPP3PP/7K b - - 0 18",
+    "Moves": "e7f6 h4h7",
+    "Rating": "1138",
+    "RatingDeviation": "98",
+    "Popularity": "74",
+    "NbPlays": "87",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/8Jh0EF6b/black#36",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_von_Popiel_Gambit"
+  },
+  {
+    "PuzzleId": "PPMJu",
+    "FEN": "r2qr1k1/1pp2pp1/2p2n1p/p3P3/2Q3bB/8/PPPN1PPP/R4RK1 b - - 0 14",
+    "Moves": "e8e5 h4f6 d8f6 c4g4",
+    "Rating": "1123",
+    "RatingDeviation": "124",
+    "Popularity": "71",
+    "NbPlays": "28",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/eN2Gubix/black#28",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "PPNrh",
+    "FEN": "6k1/2Q1nppp/p3p3/B1P2b2/3qP3/P4N2/1r3PPP/R3R1K1 w - - 0 22",
+    "Moves": "c7e7 d4f2 g1h1 f2g2",
+    "Rating": "1018",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "574",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/hgLVObnm#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PPO9y",
+    "FEN": "r3r3/ppp2kpp/5p2/3N4/8/1PbP1P2/1PP2PbP/R1B1K1R1 w Q - 1 19",
+    "Moves": "e1d1 g2f3",
+    "Rating": "1122",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "623",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/PMJrEVwK#37",
+    "OpeningTags": "Russian_Game Russian_Game_Italian_Variation"
+  }
+]

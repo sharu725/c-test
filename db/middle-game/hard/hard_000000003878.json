@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "A7DWq",
+    "FEN": "2k4r/1p1rb1p1/pQp1p3/P2pP3/6p1/8/4KBP1/1RR4q b - - 5 31",
+    "Moves": "h1g2 c1c6 c8b8 b6a7",
+    "Rating": "1664",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1225",
+    "Themes": "mate mateIn2 middlegame pin queensideAttack short",
+    "GameUrl": "https://lichess.org/SPqHKyQm/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "A7Ek7",
+    "FEN": "r4rk1/p3bpp1/2pq3p/3p4/6n1/1P2N2R/PBPP1Pp1/R3Q1K1 b - - 4 18",
+    "Moves": "d6e6 e3g4 e6g4 h3g3 g4g3 f2g3",
+    "Rating": "1681",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1582",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/oOeT0mWQ/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+  },
+  {
+    "PuzzleId": "A7FNn",
+    "FEN": "2br1bk1/1p3pp1/rq6/2ppP1BQ/p4P2/P1P3R1/1P4PP/5RK1 b - - 2 25",
+    "Moves": "d8e8 g5f6 c5c4 g1h1 b6f6 e5f6",
+    "Rating": "1741",
+    "RatingDeviation": "81",
+    "Popularity": "84",
+    "NbPlays": "455",
+    "Themes": "advantage defensiveMove long middlegame pin",
+    "GameUrl": "https://lichess.org/3ghrtKdc/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "A7Fp8",
+    "FEN": "r4rk1/1b2bppp/p1p1p3/q2nP3/2B5/2N1BQ2/PPP3PP/3R1RK1 w - - 3 15",
+    "Moves": "e3d2 a5c5 g1h1 c5c4",
+    "Rating": "1714",
+    "RatingDeviation": "77",
+    "Popularity": "83",
+    "NbPlays": "320",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/uVS1mjNN#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Sozin_Attack"
+  },
+  {
+    "PuzzleId": "A7G6c",
+    "FEN": "2r1r1k1/p4pp1/1p5p/3p3P/P4P2/2qn2P1/2B3K1/2RQR3 w - - 2 30",
+    "Moves": "d1d3 e8e1 d3c3 c8c3",
+    "Rating": "1793",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1175",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/Emav5TCk#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "A7GU9",
+    "FEN": "r5k1/1pp1qppp/7r/1nPR4/1PN1p3/pQ2P2P/R1B2nP1/1N4K1 w - - 0 27",
+    "Moves": "b1a3 f2h3 g1f1 e7f6",
+    "Rating": "1651",
+    "RatingDeviation": "79",
+    "Popularity": "64",
+    "NbPlays": "56",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/73UC5A9v#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "A7HQ1",
+    "FEN": "r1b1q2r/1pp3k1/3p1npp/p7/1nQpPB2/P7/1PPN1PPP/R3K1NR b KQ - 0 14",
+    "Moves": "c8e6 c4c7 e6f7 a3b4",
+    "Rating": "1779",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1163",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/RuLGeGPJ/black#28",
+    "OpeningTags": "Center_Game Center_Game_von_der_Lasa_Gambit"
+  },
+  {
+    "PuzzleId": "A7Joq",
+    "FEN": "r4rk1/ppp1qppp/2b1pn2/6Q1/3P4/6N1/PPP2PPP/2KR1B1R b - - 4 13",
+    "Moves": "c6d5 g3h5 f6h5 g5e7",
+    "Rating": "1627",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "4808",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/U5IS7Rk3/black#26",
+    "OpeningTags": "French_Defense French_Defense_Rubinstein_Variation"
+  },
+  {
+    "PuzzleId": "A7L9G",
+    "FEN": "r3k2r/1bqpnp1p/p3p1p1/1p6/1Pp1PP2/P1P5/2P1B1PP/R1BQ1R1K b kq - 0 15",
+    "Moves": "b7e4 d1d4 e4g2 h1g2",
+    "Rating": "1679",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1105",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/GtOzvOMo/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  }
+]

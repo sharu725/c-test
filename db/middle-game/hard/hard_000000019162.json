@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "njase",
+    "FEN": "2r3k1/6pp/2q1pp2/p2b4/1b6/3B1PBP/1P2Q1P1/3R3K b - - 0 28",
+    "Moves": "d5c4 d1c1 c4d3 c1c6 d3e2 c6c8",
+    "Rating": "1750",
+    "RatingDeviation": "80",
+    "Popularity": "82",
+    "NbPlays": "38",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/RVqjL3BJ/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "njbzy",
+    "FEN": "r3r1k1/pp3pp1/5n1p/2np4/3N2q1/2P5/PPQN1PPP/R3R1K1 b - - 3 16",
+    "Moves": "c5e4 f2f3 g4g6 f3e4",
+    "Rating": "1623",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1197",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/ApGVv7Q9/black#32",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "njd70",
+    "FEN": "r4rk1/pQ4pp/2p1p3/2Pp1p2/P3q3/B6P/4NRP1/6K1 b - - 1 25",
+    "Moves": "e4a4 a3b2 d5d4 b2d4 a4d4 e2d4",
+    "Rating": "1770",
+    "RatingDeviation": "74",
+    "Popularity": "99",
+    "NbPlays": "257",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/6Fi9S58h/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "njdpx",
+    "FEN": "r4rk1/pp1qb1pp/5np1/3p4/3P2P1/PQN1P2P/5PK1/R1B2R2 b - - 2 18",
+    "Moves": "f6g4 b3d5 d7d5 c3d5",
+    "Rating": "1681",
+    "RatingDeviation": "129",
+    "Popularity": "75",
+    "NbPlays": "11",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/JQqOY0zH/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Normal_Defense"
+  },
+  {
+    "PuzzleId": "nje2j",
+    "FEN": "r1b2rk1/p1q2pp1/1p2p1np/n2pP1NQ/3P4/R1PB4/3N1PPP/5RK1 w - - 2 16",
+    "Moves": "g5f7 g6f4 f7h6 g7h6",
+    "Rating": "1747",
+    "RatingDeviation": "75",
+    "Popularity": "79",
+    "NbPlays": "89",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/H2DcLQjE#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_French_Variation"
+  },
+  {
+    "PuzzleId": "njfPl",
+    "FEN": "r4rk1/pp1nbppp/3p1n2/q2P1NB1/8/2N5/PP2QPPP/R3K2R b KQ - 9 14",
+    "Moves": "f6d5 f5e7 d5e7 g5e7",
+    "Rating": "1662",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1722",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/ns0aY6yi/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Moscow_Variation"
+  },
+  {
+    "PuzzleId": "njfh0",
+    "FEN": "r1b2rk1/pp1q1pp1/3Pp2p/3n4/4N2Q/B1P5/P4PPP/R4RK1 b - - 1 17",
+    "Moves": "d7a4 e4f6 d5f6 h4a4",
+    "Rating": "1604",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1007",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/E2oZ91kW/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "njfyi",
+    "FEN": "r1bq1rk1/p1ppbpp1/1p5p/n2P4/6Q1/2P2NP1/P2NPPP1/R3KB1R w KQ - 2 13",
+    "Moves": "h1h6 d7d6 g4h5 g7h6",
+    "Rating": "1684",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "12295",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/4rSJ6n7M#25",
+    "OpeningTags": "Polish_Opening Polish_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "njhCs",
+    "FEN": "r6r/1b1nqk1p/1p1p3P/1PnPp1RP/4P3/2N5/2BQ1P1K/6R1 b - - 0 32",
+    "Moves": "h8g8 g5g7 g8g7 g1g7 f7f8 g7e7",
+    "Rating": "1740",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "3382",
+    "Themes": "crushing exposedKing long middlegame skewer",
+    "GameUrl": "https://lichess.org/dNhpRkMc/black#64",
+    "OpeningTags": ""
+  }
+]

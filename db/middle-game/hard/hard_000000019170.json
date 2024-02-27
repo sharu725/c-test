@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "nkvS3",
+    "FEN": "r3r1k1/ppnq1p2/2pb1n1Q/3p4/3P4/P1N2NP1/1PP1PPK1/R3R3 b - - 0 18",
+    "Moves": "f6g4 h6g5 g8f8 e1h1 f7f6 h1h8",
+    "Rating": "1671",
+    "RatingDeviation": "83",
+    "Popularity": "85",
+    "NbPlays": "175",
+    "Themes": "crushing long middlegame quietMove",
+    "GameUrl": "https://lichess.org/0Q8bmraF/black#36",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Ross_Gambit"
+  },
+  {
+    "PuzzleId": "nky4n",
+    "FEN": "r2r2k1/1p3ppp/p3p1b1/4b3/4n3/2N3P1/PP4BP/R1B2RK1 w - - 0 17",
+    "Moves": "g2e4 e5c3 b2c3 g6e4",
+    "Rating": "1701",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "82",
+    "Themes": "advantage capturingDefender intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/sVTnlhn6#33",
+    "OpeningTags": "Slav_Defense Slav_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "nkyMZ",
+    "FEN": "r4rk1/2bq1ppp/2n1p1b1/p2pP2B/2pP1PQ1/PpP3NP/1P1B2P1/R3R2K b - - 0 24",
+    "Moves": "g6h5 g3h5 f7f5 e5f6",
+    "Rating": "1685",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2264",
+    "Themes": "crushing enPassant middlegame short",
+    "GameUrl": "https://lichess.org/R8fa1ybw/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nkySW",
+    "FEN": "r3k2r/1ppq1ppp/p7/2bp4/3Qn3/5P1P/PPP3P1/RNB1R1K1 w kq - 1 13",
+    "Moves": "e1e4 d5e4 d4c5 d7d1 g1h2 d1c1",
+    "Rating": "1674",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "12795",
+    "Themes": "advantage clearance fork long middlegame pin",
+    "GameUrl": "https://lichess.org/zfrO97nN#25",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "nkyme",
+    "FEN": "3r1rk1/1b3ppp/p3p2q/1p6/3R2n1/1P4B1/PP2QPP1/RN4K1 w - - 10 21",
+    "Moves": "d4g4 h6c1 g1h2 d8d1",
+    "Rating": "1793",
+    "RatingDeviation": "76",
+    "Popularity": "5",
+    "NbPlays": "107",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/iLa1jGnB#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nl0Na",
+    "FEN": "2bqr3/p5kp/1p2rpp1/3p4/3P4/5BQP/P4PP1/1R3RK1 b - - 9 30",
+    "Moves": "d8d7 f3g4 d7d6 g4e6 d6g3 f2g3",
+    "Rating": "1663",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1996",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/3uevC0Hx/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nl0Vo",
+    "FEN": "3r2r1/2kb4/2pb3p/3p1Bp1/p2N4/4P3/5PPP/1RR3K1 b - - 0 34",
+    "Moves": "d7f5 c1c6 c7d7 b1b7 d7e8 d4f5",
+    "Rating": "1776",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "5763",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/WOV5kQkw/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nl2RC",
+    "FEN": "r3r1k1/p1p2pp1/1pPq1n1p/3PN2b/2P2p2/3B1P2/P1Q3PP/R3R1K1 w - - 1 20",
+    "Moves": "c2c3 d6c5 g1h1 f6d5",
+    "Rating": "1789",
+    "RatingDeviation": "88",
+    "Popularity": "67",
+    "NbPlays": "25",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ziS2R3P6#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nl37c",
+    "FEN": "1n5k/1bq3pp/3b1r2/5p2/Q7/1P2PP1P/P2P4/2KR1BNR w - - 3 19",
+    "Moves": "a4c4 d6a3 c1b1 f6c6 c4c3 c6c3",
+    "Rating": "1725",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "750",
+    "Themes": "clearance crushing long middlegame",
+    "GameUrl": "https://lichess.org/tEYQ338I#37",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CO1kS",
+    "FEN": "r2q1rk1/pbpn1pbp/1p1p3B/3Pp2p/4P3/2N2N2/PPPQ1PP1/2KR1B2 b - - 1 12",
+    "Moves": "d8f6 h6g5 f6g6 f3h4 g7f6 h4g6",
+    "Rating": "1669",
+    "RatingDeviation": "162",
+    "Popularity": "42",
+    "NbPlays": "15",
+    "Themes": "crushing long master middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/EIxeqmGv/black#24",
+    "OpeningTags": "Torre_Attack Torre_Attack_Fianchetto_Defense"
+  },
+  {
+    "PuzzleId": "CO264",
+    "FEN": "1r4qr/2p2k2/pb1pb3/1p2pP2/5p2/P1P2Q1P/1PB2PP1/3RR1K1 b - - 0 27",
+    "Moves": "e6d7 c2b3 f7f6 b3g8",
+    "Rating": "1760",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "122",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/SFG2HZFy/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CO2i0",
+    "FEN": "r1b2r1k/1p2Q1pp/6p1/p1n5/P1B5/2P5/1P3qPP/R3R2K b - - 3 28",
+    "Moves": "c8d7 e1f1 c5e4 f1f2",
+    "Rating": "1680",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "239",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/BUoTVlYu/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CO2qW",
+    "FEN": "r1b1k2r/1pp2ppp/p3p3/4n1q1/8/2NPP3/PPP1Q1P1/2KR1B1R b kq - 1 16",
+    "Moves": "c8d7 h1h5 g5f6 c3e4 f6e7 h5e5",
+    "Rating": "1700",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "187",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/Sq79sDWx/black#32",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "CO4D8",
+    "FEN": "2rrb1k1/5qp1/pb2p2p/1p2Bp2/1P6/P3P1Q1/B4PPP/2R2RK1 b - - 2 23",
+    "Moves": "c8c1 a2e6 c1f1 g1f1 g7g5 e6f7",
+    "Rating": "1759",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1236",
+    "Themes": "advantage kingsideAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/5Td4Ab0i/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CO4Oo",
+    "FEN": "k2rr3/ppQn1ppp/8/3N4/3P4/1N3PPq/PPP2K2/6R1 b - - 5 26",
+    "Moves": "h3e6 c7d8 e8d8 d5c7 a8b8 c7e6",
+    "Rating": "1753",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "597",
+    "Themes": "advantage fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/Z5hfXeDY/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CO5oq",
+    "FEN": "3r1rk1/ppp2ppp/2n2b2/4p3/4P1b1/2P2N2/PP2BPPP/RN3RK1 w - - 0 11",
+    "Moves": "b1d2 d8d2 f3d2 g4e2",
+    "Rating": "1712",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "166",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/H4q8NWYr#21",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Macleod_Attack"
+  },
+  {
+    "PuzzleId": "CO6ks",
+    "FEN": "2kr4/ppp2pp1/1b4p1/4R1B1/1PB1n3/2P4r/P4P2/5RK1 w - - 0 19",
+    "Moves": "e5e4 h3g3 g1h2 g3g5",
+    "Rating": "1771",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1016",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/gHbBwewf#37",
+    "OpeningTags": "Italian_Game Italian_Game_Schilling-Kostic_Gambit"
+  },
+  {
+    "PuzzleId": "CO7j0",
+    "FEN": "r5k1/pp1q1pp1/2n2n1p/1BPb4/5P2/7P/PP4P1/R2Q1RBK w - - 4 22",
+    "Moves": "b5c6 d7h3 g1h2 h3g2",
+    "Rating": "1660",
+    "RatingDeviation": "111",
+    "Popularity": "73",
+    "NbPlays": "26",
+    "Themes": "kingsideAttack master mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/Y7LAQ5AP#43",
+    "OpeningTags": ""
+  }
+]

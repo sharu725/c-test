@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "oq9dd",
+    "FEN": "3k3r/pqp2Qp1/1p6/1P2P3/4n3/P7/1B5p/RN3R1K w - - 1 30",
+    "Moves": "f1d1 e4d2 f7f3 b7f3",
+    "Rating": "2241",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "101",
+    "Themes": "discoveredAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/YesWbPg8#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oqCYF",
+    "FEN": "3r1rk1/ppp2ppp/4p1P1/2P1P1N1/2P2BP1/1Q6/q7/2KR3R b - - 0 22",
+    "Moves": "a2b3 g6h7 g8h8 g5f7 f8f7 d1d8 f7f8 d8f8",
+    "Rating": "2208",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "6864",
+    "Themes": "advancedPawn deflection kingsideAttack mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/u18PWJr4/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oqk0I",
+    "FEN": "rn3rk1/4qp2/1p2pnpQ/p1pp4/3PP2B/2N2P2/PPP1KP1b/7R b - - 1 18",
+    "Moves": "h2f4 h6h8 g8h8 h4f6 h8g8 h1h8",
+    "Rating": "2153",
+    "RatingDeviation": "85",
+    "Popularity": "45",
+    "NbPlays": "70",
+    "Themes": "attraction doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/ZniNYfrV/black#36",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "or9NH",
+    "FEN": "rn3rk1/5ppp/p3p3/1p1pB2P/3P1P2/8/PPP1N1q1/2KR2R1 b - - 1 21",
+    "Moves": "g2e2 g1g7 g8h8 g7g8 h8g8 d1g1 e2g2 g1g2",
+    "Rating": "2220",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2371",
+    "Themes": "attraction doubleCheck kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/JK4OKz3w/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "orDQy",
+    "FEN": "8/6Rp/5P2/p7/5kP1/PbP3r1/1P6/2K5 w - - 1 44",
+    "Moves": "f6f7 f4e3 f7f8q g3g1 f8f1 g1f1",
+    "Rating": "2013",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "3455",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/fXSJYsYK#87",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "orRGO",
+    "FEN": "4rr1k/1b1n2bn/pppp2Q1/4p2P/P1B1P2N/2NP4/1PP2q2/R2K2R1 b - - 1 21",
+    "Moves": "g7f6 g6g7 f6g7 h4g6",
+    "Rating": "2126",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "577",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/WNUBkJpW/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "os0V2",
+    "FEN": "2k5/Q7/1p6/nB1R4/PbP5/r5P1/2K1r2P/8 w - - 15 46",
+    "Moves": "c2d1 e2e1 d1c2 a3a2 c2d3 a2d2",
+    "Rating": "2052",
+    "RatingDeviation": "114",
+    "Popularity": "90",
+    "NbPlays": "52",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/ZiCIKCB5#91",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "osAsw",
+    "FEN": "8/r1p1kR2/2p4p/3p4/3Pp1rq/2p1P3/4Q1P1/5RK1 b - - 9 34",
+    "Moves": "e7e6 e2g4 h4g4 f1f6",
+    "Rating": "2054",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "2277",
+    "Themes": "endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/OIS28wqN/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "osUxo",
+    "FEN": "5k2/2qn1rp1/2nN3p/pp1Q4/2pP4/2P2Pp1/PP4P1/4R1K1 b - - 4 29",
+    "Moves": "f7e7 d5f7 e7f7 e1e8",
+    "Rating": "2218",
+    "RatingDeviation": "86",
+    "Popularity": "90",
+    "NbPlays": "764",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/G4OvQIQq/black#58",
+    "OpeningTags": ""
+  }
+]

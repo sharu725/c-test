@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "88lIM",
+    "FEN": "r1br4/5p1Q/p1p1pk2/2p1N3/N2q1P2/1P6/P1P2nPP/R4R1K w - - 5 20",
+    "Moves": "f1f2 d4a1 f2f1 a1f1",
+    "Rating": "1945",
+    "RatingDeviation": "79",
+    "Popularity": "74",
+    "NbPlays": "109",
+    "Themes": "hangingPiece kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Dzg2QCmb#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "88oPa",
+    "FEN": "5rk1/1ppb4/7p/pP1pq1p1/2P5/P3P2P/4Q1P1/R3KB1R w KQ - 0 20",
+    "Moves": "a1d1 e5g3 e1d2 f8f2",
+    "Rating": "1910",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "118",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/8GHHBZj2#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "88qYz",
+    "FEN": "5rk1/1b3ppp/1p2p3/1Np4r/8/2PPqP2/PPQ3PP/R4R1K w - - 7 21",
+    "Moves": "b5d6 e3f4 g2g4 b7f3 f1f3 f4f3",
+    "Rating": "1966",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "393",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/pXf05CC8#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "88s0L",
+    "FEN": "rnbq1rk1/1p1pnpp1/p3p2p/2b1N3/2B1P1QB/2N5/PP3PPP/R3K2R b KQ - 1 10",
+    "Moves": "b7b5 h4f6 e7g6 f6d8",
+    "Rating": "1901",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "3772",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/yAVsxsHy/black#20",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "88s8U",
+    "FEN": "r4rk1/4Rpp1/2P2q1p/2QB4/8/R5Pb/5P1P/6K1 w - - 1 27",
+    "Moves": "e7f7 f6a1 a3a1 a8a1 c5c1 a1c1",
+    "Rating": "1895",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "496",
+    "Themes": "long mate mateIn3 middlegame sacrifice xRayAttack",
+    "GameUrl": "https://lichess.org/nIwMzVAe#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "88tNT",
+    "FEN": "4kr1q/p1rn3p/PpN1b1pP/1P2ppB1/4P3/5Q2/2P2P2/4KBR1 b - - 1 33",
+    "Moves": "f5e4 f3d1",
+    "Rating": "1875",
+    "RatingDeviation": "156",
+    "Popularity": "-33",
+    "NbPlays": "18",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/JMkb3hjD/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "88uVy",
+    "FEN": "B3k2r/4bppp/p4n2/1p2p3/4P3/N6P/PP2n1P1/R1B2RK1 w k - 1 16",
+    "Moves": "g1h1 e2g3 h1g1 e7c5 c1e3 c5e3",
+    "Rating": "1854",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "91",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/M1eC2bFO#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "88wr2",
+    "FEN": "r1b3r1/b1p2p1k/6q1/p2nPN2/2pPQ3/2P5/P2B2PP/R4RK1 b - - 4 24",
+    "Moves": "c8f5 f1f5 g6g2 e4g2 g8g2 g1g2",
+    "Rating": "1906",
+    "RatingDeviation": "84",
+    "Popularity": "62",
+    "NbPlays": "40",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/bbQ4YOXL/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "88ydT",
+    "FEN": "r6r/ppp1npk1/1b1p1q2/3P2N1/1P1P2QP/P7/3R1PP1/R5K1 b - - 4 23",
+    "Moves": "f6f5 g5e6 g7h6 g4g7 h6h5 f2f3 f5e5 g7f7",
+    "Rating": "1991",
+    "RatingDeviation": "257",
+    "Popularity": "-100",
+    "NbPlays": "5",
+    "Themes": "crushing doubleCheck middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/kLUvh31P/black#46",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "GEj3j",
+    "FEN": "1Q4k1/4pr1p/2b3p1/q7/8/r4N1P/4BPP1/R5K1 b - - 1 31",
+    "Moves": "g8g7 b8b2 a5c3 b2a3 c3a3 a1a3",
+    "Rating": "1986",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "216",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/fd9nT3WZ/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GEjeR",
+    "FEN": "3r4/p2rppkp/qp4p1/R1pN1b2/8/3P2P1/2Q1PPBP/1R4K1 b - - 0 23",
+    "Moves": "a6a5 c2b2 g7g8 b1a1 a5a1 b2a1",
+    "Rating": "1989",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "1606",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/J50vsZWK/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GEkMw",
+    "FEN": "rn3rk1/1b3ppp/p3pn2/1pb1N3/3N1B2/1B6/PPP2PPP/3R1RK1 b - - 0 14",
+    "Moves": "f8d8 d4e6 d8d1 f1d1",
+    "Rating": "1864",
+    "RatingDeviation": "75",
+    "Popularity": "71",
+    "NbPlays": "233",
+    "Themes": "crushing master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/xm8VsXAw/black#28",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Gubinsky-Melts_Defense"
+  },
+  {
+    "PuzzleId": "GEmsE",
+    "FEN": "1r2k1r1/p1p2p1p/8/8/3pq3/5b2/3bQPBP/1RBK2R1 w - - 0 23",
+    "Moves": "g2f3 g8g1 d1d2 e4e2",
+    "Rating": "1933",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1341",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/GO42XPiS#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GEo2E",
+    "FEN": "2rq1rk1/4bpp1/1nQ1p2p/p2n4/2BP4/P3PN2/1B3PPP/2R2RK1 w - - 1 19",
+    "Moves": "c6b5 b6c4 c1c4 c8b8",
+    "Rating": "1900",
+    "RatingDeviation": "92",
+    "Popularity": "82",
+    "NbPlays": "39",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/VTMnJsbK#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  },
+  {
+    "PuzzleId": "GEqoT",
+    "FEN": "q4k2/2rBbp2/p6p/1p2p1r1/4b3/1NPR3Q/PP3PPP/5RK1 w - - 1 22",
+    "Moves": "h3h6 f8g8 d3g3 g5g3",
+    "Rating": "1963",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1968",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/M6aKrj3a#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GEu0I",
+    "FEN": "r4rk1/1b3p1p/p1q5/3pp1P1/1p1n1P2/N2B4/PPPQ3P/2KR1R2 w - - 0 21",
+    "Moves": "a3b1 b4b3 f4e5 b3a2",
+    "Rating": "1988",
+    "RatingDeviation": "148",
+    "Popularity": "67",
+    "NbPlays": "6",
+    "Themes": "advancedPawn crushing middlegame short",
+    "GameUrl": "https://lichess.org/WyBjqU98#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GEvD3",
+    "FEN": "r5k1/pppq1ppp/2nb1n2/3p4/3P4/1BP2N1P/PP3P2/RNBQr1K1 w - - 0 14",
+    "Moves": "f3e1 d7h3 d1f3 d6h2 g1h1 h2g3",
+    "Rating": "1975",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "957",
+    "Themes": "crushing discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/GXNkp6dO#27",
+    "OpeningTags": "French_Defense French_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "GEwn1",
+    "FEN": "2kr3r/ppp2p2/2nb1n1p/1N3b2/4pNp1/2B1P1P1/PPP2PBP/R4RK1 b - - 7 15",
+    "Moves": "d6e5 b5a7 c6a7 c3e5",
+    "Rating": "1912",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "114",
+    "Themes": "crushing deflection middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/0SdkQa8f/black#30",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Black_Mustang_Defense"
+  }
+]

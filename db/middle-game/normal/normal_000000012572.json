@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "aifes",
+    "FEN": "4Rrk1/pp1q2p1/1n3n1p/3p1Q2/2pP4/2P4P/PPB2PP1/4R1K1 b - - 0 25",
+    "Moves": "d7f5 e8f8 g8f8 c2f5",
+    "Rating": "1320",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "7390",
+    "Themes": "advantage intermezzo kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/4bhzAUr1/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aig15",
+    "FEN": "5r2/5ppk/p3q2p/4P3/2pP1B2/2Pb2RP/5QP1/1r2R1K1 w - - 12 34",
+    "Moves": "g3d3 b1e1 f2e1 c4d3",
+    "Rating": "1248",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "3896",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/IyERKzQC#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aigj4",
+    "FEN": "r7/r1p2pkp/4p1p1/1P6/1q6/1N1PPQ2/2P2P1P/2KR3R w - - 1 22",
+    "Moves": "f3e4 a7a1 b3a1 a8a1",
+    "Rating": "1240",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "264",
+    "Themes": "mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/oTUvQO9y#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aiil3",
+    "FEN": "r3r1k1/p3bppp/1p1p4/5N2/2pB4/2Pn3P/PP2RPP1/3R2K1 b - - 2 22",
+    "Moves": "e7h4 e2e8 a8e8 f5h4",
+    "Rating": "1367",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1371",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/VYOA7RLi/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aikC4",
+    "FEN": "r3kb1r/1p1npppp/pq6/3p2B1/3P4/2N5/PPP1QPPP/R3K2R w KQkq - 0 11",
+    "Moves": "c3d5 b6a5 d5c3 a5g5",
+    "Rating": "1394",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "18641",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Gz2dXtoi#21",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "ailOS",
+    "FEN": "k5r1/P1p2p2/1p1rp3/3p4/3P4/4P1qp/1PQB1RP1/R5K1 w - - 1 29",
+    "Moves": "c2c7 h3h2 g1h1 g3f2",
+    "Rating": "1335",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "2267",
+    "Themes": "advancedPawn crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/hjWEVyqI#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aimFH",
+    "FEN": "4r1k1/pp4bp/3p2P1/q3p3/6P1/5Q2/1PrN3N/1K5R b - - 2 30",
+    "Moves": "a5d2 f3f7 g8h8 f7e8 g7f8 e8f8",
+    "Rating": "1351",
+    "RatingDeviation": "130",
+    "Popularity": "75",
+    "NbPlays": "41",
+    "Themes": "fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/9VZrYhuL/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aimGK",
+    "FEN": "r5k1/pp3p2/2p1bbpp/2N1p3/2P5/P3P1P1/3r1PBP/R1R3K1 b - - 3 19",
+    "Moves": "e6c8 c5e4 d2b2 e4f6",
+    "Rating": "1340",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1044",
+    "Themes": "advantage fork master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/fOjnraLI/black#38",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Fianchetto_Variation"
+  },
+  {
+    "PuzzleId": "ainRa",
+    "FEN": "r4rk1/1bp2ppp/p3p1n1/1p6/3PN2q/P2BP3/1PQ2PPP/R3K2R w KQ - 2 17",
+    "Moves": "c2c7 b7e4 d3e4 h4e4",
+    "Rating": "1235",
+    "RatingDeviation": "161",
+    "Popularity": "-10",
+    "NbPlays": "6",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/tMeiKNXI#33",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Queens_Knight_Variation"
+  }
+]

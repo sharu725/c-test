@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "exMU4",
+    "FEN": "2k5/2r5/P2Q4/1p1pPp1p/7q/8/3p1PP1/1R4KR w - - 2 42",
+    "Moves": "a6a7 c7c1 b1c1 d2c1q",
+    "Rating": "1423",
+    "RatingDeviation": "75",
+    "Popularity": "70",
+    "NbPlays": "472",
+    "Themes": "advancedPawn endgame mate mateIn2 promotion short",
+    "GameUrl": "https://lichess.org/ZuAnIeaQ#83",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "exMzs",
+    "FEN": "2r4k/5Qp1/1qr3Pp/4P3/1p2p3/pP6/P1P5/1KR4R b - - 1 34",
+    "Moves": "c6c7 h1h6 g7h6 g6g7 h8h7 g7g8q",
+    "Rating": "1473",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "13475",
+    "Themes": "advancedPawn doubleCheck endgame long master mate mateIn3 promotion sacrifice",
+    "GameUrl": "https://lichess.org/yVvVm71E/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "exOql",
+    "FEN": "R7/4P1pp/8/8/1B3P2/P4kn1/4r3/6K1 w - - 3 45",
+    "Moves": "e7e8q e2g2",
+    "Rating": "1464",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "1347",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/GcjQtIdC#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "exSVR",
+    "FEN": "8/p1R2p2/8/2P1Nqpk/3Pb2p/7P/P4PP1/4R2K w - - 2 43",
+    "Moves": "c7f7 f5h3 h1g1 h3g2",
+    "Rating": "1458",
+    "RatingDeviation": "73",
+    "Popularity": "98",
+    "NbPlays": "15566",
+    "Themes": "endgame mate mateIn2 pin short",
+    "GameUrl": "https://lichess.org/9n7dQ0b3#85",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "exV6v",
+    "FEN": "1k3r2/3Q3p/2p5/p1b5/8/Pq3B2/6PP/3R3K w - - 0 42",
+    "Moves": "d7c6 b3d1 f3d1 f8f1",
+    "Rating": "1578",
+    "RatingDeviation": "84",
+    "Popularity": "65",
+    "NbPlays": "220",
+    "Themes": "backRankMate endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/jpId5j2e#83",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "exXjl",
+    "FEN": "r2q1r2/1pp1N1pk/p4p2/8/8/3Q4/PPP2PPP/R5K1 b - - 3 21",
+    "Moves": "h7h8 d3h3",
+    "Rating": "1473",
+    "RatingDeviation": "99",
+    "Popularity": "87",
+    "NbPlays": "226",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/38G7TkOW/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "exZ1M",
+    "FEN": "r1bqrk2/ppp2pbQ/1n4p1/4PpN1/5B2/2N5/PPP3P1/R3K2R b KQ - 5 17",
+    "Moves": "g7e5 h7f7",
+    "Rating": "1473",
+    "RatingDeviation": "140",
+    "Popularity": "73",
+    "NbPlays": "81",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/xwbU4NzS/black#34",
+    "OpeningTags": "Modern_Defense Modern_Defense_Three_Pawns_Attack"
+  },
+  {
+    "PuzzleId": "exbbM",
+    "FEN": "2nr3k/1pp4p/p5p1/2PP4/1P1QP2b/PB3PqP/8/3R3K b - - 6 37",
+    "Moves": "h8g8 d5d6 g8f8 d4h8",
+    "Rating": "1500",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1024",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/dUKr708A/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "excjh",
+    "FEN": "r1b1rbk1/p1p2B1p/1p4p1/6P1/4P3/2P5/PB4PP/n4R1K b - - 0 18",
+    "Moves": "g8g7 c3c4 e8e5 b2e5",
+    "Rating": "1468",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "11641",
+    "Themes": "discoveredAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/NxoZdjgc/black#36",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  }
+]

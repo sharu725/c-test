@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ex0PF",
+    "FEN": "6k1/5pp1/pp3nb1/2p4p/2PP3P/1P3q2/PQ3P2/3R1K1R w - - 0 32",
+    "Moves": "b2e2 f3h1",
+    "Rating": "1155",
+    "RatingDeviation": "140",
+    "Popularity": "71",
+    "NbPlays": "72",
+    "Themes": "endgame hangingPiece mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/xm58SZns#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ex1oD",
+    "FEN": "8/2p1qkp1/1p1p1p2/p2Q4/P1P1n1P1/1PP4P/6K1/4B3 b - - 5 34",
+    "Moves": "f7g6 d5h5",
+    "Rating": "1199",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "806",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/LsCtQbuo/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ex2nm",
+    "FEN": "2r2rk1/1p3ppp/p7/3Q4/8/4q3/PPP2RPP/3R2K1 b - - 1 20",
+    "Moves": "c8c2 d5f7 f8f7 d1d8 e3e8 d8e8 f7f8 f2f8",
+    "Rating": "1146",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "803",
+    "Themes": "clearance endgame mate mateIn4 sacrifice veryLong",
+    "GameUrl": "https://lichess.org/pjm11Dkc/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ex5xm",
+    "FEN": "r1br2k1/pp3ppp/1q6/4p3/1P1NP3/1Q2B3/P5PP/R4RK1 b - - 2 18",
+    "Moves": "e5d4 b3f7 g8h8 f7f8 d8f8 f1f8",
+    "Rating": "1135",
+    "RatingDeviation": "125",
+    "Popularity": "82",
+    "NbPlays": "18",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/2ekda1SB/black#36",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  },
+  {
+    "PuzzleId": "ex9eb",
+    "FEN": "6k1/1pR2p2/2p2n1p/6p1/2P5/3P1QKP/2P2PP1/6rq w - - 0 31",
+    "Moves": "f3f6 h1g2",
+    "Rating": "1030",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "530",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/BzRSORCt#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "exCNT",
+    "FEN": "8/6p1/4r2p/3N4/4n3/1P3k2/P3R2P/6K1 w - - 1 46",
+    "Moves": "e2e1 e6g6 g1f1 e4d2",
+    "Rating": "1025",
+    "RatingDeviation": "81",
+    "Popularity": "93",
+    "NbPlays": "1101",
+    "Themes": "endgame master mate mateIn2 short",
+    "GameUrl": "https://lichess.org/NbgbucCO#91",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "exEZ0",
+    "FEN": "r3k1nr/pp3pPp/4b3/q1p1N1Q1/4P3/2pP3P/1PP3P1/1K1R1B1R w kq - 0 18",
+    "Moves": "g7h8q a5a2 b1c1 a2b2",
+    "Rating": "1063",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "98",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/HV1vZ7j2#35",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit"
+  },
+  {
+    "PuzzleId": "exFZh",
+    "FEN": "1r5Q/pr5R/2p1k1p1/3P1p2/2q5/8/PB6/K7 b - - 0 37",
+    "Moves": "e6d5 h8e5",
+    "Rating": "1145",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "3248",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/fb3ILXLl/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "exG2j",
+    "FEN": "r4rk1/pp1b1ppp/1qn1p3/2p1P3/3pQ1Pb/1PP5/P1BP1PKP/RNB2R2 b - - 1 14",
+    "Moves": "c6b4 e4h7",
+    "Rating": "1070",
+    "RatingDeviation": "375",
+    "Popularity": "-100",
+    "NbPlays": "1",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/OT9LALgn/black#28",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  }
+]

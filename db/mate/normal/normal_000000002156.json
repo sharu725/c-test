@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BL6qX",
+    "FEN": "3r4/pp4R1/4pp1k/3p3p/2RQ3P/K2P4/P2q4/8 b - - 0 34",
+    "Moves": "d5c4 d4f6",
+    "Rating": "1220",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "397",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/nxewPtF7/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BL7WL",
+    "FEN": "k2r2R1/pp6/5p2/4p3/1qBn2Q1/1P6/PK3P2/8 b - - 13 39",
+    "Moves": "b4b6 g4c8 d8c8 g8c8",
+    "Rating": "1372",
+    "RatingDeviation": "94",
+    "Popularity": "46",
+    "NbPlays": "100",
+    "Themes": "backRankMate endgame mate mateIn2 sacrifice short xRayAttack",
+    "GameUrl": "https://lichess.org/hJEVddRu/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BLFHz",
+    "FEN": "r3r3/ppq1kpp1/2bpp3/4b1NQ/8/1BP5/PP6/1K6 b - - 9 33",
+    "Moves": "e8h8 h5f7 e7d8 g5e6 d8c8 f7c7",
+    "Rating": "1350",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "1087",
+    "Themes": "deflection fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/JqR9X77t/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BLFcb",
+    "FEN": "r1b2r1k/pp3B1p/1n2p3/3pP3/6Q1/1PP5/3q3P/6RK b - - 2 22",
+    "Moves": "d2h6 g4g8 f8g8 g1g8",
+    "Rating": "1242",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "79",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/AHtckMtG/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BLGAt",
+    "FEN": "5rk1/p6p/6p1/4Q3/8/2N5/PqP3PP/R6K w - - 0 23",
+    "Moves": "a1b1 b2b1 c3b1 f8f1",
+    "Rating": "1308",
+    "RatingDeviation": "78",
+    "Popularity": "83",
+    "NbPlays": "1501",
+    "Themes": "backRankMate endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/NgLygQVF#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BLJRp",
+    "FEN": "r1bqk1nr/pp4bp/3p4/3Q2N1/3PPp2/8/PPP3P1/R1B1K2R b KQkq - 0 13",
+    "Moves": "g8f6 d5f7",
+    "Rating": "1232",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "110",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ktiMxtl9/black#26",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  },
+  {
+    "PuzzleId": "BLJwF",
+    "FEN": "rn3k1r/p1q2ppp/1p2p3/1B1Q1N2/5b2/8/PPP3PP/R3R1K1 b - - 0 18",
+    "Moves": "e6d5 e1e8",
+    "Rating": "1235",
+    "RatingDeviation": "88",
+    "Popularity": "75",
+    "NbPlays": "57",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/NuBcJuU5/black#36",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "BLNDu",
+    "FEN": "rnb1k2r/ppp2ppp/3p1q2/3Pp3/2P3n1/2N2K1P/PP2P1P1/R1BQ1BNR w kq - 1 8",
+    "Moves": "f3g3 f6f2",
+    "Rating": "1304",
+    "RatingDeviation": "152",
+    "Popularity": "92",
+    "NbPlays": "35",
+    "Themes": "mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/TIyHaVhz#15",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "BLQNs",
+    "FEN": "r1bk1b1r/ppN1pppp/8/2p4q/3n1Pn1/5N2/PPPPB1PP/R1BQ1RK1 w - - 10 10",
+    "Moves": "c7a8 d4f3 f1f3 h5h2 g1f1 h2h1",
+    "Rating": "1374",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "7624",
+    "Themes": "kingsideAttack long mate mateIn3 opening",
+    "GameUrl": "https://lichess.org/mTfYaXKf#19",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  }
+]

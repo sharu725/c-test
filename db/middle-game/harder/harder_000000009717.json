@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "TRjIM",
+    "FEN": "r1b1k2r/1p3ppp/p1n1p3/3pP3/Qb1P1Pq1/2NB2P1/PP5P/R1B1K2R w KQkq - 1 13",
+    "Moves": "c1d2 g4f3 h1f1 f3d3",
+    "Rating": "1825",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "71",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Qe0nMkzH#25",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "TRkhD",
+    "FEN": "r1br2k1/p4pbp/4p1p1/qNBp4/1p2B3/P3P2P/2P2PP1/R2Q1RK1 b - - 0 20",
+    "Moves": "d5e4 a3b4 d8d1 a1a5",
+    "Rating": "1987",
+    "RatingDeviation": "129",
+    "Popularity": "76",
+    "NbPlays": "19",
+    "Themes": "advantage discoveredAttack master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/k9QGZ3ez/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TRkx9",
+    "FEN": "3r2k1/ppn2pbp/2p3p1/1qN1P3/1P3P2/P4RPP/3r2BK/1R2Q3 w - - 7 26",
+    "Moves": "c5e4 d2e2 e1f1 e2e4",
+    "Rating": "1865",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "10746",
+    "Themes": "advantage interference middlegame short",
+    "GameUrl": "https://lichess.org/hugW5nRV#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TRlD3",
+    "FEN": "r1k2br1/p2N3p/Q2P4/7n/Bp6/5bqP/PP4P1/6K1 b - - 11 32",
+    "Moves": "c8d8 a6a5 d8e8 d7e5 f3c6 a4c6",
+    "Rating": "1930",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "10729",
+    "Themes": "discoveredAttack exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/97G8A3o6/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TRlvg",
+    "FEN": "r3k2r/p1pnq3/4Bn1p/6p1/8/1QP1R3/PP4PP/R5K1 b kq - 0 19",
+    "Moves": "e7c5 e6d7 e8d8 b3e6",
+    "Rating": "1871",
+    "RatingDeviation": "377",
+    "Popularity": "-100",
+    "NbPlays": "4",
+    "Themes": "advantage clearance doubleCheck middlegame short",
+    "GameUrl": "https://lichess.org/rp9i1GmJ/black#38",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  },
+  {
+    "PuzzleId": "TRlwi",
+    "FEN": "2kr3r/pp3ppp/2p1p3/q3P3/1b1B4/2P4P/PP2QPP1/R4RK1 b - - 0 16",
+    "Moves": "b4c5 b2b4 a5b5 e2b5",
+    "Rating": "1944",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "7027",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/EEvJUS1f/black#32",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "TRnRS",
+    "FEN": "3rr1k1/ppq2pp1/n4n1p/2pb4/4P3/2P1B1P1/PPQ1P1BP/R2RN1K1 b - - 0 18",
+    "Moves": "f6e4 d1d5 d8d5 g2e4",
+    "Rating": "1913",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "806",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/Nh5iHTMT/black#36",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "TRnnx",
+    "FEN": "r4rk1/pb2bpp1/1pp3qp/8/2BPNQ2/3R4/PPP3PP/5RK1 b - - 4 22",
+    "Moves": "b6b5 d3g3 e7g5 e4g5",
+    "Rating": "1987",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "2860",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/AF58X2kC/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TRnyo",
+    "FEN": "r1b2rk1/pp1qQppp/8/8/8/8/P2B1PPP/3RR1K1 b - - 0 20",
+    "Moves": "d7a4 e7f8 g8f8 d2b4 f8g8 d1d8 a4e8 e1e8",
+    "Rating": "1944",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "734",
+    "Themes": "attraction backRankMate mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/QVjhtXf0/black#40",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QWEC9",
+    "FEN": "3qrbk1/1b3pp1/pn1p1B1p/1p1P4/2r1B3/P1NQ1N1P/1P3PP1/R3R1K1 b - - 0 21",
+    "Moves": "d8f6 e4h7 g8h8 e1e8",
+    "Rating": "1109",
+    "RatingDeviation": "99",
+    "Popularity": "68",
+    "NbPlays": "41",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/v7DCqEYE/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QWEYT",
+    "FEN": "r4rk1/3qb1pp/1p2p1p1/p2pB2P/3P2Q1/2P5/PP4P1/4RR1K b - - 0 19",
+    "Moves": "g6h5 g4g7",
+    "Rating": "1009",
+    "RatingDeviation": "81",
+    "Popularity": "87",
+    "NbPlays": "1017",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Moeh1hOx/black#38",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Gedult_Gambit"
+  },
+  {
+    "PuzzleId": "QWF66",
+    "FEN": "r3r2k/2q2p1p/b2p4/p1pPPQ2/1p4R1/1P4P1/P4PBP/5RK1 b - - 4 26",
+    "Moves": "e8e5 f5f6",
+    "Rating": "1189",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "647",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/HJE3PQjY/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QWFqs",
+    "FEN": "rn1qk2r/p1p2ppp/1p2p3/3p4/1bBP4/2N1P3/PP1N1PPP/R2Q1RK1 b kq - 0 10",
+    "Moves": "d5c4 d1a4 c7c6 a4b4",
+    "Rating": "1139",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "499",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/oLVm97sf/black#20",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Ragozin_Defense"
+  },
+  {
+    "PuzzleId": "QWFsj",
+    "FEN": "r4rk1/pp1n1p2/3p4/3Pp1Pp/4P1pP/2N1Bq2/PP1Q1P1K/R4R2 w - - 1 22",
+    "Moves": "f1g1 f3h3",
+    "Rating": "1176",
+    "RatingDeviation": "161",
+    "Popularity": "75",
+    "NbPlays": "30",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/QNeIlyfF#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QWGTc",
+    "FEN": "r1bqk1nr/pp2bppp/3pp3/2p3B1/2BnP3/2NP1N2/PPP2PPP/R2QK2R w KQkq - 2 7",
+    "Moves": "d1d2 d4f3 g2f3 e7g5",
+    "Rating": "1042",
+    "RatingDeviation": "81",
+    "Popularity": "91",
+    "NbPlays": "1692",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/fh8JOGS0#13",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "QWHKK",
+    "FEN": "8/5pkp/1q1P1bp1/8/2p5/6PP/1r3PBN/2Q1R1K1 w - - 0 29",
+    "Moves": "d6d7 b6f2 g1h1 f2g2",
+    "Rating": "1040",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "338",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PZUCnRiI#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QWKZI",
+    "FEN": "1q1r2k1/p4ppp/6b1/2Q5/2ppP3/5P2/PPP5/R1B1K2R w KQ - 3 28",
+    "Moves": "c5c4 b8g3 e1e2 g3g2",
+    "Rating": "1179",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "3018",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/YMnBvFEY#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QWMGc",
+    "FEN": "4rr1k/p3q1pp/1p3pn1/P2Qn3/8/1NP2N2/1P3PPP/R3R1K1 w - - 1 19",
+    "Moves": "a5b6 e5f3 g2f3 e7e1 a1e1 e8e1 g1g2 g6f4",
+    "Rating": "1177",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "308",
+    "Themes": "crushing discoveredAttack kingsideAttack master middlegame veryLong",
+    "GameUrl": "https://lichess.org/x8a4GB81#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Steinitz_Countergambit"
+  }
+]

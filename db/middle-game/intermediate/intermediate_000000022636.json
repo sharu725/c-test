@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "sWijS",
+    "FEN": "r1q3k1/pp1R1p1p/n1p3p1/2B1b3/1PQ1P1B1/8/P4PP1/7K b - - 7 24",
+    "Moves": "a6c5 c4f7 g8h8 f7h7",
+    "Rating": "1425",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "78",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/fFC1t6Ot/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sWikO",
+    "FEN": "r4rk1/pp1n1ppp/8/3p4/1b6/4B2P/PqPN1PP1/1R1Q1RK1 b - - 3 15",
+    "Moves": "b2c3 b1b3 c3c6 b3b4",
+    "Rating": "1421",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "6885",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/kLAWMnjB/black#30",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Leonardis_Variation"
+  },
+  {
+    "PuzzleId": "sWkUa",
+    "FEN": "1r1q2k1/1b4pp/p2bpr2/1p2p2N/1P1pQ3/P2P3P/B1P2PP1/R4RK1 w - - 4 27",
+    "Moves": "e4g4 f6g6 a2e6 g8h8 g4g6 h7g6",
+    "Rating": "1512",
+    "RatingDeviation": "89",
+    "Popularity": "55",
+    "NbPlays": "20",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/MbUGNt6y#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sWkWb",
+    "FEN": "rnbqk2r/ppp2ppp/4p3/4N3/2PPp3/4P3/PP3PPP/R2QKB1R b KQkq - 1 8",
+    "Moves": "f7f6 d1h5 g7g6 e5g6 h7g6 h5h8",
+    "Rating": "1547",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "723",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/RIXc8die/black#16",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  },
+  {
+    "PuzzleId": "sWl3y",
+    "FEN": "3r1r2/4N1k1/pq5p/3b2p1/6P1/2P1Bp1P/1PQ1pP2/4R2K b - - 3 39",
+    "Moves": "b6e3 c2g6 g7h8 g6h6",
+    "Rating": "1474",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "14896",
+    "Themes": "deflection mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/51Xa53PB/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sWoZC",
+    "FEN": "6k1/1p4pp/4b2b/6r1/Q7/1P4NP/1PP2qRK/8 b - - 3 35",
+    "Moves": "f2f6 a4e8 f6f8 e8e6",
+    "Rating": "1510",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "deflection equality middlegame short",
+    "GameUrl": "https://lichess.org/eSSVbXLQ/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sWq8p",
+    "FEN": "r4r2/pp3pk1/3p1Np1/2p3n1/2P1B2q/2Q4b/PP2PP2/2R2RK1 b - - 10 23",
+    "Moves": "h3f1 f6e8 g7h6 c3g7 h6h5 e8f6",
+    "Rating": "1499",
+    "RatingDeviation": "254",
+    "Popularity": "-100",
+    "NbPlays": "6",
+    "Themes": "doubleCheck fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/A6bZOBPF/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sWrfW",
+    "FEN": "2r3k1/1p3ppp/p2pr3/3N2q1/2P1P3/1P2PQ1b/P5PK/2R2R2 b - - 0 19",
+    "Moves": "h3g4 f3f7 g8h8 f7f8 c8f8 f1f8",
+    "Rating": "1414",
+    "RatingDeviation": "90",
+    "Popularity": "69",
+    "NbPlays": "317",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/TnVILhI1/black#38",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "sWt8v",
+    "FEN": "1r1q1nk1/1r3ppp/p1Q1pb2/3p4/3P4/3BPN2/PPR2PPP/R5K1 w - - 1 19",
+    "Moves": "d3a6 b7b6 c6c3 b6a6",
+    "Rating": "1511",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2344",
+    "Themes": "advantage interference middlegame short",
+    "GameUrl": "https://lichess.org/SJQw668U#37",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  }
+]

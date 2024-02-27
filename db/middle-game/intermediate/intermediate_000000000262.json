@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "0dPBu",
+    "FEN": "r6r/1q2k1pp/N1bp1p2/1p2p3/1P2P3/2Q2P2/R5PP/R5K1 b - - 5 30",
+    "Moves": "a8a7 a6c5 a7a2 c5b7 a2a1 c3a1",
+    "Rating": "1449",
+    "RatingDeviation": "74",
+    "Popularity": "76",
+    "NbPlays": "246",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/jONTWd3S/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0dPfp",
+    "FEN": "5rk1/2q1bppp/3p1n2/2p1pPNP/4P3/1Q2B3/rPP3P1/2KR3R b - - 1 19",
+    "Moves": "f8a8 b3f7",
+    "Rating": "1441",
+    "RatingDeviation": "80",
+    "Popularity": "71",
+    "NbPlays": "47",
+    "Themes": "crushing kingsideAttack middlegame oneMove",
+    "GameUrl": "https://lichess.org/a5eG9IZL/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Modern_Variations"
+  },
+  {
+    "PuzzleId": "0dQWM",
+    "FEN": "r1bq2nr/ppp5/2kp3p/3Nn1p1/1PB1Pp2/P1P4Q/5PPP/R1B2RK1 w - - 4 16",
+    "Moves": "h3h5 c8g4 h5g4 e5g4",
+    "Rating": "1534",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "106",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/uRE3uBmH#31",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "0dQhW",
+    "FEN": "4krq1/1p1n3R/8/1P1p1p2/1b1PpPbQ/2N1P3/rB4R1/4KN2 b - - 2 33",
+    "Moves": "b4c3 b2c3 g8h7 h4h7",
+    "Rating": "1407",
+    "RatingDeviation": "427",
+    "Popularity": "100",
+    "NbPlays": "3",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/EXqfuLPo/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0dQmk",
+    "FEN": "rnb1k2r/pp3pp1/4pn1p/1Nqp4/1PB5/5N2/P1P1QPPP/R4RK1 b kq - 0 14",
+    "Moves": "c5c4 b5d6 e8f8 d6c4",
+    "Rating": "1442",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "7703",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/CkumPQaL/black#28",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "0dReM",
+    "FEN": "2kr4/pp2qp1p/2p1p1r1/2PpQ3/3P4/P7/1P1NP1B1/R1B3K1 w - - 5 22",
+    "Moves": "g1f1 d8g8 d2f3 f7f6 e5h5 g6g2",
+    "Rating": "1439",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality long middlegame quietMove",
+    "GameUrl": "https://lichess.org/L5Nk0VQk#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0dSMQ",
+    "FEN": "rn3nk1/p1r2ppp/qp2p3/3NP1N1/3P4/8/PPQ2PPP/2R2RK1 b - - 0 18",
+    "Moves": "c7c2 d5e7 g8h8 g5f7",
+    "Rating": "1476",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1685",
+    "Themes": "deflection kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PptsyVML/black#36",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "0dSaM",
+    "FEN": "r3qknr/pp1bb3/4p1QB/3pP3/7P/2P4R/PP1N1PP1/R3K3 b Q - 0 16",
+    "Moves": "h8h6 h3f3 e7f6 f3f6 f8e7 g6g7",
+    "Rating": "1550",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "16158",
+    "Themes": "crushing exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/XFW9VhGJ/black#32",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "0dTPu",
+    "FEN": "5rk1/p3ppbp/4bnp1/1pN5/3B4/3P2P1/r3PPBP/2R1R1K1 b - - 1 20",
+    "Moves": "e6d5 d4f6 d5g2 f6g7 g8g7 g1g2",
+    "Rating": "1513",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "8966",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/A3zShy89/black#40",
+    "OpeningTags": ""
+  }
+]

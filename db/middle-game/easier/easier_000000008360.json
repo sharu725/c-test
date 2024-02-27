@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PLoZO",
+    "FEN": "5rk1/3n1ppp/1qp1pP2/2p1P3/3p2Q1/1P1P2bP/2PB2P1/R6K b - - 0 22",
+    "Moves": "g3e5 g4g7",
+    "Rating": "1057",
+    "RatingDeviation": "83",
+    "Popularity": "95",
+    "NbPlays": "259",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/NZZR5trb/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PLotI",
+    "FEN": "2r4k/2P3p1/1b5p/p3Pq1n/2Q5/2B2P2/PPP3PP/4R2K w - - 1 28",
+    "Moves": "c4e2 h5g3 h2g3 f5h5",
+    "Rating": "1099",
+    "RatingDeviation": "77",
+    "Popularity": "78",
+    "NbPlays": "75",
+    "Themes": "clearance kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/bzBZQlBR#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PLots",
+    "FEN": "r4rk1/pp1b3p/1qp1p3/2bpPp2/5P2/2PB2B1/PP1Q2PP/2KR3R w - - 3 17",
+    "Moves": "d3e2 c5e3 c1b1 e3d2",
+    "Rating": "1130",
+    "RatingDeviation": "79",
+    "Popularity": "73",
+    "NbPlays": "43",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/K5qCyFAM#33",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "PLowf",
+    "FEN": "2kr3r/1pq1b1p1/p3p2p/2ppP3/5nP1/P1N4P/1PPQ1B2/2KR3R w - - 0 19",
+    "Moves": "d2f4 e7g5 f4g5 h6g5",
+    "Rating": "1173",
+    "RatingDeviation": "154",
+    "Popularity": "-60",
+    "NbPlays": "27",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/9bFWi5ib#37",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "PLqrp",
+    "FEN": "3rr1k1/ppqn1pp1/2pb3p/2p1N3/2P2P2/1P4Q1/PBP3PP/4RRK1 b - - 2 19",
+    "Moves": "d7e5 f4e5 d6f8 e5e6",
+    "Rating": "1189",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "697",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/t8tKgpMa/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "PLs1l",
+    "FEN": "r4bk1/pp1b2pp/1q2p3/3p3Q/2nP4/PN6/1PB3PP/R1B4K b - - 5 18",
+    "Moves": "g7g6 c2g6 h7g6 h5g6",
+    "Rating": "1042",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "1776",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/dDDYUZo7/black#36",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "PLsTs",
+    "FEN": "5rk1/5pp1/p1p1p2p/1p2P3/2q2nQ1/4RN2/PPP2PPP/R5K1 w - - 4 21",
+    "Moves": "g2g3 f4e2 g1g2 c4g4",
+    "Rating": "1052",
+    "RatingDeviation": "80",
+    "Popularity": "71",
+    "NbPlays": "115",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/pAHWOO9Z#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PLtGN",
+    "FEN": "4r3/1ppn1pbk/p2p2pp/3P4/3P1q1B/3B1P1P/PPP2Q2/1K1R4 b - - 3 21",
+    "Moves": "f4d4 d3g6 f7g6 d1d4",
+    "Rating": "1040",
+    "RatingDeviation": "250",
+    "Popularity": "-64",
+    "NbPlays": "4",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/hgnkwDVG/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PLufL",
+    "FEN": "rn1q2k1/4bNpp/p2p4/2pn1b2/1pQ2B2/7P/PPP2PP1/R4RK1 b - - 0 17",
+    "Moves": "g8f7 c4d5 f5e6 d5a8",
+    "Rating": "1073",
+    "RatingDeviation": "85",
+    "Popularity": "93",
+    "NbPlays": "469",
+    "Themes": "crushing fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/2kgmyjC0/black#34",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  }
+]

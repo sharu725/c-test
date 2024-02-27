@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FqaDg",
+    "FEN": "r4rk1/pppb1ppp/2nb1q2/8/3pQ3/2PB1N2/PP3PPP/R1B2RK1 b - - 1 12",
+    "Moves": "d4c3 e4h7",
+    "Rating": "1062",
+    "RatingDeviation": "76",
+    "Popularity": "78",
+    "NbPlays": "121",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/bjfe8Kaa/black#24",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  },
+  {
+    "PuzzleId": "FqcRD",
+    "FEN": "4r1k1/p1p3pp/2p5/3p2q1/4pr2/1PN4b/PBPP1R1P/R3Q2K w - - 0 18",
+    "Moves": "f2f4 g5g2",
+    "Rating": "1157",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "333",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/qGjrceIz#35",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Indian_Variation"
+  },
+  {
+    "PuzzleId": "FqemH",
+    "FEN": "6k1/R7/5K2/2r5/8/8/8/8 b - - 5 74",
+    "Moves": "g8f8 a7a8 c5c8 a8c8",
+    "Rating": "1194",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "547",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/6gHGe8e8/black#148",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FqfdT",
+    "FEN": "5rk1/p5pp/1p2p3/2p1P1R1/3pq1P1/3P2K1/PPPN1r2/R7 w - - 0 24",
+    "Moves": "d2e4 f8f3 g3h4 f2h2",
+    "Rating": "1192",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "11362",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/czHb2YMe#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Fqfuj",
+    "FEN": "1k1r4/1p1R2R1/p3p3/1N1pP3/3P4/1P2K2b/P5pr/8 b - - 0 32",
+    "Moves": "d8d7 g7g8 d7d8 g8d8",
+    "Rating": "1192",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "5136",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/N2CtDXOm/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FqlSb",
+    "FEN": "8/p3k3/1qp4r/1p2pB2/2p4P/P1B3r1/1PQ2P2/4RRK1 w - - 0 27",
+    "Moves": "g1h1 h6h4 f5h3 h4h3",
+    "Rating": "1058",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1931",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/69GKyoSR#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Fqp9V",
+    "FEN": "8/7k/p3P1p1/1p2B1Kp/4P2P/b7/P7/8 w - - 3 55",
+    "Moves": "e5f6 a3c1",
+    "Rating": "1075",
+    "RatingDeviation": "108",
+    "Popularity": "43",
+    "NbPlays": "21",
+    "Themes": "bishopEndgame endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/PjigF21u#109",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "FquBK",
+    "FEN": "r1b1r1k1/pp1p1p2/5Pp1/3p2Qp/3n1B2/3B1N2/PPP2qPP/2K4R w - - 2 19",
+    "Moves": "f3d4 e8e1 h1e1 f2e1",
+    "Rating": "1126",
+    "RatingDeviation": "106",
+    "Popularity": "86",
+    "NbPlays": "16",
+    "Themes": "master mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/gieoiEno#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Hyperaccelerated_Fianchetto"
+  },
+  {
+    "PuzzleId": "FqyFL",
+    "FEN": "5r2/7k/2N2qp1/p3p2p/R7/2PQ4/1P3PPP/4R1K1 w - - 1 26",
+    "Moves": "c6e5 f6f2 g1h1 f2e1 d3f1 f8f1",
+    "Rating": "1048",
+    "RatingDeviation": "81",
+    "Popularity": "95",
+    "NbPlays": "3291",
+    "Themes": "backRankMate endgame fork long mate mateIn3",
+    "GameUrl": "https://lichess.org/Piw9WCE5#51",
+    "OpeningTags": ""
+  }
+]

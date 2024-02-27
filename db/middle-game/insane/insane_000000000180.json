@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "0yzOg",
+    "FEN": "r3r1k1/ppp2pp1/2p2b1p/8/4Pq2/3P1N2/PPPN1P1K/R1Q2R2 w - - 2 17",
+    "Moves": "h2g2 f4g4 g2h1 f6e5",
+    "Rating": "2526",
+    "RatingDeviation": "83",
+    "Popularity": "84",
+    "NbPlays": "165",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/KShG06Oh#33",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "0z0is",
+    "FEN": "r2q1rk1/3b1pb1/p2p2p1/1ppPpnNP/2P3p1/3BPP2/PPQN4/2KR3R w - - 1 18",
+    "Moves": "d3f5 g6f5 g5e6 f7e6",
+    "Rating": "2563",
+    "RatingDeviation": "79",
+    "Popularity": "80",
+    "NbPlays": "167",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/QSJXp5oA#35",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "0z1ed",
+    "FEN": "r4n2/pB1N1k1p/1p2p1p1/5p2/2P4q/8/PP4Pb/R2Q1R1K w - - 1 24",
+    "Moves": "g2g3 h2g3 h1g2 a8d8 f1h1 h4g5",
+    "Rating": "2828",
+    "RatingDeviation": "88",
+    "Popularity": "77",
+    "NbPlays": "139",
+    "Themes": "advantage defensiveMove discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/ASeCvfuV#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0z45d",
+    "FEN": "r4rk1/1p4pp/p7/3p4/2p2pq1/P1P2N2/1PQ2P2/R1B1R1KN w - - 2 27",
+    "Moves": "g1f1 g4f3 f1g1 f3g4 h1g3 f4f3 e1e3 g4h3 e3f3 f8f3",
+    "Rating": "2484",
+    "RatingDeviation": "85",
+    "Popularity": "78",
+    "NbPlays": "52",
+    "Themes": "advantage hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/IT4neXX4#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0zDfP",
+    "FEN": "r4r1k/bpp3pp/p7/7q/1P2Q3/P3P2b/1B3PB1/RN3RK1 w - - 0 19",
+    "Moves": "b1d2 a8e8 e4b7 e8e6 b7d5 h5h6",
+    "Rating": "2792",
+    "RatingDeviation": "108",
+    "Popularity": "91",
+    "NbPlays": "372",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/rO7tlTO6#37",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "0zGff",
+    "FEN": "r1bq1rk1/pppp1pp1/5n2/4p1N1/4PP1Q/3P4/PPP3PP/R3K2R b KQ - 0 13",
+    "Moves": "e5f4 e1g1 f8e8 f1f4 d7d5 a1f1 e8e5 f4f6 e5g5 h4g5",
+    "Rating": "2754",
+    "RatingDeviation": "99",
+    "Popularity": "89",
+    "NbPlays": "198",
+    "Themes": "castling crushing middlegame pin quietMove veryLong",
+    "GameUrl": "https://lichess.org/Vw3OjaZF/black#26",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "0zIKk",
+    "FEN": "r7/2q1kp1r/2pN1bp1/p1n1p3/Pp2P3/1B6/1PP2PQ1/3RK1R1 w - - 4 22",
+    "Moves": "d6f7 c5b3 f7d6 b3d4 g2g6 e7d6 g6f6 d6c5",
+    "Rating": "2780",
+    "RatingDeviation": "118",
+    "Popularity": "88",
+    "NbPlays": "986",
+    "Themes": "advantage interference master middlegame veryLong",
+    "GameUrl": "https://lichess.org/3NNmMmlK#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0zJR0",
+    "FEN": "rn3rk1/1p4p1/p3N3/3p2Q1/4p3/7P/PP3qBK/7R b - - 0 24",
+    "Moves": "f2f6 g5d5 f6f5 h1f1 f5d5 f1f8 g8h7 g2e4 d5e4 e6g5 h7g6 g5e4",
+    "Rating": "2666",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "357",
+    "Themes": "advantage attraction fork middlegame sacrifice skewer veryLong",
+    "GameUrl": "https://lichess.org/EQhVyQT3/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0zKXU",
+    "FEN": "1r1q1rk1/p1p1bppp/2B5/2n1P3/5PP1/1P1p3P/P1PQ4/R1B2RK1 w - - 0 18",
+    "Moves": "c2d3 d8d4 d2f2 d4a1 c1e3 a1c3 f1c1 c3d3 e3c5 e7c5",
+    "Rating": "2486",
+    "RatingDeviation": "114",
+    "Popularity": "90",
+    "NbPlays": "264",
+    "Themes": "advantage fork middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/d1BJa1SS#35",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  }
+]

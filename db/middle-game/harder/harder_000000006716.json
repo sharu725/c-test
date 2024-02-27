@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "KJYGq",
+    "FEN": "2k3r1/pp1bb3/2n1p1q1/3pP2p/P1nP1Q2/1NP3B1/5PP1/R2B1RK1 w - - 0 24",
+    "Moves": "d1f3 e7g5 f3h5 g6h5",
+    "Rating": "1907",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "801",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/3S3uMHaT#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KJYKl",
+    "FEN": "2b2rk1/5pb1/p4np1/7p/1Q6/1P4PP/Pq3PB1/3R1RK1 b - - 0 24",
+    "Moves": "b2a2 d1d2 a2d2 b4d2",
+    "Rating": "1845",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "291",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/jlHgxBw2/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KJYZk",
+    "FEN": "2q2rk1/p3bppp/1p2p3/4N3/3P4/3QP1P1/PBr2PBP/5RK1 w - - 3 22",
+    "Moves": "f1b1 c2b2 b1b2 c8c1 g2f1 c1b2",
+    "Rating": "1885",
+    "RatingDeviation": "236",
+    "Popularity": "100",
+    "NbPlays": "9",
+    "Themes": "attraction clearance equality fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/LVmqciLs#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KJahr",
+    "FEN": "5r1k/R1R5/2Pp3b/3Pp1q1/4np2/2B2K1Q/4N1P1/1r6 b - - 1 49",
+    "Moves": "e4c3 c7h7 h8g8 h3e6 f8f7 e6f7",
+    "Rating": "1959",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "7023",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/5Bdekgkn/black#98",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KJcne",
+    "FEN": "3rr1k1/1bq1bp1N/p3p1Bp/1pn1P3/6Q1/P6P/1P3PP1/R1B1R1K1 b - - 0 23",
+    "Moves": "f7g6 g4g6 g8h8 g6h6 e7f8 h7f8",
+    "Rating": "1873",
+    "RatingDeviation": "97",
+    "Popularity": "4",
+    "NbPlays": "19",
+    "Themes": "crushing discoveredAttack kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/VoE1rlxF/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KJdTV",
+    "FEN": "r2q1rk1/p2n1pbp/4p1p1/3pP3/3n3P/3Q2P1/P2N1PB1/R1B1R1K1 b - - 1 17",
+    "Moves": "d8b6 a1b1 d7e5 e1e5",
+    "Rating": "1908",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "657",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Zk6sulzU/black#34",
+    "OpeningTags": "Kings_Indian_Attack Kings_Indian_Attack_French_Variation"
+  },
+  {
+    "PuzzleId": "KJdgg",
+    "FEN": "r1b2rk1/p4p1p/1p2pbp1/q7/4Q3/3B1N2/PPP2PPP/1K1R3R w - - 0 16",
+    "Moves": "e4a8 a5b4 c2c3 f6c3",
+    "Rating": "1817",
+    "RatingDeviation": "74",
+    "Popularity": "82",
+    "NbPlays": "87",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/W6p39Kux#31",
+    "OpeningTags": "French_Defense French_Defense_Rubinstein_Variation"
+  },
+  {
+    "PuzzleId": "KJdzb",
+    "FEN": "2r5/1b2ppk1/3p2p1/6N1/1n2P3/3P2qP/2P3B1/2Q2R1K b - - 1 27",
+    "Moves": "c8c2 f1f7 g7g8 c1f1 g3g2 f1g2 c2g2 h1g2",
+    "Rating": "1955",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "4663",
+    "Themes": "advantage middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/vaDiLj0n/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KJfZ3",
+    "FEN": "r4rk1/1pq1bppp/p1b1pn2/6B1/N1PN4/1Q6/PP3PPP/R2R2K1 w - - 8 17",
+    "Moves": "a1c1 f6g4 b3g3 c7g3",
+    "Rating": "1826",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "738",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/pJ2FfFyf#33",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  }
+]

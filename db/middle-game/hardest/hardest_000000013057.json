@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "R4d1h",
+    "FEN": "rn2kb1r/pp3ppp/2p3q1/5p1n/P2B4/1P6/2P2QPP/R3R1K1 b kq - 1 20",
+    "Moves": "e8d8 d4b6 d8d7 a1d1 f8d6 d1d6 d7c8 d6g6",
+    "Rating": "2296",
+    "RatingDeviation": "88",
+    "Popularity": "91",
+    "NbPlays": "47",
+    "Themes": "crushing exposedKing middlegame veryLong",
+    "GameUrl": "https://lichess.org/a81WOUSj/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "R4gIb",
+    "FEN": "Rnk3r1/4p3/2p3n1/2P3Pp/3b1r1P/2N2P2/5PB1/1R4K1 b - - 3 30",
+    "Moves": "c8c7 a8a7",
+    "Rating": "2022",
+    "RatingDeviation": "304",
+    "Popularity": "-33",
+    "NbPlays": "4",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/DpivJhJC/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "R4gLi",
+    "FEN": "4rrk1/ppqn2p1/2p2p1p/2PpN2n/3P4/P1NB2PP/1P5K/R3QR2 w - - 0 20",
+    "Moves": "e1d1 h5g3 h2g3 f6e5",
+    "Rating": "2308",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "523",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/1cFuMJ9d#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "R4iEC",
+    "FEN": "4r2k/1R4pp/p4n1q/8/Q2pp3/P7/5RPP/2r2NK1 w - - 5 31",
+    "Moves": "f2f6 h6e3 g1h1 e8g8",
+    "Rating": "2326",
+    "RatingDeviation": "92",
+    "Popularity": "60",
+    "NbPlays": "30",
+    "Themes": "advantage defensiveMove middlegame pin short",
+    "GameUrl": "https://lichess.org/S4SXbXkF#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "R4noW",
+    "FEN": "r1bq1rk1/pp2bp2/2n1p2p/3p4/2PP2p1/P1NB1NP1/1PQ2PP1/R3K2R w KQ - 0 14",
+    "Moves": "h1h6 g4f3 d3f1 f7f5",
+    "Rating": "2011",
+    "RatingDeviation": "73",
+    "Popularity": "91",
+    "NbPlays": "1463",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/toQLpSpm#27",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+  },
+  {
+    "PuzzleId": "R4oH1",
+    "FEN": "r1b2rk1/pp3p2/5Ppp/2qNp3/2B1R2B/8/PPP3PP/2KR4 b - - 3 18",
+    "Moves": "c8f5 b2b4 c5b4 d5b4",
+    "Rating": "2379",
+    "RatingDeviation": "87",
+    "Popularity": "90",
+    "NbPlays": "2495",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/XaAGoANl/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Open"
+  },
+  {
+    "PuzzleId": "R4olC",
+    "FEN": "rn1q2r1/1pp4k/p2b1p1p/4p3/3PP2N/2P1R2Q/P4PPP/R5K1 b - - 5 18",
+    "Moves": "b8c6 h3f5 h7h8 h4g6 g8g6 f5g6 d8f8 e3h3 f8g7 h3h6 h8g8 g6h5",
+    "Rating": "2289",
+    "RatingDeviation": "79",
+    "Popularity": "85",
+    "NbPlays": "414",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/39eC1VD8/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "R4qQs",
+    "FEN": "4br2/Qpk2p1R/p3B3/q1b1p3/4P3/2N5/PPP3PP/1K6 w - - 1 23",
+    "Moves": "c3d5 c7c6 b2b4 c5a7 b4a5 f7e6",
+    "Rating": "2021",
+    "RatingDeviation": "81",
+    "Popularity": "83",
+    "NbPlays": "38",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/hohUEHy8#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "R4qT5",
+    "FEN": "r1q2rk1/ppp1bpp1/3p3p/4p2Q/2P1P3/2P2N1N/PP3P1P/R1B1K3 w Q - 3 15",
+    "Moves": "c1h6 g7g6 h6f8 g6h5",
+    "Rating": "2065",
+    "RatingDeviation": "82",
+    "Popularity": "89",
+    "NbPlays": "878",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/ptaL5Nfi#29",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Napoleon_Attack"
+  }
+]

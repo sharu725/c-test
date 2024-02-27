@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CFSCp",
+    "FEN": "1r3k2/7R/b2N1Bp1/4P3/7P/8/3p2PK/6r1 b - - 1 41",
+    "Moves": "d2d1q h7h8",
+    "Rating": "1404",
+    "RatingDeviation": "412",
+    "Popularity": "83",
+    "NbPlays": "5",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/m2ankxT4/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CFSXW",
+    "FEN": "r7/5B2/6R1/4p1k1/P4p2/5P2/2K3P1/r3b3 b - - 6 51",
+    "Moves": "g5h4 g6g4",
+    "Rating": "1518",
+    "RatingDeviation": "88",
+    "Popularity": "84",
+    "NbPlays": "713",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/dNqf5tO0/black#102",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CFTgx",
+    "FEN": "R1b2r2/6pp/2pbkq2/1p2p3/1P1PQ3/1pP5/2P2PPP/2B1R1K1 w - - 5 20",
+    "Moves": "d4e5 f6f2 g1h1 f2f1 e1f1 f8f1",
+    "Rating": "1424",
+    "RatingDeviation": "86",
+    "Popularity": "83",
+    "NbPlays": "312",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/QIAHyRWW#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CFXhG",
+    "FEN": "6kR/1pb1qpp1/p3p3/3pP1N1/5Q2/1P2r2P/P5PK/8 b - - 2 37",
+    "Moves": "g8h8 f4h4 h8g8 h4h7 g8f8 h7h8",
+    "Rating": "1567",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "11642",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/bCSsmi4j/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CFcRB",
+    "FEN": "r1b2rk1/ppp2p2/4p1nR/8/2P2q2/2N5/PPQ3P1/1K5R b - - 1 19",
+    "Moves": "c8d7 h6g6 f7g6 c2g6",
+    "Rating": "1588",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "5909",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/G7pYTB1n/black#38",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CFdM1",
+    "FEN": "3r2k1/q5pp/4p1p1/1n2P3/1PQ2PP1/4P2P/3B4/2R3K1 b - - 1 28",
+    "Moves": "d8d2 c4e6 g8f8 c1c8 d2d8 c8d8",
+    "Rating": "1560",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "5387",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/ErJwatTo/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CFdcf",
+    "FEN": "8/1r6/5bp1/P4pk1/2Q5/6K1/5P2/4r3 b - - 1 49",
+    "Moves": "b7b1 c4h4",
+    "Rating": "1430",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "2833",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/0cjOX9by/black#98",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CFdfA",
+    "FEN": "2r1r1k1/pb1qnN1p/1p2p1pB/2b1P3/7Q/P2B3P/1P3PP1/R4RK1 b - - 0 22",
+    "Moves": "g8f7 h4f6 f7g8 f6g7",
+    "Rating": "1402",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "9025",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/cvm700Gr/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CFeq3",
+    "FEN": "r2qk2r/pppb1ppp/2p5/2b3B1/4n3/2NP4/PPP2PPP/R2QKB1R w KQkq - 0 8",
+    "Moves": "g5d8 c5f2 e1e2 d7g4",
+    "Rating": "1521",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "18429",
+    "Themes": "attackingF2F7 mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/1povnkW2#15",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  }
+]

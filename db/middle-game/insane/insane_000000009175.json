@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "obDAf",
+    "FEN": "r3N1k1/pp1n1ppp/8/5Pq1/3Q1R2/3B1n2/PP4PP/4R2K b - - 0 25",
+    "Moves": "f3e1 f4g4 g5g4 d4g4 a8e8 d3f1",
+    "Rating": "2462",
+    "RatingDeviation": "88",
+    "Popularity": "64",
+    "NbPlays": "36",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/wE5I1RO9/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "obEBM",
+    "FEN": "4rb2/1q3pkn/p2p2pN/1p1Pn1P1/3rBP2/2P4Q/PP5P/R4RK1 w - - 0 28",
+    "Moves": "f4e5 h7g5 h3g2 d4e4",
+    "Rating": "2407",
+    "RatingDeviation": "82",
+    "Popularity": "90",
+    "NbPlays": "1057",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/vkeqaQMP#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "obFBc",
+    "FEN": "r3r1k1/pp3p1p/6p1/4q3/4n3/B3PQP1/P4PKP/R4R2 w - - 0 20",
+    "Moves": "f1d1 e5c3 d1d7 e4g5",
+    "Rating": "2654",
+    "RatingDeviation": "87",
+    "Popularity": "86",
+    "NbPlays": "81",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/kXbgrVg7#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "obFP3",
+    "FEN": "3r4/p2k4/B1pq1n2/Q1Np1bp1/3Pp2r/8/PP4PP/2R2RK1 b - - 3 23",
+    "Moves": "d7e8 g2g3 h4h2 g1h2 f6g4 h2g2 g4e3 g2f2",
+    "Rating": "2444",
+    "RatingDeviation": "89",
+    "Popularity": "80",
+    "NbPlays": "136",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/dLYcKkTT/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "obGNW",
+    "FEN": "r1b1k2r/1p3ppp/p3p3/3pP3/1b3P2/2N1q3/PPQ1B1PP/1K1R3R b kq - 1 15",
+    "Moves": "e3f4 g2g3 f4e5 c2a4 c8d7 a4b4",
+    "Rating": "2422",
+    "RatingDeviation": "92",
+    "Popularity": "89",
+    "NbPlays": "432",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/63bHUVjF/black#30",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "obKbi",
+    "FEN": "r3r3/1p1k1p2/pq4p1/2p5/1PPpR3/7Q/1n4PP/1R5K b - - 6 30",
+    "Moves": "d7d8 e4e8 d8e8 b1e1 e8d8 h3h4 d8c7 h4f4 c7c8 e1e8",
+    "Rating": "2752",
+    "RatingDeviation": "113",
+    "Popularity": "91",
+    "NbPlays": "902",
+    "Themes": "attraction crushing exposedKing middlegame veryLong",
+    "GameUrl": "https://lichess.org/xhX7GSX6/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "obNoB",
+    "FEN": "r6r/pp3ppp/2bQR3/PkN3q1/1B3n2/5P2/1PR3PP/6K1 b - - 3 26",
+    "Moves": "f4e6 d6d3 b5b4 d3a3 b4b5 a3a4",
+    "Rating": "2406",
+    "RatingDeviation": "82",
+    "Popularity": "68",
+    "NbPlays": "146",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/FH44m4Yx/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "obObM",
+    "FEN": "3q1r1k/p1r3p1/1p1pB2p/3Pp1b1/2P1n3/3QB3/PP3P1R/1K5R b - - 3 24",
+    "Moves": "e4c5 d3g6 c5e6 d5e6 d8f6 g6g5 f6g5 e3g5",
+    "Rating": "2538",
+    "RatingDeviation": "112",
+    "Popularity": "90",
+    "NbPlays": "255",
+    "Themes": "advantage middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/rNj825lH/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "obQGT",
+    "FEN": "r3k2r/ppp2pp1/3bpq2/7p/3P2b1/3P3P/P1P1BPP1/R1BQ1RK1 w kq - 1 12",
+    "Moves": "h3g4 d6h2 g1h1 f6h4 c1g5 h4g5",
+    "Rating": "2527",
+    "RatingDeviation": "81",
+    "Popularity": "84",
+    "NbPlays": "297",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/CNuQhmB8#23",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  }
+]

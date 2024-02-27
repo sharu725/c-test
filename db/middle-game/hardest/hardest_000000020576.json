@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "garMV",
+    "FEN": "r1b2qk1/p1pn1rp1/2np3p/1BbNp2Q/4P3/3P3P/PPP2PP1/R1B2RK1 b - - 0 12",
+    "Moves": "f7f2 c1e3 c5e3 d5e3 f2f1 a1f1",
+    "Rating": "2188",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1300",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/g3K6d8kF/black#24",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "garql",
+    "FEN": "3r2k1/pR1b2p1/4p1Bp/3pP2N/6QK/4q2P/PPR2bP1/5r2 w - - 9 31",
+    "Moves": "c2f2 e3f2 g2g3 f2f8",
+    "Rating": "2272",
+    "RatingDeviation": "89",
+    "Popularity": "85",
+    "NbPlays": "223",
+    "Themes": "advantage defensiveMove hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/Y0jz1jPL#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "garsQ",
+    "FEN": "r2q1rk1/1b2bppp/p3pn2/1p4B1/8/P1N5/BP2RPPP/R2Q2K1 b - - 3 15",
+    "Moves": "f6d5 a2d5 e7g5 d5b7",
+    "Rating": "2019",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "158",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/INRKGHt3/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Accepted"
+  },
+  {
+    "PuzzleId": "gat3E",
+    "FEN": "3k3r/5Qbp/p3r1p1/1pppP1q1/3P2p1/2P1P2P/PP6/R1B2RK1 w - - 1 21",
+    "Moves": "f7e6 g4h3 g1f2 h8f8 f2e1 g5g3 e1d1 f8f1",
+    "Rating": "2212",
+    "RatingDeviation": "129",
+    "Popularity": "81",
+    "NbPlays": "29",
+    "Themes": "crushing deflection discoveredAttack exposedKing kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/s1YyYcn0#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gatcK",
+    "FEN": "2kr3r/ppq1bppp/2p2n2/4nb2/8/2NB2BP/PPP1Q1PN/R4RK1 b - - 3 17",
+    "Moves": "c7b6 g3f2 f5d3 e2e5 e7d6 f2b6 d6e5 b6d8",
+    "Rating": "2333",
+    "RatingDeviation": "105",
+    "Popularity": "73",
+    "NbPlays": "41",
+    "Themes": "advantage defensiveMove middlegame veryLong",
+    "GameUrl": "https://lichess.org/H8vraTfv/black#34",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "gaucN",
+    "FEN": "N6k/pp4pp/3p4/4p2n/4P1Bq/P4r1P/1PP1nb1K/R1BQ1R2 w - - 0 17",
+    "Moves": "d1e2 f3h3 g4h3 h4g3 h2h1 g3h3",
+    "Rating": "2026",
+    "RatingDeviation": "81",
+    "Popularity": "82",
+    "NbPlays": "121",
+    "Themes": "deflection long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/ligRxZ0T#33",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "gav24",
+    "FEN": "1k1r1b1r/p2p1p2/1ppP2np/q5p1/8/3B1QB1/PPP2PPP/R4RK1 b - - 1 18",
+    "Moves": "a5d5 f3f6 f8g7 f6g7",
+    "Rating": "2178",
+    "RatingDeviation": "115",
+    "Popularity": "79",
+    "NbPlays": "20",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/dhmFOHlh/black#36",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "gaxDU",
+    "FEN": "6k1/p3rNq1/1p2P3/2p3n1/5RP1/P1P5/1P1R2B1/6K1 b - - 0 43",
+    "Moves": "e7e6 d2d8 g8h7 f7g5 g7g5 f4f7 h7h6 d8h8 h6g6 h8g8 g6f7 g8g5",
+    "Rating": "2247",
+    "RatingDeviation": "80",
+    "Popularity": "91",
+    "NbPlays": "723",
+    "Themes": "clearance crushing exposedKing middlegame skewer veryLong",
+    "GameUrl": "https://lichess.org/mvoH2TqT/black#86",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gaxUr",
+    "FEN": "2n2r2/4qpbk/p2p4/2pPp1NP/PrP1P1Q1/8/5PP1/R3K2R b KQ - 6 26",
+    "Moves": "h7h8 g4f5 e7g5 f5g5",
+    "Rating": "2276",
+    "RatingDeviation": "78",
+    "Popularity": "74",
+    "NbPlays": "75",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/GzS6Eu7A/black#52",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "7IW7S",
+    "FEN": "8/pp3k1p/6p1/1q1KQ3/1P6/2B5/7P/8 w - - 7 46",
+    "Moves": "d5d6 b5c6",
+    "Rating": "1438",
+    "RatingDeviation": "84",
+    "Popularity": "89",
+    "NbPlays": "134",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/ZP0Sgu1u#91",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7IWM9",
+    "FEN": "4rrk1/ppp5/2bp1qp1/5n2/5P2/1P3B2/P1PQ1B2/2K1R2R w - - 0 24",
+    "Moves": "f3c6 f6a1",
+    "Rating": "1409",
+    "RatingDeviation": "104",
+    "Popularity": "86",
+    "NbPlays": "141",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Zt7sjpsw#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7IaKc",
+    "FEN": "r2B1rk1/ppp3pp/2npp3/4p3/4n3/P2P3P/1PP2bPN/RN1QK2R w KQ - 0 11",
+    "Moves": "e1f1 e4g3",
+    "Rating": "1437",
+    "RatingDeviation": "124",
+    "Popularity": "86",
+    "NbPlays": "54",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/HdoJGUYh#21",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "7IctA",
+    "FEN": "Q7/2p3kp/1p4p1/nPr3q1/8/5p2/4BPPP/2R2RK1 w - - 0 26",
+    "Moves": "c1c5 g5g2",
+    "Rating": "1436",
+    "RatingDeviation": "259",
+    "Popularity": "60",
+    "NbPlays": "15",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/HE2yo8uq#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7Id2p",
+    "FEN": "5rrk/1pp3p1/1p1q2Rp/7Q/P4p1R/2P4P/5PP1/6K1 b - - 1 35",
+    "Moves": "f8f6 h5h6 g7h6 h4h6",
+    "Rating": "1465",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "2843",
+    "Themes": "endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/0UXWlzlc/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7IdPW",
+    "FEN": "3r1r2/2q2p1k/p1n2Pp1/1p3n2/2B1R2R/1P5P/P1Q3P1/6K1 b - - 0 34",
+    "Moves": "f5h4 e4h4 h7g8 c2g6",
+    "Rating": "1402",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "829",
+    "Themes": "deflection discoveredAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/l6hEtaFx/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7IgNZ",
+    "FEN": "1r3rk1/pppb2p1/4pqQp/6b1/3PB3/4P1R1/PPP3PP/R1B3K1 w - - 4 17",
+    "Moves": "c1d2 f6f2 g1h1 f2f1 a1f1 f8f1",
+    "Rating": "1416",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "844",
+    "Themes": "backRankMate fork long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/2vZ1Hnym#33",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "7Iiml",
+    "FEN": "r4rk1/1p2q1pB/p3bn2/8/7Q/8/P5PP/1R3RK1 b - - 0 26",
+    "Moves": "g8f7 h4h5 g7g6 h5g6",
+    "Rating": "1566",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "815",
+    "Themes": "mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/R31WuAlG/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "7IjpA",
+    "FEN": "r2r2k1/1p5R/4b1p1/2b1p3/4p1P1/2N2PK1/3qN3/7R b - - 3 32",
+    "Moves": "e4f3 h7h8 g8f7 h1h7 f7f6 c3e4",
+    "Rating": "1413",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1969",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/PSokGaGn/black#64",
+    "OpeningTags": ""
+  }
+]

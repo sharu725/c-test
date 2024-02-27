@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Qtdcs",
+    "FEN": "1rbqk1nr/3p1pbp/p3p1p1/1p2P3/2BpN3/1P1P1Q2/P1P2PPP/R1B1K2R b KQk - 2 11",
+    "Moves": "b5c4 e4d6 e8e7 f3f7",
+    "Rating": "1535",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "4141",
+    "Themes": "mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/zGS8r4bg/black#22",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "QtePy",
+    "FEN": "8/p6R/8/8/P1P3p1/1P3k2/1r6/5K2 w - - 3 52",
+    "Moves": "h7a7 b2b1",
+    "Rating": "1468",
+    "RatingDeviation": "97",
+    "Popularity": "33",
+    "NbPlays": "302",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/Eh0Jgj0r#103",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Qtef0",
+    "FEN": "5rk1/1b3p2/3qp1B1/p1p1b3/1p1p4/1Pn4R/PBQ3PP/5RK1 b - - 0 24",
+    "Moves": "f7g6 c2g6 e5g7 g6h7",
+    "Rating": "1502",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "219",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/DqttZHBO/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QtfAW",
+    "FEN": "5rk1/pp3pp1/7p/2bNp3/2Bn3q/3P4/PPPQbPPP/R4RK1 w - - 9 19",
+    "Moves": "f1e1 d4f3 g2f3 h4f2 g1h1 e2f3",
+    "Rating": "1495",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "14680",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/BHM5GJ0r#37",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "QthDO",
+    "FEN": "4rr1k/3q1p1p/p2P1Pp1/1p5R/2p5/6Q1/PP4PP/5RK1 b - - 2 31",
+    "Moves": "f8g8 h5h7 h8h7 g3h4",
+    "Rating": "1409",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "443",
+    "Themes": "attraction endgame kingsideAttack mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/PLce77wc/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QthRG",
+    "FEN": "r1b1k2r/ppp2pp1/1bpq4/6B1/4P1B1/2PP2p1/PP3P1P/RN1Q1RK1 w kq - 0 12",
+    "Moves": "h2g3 d6g3",
+    "Rating": "1461",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "670",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/B7m0jOUh#23",
+    "OpeningTags": "Russian_Game Russian_Game_Stafford_Gambit"
+  },
+  {
+    "PuzzleId": "QtjdQ",
+    "FEN": "7k/6p1/7p/4RK2/4p1PP/4Pb2/5Pr1/8 b - - 6 43",
+    "Moves": "g2f2 f5g6 f3g4 e5e8 f2f8 e8f8",
+    "Rating": "1562",
+    "RatingDeviation": "73",
+    "Popularity": "97",
+    "NbPlays": "6294",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/CfHg3Y7K/black#86",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QtlUp",
+    "FEN": "8/5Bk1/8/1R1pNpp1/3Pn3/2P5/r5KP/8 w - - 3 47",
+    "Moves": "g2f3 a2f2 f3e3 f5f4 e3d3 f2d2",
+    "Rating": "1564",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "172",
+    "Themes": "endgame exposedKing hookMate long mate mateIn3",
+    "GameUrl": "https://lichess.org/wAVlxEBR#93",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QtnCF",
+    "FEN": "4r1k1/ppn3pR/6Q1/2bp2P1/8/2NP4/PPPK1r2/R7 w - - 0 22",
+    "Moves": "d2c1 e8e1 c3d1 c5e3 c1b1 e1d1",
+    "Rating": "1453",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "12460",
+    "Themes": "deflection long mate mateIn3 middlegame pin queensideAttack",
+    "GameUrl": "https://lichess.org/xDEwhWQP#43",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "O8d1f",
+    "FEN": "r1b1k3/pp2n2p/2p2B2/8/1bp2P2/P1N5/1PP3rP/2KRR3 b q - 0 17",
+    "Moves": "b4c3 e1e7 e8f8 d1d8",
+    "Rating": "1068",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "560",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/QpjaoF42/black#34",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "O8eWU",
+    "FEN": "r1bqkb1r/1p3p2/p2p4/7p/Pp2P1p1/1B3N1P/1PP2PP1/R2Q1RK1 w kq - 0 16",
+    "Moves": "h3g4 h5g4 g2g3 g4f3",
+    "Rating": "1183",
+    "RatingDeviation": "78",
+    "Popularity": "89",
+    "NbPlays": "2039",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/jt4Jg5Vv#31",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "O8fZb",
+    "FEN": "2r2rk1/pp3ppp/n1p2n2/1P6/2Pq4/3B4/P5PP/R2QR2K b - - 1 22",
+    "Moves": "a6c5 d3h7 f6h7 d1d4",
+    "Rating": "1017",
+    "RatingDeviation": "97",
+    "Popularity": "82",
+    "NbPlays": "38",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/m0M8x7Rg/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O8gKa",
+    "FEN": "r5k1/ppB2q2/4prp1/1b1p4/3n4/P1N3Q1/2P2PPP/R4RK1 w - - 0 22",
+    "Moves": "c3b5 d4e2 g1h1 e2g3",
+    "Rating": "1199",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "152",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/nQmtLoYe#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O8gOf",
+    "FEN": "r1b1k2r/p3n1bp/2p2pp1/4p1B1/3pP3/1N1P1N1P/qPP2PP1/1R1Q1RK1 w kq - 0 15",
+    "Moves": "g5c1 a2b1 f3d2 b1a2",
+    "Rating": "1169",
+    "RatingDeviation": "96",
+    "Popularity": "69",
+    "NbPlays": "36",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/g8NVZTZk#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "O8gv0",
+    "FEN": "1r1q1rk1/1b1pbppp/pp6/2p1P3/1n2Q3/PPN2N2/1BP2PPP/R4RK1 w - - 1 16",
+    "Moves": "e4e3 b4c2 e3d3 c2a1",
+    "Rating": "1182",
+    "RatingDeviation": "206",
+    "Popularity": "-100",
+    "NbPlays": "5",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/tlR6dzvZ#31",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Sicilian_Invitation"
+  },
+  {
+    "PuzzleId": "O8i85",
+    "FEN": "4kbr1/3b1p2/p3pP1p/4P1p1/3p4/1qrP2Q1/1R4PP/B1R4K w - - 0 28",
+    "Moves": "c1c3 b3d1 g3e1 d1e1",
+    "Rating": "1049",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "163",
+    "Themes": "backRankMate fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/nWSXtTHa#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "O8iJn",
+    "FEN": "rn2kb1r/ppp1pppp/8/6B1/8/3R1P2/PPP3PP/4K1NR b Kkq - 0 10",
+    "Moves": "e7e6 d3d8",
+    "Rating": "1074",
+    "RatingDeviation": "197",
+    "Popularity": "47",
+    "NbPlays": "7",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/PREMrBzm/black#20",
+    "OpeningTags": "Van_Geet_Opening Van_Geet_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "O8kKE",
+    "FEN": "r4rk1/1Q3ppp/pB3bP1/4n2P/Np6/8/PPP1q3/1K1R1R2 w - - 1 26",
+    "Moves": "f1f6 e2d1",
+    "Rating": "1099",
+    "RatingDeviation": "82",
+    "Popularity": "95",
+    "NbPlays": "162",
+    "Themes": "hangingPiece master mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/5uOhLUY4#51",
+    "OpeningTags": ""
+  }
+]

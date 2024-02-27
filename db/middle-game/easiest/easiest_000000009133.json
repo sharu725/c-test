@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "R6t7S",
+    "FEN": "r1b2rk1/p4ppp/1p1qpN2/2pp4/8/1P6/PBPP1PPP/R2Q1RK1 b - - 3 13",
+    "Moves": "g7f6 d1g4 g8h8 b2f6",
+    "Rating": "898",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "332",
+    "Themes": "intermezzo kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/DhU5WfTH/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "R6uhk",
+    "FEN": "r2q4/1pp2pkp/p3p1b1/4N3/4nQ2/2P1P3/PP3PP1/2K2B1R w - - 5 25",
+    "Moves": "e5g6 d8d2 c1b1 d2d1",
+    "Rating": "997",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "1541",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/fQMuLbFZ#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "R6uzU",
+    "FEN": "r1b2rk1/ppp1p2p/5pp1/nn6/8/2PN2P1/PB2PPBP/2R2RK1 b - - 7 16",
+    "Moves": "a5c4 g2d5 g8g7 d5c4",
+    "Rating": "913",
+    "RatingDeviation": "81",
+    "Popularity": "95",
+    "NbPlays": "814",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/R97XVcv2/black#32",
+    "OpeningTags": "Neo-Grunfeld_Defense Neo-Grunfeld_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "R6wjt",
+    "FEN": "4rk1r/p1p3pp/4Q3/2pp3q/8/2N3P1/PP1B2K1/5R2 b - - 3 24",
+    "Moves": "h5f3 f1f3",
+    "Rating": "979",
+    "RatingDeviation": "84",
+    "Popularity": "81",
+    "NbPlays": "295",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/zBd2GSBW/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "R6xjS",
+    "FEN": "r3r1k1/pppqnppp/3p4/1P6/2P1Rp2/5N2/P3QPPP/4R1K1 b - - 7 18",
+    "Moves": "e7f5 e4e8 a8e8 e2e8 d7e8 e1e8",
+    "Rating": "671",
+    "RatingDeviation": "96",
+    "Popularity": "83",
+    "NbPlays": "493",
+    "Themes": "backRankMate long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/fcqr4mV6/black#36",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "R6yCX",
+    "FEN": "2kr3r/pp1n1ppp/2NBp1b1/3n4/P1B5/2PP4/2P2PPP/R3K2R b KQ - 0 15",
+    "Moves": "b7c6 c4a6",
+    "Rating": "711",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "252",
+    "Themes": "bodenMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/EV5xfFI5/black#30",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "R71xE",
+    "FEN": "r1br2Qk/6pp/2p2pnN/p1P4q/3P4/B3R3/P4PPP/3R2K1 b - - 8 26",
+    "Moves": "d8g8 h6f7",
+    "Rating": "880",
+    "RatingDeviation": "84",
+    "Popularity": "94",
+    "NbPlays": "327",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/31vtGVww/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "R72B1",
+    "FEN": "r1b1r1k1/p1p2ppp/5q2/2Bp4/4n3/2P2N2/PP1N1PPP/R2QR1K1 b - - 0 14",
+    "Moves": "e4c5 e1e8",
+    "Rating": "587",
+    "RatingDeviation": "84",
+    "Popularity": "97",
+    "NbPlays": "847",
+    "Themes": "backRankMate hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/kGxP0Z33/black#28",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "R74Fp",
+    "FEN": "r4rk1/2qpnpbp/p3p1p1/1p2P3/3pNBP1/3P4/PPP1QPKP/4RR2 b - - 1 15",
+    "Moves": "g7e5 e4f6 e5f6 f4c7",
+    "Rating": "974",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "99",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/wpm95hi3/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  }
+]

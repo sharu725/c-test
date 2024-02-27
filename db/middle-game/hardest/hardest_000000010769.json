@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "MJKaG",
+    "FEN": "rn2kb1r/pQ3pp1/2p1bn1p/2q5/8/1B3p2/PPP1NPPP/2KR3R b kq - 1 16",
+    "Moves": "e6b3 b7c8 e8e7 c8d8 e7e6 e2d4",
+    "Rating": "2112",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "444",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/FM3VlGjK/black#32",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "MJLFk",
+    "FEN": "4r1k1/1p1b2bp/1q1p2p1/pN1Pp3/PnB1p3/1P5P/2r2PPB/1R1Q1R1K b - - 1 25",
+    "Moves": "c2f2 f1f2 b6f2 b5d6",
+    "Rating": "2185",
+    "RatingDeviation": "80",
+    "Popularity": "90",
+    "NbPlays": "523",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/TJqOdp1p/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MJLTd",
+    "FEN": "r1bq2k1/ppp2r2/3p3p/2nP1nN1/3Q3B/2P5/P4PPP/R3KB1R w KQ - 1 17",
+    "Moves": "g5f7 d8e8 f1e2 f5d4",
+    "Rating": "2146",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "4438",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/NKxqR4Ue#33",
+    "OpeningTags": "Ponziani_Opening Ponziani_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "MJNyi",
+    "FEN": "r4rk1/1pq3pp/p4n2/3p4/3b4/P1NB3b/1P1B1PP1/2RQ1RK1 w - - 0 19",
+    "Moves": "c3d5 c7g3 d5e7 g8h8 d1f3 g3f3",
+    "Rating": "2030",
+    "RatingDeviation": "75",
+    "Popularity": "59",
+    "NbPlays": "92",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/3SDrTYSb#37",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "MJOoe",
+    "FEN": "2r2rk1/1p1b1pp1/p3p2P/2pP4/2P4q/8/PP1QBR1P/5RK1 b - - 0 22",
+    "Moves": "h4h6 d2h6 g7h6 f2g2 g8h7 f1f6",
+    "Rating": "2170",
+    "RatingDeviation": "90",
+    "Popularity": "47",
+    "NbPlays": "27",
+    "Themes": "clearance crushing long middlegame",
+    "GameUrl": "https://lichess.org/24ptS4Ul/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MJSvW",
+    "FEN": "2q2nr1/p4k2/2p1pp2/1pPp3p/3N2rP/P7/1PP1QRP1/5RK1 b - - 9 26",
+    "Moves": "f6f5 d4f5 e6f5 f2f5",
+    "Rating": "2149",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "116",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/kZkQobqV/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MJTvC",
+    "FEN": "5r1k/6bp/8/p1pBpP2/2P4q/P2r3P/6Q1/4RRK1 w - - 1 30",
+    "Moves": "f5f6 d3g3 f6g7 h8g7 e1e2 f8f1 g1f1 g3g2",
+    "Rating": "2274",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "1284",
+    "Themes": "crushing exposedKing master middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/uu5dmBiV#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "MJVWV",
+    "FEN": "2kr3r/pppb1ppp/3b4/3p4/3P4/2PB1QPq/P1P2P1P/R1B2RK1 w - - 1 12",
+    "Moves": "f3f7 d8f8 f7d5 d7c6 d5c6 b7c6",
+    "Rating": "2175",
+    "RatingDeviation": "82",
+    "Popularity": "54",
+    "NbPlays": "35",
+    "Themes": "crushing long master middlegame",
+    "GameUrl": "https://lichess.org/nk4ExqMW#23",
+    "OpeningTags": "Russian_Game Russian_Game_Modern_Attack"
+  },
+  {
+    "PuzzleId": "MJVrF",
+    "FEN": "r4rk1/p3q1pp/4Nbp1/2ppB3/4n1P1/1P2P2P/P1P2P2/R2Q1RK1 w - - 1 19",
+    "Moves": "e5f6 e7e6",
+    "Rating": "2192",
+    "RatingDeviation": "136",
+    "Popularity": "100",
+    "NbPlays": "31",
+    "Themes": "equality hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/MHwPiMiN#37",
+    "OpeningTags": ""
+  }
+]

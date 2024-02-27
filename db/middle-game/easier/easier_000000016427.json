@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "nvd03",
+    "FEN": "r1b1r1k1/1p3ppp/1q6/p3N3/2P5/P1QB3P/1P1N2P1/n4K1R b - - 0 20",
+    "Moves": "b6e3 d3h7 g8h7 c3e3",
+    "Rating": "1076",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1748",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/3LPbQYKP/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nvd9C",
+    "FEN": "4r1k1/5ppp/p1b2n2/2b5/3P4/2N1B3/PP3PPP/R5K1 b - - 1 19",
+    "Moves": "f6g4 d4c5 g4e3 f2e3",
+    "Rating": "1174",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "400",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/XZxU65uW/black#38",
+    "OpeningTags": "Reti_Opening Reti_Opening_Advance_Variation"
+  },
+  {
+    "PuzzleId": "nvdL9",
+    "FEN": "r1bqk2r/p4ppp/5b2/2pp4/8/2N2N2/PPP2PPP/R2QK2R w KQkq - 0 12",
+    "Moves": "d1d5 f6c3 b2c3 d8d5",
+    "Rating": "1107",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "678",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/6CHz2kFA#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "nvdVP",
+    "FEN": "rn5k/pp2Nrpp/2pR4/4n1PQ/4P3/2q5/P1P3PP/7K b - - 0 18",
+    "Moves": "f7e7 d6d8 e7e8 h5e8",
+    "Rating": "1065",
+    "RatingDeviation": "81",
+    "Popularity": "85",
+    "NbPlays": "214",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/gaiqlhz0/black#36",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "nve5a",
+    "FEN": "r3r1k1/ppbn1pp1/2p2q1p/2P2b2/3PB3/2N2QP1/PP3P1P/R1B1R1K1 w - - 3 17",
+    "Moves": "c1e3 f5e4 f3e4 e8e4",
+    "Rating": "1087",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "242",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/sRLZl325#33",
+    "OpeningTags": "Russian_Game Russian_Game_Classical_Attack"
+  },
+  {
+    "PuzzleId": "nvgPA",
+    "FEN": "r1bk1bnr/pp1pq3/1QpN3p/4Ppp1/8/4B3/PPP1BPPP/R3K2R b KQ - 1 12",
+    "Moves": "a7b6 e3b6",
+    "Rating": "1060",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "141",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/BZU1ZAyT/black#24",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "nvj01",
+    "FEN": "6k1/p3b1pp/2b5/R1p3r1/2PP1n2/P5P1/4BP1P/4BRK1 w - - 1 25",
+    "Moves": "e2d1 f4h3",
+    "Rating": "1151",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "261",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/kfKWWNWN#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nvjst",
+    "FEN": "rnbq1rk1/pp3ppp/4p3/8/3N4/3Q4/PPP1NPPP/2KR3R b - - 2 13",
+    "Moves": "b8c6 d4c6",
+    "Rating": "1134",
+    "RatingDeviation": "87",
+    "Popularity": "60",
+    "NbPlays": "86",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/ON4ZNPT6/black#26",
+    "OpeningTags": "French_Defense French_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "nvkoE",
+    "FEN": "r1b1k2r/p2p1ppp/8/3Pn3/2p5/5P2/q1BQN1PP/1R2K2R b Kkq - 1 16",
+    "Moves": "e8g8 c2h7 g8h7 d2a2",
+    "Rating": "1068",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "120",
+    "Themes": "crushing discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/bmqOQ9Ob/black#32",
+    "OpeningTags": "Benko_Gambit_Declined Benko_Gambit_Declined_Pseudo-Samisch"
+  }
+]

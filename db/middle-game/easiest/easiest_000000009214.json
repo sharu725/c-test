@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "RMXN1",
+    "FEN": "1kr4r/1p3p1p/p5p1/b3p3/P3q3/1Q4N1/5PPP/1R2R1K1 b - - 3 30",
+    "Moves": "e4c4 b3b7",
+    "Rating": "928",
+    "RatingDeviation": "85",
+    "Popularity": "79",
+    "NbPlays": "83",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/Zs4kxpX7/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RMXVm",
+    "FEN": "rn4k1/p7/2p4q/3P1p2/4pb2/1B6/PP2QPP1/R2R3K w - - 1 28",
+    "Moves": "h1g1 h6h2 g1f1 h2h1",
+    "Rating": "865",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "127",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AhUTzVLq#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RMZYu",
+    "FEN": "4r1k1/rb3R2/p6p/3Pb3/1pBp3q/3P3P/1PP3P1/R4QK1 b - - 0 24",
+    "Moves": "g8h8 f7f8 e8f8 f1f8",
+    "Rating": "639",
+    "RatingDeviation": "97",
+    "Popularity": "93",
+    "NbPlays": "385",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/NwDHBn9C/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RMby0",
+    "FEN": "5r2/p4pkp/2p2Np1/4p3/6Q1/4n3/Pq4PP/R4R1K w - - 4 24",
+    "Moves": "g4h4 b2g2",
+    "Rating": "873",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "166",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/6SJ66IiF#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RMcCm",
+    "FEN": "r3k2r/p4p1p/n2N1p1b/4p3/4P3/8/PPP2PPP/R4RK1 b kq - 2 14",
+    "Moves": "e8e7 d6f5 e7e6 f5h6",
+    "Rating": "926",
+    "RatingDeviation": "87",
+    "Popularity": "88",
+    "NbPlays": "511",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/pdOfKOxG/black#28",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "RMcXU",
+    "FEN": "2r1rk2/ppp2pp1/2nb1q2/3p2nQ/3Pp3/PP2P3/2PN1P2/R1B1K1NR b KQ - 3 16",
+    "Moves": "e8e6 h5h8 f8e7 h8c8",
+    "Rating": "865",
+    "RatingDeviation": "90",
+    "Popularity": "87",
+    "NbPlays": "78",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/usGbYziT/black#32",
+    "OpeningTags": "Mieses_Opening Mieses_Opening_Reversed_Rat"
+  },
+  {
+    "PuzzleId": "RMd5c",
+    "FEN": "2rr2k1/p3Rppp/8/8/1P2B1n1/P4N2/2P2PPP/R1B3K1 w - - 3 19",
+    "Moves": "e7a7 d8d1 f3e1 d1e1",
+    "Rating": "654",
+    "RatingDeviation": "83",
+    "Popularity": "88",
+    "NbPlays": "491",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/O9lVVZ4l#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_French_Variation"
+  },
+  {
+    "PuzzleId": "RMga7",
+    "FEN": "5Bk1/p6p/1p2N3/5p2/1pr4P/P3b3/3nN1P1/R3R2K w - - 1 33",
+    "Moves": "f8b4 c4h4",
+    "Rating": "959",
+    "RatingDeviation": "91",
+    "Popularity": "89",
+    "NbPlays": "472",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/2Iba9gmP#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RMhg7",
+    "FEN": "r2q3k/2p2Qpp/bpP5/p1b5/4N3/1P6/PB4PP/5R1K b - - 4 28",
+    "Moves": "a6f1 f7g7",
+    "Rating": "908",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "602",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/77fxIeS5/black#56",
+    "OpeningTags": ""
+  }
+]

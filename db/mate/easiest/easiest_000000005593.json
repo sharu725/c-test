@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "AnASL",
+    "FEN": "1r3r1k/pp2pBb1/6Qp/6N1/8/4p3/Pq4PP/n3R1K1 b - - 1 23",
+    "Moves": "h6g5 g6h5 g7h6 h5h6",
+    "Rating": "941",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "878",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/y17KAdzD/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AnCDb",
+    "FEN": "2k5/2q2p1p/p3p1r1/3p1p2/P1nPn3/B1PN3P/5PPb/R2QR2K w - - 4 23",
+    "Moves": "d3c5 e4f2",
+    "Rating": "974",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "365",
+    "Themes": "kingsideAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/UfpawxBH#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AnCch",
+    "FEN": "r2q3r/pp1nb1pp/2p2nk1/5pB1/3P2P1/1B1Q3P/PPP5/RN4K1 b - - 0 14",
+    "Moves": "f6d5 d3f5",
+    "Rating": "994",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "153",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/G9u1CJeF/black#28",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Hillbilly_Attack"
+  },
+  {
+    "PuzzleId": "AnF8D",
+    "FEN": "3r2k1/p5pp/4p3/2R2pN1/5P2/1P4PK/r6P/8 b - - 1 34",
+    "Moves": "d8d2 c5c8 d2d8 c8d8",
+    "Rating": "615",
+    "RatingDeviation": "87",
+    "Popularity": "91",
+    "NbPlays": "502",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/53gdNF2T/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AnFc9",
+    "FEN": "r5k1/2R1qppp/3p4/p1pQ4/P1P1P3/5P2/6PP/6K1 b - - 0 26",
+    "Moves": "e7c7 d5a8 c7b8 a8b8",
+    "Rating": "798",
+    "RatingDeviation": "96",
+    "Popularity": "76",
+    "NbPlays": "176",
+    "Themes": "backRankMate endgame hangingPiece mate mateIn2 short",
+    "GameUrl": "https://lichess.org/YJmzUCxC/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AnFnE",
+    "FEN": "2b4N/pp2k1pp/3p4/3np3/2B1P3/8/PP1P1bPP/n1BK3R w - - 0 16",
+    "Moves": "c4d5 c8g4",
+    "Rating": "693",
+    "RatingDeviation": "81",
+    "Popularity": "84",
+    "NbPlays": "105",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/N6lSj3Eq#31",
+    "OpeningTags": "Vienna_Game Vienna_Game_Anderssen_Defense"
+  },
+  {
+    "PuzzleId": "AnFoJ",
+    "FEN": "r3r1k1/1p5p/pqn2bB1/3p4/3p4/P1P2P2/1PQ1NP2/R3K1R1 b Q - 0 21",
+    "Moves": "h7g6 c2g6 f6g7 g6g7",
+    "Rating": "998",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "2638",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/9tyfEqRA/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AnI6G",
+    "FEN": "r5k1/pp1N2pp/2p5/3p3q/3P4/5R2/PP5P/5R1K b - - 2 27",
+    "Moves": "a8d8 f3f8 d8f8 f1f8",
+    "Rating": "901",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "93",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/3o33Hrey/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AnL6L",
+    "FEN": "r1b2rk1/pp3ppp/3qp3/2p5/2PR4/8/P1Q5/5K1R b - - 0 27",
+    "Moves": "d6d4 c2h7",
+    "Rating": "850",
+    "RatingDeviation": "101",
+    "Popularity": "96",
+    "NbPlays": "280",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/8t2rE8Ka/black#54",
+    "OpeningTags": ""
+  }
+]

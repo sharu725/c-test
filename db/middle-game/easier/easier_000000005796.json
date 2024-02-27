@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HZRMt",
+    "FEN": "rn2k2r/pp3ppp/2p1pn2/2b5/2BN2b1/2NP1P2/PqPBQ1PP/R4RK1 w kq - 1 12",
+    "Moves": "f3g4 c5d4 g1h1 d4c3",
+    "Rating": "1110",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "1079",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/pcOdiTTV#23",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "HZV4q",
+    "FEN": "2rr2k1/1b2qp1p/1n2p1pQ/p7/1n1PN3/1BN2P2/1P4PP/1R1R2K1 b - - 5 26",
+    "Moves": "e7f8 e4f6 g8h8 h6h7",
+    "Rating": "1013",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "279",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/MvEuIQXe/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HZVF9",
+    "FEN": "6k1/1Qr2pb1/6pp/3n4/3P4/3R1N2/PP2qPPP/1K1R4 w - - 0 24",
+    "Moves": "b7d5 e2c2 b1a1 c2c1 d1c1 c7c1",
+    "Rating": "1131",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "5208",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/6UrGHkhR#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HZVUd",
+    "FEN": "r4rk1/Bp2bppp/4b3/4q3/4B3/5P2/P3RKPP/R2Q4 b - - 0 19",
+    "Moves": "a8a7 e4h7 g8h7 e2e5",
+    "Rating": "1006",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "816",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/hmMjgm8X/black#38",
+    "OpeningTags": "Slav_Defense Slav_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "HZVhS",
+    "FEN": "6k1/pppb2pp/2n1p3/2Pp4/3P1r2/P2Q1P1q/1PB2P1P/3RR1K1 w - - 5 18",
+    "Moves": "d3h7 h3h7 c2h7 g8h7",
+    "Rating": "1017",
+    "RatingDeviation": "91",
+    "Popularity": "84",
+    "NbPlays": "37",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/RW6dwPwK#35",
+    "OpeningTags": "Kangaroo_Defense Kangaroo_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "HZWAO",
+    "FEN": "2kr3r/ppPn2pp/1bn2p1q/4p3/4N3/5N2/PB3PPP/2RQR1K1 b - - 0 19",
+    "Moves": "c8c7 d1d6 c7c8 c1c6",
+    "Rating": "1141",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "5188",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/KJoSDVty/black#38",
+    "OpeningTags": "Italian_Game Italian_Game_Evans_Gambit"
+  },
+  {
+    "PuzzleId": "HZWPH",
+    "FEN": "2r1k2r/pp2pp1p/8/q2PbQ2/2P5/2N1B1PP/Pn3PB1/R1n3K1 b k - 0 21",
+    "Moves": "e5c3 f5c8 a5d8 c8d8",
+    "Rating": "1186",
+    "RatingDeviation": "253",
+    "Popularity": "43",
+    "NbPlays": "3",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/m90PTTfa/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HZXmq",
+    "FEN": "3rkq1r/Qpp2ppp/3p1n2/3NnPB1/4P3/P7/1PP3PP/2KR1b1R w k - 2 16",
+    "Moves": "d5f6 g7f6 h1f1 f6g5",
+    "Rating": "1031",
+    "RatingDeviation": "78",
+    "Popularity": "82",
+    "NbPlays": "246",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/yXiMvRwA#31",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Gunsberg_Variation"
+  },
+  {
+    "PuzzleId": "HZXrW",
+    "FEN": "r4rk1/1pp2pp1/7p/p7/6R1/3P1PnB/PPPqp1Q1/1K2R3 w - - 2 22",
+    "Moves": "g2g3 d2d1 e1d1 e2d1q",
+    "Rating": "1175",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "5611",
+    "Themes": "advancedPawn mate mateIn2 middlegame promotion queensideAttack short",
+    "GameUrl": "https://lichess.org/OcMjqEwZ#43",
+    "OpeningTags": ""
+  }
+]

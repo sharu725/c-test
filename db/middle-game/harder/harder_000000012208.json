@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "avN21",
+    "FEN": "r1b2rk1/pp1p1ppp/4n3/3N4/2PR4/3BP3/5PPP/3K3R w - - 1 22",
+    "Moves": "d3h7 g8h7 d4h4 h7g6",
+    "Rating": "1977",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "1021",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/gZnEVOQp#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "avNsw",
+    "FEN": "r1bq3r/pp2nkpp/2nb1p2/3p4/3P1B2/1QN2N2/PP2BPPP/R4RK1 w - - 8 12",
+    "Moves": "c3d5 c8e6 d5e7 e6b3",
+    "Rating": "1908",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1936",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/eYsh6ecs#23",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "avPpL",
+    "FEN": "1r3r1k/p3p2p/b1pp1npQ/4q3/4N3/PB3P2/1PP3P1/R2K3R b - - 1 21",
+    "Moves": "f6h5 e4g5 e5g7 h6g7",
+    "Rating": "1824",
+    "RatingDeviation": "96",
+    "Popularity": "83",
+    "NbPlays": "40",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/KXRg0NI2/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "avQcw",
+    "FEN": "rr4k1/3n1pp1/4p2p/p2b4/3P4/B1nBPN2/5PPP/R1R3K1 b - - 1 20",
+    "Moves": "b8b3 f3d2 c3a2 d2b3",
+    "Rating": "1947",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "8074",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/t00U6btO/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "avRS1",
+    "FEN": "r3k2r/1pp2ppp/2n5/p3N3/6b1/B2R4/P1P2PPP/4R1K1 b kq - 0 14",
+    "Moves": "g4e6 e5c6 b7c6 f2f4 g7g6 g2g4",
+    "Rating": "1942",
+    "RatingDeviation": "85",
+    "Popularity": "70",
+    "NbPlays": "34",
+    "Themes": "advantage defensiveMove long middlegame pin quietMove",
+    "GameUrl": "https://lichess.org/n7wG6y9c/black#28",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Nimzowitsch_Variation"
+  },
+  {
+    "PuzzleId": "avSbH",
+    "FEN": "5rk1/1p2bpp1/1qp1pn1p/4P2P/p4B2/P1P2PN1/1P1Q2PK/3R4 b - - 0 24",
+    "Moves": "f8d8 e5f6 d8d2 f6e7 d2d1 e7e8q",
+    "Rating": "1915",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1203",
+    "Themes": "advancedPawn advantage kingsideAttack long middlegame promotion sacrifice",
+    "GameUrl": "https://lichess.org/4c177MQg/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "avTDT",
+    "FEN": "1r4k1/5pp1/4p2p/2qpP2P/3N4/2r3P1/4RP2/3Q1BK1 w - - 0 41",
+    "Moves": "e2d2 c3c1 d1e2 b8b1 d4f3 c1f1 e2f1 b1f1",
+    "Rating": "1838",
+    "RatingDeviation": "74",
+    "Popularity": "76",
+    "NbPlays": "84",
+    "Themes": "advantage middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/pQ2lb2Ml#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "avTkq",
+    "FEN": "b7/2r2pkp/p2p1bp1/3N4/6N1/4B3/2r2PPP/4R1K1 b - - 7 36",
+    "Moves": "a8d5 e3h6 g7h8 e1e8",
+    "Rating": "1802",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "2025",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/UcScitlR/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "avVFi",
+    "FEN": "r4rk1/1ppn3p/n2p2pb/p2Ppp2/2P1P2q/P1N1BP2/1P1NQ1PP/2R2RK1 w - - 1 15",
+    "Moves": "e2f2 h4f2 g1f2 f5f4",
+    "Rating": "1899",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "430",
+    "Themes": "crushing kingsideAttack master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/ZiaAeF76#29",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Orthodox_Variation"
+  }
+]

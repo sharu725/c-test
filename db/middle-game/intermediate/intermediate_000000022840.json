@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "t1RsV",
+    "FEN": "r2q1rk1/1pp4p/3pbnpQ/4p3/p1PnN3/3P2P1/PP2PPB1/2KR2NR b - - 1 16",
+    "Moves": "f6e4 h6h7",
+    "Rating": "1431",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1022",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/0HHvcOoy/black#32",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Indian_Defense"
+  },
+  {
+    "PuzzleId": "t1SKV",
+    "FEN": "2b2r1k/1p3rR1/p1p1q2P/2PpPp2/PP1P4/3BP3/7Q/6RK w - - 3 45",
+    "Moves": "h2g3 e6h6 g3h2 h6h2 h1h2 f7g7 g1g7 h8g7",
+    "Rating": "1550",
+    "RatingDeviation": "81",
+    "Popularity": "82",
+    "NbPlays": "58",
+    "Themes": "crushing exposedKing middlegame veryLong",
+    "GameUrl": "https://lichess.org/5LETtwTw#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "t1Ssl",
+    "FEN": "5rk1/2p3pp/p1pb4/3b4/2P1pqP1/3PRN1P/PP3PK1/R2Q4 w - - 0 20",
+    "Moves": "c4d5 e4f3 d1f3 f4h2 g2f1 f8f3",
+    "Rating": "1450",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "872",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/jHBmNRgZ#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "t1Tej",
+    "FEN": "r2qr1k1/p4p2/BppB1n1p/4P1p1/6b1/8/PPP2PPP/R2QK2R w KQ - 1 16",
+    "Moves": "d1d2 f6e4 d2d4 e4d6 d4g4 e8e5",
+    "Rating": "1571",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "4534",
+    "Themes": "advantage capturingDefender long middlegame pin",
+    "GameUrl": "https://lichess.org/9d29I3Q2#31",
+    "OpeningTags": "Vienna_Game Vienna_Game_Anderssen_Defense"
+  },
+  {
+    "PuzzleId": "t1UA7",
+    "FEN": "r4rk1/pR3ppp/5q2/3p4/1n6/P1b2NPP/2P2PB1/3Q1RK1 b - - 0 17",
+    "Moves": "f6c6 b7b4",
+    "Rating": "1510",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "107",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/M6MyYbMs/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Dunne_Attack"
+  },
+  {
+    "PuzzleId": "t1URW",
+    "FEN": "5rk1/p3b1pp/1pn5/3p4/3P4/2Pq1NB1/PP3QPP/R5K1 w - - 5 21",
+    "Moves": "f2d2 f8f3 d2d3 f3d3",
+    "Rating": "1580",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "142",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/gM2CaHOL#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "t1UiL",
+    "FEN": "r2q1r2/pp2p2k/2n3p1/3pP1N1/6b1/3B4/PPP2PP1/R2QK3 b Q - 1 15",
+    "Moves": "h7g8 d1g4 c6e5 g4e6",
+    "Rating": "1418",
+    "RatingDeviation": "82",
+    "Popularity": "88",
+    "NbPlays": "32",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/0W0m6xMv/black#30",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Samisch_Attack"
+  },
+  {
+    "PuzzleId": "t1V9h",
+    "FEN": "3q1rk1/Q1pbbppn/r3p2p/4P3/1nP5/2N1BN2/PP2BPPP/R4RK1 w - - 3 15",
+    "Moves": "a7b7 d7c6 b7a6 b4a6",
+    "Rating": "1532",
+    "RatingDeviation": "76",
+    "Popularity": "77",
+    "NbPlays": "146",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/P894kg8n#29",
+    "OpeningTags": "Rat_Defense Rat_Defense_Small_Center_Defense"
+  },
+  {
+    "PuzzleId": "t1VUD",
+    "FEN": "r5k1/ppp1rpbp/2n3p1/3q1b2/3NN3/2P3P1/PP1Q1PBP/R3R1K1 b - - 0 14",
+    "Moves": "c6d4 e4f6 g7f6 g2d5",
+    "Rating": "1574",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "2041",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/77EkSYWM/black#28",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  }
+]

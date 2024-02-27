@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "oLutd",
+    "FEN": "r4rk1/p4pp1/4p3/q3n2p/3P2bP/1Bp1B3/P1P2QP1/R1K3R1 w - - 4 25",
+    "Moves": "d4e5 a5a3 c1b1 a3b2",
+    "Rating": "1031",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "153",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/3f3ABaLN#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oLwjn",
+    "FEN": "8/p4p1p/4p1k1/2P1Qb2/3P3P/P1qpB3/3r1Pr1/R3K2R w KQ - 0 26",
+    "Moves": "e3d2 c3a1 d2c1 a1c1",
+    "Rating": "1101",
+    "RatingDeviation": "89",
+    "Popularity": "33",
+    "NbPlays": "30",
+    "Themes": "hangingPiece mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/sL9cCVD1#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oLxQi",
+    "FEN": "4rrk1/pp2qppN/4b2p/2pn4/4Q3/3B4/PP3PPP/3RR1K1 b - - 3 22",
+    "Moves": "d5f6 h7f6 e7f6 e4h7",
+    "Rating": "1031",
+    "RatingDeviation": "85",
+    "Popularity": "81",
+    "NbPlays": "388",
+    "Themes": "clearance kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/zPeTy9Hb/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oLyEQ",
+    "FEN": "4nrk1/1p3pp1/pprp3p/3NP3/1Q3P2/P6q/1PPR4/2K1R3 b - - 1 21",
+    "Moves": "d6e5 d5e7 g8h7 e7c6",
+    "Rating": "1148",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "2268",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Iv4bOGNT/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oLyuy",
+    "FEN": "1b2r1k1/p3rppp/1q6/8/3P4/1P3Q1P/P5P1/3R1R1K b - - 2 33",
+    "Moves": "e7e6 f3f7 g8h8 f7f8 e8f8 f1f8",
+    "Rating": "1115",
+    "RatingDeviation": "94",
+    "Popularity": "82",
+    "NbPlays": "68",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/UbFJrZKQ/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "oM0AZ",
+    "FEN": "r5k1/1pp2ppp/p1p1r3/2q1P3/4nP2/2N5/PPP1Q1P1/3R1R1K w - - 1 18",
+    "Moves": "c3e4 e6h6 e2h5 h6h5",
+    "Rating": "1064",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "151",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/HDjM4fhW#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "oM0qu",
+    "FEN": "r3kr2/ppp5/2n1p2p/6qR/3pPNn1/3P1QP1/PPP3P1/R3KB2 b Qq - 5 16",
+    "Moves": "g5h5 f4h5 f8f3 g2f3",
+    "Rating": "1170",
+    "RatingDeviation": "76",
+    "Popularity": "25",
+    "NbPlays": "202",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/5R8qPbqb/black#32",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "oM1WT",
+    "FEN": "r2q1r1k/1b3ppB/p1n1p3/1p1n4/4R3/5N2/PPQN1PPP/R5K1 b - - 2 16",
+    "Moves": "h8h7 e4h4 h7g8 c2h7",
+    "Rating": "1038",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "503",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/hZUhvXy7/black#32",
+    "OpeningTags": "St_George_Defense St_George_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "oM2Qw",
+    "FEN": "r1bqk2r/p4pb1/1p1p4/3n3p/P1Q1P3/4B1P1/1P4BP/R2N1RK1 b kq - 0 22",
+    "Moves": "d5e3 c4f7",
+    "Rating": "1093",
+    "RatingDeviation": "128",
+    "Popularity": "76",
+    "NbPlays": "27",
+    "Themes": "attackingF2F7 master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/KnOCbQjA/black#44",
+    "OpeningTags": ""
+  }
+]

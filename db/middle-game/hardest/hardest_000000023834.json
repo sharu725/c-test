@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "nJmXP",
+    "FEN": "2kr3r/ppp2ppp/2n1p3/4b2q/1P1PN1b1/P3PNP1/2P1B2P/R2Q1RK1 b - - 0 14",
+    "Moves": "c6d4 e3d4 d8d4 f3d4",
+    "Rating": "2233",
+    "RatingDeviation": "85",
+    "Popularity": "89",
+    "NbPlays": "450",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/8RRcoc8e/black#28",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "nJo0U",
+    "FEN": "r2q1rk1/1pp1b1pp/p7/1P2N3/2Pn1p2/P2P1B1b/3B1PP1/R2Q1RK1 b - - 1 17",
+    "Moves": "d8d6 f1e1 d4f3 d1f3",
+    "Rating": "2349",
+    "RatingDeviation": "88",
+    "Popularity": "80",
+    "NbPlays": "38",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/uW95igMF/black#34",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "nJoDn",
+    "FEN": "4rr2/3n2kp/p1pq2p1/2pp4/N1P5/1P3P1P/PR3P2/3QR1K1 b - - 0 21",
+    "Moves": "f8f3 e1e8 f3h3 d1e1",
+    "Rating": "2215",
+    "RatingDeviation": "197",
+    "Popularity": "44",
+    "NbPlays": "9",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/lugfKdEB/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nJogA",
+    "FEN": "Q1bq1rk1/p1p5/4pb1p/2P2pp1/1P6/P3P1B1/5PPP/R3K1NR w KQ - 1 17",
+    "Moves": "a1c1 d8d3 g1e2 c8a6 a8f8 g8f8",
+    "Rating": "2089",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "866",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/KfKAZohN#33",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "nJorm",
+    "FEN": "k1r4r/pp3ppp/5n2/4p3/N3q3/QP2B3/P5PP/4R1K1 b - - 9 25",
+    "Moves": "f6d7 a4c3 e4e3 e1e3",
+    "Rating": "2012",
+    "RatingDeviation": "136",
+    "Popularity": "64",
+    "NbPlays": "16",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/2nzoPdax/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nJqNv",
+    "FEN": "r4r1k/pp3ppp/2pp3N/1Bb3B1/4R1Q1/8/Pq3PPP/RN4K1 w - - 2 15",
+    "Moves": "e4e7 b2f2 g1h1 f2g1",
+    "Rating": "2027",
+    "RatingDeviation": "80",
+    "Popularity": "86",
+    "NbPlays": "109",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/NBIFTE8h#29",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Classical_Variation"
+  },
+  {
+    "PuzzleId": "nJr0P",
+    "FEN": "2kr2r1/pp5p/1npBpQ2/q3P3/7P/1RP5/P1P2P2/5RK1 w - - 1 24",
+    "Moves": "g1h2 a5d5 f1g1 g8g1 h2g1 d8g8",
+    "Rating": "2065",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "2796",
+    "Themes": "attraction crushing long middlegame",
+    "GameUrl": "https://lichess.org/n0xVhBmV#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nJuFQ",
+    "FEN": "5rk1/2BR1pbp/p5p1/P2B4/2n5/2r3P1/7P/5RK1 b - - 3 29",
+    "Moves": "c4e3 f1f7 c3c1 f7f1 e3d5 f1c1",
+    "Rating": "2126",
+    "RatingDeviation": "96",
+    "Popularity": "62",
+    "NbPlays": "36",
+    "Themes": "crushing discoveredAttack long master middlegame",
+    "GameUrl": "https://lichess.org/RG0R04UQ/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "nJwIK",
+    "FEN": "2rqr1k1/1b3pbp/p2p4/1p2p2Q/8/P1P2N1P/1P3PPB/3R1RK1 b - - 1 20",
+    "Moves": "e8e6 f3g5 e6g6 h5h7 g8f8 h7g6 f7g6 g5e6 f8f7 e6d8",
+    "Rating": "2174",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "2265",
+    "Themes": "crushing fork middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/ChrMcxlu/black#40",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pcIDY",
+    "FEN": "2k1r1r1/pp1qbp2/3p1p2/Q2N3p/2P5/1P3bP1/PB3P1P/R4RK1 b - - 0 20",
+    "Moves": "d7h3 a5c7",
+    "Rating": "859",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "298",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4KVcedgk/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pcIZr",
+    "FEN": "r4k1r/p1p1q1p1/1p2pn1p/2B1p3/2PNb3/2P2B2/P4PPP/R2Q2K1 b - - 0 18",
+    "Moves": "e7c5 d4e6 f8f7 e6c5",
+    "Rating": "803",
+    "RatingDeviation": "89",
+    "Popularity": "92",
+    "NbPlays": "995",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/3L7SQIzb/black#36",
+    "OpeningTags": "English_Defense English_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "pcJsV",
+    "FEN": "6k1/p4p1p/3Rr1p1/1N2nb1n/2P5/6P1/PB5P/5NK1 b - - 0 32",
+    "Moves": "e5c4 d6d8 e6e8 d8e8",
+    "Rating": "643",
+    "RatingDeviation": "85",
+    "Popularity": "100",
+    "NbPlays": "844",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/vh985Ah9/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pcRTR",
+    "FEN": "2r2rk1/p3qpp1/bp2p2p/3nP3/2N5/3Q4/PP3PPP/1BR2RK1 b - - 2 17",
+    "Moves": "d5f4 d3h7",
+    "Rating": "651",
+    "RatingDeviation": "88",
+    "Popularity": "100",
+    "NbPlays": "109",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/pnku0GXC/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "pcTUt",
+    "FEN": "rn2k2r/1p3p1p/2pp4/3Pp3/8/1Q5P/PPPq1PP1/1K3BNR w kq - 0 18",
+    "Moves": "d5c6 d2d1",
+    "Rating": "814",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "121",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/kU6Kb9ZT#35",
+    "OpeningTags": "Borg_Opening Borg_Opening_Zilbermints_Gambit"
+  },
+  {
+    "PuzzleId": "pcUfr",
+    "FEN": "r3kb1r/p4ppp/1qp1p3/3N2Bb/3P4/5N1P/PP3PP1/R2QK2R b KQkq - 0 12",
+    "Moves": "c6d5 d1a4 b6c6 a4c6",
+    "Rating": "786",
+    "RatingDeviation": "85",
+    "Popularity": "83",
+    "NbPlays": "410",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/GVV9MoUB/black#24",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "pcVSf",
+    "FEN": "1r2r1k1/5pp1/pq5p/8/3P1Q1P/2N2P2/PP6/1K1R3R w - - 1 29",
+    "Moves": "d4d5 b6b2",
+    "Rating": "987",
+    "RatingDeviation": "123",
+    "Popularity": "67",
+    "NbPlays": "29",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/sSIA83Fl#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pcVdF",
+    "FEN": "r1b1r1k1/pp3ppp/5n2/3p4/3Q4/2P3P1/PP3P1P/RN3qKR w - - 0 17",
+    "Moves": "g1f1 c8h3 f1g1 e8e1",
+    "Rating": "916",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1337",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Y7NZL2D6#33",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "pcW0H",
+    "FEN": "rn3k2/1bqp1p2/p3pnp1/3P4/1p2P3/2N2N2/P1PQBKPP/3R3R w - - 0 17",
+    "Moves": "c3a4 f6e4 f2e1 e4d2",
+    "Rating": "887",
+    "RatingDeviation": "83",
+    "Popularity": "95",
+    "NbPlays": "2502",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/InwHWiVA#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bucker_Variation"
+  }
+]

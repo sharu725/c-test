@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "S5XnJ",
+    "FEN": "r1bq2k1/pppp1Rpp/1b6/3BB3/8/1P4P1/P6P/nN5K b - - 0 17",
+    "Moves": "d7d6 f7c7 c8e6 d5e6 g8f8 e5g7 f8e8 e6f7",
+    "Rating": "2596",
+    "RatingDeviation": "91",
+    "Popularity": "92",
+    "NbPlays": "2517",
+    "Themes": "discoveredAttack fork mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/ZX65kWuG/black#34",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  },
+  {
+    "PuzzleId": "S5z1w",
+    "FEN": "qr4k1/2r1p1bp/6p1/3P4/3N2P1/1P1QBP2/P7/1K1R3R w - - 1 30",
+    "Moves": "d4e6 a8a2 b1a2 b8a8 e3a7 a8a7 d3a6 a7a6 a2b1 a6a1",
+    "Rating": "2421",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2171",
+    "Themes": "attraction mate mateIn5 middlegame queensideAttack sacrifice veryLong",
+    "GameUrl": "https://lichess.org/hmsa2ms3#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "S6q0w",
+    "FEN": "r2q2k1/1p4p1/p4nBp/n1pP1N2/2P5/1P1K3P/P7/6Q1 b - - 0 31",
+    "Moves": "f6d5 g6h7 g8f7 g1g6 f7f8 g6g7 f8e8 h7g6",
+    "Rating": "2469",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "3209",
+    "Themes": "mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/B6Nbjx9E/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "S7wGp",
+    "FEN": "6Q1/prkq1r2/1p1R3p/2p1P3/2PP4/P3P3/6PP/6K1 b - - 4 33",
+    "Moves": "d7e7 d6c6 c7c6 g8c8 b7c7 d4d5",
+    "Rating": "2512",
+    "RatingDeviation": "83",
+    "Popularity": "94",
+    "NbPlays": "1343",
+    "Themes": "attraction endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/eRhvcM7G/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SFbPq",
+    "FEN": "3k1r2/1r5p/p4p1Q/4pb1B/2P5/2bp4/P5PP/1K1R4 w - - 0 34",
+    "Moves": "b1c1 b7b1 c1b1 d3d2",
+    "Rating": "2418",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "903",
+    "Themes": "advancedPawn discoveredAttack mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/pbLc5p8w#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SHXRB",
+    "FEN": "1r5k/r4p1P/2n1p2B/1pbn1pN1/8/2P5/P4P2/K5RR b - - 3 34",
+    "Moves": "d5c3 h6g7 h8g7 h7h8q g7g6 g5h7",
+    "Rating": "2419",
+    "RatingDeviation": "77",
+    "Popularity": "80",
+    "NbPlays": "479",
+    "Themes": "advancedPawn attraction discoveredAttack exposedKing long mate mateIn3 middlegame promotion",
+    "GameUrl": "https://lichess.org/nm8UcdqW/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SLIEw",
+    "FEN": "8/K6R/1P3kp1/p7/1r4pP/4R3/2r5/8 b - - 9 56",
+    "Moves": "c2b2 e3e7 g6g5 h4h5 g4g3 h7f7",
+    "Rating": "2415",
+    "RatingDeviation": "83",
+    "Popularity": "78",
+    "NbPlays": "615",
+    "Themes": "endgame long mate mateIn3 quietMove rookEndgame",
+    "GameUrl": "https://lichess.org/E428fAdu/black#112",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SM2xl",
+    "FEN": "4rk2/5pR1/2p5/2P1rP1Q/1p2q2p/1P2P3/6R1/7K b - - 4 43",
+    "Moves": "e5f5 g7f7 f5f7 h5h6 f8e7 h6d6",
+    "Rating": "2467",
+    "RatingDeviation": "87",
+    "Popularity": "93",
+    "NbPlays": "4385",
+    "Themes": "dovetailMate endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/dqELDSqJ/black#86",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SOWsr",
+    "FEN": "r2q1r2/pbpnb1pk/1pn1pp2/3pP1N1/3P1B1P/2P5/PP1N1PP1/R2QK2R b KQ - 1 12",
+    "Moves": "f6g5 h4g5 h7g8 h1h8 g8h8 d1h5 h8g8 g5g6 d7f6 e5f6 f8f6 h5h7 g8f8 h7h8",
+    "Rating": "2491",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "2428",
+    "Themes": "attraction discoveredAttack mate mateIn5 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/ZCefs3Qs/black#24",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  }
+]

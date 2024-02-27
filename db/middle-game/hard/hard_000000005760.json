@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EztIP",
+    "FEN": "2k4r/pp3p2/2p1p1nr/3q1b2/2Np4/3P1Q1P/PPP3P1/2R1NRK1 b - - 6 24",
+    "Moves": "f5h3 f3d5 c6d5 c4d6 c8d7 d6f7",
+    "Rating": "1761",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "526",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/pqpaMtzC/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EztKH",
+    "FEN": "2kr1b1r/B1q2ppp/1pb1p3/1B1pn3/1P6/P1N5/3Q1PPP/2R2RK1 b - - 1 19",
+    "Moves": "c7a7 b5c6 e5c6 c3b5",
+    "Rating": "1615",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "53",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/tPevtuVB/black#38",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "EztLW",
+    "FEN": "r4rk1/p1qn1ppp/4pn2/8/1b2N3/3BPQ2/5PPP/R1BR2K1 b - - 3 16",
+    "Moves": "f6e4 f3e4 g7g6 e4b4",
+    "Rating": "1623",
+    "RatingDeviation": "83",
+    "Popularity": "81",
+    "NbPlays": "50",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/5hCv27sZ/black#32",
+    "OpeningTags": "Indian_Defense Indian_Defense_Anti-Nimzo-Indian"
+  },
+  {
+    "PuzzleId": "EzvRt",
+    "FEN": "r1b2r2/ppp2pk1/4pq1p/7Q/2P2P2/2PB4/P5P1/R3R1K1 b - - 0 19",
+    "Moves": "f6f4 e1e4 f4e4 d3e4",
+    "Rating": "1779",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "261",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/WOUIy85I/black#38",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Kingside_Fianchetto"
+  },
+  {
+    "PuzzleId": "EzveV",
+    "FEN": "3r4/6k1/5Rpp/1N1bn3/8/2P1q3/1P2B1P1/5Q1K w - - 4 38",
+    "Moves": "b5d4 d5g2 h1g2 e3g5",
+    "Rating": "1772",
+    "RatingDeviation": "226",
+    "Popularity": "-33",
+    "NbPlays": "35",
+    "Themes": "advantage attraction middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/NPQId7jF#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EzwTE",
+    "FEN": "r4r1k/4p1bp/3p1np1/q1p5/1pBP1B2/1Pn1Q2R/2P2PP1/1NK4R b - - 7 24",
+    "Moves": "c3b1 h3h7 f6h7 h1h7 h8h7 e3h3 g7h6 h3h6",
+    "Rating": "1646",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "4836",
+    "Themes": "attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/jGlECttY/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Ezyfl",
+    "FEN": "r1b1kb1r/pp3ppp/4p3/3pq3/8/3Q4/PP2NPPP/R1B2RK1 b kq - 0 14",
+    "Moves": "f8d6 c1f4 e5f4 e2f4",
+    "Rating": "1656",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2203",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/9zCCMznI/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "EzzQR",
+    "FEN": "r4rk1/1p1b1pbp/p1nq1np1/1B1pN1B1/Q2P4/2N5/PP3PPP/R3R1K1 w - - 0 14",
+    "Moves": "e5d7 a6b5 d7f6 g7f6 a4a8 f8a8",
+    "Rating": "1727",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "574",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/RbkWeWNz#27",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "F00hp",
+    "FEN": "2kr3r/pp4Qp/4p3/1qb5/8/8/PPPB1PPP/2K1R2R w - - 0 16",
+    "Moves": "e1e6 c5d4 g7g4 b5b2",
+    "Rating": "1648",
+    "RatingDeviation": "75",
+    "Popularity": "78",
+    "NbPlays": "335",
+    "Themes": "advantage middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/0X9gx35s#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  }
+]

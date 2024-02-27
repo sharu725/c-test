@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "yFv5N",
+    "FEN": "2k3r1/1p3p1p/p1qbb3/2p2n2/3p3N/1P6/P1P1B1PP/R2Q1RBK w - - 2 19",
+    "Moves": "h4f5 c6g2",
+    "Rating": "1471",
+    "RatingDeviation": "92",
+    "Popularity": "25",
+    "NbPlays": "131",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/RYF9lobP#37",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation"
+  },
+  {
+    "PuzzleId": "yFw3K",
+    "FEN": "r2q1rk1/2p1bpp1/p2p1n1p/5P2/P2N4/7P/1PQ2PP1/R1B1R1K1 b - - 0 19",
+    "Moves": "c7c5 d4c6 d8d7 c6e7",
+    "Rating": "1506",
+    "RatingDeviation": "77",
+    "Popularity": "77",
+    "NbPlays": "470",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/j2mRZjTa/black#38",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "yFwKA",
+    "FEN": "2r2br1/3k1p1p/p1qN1p2/8/1p3P2/6P1/PPP1Q2P/1K1RR3 b - - 0 23",
+    "Moves": "f8d6 e2e7",
+    "Rating": "1457",
+    "RatingDeviation": "238",
+    "Popularity": "60",
+    "NbPlays": "29",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/4vAqkLFD/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yFx5o",
+    "FEN": "r4r2/3b1pp1/p3pbk1/q2p2N1/2pP2QP/2P1P3/P2K1PP1/R6R b - - 3 19",
+    "Moves": "f8h8 h4h5 g6h6 g5f7",
+    "Rating": "1549",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "78",
+    "Themes": "advantage deflection middlegame short",
+    "GameUrl": "https://lichess.org/SFQY3vho/black#38",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "yFyT0",
+    "FEN": "r2k1b1r/p4ppp/1pQ5/2nP4/8/3q4/P4PPP/2R1R1K1 b - - 3 20",
+    "Moves": "a8c8 e1e8",
+    "Rating": "1559",
+    "RatingDeviation": "85",
+    "Popularity": "82",
+    "NbPlays": "2361",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/T6cxlswZ/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yG16k",
+    "FEN": "r2q1r2/1p4pk/8/p1p1n1b1/2PpNnQ1/P7/1P4PP/R1B2RK1 w - - 0 17",
+    "Moves": "g4g5 f4e2 g1h1 f8f1",
+    "Rating": "1488",
+    "RatingDeviation": "83",
+    "Popularity": "87",
+    "NbPlays": "5013",
+    "Themes": "backRankMate deflection discoveredAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/v0r1qt8c#33",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Albin_Countergambit"
+  },
+  {
+    "PuzzleId": "yG1Bb",
+    "FEN": "2kr2b1/pp1nbp2/2p1p3/7r/4B2N/2BP2P1/PPP2P1P/R4RK1 w - - 4 20",
+    "Moves": "h4f3 f7f5 e4c6 b7c6",
+    "Rating": "1429",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/I2wbyLvD#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yG2Pn",
+    "FEN": "1r1r2k1/p4pp1/2pNp2p/2b3q1/8/1P1R2P1/P4PBP/2RQ2K1 w - - 0 24",
+    "Moves": "d6e4 d8d3 e4g5 d3d1 c1d1 h6g5",
+    "Rating": "1560",
+    "RatingDeviation": "437",
+    "Popularity": "100",
+    "NbPlays": "2",
+    "Themes": "equality long middlegame",
+    "GameUrl": "https://lichess.org/miM6ti74#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "yG2rp",
+    "FEN": "r1b2r1k/pp3Npp/2n5/5pq1/3P4/1QPB1p1P/PP3PP1/R3R1K1 b - - 1 19",
+    "Moves": "f8f7 e1e8 f7f8 e8f8",
+    "Rating": "1422",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "16273",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/1ecbZwiq/black#38",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  }
+]

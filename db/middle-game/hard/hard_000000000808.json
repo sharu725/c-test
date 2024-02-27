@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "26J7B",
+    "FEN": "3r4/5kpp/p1R2n2/8/1b2P3/5P2/bP1NK1PP/3R4 w - - 2 25",
+    "Moves": "c6a6 d8d2 d1d2 a2c4 e2d1 c4a6",
+    "Rating": "1691",
+    "RatingDeviation": "91",
+    "Popularity": "67",
+    "NbPlays": "24",
+    "Themes": "advantage fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/6fg96r9u#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "26JHJ",
+    "FEN": "6k1/1pp1rp2/p2q2pp/2QPn1r1/5N2/P3P1P1/1P3PK1/2RR4 b - - 2 25",
+    "Moves": "d6f6 d5d6 c7d6 d1d6",
+    "Rating": "1740",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "346",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/HO5ctbhT/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "26Jzh",
+    "FEN": "4rbk1/p4p2/3p3p/4np2/5N2/2P3P1/Pr1NRP1P/4R1K1 w - - 0 27",
+    "Moves": "a2a4 b2d2 e2d2 e5f3 g1g2 f3e1",
+    "Rating": "1649",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "8355",
+    "Themes": "advantage fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/pXrxO0KU#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "26KBt",
+    "FEN": "2k2r2/1bp1q3/1p1rp2p/pB1pQ1p1/P2P4/2P1R2P/2P2PP1/4R1K1 b - - 4 25",
+    "Moves": "f8f5 e5f5 e6f5 e3e7",
+    "Rating": "1718",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1416",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/VexB5onk/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "26KLX",
+    "FEN": "3r1rk1/ppQ2pp1/3n3p/6q1/7N/2N3Pb/PP3P1P/3RR1K1 b - - 6 23",
+    "Moves": "g5g4 d1d6 g4c8 c7c8",
+    "Rating": "1622",
+    "RatingDeviation": "75",
+    "Popularity": "75",
+    "NbPlays": "150",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ZiHXfK2E/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "26N4X",
+    "FEN": "rn1q2k1/pbppn1pp/1p6/6N1/3PPQ2/2N5/PPP3PP/R5K1 b - - 0 13",
+    "Moves": "e7g6 f4f7 g8h8 f7g6 h7g6 g5f7 h8g8 f7d8",
+    "Rating": "1757",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "4689",
+    "Themes": "advantage fork middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/WTZ0dZTQ/black#26",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  },
+  {
+    "PuzzleId": "26NOI",
+    "FEN": "5r1k/ppq3p1/2p3rp/4Pb2/2B2Q2/7P/PP3PP1/R3R1K1 w - - 5 24",
+    "Moves": "c4d3 g6g2 g1g2 f5h3 g2g3 f8f4",
+    "Rating": "1785",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1256",
+    "Themes": "advantage attraction discoveredAttack kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/A6J6xdbi#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "26Ner",
+    "FEN": "r3k2r/ppp2ppp/8/4p3/Q1Pn2b1/P2q1N2/1P1N1PPP/R3K2R b KQkq - 2 12",
+    "Moves": "g4d7 a4d7 e8d7 f3e5 d7c8 e5d3 d4c2 e1e2 h8e8 e2f3",
+    "Rating": "1754",
+    "RatingDeviation": "88",
+    "Popularity": "83",
+    "NbPlays": "34",
+    "Themes": "advantage attraction defensiveMove fork middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/MSCWPIGa/black#24",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "26P1q",
+    "FEN": "r2qn3/pp4kp/1n2Qbp1/1Bp2r2/8/2P2N2/PP3PPP/R1B1K2R w KQ - 1 17",
+    "Moves": "e1g1 e8c7 e6e2 c7b5",
+    "Rating": "1759",
+    "RatingDeviation": "76",
+    "Popularity": "73",
+    "NbPlays": "185",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/oSw19nEm#33",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  }
+]

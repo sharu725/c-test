@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BKI26",
+    "FEN": "r5k1/1b3ppp/p1qprn2/1p4B1/4Pp2/P2B3Q/1PP3PP/R4RK1 w - - 0 19",
+    "Moves": "f1f4 c6c5 f4f2 c5g5",
+    "Rating": "1499",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "6849",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/mlm8ZlaF#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "BKIw2",
+    "FEN": "r4k1r/1bqP2p1/pp1b1n2/3N2p1/2P5/5N2/PP2QPPP/3RR1K1 b - - 2 18",
+    "Moves": "f6d5 e2e8 a8e8 d7e8q",
+    "Rating": "1571",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "1996",
+    "Themes": "advancedPawn mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/B0TxN2lS/black#36",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  },
+  {
+    "PuzzleId": "BKJEY",
+    "FEN": "r1b2rk1/1p2qp1p/1np3p1/p7/P3PP2/2N5/1PQ1B1PP/R4RK1 b - - 2 18",
+    "Moves": "f7f6 c2b3 c8e6 b3b6",
+    "Rating": "1525",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "822",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/1bSTRtfK/black#36",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "BKKPA",
+    "FEN": "3qk2r/1b1n1ppp/p3R3/3n4/p2P4/B1rB1N2/2Q2PPP/5RK1 b k - 0 18",
+    "Moves": "f7e6 d3g6 h7g6 c2g6",
+    "Rating": "1542",
+    "RatingDeviation": "96",
+    "Popularity": "40",
+    "NbPlays": "66",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/CpCt6daT/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Ragozin_Defense"
+  },
+  {
+    "PuzzleId": "BKND7",
+    "FEN": "r1b1r1k1/p1q2ppp/2p1nb2/1p2p1P1/4P2P/3B1N2/PPPNQP2/1K4RR b - - 0 15",
+    "Moves": "e6f4 g5f6 f4e2 g1g7",
+    "Rating": "1540",
+    "RatingDeviation": "79",
+    "Popularity": "87",
+    "NbPlays": "483",
+    "Themes": "advantage discoveredAttack kingsideAttack master middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/iRlGxv2k/black#30",
+    "OpeningTags": "Indian_Defense Indian_Defense_Wade-Tartakower_Defense"
+  },
+  {
+    "PuzzleId": "BKNs8",
+    "FEN": "r4rk1/2p1q1p1/p3p1bp/1p1pQ3/8/PB3P1P/1PP3P1/3R1RK1 w - - 1 21",
+    "Moves": "b3d5 e7c5 f1f2 e6d5 e5d5 c5d5",
+    "Rating": "1545",
+    "RatingDeviation": "89",
+    "Popularity": "81",
+    "NbPlays": "25",
+    "Themes": "crushing intermezzo long middlegame",
+    "GameUrl": "https://lichess.org/P6NS9fYH#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BKNxy",
+    "FEN": "r4rk1/5ppp/pq2p3/2bpP3/Q2Bb3/4P2P/P3BPP1/R4RK1 w - - 4 18",
+    "Moves": "a1b1 e4b1 d4c5 b6c5",
+    "Rating": "1425",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1310",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/NGYlsu9L#35",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "BKQMx",
+    "FEN": "2r1r1k1/pp3p1n/1q3Bp1/4p3/7Q/P1p2R2/2P3PP/5R1K b - - 7 24",
+    "Moves": "e8e6 h4h7 g8h7 f3h3 h7g8 h3h8",
+    "Rating": "1432",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "14064",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/onQd7sl6/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BKQeV",
+    "FEN": "4r1k1/1q4p1/ppb2pnp/2ppN2P/6N1/P1PP2Q1/1P3PP1/4R1K1 b - - 0 26",
+    "Moves": "g6e5 g4f6 g8h8 f6e8",
+    "Rating": "1517",
+    "RatingDeviation": "81",
+    "Popularity": "55",
+    "NbPlays": "63",
+    "Themes": "crushing kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/6FMFhUrB/black#52",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pHV2d",
+    "FEN": "r1bqk3/pppp4/1b3p1r/4pP2/3nN1Q1/3P4/PPPK2BP/RN5R b q - 2 13",
+    "Moves": "d7d5 g4g8 e8d7 g8g7 d7c6 g7h6",
+    "Rating": "1794",
+    "RatingDeviation": "75",
+    "Popularity": "71",
+    "NbPlays": "202",
+    "Themes": "crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/RTV95QjM/black#26",
+    "OpeningTags": "Kings_Gambit Kings_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "pHXa1",
+    "FEN": "5r2/5pk1/3R2pp/3n4/p2p4/2qB1Q1P/b1N2PP1/6K1 b - - 3 31",
+    "Moves": "d5b4 f3f6 g7g8 d3g6",
+    "Rating": "1792",
+    "RatingDeviation": "190",
+    "Popularity": "89",
+    "NbPlays": "14",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/dbsmKTRn/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pHXhK",
+    "FEN": "r2q1rk1/2bb1ppp/p4n2/3Pp1N1/pP6/3B3P/1BQP1PP1/R4RK1 b - - 0 18",
+    "Moves": "f6d5 d3h7 g8h8 h7g8",
+    "Rating": "1685",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "87",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/zUOUOiMf/black#36",
+    "OpeningTags": "English_Opening English_Opening_The_Whale"
+  },
+  {
+    "PuzzleId": "pHZQo",
+    "FEN": "r2q1k1r/1b2bpp1/4pn1p/1B1n2PP/p2PN3/NpP1BP2/1P1Q4/2KR3R b - - 0 21",
+    "Moves": "d5e3 g5f6 e3d1 f6e7",
+    "Rating": "1713",
+    "RatingDeviation": "96",
+    "Popularity": "86",
+    "NbPlays": "18",
+    "Themes": "advancedPawn advantage middlegame short",
+    "GameUrl": "https://lichess.org/pqLQh3OM/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pHZgX",
+    "FEN": "r4rk1/2b3p1/p3p2p/1p2P1q1/3p1RN1/3P1QP1/2P5/5RK1 b - - 4 29",
+    "Moves": "f8f4 f3a8 g5d8 a8d8",
+    "Rating": "1664",
+    "RatingDeviation": "100",
+    "Popularity": "74",
+    "NbPlays": "16",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/3GLe7hJN/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pHatX",
+    "FEN": "r1b1r1k1/1pq1bp2/p2ppn1Q/2n5/3NP3/1BN5/PPP2PPP/R3R1K1 b - - 0 15",
+    "Moves": "f6h7 e1e3 e7g5 e3g3",
+    "Rating": "1645",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "645",
+    "Themes": "crushing middlegame pin quietMove short",
+    "GameUrl": "https://lichess.org/2t2RvDdX/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "pHbHy",
+    "FEN": "rnb2rk1/ppp2Rp1/1b1p2q1/6N1/3P4/2P3P1/PP2Q2P/R1B3K1 b - - 0 19",
+    "Moves": "f8f7 e2e8 f7f8 e8g6 c8f5 g6h5",
+    "Rating": "1651",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2704",
+    "Themes": "advantage defensiveMove fork long middlegame",
+    "GameUrl": "https://lichess.org/SL3hNkOu/black#38",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Keenes_Defense"
+  },
+  {
+    "PuzzleId": "pHdAR",
+    "FEN": "2r2rk1/pp2npp1/2n1p1b1/q2pP1QP/N2P2p1/1PR2N2/P4P2/4KB1R b K - 2 21",
+    "Moves": "g6e4 h5h6 e7f5 h6g7",
+    "Rating": "1769",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "127",
+    "Themes": "advancedPawn crushing middlegame short",
+    "GameUrl": "https://lichess.org/SSgSYsgD/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pHfCh",
+    "FEN": "2kr1b1r/p1p1q3/2Q4p/5pP1/2BPp3/2P5/PP4PP/R4nK1 b - - 0 20",
+    "Moves": "e7d6 c4a6 c8b8 c6b7",
+    "Rating": "1641",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "405",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/0dIfVZmt/black#40",
+    "OpeningTags": ""
+  }
+]

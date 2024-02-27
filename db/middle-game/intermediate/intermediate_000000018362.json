@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "iB4zV",
+    "FEN": "2kr1bnr/pp1n1p1p/2p5/6pq/2B1Ppb1/2NP1N1P/PPP2KP1/R1BQ3R b - - 4 11",
+    "Moves": "d7e5 h3g4 f8c5 d3d4",
+    "Rating": "1564",
+    "RatingDeviation": "78",
+    "Popularity": "71",
+    "NbPlays": "59",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/LRiH9kdj/black#22",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "iB5hQ",
+    "FEN": "rnb2rk1/p5p1/4p3/1p1qPppB/2pP4/2P1R3/P1Q2PPP/R5K1 b - - 1 19",
+    "Moves": "c8d7 h5f3 d7c6 f3d5",
+    "Rating": "1540",
+    "RatingDeviation": "102",
+    "Popularity": "-2",
+    "NbPlays": "29",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/A2EO6qwX/black#38",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Vienna_Variation"
+  },
+  {
+    "PuzzleId": "iB5oj",
+    "FEN": "r1bqk1nr/p2nppb1/2p5/1p1p2pQ/3PP3/P6P/BPP3P1/RNB1K1NR w KQkq - 0 10",
+    "Moves": "h5g5 g7h6 g5g3 h6c1",
+    "Rating": "1504",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "94",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/omMBKeR0#19",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "iB5si",
+    "FEN": "r3rk2/ppR2p2/4bQn1/1q1pP1P1/3p4/1P1P4/P2B1KB1/7R b - - 3 34",
+    "Moves": "b5d3 h1h8 g6h8 f6h8",
+    "Rating": "1563",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "11224",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/fWPLgCIX/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iB6qk",
+    "FEN": "r2q1rk1/ppp1bpp1/3p1B1p/8/2B1b3/1P2RN1P/P4PP1/R2Q2K1 b - - 0 15",
+    "Moves": "e4f3 f6e7 f3d1 e7d8",
+    "Rating": "1573",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "86",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/PrVXu0qn/black#30",
+    "OpeningTags": "Italian_Game Italian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "iB7J9",
+    "FEN": "1k6/1Pp1rp2/7p/1P3b2/4r1q1/3P4/2Q3PP/R4RK1 b - - 2 29",
+    "Moves": "e4e2 a1a8 b8b7 c2c6",
+    "Rating": "1413",
+    "RatingDeviation": "162",
+    "Popularity": "62",
+    "NbPlays": "26",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/qZkpE7Fx/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iB7QP",
+    "FEN": "r3r1k1/pp1nbpp1/2p2n1p/q6P/2P2B2/1PNB2Q1/P5P1/3R1K1R b - - 1 19",
+    "Moves": "a5c3 d3h7 f6h7 g3c3",
+    "Rating": "1417",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "1186",
+    "Themes": "advantage discoveredAttack master middlegame short",
+    "GameUrl": "https://lichess.org/tBhxkIIo/black#38",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Cunningham_Defense"
+  },
+  {
+    "PuzzleId": "iB8CP",
+    "FEN": "6r1/1pq2prk/2p2p1p/p4P1Q/P3BP2/3Rn3/1PP3PP/5RK1 b - - 8 26",
+    "Moves": "e3f1 h5h6 h7h6 d3h3",
+    "Rating": "1448",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "627",
+    "Themes": "attraction mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/jFxLEih8/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iB9u4",
+    "FEN": "2r3k1/p4ppp/3B4/P2qPQ2/2rp4/2n5/6PP/2R1R2K b - - 2 33",
+    "Moves": "c3b5 f5c8 c4c8 c1c8",
+    "Rating": "1482",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "1669",
+    "Themes": "backRankMate mate mateIn2 middlegame short xRayAttack",
+    "GameUrl": "https://lichess.org/OmlL7IQq/black#66",
+    "OpeningTags": ""
+  }
+]

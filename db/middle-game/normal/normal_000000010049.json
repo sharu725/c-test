@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "TKgFP",
+    "FEN": "r4r1k/1pp4p/2b5/p2nNp2/P1BP1q2/2P3R1/1P3P2/3Q1RK1 b - - 6 26",
+    "Moves": "f8g8 e5f7",
+    "Rating": "1234",
+    "RatingDeviation": "90",
+    "Popularity": "83",
+    "NbPlays": "53",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/7Q6wp6DJ/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TKgMJ",
+    "FEN": "r1q3k1/ppp1nrbp/3pNn2/1N1Pp3/1PP1Pp2/8/P4PK1/1RBQ1R2 b - - 0 19",
+    "Moves": "c7c6 b5d6 c8d7 d6f7",
+    "Rating": "1206",
+    "RatingDeviation": "90",
+    "Popularity": "84",
+    "NbPlays": "105",
+    "Themes": "advantage fork middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/X8eRtnQC/black#38",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Orthodox_Variation"
+  },
+  {
+    "PuzzleId": "TKgdS",
+    "FEN": "Q5k1/1r3pp1/4b2p/3nq3/2p5/2N1P2P/3P1PP1/R5K1 b - - 1 24",
+    "Moves": "g8h7 a8b7 d5c3 d2c3",
+    "Rating": "1380",
+    "RatingDeviation": "82",
+    "Popularity": "67",
+    "NbPlays": "85",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/MoMlvzEp/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TKhL0",
+    "FEN": "3rr3/p4pk1/1p1nb1p1/4R2p/2P2P1P/P1NB4/2P3P1/2K1R3 b - - 0 22",
+    "Moves": "e6c4 e5e8 d6e8 d3c4",
+    "Rating": "1267",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "812",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/FtyLyWjD/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TKhmn",
+    "FEN": "6k1/1b2bppp/p1q1p3/1p6/6n1/1BN1BP2/PPP3PP/3Q2K1 w - - 1 20",
+    "Moves": "e3a7 e7c5 d1d4 c5d4",
+    "Rating": "1372",
+    "RatingDeviation": "82",
+    "Popularity": "70",
+    "NbPlays": "52",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/sCVXz721#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TKl9B",
+    "FEN": "2r2r2/R2bkppp/4p3/3pP3/2nN1P2/8/2P3PP/4R1K1 b - - 2 27",
+    "Moves": "c8a8 d4c6 e7e8 a7a8",
+    "Rating": "1336",
+    "RatingDeviation": "76",
+    "Popularity": "78",
+    "NbPlays": "150",
+    "Themes": "crushing interference middlegame pin short",
+    "GameUrl": "https://lichess.org/OqIJbx5S/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TKmju",
+    "FEN": "1r2k3/Q3n3/2pqpp2/2p4p/2PpP2N/3P2rb/PP1N1P2/R3R1K1 w - - 0 23",
+    "Moves": "g1h1 h3g2 h4g2 g3h3 h1g1 d6h2",
+    "Rating": "1363",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "2451",
+    "Themes": "clearance crushing exposedKing kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/cW5rgcUT#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TKo55",
+    "FEN": "r1b1k1r1/1p3p1p/p2ppqp1/4n3/2PQ2P1/2N5/PP2PP1P/R3KB1R w KQq - 0 16",
+    "Moves": "c3e4 e5f3 e2f3 f6d4",
+    "Rating": "1236",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "12827",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/aBucnU1U#31",
+    "OpeningTags": "Blumenfeld_Countergambit Blumenfeld_Countergambit_Other_variations"
+  },
+  {
+    "PuzzleId": "TKoFd",
+    "FEN": "3r1rk1/2p2pp1/Q1nb1q1p/8/8/5N2/PPP2PPP/R1B1R1K1 w - - 0 19",
+    "Moves": "a6c6 d6h2 g1h2 f6c6",
+    "Rating": "1396",
+    "RatingDeviation": "104",
+    "Popularity": "61",
+    "NbPlays": "19",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/rhP5OOuD#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  }
+]

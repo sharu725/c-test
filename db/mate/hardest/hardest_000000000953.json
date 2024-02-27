@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QJuvH",
+    "FEN": "7k/1b5p/p1q3p1/1p3p2/7Q/1B2p2P/P1PR2PK/8 b - - 0 34",
+    "Moves": "e3d2 h4d4 c6f6 d4f6",
+    "Rating": "2142",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "5583",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/ydCobLF4/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QKF3M",
+    "FEN": "3rk1N1/ppq1rppN/2p3n1/7Q/8/7R/PP2n1PP/5R1K b - - 8 29",
+    "Moves": "e2f4 g8f6 g7f6 h7f6 e8f8 h5h6",
+    "Rating": "2022",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1192",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/4lxblMxm/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QKj44",
+    "FEN": "3r2rk/1p3p1p/p1qN1PnQ/P1pR4/2B2P2/6P1/1PP4P/6K1 b - - 0 34",
+    "Moves": "d8d6 h6h7 h8h7 d5h5",
+    "Rating": "2001",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "779",
+    "Themes": "attraction kingsideAttack master mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/3YYnFo9n/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QL1RX",
+    "FEN": "rnb1k2r/pp3pQp/4p3/3p4/4n3/4PNP1/PPq3BP/RNB2K1R w kq - 0 11",
+    "Moves": "b1d2 c2d3 f1e1 d3e3 e1d1 e4f2 d1c2 e3d3",
+    "Rating": "2194",
+    "RatingDeviation": "94",
+    "Popularity": "79",
+    "NbPlays": "55",
+    "Themes": "exposedKing fork mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/DQzz5Mt4#21",
+    "OpeningTags": "Indian_Defense Indian_Defense_Spielmann-Indian"
+  },
+  {
+    "PuzzleId": "QLM4J",
+    "FEN": "4k1r1/1p1q1p2/p2p1Q2/3PnN2/8/2R3pr/PPP5/5RK1 b - - 1 26",
+    "Moves": "g8g6 c3c8 d7c8 f6e7",
+    "Rating": "2116",
+    "RatingDeviation": "94",
+    "Popularity": "85",
+    "NbPlays": "88",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/aM8saGAK/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QLM7B",
+    "FEN": "6r1/5p1k/5Q1p/p7/2P2P1K/1P5P/P5q1/R4R2 w - - 7 29",
+    "Moves": "f1g1 g8g4 h4h5 g2h3 f6h4 g4h4",
+    "Rating": "2127",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "268",
+    "Themes": "deflection endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/51gSN6qV#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QLQ7Y",
+    "FEN": "8/8/1p6/p7/P7/1P4Kp/8/7k b - - 6 54",
+    "Moves": "h3h2 g3f2 b6b5 a4b5 a5a4 b5b6 a4a3 b6b7 a3a2 b7b8q a2a1q b8b7",
+    "Rating": "2005",
+    "RatingDeviation": "72",
+    "Popularity": "94",
+    "NbPlays": "11794",
+    "Themes": "advancedPawn endgame mate mateIn5 pawnEndgame promotion veryLong zugzwang",
+    "GameUrl": "https://lichess.org/0jADgC39/black#108",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QLTK8",
+    "FEN": "6rk/p7/2R4p/2P1q1bQ/1P6/6N1/5P1K/3r4 b - - 6 39",
+    "Moves": "d1d5 c6h6 h8g7 h6h7 g7f6 h5f7",
+    "Rating": "2052",
+    "RatingDeviation": "80",
+    "Popularity": "78",
+    "NbPlays": "570",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/tUMPYncW/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QLkCO",
+    "FEN": "4q2k/4P1r1/1P4rp/2p5/2Q5/2B5/5PPP/4RRK1 w - - 5 45",
+    "Moves": "b6b7 g6g2 g1h1 g2h2 h1h2 e8h5 c4h4 h5h4",
+    "Rating": "2179",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "561",
+    "Themes": "attraction mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/DC4NoiZh#89",
+    "OpeningTags": ""
+  }
+]

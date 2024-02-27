@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "GSNFs",
+    "FEN": "rn4R1/pp4pk/5r2/3B2Qp/2pP2bP/2q3P1/P1P2P2/1K5R b - - 1 22",
+    "Moves": "f6g6 g8h8 h7h8 g5d8 h8h7 d8g8 h7h6 g8h8",
+    "Rating": "2210",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "7439",
+    "Themes": "attraction mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/cznw8334/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GSQpf",
+    "FEN": "rn2k2r/ppQ2ppp/2b1pb2/2p3N1/3q3P/8/PPPB1PP1/R4RK1 b kq - 1 16",
+    "Moves": "d4d2 c7f7 e8d8 g5e6 d8c8 f7c7",
+    "Rating": "2102",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "8836",
+    "Themes": "attackingF2F7 long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/YHICBPGJ/black#32",
+    "OpeningTags": "Rat_Defense Rat_Defense_Small_Center_Defense"
+  },
+  {
+    "PuzzleId": "GSTZC",
+    "FEN": "4r3/1p3pkp/p4Np1/8/5Q2/1B4KP/PP2R1P1/2r3q1 b - - 0 28",
+    "Moves": "e8e2 f6h5 g6h5 f4f7 g7h8 f7f6",
+    "Rating": "2041",
+    "RatingDeviation": "94",
+    "Popularity": "88",
+    "NbPlays": "106",
+    "Themes": "discoveredAttack endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/RQc602M2/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GSVIP",
+    "FEN": "r2q1rk1/pp1b2p1/4p3/n4p2/3P4/P1PB1P2/2KQ1P2/6RR b - - 5 19",
+    "Moves": "d8b6 g1g7 g8g7 d2g5 g7f7 h1h7 f7e8 g5e7",
+    "Rating": "2148",
+    "RatingDeviation": "80",
+    "Popularity": "90",
+    "NbPlays": "236",
+    "Themes": "attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/CEZ62TD6/black#38",
+    "OpeningTags": "French_Defense French_Defense_Steinitz_Attack"
+  },
+  {
+    "PuzzleId": "GT3Ln",
+    "FEN": "r1b2rk1/ppp2q1p/4p1p1/7P/4p3/2PnB3/PP3PBP/R2Q1KR1 w - - 0 18",
+    "Moves": "g2e4 f7f2 e3f2 f8f2",
+    "Rating": "2038",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "9162",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/FTUgiRcb#35",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "GT53P",
+    "FEN": "5rk1/p1p3b1/4pP1p/1q2r1p1/6P1/5R2/P1Q4P/2K2R2 b - - 0 31",
+    "Moves": "g7f6 c2g6 g8h8 g6h6 h8g8 h6g6 f6g7 f3f8",
+    "Rating": "2037",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "171",
+    "Themes": "exposedKing fork mate mateIn4 middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/XEWPx4ax/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GT7Ox",
+    "FEN": "2Q5/6pk/3Np2p/4P3/1P3K2/r3B2P/5Pq1/8 w - - 2 45",
+    "Moves": "c8e6 g7g5 f4f5 g2f3 e3f4 f3f4",
+    "Rating": "2003",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1759",
+    "Themes": "endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/8dxfKS1J#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GTK4F",
+    "FEN": "r6k/1pp2P1p/4p1q1/6r1/6P1/p1P2Q1P/PP3P2/1K1R3R w - - 1 28",
+    "Moves": "b1a1 a3b2 a1b2 a8a2 b2a2 g6c2 a2a3 g5a5 a3b4 c2a4",
+    "Rating": "2118",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "2592",
+    "Themes": "advancedPawn attraction discoveredAttack endgame mate mateIn5 sacrifice veryLong",
+    "GameUrl": "https://lichess.org/JH1Gs2bV#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GTgoV",
+    "FEN": "3r1qkr/pp1nRbp1/3b3p/2pN4/2P3Q1/1P5P/PB4P1/5RK1 b - - 1 31",
+    "Moves": "d6e7 d5e7 g8h7 g4f5 g7g6 f5f7 f8f7 f1f7",
+    "Rating": "2172",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "2601",
+    "Themes": "kingsideAttack mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/X4MqAVCh/black#62",
+    "OpeningTags": ""
+  }
+]

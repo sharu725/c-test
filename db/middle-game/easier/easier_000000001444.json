@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "4RPWE",
+    "FEN": "2kr3r/pp2bpp1/4p3/1b1pP1P1/2qP1B2/PpP1K3/1P3PB1/R1Q4R w - - 2 23",
+    "Moves": "h1h8 c4d3",
+    "Rating": "1145",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "106",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/H9SOHK3o#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4RREs",
+    "FEN": "4r1k1/pp3rp1/2pBQn1p/3n4/2BP4/2P2R1P/Pq3PP1/4R1K1 w - - 4 26",
+    "Moves": "d6e7 e8e7 e6e7 f7e7",
+    "Rating": "1180",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "317",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/uhKS57WX#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4RRK0",
+    "FEN": "1rbr2k1/5ppp/pq6/4P3/B2N1Q2/1P6/P1P2RPP/2K5 b - - 2 24",
+    "Moves": "b6d4 f4f7 g8h8 f7f8 d8f8 f2f8",
+    "Rating": "1168",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "215",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/HBKXzg5n/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4RTZY",
+    "FEN": "4rr2/pq1n2kp/1p4p1/4p3/3p2Q1/5P1P/PPR2P2/1BR3K1 b - - 3 26",
+    "Moves": "d7f6 c2c7 b7c7 c1c7 f8f7 c7f7",
+    "Rating": "1106",
+    "RatingDeviation": "77",
+    "Popularity": "78",
+    "NbPlays": "105",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/lbuHeWTA/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4RUvR",
+    "FEN": "r2qk2r/pp3p2/2n2bpp/8/3P4/5N2/PP3PPP/2RQKB1R w Kkq - 0 13",
+    "Moves": "f1b5 d8a5 c1c3 a5b5",
+    "Rating": "1078",
+    "RatingDeviation": "80",
+    "Popularity": "91",
+    "NbPlays": "2031",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/1aUsI1uk#25",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "4RWed",
+    "FEN": "r3r2k/ppq5/2n2bQp/3p4/2pP4/2P2N2/PP3PPP/R3R1K1 b - - 0 19",
+    "Moves": "c7g7 e1e8 a8e8 g6e8",
+    "Rating": "1013",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "695",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/TpM4jhiX/black#38",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "4RXQO",
+    "FEN": "r4rk1/2q3p1/p1p4p/1p3n2/2P1N3/1P3R1P/1P2Q3/6RK b - - 3 27",
+    "Moves": "a8e8 e4f6 f8f6 e2e8",
+    "Rating": "1096",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "653",
+    "Themes": "advantage deflection discoveredAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/LyQSsz2L/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4Rag7",
+    "FEN": "r1bqkbnr/1p3ppp/p1n1p3/4P3/Q1Bp4/5N2/PP3PPP/RNB2RK1 b kq - 1 8",
+    "Moves": "b7b5 c4b5 a6b5 a4a8",
+    "Rating": "1084",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "1614",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/aHSyiAY8/black#16",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "4ReKB",
+    "FEN": "r2qkb1r/1pp2ppp/p3pn2/5b2/2BNP3/P1N2P2/1P1Q2PP/2B2K1R b kq - 0 14",
+    "Moves": "e6e5 d4f5 d8d2 c1d2",
+    "Rating": "1044",
+    "RatingDeviation": "309",
+    "Popularity": "-100",
+    "NbPlays": "2",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/ugPXfcKZ/black#28",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations"
+  }
+]

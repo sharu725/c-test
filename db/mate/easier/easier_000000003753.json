@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EADaw",
+    "FEN": "2r3k1/p3ppb1/3p2p1/8/2r3P1/1N1QB3/qpP4R/1K1R4 w - - 0 26",
+    "Moves": "b1a2 c4a4 a2b1 a4a1 b3a1 b2a1q",
+    "Rating": "1078",
+    "RatingDeviation": "81",
+    "Popularity": "91",
+    "NbPlays": "582",
+    "Themes": "advancedPawn exposedKing long master mate mateIn3 middlegame promotion",
+    "GameUrl": "https://lichess.org/pR7mnASf#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EADpN",
+    "FEN": "5rk1/2p3p1/7p/p2pN3/q2n4/1pPP1r1P/1K1R4/3R2Q1 w - - 1 31",
+    "Moves": "g1d4 a4a2 b2c1 a2a1",
+    "Rating": "1116",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "3345",
+    "Themes": "master mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/wBMVO40A#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EAM3A",
+    "FEN": "2k1r1r1/1pp2p1p/p1p2pq1/8/7P/3PbP2/PPP1KP2/3QR2R w - - 0 20",
+    "Moves": "f2e3 g6g2",
+    "Rating": "1057",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "101",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/IlYK6JVs#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EAM9j",
+    "FEN": "3r1r2/p1p1k2p/1pB1P1p1/8/2N3p1/2P5/P1P3PP/5R1K w - - 0 25",
+    "Moves": "f1f8 d8d1 f8f1 d1f1",
+    "Rating": "1073",
+    "RatingDeviation": "80",
+    "Popularity": "90",
+    "NbPlays": "1760",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/RLsVgsnO#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EAQi6",
+    "FEN": "rn1qk2r/1bp2Nb1/p2ppnpp/1p6/4P3/1BNP3Q/PPP2PPP/R1B1K2R b KQkq - 0 10",
+    "Moves": "e8f7 h3e6 f7f8 e6f7",
+    "Rating": "1174",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "287",
+    "Themes": "mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/wokFzSvo/black#20",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "EARq9",
+    "FEN": "r1bq1r1b/pp3pkP/3p4/3PpBpQ/8/2P5/PP1N1PP1/R3K2R b KQ - 0 18",
+    "Moves": "c8f5 h5h6",
+    "Rating": "1077",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "119",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/1Sa3NBQI/black#36",
+    "OpeningTags": "Torre_Attack Torre_Attack_Fianchetto_Defense"
+  },
+  {
+    "PuzzleId": "EASGj",
+    "FEN": "r4r1k/pQp2p1p/3p4/8/4P3/2Bq4/PP3P1P/6RK b - - 2 22",
+    "Moves": "f7f6 c3f6 f8f6 b7a8 f6f8 a8f8",
+    "Rating": "1161",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "922",
+    "Themes": "deflection endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/LvnhE9rS/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EASIk",
+    "FEN": "2k2r2/pp6/2p1p3/3rP1R1/8/8/PPP1R1PP/6K1 w - - 2 24",
+    "Moves": "g5g6 d5d1 e2e1 d1e1",
+    "Rating": "1115",
+    "RatingDeviation": "185",
+    "Popularity": "54",
+    "NbPlays": "9",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/1cs9nfK9#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EATBi",
+    "FEN": "r5rk/1b2qp1n/p2pp1nB/1pb1P2N/5PQ1/P2B3P/1PP3P1/1R3R1K b - - 0 24",
+    "Moves": "g6e5 h6g7 g8g7 g4g7",
+    "Rating": "1099",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "5453",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Y79Ou4IP/black#48",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PzNTy",
+    "FEN": "2k1r3/p1p1q1BQ/p2p4/1b1P1p2/8/2P2N2/P4PPP/1R2n1KR w - - 3 26",
+    "Moves": "b1e1 e7e1 f3e1 e8e1",
+    "Rating": "781",
+    "RatingDeviation": "90",
+    "Popularity": "33",
+    "NbPlays": "57",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/cuZCiMPw#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PzOxn",
+    "FEN": "r1b1kb1r/p3pppp/1pnp4/3Q4/4P3/1N2qP2/PPP1B1PP/R3K2R b KQkq - 0 12",
+    "Moves": "c8a6 d5c6 e8d8 c6a8",
+    "Rating": "965",
+    "RatingDeviation": "100",
+    "Popularity": "75",
+    "NbPlays": "32",
+    "Themes": "crushing fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/7tzkBq12/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Sozin"
+  },
+  {
+    "PuzzleId": "PzP8P",
+    "FEN": "rn1qkb2/5pr1/p1pp1p1p/1p2p2Q/4P3/1B5P/PPPP1PP1/R1B2RK1 w q - 4 13",
+    "Moves": "h5h6 g7g2 g1g2 f8h6",
+    "Rating": "917",
+    "RatingDeviation": "81",
+    "Popularity": "88",
+    "NbPlays": "273",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/mU33XcdI#25",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "PzP8W",
+    "FEN": "2rq1rk1/1b3pp1/p3p2p/1p2P3/2pP1Pn1/P1N3P1/1PQ3P1/1BRR2K1 b - - 0 23",
+    "Moves": "g4e3 c2h7",
+    "Rating": "659",
+    "RatingDeviation": "82",
+    "Popularity": "85",
+    "NbPlays": "206",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/J7V5aDG4/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PzPUl",
+    "FEN": "r1b1r1k1/p5pp/1p1p4/2pP1pq1/2P1BR2/3P1QP1/P5PP/5RK1 b - - 1 23",
+    "Moves": "f5e4 f4f8 e8f8 f3f8",
+    "Rating": "925",
+    "RatingDeviation": "79",
+    "Popularity": "100",
+    "NbPlays": "70",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/rMSJ4ppj/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PzPnk",
+    "FEN": "r3r1k1/1b3pbp/2q3p1/pppp4/8/P2PR1BP/BPPQ1PP1/1R4K1 b - - 1 21",
+    "Moves": "g7h6 e3e8 a8e8 d2h6",
+    "Rating": "887",
+    "RatingDeviation": "90",
+    "Popularity": "67",
+    "NbPlays": "66",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/V3NwU0uK/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PzUxM",
+    "FEN": "1n3rk1/4npp1/b3p2B/q3P3/1bp1N3/5N2/1PQ1BPPP/5RK1 b - - 0 19",
+    "Moves": "g7h6 e4f6 g8g7 c2h7",
+    "Rating": "969",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "1502",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/g1eCgrp5/black#38",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation"
+  },
+  {
+    "PuzzleId": "PzWv9",
+    "FEN": "r2q1rk1/pp3ppp/3Np1b1/2pnP3/3p1BP1/PP1P1N1P/2P3K1/R2Q1B2 w - - 1 23",
+    "Moves": "f4g3 d5e3 g2h2 e3d1",
+    "Rating": "931",
+    "RatingDeviation": "105",
+    "Popularity": "93",
+    "NbPlays": "526",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/vrEI8dzD#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PzX2C",
+    "FEN": "r3r1k1/2p2pbp/2nq2p1/p4p2/1p1P4/2P2N2/PPBQRPPP/4R1K1 b - - 3 17",
+    "Moves": "b4c3 e2e8 a8e8 e1e8",
+    "Rating": "913",
+    "RatingDeviation": "85",
+    "Popularity": "95",
+    "NbPlays": "383",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/Qa8fgP67/black#34",
+    "OpeningTags": "Trompowsky_Attack Trompowsky_Attack_Other_variations"
+  }
+]

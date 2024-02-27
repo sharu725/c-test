@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "tWArO",
+    "FEN": "r3r1k1/p2b1p1p/2pb1np1/4N2q/8/1PQB4/PBP2PPP/4RRK1 b - - 0 18",
+    "Moves": "d6e5 e1e5 h5e5 c3e5 e8e5 b2e5",
+    "Rating": "1054",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1479",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/oquhLH5p/black#36",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Sicilian_Invitation"
+  },
+  {
+    "PuzzleId": "tWBx6",
+    "FEN": "1r3rk1/Qn3ppp/2q2n2/2p5/4p3/4P2P/PP2BPP1/R1BR2K1 w - - 4 19",
+    "Moves": "c1d2 b8a8 a7a8 f8a8",
+    "Rating": "1159",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "590",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/qjuZ34qS#37",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "tWC75",
+    "FEN": "1rq2r2/2p1bNpp/p1kp4/1b6/8/P1n5/1P3PPP/R1BQR1K1 w - - 0 25",
+    "Moves": "b2c3 f8f7 c3c4 b5c4",
+    "Rating": "1074",
+    "RatingDeviation": "77",
+    "Popularity": "67",
+    "NbPlays": "105",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/REtfHVVH#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tWClA",
+    "FEN": "2kr3r/p2n1ppp/2p1p3/2P4b/3P4/2q2N1P/4BPP1/1Q2R1K1 b - - 0 19",
+    "Moves": "h5g6 e2a6 c8c7 b1b7",
+    "Rating": "1009",
+    "RatingDeviation": "145",
+    "Popularity": "67",
+    "NbPlays": "22",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/5Pxq5MvC/black#38",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "tWDUA",
+    "FEN": "2kr3r/1bpp1pRp/np2p3/p3P3/2PP1P2/B1QB3q/P1PK4/6R1 w - - 4 19",
+    "Moves": "g7f7 h3h2 d3e2 h2g1",
+    "Rating": "1107",
+    "RatingDeviation": "97",
+    "Popularity": "-20",
+    "NbPlays": "26",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/RqDPkG5J#37",
+    "OpeningTags": "French_Defense French_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "tWFdT",
+    "FEN": "3k3r/2p1rpp1/pNQp1b1p/1p1P4/4P3/1R6/qP2K2P/2R5 b - - 1 27",
+    "Moves": "a2b3 c6a8",
+    "Rating": "1196",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "1421",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/3rMfVRTm/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tWHCZ",
+    "FEN": "r2q1rk1/pppb1pbp/3p2p1/3Pp2n/2P1P3/1N3N1P/PP3PP1/R1BQR1K1 b - - 2 13",
+    "Moves": "d8f6 c1g5 f6g5 f3g5",
+    "Rating": "1189",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "1739",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/6mwYORy1/black#26",
+    "OpeningTags": "Modern_Defense Modern_Defense_Gellers_System"
+  },
+  {
+    "PuzzleId": "tWIKo",
+    "FEN": "rn3rk1/pp4bp/1qp1p1p1/3n1p2/2BP4/2N1PQ1P/PP3PP1/R1B2RK1 w - - 2 13",
+    "Moves": "b2b3 d5c3 c4e6 g8h8",
+    "Rating": "1145",
+    "RatingDeviation": "80",
+    "Popularity": "88",
+    "NbPlays": "53",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/S80wfj1k#25",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "tWIhm",
+    "FEN": "r5k1/pp2b1pp/4p3/2p1P3/3qQ3/2N5/PPP3Pn/R1B3K1 w - - 2 17",
+    "Moves": "e4d4 c5d4 g1h2 d4c3",
+    "Rating": "1042",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "1352",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/wi3GBdQ6#33",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  }
+]

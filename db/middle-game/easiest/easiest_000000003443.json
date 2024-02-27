@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "AA1SA",
+    "FEN": "r1b1kbnr/pppp4/5q2/3Qp1Bp/2B1P3/2N5/PPP2PPP/R3K2R b KQkq - 0 9",
+    "Moves": "f6g5 d5f7 e8d8 f7f8",
+    "Rating": "946",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "238",
+    "Themes": "deflection mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/v8gdrDx9/black#18",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Damiano_Defense"
+  },
+  {
+    "PuzzleId": "AA3Br",
+    "FEN": "1r3r1k/5p2/5q1p/p2p3R/B1bP4/1p5R/1Q3PPP/6K1 b - - 5 32",
+    "Moves": "f8g8 h5h6 f6h6 h3h6",
+    "Rating": "946",
+    "RatingDeviation": "124",
+    "Popularity": "44",
+    "NbPlays": "17",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/jnVA0nwr/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AA3T3",
+    "FEN": "r4rk1/pp3ppp/2p1p1q1/2P1R3/3P1n2/5N2/PP2QPPP/R5K1 w - - 5 17",
+    "Moves": "e2e3 g6g2",
+    "Rating": "980",
+    "RatingDeviation": "79",
+    "Popularity": "96",
+    "NbPlays": "1661",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/fvbuiM30#33",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "AA5eP",
+    "FEN": "r6r/p1k5/3bRp2/1p3P1N/2pP2b1/2P5/PPB3R1/2K5 b - - 0 29",
+    "Moves": "g4h5 g2g7 c7c8 e6d6",
+    "Rating": "930",
+    "RatingDeviation": "81",
+    "Popularity": "95",
+    "NbPlays": "945",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/ptu4URET/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AA5eR",
+    "FEN": "2rqr1k1/p3bp1p/1p2pBp1/2p3N1/b1P4Q/3P2P1/1R2PPBP/5RK1 b - - 0 28",
+    "Moves": "e7f6 h4h7 g8f8 h7f7",
+    "Rating": "976",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "229",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/bTwrEbiq/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AA5xc",
+    "FEN": "r4rk1/1ppq1p2/p2p1PnQ/8/4NP1b/P7/1PP3PP/R6K b - - 2 22",
+    "Moves": "h4f6 e4f6",
+    "Rating": "822",
+    "RatingDeviation": "83",
+    "Popularity": "90",
+    "NbPlays": "239",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/9n0lp3pe/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AA7CG",
+    "FEN": "2nr4/p2r2bk/b3q1pp/PPB1Pp2/5P2/3B3P/2Q3P1/3R1RK1 b - - 0 30",
+    "Moves": "d7d3 d1d3 d8d3 c2d3",
+    "Rating": "954",
+    "RatingDeviation": "84",
+    "Popularity": "94",
+    "NbPlays": "1542",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/9NDAZgla/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "AA84U",
+    "FEN": "r1b2rk1/ppp2ppp/8/3qPPN1/3P3n/2P5/P1P4P/R1BQ1RK1 w - - 1 15",
+    "Moves": "d1h5 d5g2",
+    "Rating": "900",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "220",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/vu4hIkWA#29",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "AA9Ke",
+    "FEN": "r1b1k2r/ppp1qpp1/4p2p/3pP3/1b4P1/P1NQ1N2/1PP2P1P/R4RK1 b kq - 0 13",
+    "Moves": "b4a5 d3b5 c8d7 b5a5",
+    "Rating": "992",
+    "RatingDeviation": "84",
+    "Popularity": "93",
+    "NbPlays": "477",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/sDL1sRr3/black#26",
+    "OpeningTags": "French_Defense French_Defense_Winawer_Variation"
+  }
+]

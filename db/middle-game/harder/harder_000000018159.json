@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "swlaw",
+    "FEN": "5rk1/2r2ppp/2P1pb2/p2n3q/1p6/4BPR1/PP3P1P/1BR2Q1K b - - 4 25",
+    "Moves": "f6e5 g3h3 h5h3 f1h3",
+    "Rating": "1824",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "2078",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/2Z5Pqnce/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "swnw4",
+    "FEN": "3r1q2/8/1RRb1k2/1B1p1p2/1p2pPp1/1P5r/1Q5P/7K b - - 1 43",
+    "Moves": "f6g6 b2e5 h3h2 h1h2",
+    "Rating": "1913",
+    "RatingDeviation": "79",
+    "Popularity": "64",
+    "NbPlays": "72",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/Jf1NshHe/black#86",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "swopv",
+    "FEN": "2kr2nr/pp2q1pp/4bp2/1N6/4QB2/8/PPP2PPP/R5K1 b - - 3 19",
+    "Moves": "g8h6 b5a7 c8d7 e4a4 b7b5 a4b5",
+    "Rating": "1954",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "5745",
+    "Themes": "long mate mateIn3 middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/WYTDSQSo/black#38",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Halloween_Gambit"
+  },
+  {
+    "PuzzleId": "swpTm",
+    "FEN": "4rr2/ppq1k2p/2nbp1p1/5PB1/1PB1P3/PQ6/7P/5RK1 b - - 2 22",
+    "Moves": "e7d7 c4e6 e8e6 b3e6",
+    "Rating": "1977",
+    "RatingDeviation": "128",
+    "Popularity": "79",
+    "NbPlays": "39",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/xrUKqsyg/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "swpl2",
+    "FEN": "2kq3r/p2bn1r1/Pp2ppn1/3p3p/2pP3P/Q1P2NB1/2P1BPP1/RR4K1 b - - 2 22",
+    "Moves": "e7f5 a3c5 d7c6 c5c6",
+    "Rating": "1811",
+    "RatingDeviation": "82",
+    "Popularity": "81",
+    "NbPlays": "49",
+    "Themes": "crushing middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/lHIpWFdK/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "swr9y",
+    "FEN": "1r1q3k/p4rpp/3p1b2/1ppBp3/4PRQ1/3P3R/PPP3PP/7K b - - 0 23",
+    "Moves": "e5f4 h3h7 h8h7 g4h5 h7g8 h5f7 g8h8 f7h5",
+    "Rating": "1970",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "9374",
+    "Themes": "attraction fork mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/ZvGgscoD/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "swtLU",
+    "FEN": "r4r2/1pp3Rk/nn1p3p/1N1Pqb2/PP2Bp1p/8/R1QB1P1N/7K b - - 0 32",
+    "Moves": "h7g7 d2c3 f5e4 c2e4",
+    "Rating": "1870",
+    "RatingDeviation": "89",
+    "Popularity": "84",
+    "NbPlays": "25",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/OJfO1u0F/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "swtMw",
+    "FEN": "r4rk1/3bqpp1/p1p1p2p/1p1nN3/3P4/1P1BP3/P1Q2PPP/3R1RK1 w - - 0 17",
+    "Moves": "e5c6 d7c6 c2c6 f8c8 c6a8 c8a8",
+    "Rating": "1895",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "3798",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/VwTKT2hI#33",
+    "OpeningTags": "Slav_Defense Slav_Defense_Bonet_Gambit"
+  },
+  {
+    "PuzzleId": "swtWo",
+    "FEN": "2rqrnk1/5pp1/2p1bp1P/pp6/2PP1B2/3B1p2/PPQ5/2KR3R b - - 0 19",
+    "Moves": "g7g6 h6h7 g8h8 f4h6",
+    "Rating": "1816",
+    "RatingDeviation": "79",
+    "Popularity": "79",
+    "NbPlays": "40",
+    "Themes": "advancedPawn clearance crushing middlegame short",
+    "GameUrl": "https://lichess.org/yvl7kPDw/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+  }
+]

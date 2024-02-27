@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Sxx8e",
+    "FEN": "r1b3k1/ppp2pqp/1nn3p1/4b3/7Q/P1N2N2/1PP2PPP/R3KB1R w KQ - 2 15",
+    "Moves": "f1d3 e5c3 b2c3 g7c3",
+    "Rating": "1132",
+    "RatingDeviation": "84",
+    "Popularity": "67",
+    "NbPlays": "71",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/uHJ17weq#29",
+    "OpeningTags": "Center_Game Center_Game_Normal_Variation"
+  },
+  {
+    "PuzzleId": "SxxHJ",
+    "FEN": "r1bk4/pp6/2p2qB1/3pn2Q/1n5P/2N1P1P1/PPP2P2/3R1RK1 w - - 1 19",
+    "Moves": "h5g5 e5f3 g1h1 f3g5",
+    "Rating": "1095",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "561",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Je0aH72X#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "SxydY",
+    "FEN": "1r1qr1k1/p1p2ppp/8/3p1b2/1n1P2n1/1P2BN2/P2QBPPP/R4RK1 w - - 3 17",
+    "Moves": "f3g5 g4e3 f2e3 d8g5",
+    "Rating": "1182",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "1193",
+    "Themes": "advantage capturingDefender middlegame short",
+    "GameUrl": "https://lichess.org/rpUM1HSk#33",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "Sy2Ne",
+    "FEN": "1rbq1rk1/1p2ppbp/p5p1/2p5/P3R1n1/3P2P1/1PPN1PBP/R1BQ2K1 b - - 2 13",
+    "Moves": "c8f5 e4g4 f5g4 d1g4",
+    "Rating": "1178",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1775",
+    "Themes": "advantage master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/oYIGRwpA/black#26",
+    "OpeningTags": "Kings_Indian_Attack Kings_Indian_Attack_Symmetrical_Defense"
+  },
+  {
+    "PuzzleId": "Sy2a8",
+    "FEN": "1r2q1k1/p1p1rpbp/2Bp2p1/5b2/2P2P2/PQ2P2P/1P1B2P1/R4RK1 b - - 2 19",
+    "Moves": "e8c6 b3b8",
+    "Rating": "1070",
+    "RatingDeviation": "292",
+    "Popularity": "-100",
+    "NbPlays": "1",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/puJLo8Cs/black#38",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "Sy2fn",
+    "FEN": "8/1bpp2k1/4p1p1/1p2PrN1/p2P1P1P/P3B1Q1/2P1q3/5RK1 w - - 1 29",
+    "Moves": "f1f2 e2e1 f2f1 e1g3",
+    "Rating": "1177",
+    "RatingDeviation": "83",
+    "Popularity": "87",
+    "NbPlays": "41",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/MAgpc00W#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Sy2lJ",
+    "FEN": "5k1r/4bp1p/p4p2/q1r1p3/3p4/P2P2P1/1P1N1P1P/RQ2K2R b KQ - 5 21",
+    "Moves": "f6f5 b2b4 a5c7 b4c5",
+    "Rating": "1125",
+    "RatingDeviation": "152",
+    "Popularity": "82",
+    "NbPlays": "11",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/DOZ6Y2JD/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Sy37H",
+    "FEN": "r2q1rk1/ppp1bpB1/2n2nb1/3p4/3P4/P1N2N2/1PPQ2P1/3R2KR b - - 0 21",
+    "Moves": "g8g7 d2h6 g7g8 h6h8",
+    "Rating": "1127",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "2871",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/omS4Oeel/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Sy3Mz",
+    "FEN": "6k1/ppp2ppp/3r4/3p2r1/3N4/2P1n3/PP2B1P1/R4RK1 w - - 2 22",
+    "Moves": "f1f3 g5g2 g1h1 d6h6 f3h3 h6h3",
+    "Rating": "1195",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "11653",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/e1b3Fipd#43",
+    "OpeningTags": ""
+  }
+]

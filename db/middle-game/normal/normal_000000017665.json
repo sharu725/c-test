@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pbPCE",
+    "FEN": "2kr3r/3b2pp/1R1p1p2/2pN1q2/8/6B1/PQ3P1P/6K1 b - - 2 32",
+    "Moves": "f5d5 b6b8 c8c7 b2b6",
+    "Rating": "1299",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "7019",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/O0cNyaem/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pbPps",
+    "FEN": "r2q2k1/6pp/1p3p2/p2bp3/8/B3Q1P1/PP2P1BP/5R1K w - - 0 28",
+    "Moves": "e3b6 d5g2 h1g2 d8b6",
+    "Rating": "1322",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "168",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/XpcxiYsJ#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pbQu0",
+    "FEN": "1k1r4/1pp3p1/p1bn1p2/2B1q3/4P1P1/QR3P2/PP5r/2KR1B2 b - - 4 26",
+    "Moves": "d6b5 d1d8",
+    "Rating": "1300",
+    "RatingDeviation": "170",
+    "Popularity": "55",
+    "NbPlays": "33",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/JJKCPDJ2/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pbR8t",
+    "FEN": "5k2/6p1/p4p2/1p3NPP/5Q2/P2q4/1Pr1r3/KR4R1 w - - 1 35",
+    "Moves": "g5f6 d3a3 b2a3 c2a2",
+    "Rating": "1328",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "11827",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/4lqxwmMe#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pbRG7",
+    "FEN": "5r1k/6p1/1p2P2p/p3Q2N/P7/5q1P/1P1B2p1/2R1R1K1 w - - 4 38",
+    "Moves": "d2h6 f3f2 g1h2 g2g1q",
+    "Rating": "1341",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "7282",
+    "Themes": "advancedPawn doubleCheck mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/ty46f79R#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pbRU3",
+    "FEN": "r4rk1/pp1q1ppp/2np4/2pNN3/4P3/7P/PPP2PP1/R2QR1K1 b - - 0 15",
+    "Moves": "d6e5 d5f6 g7f6 d1d7",
+    "Rating": "1261",
+    "RatingDeviation": "81",
+    "Popularity": "85",
+    "NbPlays": "211",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/Gm0oMKnJ/black#30",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "pbVmP",
+    "FEN": "r3r1k1/p4ppp/b1pp4/2p5/2PqP3/3B1P1P/P1P2QP1/R4RK1 b - - 2 16",
+    "Moves": "a6c4 f2d4 c5d4 d3c4",
+    "Rating": "1315",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "1739",
+    "Themes": "advantage capturingDefender intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/X4Cp1blC/black#32",
+    "OpeningTags": "Scotch_Game Scotch_Game_Schmidt_Variation"
+  },
+  {
+    "PuzzleId": "pbXXM",
+    "FEN": "5r1k/1pp3pn/1p1pB2p/8/4P3/P1Q1q1B1/1PP1n1PP/R3N2K w - - 1 24",
+    "Moves": "c3e3 f8f1 e3g1 f1g1",
+    "Rating": "1222",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "3455",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/f9oX6k4k#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pbYD3",
+    "FEN": "r1q1r2k/p4ppp/1p3N2/2pPb3/8/1PN3Pb/P4PB1/2RQR1K1 b - - 0 22",
+    "Moves": "e5f6 e1e8 c8e8 g2h3",
+    "Rating": "1385",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "3760",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/tU6RQJA1/black#44",
+    "OpeningTags": ""
+  }
+]

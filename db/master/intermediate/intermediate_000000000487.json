@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "84hSP",
+    "FEN": "2k4r/ppp2pp1/1n4p1/3P4/2P1Q3/2N3b1/PP3P1q/R1B1R1K1 w - - 6 22",
+    "Moves": "g1f1 h2f2",
+    "Rating": "1449",
+    "RatingDeviation": "126",
+    "Popularity": "74",
+    "NbPlays": "134",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/M1YEsfM6#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "85BST",
+    "FEN": "r1b1r1k1/1pp1qppp/p2p1n2/4n1B1/2P1P3/2N2P2/PP1Q2PP/R3KB1R b KQ - 1 12",
+    "Moves": "h7h6 c3d5 f6d5 g5e7",
+    "Rating": "1598",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1071",
+    "Themes": "advantage master opening short",
+    "GameUrl": "https://lichess.org/mgBOO0yr/black#24",
+    "OpeningTags": "St_George_Defense St_George_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "85FyY",
+    "FEN": "r2q1rk1/1p5B/p4P2/3pN3/3P2b1/2P1n2R/PP5P/R1B3K1 b - - 0 22",
+    "Moves": "g8h8 e5g6",
+    "Rating": "1533",
+    "RatingDeviation": "86",
+    "Popularity": "88",
+    "NbPlays": "698",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/eMiNFWDG/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "85Gr1",
+    "FEN": "r1b2rk1/1p2bpp1/2pp1n1p/2nPp3/1qP1P3/1NN1BP2/P1Q1B1PP/1R3RK1 b - - 0 16",
+    "Moves": "c5b3 b1b3 b4a5 e3b6 f6d7 b6a5",
+    "Rating": "1518",
+    "RatingDeviation": "104",
+    "Popularity": "60",
+    "NbPlays": "40",
+    "Themes": "crushing long master middlegame",
+    "GameUrl": "https://lichess.org/r5sk7qQj/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Anglo-Slav_Opening"
+  },
+  {
+    "PuzzleId": "85JIQ",
+    "FEN": "r2qkb1r/1ppn1pp1/p3p3/3pP2p/5B2/2NPP3/PP3PPP/R2Q1RK1 w kq - 1 11",
+    "Moves": "d3d4 g7g5 f4g3 h5h4",
+    "Rating": "1435",
+    "RatingDeviation": "82",
+    "Popularity": "62",
+    "NbPlays": "48",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/4HG8qrGn#21",
+    "OpeningTags": "Rapport-Jobava_System Rapport-Jobava_System_Other_variations"
+  },
+  {
+    "PuzzleId": "85Jnz",
+    "FEN": "r2R2k1/1b3pp1/4p1rq/8/2B1P3/1PN2P1n/P5P1/3RQK2 b - - 1 42",
+    "Moves": "a8d8 d1d8 g8h7 g2h3 h6h3 f1e2",
+    "Rating": "1470",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "10534",
+    "Themes": "crushing long master middlegame",
+    "GameUrl": "https://lichess.org/a3cqO9DN/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "85Kaz",
+    "FEN": "rn2k2r/5pb1/2ppq1n1/p5N1/3P3p/2p1B3/PPPQ3P/2KR2R1 w kq - 0 19",
+    "Moves": "g5e6 c3d2 d1d2 f7e6",
+    "Rating": "1454",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "7855",
+    "Themes": "advancedPawn crushing intermezzo master middlegame short",
+    "GameUrl": "https://lichess.org/eOUxxGcC#37",
+    "OpeningTags": "Modern_Defense Modern_Defense_Standard_Defense"
+  },
+  {
+    "PuzzleId": "85PQp",
+    "FEN": "5Q2/p7/6p1/7k/2Pq3P/8/Pr3rP1/5RK1 w - - 0 35",
+    "Moves": "f1f2 b2b1 g1h2 d4h4",
+    "Rating": "1562",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1545",
+    "Themes": "endgame master mate mateIn2 short",
+    "GameUrl": "https://lichess.org/Pl7FmI4y#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "85TEm",
+    "FEN": "r1bq1rk1/pppn2np/5Pp1/4p3/4N2P/1P3N2/P1P1PP2/R2QKB1R b KQ - 0 12",
+    "Moves": "d7f6 d1d8 f8d8 e4f6",
+    "Rating": "1575",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "10567",
+    "Themes": "capturingDefender crushing kingsideAttack master opening short",
+    "GameUrl": "https://lichess.org/QHRuBt0D/black#24",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Spike_Variation"
+  }
+]

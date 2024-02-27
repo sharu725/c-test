@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "RCA99",
+    "FEN": "r4k1r/ppp1Qppp/1b4q1/8/2B5/1P4N1/PBPP1n2/4R1K1 b - - 1 23",
+    "Moves": "f8g8 e7e8 a8e8 e1e8",
+    "Rating": "1075",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "223",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/XQYGXpjE/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RCAVB",
+    "FEN": "2r2rk1/1p1b1pp1/p3p2p/q2p2P1/3P1P2/3R4/2n3QB/1KN2B1R w - - 0 24",
+    "Moves": "g5h6 a5a1",
+    "Rating": "1029",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "253",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/9jrP2X9k#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RCB8i",
+    "FEN": "5r1k/1p3p1p/1Q4p1/p3pb1N/3n3P/P5P1/1PP2P2/qNKR4 b - - 2 25",
+    "Moves": "f5c2 b6f6 h8g8 f6g7",
+    "Rating": "1057",
+    "RatingDeviation": "147",
+    "Popularity": "14",
+    "NbPlays": "12",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/sdZXAG0d/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RCBAg",
+    "FEN": "r4rk1/pp3ppp/4b3/1Q6/3n4/2qB1N2/P1P2PPP/R4RK1 w - - 2 16",
+    "Moves": "d3h7 g8h7 f3d4 c3d4",
+    "Rating": "1032",
+    "RatingDeviation": "94",
+    "Popularity": "93",
+    "NbPlays": "964",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/LSHmG1mR#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Four_Knights_Variation"
+  },
+  {
+    "PuzzleId": "RCBVt",
+    "FEN": "2R2nQ1/pp2q1b1/6pk/P3ppNp/6nP/1P2P1P1/7r/6K1 b - - 10 32",
+    "Moves": "f8d7 g8h7",
+    "Rating": "1168",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "242",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/87UbeDYB/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RCD3I",
+    "FEN": "r1bq1rk1/pp4pp/2nbp3/3pNp2/3P4/3BPPB1/PP1n2PP/R2QK2R w KQ - 0 12",
+    "Moves": "d1d2 d6b4 d2b4 c6b4",
+    "Rating": "1159",
+    "RatingDeviation": "79",
+    "Popularity": "76",
+    "NbPlays": "96",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/pdVFA14s#23",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Steinitz_Countergambit"
+  },
+  {
+    "PuzzleId": "RCDUR",
+    "FEN": "3r2k1/pQ3ppp/8/2p2q1b/4pN2/2P1P2P/PP1r1PP1/R3R1K1 w - - 1 22",
+    "Moves": "g2g4 h5g4 h3g4 f5g4",
+    "Rating": "1028",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "620",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/b6ffkueL#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RCEjT",
+    "FEN": "2br2k1/p3Qppp/5n2/4P3/3r4/7P/PPq3P1/R4R1K b - - 0 22",
+    "Moves": "f6e4 e7f7 g8h8 f7f8 d8f8 f1f8",
+    "Rating": "1012",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "3272",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/Kf6DzUWB/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "RCGsK",
+    "FEN": "1b3r2/2q3k1/1R2Q1p1/2p3Pp/3pP1r1/3P4/4BP2/5RK1 w - - 3 42",
+    "Moves": "e2g4 c7h2",
+    "Rating": "1189",
+    "RatingDeviation": "78",
+    "Popularity": "76",
+    "NbPlays": "145",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/p7xUsb4s#83",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "clZLG",
+    "FEN": "r4rk1/bpp2pP1/3p2n1/p6Q/2b1q3/1P2P3/PB2BP1P/R4RK1 b - - 0 19",
+    "Moves": "c4e2 h5h8 g6h8 g7h8q",
+    "Rating": "1260",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "201",
+    "Themes": "advancedPawn kingsideAttack mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/g8PUSYQg/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "claGA",
+    "FEN": "6k1/1pp3pp/p2br3/P2p2q1/1P1PrpP1/2P2QP1/3B1P2/R3R1K1 b - - 0 24",
+    "Moves": "f4g3 d2g5 e4e1 a1e1",
+    "Rating": "1313",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "136",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/OCpapJN6/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "clbKr",
+    "FEN": "br3rk1/4Rp1p/1P2Np2/2qp4/8/2N5/5PPP/3Q1RK1 b - - 0 22",
+    "Moves": "c5e7 d1g4 g8h8 g4g7",
+    "Rating": "1274",
+    "RatingDeviation": "120",
+    "Popularity": "83",
+    "NbPlays": "14",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/GRNK5iII/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "clbbJ",
+    "FEN": "r6k/p2b2bp/1pnN2p1/8/1PPp4/8/P5PP/4RRK1 b - - 0 24",
+    "Moves": "a8d8 d6f7 h8g8 f7d8 c6d8 e1e7",
+    "Rating": "1376",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2135",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/ZOxAfIlv/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "cleOV",
+    "FEN": "6k1/4bppp/qPQ1n3/4PpPP/3P1P2/r1B1K3/3N4/2R5 w - - 5 34",
+    "Moves": "d4d5 e7c5 c6c5 e6c5",
+    "Rating": "1322",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "258",
+    "Themes": "middlegame",
+    "GameUrl": "https://lichess.org/6KioiDOr#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "cleek",
+    "FEN": "r1b2rk1/1p2bppp/pq3n2/3p4/3P1B2/P1N5/1P2BPPP/R2Q1RK1 b - - 1 13",
+    "Moves": "b6b2 c3a4 b2a1 d1a1",
+    "Rating": "1293",
+    "RatingDeviation": "282",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/vLqROoM3/black#26",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "clgpE",
+    "FEN": "r4rk1/pbpq1pbp/1p2pnp1/3p2B1/3P1N1Q/2PB1P2/PP4PP/R3R1K1 b - - 3 16",
+    "Moves": "c7c5 g5f6 g7f6 h4f6",
+    "Rating": "1243",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "548",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/n96bpgYp/black#32",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "cljPT",
+    "FEN": "2rq1rk1/1b2bppp/p2p1n2/n3p1PP/Np2P3/1N2BP2/PPPQ4/2KR1B1R b - - 0 15",
+    "Moves": "a5b3 a2b3 f6e4 f3e4",
+    "Rating": "1266",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "856",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Ji2IEknY/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Najdorf_Variation"
+  },
+  {
+    "PuzzleId": "cllM4",
+    "FEN": "r2r2k1/pp1n1ppp/1qp2n2/8/3P4/3QBBPP/PP4P1/R4RK1 b - - 0 16",
+    "Moves": "d7e5 d4e5 d8d3 e3b6",
+    "Rating": "1368",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "956",
+    "Themes": "crushing discoveredAttack hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/7OUyAJjr/black#32",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Two_Knights_Attack"
+  }
+]

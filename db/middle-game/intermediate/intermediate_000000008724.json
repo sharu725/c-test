@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Kwt02",
+    "FEN": "r4rk1/2p2ppp/4b3/1pq1P3/1b1N4/2n4P/1PQB1PP1/3RR1K1 w - - 2 22",
+    "Moves": "d4e6 c3e2 e1e2 c5c2",
+    "Rating": "1599",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "856",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/CQx4w4EL#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Kwt4P",
+    "FEN": "r1bq1rk1/1pp2pp1/p1np1n1p/2b5/2BNP3/2N1B3/PPPQ1PPP/R3R1K1 b - - 5 10",
+    "Moves": "f6e4 c3e4 c5d4 e3d4 c6d4 d2d4",
+    "Rating": "1489",
+    "RatingDeviation": "75",
+    "Popularity": "80",
+    "NbPlays": "551",
+    "Themes": "advantage hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/ld1BAfMz/black#20",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "KwvRo",
+    "FEN": "1r4k1/p4pp1/b1Pp3p/3Pr3/3N4/p3B3/3R1PPP/2K4R w - - 5 24",
+    "Moves": "d4c2 a3a2 c2a1 b8b1 c1c2 b1h1",
+    "Rating": "1529",
+    "RatingDeviation": "73",
+    "Popularity": "93",
+    "NbPlays": "14201",
+    "Themes": "advancedPawn advantage exposedKing fork long middlegame skewer",
+    "GameUrl": "https://lichess.org/FH5NbdD6#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KwwJC",
+    "FEN": "r1b1k2r/ppq2pbp/4p1p1/1Np1n1Bn/2B5/3P1N2/PPP1Q1PP/R4RK1 b kq - 1 12",
+    "Moves": "e5f3 e2f3",
+    "Rating": "1511",
+    "RatingDeviation": "84",
+    "Popularity": "72",
+    "NbPlays": "34",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/n5JtksAr/black#24",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "KwxGj",
+    "FEN": "2r2rk1/1p2Np1p/p1ppqPp1/4p3/1PP1P3/Pn1PK1P1/4N3/3R3R b - - 1 24",
+    "Moves": "g8h8 h1h7 h8h7 d1h1 e6h3 h1h3",
+    "Rating": "1554",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "12023",
+    "Themes": "attraction kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/qz0gt1VL/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KwyEA",
+    "FEN": "r3kr2/pp1qp2p/2np2pb/5b2/4pPP1/1P5P/PBPQB3/1K1R2NR b q - 0 15",
+    "Moves": "f5e6 g4g5 h6g5 f4g5",
+    "Rating": "1436",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "3408",
+    "Themes": "advantage master middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/JZJgBzDq/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "Kx1Sx",
+    "FEN": "rq3rk1/pp3ppp/8/3p1pB1/P5n1/8/5PPP/R2QRBK1 w - - 2 21",
+    "Moves": "h2h3 b8h2",
+    "Rating": "1454",
+    "RatingDeviation": "266",
+    "Popularity": "75",
+    "NbPlays": "29",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/668muMfk#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Kx8MR",
+    "FEN": "r3r1k1/1p1q1ppp/p2p1b2/2pP4/P4Pb1/1BN1B3/1PP3QP/R4RK1 w - - 0 19",
+    "Moves": "g2g3 e8e3 g3e3 f6d4",
+    "Rating": "1576",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1236",
+    "Themes": "crushing middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/gfm3Fama#37",
+    "OpeningTags": "Kings_Gambit Kings_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "Kx8iV",
+    "FEN": "3r1rk1/p1p1bppp/1pb4q/4N3/4PP2/2P2BnP/PPQ4K/R1B1R3 w - - 0 23",
+    "Moves": "h2g3 e7h4 g3h2 h4e1",
+    "Rating": "1571",
+    "RatingDeviation": "133",
+    "Popularity": "-33",
+    "NbPlays": "11",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/FEGQKBwn#45",
+    "OpeningTags": ""
+  }
+]

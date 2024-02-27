@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "OU0bC",
+    "FEN": "2rq2rk/1pp2p2/p4bp1/3PQ2R/8/P3BP2/1P3P1P/6RK b - - 0 27",
+    "Moves": "g6h5 e5h5",
+    "Rating": "1125",
+    "RatingDeviation": "82",
+    "Popularity": "93",
+    "NbPlays": "180",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/JF45FdqG/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OU7vb",
+    "FEN": "r2qk2r/ppp1p2p/7b/5pp1/4p3/2N1PnP1/PPPB1PKP/R2Q1R2 b kq - 2 13",
+    "Moves": "f3d2 d1h5",
+    "Rating": "1023",
+    "RatingDeviation": "104",
+    "Popularity": "70",
+    "NbPlays": "19",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/FqEib4Hr/black#26",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "OU9Hx",
+    "FEN": "r1b1kr2/pppp2pp/8/4p3/2nn3q/6Q1/PPPP2PP/RNB3KR w q - 0 12",
+    "Moves": "g3h4 d4e2",
+    "Rating": "1093",
+    "RatingDeviation": "101",
+    "Popularity": "80",
+    "NbPlays": "55",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ZSUHiTyG#23",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "OUBOo",
+    "FEN": "r1b2r1k/pp3pp1/7p/2q5/3np3/1BN3QP/PPP2PP1/3R1RK1 w - - 3 19",
+    "Moves": "c3e4 d4e2 g1h2 e2g3 e4c5 g3f1",
+    "Rating": "1187",
+    "RatingDeviation": "100",
+    "Popularity": "54",
+    "NbPlays": "35",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/wzD4et97#37",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "OUBiu",
+    "FEN": "2r2rk1/1pb3pp/p3pp2/3bN3/1P1P4/3NP3/1P3PPP/R1R3K1 w - - 0 21",
+    "Moves": "e5c4 d5c4 c1c4 c7h2 g1h2 c8c4",
+    "Rating": "1195",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "463",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/MbQs2Mog#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OUBvF",
+    "FEN": "r1bq1rk1/ppp1npp1/3p4/4p1Q1/2B1N3/3P4/PPP2PPP/R4RK1 b - - 0 13",
+    "Moves": "d6d5 e4f6 g8h8 g5h4",
+    "Rating": "1137",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "230",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/AbZH1UJn/black#26",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "OUCSk",
+    "FEN": "rnb1n2k/pp1p4/4p1B1/6PQ/2P5/2P5/P1K5/q7 b - - 1 25",
+    "Moves": "h8g8 h5h7 g8f8 h7f7",
+    "Rating": "1072",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "183",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/OghIfrLf/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OUD31",
+    "FEN": "r4rk1/p1pN1p1p/b7/2bP4/2P5/8/PB5K/R5R1 b - - 5 28",
+    "Moves": "c5g1 a1g1",
+    "Rating": "1146",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "821",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/T2RBwbTN/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OUDiC",
+    "FEN": "r3k2r/pp1n1p1p/3Q1np1/q1p3B1/4P3/2N5/PPP2PPP/R3K2R b KQkq - 2 11",
+    "Moves": "f6e4 d6e7",
+    "Rating": "1032",
+    "RatingDeviation": "154",
+    "Popularity": "54",
+    "NbPlays": "10",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/nlH1VLZe/black#22",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  }
+]

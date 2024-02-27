@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CgJ7H",
+    "FEN": "5rk1/pp2n1b1/6p1/1N1pPb1p/7q/4BP2/PP1Q2P1/R4BK1 w - - 8 25",
+    "Moves": "b5d6 g7e5 f3f4 e5d6",
+    "Rating": "1396",
+    "RatingDeviation": "74",
+    "Popularity": "85",
+    "NbPlays": "246",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/1HsJEThv#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CgJK4",
+    "FEN": "4R1k1/pp3ppp/3b4/2nQ4/5q2/2P2N1P/PPr2PP1/6K1 b - - 1 23",
+    "Moves": "d6f8 e8f8 g8f8 d5d8",
+    "Rating": "1379",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "661",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/jgfafxwP/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CgNhj",
+    "FEN": "r4rk1/p1p2ppp/Q4N2/1p6/3n4/4R3/PqP2PPP/4R1K1 b - - 3 19",
+    "Moves": "g7f6 e3g3 g8h8 a6f6",
+    "Rating": "1297",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "221",
+    "Themes": "intermezzo kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/TpXV3ou0/black#38",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "CgQfd",
+    "FEN": "r7/1q2b1pk/p3N2p/1p6/4b1n1/4B1Q1/PPP3PP/5RK1 b - - 0 25",
+    "Moves": "g4e3 g3g7",
+    "Rating": "1269",
+    "RatingDeviation": "76",
+    "Popularity": "73",
+    "NbPlays": "210",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/EeSPl0l3/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CgSve",
+    "FEN": "r3k2r/pp1b1p2/8/2pPP1q1/2P2RPp/2N4p/P2QB2P/7K b kq - 0 24",
+    "Moves": "g5e5 f4e4 e5e4 c3e4",
+    "Rating": "1239",
+    "RatingDeviation": "73",
+    "Popularity": "94",
+    "NbPlays": "9905",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/jUV8QYTq/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CgT0d",
+    "FEN": "r1b1k1r1/2qpnp1p/p1n1P3/1p6/1b4Q1/1NNB4/PPP3PP/R1B2RK1 b q - 0 13",
+    "Moves": "g8g4 e6f7 e8f8 c1h6 g4g7 h6g7 f8g7 f7f8q",
+    "Rating": "1308",
+    "RatingDeviation": "72",
+    "Popularity": "95",
+    "NbPlays": "17715",
+    "Themes": "advancedPawn attackingF2F7 attraction mate mateIn4 middlegame promotion veryLong",
+    "GameUrl": "https://lichess.org/waL1yECm/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kan_Variation"
+  },
+  {
+    "PuzzleId": "CgUBL",
+    "FEN": "r1bqnr2/pppp1p1k/6p1/4P3/3QN3/8/PPP2PPP/R4RK1 b - - 1 13",
+    "Moves": "e8g7 e4f6 d8f6 e5f6",
+    "Rating": "1336",
+    "RatingDeviation": "75",
+    "Popularity": "80",
+    "NbPlays": "99",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/27c85C6P/black#26",
+    "OpeningTags": "Scotch_Game Scotch_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "CgVZk",
+    "FEN": "2knrb1r/ppp3p1/4P2p/8/8/P1N2N2/1PP3PP/2KRR3 b - - 0 17",
+    "Moves": "e8e6 d1d8 c8d8 e1e6",
+    "Rating": "1329",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "731",
+    "Themes": "crushing intermezzo middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/JSvX4IBO/black#34",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Abbazia_Defense"
+  },
+  {
+    "PuzzleId": "CgW8K",
+    "FEN": "3r1rk1/q3bppp/p3bn2/1p6/4P3/3P4/PBN1B1PP/R2Q1R1K w - - 3 19",
+    "Moves": "c2d4 d8d4 b2d4 a7d4",
+    "Rating": "1245",
+    "RatingDeviation": "93",
+    "Popularity": "53",
+    "NbPlays": "101",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Bx5k5S9p#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  }
+]

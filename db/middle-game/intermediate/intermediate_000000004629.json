@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "B7tk3",
+    "FEN": "r1q1kb1r/pQ2pppp/n1p5/3N2N1/8/1B2B3/PPP2PPP/2KR4 b kq - 0 17",
+    "Moves": "c8b7 d5c7 b7c7 b3f7",
+    "Rating": "1577",
+    "RatingDeviation": "264",
+    "Popularity": "-100",
+    "NbPlays": "6",
+    "Themes": "attackingF2F7 discoveredAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/UXZq7j2Y/black#34",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "B7v4h",
+    "FEN": "r6r/6k1/p4b1p/QpqP1RpR/6P1/3B1P2/PPP5/2K5 w - - 2 31",
+    "Moves": "a5d2 c5g1 d2d1 f6b2",
+    "Rating": "1467",
+    "RatingDeviation": "104",
+    "Popularity": "81",
+    "NbPlays": "18",
+    "Themes": "crushing middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/DCQm4DHY#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "B7vp4",
+    "FEN": "r2k3r/ppp2p1p/3pnNn1/4q1P1/4P3/1P1B3Q/P1PK2P1/4R2R w - - 1 19",
+    "Moves": "g2g3 e5g5 d2d1 g5f6",
+    "Rating": "1591",
+    "RatingDeviation": "85",
+    "Popularity": "82",
+    "NbPlays": "35",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/FtVCXLLI#37",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "B7wHn",
+    "FEN": "r1b2rk1/1ppp1p2/pb3qN1/6PQ/1PB1P3/P2P4/3K1PP1/n6R b - - 0 16",
+    "Moves": "f6g7 g6e7",
+    "Rating": "1565",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "853",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/SYvxtENO/black#32",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "B7wZL",
+    "FEN": "1r1q1rk1/pb3pp1/1p1b1n1p/2p5/8/1B1P2QP/PPP2PPN/R1B2RK1 w - - 2 15",
+    "Moves": "c1f4 f6h5 f4d6 h5g3",
+    "Rating": "1516",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "278",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/xNOFFpLg#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "B7xtx",
+    "FEN": "r1bq1rk1/pp2bppp/2nPp3/8/2B3n1/1QN1BN2/PP3PPP/2KR3R b - - 0 11",
+    "Moves": "g4e3 d6e7 d8e7 f2e3",
+    "Rating": "1545",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1222",
+    "Themes": "advancedPawn advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/QcO00CnE/black#22",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "B7yWT",
+    "FEN": "r4r2/1bqnppkp/pp1p1np1/2pPP3/P4P2/2N2N2/1PPQB1PP/R4RK1 b - - 0 15",
+    "Moves": "f6d5 c3d5 b7d5 d2d5",
+    "Rating": "1426",
+    "RatingDeviation": "119",
+    "Popularity": "10",
+    "NbPlays": "14",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Rdgf6SQz/black#30",
+    "OpeningTags": "Modern_Defense Modern_Defense_Standard_Defense"
+  },
+  {
+    "PuzzleId": "B7ydq",
+    "FEN": "4r2k/pp3r1P/2nb2p1/2p1p1q1/2PpPpN1/PP1P1Pn1/R5QR/1N2B1K1 b - - 6 31",
+    "Moves": "g3h5 e1h4 g5h4 h2h4",
+    "Rating": "1468",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "627",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/JlFBDIZA/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "B7zL3",
+    "FEN": "r4r2/pp1q2kp/3p1pp1/2p3N1/2P4N/1PQ4b/P3PK1P/6R1 b - - 1 21",
+    "Moves": "g7g8 g5h3",
+    "Rating": "1582",
+    "RatingDeviation": "304",
+    "Popularity": "100",
+    "NbPlays": "3",
+    "Themes": "equality middlegame oneMove",
+    "GameUrl": "https://lichess.org/cT0Ve39d/black#42",
+    "OpeningTags": ""
+  }
+]

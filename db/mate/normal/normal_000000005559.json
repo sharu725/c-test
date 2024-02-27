@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "TODCM",
+    "FEN": "r1b1kbnr/ppppqppp/8/4n3/2P5/8/PP1NPPPP/R1BQKBNR w KQkq - 2 5",
+    "Moves": "g1f3 e5d3",
+    "Rating": "1314",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "1006",
+    "Themes": "master mate mateIn1 oneMove opening pin smotheredMate",
+    "GameUrl": "https://lichess.org/nZAsYgjw#9",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TOQF8",
+    "FEN": "6k1/1b4p1/4p1qp/4P3/1P1p4/2Q2N1P/6P1/6K1 w - - 0 34",
+    "Moves": "f3d4 g6g2",
+    "Rating": "1241",
+    "RatingDeviation": "85",
+    "Popularity": "78",
+    "NbPlays": "130",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/lW7VcCaL#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TOR7I",
+    "FEN": "r2q3k/pp4pp/2nr4/5Q2/2B1pN2/1P6/P4PPP/3R1RK1 b - - 0 20",
+    "Moves": "d6d1 f4g6 h7g6 f5h3 d8h4 h3h4",
+    "Rating": "1371",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "239",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/O8xNBhac/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TOcTS",
+    "FEN": "1r1kR2r/p1p4p/BpQp1q1b/8/3p4/3K4/PP3PP1/4R3 b - - 1 34",
+    "Moves": "h8e8 e1e8",
+    "Rating": "1219",
+    "RatingDeviation": "150",
+    "Popularity": "52",
+    "NbPlays": "61",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/AaLgMcS5/black#68",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TOgeW",
+    "FEN": "3rr1k1/pp3pp1/2p4p/6q1/1P1RPn2/P2Q4/1B3PPP/3R2K1 w - - 1 27",
+    "Moves": "d4d8 g5g2",
+    "Rating": "1377",
+    "RatingDeviation": "93",
+    "Popularity": "64",
+    "NbPlays": "56",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/a4KzKd7H#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TOgrp",
+    "FEN": "5b1k/2p3pp/p7/1p1QP3/1P1R4/P5p1/2B1q3/4N1K1 w - - 1 30",
+    "Moves": "e1g2 e2f2 g1h1 f2f1",
+    "Rating": "1265",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "4297",
+    "Themes": "endgame fork mate mateIn2 short",
+    "GameUrl": "https://lichess.org/HbLGogMp#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TOj6x",
+    "FEN": "rn1q1r1k/pp1b2pp/3p4/2p2P2/2BbP3/7R/PPP4P/R1BQ3K b - - 5 19",
+    "Moves": "d7c6 h3h7 h8h7 d1h5",
+    "Rating": "1283",
+    "RatingDeviation": "76",
+    "Popularity": "75",
+    "NbPlays": "542",
+    "Themes": "attraction kingsideAttack mate mateIn2 opening sacrifice short",
+    "GameUrl": "https://lichess.org/jgs0Ncgx/black#38",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "TOkSy",
+    "FEN": "r5k1/1p1R1pp1/p6p/2q5/2n3P1/1P2RQ2/P1P2P1P/6K1 b - - 0 25",
+    "Moves": "c4e3 f3f7 g8h8 f7g7",
+    "Rating": "1270",
+    "RatingDeviation": "83",
+    "Popularity": "-9",
+    "NbPlays": "98",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/LUwwiBNh/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TOnFK",
+    "FEN": "6k1/6p1/1p5p/nP3q2/1QPpN1b1/3P2P1/R4PBK/4r3 w - - 6 34",
+    "Moves": "a2a5 f5h5 g2h3 h5h3",
+    "Rating": "1235",
+    "RatingDeviation": "77",
+    "Popularity": "83",
+    "NbPlays": "261",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/qTBHkux1#67",
+    "OpeningTags": ""
+  }
+]

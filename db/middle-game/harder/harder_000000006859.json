@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Kl1yo",
+    "FEN": "rr4k1/3nppbp/3p2p1/1NpP4/P3P1n1/5NP1/1q1BQPKP/RR6 b - - 1 17",
+    "Moves": "b2c2 f3e1 c2d2 e2d2",
+    "Rating": "1926",
+    "RatingDeviation": "83",
+    "Popularity": "85",
+    "NbPlays": "142",
+    "Themes": "advantage master masterVsMaster middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/4zflDmKs/black#34",
+    "OpeningTags": "Benko_Gambit_Accepted Benko_Gambit_Accepted_King_Walk_Variation"
+  },
+  {
+    "PuzzleId": "Kl2p2",
+    "FEN": "rn5R/p3p2k/7b/2p5/4b3/7Q/PP3q2/K5R1 b - - 3 32",
+    "Moves": "h7h8 h3h6 e4h7 h6g7",
+    "Rating": "1896",
+    "RatingDeviation": "100",
+    "Popularity": "85",
+    "NbPlays": "81",
+    "Themes": "hangingPiece mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/idbwvh2D/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Kl3k9",
+    "FEN": "r4rk1/1b3ppp/ppqb4/4p3/2PBN3/PP1Q1P1P/3P2P1/4RRK1 w - - 0 20",
+    "Moves": "e4d6 c6d6 e1e5 a8d8 d3e3 d6d4",
+    "Rating": "1860",
+    "RatingDeviation": "85",
+    "Popularity": "60",
+    "NbPlays": "43",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/TfXZTOAI#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Kl44v",
+    "FEN": "r1b2rk1/pp2qp1p/7p/3Qp3/2P5/2PBP2P/P4PP1/R3K2R w KQ - 0 15",
+    "Moves": "a1b1 f8d8 d5e4 f7f5 e4f3 d8d3",
+    "Rating": "1917",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "6685",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/V3lRkf9A#29",
+    "OpeningTags": "Indian_Defense Indian_Defense_Budapest_Defense"
+  },
+  {
+    "PuzzleId": "Kl50T",
+    "FEN": "2rq4/p3b1k1/1p1p4/1b1Pp1p1/1PN1PpP1/3P1P2/1B3K2/2R4Q b - - 5 29",
+    "Moves": "d8d7 c4e5 d6e5 b2e5 e7f6 e5f6 g7f6 h1h6",
+    "Rating": "1802",
+    "RatingDeviation": "95",
+    "Popularity": "79",
+    "NbPlays": "18",
+    "Themes": "attraction crushing exposedKing middlegame veryLong",
+    "GameUrl": "https://lichess.org/a3Ihj5gt/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Kl5iS",
+    "FEN": "7r/p4pkp/4q1p1/2b1r3/8/2QB4/5PPP/1R3RK1 b - - 6 27",
+    "Moves": "c5b6 b1b6 a7b6 f2f4",
+    "Rating": "1941",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "951",
+    "Themes": "advantage middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/RT7rNMja/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Kl7iC",
+    "FEN": "2r5/pp5k/1q3ppP/4pN2/1n1pP1Q1/1P1P4/P1r3P1/R4RK1 b - - 3 26",
+    "Moves": "c8c7 f5h4 f6f5 e4f5",
+    "Rating": "1839",
+    "RatingDeviation": "76",
+    "Popularity": "55",
+    "NbPlays": "56",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/YzTH2gp3/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Kl8gP",
+    "FEN": "2r2rk1/p2q2pp/1p2N3/nP1pP3/6Q1/b1N1P3/P5PP/2RR2K1 w - - 3 22",
+    "Moves": "c3d5 c8c1 d1c1 a3c1",
+    "Rating": "1962",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "6299",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/qbCImHH3#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Kl8vV",
+    "FEN": "1r3rk1/2p1ppbp/6p1/1B2P3/P1p2P2/R1NqP1P1/1P5P/2Q1K3 b - - 2 19",
+    "Moves": "f7f6 c3d5 d3d5 b5c4",
+    "Rating": "1892",
+    "RatingDeviation": "97",
+    "Popularity": "85",
+    "NbPlays": "24",
+    "Themes": "crushing master middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/0XKd62o6/black#38",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Three_Knights_Variation"
+  }
+]

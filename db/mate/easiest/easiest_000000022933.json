@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "id5aV",
+    "FEN": "r1b5/pp2qkbQ/3r4/8/2BPP2n/P1P5/2P3P1/R5K1 b - - 0 28",
+    "Moves": "f7f8 h7g8",
+    "Rating": "975",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "273",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/qeBGsWNf/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "id5on",
+    "FEN": "r1bq1rk1/pp3ppp/2p1pb2/6N1/2B1Q2P/3P4/PPP2PP1/R3K2R b KQ - 2 14",
+    "Moves": "h7h6 e4h7",
+    "Rating": "620",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "143",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/K8YV0OxD/black#28",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "id641",
+    "FEN": "6k1/3R4/6Kp/8/1p6/pr6/7P/8 b - - 1 54",
+    "Moves": "a3a2 d7d8",
+    "Rating": "841",
+    "RatingDeviation": "144",
+    "Popularity": "82",
+    "NbPlays": "23",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/6KQ7vBsg/black#108",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "id7Ef",
+    "FEN": "rn1qr1k1/1p3p1p/p2p2p1/2pPR1NB/5Q2/8/PP3PPP/R5K1 b - - 0 19",
+    "Moves": "e8e5 f4f7 g8h8 f7h7",
+    "Rating": "769",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "1204",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/hQrvCVZj/black#38",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_French_Benoni"
+  },
+  {
+    "PuzzleId": "id8dD",
+    "FEN": "1q4kr/1p2p3/2n1P1p1/8/3QP3/2P5/P5PP/R4R1K w - - 3 30",
+    "Moves": "d4f2 b8h2",
+    "Rating": "864",
+    "RatingDeviation": "82",
+    "Popularity": "94",
+    "NbPlays": "234",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/YOB40sdV#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "id9ZL",
+    "FEN": "r4rk1/2p2ppp/b1p5/p2pP2q/2P1NBn1/3Q4/PP3PPP/R4RK1 w - d6 0 16",
+    "Moves": "e4g3 h5h2",
+    "Rating": "771",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "163",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/bbG7YPLz#31",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Classical_Variation"
+  },
+  {
+    "PuzzleId": "idByy",
+    "FEN": "3rrQ1k/1pp3pp/p7/n7/3PPR2/2P3qP/1B1N2P1/5RK1 b - - 2 25",
+    "Moves": "e8f8 f4f8 d8f8 f1f8",
+    "Rating": "600",
+    "RatingDeviation": "88",
+    "Popularity": "65",
+    "NbPlays": "84",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/c1kXCjyv/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "idChk",
+    "FEN": "rn3k1r/pp2Qppp/2p2nb1/q4p2/3P1BP1/2b4P/PPP3B1/2K1R1NR b - - 1 16",
+    "Moves": "f8g8 e7e8 f6e8 e1e8",
+    "Rating": "767",
+    "RatingDeviation": "84",
+    "Popularity": "99",
+    "NbPlays": "1755",
+    "Themes": "backRankMate master mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/pR4sl2yK/black#32",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Gubinsky-Melts_Defense"
+  },
+  {
+    "PuzzleId": "idEFI",
+    "FEN": "r5k1/1p3ppp/4p2b/Nq1pP3/3P3P/4P1P1/5Q2/5RK1 b - - 2 25",
+    "Moves": "b5a5 f2f7 g8h8 f7f8 a8f8 f1f8",
+    "Rating": "707",
+    "RatingDeviation": "97",
+    "Popularity": "87",
+    "NbPlays": "837",
+    "Themes": "backRankMate endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/HVnYlZ9E/black#50",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "IHIOO",
+    "FEN": "1r4k1/1q3ppp/p3b3/2p1P1B1/2P3P1/p2Q4/KP1R3P/8 b - - 2 29",
+    "Moves": "a3b2 d3d8 b8d8 d2d8",
+    "Rating": "714",
+    "RatingDeviation": "81",
+    "Popularity": "98",
+    "NbPlays": "1160",
+    "Themes": "backRankMate endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/wWPYFLKS/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IHJxa",
+    "FEN": "rnb1Qbkr/pp1p1p1p/3P2pB/q1p5/4n3/2P2N2/PP3PPP/R3KB1R b KQ - 0 14",
+    "Moves": "e4d6 e8f8",
+    "Rating": "972",
+    "RatingDeviation": "88",
+    "Popularity": "86",
+    "NbPlays": "57",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/XZ5RisrX/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Hyperaccelerated_Fianchetto"
+  },
+  {
+    "PuzzleId": "IHKDX",
+    "FEN": "5rk1/6pp/2QNpr2/p1P3q1/3P1n2/P7/5PPP/R4R1K w - - 1 24",
+    "Moves": "d6e4 g5g2",
+    "Rating": "907",
+    "RatingDeviation": "86",
+    "Popularity": "79",
+    "NbPlays": "332",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/TG9xVJ6X#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IHKNz",
+    "FEN": "r3kbnr/p1p2ppp/8/1p2p1B1/N1BR2PP/8/PPP2P2/5K1R b kq - 0 16",
+    "Moves": "e5d4 c4b5 c7c6 b5c6",
+    "Rating": "989",
+    "RatingDeviation": "80",
+    "Popularity": "89",
+    "NbPlays": "1349",
+    "Themes": "bodenMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/LZD3BuWC/black#32",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "IHKRl",
+    "FEN": "2r2rk1/pb3ppp/1p2p3/3pq3/8/2PQ4/P1B2PPP/1R3RK1 b - - 1 18",
+    "Moves": "e5c3 d3h7",
+    "Rating": "883",
+    "RatingDeviation": "113",
+    "Popularity": "67",
+    "NbPlays": "40",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/lDvrmgeX/black#36",
+    "OpeningTags": "Indian_Defense Indian_Defense_London_System"
+  },
+  {
+    "PuzzleId": "IHKyK",
+    "FEN": "8/p7/2R1pk2/7K/1P6/1r4P1/2N5/8 w - - 1 48",
+    "Moves": "g3g4 b3h3",
+    "Rating": "627",
+    "RatingDeviation": "79",
+    "Popularity": "100",
+    "NbPlays": "115",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/2HOApJMR#95",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IHMYE",
+    "FEN": "2kr3r/Np2bpp1/2n1pn2/5b1p/1PBP1B2/P6P/4NPP1/2R1K2R b K - 0 16",
+    "Moves": "c6a7 c4e6",
+    "Rating": "939",
+    "RatingDeviation": "99",
+    "Popularity": "100",
+    "NbPlays": "29",
+    "Themes": "doubleCheck mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/FxOR7fMF/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "IHOUV",
+    "FEN": "r5k1/2q4p/6pQ/p2p4/2pBb1P1/2P4P/PP6/5R1K w - - 1 32",
+    "Moves": "h1g1 c7g3",
+    "Rating": "998",
+    "RatingDeviation": "88",
+    "Popularity": "95",
+    "NbPlays": "122",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/bJtQ6lui#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "IHPc3",
+    "FEN": "8/1pp5/p7/2r5/6Pp/1P3Pk1/P3R1P1/6K1 w - - 1 32",
+    "Moves": "b3b4 c5c1 e2e1 c1e1",
+    "Rating": "659",
+    "RatingDeviation": "119",
+    "Popularity": "67",
+    "NbPlays": "46",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/tuvcXAf7#63",
+    "OpeningTags": ""
+  }
+]

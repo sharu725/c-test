@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "5lobC",
+    "FEN": "3r1rk1/2q2p1p/b1p2n1p/p1b1pN2/Pp2P3/1B4Q1/1PP2PPP/R3R1K1 b - - 1 19",
+    "Moves": "g8h8 g3g7",
+    "Rating": "1095",
+    "RatingDeviation": "165",
+    "Popularity": "65",
+    "NbPlays": "41",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/bHXiGXBT/black#38",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Lion_Variation"
+  },
+  {
+    "PuzzleId": "5lpZ2",
+    "FEN": "5r1k/pp2B2p/2q4r/4p3/5p2/2P4b/PPQ2RP1/R6K w - - 0 31",
+    "Moves": "e7f8 h3g2 h1g1 h6h1",
+    "Rating": "1147",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "4724",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/uUdiU9mP#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5lrK7",
+    "FEN": "1r4k1/1r2pp1p/3p2p1/q7/2Q1P2P/5N2/1b3PP1/1R3RK1 b - - 0 26",
+    "Moves": "b2f6 b1b7 b8b7 c4c8",
+    "Rating": "1122",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "137",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/Wn1r5Mp5/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5lreQ",
+    "FEN": "r2qr1k1/pp3pbp/6p1/2npp3/8/PP2P3/1BPN1PPP/R2Q1RK1 w - - 0 15",
+    "Moves": "d1f3 e5e4 f3e2 g7b2",
+    "Rating": "1073",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "3658",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/cBoQXwuU#29",
+    "OpeningTags": "East_Indian_Defense East_Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "5ltgF",
+    "FEN": "r3k2r/1pp2p2/p1nq3p/3pp2b/8/P2Q3P/1PPNPPP1/2KR1B1R b kq - 1 14",
+    "Moves": "e8c8 d3f5 c8b8 f5h5",
+    "Rating": "1041",
+    "RatingDeviation": "81",
+    "Popularity": "75",
+    "NbPlays": "75",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/128a6M2L/black#28",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "5ltyA",
+    "FEN": "2kr3r/ppp3pp/2n5/3P4/Q4q2/2n1p2P/PP2B1P1/2KR1N1R w - - 0 19",
+    "Moves": "a4f4 c3e2 c1b1 e2f4",
+    "Rating": "1149",
+    "RatingDeviation": "78",
+    "Popularity": "85",
+    "NbPlays": "228",
+    "Themes": "crushing fork hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/wjtU6Rq3#37",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Declined_Variation"
+  },
+  {
+    "PuzzleId": "5lvId",
+    "FEN": "5r2/p7/3RQnk1/5p1r/8/1P4Pb/P1P2P1p/4R2K w - - 4 34",
+    "Moves": "e1e2 h3g2 h1g2 h2h1q",
+    "Rating": "1198",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "153",
+    "Themes": "advancedPawn attraction mate mateIn2 middlegame promotion short",
+    "GameUrl": "https://lichess.org/wsO0ULwk#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5lwBz",
+    "FEN": "r4k1r/p1q2ppp/5n2/8/3B1P2/1P2Q1P1/P2PP2P/R3K2b b Q - 0 17",
+    "Moves": "c7e7 d4c5 e7c5 e3c5",
+    "Rating": "1123",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "1054",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/bjLwxfe7/black#34",
+    "OpeningTags": "English_Opening English_Opening_Caro-Kann_Defensive_System"
+  },
+  {
+    "PuzzleId": "5lx85",
+    "FEN": "rnb1r2k/p4ppp/1bp5/1pN2n2/3B4/1B3N1P/PP3PP1/3RR1K1 b - - 5 19",
+    "Moves": "f5d4 e1e8",
+    "Rating": "1024",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "686",
+    "Themes": "backRankMate hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/GLy12o4i/black#38",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Central_Variation"
+  }
+]

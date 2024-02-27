@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "qSC8l",
+    "FEN": "r2qr3/2p1kpp1/pp1p4/3P2N1/P1Pb1n1Q/1P6/6PP/5R1K b - - 4 30",
+    "Moves": "f4g6 f1f7",
+    "Rating": "1841",
+    "RatingDeviation": "88",
+    "Popularity": "59",
+    "NbPlays": "266",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/LIoFZNko/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qSCtv",
+    "FEN": "1r2r3/1p2P1kb/p1p1Qp2/3p2p1/6P1/1Rq5/2P2PK1/3BR3 b - - 3 32",
+    "Moves": "c3c5 b3f3 c5e7 e6e7 e8e7 e1e7",
+    "Rating": "1956",
+    "RatingDeviation": "96",
+    "Popularity": "91",
+    "NbPlays": "34",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/zge3amhA/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qSDcA",
+    "FEN": "4rr1k/pppbR2B/3p1p1b/3P2p1/2P2Pq1/1PQ3P1/PB5P/4R1K1 w - - 1 26",
+    "Moves": "c3f6 f8f6 b2f6 h6g7 e7e8 d7e8",
+    "Rating": "1885",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "613",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/0NweGHYJ#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qSDkm",
+    "FEN": "1r3r1k/p1p2ppp/2p1b3/3p2q1/8/1P1B1Q1P/P1P2PP1/R3R1K1 b - - 0 16",
+    "Moves": "b8b4 e1e6 b4f4 f3g3 g5g3 f2g3 f7e6 g3f4",
+    "Rating": "1880",
+    "RatingDeviation": "152",
+    "Popularity": "0",
+    "NbPlays": "12",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/otkN533a/black#32",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "qSDx4",
+    "FEN": "r1br2k1/1p2qpp1/p2bpn1p/2P5/3B4/2N1P1P1/P4PBP/R2Q1RK1 b - - 0 15",
+    "Moves": "d6c5 d4c5 e7c7 c5d4",
+    "Rating": "1965",
+    "RatingDeviation": "79",
+    "Popularity": "82",
+    "NbPlays": "40",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Kl1gyPF0/black#30",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "qSEtw",
+    "FEN": "r2q3B/pp2k3/2p3Q1/2b2pp1/4np2/1P6/P1P3PP/R4R1K w - - 3 20",
+    "Moves": "h8b2 e4g3 h2g3 d8h8 b2h8 a8h8 g6h7 h8h7",
+    "Rating": "1872",
+    "RatingDeviation": "75",
+    "Popularity": "81",
+    "NbPlays": "104",
+    "Themes": "mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/w7xhFcp4#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qSGz8",
+    "FEN": "1k1r4/1p2n2p/p2b3q/3p4/4Rp2/1QP5/PP3PP1/3R1BK1 w - - 1 29",
+    "Moves": "e4d4 f4f3 g2g3 d6g3",
+    "Rating": "1938",
+    "RatingDeviation": "74",
+    "Popularity": "83",
+    "NbPlays": "142",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/hAGd3O2n#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "qSHYa",
+    "FEN": "r3k3/2p2pp1/p1np4/1p2p2r/4P2p/2PPb2q/PP3P1N/R2BQRK1 w q - 0 18",
+    "Moves": "d1h5 e3f4 h2g4 g7g6 e1e3 f4e3",
+    "Rating": "1940",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "38",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/jjgBgPfD#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "qSJEZ",
+    "FEN": "4k2r/ppQr1p1q/2n4p/4p3/7p/2PP3P/PP3PP1/R1B1R1K1 w k - 3 19",
+    "Moves": "c7c8 e8e7 c8h8 h7h8",
+    "Rating": "1882",
+    "RatingDeviation": "75",
+    "Popularity": "80",
+    "NbPlays": "62",
+    "Themes": "advantage defensiveMove middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/NFi0z93X#37",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  }
+]

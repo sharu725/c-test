@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "mxlMY",
+    "FEN": "r1b1k2r/p3nppp/3Qp3/2p1P3/5P2/2B5/q5PP/1N1R2K1 b kq - 3 17",
+    "Moves": "c8b7 d6d7 e8f8 d7d8 a8d8 d1d8",
+    "Rating": "1689",
+    "RatingDeviation": "79",
+    "Popularity": "95",
+    "NbPlays": "14539",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/rs6xplac/black#34",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "mxooO",
+    "FEN": "r3nrk1/p2q2pp/3p4/1pp1p1B1/1P1nP3/2NP2Q1/P1P2PPP/2R2RK1 w - - 0 16",
+    "Moves": "b4c5 b5b4 g5e3 b4c3 e3d4 e5d4",
+    "Rating": "1624",
+    "RatingDeviation": "74",
+    "Popularity": "82",
+    "NbPlays": "1772",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/AlZYXQwf#31",
+    "OpeningTags": "Italian_Game Italian_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "mxou0",
+    "FEN": "q4rk1/p1pnppbp/5np1/8/2P5/2Np2P1/PP2QP1P/R1B2RK1 w - - 0 13",
+    "Moves": "e2d3 d7e5 d3e3 e5f3",
+    "Rating": "1637",
+    "RatingDeviation": "104",
+    "Popularity": "72",
+    "NbPlays": "32",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/fhbPwxuw#25",
+    "OpeningTags": "English_Opening English_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "mxpMF",
+    "FEN": "2r1nrk1/pq1bb2p/4p3/4Np1Q/2NP1P2/Pp1BP1B1/1P4P1/1K1R4 b - - 0 23",
+    "Moves": "e8f6 h5g5 g8h8 e5g6",
+    "Rating": "1722",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "637",
+    "Themes": "crushing kingsideAttack master middlegame short",
+    "GameUrl": "https://lichess.org/ZAdFqyIQ/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mxr4C",
+    "FEN": "rn2r1k1/pp3p2/2p3pp/3p4/8/1P1PqNp1/PBP3B1/R4Q1K b - - 5 20",
+    "Moves": "h6h5 a1e1 e3e1 f3e1",
+    "Rating": "1664",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "10812",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/hXTWBLo2/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mxs7g",
+    "FEN": "r4rk1/2p2ppp/p1q5/1p6/1P6/b5N1/P4PPP/1R1QR1K1 b - - 0 19",
+    "Moves": "a8d8 d1b3 a3b4 b3b4",
+    "Rating": "1615",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "1629",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/KBU8Yoi7/black#38",
+    "OpeningTags": "Alekhine_Defense Alekhine_Defense_Scandinavian_Variation"
+  },
+  {
+    "PuzzleId": "mxta6",
+    "FEN": "2r2rk1/4Bpbp/p2p2p1/1p3p2/4b2Q/PN6/1Pq1B1PP/3R1R1K w - - 0 20",
+    "Moves": "e7f8 c2e2 h4f2 e2f2",
+    "Rating": "1632",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "1874",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/2Vg9mQyG#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "mxuup",
+    "FEN": "3rk2r/ppp3Qp/4b3/2b2p2/3N1P2/2P3P1/PP2BqP1/R2K3R b k - 4 18",
+    "Moves": "c5d4 e2h5 e6f7 g7f7",
+    "Rating": "1662",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "2220",
+    "Themes": "attackingF2F7 mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/tAvZ86IJ/black#36",
+    "OpeningTags": "Saragossa_Opening Saragossa_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "mxvmQ",
+    "FEN": "5r2/1ppk2p1/2np1rqp/p7/3pP3/P1P2N1P/1P2Q1P1/R4RK1 w - - 0 22",
+    "Moves": "c3d4 f6f3 f1f3 c6d4",
+    "Rating": "1771",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1232",
+    "Themes": "advantage capturingDefender intermezzo middlegame pin short",
+    "GameUrl": "https://lichess.org/v9H5zaKD#43",
+    "OpeningTags": ""
+  }
+]

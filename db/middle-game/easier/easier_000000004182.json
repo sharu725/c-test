@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Choea",
+    "FEN": "r5k1/1p1b2pp/pqn1p3/3N4/1P4P1/P2Q3P/1B2BbK1/R7 b - - 0 20",
+    "Moves": "e6d5 d3d5 d7e6 d5e6",
+    "Rating": "1102",
+    "RatingDeviation": "86",
+    "Popularity": "57",
+    "NbPlays": "50",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/lAT1fWLq/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ChpcV",
+    "FEN": "2N3k1/3n1ppp/4p1q1/b2p4/8/1P2PQ2/Pr3PPP/1R3RK1 b - - 0 21",
+    "Moves": "b2b1 c8e7 g8f8 e7g6",
+    "Rating": "1102",
+    "RatingDeviation": "85",
+    "Popularity": "33",
+    "NbPlays": "90",
+    "Themes": "crushing fork middlegame pin short",
+    "GameUrl": "https://lichess.org/FfekrgLV/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ChpoX",
+    "FEN": "2r3k1/1r3pb1/1q1p1n1p/1bp1B1p1/8/RP4P1/2Q1NPBP/5RK1 w - - 0 26",
+    "Moves": "g2b7 b6b7 e5f6 g7f6",
+    "Rating": "1195",
+    "RatingDeviation": "97",
+    "Popularity": "87",
+    "NbPlays": "31",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/E4bahtoQ#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Chras",
+    "FEN": "3q1k1r/1b3pp1/5n2/p1r1pN1p/PpPpP3/1P1P2PP/3Q2BK/R4R2 w - - 4 28",
+    "Moves": "d2g5 f6g4 g5g4 h5g4",
+    "Rating": "1068",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "155",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/6HB2o6UZ#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ChrqR",
+    "FEN": "1k2rb1r/1ppR2pp/p4p2/7P/2q3P1/P1N2P2/1PK3Q1/7R b - - 0 31",
+    "Moves": "e8e2 g2e2 c4e2 c3e2",
+    "Rating": "1126",
+    "RatingDeviation": "90",
+    "Popularity": "67",
+    "NbPlays": "30",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/nZ32l65N/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ChsY4",
+    "FEN": "4r1kB/5p1p/p5p1/5q2/8/7P/PQ2n1P1/R5KR w - - 4 26",
+    "Moves": "g1h2 f5f4 g2g3 f4g3",
+    "Rating": "1071",
+    "RatingDeviation": "159",
+    "Popularity": "67",
+    "NbPlays": "7",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/zllwRaJA#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ChtCM",
+    "FEN": "1r2k2r/1p1q1p1p/4p1p1/8/2B5/2N5/PP3PPP/R3K2R b KQk - 0 17",
+    "Moves": "d7c6 c4b5 c6b5 c3b5",
+    "Rating": "1091",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "179",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/27iWhML9/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Panov_Attack"
+  },
+  {
+    "PuzzleId": "ChuJ3",
+    "FEN": "r3r1k1/ppp2pp1/5n1p/2P2b2/8/2N5/4BPPP/RN1R2K1 w - - 1 18",
+    "Moves": "c3b5 e8e2",
+    "Rating": "1070",
+    "RatingDeviation": "317",
+    "Popularity": "-100",
+    "NbPlays": "1",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/xSx2aIzy#35",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "ChwWO",
+    "FEN": "r2q1r1k/p1pn2b1/1p1pR2p/5n2/2BP1Q2/2N2P2/PPP2P1P/4R1K1 b - - 0 19",
+    "Moves": "f5d4 e6h6 g7h6 f4h6",
+    "Rating": "1196",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "3427",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/wEsZQ96e/black#38",
+    "OpeningTags": "French_Defense French_Defense_Normal_Variation"
+  }
+]

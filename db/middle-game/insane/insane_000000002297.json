@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ChQoF",
+    "FEN": "r3r1k1/pp1n1ppp/2pb4/3p2B1/3P3N/1BPb1P2/PP4PP/R3R1K1 w - - 1 18",
+    "Moves": "a1d1 e8e1 d1e1 h7h6",
+    "Rating": "2458",
+    "RatingDeviation": "91",
+    "Popularity": "90",
+    "NbPlays": "400",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ai8mjMCG#35",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "ChRa8",
+    "FEN": "2kr1b1r/ppp2pp1/2q1p1p1/3p4/4n1P1/1PN1PQ1P/PBPP1P2/R3K2R w KQ - 2 13",
+    "Moves": "f3f7 e4g5 f7g6 d5d4 e1c1 d4c3",
+    "Rating": "2579",
+    "RatingDeviation": "86",
+    "Popularity": "82",
+    "NbPlays": "92",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/DbKkPVQw#25",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation"
+  },
+  {
+    "PuzzleId": "ChSZ3",
+    "FEN": "1r2r1k1/ppp3pp/4np2/3B1q2/2Q1n3/PP6/1B3PPP/2RR2K1 b - - 1 22",
+    "Moves": "e4d6 g2g4 d6c4 g4f5",
+    "Rating": "2555",
+    "RatingDeviation": "107",
+    "Popularity": "91",
+    "NbPlays": "136",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/6biUIfS8/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ChZgx",
+    "FEN": "r1b1k1nr/pp1p1ppp/4p3/8/4PP2/N3B1QN/Pbq3PP/R4R1K b kq - 1 13",
+    "Moves": "b2a3 g3g7 a3b2 e4e5 c2g6 g7h8",
+    "Rating": "2485",
+    "RatingDeviation": "79",
+    "Popularity": "82",
+    "NbPlays": "212",
+    "Themes": "crushing long middlegame quietMove trappedPiece",
+    "GameUrl": "https://lichess.org/ycONz47u/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "Chbnf",
+    "FEN": "r1b1q1k1/1pN2pbp/p5p1/2p5/P6B/8/1P2r1PP/R2Q1RK1 b - - 1 18",
+    "Moves": "e8e3 h4f2 e2f2 d1d8 g7f8 f1f2",
+    "Rating": "2485",
+    "RatingDeviation": "80",
+    "Popularity": "92",
+    "NbPlays": "1515",
+    "Themes": "advantage defensiveMove intermezzo long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/emdE9Xyg/black#36",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "Chd8b",
+    "FEN": "7r/1p2k1rN/5Qn1/p3p1P1/3p4/3Pn3/1qP5/2R1K2R b K - 4 32",
+    "Moves": "e7d7 f6g7 d7c8 e1e2 e3d5 h7f6",
+    "Rating": "2680",
+    "RatingDeviation": "84",
+    "Popularity": "48",
+    "NbPlays": "73",
+    "Themes": "advantage fork hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/vcoilK82/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CheiF",
+    "FEN": "5rk1/pp3pp1/6q1/1N2n2p/2Q5/3r1PB1/PP3P2/3RR1K1 w - - 2 26",
+    "Moves": "c4e4 e5f3 g1g2 d3d1",
+    "Rating": "2471",
+    "RatingDeviation": "99",
+    "Popularity": "78",
+    "NbPlays": "59",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/OgUZxYmz#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ChfK1",
+    "FEN": "r1bq1rk1/pp4pp/2n1pp2/2Qn4/2B5/P1B2N2/1P3PPP/2KR3R b - - 3 13",
+    "Moves": "d8e8 d1d5 e6d5 c4d5 c8e6 h1e1 c6e5 f3e5 e6d5 c5d5",
+    "Rating": "2504",
+    "RatingDeviation": "81",
+    "Popularity": "83",
+    "NbPlays": "178",
+    "Themes": "advantage kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/GUmhU6dl/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "ChhNI",
+    "FEN": "r7/p3qbk1/1p1R1N1p/5p2/1Q3P2/4r3/PP4PP/2R3K1 w - - 2 39",
+    "Moves": "h2h3 e3e6 c1c6 e7f6 d6e6 f7e6",
+    "Rating": "2609",
+    "RatingDeviation": "85",
+    "Popularity": "57",
+    "NbPlays": "60",
+    "Themes": "advantage long master middlegame",
+    "GameUrl": "https://lichess.org/6qHBqctp#77",
+    "OpeningTags": ""
+  }
+]

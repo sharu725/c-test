@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "gVBiO",
+    "FEN": "r3k2r/ppqn1ppp/4p1b1/3pP3/5PP1/2N5/PPPBQ2P/2KR3R w kq - 0 15",
+    "Moves": "c3b5 c7c2",
+    "Rating": "804",
+    "RatingDeviation": "79",
+    "Popularity": "100",
+    "NbPlays": "140",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/Tn5Imfz7#29",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "gVEEK",
+    "FEN": "rnb1r1k1/pp3ppp/8/2bp2N1/5Q2/3K1P2/P1P3PP/q4B1R b - - 3 15",
+    "Moves": "b8c6 f4f7 g8h8 f7e8 c5f8 e8f8",
+    "Rating": "968",
+    "RatingDeviation": "85",
+    "Popularity": "63",
+    "NbPlays": "48",
+    "Themes": "fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/jkT6QW7b/black#30",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "gVFk3",
+    "FEN": "r4rk1/3q1p1p/1p2p1pb/2pnP3/p3NP2/P1BP1RP1/1PQ4P/3R2K1 b - - 0 23",
+    "Moves": "d5c3 e4f6 g8h8 f6d7",
+    "Rating": "994",
+    "RatingDeviation": "83",
+    "Popularity": "92",
+    "NbPlays": "819",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Z3AVaSw8/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gVIQC",
+    "FEN": "r5k1/pr1n1ppp/R1N1p3/3p4/8/2B3PP/1P2BP2/6K1 b - - 2 37",
+    "Moves": "a8c8 c6e7 g8f8 e7c8",
+    "Rating": "676",
+    "RatingDeviation": "87",
+    "Popularity": "87",
+    "NbPlays": "436",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/xKeHZRGh/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gVJgE",
+    "FEN": "r1bq1rk1/p1p2pp1/2Q4p/4b3/2p1P3/4R3/PPP2PPP/RNB3K1 w - - 0 13",
+    "Moves": "c6a8 d8d1 e3e1 d1e1",
+    "Rating": "667",
+    "RatingDeviation": "95",
+    "Popularity": "91",
+    "NbPlays": "911",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/fgcLG8br#25",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "gVKOi",
+    "FEN": "1n2k2r/2q1pp1p/2p3p1/1p6/7r/PNP5/1B2QPP1/R3R1bK w k - 3 26",
+    "Moves": "h1g1 c7h2 g1f1 h2h1",
+    "Rating": "769",
+    "RatingDeviation": "80",
+    "Popularity": "100",
+    "NbPlays": "98",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/MWEKK2De#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "gVL9D",
+    "FEN": "r3k2r/p1pnqpp1/1p2pn1p/4N3/2BP4/4P1P1/PP3PP1/R2QK2R w KQkq - 1 13",
+    "Moves": "c4b5 e7b4 e1f1 b4b5",
+    "Rating": "763",
+    "RatingDeviation": "96",
+    "Popularity": "68",
+    "NbPlays": "194",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/kpSQuPAx#25",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "gVLi5",
+    "FEN": "r4r1k/p2p2bp/bp3pp1/4N3/5N2/1B2P3/PPP2PP1/R3K2R b KQ - 0 16",
+    "Moves": "f6e5 f4g6",
+    "Rating": "795",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "293",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/aiCdImap/black#32",
+    "OpeningTags": "Trompowsky_Attack Trompowsky_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "gVMRp",
+    "FEN": "r1b2rk1/ppp3pp/3p1q2/4n2Q/4P3/P4N2/P1PB1PPP/3RK2R w K - 5 15",
+    "Moves": "f3e5 f6f2",
+    "Rating": "772",
+    "RatingDeviation": "80",
+    "Popularity": "100",
+    "NbPlays": "683",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/0Flq3Rdp#29",
+    "OpeningTags": "Center_Game Center_Game_Paulsen_Attack_Variation"
+  }
+]

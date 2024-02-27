@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "0BmRF",
+    "FEN": "4br1k/2r4p/1q3p2/5P1N/p1p1P2P/3n2Q1/PP2B1RK/6R1 b - - 5 38",
+    "Moves": "e8h5 g3g8 f8g8 g2g8",
+    "Rating": "1554",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "1012",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/f4LKyWDf/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0BmT9",
+    "FEN": "7r/5k1p/p4n2/6R1/3r4/P6Q/1qB2PPP/R5K1 w - - 1 36",
+    "Moves": "a1b1 b2b1 c2b1 d4d1",
+    "Rating": "1407",
+    "RatingDeviation": "100",
+    "Popularity": "68",
+    "NbPlays": "228",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/QMfHhCQW#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0Bmrc",
+    "FEN": "2kr2r1/ppp1np1p/2q1p3/4P2b/8/2NP1N1P/PP3PP1/2RQ1RK1 w - - 2 15",
+    "Moves": "c3e4 c6e4 d3e4 d8d1 f1d1 h5f3",
+    "Rating": "1518",
+    "RatingDeviation": "75",
+    "Popularity": "74",
+    "NbPlays": "266",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/BDoG6Cr1#29",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "0BohJ",
+    "FEN": "5rk1/6pp/n1pq1p2/1p1p1n2/p2P1Q2/P1P2N1P/1P2rPP1/R3R1K1 w - - 0 20",
+    "Moves": "f4d6 e2e1 f3e1 f5d6",
+    "Rating": "1484",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "5872",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/dQdLZ0HE#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0Bpwo",
+    "FEN": "2r1rb2/pbqR1p1k/1p3p1p/2P1NN2/8/6Q1/PP3PPP/R5K1 b - - 1 24",
+    "Moves": "c7e5 d7f7 h7h8 f7f8 e8f8 g3g7",
+    "Rating": "1521",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "12543",
+    "Themes": "fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/NYojGdmm/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0BqE4",
+    "FEN": "2r1k3/ppp3B1/4Pp2/3r1N2/8/P3K2P/6n1/R3R3 w - - 0 31",
+    "Moves": "e3e4 d5e5 e4f3 g2e1",
+    "Rating": "1569",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "292",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/8ixR1eKm#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0BrNK",
+    "FEN": "1rbq1rk1/4bppp/p2p1n2/1ppB2B1/4P3/2NQ4/PPP2PPP/R3R1K1 w - - 2 13",
+    "Moves": "e4e5 f6d5 g5e7 d5e7",
+    "Rating": "1592",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "1141",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/A8gEVbUL#25",
+    "OpeningTags": "Italian_Game Italian_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "0BuUK",
+    "FEN": "r2qkr2/1bpnn1N1/p2pQb1p/1p5P/2BP1p2/2N5/PPP2PP1/2KRR3 b q - 1 18",
+    "Moves": "f6g7 e6g6 f8f7 g6f7",
+    "Rating": "1550",
+    "RatingDeviation": "77",
+    "Popularity": "79",
+    "NbPlays": "94",
+    "Themes": "attackingF2F7 mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/SRzf75Kk/black#36",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "0BuVf",
+    "FEN": "2kr3r/pppn3p/3qppp1/3p1b2/3Pn1P1/2PBPN1P/PPQN1P2/2R1K2R b K - 0 12",
+    "Moves": "e4f2 e1f2 f5d3 c2d3",
+    "Rating": "1557",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "1359",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/xEN9mqll/black#24",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  }
+]

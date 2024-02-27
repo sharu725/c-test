@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "d2bGF",
+    "FEN": "5rk1/pb4pp/6q1/1p2P3/2p1Nr2/2P2P2/PP1Q1R1P/5RK1 w - - 1 26",
+    "Moves": "f2g2 g6e4",
+    "Rating": "2085",
+    "RatingDeviation": "80",
+    "Popularity": "81",
+    "NbPlays": "69",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/gYJq0Mm0#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "d2bNW",
+    "FEN": "2kr3r/bppb2pp/5p2/1P1P4/2B2B1n/4N1K1/5P1P/2RR4 b - - 3 24",
+    "Moves": "h4f5 e3f5 d7f5 c4d3 f5d3 c1c7",
+    "Rating": "2189",
+    "RatingDeviation": "84",
+    "Popularity": "87",
+    "NbPlays": "50",
+    "Themes": "crushing discoveredAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/4jsfDWYg/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "d2bjP",
+    "FEN": "2r4b/3N2kp/b3Bp2/6p1/3p4/P5B1/1Pn2PPP/3R2K1 w - - 3 33",
+    "Moves": "d1d2 c2e3 h2h4 c8c1 g1h2 e3f1",
+    "Rating": "2162",
+    "RatingDeviation": "75",
+    "Popularity": "80",
+    "NbPlays": "147",
+    "Themes": "clearance crushing long middlegame",
+    "GameUrl": "https://lichess.org/i63nFAjE#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "d2dGM",
+    "FEN": "3r1rk1/5p1p/1q3bp1/1p1P1NQn/p3p1P1/P6P/BPP5/4RR1K w - - 1 28",
+    "Moves": "f5h6 g8h8 f1f6 b6f6 g5f6 h5f6",
+    "Rating": "2354",
+    "RatingDeviation": "92",
+    "Popularity": "87",
+    "NbPlays": "931",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/9XqOAxMo#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "d2ena",
+    "FEN": "7r/2R2pk1/2R1b1p1/pB1pq3/Pb6/5Q2/1P3PP1/6K1 w - - 4 28",
+    "Moves": "c6e6 e5h2 g1f1 h2h1 f1e2 h1e1 e2d3 e1d2",
+    "Rating": "2025",
+    "RatingDeviation": "81",
+    "Popularity": "100",
+    "NbPlays": "42",
+    "Themes": "fork mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/oJTTQq5c#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "d2fDf",
+    "FEN": "r2q1rk1/ppp2ppp/1bn5/4n3/1P2B3/2QP4/PB2NP1P/R3K2R w KQ - 1 17",
+    "Moves": "e4c6 e5d3 e1f1 d3b2 h1g1 g7g6",
+    "Rating": "2234",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "173",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/xcx5ObWM#33",
+    "OpeningTags": "Van_Geet_Opening Van_Geet_Opening_Reversed_Nimzowitsch"
+  },
+  {
+    "PuzzleId": "d2fTw",
+    "FEN": "r1b2rk1/1p1n1p1p/p3pqp1/2b5/3NB3/2Q2NP1/PPP2P1P/R3K2R b KQ - 2 14",
+    "Moves": "d7e5 c3c5 e5f3 d4f3",
+    "Rating": "2122",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "112",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/9LUkHwFD/black#28",
+    "OpeningTags": "French_Defense French_Defense_Schlechter_Variation"
+  },
+  {
+    "PuzzleId": "d2gKv",
+    "FEN": "2kr3N/1pp3pp/p1p5/2b2p2/2b1qPQ1/2P1B3/PPP3PP/R3R1K1 w - - 0 16",
+    "Moves": "g4g7 c5e3 g1h1 d8g8",
+    "Rating": "2106",
+    "RatingDeviation": "78",
+    "Popularity": "92",
+    "NbPlays": "1464",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/btzIOrZV#31",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Ranken_Variation"
+  },
+  {
+    "PuzzleId": "d2hDA",
+    "FEN": "r1bq1rk1/b2p1ppp/2p5/pp2PP2/3P4/2NBp3/PPP3PP/R2Q1R1K b - - 2 15",
+    "Moves": "a7d4 f5f6 g7g6 d3g6 f7g6 d1d4",
+    "Rating": "2097",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "943",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/DNMXxNOD/black#30",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Bird_Variation"
+  }
+]

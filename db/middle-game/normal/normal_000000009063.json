@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "QQLQi",
+    "FEN": "r1bq2k1/pp3ppp/2p5/2bP3Q/2Bpr3/8/PPPP1PPP/R1BK3R w - - 3 13",
+    "Moves": "d2d3 c8g4 h5g4 e4g4",
+    "Rating": "1203",
+    "RatingDeviation": "89",
+    "Popularity": "60",
+    "NbPlays": "37",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/T9uQpIHl#25",
+    "OpeningTags": "Vienna_Game Vienna_Game_Max_Lange_Defense"
+  },
+  {
+    "PuzzleId": "QQP8w",
+    "FEN": "2rb4/2kp1Q2/p1b1p3/1p2P3/1P3P1p/P2Pq2P/B5PB/2R2R1K w - - 3 31",
+    "Moves": "h2g1 e3h3 g1h2 h3g2",
+    "Rating": "1268",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1918",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/Y8IWNTjc#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QQQib",
+    "FEN": "r2q1r2/ppp1b2k/2n1pn2/4p1Q1/3pP3/P1NP3P/1PP2P2/R3K1R1 b Q - 0 17",
+    "Moves": "f8g8 g5h4 f6h5 h4h5",
+    "Rating": "1233",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "894",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/XsSGib9i/black#34",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Mengarinis_Opening"
+  },
+  {
+    "PuzzleId": "QQRsm",
+    "FEN": "rn3k1r/1bppq3/pp2p1Q1/4P1N1/2PP4/5P2/PP4PP/R4RK1 b - - 0 19",
+    "Moves": "h8g8 g5h7 e7h7 g6h7",
+    "Rating": "1225",
+    "RatingDeviation": "76",
+    "Popularity": "79",
+    "NbPlays": "373",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/N0u8JubD/black#38",
+    "OpeningTags": "English_Defense English_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "QQRv3",
+    "FEN": "3rk2r/5ppp/p1Rq4/1p6/3P4/4BQ2/bP4PP/5RK1 b k - 1 22",
+    "Moves": "a2d5 c6d6 d5f3 d6d8",
+    "Rating": "1316",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1737",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/lxBeTfSf/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QQT7G",
+    "FEN": "5r1k/4r1b1/p2p1qRp/1p1B1p1Q/4p3/2P5/PP3PPP/3R2K1 b - - 3 25",
+    "Moves": "f6e5 g6h6 g7h6 h5h6 e7h7 h6f8",
+    "Rating": "1262",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "3739",
+    "Themes": "exposedKing fork long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/XNYLQ0GR/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QQUQ9",
+    "FEN": "r2qk2r/pp1bbppp/3p1n2/1Np1n3/4P3/1BN1B3/PPPQ1PPP/R3K2R b KQkq - 1 10",
+    "Moves": "a7a6 b5d6 e7d6 d2d6",
+    "Rating": "1344",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "10044",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/MB1U7poH/black#20",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "QQaID",
+    "FEN": "6r1/1q1r1k1p/4pPpP/p1pnPp2/Pp1p1P2/1P1P4/2PB2RQ/1K4R1 b - - 4 39",
+    "Moves": "b7c6 g2g6 h7g6 h6h7",
+    "Rating": "1357",
+    "RatingDeviation": "74",
+    "Popularity": "77",
+    "NbPlays": "122",
+    "Themes": "advancedPawn crushing master masterVsMaster middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/sJCJ1KRZ/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "QQas6",
+    "FEN": "r3r1k1/ppqb1pp1/2p4p/8/2BPR3/2P2NbP/PPQ3P1/5RK1 b - - 2 19",
+    "Moves": "d7f5 e4e8 a8e8 c2f5",
+    "Rating": "1258",
+    "RatingDeviation": "128",
+    "Popularity": "14",
+    "NbPlays": "17",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/KrVB3efb/black#38",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  }
+]

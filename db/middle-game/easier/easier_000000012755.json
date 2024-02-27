@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "conTx",
+    "FEN": "2br2k1/1pp4p/4p1pR/2b5/4Q3/1P1B1N2/3P1PP1/q1KR4 w - - 0 19",
+    "Moves": "d3b1 c5a3 c1c2 a1b2",
+    "Rating": "1161",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "1555",
+    "Themes": "master mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/wocFs59C#37",
+    "OpeningTags": "French_Defense French_Defense_Horwitz_Attack"
+  },
+  {
+    "PuzzleId": "conlo",
+    "FEN": "r6r/2k1b1p1/1n3qp1/pBp1p3/4P3/RPPPB2P/5PQ1/4K2R w K - 6 27",
+    "Moves": "e3g5 f6g5 g2g5 e7g5",
+    "Rating": "1010",
+    "RatingDeviation": "293",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/5F1oMfhS#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "coogm",
+    "FEN": "r1bq1rk1/p4pp1/1p3n1p/2pp4/2PPn3/P2BPN2/2Q2PPP/R1B1R1K1 b - - 0 14",
+    "Moves": "d5c4 d3e4 f6e4 c2e4",
+    "Rating": "1040",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "537",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/XvH9YPBq/black#28",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Colle_System"
+  },
+  {
+    "PuzzleId": "coqi8",
+    "FEN": "br4k1/5ppp/8/6q1/Q1pN4/P3rP1P/6P1/2R1R1K1 b - - 1 33",
+    "Moves": "b8e8 a4e8 e3e8 e1e8",
+    "Rating": "1038",
+    "RatingDeviation": "86",
+    "Popularity": "92",
+    "NbPlays": "640",
+    "Themes": "backRankMate mate mateIn2 middlegame short xRayAttack",
+    "GameUrl": "https://lichess.org/4MlWXysa/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "cosma",
+    "FEN": "1r2k2r/2pp1pp1/1p2p2p/pPq1P3/2PK4/P4Q2/5PPP/R4B1R w k - 1 17",
+    "Moves": "d4c3 c5e5 c3c2 e5a1",
+    "Rating": "1165",
+    "RatingDeviation": "78",
+    "Popularity": "50",
+    "NbPlays": "109",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/dlovM82A#33",
+    "OpeningTags": "English_Defense English_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "covQl",
+    "FEN": "4n1r1/5Q1k/p1n1p3/4q2P/3pP3/3P4/4B3/4RK2 b - - 1 44",
+    "Moves": "e8g7 f7g6 h7h8 g6h6",
+    "Rating": "1159",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "5118",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Ov95rGRS/black#88",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "coxNF",
+    "FEN": "1k1r3r/ppq2ppp/5nb1/3p1B2/2p5/2P2Nb1/PP4PP/R1B1QRK1 w - - 0 19",
+    "Moves": "e1g3 c7g3 h2g3 g6f5",
+    "Rating": "1070",
+    "RatingDeviation": "454",
+    "Popularity": "-100",
+    "NbPlays": "1",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/1llPKyJB#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "coyCW",
+    "FEN": "r1b2rk1/pp3p1p/1n2p1pQ/3q4/3PN3/1P3N2/1P3PPP/R4RK1 b - - 0 19",
+    "Moves": "d5e4 f3g5 e4h4 h6h4",
+    "Rating": "1112",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "349",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/B18yCsPG/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "coyNf",
+    "FEN": "5krr/pp6/2p1b3/3p1p2/3P4/P1P1bB1p/4R1q1/3QR2K w - - 2 33",
+    "Moves": "e2g2 h3g2",
+    "Rating": "1140",
+    "RatingDeviation": "82",
+    "Popularity": "48",
+    "NbPlays": "348",
+    "Themes": "advancedPawn doubleCheck mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/DyZOacAD#65",
+    "OpeningTags": ""
+  }
+]

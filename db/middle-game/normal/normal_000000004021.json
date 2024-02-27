@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BiIKi",
+    "FEN": "r2q1k1r/ppp1B1pp/6B1/3pNb2/3b4/5Q2/P4PPP/5RK1 b - - 0 16",
+    "Moves": "d8e7 f3f5 f8g8 g6f7",
+    "Rating": "1278",
+    "RatingDeviation": "79",
+    "Popularity": "87",
+    "NbPlays": "477",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/LPCNLtDL/black#32",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "BiJ5x",
+    "FEN": "2kr3r/ppp1pp2/3p4/3P2p1/5b2/2N1RB1q/PPP2P2/R2Q2K1 b - - 5 21",
+    "Moves": "f4e3 f3g4 f7f5 g4h3",
+    "Rating": "1269",
+    "RatingDeviation": "79",
+    "Popularity": "81",
+    "NbPlays": "120",
+    "Themes": "advantage fork middlegame pin short",
+    "GameUrl": "https://lichess.org/VQ4YlTb0/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BiJAL",
+    "FEN": "2kr1b1r/ppp1p2p/4q3/5pp1/3n4/3PB2B/PPP2PPP/R2QK2R w KQ - 0 13",
+    "Moves": "e1g1 g5g4 h3g4 f5g4 e3d4 d8d4",
+    "Rating": "1362",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "7680",
+    "Themes": "advantage long middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/VmMhOw8U#25",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "BiJFG",
+    "FEN": "r1bq1rk1/pp3pb1/4p1pp/8/3N1n2/2P2QP1/PP3PBP/R4RK1 w - - 0 15",
+    "Moves": "f3f4 e6e5 f4e3 e5d4",
+    "Rating": "1226",
+    "RatingDeviation": "119",
+    "Popularity": "76",
+    "NbPlays": "11",
+    "Themes": "crushing fork master middlegame short",
+    "GameUrl": "https://lichess.org/k6g45Bqr#29",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chandler_Gambit"
+  },
+  {
+    "PuzzleId": "BiKMy",
+    "FEN": "r1b1k2r/3p1p1p/p3p1p1/1p6/3NP1n1/1B1P2Pq/PPP2P1P/R1Q1K2R w KQkq - 1 15",
+    "Moves": "d4f3 h3g2 h1f1 g2f3",
+    "Rating": "1293",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2603",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/AAT2zodn#29",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "BiKkC",
+    "FEN": "1k5r/ppp5/1r4b1/3p4/3Pq1P1/1QR1P2P/PP2B3/2K2R2 w - - 3 25",
+    "Moves": "b3a3 e4b1 c1d2 b6b2 a3b2 b1b2",
+    "Rating": "1303",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "7281",
+    "Themes": "crushing deflection long middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/5sQFhsdK#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BiMCd",
+    "FEN": "1r2r2k/p1p1bppn/1q1p4/5PP1/2p2P2/2PB4/PP3R1Q/R1B3K1 b - - 1 27",
+    "Moves": "c4d3 g5g6 e7h4 h2h4 f7g6 f5g6",
+    "Rating": "1235",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "1220",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/0MGOXk57/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BiMcH",
+    "FEN": "r4rk1/pp2ppbp/6p1/4q2n/2Q1B1b1/5N2/P4PPP/1RB2RK1 b - - 0 18",
+    "Moves": "a8c8 f3e5 c8c4 e5c4",
+    "Rating": "1384",
+    "RatingDeviation": "85",
+    "Popularity": "87",
+    "NbPlays": "43",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/F4lOGXxB/black#36",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "BiNFw",
+    "FEN": "1r2r1k1/2q4n/4bPPQ/4p3/2PpP3/1P3N2/7P/2n2RK1 b - - 0 33",
+    "Moves": "c1d3 f6f7 c7f7 g6f7",
+    "Rating": "1316",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1256",
+    "Themes": "advancedPawn advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/K7VcBOTf/black#66",
+    "OpeningTags": ""
+  }
+]

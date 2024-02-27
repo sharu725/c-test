@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "hgle0",
+    "FEN": "8/1p5p/p4k2/3p1p1P/7K/P1P3P1/1P3R2/7r w - - 2 45",
+    "Moves": "f2h2 h1h2",
+    "Rating": "504",
+    "RatingDeviation": "87",
+    "Popularity": "91",
+    "NbPlays": "300",
+    "Themes": "endgame hangingPiece mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/4aBC60e2#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hgmuh",
+    "FEN": "r3R1k1/2B2ppp/P7/2p2q2/Q4nb1/P5P1/1P3P1P/R5K1 b - - 1 21",
+    "Moves": "a8e8 a4e8",
+    "Rating": "552",
+    "RatingDeviation": "88",
+    "Popularity": "100",
+    "NbPlays": "154",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/BS1lRfNA/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hgnPF",
+    "FEN": "8/2R2p2/5kpp/8/4PPP1/1r4K1/8/8 w - - 1 66",
+    "Moves": "g3h4 g6g5 f4g5 h6g5 h4h5 b3h3",
+    "Rating": "959",
+    "RatingDeviation": "93",
+    "Popularity": "94",
+    "NbPlays": "137",
+    "Themes": "endgame long mate mateIn3 rookEndgame",
+    "GameUrl": "https://lichess.org/F9g5Umx1#131",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hgo6n",
+    "FEN": "r5k1/pp3ppp/5q2/4N3/Q7/8/PP1r2PP/2R1R1K1 w - - 3 27",
+    "Moves": "a4b4 f6f2 g1h1 f2g2",
+    "Rating": "939",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1241",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/7Ex5oR34#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hgoAQ",
+    "FEN": "1k5r/ppp2p2/3q1np1/3P1r2/3QN2p/3R3P/PPP3P1/3R3K b - - 9 24",
+    "Moves": "f6e4 d4h8 d6d8 h8d8",
+    "Rating": "785",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "400",
+    "Themes": "hangingPiece mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/0flGDAQj/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hgpTC",
+    "FEN": "8/p1p5/6p1/1p4P1/2p2r2/Pk6/1P1p2Q1/1K2q2R w - - 4 51",
+    "Moves": "h1e1 d2e1q",
+    "Rating": "895",
+    "RatingDeviation": "78",
+    "Popularity": "79",
+    "NbPlays": "256",
+    "Themes": "advancedPawn endgame mate mateIn1 oneMove promotion",
+    "GameUrl": "https://lichess.org/5G5XTnmA#101",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "hgpUn",
+    "FEN": "r3k2r/ppp2ppp/3bp3/4q3/2P5/1P1P1Q1P/P4PP1/R1B2RK1 w kq - 1 14",
+    "Moves": "c1d2 e5h2",
+    "Rating": "772",
+    "RatingDeviation": "102",
+    "Popularity": "100",
+    "NbPlays": "26",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/GZaxi1UW#27",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "hgqWL",
+    "FEN": "r1b2rk1/pp2b1pp/2p1p3/3pPp2/2P5/1PN2PPn/PBQ1P1BP/R4RqK w - - 7 17",
+    "Moves": "f1g1 h3f2",
+    "Rating": "963",
+    "RatingDeviation": "92",
+    "Popularity": "86",
+    "NbPlays": "389",
+    "Themes": "mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/BdizsGPa#33",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Fianchetto_Attack"
+  },
+  {
+    "PuzzleId": "hgseA",
+    "FEN": "r5k1/pp4pp/n1p1Q2b/3p1p2/3P2b1/8/PPP3q1/1K2R2R b - - 1 22",
+    "Moves": "g8h8 e6e8 a8e8 e1e8",
+    "Rating": "835",
+    "RatingDeviation": "93",
+    "Popularity": "65",
+    "NbPlays": "80",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/QcrETIqZ/black#44",
+    "OpeningTags": ""
+  }
+]

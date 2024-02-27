@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "POuM4",
+    "FEN": "2r2k2/1b2ppr1/p2p2P1/1p5Q/4p3/1Bq2P2/P1P4P/1K1R3R b - - 0 24",
+    "Moves": "f7g6 h5h8 g7g8 h8g8",
+    "Rating": "1334",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "11245",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/f7Klyvir/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "POupr",
+    "FEN": "1r3rk1/pp2nppp/3N4/P1q1P3/5P2/1Q1p2P1/3P1nBP/R4R1K w - - 3 25",
+    "Moves": "h1g1 f2h3 g1h1 c5g1 f1g1 h3f2",
+    "Rating": "1344",
+    "RatingDeviation": "90",
+    "Popularity": "83",
+    "NbPlays": "387",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice smotheredMate",
+    "GameUrl": "https://lichess.org/UyJKmYkb#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "POusM",
+    "FEN": "r2q1rk1/p1p2ppp/1p1b2n1/3p4/3P4/1QP1PN2/PP1N2PP/R4RK1 w - - 0 14",
+    "Moves": "b3d5 d6h2 f3h2 d8d5",
+    "Rating": "1287",
+    "RatingDeviation": "265",
+    "Popularity": "-37",
+    "NbPlays": "3",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/9K6RTcUD#27",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "POyK7",
+    "FEN": "2r4r/1qk2ppp/Rn2p3/1Q1p4/1P1P4/2P1PP1P/1P1K1P2/7R w - - 7 21",
+    "Moves": "h1a1 b6c4 b5c4 d5c4",
+    "Rating": "1261",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "415",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/Ri5jGaoZ#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "POyyC",
+    "FEN": "4r1k1/1p3pp1/3N1b1p/q3p3/1p1pP1B1/1P1P2P1/P4P1P/2R2RK1 b - - 3 21",
+    "Moves": "e8d8 d6b7 a5b6 b7d8",
+    "Rating": "1374",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "11212",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/M6IVfZkw/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "POzCN",
+    "FEN": "1k5r/pp3p1p/3b3Q/4qr2/3p1p2/3P3P/PP1B1PP1/2R2RK1 w - - 0 23",
+    "Moves": "f2f3 f5h5 h6f4 e5f4 d2f4 d6f4",
+    "Rating": "1330",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1348",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/26CUKqEk#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PP5oH",
+    "FEN": "5r1k/1p4bp/1q1pB1p1/3Pp1P1/1P2P3/5rN1/8/1R1QK2R w K - 2 27",
+    "Moves": "g3f5 b6f2",
+    "Rating": "1214",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "318",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/MaSqxmd1#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PP7Fn",
+    "FEN": "r2qr1k1/3n2pp/p2Bp3/4P3/2Q5/5P2/P4P1P/1R1R2K1 b - - 0 23",
+    "Moves": "d7e5 d6e5 d8g5 e5g3",
+    "Rating": "1312",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "377",
+    "Themes": "crushing defensiveMove hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/nSFYOqBp/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PP9HI",
+    "FEN": "8/1b3Q2/1kq3p1/2b2pB1/7N/6P1/PP1rBP1P/2R2RK1 w - - 7 28",
+    "Moves": "g5d2 c6h1",
+    "Rating": "1300",
+    "RatingDeviation": "166",
+    "Popularity": "71",
+    "NbPlays": "12",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/A36Ga7W1#55",
+    "OpeningTags": ""
+  }
+]

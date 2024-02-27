@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "5lRYk",
+    "FEN": "r4rk1/ppq1n1p1/2pbb2p/5p2/2PB1P2/1P1BP3/P2PQ1PP/R4RK1 b - - 0 18",
+    "Moves": "e6f7 c4c5 d6c5 d4c5",
+    "Rating": "1084",
+    "RatingDeviation": "436",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/ZXActL9t/black#36",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "5lSzQ",
+    "FEN": "r2q1rk1/4p1bp/b2p2p1/p1pP2P1/1p2PP2/P1N1B3/1PP2Q2/2KR3R w - - 0 21",
+    "Moves": "h1h7 g8h7 d1h1 h7g8",
+    "Rating": "1170",
+    "RatingDeviation": "107",
+    "Popularity": "76",
+    "NbPlays": "63",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/Wm0atgqO#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5lTJR",
+    "FEN": "r5k1/pp2q1b1/2p1br2/2p1p1pQ/2P1P2p/3PN1PP/P4PK1/1R3RN1 w - - 1 25",
+    "Moves": "h5g5 f6f2 f1f2 e7g5",
+    "Rating": "1180",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "2799",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/N1gHZl62#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5lTPA",
+    "FEN": "r1bq1rk1/4Bpbp/p1n3p1/1p1N4/4p2Q/1P3N2/1PP3PP/R4RK1 b - - 0 16",
+    "Moves": "c6e7 d5e7 d8e7 h4e7",
+    "Rating": "1150",
+    "RatingDeviation": "85",
+    "Popularity": "10",
+    "NbPlays": "97",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/0OHrFctl/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "5lV2s",
+    "FEN": "r1bq1rk1/1pp3pp/p2p4/2b1pp2/3nP3/P1NPBN1P/1PP2PP1/R2Q1RK1 w - - 0 11",
+    "Moves": "e3g5 d4f3 d1f3 d8g5",
+    "Rating": "1140",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "134",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/cN3tG7p0#21",
+    "OpeningTags": "Three_Knights_Opening Three_Knights_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "5lVBF",
+    "FEN": "r2q1nk1/pp3p1p/2pb2p1/5bB1/3Pr3/3Q1N1P/PP3PP1/R3R1K1 w - - 0 18",
+    "Moves": "g5d8 e4e1 a1e1 f5d3",
+    "Rating": "1052",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "3618",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/PM7rvhh7#35",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "5lVlo",
+    "FEN": "3rqr1k/1p1b2pp/p1p5/2P1bp2/1PQ1p3/4P1P1/P2RNPBP/2R3K1 b - - 5 25",
+    "Moves": "d7e6 d2d8 e6c4 d8e8 f8e8 c1c4",
+    "Rating": "1082",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "949",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/yTC0kwav/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5lW8K",
+    "FEN": "r3k1r1/pp3p2/3p3Q/2p2N2/7P/P6K/3n1q2/4R2R b - - 5 36",
+    "Moves": "e8d7 h6d6 d7c8 f5e7",
+    "Rating": "1132",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1814",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Zc1FFj9h/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "5lWjS",
+    "FEN": "1br3rk/1pq2p1p/p4p2/3R4/8/2P2PNP/PPQ2P2/4R1K1 w - - 1 25",
+    "Moves": "g1h1 g8g3 f2g3 c7g3",
+    "Rating": "1195",
+    "RatingDeviation": "78",
+    "Popularity": "81",
+    "NbPlays": "273",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/FP9v16Ii#49",
+    "OpeningTags": ""
+  }
+]

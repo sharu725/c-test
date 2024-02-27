@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "kqRFM",
+    "FEN": "r1n2k1r/pp1Nbp1p/2b1p3/q1P5/3Q4/1B3P2/PP1R2PP/4K1NR b K - 2 18",
+    "Moves": "c6d7 d4h8",
+    "Rating": "1393",
+    "RatingDeviation": "79",
+    "Popularity": "90",
+    "NbPlays": "266",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4slgVaBM/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Karpov_Variation"
+  },
+  {
+    "PuzzleId": "kqRGt",
+    "FEN": "r1b1r1k1/p3q1pp/5p2/1pp5/1bR5/4N3/PPP1NPPP/R1BQ2K1 w - - 0 19",
+    "Moves": "d1d5 c8e6 d5a8 e8a8",
+    "Rating": "1318",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "115",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/9xJ9sEJ7#37",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "kqRgf",
+    "FEN": "r5k1/pq1rbppp/np6/6B1/3Np3/2PQ3P/PP2RPP1/R5K1 w - - 0 18",
+    "Moves": "d3e4 b7e4 e2e4 e7g5",
+    "Rating": "1275",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "555",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/gdzqwu0G#35",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "kqTRc",
+    "FEN": "r4k2/pbp2r2/1p2Q2R/6p1/2P2Pp1/4P3/q5P1/5BK1 b - - 0 24",
+    "Moves": "g4g3 h6h8 f8g7 e6h6",
+    "Rating": "1295",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "96",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/dOxqWOa9/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kqTiT",
+    "FEN": "5rk1/1p1b2pp/p3p3/3pn3/7q/3B2NP/PP1Q1PP1/2R3K1 b - - 0 22",
+    "Moves": "h4d4 d3h7 g8h7 d2d4",
+    "Rating": "1249",
+    "RatingDeviation": "97",
+    "Popularity": "87",
+    "NbPlays": "27",
+    "Themes": "crushing discoveredAttack kingsideAttack master middlegame short",
+    "GameUrl": "https://lichess.org/Zh9BW7qD/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kqWne",
+    "FEN": "2r2r1k/pp3Npp/5p2/3Qp3/3p2b1/1P1P4/P1Pq1PPP/R5K1 b - - 1 24",
+    "Moves": "h8g8 f7h6 g8h8 d5g8 f8g8 h6f7",
+    "Rating": "1260",
+    "RatingDeviation": "87",
+    "Popularity": "87",
+    "NbPlays": "1758",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice smotheredMate",
+    "GameUrl": "https://lichess.org/vwL80LxB/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kqZSs",
+    "FEN": "3r4/pp4kp/3pPpp1/3N4/1P1QP3/5RP1/q5r1/3R2K1 w - - 1 30",
+    "Moves": "g1f1 a2e2",
+    "Rating": "1384",
+    "RatingDeviation": "171",
+    "Popularity": "70",
+    "NbPlays": "31",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/ROd3gqOm#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kqZjo",
+    "FEN": "6nk/pp1qbp2/3p3B/4p3/1nr1P3/1BN2Q2/PPP4N/R3K3 w Q - 0 21",
+    "Moves": "f3f7 e7h4 e1e2 d7f7",
+    "Rating": "1332",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "17893",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/bivzF6or#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kqc9y",
+    "FEN": "r1b2k1b/ppp2Pq1/2n2n2/4P1p1/2B2p2/5Q2/PPP3P1/RNB1K3 b Q - 0 15",
+    "Moves": "c6e5 f3a3 c7c5 a3c5",
+    "Rating": "1289",
+    "RatingDeviation": "99",
+    "Popularity": "44",
+    "NbPlays": "31",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/wdqWAIXq/black#30",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Greco_Gambit"
+  }
+]

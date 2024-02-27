@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "0cNDc",
+    "FEN": "r1q2rk1/1p1b1ppp/p2p1b2/3N1P2/P7/1B5P/1PP3P1/R2Q1RK1 b - - 1 17",
+    "Moves": "f6e5 d5e7 g8h8 e7c8",
+    "Rating": "1679",
+    "RatingDeviation": "221",
+    "Popularity": "-100",
+    "NbPlays": "4",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Utf04azi/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Sozin_Attack"
+  },
+  {
+    "PuzzleId": "0cPSZ",
+    "FEN": "4r1k1/1p2r1p1/2p2p1p/p2p4/3P1q2/P2QR2P/1PPNRnP1/6K1 w - - 0 24",
+    "Moves": "e2f2 f4e3 d3e3 e7e3",
+    "Rating": "1704",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "2591",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/8PFgIWxU#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0cPqv",
+    "FEN": "r3k2r/1b1p1ppp/pp1Pp3/5q2/Pn3P2/4Q2P/1P2B1P1/R1B2R1K w kq - 2 20",
+    "Moves": "e3b6 f5h3 h1g1 h3g2",
+    "Rating": "1601",
+    "RatingDeviation": "78",
+    "Popularity": "81",
+    "NbPlays": "89",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/XVpel0ot#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0cRR5",
+    "FEN": "4rrk1/p7/1p4R1/2p1b3/4p2q/3bB1N1/PP4PP/3RQ1K1 b - - 0 28",
+    "Moves": "e5g7 g6g7 g8g7 g3f5 f8f5 e1h4",
+    "Rating": "1659",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "14794",
+    "Themes": "attraction crushing discoveredAttack exposedKing kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/wbCgZlxG/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0cUPf",
+    "FEN": "r2q1k1r/1p2bp2/p1p1p3/4P3/3PN1Q1/1B2n3/PP4P1/3R1RK1 w - - 0 22",
+    "Moves": "g4g6 e3f1 d1f1 d8d4",
+    "Rating": "1750",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "284",
+    "Themes": "crushing kingsideAttack master middlegame short",
+    "GameUrl": "https://lichess.org/N8VevzjI#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0cUZ7",
+    "FEN": "2r3k1/p2qbbpp/1p1p4/8/1n2BP2/3nP1P1/PP1BN2P/1Q1R2K1 w - - 0 22",
+    "Moves": "e4d3 b4d3 b1d3 f7c4",
+    "Rating": "1721",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "8287",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ll6QJbNi#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0cVWt",
+    "FEN": "r4rk1/p1q1pp1p/2p3p1/8/2QbP3/8/P2B1PPP/2R1R1K1 b - - 1 17",
+    "Moves": "c6c5 c4d4 c7h2 g1h2",
+    "Rating": "1679",
+    "RatingDeviation": "87",
+    "Popularity": "83",
+    "NbPlays": "32",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/16sPQoPm/black#34",
+    "OpeningTags": "Grunfeld_Defense Grunfeld_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "0cXOm",
+    "FEN": "1r2k2r/1pp2p2/p2p4/2bN1qp1/2P1n2P/4PpP1/PPQ2P1K/R1B2R2 b k - 1 21",
+    "Moves": "f5g4 c2e4 g4e4 d5f6 e8e7 f6e4",
+    "Rating": "1607",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "1595",
+    "Themes": "advantage attraction fork long master middlegame sacrifice",
+    "GameUrl": "https://lichess.org/6xV9VjUl/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0cXmm",
+    "FEN": "3r2k1/p2qbrp1/1p1nbpNB/2p1p2P/4N1P1/2PP4/P3PPB1/2Q1K2R b K - 0 23",
+    "Moves": "g7h6 c1h6 f7h7 g6e7 d7e7 e4f6 g8h8 f6h7",
+    "Rating": "1728",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "43",
+    "Themes": "advantage exposedKing fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/3dOLDue8/black#46",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "X7e1N",
+    "FEN": "r2q1r2/1b2ppkp/6p1/3p4/4nP2/2NB1Q2/PPP3PP/R4RK1 w - - 0 17",
+    "Moves": "c3e4 d5e4 d3e4 d8d4",
+    "Rating": "1729",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "11024",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/neouFe8S#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "X7eg3",
+    "FEN": "5nk1/p1q3p1/2p1b2p/4pp2/Q1P1n3/4PN1P/PN2BPP1/6K1 w - - 3 25",
+    "Moves": "b2d3 e4c3 a4c2 c3e2 c2e2 e5e4",
+    "Rating": "1668",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "12749",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/XDheDBeI#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "X7egV",
+    "FEN": "r4rk1/ppp1ppbp/6p1/4q3/2P1n1b1/PQN1B1P1/4BP1P/R3K1NR w KQ - 4 13",
+    "Moves": "e2g4 e5c3 b3c3 g7c3",
+    "Rating": "1775",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "11071",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/wNzFbiAv#25",
+    "OpeningTags": "English_Opening English_Opening_Great_Snake_Variation"
+  },
+  {
+    "PuzzleId": "X7kJe",
+    "FEN": "2k5/p4p2/1p3Np1/2p3P1/3nPP2/P1N1Q3/1PP4q/1K1R3r w - - 3 28",
+    "Moves": "f6g4 h2c2 b1a2 c2b3",
+    "Rating": "1646",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "138",
+    "Themes": "crushing middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/f47YYT1h#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "X7lUV",
+    "FEN": "k6r/p4ppp/bp6/4P3/4q3/PQ2B1PP/1P3P2/2RR1K2 w - - 3 28",
+    "Moves": "f1e1 e4h1 e1d2 h8d8 e3d4 d8d4 d2c2 h1e4",
+    "Rating": "1715",
+    "RatingDeviation": "122",
+    "Popularity": "70",
+    "NbPlays": "15",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/sh4rYuNq#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "X7lbP",
+    "FEN": "r4r2/3b1pk1/4pNpp/3pP3/2pP1P1Q/2R5/6PP/1q2N1K1 b - - 0 32",
+    "Moves": "a8a1 h4h6 g7h6 c3h3 h6g7 h3h7",
+    "Rating": "1738",
+    "RatingDeviation": "81",
+    "Popularity": "84",
+    "NbPlays": "198",
+    "Themes": "attraction hookMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/olpWOyUD/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "X7lhP",
+    "FEN": "1r3r1k/5P2/3p1q1p/1p1B1NbQ/p3PP2/8/PPn5/5RK1 b - - 0 32",
+    "Moves": "c2e3 f4g5 f6g5 h5g5 h6g5 f5e3",
+    "Rating": "1737",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "1066",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/hYGW4LSM/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "X7lz5",
+    "FEN": "5r2/p2R1p1k/b3p3/2q1P3/6Q1/8/PPr2PPP/5RK1 w - - 7 36",
+    "Moves": "g4e6 c5f2 f1f2 c2c1 d7d1 c1d1 f2f1 d1f1",
+    "Rating": "1645",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "2277",
+    "Themes": "mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/o2XVxTX1#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "X7pdT",
+    "FEN": "2kr2r1/ppp2p1p/2n1p3/2q5/5n2/P4B2/2PP1PPP/BR1QR1K1 w - - 3 16",
+    "Moves": "e1f1 f4h3 g1h1 h3f2 f1f2 c5f2",
+    "Rating": "1698",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "101",
+    "Themes": "advantage deflection fork long middlegame pin",
+    "GameUrl": "https://lichess.org/kQHL5Jgf#31",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  }
+]

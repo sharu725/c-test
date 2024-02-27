@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HOxRC",
+    "FEN": "1rb4k/1p2q1pp/p1p5/4prNQ/2P2p1n/P2P3P/2P2PP1/R3R1K1 b - - 12 25",
+    "Moves": "e7g5 h5e8 f5f8 e8f8",
+    "Rating": "988",
+    "RatingDeviation": "97",
+    "Popularity": "70",
+    "NbPlays": "33",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/2apWKmyL/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HOxRU",
+    "FEN": "q4rk1/p4pp1/4b2B/2p5/8/2P3Q1/Pb3PPP/R3K2R b KQ - 0 17",
+    "Moves": "b2a1 g3g7",
+    "Rating": "838",
+    "RatingDeviation": "80",
+    "Popularity": "66",
+    "NbPlays": "121",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/TOoDZHC9/black#34",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Benoni-Indian_Defense"
+  },
+  {
+    "PuzzleId": "HOxwL",
+    "FEN": "r1b2k1r/1p1n2p1/p2q1b1p/2Bp1p1Q/5P2/6P1/PP3NBP/R3R2K b - - 1 22",
+    "Moves": "d7c5 e1e8",
+    "Rating": "657",
+    "RatingDeviation": "103",
+    "Popularity": "88",
+    "NbPlays": "537",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4JE6A8CO/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HOy4g",
+    "FEN": "r1b2rk1/pp2n1p1/4p1Q1/3pPp2/3P4/2n1BP2/P5PP/R4RK1 w - - 2 19",
+    "Moves": "g6g3 c3e2 g1f2 e2g3",
+    "Rating": "859",
+    "RatingDeviation": "96",
+    "Popularity": "79",
+    "NbPlays": "416",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Y4LCZWUJ#37",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Franco-Sicilian_Defense"
+  },
+  {
+    "PuzzleId": "HP3H2",
+    "FEN": "r1b1r1k1/ppp3pp/2n2q2/3R4/4P3/1Q6/PPP2PPP/2K2B1R b - - 2 16",
+    "Moves": "e8e4 d5d8",
+    "Rating": "889",
+    "RatingDeviation": "84",
+    "Popularity": "83",
+    "NbPlays": "132",
+    "Themes": "doubleCheck mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/0GxCSrVy/black#32",
+    "OpeningTags": "Vienna_Game Vienna_Game_Max_Lange_Defense"
+  },
+  {
+    "PuzzleId": "HP5AW",
+    "FEN": "4r1k1/pp4bp/6p1/3p4/P2Pr2q/2PQB3/1P4PP/R3R1K1 w - - 1 25",
+    "Moves": "e3f2 e4e1 a1e1 e8e1 f2e1 h4e1",
+    "Rating": "894",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "254",
+    "Themes": "crushing kingsideAttack long middlegame xRayAttack",
+    "GameUrl": "https://lichess.org/BXZj2olG#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HP6E3",
+    "FEN": "r1b3k1/5ppp/3Qpn2/q7/P2P4/2P5/1R3PPP/4R1K1 b - - 3 25",
+    "Moves": "a5c3 d6d8 f6e8 d8e8",
+    "Rating": "786",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "90",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/TCOkH22c/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HP6IZ",
+    "FEN": "r2q1rk1/ppp2ppp/3b4/8/4b3/5N2/PPP2PPP/R1BQR1K1 w - - 0 13",
+    "Moves": "e1e4 d6h2 g1h2 d8d1",
+    "Rating": "866",
+    "RatingDeviation": "89",
+    "Popularity": "94",
+    "NbPlays": "360",
+    "Themes": "advantage discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/w8pzZlKH#25",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "HP82f",
+    "FEN": "r2qkb1r/ppp2ppp/4pn2/3p4/3P1P2/1PNQPP1P/P1P5/R1B1K2R b KQkq - 0 10",
+    "Moves": "f8b4 d3b5 f6d7 b5b4",
+    "Rating": "886",
+    "RatingDeviation": "91",
+    "Popularity": "82",
+    "NbPlays": "90",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/85yPW1Rp/black#20",
+    "OpeningTags": "Bird_Opening Bird_Opening_Dutch_Variation"
+  }
+]

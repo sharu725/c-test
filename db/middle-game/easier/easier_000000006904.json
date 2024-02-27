@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "KxkMO",
+    "FEN": "rnbq1r2/4pkbp/pn1p2p1/1ppP2P1/4P2Q/2PB4/PP3P2/RNB1K1NR w KQ - 4 13",
+    "Moves": "h4h7 f8h8 h7h8 g7h8",
+    "Rating": "1045",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1994",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/V8buM6dv#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "KxmeT",
+    "FEN": "3rk2r/p2n1ppp/2QBp3/q2p1b2/2PP4/2n2N2/PP2PPPP/2KR1B1R w k - 0 12",
+    "Moves": "b2c3 a5c3",
+    "Rating": "1035",
+    "RatingDeviation": "85",
+    "Popularity": "94",
+    "NbPlays": "57",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/ICboNxzR#23",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "KxnAw",
+    "FEN": "3k3r/p2p1ppp/2q5/2b1PQ2/8/2N1n1B1/PPP3PP/5R1K w - - 1 20",
+    "Moves": "f5g5 f7f6 g5e3 c5e3",
+    "Rating": "1099",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "658",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/QZcH4GBp#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Kxnzd",
+    "FEN": "r1b2rk1/ppp2p1p/3p2p1/3N4/4PqPP/8/PPP1BB2/R3K2R b KQ - 2 15",
+    "Moves": "f4e4 d5f6 g8g7 f6e4",
+    "Rating": "1070",
+    "RatingDeviation": "87",
+    "Popularity": "94",
+    "NbPlays": "199",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Y9ag5ph2/black#30",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "Kxo2d",
+    "FEN": "r3r1k1/1b3pp1/p1n2q1p/1p1p4/3Pp3/2P2N2/PPQ2PPP/1BR1R1K1 b - - 1 18",
+    "Moves": "e4f3 c2h7 g8f8 h7h8",
+    "Rating": "1185",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "449",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/MiBxK03s/black#36",
+    "OpeningTags": "Torre_Attack Torre_Attack_Classical_Defense"
+  },
+  {
+    "PuzzleId": "Kxv55",
+    "FEN": "r4rk1/pp1bbppp/1qn1p3/PBppPn2/3P4/2P1BN1P/1P3PP1/RN1Q1RK1 b - - 0 11",
+    "Moves": "c6a5 b5d7 f5e3 f2e3",
+    "Rating": "1087",
+    "RatingDeviation": "226",
+    "Popularity": "33",
+    "NbPlays": "7",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/VyN4xqSN/black#22",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "Kxye9",
+    "FEN": "r1b2r1k/p4BpQ/1p1qPb2/2pPp3/2P5/5R2/P2B2PP/R5K1 b - - 0 22",
+    "Moves": "h8h7 f3h3 f6h4 h3h4",
+    "Rating": "1091",
+    "RatingDeviation": "215",
+    "Popularity": "82",
+    "NbPlays": "4",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/FZ2Z7eWJ/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KxzEC",
+    "FEN": "r6k/pp3r1p/2p3p1/6q1/3PBn2/2P5/P2Q1PPP/1R3RK1 w - - 2 27",
+    "Moves": "g2g3 f4h3 g1g2 g5d2",
+    "Rating": "1081",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "4957",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/zqR8IJEz#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KxzfD",
+    "FEN": "5rkR/3q2p1/4b1P1/pp1p4/3Pp3/P3B1Q1/2r3P1/1R4K1 b - - 2 32",
+    "Moves": "g8h8 g3h4 h8g8 h4h7",
+    "Rating": "1078",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "835",
+    "Themes": "master mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/8vQolEto/black#64",
+    "OpeningTags": ""
+  }
+]

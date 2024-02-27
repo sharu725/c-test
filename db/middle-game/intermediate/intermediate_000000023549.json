@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "uhzzO",
+    "FEN": "r4rk1/pp3pp1/2n1bq1p/8/1b1P4/2NB1N2/PP3PPP/R2Q1RK1 b - - 5 12",
+    "Moves": "c6d4 f3d4 f6d4 d3h7 g8h7 d1d4",
+    "Rating": "1526",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "4005",
+    "Themes": "crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/Mg8UCHRF/black#24",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Modern_Variation"
+  },
+  {
+    "PuzzleId": "ui1Sq",
+    "FEN": "r3k1r1/bppq1p2/p2p1n1p/P7/1PBpP1bN/4BP2/3NQ1P1/R4RK1 w q - 0 19",
+    "Moves": "e3h6 d4d3 e2f2 a7f2",
+    "Rating": "1541",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "2220",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/DYrXsj37#37",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "ui1vZ",
+    "FEN": "2kr1b1r/pppnppp1/7p/3P4/1PP2n2/P1B2N2/5PPP/RN1R2K1 w - - 4 16",
+    "Moves": "b1d2 f4e2 g1f1 e2c3",
+    "Rating": "1424",
+    "RatingDeviation": "185",
+    "Popularity": "47",
+    "NbPlays": "7",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/9ur37vR1#31",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Portuguese_Variation"
+  },
+  {
+    "PuzzleId": "ui2J9",
+    "FEN": "3q2r1/4rp1k/p2p1Q1p/1ppPn2P/8/P1P3P1/1P3R2/3B1R1K b - - 0 30",
+    "Moves": "e5d3 f6f5 h7h8 f5d3",
+    "Rating": "1487",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1093",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/8s4DRS19/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ui3Az",
+    "FEN": "5r2/p2qn1bk/4p1pp/8/3pPPNQ/7N/P5PP/2R4K b - - 0 26",
+    "Moves": "d4d3 h3g5 h7g8 g4h6 g7h6 h4h6",
+    "Rating": "1471",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "107",
+    "Themes": "crushing deflection long middlegame pin",
+    "GameUrl": "https://lichess.org/HtpWrTcO/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ui4lV",
+    "FEN": "3rr1k1/pp3qb1/2p4p/4nQ2/1P1N1p2/P6P/3R1PPB/3R2K1 b - - 1 36",
+    "Moves": "f7f5 d4f5 d8d2 d1d2",
+    "Rating": "1581",
+    "RatingDeviation": "438",
+    "Popularity": "100",
+    "NbPlays": "1",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/9RJNLltp/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ui54b",
+    "FEN": "N1bk3r/pp3ppp/3q4/3p4/8/5Q2/PP4PP/1K3BNR w - - 0 19",
+    "Moves": "f3f7 h8f8 f7f8 d6f8",
+    "Rating": "1591",
+    "RatingDeviation": "74",
+    "Popularity": "54",
+    "NbPlays": "143",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/BQBKAbMm#37",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Zeller_Defense"
+  },
+  {
+    "PuzzleId": "ui56q",
+    "FEN": "4Q3/p3n1qk/1p1P4/4P3/5p2/P4Nr1/1B6/3R1RK1 w - - 0 38",
+    "Moves": "g1f2 g3g2 f2e1 g7g3 f1f2 g3f2",
+    "Rating": "1480",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1235",
+    "Themes": "attackingF2F7 exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/w64b0psz#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ui5VH",
+    "FEN": "r4rk1/ppp3pp/3b2q1/5n2/4pn2/P2P3P/1P1N1PP1/R1BQRBK1 w - - 0 17",
+    "Moves": "d2e4 f4h3 g1h1 h3f2",
+    "Rating": "1402",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "513",
+    "Themes": "crushing deflection kingsideAttack middlegame pin short",
+    "GameUrl": "https://lichess.org/J5i2ShIk#33",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Colorado_Countergambit_Accepted"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "a24i0",
+    "FEN": "r1b1r1k1/pp3pbp/6p1/2p4q/3PB3/1PN1P1P1/P1Q2P1P/R4RK1 w - - 1 18",
+    "Moves": "c3e2 e8e4 c2e4 h5e2",
+    "Rating": "1644",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "2828",
+    "Themes": "advantage deflection master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/YmAPTK6T#35",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Indian_Variation"
+  },
+  {
+    "PuzzleId": "a24zG",
+    "FEN": "r7/pp4pk/2p1B1pp/q2PB3/8/2P2r2/P1Q4P/2K4R b - - 0 23",
+    "Moves": "c6d5 h1g1 f3f1 g1f1",
+    "Rating": "1746",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "258",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/L1luFz8n/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "a25cO",
+    "FEN": "1r1q1rk1/3p1ppp/n3pb2/8/P7/4BN2/1P3PPP/1R1Q1RK1 b - - 1 17",
+    "Moves": "b8b2 b1b2 f6b2 d1e2 d8a5 e2b2",
+    "Rating": "1732",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "664",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/nENB28zS/black#34",
+    "OpeningTags": "Vant_Kruijs_Opening Vant_Kruijs_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "a25rG",
+    "FEN": "r1b2k1r/pp2npbp/1qnN2p1/3B2N1/8/8/PP1BQPPP/R3K2R w KQ - 5 14",
+    "Moves": "d5f7 c6d4 e2c4 b6d6",
+    "Rating": "1745",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "10462",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/mNFsGQXw#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit_Accepted"
+  },
+  {
+    "PuzzleId": "a27dF",
+    "FEN": "1kb4r/1p4Rp/1Q3pn1/R7/3P4/P3q3/2K4P/8 b - - 1 35",
+    "Moves": "c8f5 a5f5 h8c8 f5c5",
+    "Rating": "1774",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "168",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/6oE2x6L3/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "a27eB",
+    "FEN": "r3r1k1/ppp2ppp/8/4Nb1q/3N1P1b/3PR3/PPP3QP/R1B2K2 w - - 7 19",
+    "Moves": "d4f5 h5d1 e3e1 d1e1",
+    "Rating": "1601",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "928",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/XPzdrBKv#37",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "a283H",
+    "FEN": "2b2k2/1ppp2rp/1pq5/r3P1BQ/8/8/PP4PP/R3R2K w - - 0 23",
+    "Moves": "h5f3 c6f3 g2f3 g7g5",
+    "Rating": "1622",
+    "RatingDeviation": "88",
+    "Popularity": "61",
+    "NbPlays": "48",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/nhW64wu4#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "a287b",
+    "FEN": "r4rk1/3q1p1p/4p1n1/3p2Q1/6P1/p1N2P1R/PPP5/2K4R b - - 5 23",
+    "Moves": "f7f6 g5g6 h7g6 h3h8 g8f7 h1h7 f7e8 h8f8 e8f8 h7d7",
+    "Rating": "1732",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1471",
+    "Themes": "crushing kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/bSRX3vpq/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "a28d0",
+    "FEN": "r4rk1/p1Q2ppp/4bn2/3p4/3n1B2/2N3P1/PqP1PPBP/R4RK1 w - - 0 15",
+    "Moves": "f1b1 b2c3 c7c3 d4e2 g1h1 e2c3",
+    "Rating": "1766",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "81",
+    "Themes": "attraction capturingDefender crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/O0iQOzBa#29",
+    "OpeningTags": "Hungarian_Opening Hungarian_Opening_Other_variations"
+  }
+]

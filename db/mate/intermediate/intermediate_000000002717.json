@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Hnjga",
+    "FEN": "3r4/p4Bk1/6p1/1Pn4p/8/1P3Q1q/P2N1P1b/1R3RK1 w - - 3 25",
+    "Moves": "g1h1 h2g3 h1g1 h3h2",
+    "Rating": "1500",
+    "RatingDeviation": "141",
+    "Popularity": "85",
+    "NbPlays": "56",
+    "Themes": "discoveredAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AqnwOXEc#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HnnYI",
+    "FEN": "r2q3k/3npr1p/p2p1ppQ/1ppP2Pn/4PP2/2N4R/PPP1B3/2K4R b - - 0 20",
+    "Moves": "h5f4 h6h7 f7h7 h3h7 h8g8 h7h8 g8f7 h1h7",
+    "Rating": "1469",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1107",
+    "Themes": "kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/Eu1Sig8f/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HnpDd",
+    "FEN": "r2qnrkR/p1pp2p1/1p2p1B1/4n3/2P5/2N2P2/PP3P2/2KQ2R1 b - - 1 19",
+    "Moves": "g8h8 g1h1 h8g8 h1h8 g8h8 d1h1 d8h4 h1h4 h8g8 h4h7",
+    "Rating": "1591",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "1146",
+    "Themes": "attraction kingsideAttack mate mateIn5 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/JuTu4Hce/black#38",
+    "OpeningTags": "Bogo-Indian_Defense Bogo-Indian_Defense_Retreat_Variation"
+  },
+  {
+    "PuzzleId": "Hnsre",
+    "FEN": "r5k1/pp3pp1/2pq1n1p/3p4/3P2n1/2PB1PK1/PPQ3P1/R1B1N3 w - - 1 18",
+    "Moves": "g3h3 d6h2",
+    "Rating": "1441",
+    "RatingDeviation": "78",
+    "Popularity": "70",
+    "NbPlays": "230",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/SO9Dpzxb#35",
+    "OpeningTags": "French_Defense French_Defense_Knight_Variation"
+  },
+  {
+    "PuzzleId": "Hnu8G",
+    "FEN": "5rk1/ppq3pp/8/3p4/8/2PBB1nP/PP4Pb/R3Q2K w - - 4 22",
+    "Moves": "h1h2 g3f1 h2g1 c7h2",
+    "Rating": "1595",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "741",
+    "Themes": "doubleCheck mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/4od9L50U#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HnuVj",
+    "FEN": "4N3/8/1p3p1R/n1b1pkp1/r7/2P2PB1/5PK1/8 b - - 1 31",
+    "Moves": "c5e7 e8g7",
+    "Rating": "1479",
+    "RatingDeviation": "271",
+    "Popularity": "52",
+    "NbPlays": "33",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/Ep5jDkvS/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HnzC9",
+    "FEN": "2R5/1Q5p/p4p1k/6pr/6q1/6B1/PP3PK1/8 w - - 5 45",
+    "Moves": "g2f1 g4d1 f1g2 d1h1",
+    "Rating": "1503",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "13819",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/g5xuBOfx#89",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HnzKO",
+    "FEN": "rn1k1b1r/pQ2pBpp/2p5/8/3qn1b1/2N5/PP3PPP/R1B1K1NR w KQ - 0 10",
+    "Moves": "c3e4 d4d1",
+    "Rating": "1523",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "821",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/RIJCtohp#19",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "Ho1xu",
+    "FEN": "rn3rk1/3pq1bR/p1b1p1Q1/1p4N1/3P4/2P5/PP3PP1/R1B1K3 b Q - 0 20",
+    "Moves": "e7f6 h7h8 g8h8 g6h7",
+    "Rating": "1528",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "3885",
+    "Themes": "attraction kingsideAttack mate mateIn2 middlegame pin sacrifice short",
+    "GameUrl": "https://lichess.org/v0g6jsvN/black#40",
+    "OpeningTags": ""
+  }
+]

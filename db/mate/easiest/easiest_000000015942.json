@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "UyDLL",
+    "FEN": "5rk1/4Qppp/1qp2P2/p7/8/2p2P2/PPP3PP/1K1R4 w - - 0 23",
+    "Moves": "f6g7 b6b2",
+    "Rating": "865",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "168",
+    "Themes": "endgame mate mateIn1 oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/Po0cbPfH#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UyDbu",
+    "FEN": "r1b1k2r/pp1pppbp/3q2p1/8/3nP1n1/2NB1N2/PPPB1PPP/R2Q1RK1 w kq - 8 11",
+    "Moves": "f3d4 d6h2",
+    "Rating": "889",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "559",
+    "Themes": "kingsideAttack mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/1ocuSP5u#21",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Hyperaccelerated_Pterodactyl"
+  },
+  {
+    "PuzzleId": "UyDw6",
+    "FEN": "8/1p2q3/p3p1Q1/4P2K/1P1P1R2/Pkr4r/6P1/8 w - - 0 42",
+    "Moves": "g2h3 c3h3 h5g4 e7h4",
+    "Rating": "906",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1532",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/wzSpFSzR#83",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UyFlW",
+    "FEN": "1k5r/ppQ2p2/4Bp2/5r1p/8/8/PP3qPP/2R4K b - - 0 25",
+    "Moves": "b8a8 c7c8 h8c8 c1c8",
+    "Rating": "710",
+    "RatingDeviation": "82",
+    "Popularity": "91",
+    "NbPlays": "863",
+    "Themes": "backRankMate endgame mate mateIn2 sacrifice short",
+    "GameUrl": "https://lichess.org/CSGGEQcE/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UyG0Q",
+    "FEN": "1r4k1/5p1p/4p1p1/3pP3/5P2/P1P5/2P1Q1PP/1q3R1K w - - 0 27",
+    "Moves": "f1b1 b8b1 e2d1 b1d1",
+    "Rating": "600",
+    "RatingDeviation": "85",
+    "Popularity": "50",
+    "NbPlays": "156",
+    "Themes": "backRankMate endgame mate mateIn2 queenRookEndgame short",
+    "GameUrl": "https://lichess.org/bHMcyrUh#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UyGXm",
+    "FEN": "8/pppkr3/3b4/8/6P1/7P/PPPq1PB1/K2R4 w - - 0 29",
+    "Moves": "d1d2 e7e1 d2d1 e1d1",
+    "Rating": "600",
+    "RatingDeviation": "107",
+    "Popularity": "63",
+    "NbPlays": "167",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/G4L5ibJW#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UyHQh",
+    "FEN": "4rr1k/p1pN4/7p/8/6Q1/8/P1P2pPP/R3qK2 w - - 2 27",
+    "Moves": "a1e1 f2e1q",
+    "Rating": "599",
+    "RatingDeviation": "98",
+    "Popularity": "81",
+    "NbPlays": "374",
+    "Themes": "advancedPawn doubleCheck endgame mate mateIn1 oneMove promotion",
+    "GameUrl": "https://lichess.org/GrVHbLfa#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UyHe5",
+    "FEN": "3R4/5kpq/p3N3/4P3/1P6/P3P3/5PPP/6K1 w - - 1 33",
+    "Moves": "e6f4 h7b1 d8d1 b1d1",
+    "Rating": "876",
+    "RatingDeviation": "84",
+    "Popularity": "83",
+    "NbPlays": "115",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/tmv8vdu9#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UyIMd",
+    "FEN": "r4rk1/1b1p1ppp/p3p3/1pp1n3/5PPq/P1NP3P/1PP1B3/R2Q1RK1 w - - 1 16",
+    "Moves": "f4e5 h4g3",
+    "Rating": "906",
+    "RatingDeviation": "78",
+    "Popularity": "95",
+    "NbPlays": "100",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/LVecOCIi#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  }
+]

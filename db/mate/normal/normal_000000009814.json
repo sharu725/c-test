@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "po2CX",
+    "FEN": "r1bqkb1r/ppp2ppp/3p4/7n/4PBn1/1BNP3P/PPP3P1/R2QK1NR w KQkq - 1 9",
+    "Moves": "f4d2 d8h4 g2g3 h4g3 e1f1 g3f2",
+    "Rating": "1325",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "298",
+    "Themes": "exposedKing long mate mateIn3 opening",
+    "GameUrl": "https://lichess.org/uokncmy5#17",
+    "OpeningTags": "Vienna_Game Vienna_Game_Max_Lange_Defense"
+  },
+  {
+    "PuzzleId": "po2Da",
+    "FEN": "k2r3r/p1pnq1pp/4p2n/NQ3p2/3P4/4P3/PP3PPP/R3K2R b KQ - 3 16",
+    "Moves": "d8b8 b5c6 b8b7 c6b7",
+    "Rating": "1287",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1328",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/9WWwl5vg/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "po4zJ",
+    "FEN": "r1b1k1nr/pp1p1ppp/2N2q2/2b5/4P3/8/PP3PPP/RNBQKB1R w KQkq - 1 8",
+    "Moves": "c6a7 f6f2",
+    "Rating": "1387",
+    "RatingDeviation": "80",
+    "Popularity": "82",
+    "NbPlays": "1281",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/fmGhkpV4#15",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "po6hj",
+    "FEN": "2rq1rk1/5p1p/1n4p1/N3p3/1n2PN2/R7/1Q3PPP/2R3K1 w - - 0 26",
+    "Moves": "c1c8 d8d1",
+    "Rating": "1276",
+    "RatingDeviation": "189",
+    "Popularity": "71",
+    "NbPlays": "10",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/tRUW0wmc#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "po7Rt",
+    "FEN": "5rQk/6pp/7N/p1P2R2/1p1P4/b5PP/P4R1K/B2qr3 b - - 4 39",
+    "Moves": "f8g8 h6f7",
+    "Rating": "1263",
+    "RatingDeviation": "94",
+    "Popularity": "85",
+    "NbPlays": "150",
+    "Themes": "master mate mateIn1 middlegame oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/rsODr3Pl/black#78",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "po8bP",
+    "FEN": "5k2/6r1/P3pn2/7p/2QP1P1n/7P/2PP3K/5R2 w - - 1 35",
+    "Moves": "f1g1 h4f3 h2h1 g7g1",
+    "Rating": "1324",
+    "RatingDeviation": "79",
+    "Popularity": "57",
+    "NbPlays": "302",
+    "Themes": "arabianMate endgame fork mate mateIn2 short",
+    "GameUrl": "https://lichess.org/VJjGDzqo#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "poAMV",
+    "FEN": "6k1/p4q2/1p1Q3p/3b2p1/3P4/P1B1p2P/1P4P1/6K1 w - - 4 35",
+    "Moves": "d6e5 f7f2 g1h2 f2g2",
+    "Rating": "1211",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "8907",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/YdEa7OdC#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "poCVL",
+    "FEN": "2r3k1/1bq1bRpr/p3P1QB/3np2p/Pp6/1P6/2P1N1PP/R6K b - - 6 27",
+    "Moves": "c7c2 f7g7 h7g7 g6g7",
+    "Rating": "1222",
+    "RatingDeviation": "75",
+    "Popularity": "77",
+    "NbPlays": "377",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/zu69WO9o/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "poDXe",
+    "FEN": "r4r2/8/p4p1k/1p1p3p/3q4/6R1/P5PP/2Q2K2 b - - 1 33",
+    "Moves": "h6h7 c1c7 f8f7 c7f7 h7h8 f7h5",
+    "Rating": "1312",
+    "RatingDeviation": "74",
+    "Popularity": "100",
+    "NbPlays": "225",
+    "Themes": "endgame exposedKing long mate mateIn3",
+    "GameUrl": "https://lichess.org/BIKGeiCd/black#66",
+    "OpeningTags": ""
+  }
+]

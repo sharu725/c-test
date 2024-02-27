@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pyBzs",
+    "FEN": "r2q1rk1/1b1n1ppp/p7/2ppP3/Nb1p4/3P1Q2/BPP1NPPP/R4RK1 w - - 1 16",
+    "Moves": "a2d5 d7e5 d5b7 e5f3",
+    "Rating": "1485",
+    "RatingDeviation": "74",
+    "Popularity": "90",
+    "NbPlays": "1454",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/8KtGW844#31",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Vienna_Hybrid"
+  },
+  {
+    "PuzzleId": "pyEYU",
+    "FEN": "6k1/pp4pp/3qpr2/3p4/3P2Q1/P2B4/1P2N2b/4R2K w - - 0 25",
+    "Moves": "g4h3 f6h6 h3h6 g7h6",
+    "Rating": "1490",
+    "RatingDeviation": "86",
+    "Popularity": "82",
+    "NbPlays": "130",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/TbRjfO36#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pyGNg",
+    "FEN": "r2q1rk1/ppn2pbp/2p1p1p1/4Pn2/3PN3/5B2/PPPQ1BPP/R3K2R w KQ - 10 14",
+    "Moves": "e1c1 g7h6 d2h6 f5h6",
+    "Rating": "1597",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "1563",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/nI0FCvBa#27",
+    "OpeningTags": "Rat_Defense Rat_Defense_Harmonist"
+  },
+  {
+    "PuzzleId": "pyIH1",
+    "FEN": "rn3rk1/pp2qppp/2pb4/5p1b/3P4/4BN1P/PPPQBPP1/R3K2R w KQ - 2 12",
+    "Moves": "e1c1 f5f4 e3f4 d6f4 d2f4 e7e2",
+    "Rating": "1548",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "10456",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/N8oqbKyk#23",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Tartakower_Variation"
+  },
+  {
+    "PuzzleId": "pyITX",
+    "FEN": "rnb1k2r/ppp1Pppp/8/4q1B1/2p5/2N2Q2/PPP2KpP/3R2NR b kq - 3 13",
+    "Moves": "g2h1q d1d8",
+    "Rating": "1497",
+    "RatingDeviation": "86",
+    "Popularity": "71",
+    "NbPlays": "449",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/OXbSikFE/black#26",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Keenes_Defense"
+  },
+  {
+    "PuzzleId": "pyJC7",
+    "FEN": "2r2rk1/p5pp/1p3q2/4n2P/1b1Qp3/6B1/P4PPN/2R2RK1 b - - 0 24",
+    "Moves": "e5f3 h2f3 f6d4 f3d4",
+    "Rating": "1497",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "3482",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/xlTEZLhY/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pyJY0",
+    "FEN": "1r1r2k1/1np2pp1/6qp/4P3/1P2P3/P2B1P1P/6P1/R1RQ2K1 w - - 1 29",
+    "Moves": "c1c7 g6b6 g1h1 b6c7",
+    "Rating": "1404",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "16960",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/KcqTgGLU#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pyKF2",
+    "FEN": "4r1k1/Q2b1ppp/1B1b4/3p2q1/1P4n1/2P5/P3NPPP/RN2K2R w KQ - 1 18",
+    "Moves": "a7d7 g5c1",
+    "Rating": "1566",
+    "RatingDeviation": "88",
+    "Popularity": "73",
+    "NbPlays": "396",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/nXZKHmbW#35",
+    "OpeningTags": "Center_Game Center_Game_Paulsen_Attack_Variation"
+  },
+  {
+    "PuzzleId": "pyKm4",
+    "FEN": "1r3rk1/4bppp/p1pq3B/2ppnP2/8/2NP2Q1/PPP3PP/R4RK1 b - - 6 17",
+    "Moves": "e7f6 h6g7 f6g7 f5f6 d6f6 f1f6",
+    "Rating": "1598",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "356",
+    "Themes": "crushing long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/7xMYD7xG/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  }
+]

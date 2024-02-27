@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "3wzFr",
+    "FEN": "6k1/1B5p/3pq1p1/5p2/Pp2p2P/1Pr1bnP1/2P2RK1/3Q1R2 b - - 3 30",
+    "Moves": "e3f2 b7d5 g8f8 d5e6",
+    "Rating": "1199",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "193",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/BSSmnkMU/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3x1GB",
+    "FEN": "5rk1/1bP2ppp/pn1p1b2/qpp5/5P2/P2P2P1/1PP4P/1RBQR1NK w - - 0 19",
+    "Moves": "g1f3 b7f3 d1f3 a5e1",
+    "Rating": "1091",
+    "RatingDeviation": "119",
+    "Popularity": "78",
+    "NbPlays": "18",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/tlwf5j9L#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "3x1ti",
+    "FEN": "3qr1k1/pp3ppp/1n2pb2/3p4/3P4/1R1BPNP1/PP2QPP1/6K1 b - - 0 20",
+    "Moves": "d8d7 d3b5 d7d8 b5e8",
+    "Rating": "1084",
+    "RatingDeviation": "114",
+    "Popularity": "50",
+    "NbPlays": "20",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/xt0Qlkkq/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3x2RG",
+    "FEN": "r3kb1r/pp1n1pp1/2p1p2p/q2pPb2/3P1P2/P1N2N1P/1PPQB1P1/R3K2R w KQkq - 1 14",
+    "Moves": "b2b4 f8b4 a3b4 a5a1",
+    "Rating": "1146",
+    "RatingDeviation": "81",
+    "Popularity": "87",
+    "NbPlays": "61",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/VtdMP8TL#27",
+    "OpeningTags": "Czech_Defense Czech_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "3x3DE",
+    "FEN": "r2q1rk1/2p2ppp/3b4/1p6/3PQ3/Pn1B3P/1B3PP1/4RRK1 b - - 0 18",
+    "Moves": "b3d2 e4h7",
+    "Rating": "1005",
+    "RatingDeviation": "128",
+    "Popularity": "85",
+    "NbPlays": "22",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/IVAY3Q0Y/black#36",
+    "OpeningTags": "Englund_Gambit_Declined Englund_Gambit_Declined_Reversed_French"
+  },
+  {
+    "PuzzleId": "3x4XQ",
+    "FEN": "r3k2r/1pq2p2/3p1p2/2bQp3/1P2P2p/6P1/2P2PBP/3R1RK1 b kq - 0 19",
+    "Moves": "c5b4 d5b5 e8f8 b5b4",
+    "Rating": "1193",
+    "RatingDeviation": "85",
+    "Popularity": "67",
+    "NbPlays": "99",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/AW2eGxVw/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Four_Knights_Variation"
+  },
+  {
+    "PuzzleId": "3x6QQ",
+    "FEN": "1r2k3/pbp2pp1/1p3n2/2q1p1N1/2P3P1/8/P1PQ1PP1/3RKB2 b - - 0 20",
+    "Moves": "b7c8 d2d8",
+    "Rating": "1112",
+    "RatingDeviation": "160",
+    "Popularity": "65",
+    "NbPlays": "39",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/zEGmhNKC/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3x6YK",
+    "FEN": "1r1q1rk1/4bpp1/b1p1pn1p/p1p5/1pP1PP2/PP1P2P1/3NQ1BP/R1B2RK1 w - - 0 16",
+    "Moves": "a3a4 d8d4 g1h1 d4a1",
+    "Rating": "1059",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "4664",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/Un1fXjWW#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "3x7hy",
+    "FEN": "r2qkb1r/1p3ppp/2Ppb3/1p2p3/4P3/5P2/PP4PP/R1BQKB1R w KQkq - 0 12",
+    "Moves": "f1b5 d8a5 c1d2 a5b5",
+    "Rating": "1096",
+    "RatingDeviation": "81",
+    "Popularity": "67",
+    "NbPlays": "44",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/v9QlpP8k#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "OVXZI",
+    "FEN": "2kr4/1pp3pp/p2q1pn1/8/1PBb4/P4Q1P/5PP1/2RR2K1 w - - 0 23",
+    "Moves": "c1c2 d4f2 g1f2 d6d1 c4e6 c8b8 f3d1 d8d1",
+    "Rating": "1610",
+    "RatingDeviation": "124",
+    "Popularity": "-85",
+    "NbPlays": "15",
+    "Themes": "advantage discoveredAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/z65FH2mX#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OVYke",
+    "FEN": "1rbqr1k1/1p3pp1/p5np/2p1N3/P1P5/3Q2BP/5PP1/R3R1K1 b - - 0 22",
+    "Moves": "d8d3 e5d3 e8e1 a1e1 c8f5 g3b8",
+    "Rating": "1703",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "543",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/t9fzXuLp/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OVaDT",
+    "FEN": "r2qk2r/3b1pbp/p2p1np1/3Pp1B1/7Q/2N2N2/PP3PPP/R4RK1 b kq - 7 14",
+    "Moves": "e8g8 c3e4 f6e4 g5d8",
+    "Rating": "1739",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "623",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/UYPTnxYd/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "OVb9Z",
+    "FEN": "2r2rk1/1pqb1pp1/p5n1/P2pP2p/1b3p2/2P2N1P/3NQPPB/R1R3K1 w - - 0 21",
+    "Moves": "c3b4 c7c1 a1c1 c8c1 f3e1 d7b5",
+    "Rating": "1622",
+    "RatingDeviation": "76",
+    "Popularity": "79",
+    "NbPlays": "106",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/su7CpzFk#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OVbX7",
+    "FEN": "2r2rk1/pp3pp1/5n1p/2P5/1P1N1RP1/2Q1P1qP/P5B1/7K b - - 4 29",
+    "Moves": "c8e8 d4f5 e8e3 c3e3 g3e3 f5e3",
+    "Rating": "1747",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "260",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/nlwexcCI/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OVcVr",
+    "FEN": "3r2kb/p4p1p/1rq2PpB/2p1p3/3pP2Q/1P3R2/P1P3PP/1R4K1 b - - 5 27",
+    "Moves": "h8f6 f3f6 c6f6 h6g5 f6g5 h4g5",
+    "Rating": "1630",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1569",
+    "Themes": "advantage long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/PPM1vPTT/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OVdCA",
+    "FEN": "2r2r1k/2q2pb1/p2p3p/3P1p2/2NR1Q1P/7R/P4PP1/2K5 b - - 1 26",
+    "Moves": "g7d4 f4h6 h8g8 h3g3 d4g7 h6g7",
+    "Rating": "1685",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "10161",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/A1lUL17L/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "OVdO7",
+    "FEN": "2kr2r1/pp2b2p/2p2p2/4B3/3P4/8/PPb2PPP/RN2R1K1 w - - 0 18",
+    "Moves": "b1a3 e7a3 b2a3 f6e5",
+    "Rating": "1628",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "464",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/YbZjC2h5#35",
+    "OpeningTags": "Russian_Game Russian_Game_Damiano_Variation"
+  },
+  {
+    "PuzzleId": "OVeBp",
+    "FEN": "r3r1k1/pR3ppp/3q1n2/2pP4/2P1p2n/2BBPP2/P4P1P/3Q1R1K w - - 0 18",
+    "Moves": "c3f6 h4f3 d1f3 e4f3",
+    "Rating": "1751",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "310",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/oSYOjBwJ#35",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Chigorin_Defense"
+  }
+]

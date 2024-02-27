@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "0BWV6",
+    "FEN": "2r4k/p3Qpn1/4pNp1/1p4qp/8/1P2N2P/P3PPB1/6K1 w - - 2 34",
+    "Moves": "e7f7 c8c1 e3f1 c1f1 g1f1 g5c1",
+    "Rating": "1252",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "254",
+    "Themes": "attraction backRankMate long mate mateIn3 middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/TMghKCIL#67",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0BX4A",
+    "FEN": "7r/4bp1k/q1np3Q/1p2pN2/4P3/n1P2N1P/5PP1/5RK1 b - - 3 25",
+    "Moves": "h7g8 h6g7",
+    "Rating": "1317",
+    "RatingDeviation": "86",
+    "Popularity": "91",
+    "NbPlays": "155",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/98PiMbTl/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0BZvN",
+    "FEN": "3r1rk1/ppp1b1pp/2n1b3/5p2/3P4/2PBB3/PP3PPP/RN3RK1 w - - 0 13",
+    "Moves": "b1d2 f5f4 e3f4 f8f4",
+    "Rating": "1203",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "3031",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/HROJyjlB#25",
+    "OpeningTags": "Russian_Game Russian_Game_Damiano_Variation"
+  },
+  {
+    "PuzzleId": "0BbIo",
+    "FEN": "2r1r1k1/pp1bq1p1/5pN1/3p1P2/2pPn3/P3PR2/1PQ3PP/5RK1 b - - 1 23",
+    "Moves": "e7f7 f3h3 f7g6 f5g6 d7h3 g2h3",
+    "Rating": "1374",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "872",
+    "Themes": "advantage long middlegame quietMove",
+    "GameUrl": "https://lichess.org/nAA8tcWD/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0BeUp",
+    "FEN": "r4rk1/ppp1bpp1/2N2n1p/1Q6/1q1Pp1P1/2N4P/PP3P2/R1B1R1K1 b - - 0 17",
+    "Moves": "b4b5 c6e7 g8h7 c3b5",
+    "Rating": "1272",
+    "RatingDeviation": "77",
+    "Popularity": "74",
+    "NbPlays": "118",
+    "Themes": "crushing hangingPiece intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/l8MzBv77/black#34",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "0Bhst",
+    "FEN": "rn2k1nr/ppp2ppp/8/1Q2p3/8/2P1B1P1/q1P4P/3RK1N1 b kq - 1 14",
+    "Moves": "b8c6 b5b7 a2a4 b7a8",
+    "Rating": "1306",
+    "RatingDeviation": "78",
+    "Popularity": "76",
+    "NbPlays": "232",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/sd3p4SEB/black#28",
+    "OpeningTags": "Blackmar-Diemer_Gambit Blackmar-Diemer_Gambit_Zeller_Defense"
+  },
+  {
+    "PuzzleId": "0Bi6E",
+    "FEN": "r6r/1p1k2pp/p7/n2Pp3/1b6/N2R4/P1QP1qPP/1RB4K w - - 4 22",
+    "Moves": "d3f3 f2e1 f3f1 e1f1",
+    "Rating": "1227",
+    "RatingDeviation": "79",
+    "Popularity": "83",
+    "NbPlays": "118",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ryn5pppf#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0BiJR",
+    "FEN": "r6r/ppp3k1/5qp1/3Q1p2/3PpPn1/BP2P1pR/P1P4P/R5K1 w - - 1 28",
+    "Moves": "d5d7 f6f7 d7f7 g7f7 h3h8 a8h8",
+    "Rating": "1292",
+    "RatingDeviation": "92",
+    "Popularity": "71",
+    "NbPlays": "31",
+    "Themes": "crushing defensiveMove long master middlegame",
+    "GameUrl": "https://lichess.org/lwx6Mq1z#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0BmAI",
+    "FEN": "r3k1nr/ppp2ppp/2p5/2b1p1q1/3PP3/2P3P1/PP2KP1P/RNBQ3R b kq - 0 8",
+    "Moves": "g5g4 f2f3 g4h3 d4c5",
+    "Rating": "1321",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1507",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/Q2NLrmKN/black#16",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Macleod_Attack"
+  }
+]

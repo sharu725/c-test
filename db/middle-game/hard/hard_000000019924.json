@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pm3hr",
+    "FEN": "r1bqk2r/2p1bp2/p1n3pp/1p1np1N1/7Q/1B1P4/PPP2PPP/RNB2RK1 b kq - 1 11",
+    "Moves": "e7g5 c1g5 d8g5 h4g5 h6g5 b3d5",
+    "Rating": "1601",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "3",
+    "Themes": "equality long middlegame",
+    "GameUrl": "https://lichess.org/62yCWTYm/black#22",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pm5iz",
+    "FEN": "r1bqk2r/ppp1b1pp/8/3pQ3/8/8/PPP1PPPP/RN2KB1R w KQkq - 1 11",
+    "Moves": "e5g7 e7f6 g7h6 f6b2",
+    "Rating": "1609",
+    "RatingDeviation": "81",
+    "Popularity": "84",
+    "NbPlays": "102",
+    "Themes": "advantage interference middlegame short",
+    "GameUrl": "https://lichess.org/WtYVNX16#21",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "pm6Al",
+    "FEN": "r1bqk2r/pp4b1/2n1p1p1/3p2N1/5P1P/2p5/PPQ3P1/R1B1KN1R b KQkq - 1 15",
+    "Moves": "c3b2 c2g6 e8d7 g6g7",
+    "Rating": "1647",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "170",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/14ICrYPp/black#30",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "pm6DR",
+    "FEN": "1r3rk1/2q2ppp/2nbpn2/p3N3/P1pP1P2/3QPB1P/6P1/R1B2RK1 w - - 0 18",
+    "Moves": "d3c4 c6e5 c4c7 e5f3 g2f3 d6c7",
+    "Rating": "1778",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "3458",
+    "Themes": "crushing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/b768clxn#35",
+    "OpeningTags": "Bird_Opening Bird_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "pm7Pi",
+    "FEN": "r6r/6k1/3qppp1/8/2PP3P/p2NPP1K/2Q5/R5R1 w - - 4 35",
+    "Moves": "c2g2 h8h4 h3h4 a8h8 h4g4 f6f5 g4g5 h8h5",
+    "Rating": "1731",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "10717",
+    "Themes": "attraction mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/3Xu00AGz#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pm7dh",
+    "FEN": "3r4/4pk2/P2p3r/1QpPnq2/N1P3n1/5P1p/4B1P1/1R3RK1 b - - 0 28",
+    "Moves": "h3g2 f3g4 g2f1q b1f1",
+    "Rating": "1615",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "53",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/V5Yuaorz/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pm7vx",
+    "FEN": "2r2rk1/pp1bppbp/2np1np1/7q/3NP3/1B2BP2/PPPQN1PP/R4R1K b - - 6 13",
+    "Moves": "h5a5 d4c6 a5d2 c6e7",
+    "Rating": "1615",
+    "RatingDeviation": "75",
+    "Popularity": "80",
+    "NbPlays": "82",
+    "Themes": "crushing master middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/hC96IkJS/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "pmAXV",
+    "FEN": "3rr1k1/pp3ppp/8/2p2b2/1nP5/3P1N1P/1P2BPP1/1K1RR3 b - - 0 19",
+    "Moves": "b4d3 e2d3 e8e1 f3e1",
+    "Rating": "1604",
+    "RatingDeviation": "79",
+    "Popularity": "96",
+    "NbPlays": "15062",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/vlXD3wBe/black#38",
+    "OpeningTags": "Kings_Pawn_Game Kings_Pawn_Game_Wayward_Queen_Attack"
+  },
+  {
+    "PuzzleId": "pmAcU",
+    "FEN": "r3br1k/pp2qpp1/4p2n/3p1BN1/5PN1/2p4Q/PP3P1P/2KR3R b - - 0 19",
+    "Moves": "c3b2 c1b1",
+    "Rating": "1608",
+    "RatingDeviation": "77",
+    "Popularity": "78",
+    "NbPlays": "315",
+    "Themes": "crushing defensiveMove middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/vHL0S3Be/black#38",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Mason_Variation"
+  }
+]

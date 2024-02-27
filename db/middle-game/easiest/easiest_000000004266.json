@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "Cbkmp",
+    "FEN": "2r3k1/5ppp/Q3p3/P1rp3q/8/2n1PN1P/5PP1/R2R2K1 w - - 1 25",
+    "Moves": "d1c1 c3e2 a6e2 c5c1 a1c1 c8c1",
+    "Rating": "914",
+    "RatingDeviation": "156",
+    "Popularity": "82",
+    "NbPlays": "22",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/L4t8UeuU#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CbmLF",
+    "FEN": "r1b2r1k/p2pn1pp/np1Q1p2/4p3/2P1q3/P3BN1P/3RBPP1/3R2K1 b - - 2 20",
+    "Moves": "e7f5 d6f8",
+    "Rating": "674",
+    "RatingDeviation": "97",
+    "Popularity": "90",
+    "NbPlays": "119",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/mi3A225H/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CbnHT",
+    "FEN": "r1b1kqnr/6pp/p3p3/1p1p4/1P1bN3/PB6/2PB1PPP/2RQK2R w Kkq - 0 17",
+    "Moves": "e4g5 f8f2",
+    "Rating": "969",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "907",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/SS1DZvWq#33",
+    "OpeningTags": "French_Defense French_Defense_Steinitz_Attack"
+  },
+  {
+    "PuzzleId": "Cbs8D",
+    "FEN": "r2q1rk1/p1pnbppn/1p5B/3Pp3/1PP1P2P/3B2Q1/P2N2P1/1R3RK1 b - - 0 18",
+    "Moves": "e7h4 g3g7",
+    "Rating": "752",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "226",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/0eDQBRPg/black#36",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation"
+  },
+  {
+    "PuzzleId": "Cbufw",
+    "FEN": "r2q1rk1/1p2bp1p/2pp1np1/1p4B1/3PP3/3Q3P/PPBn1PP1/1R3RK1 w - - 0 19",
+    "Moves": "d3d2 f6e4 c2e4 e7g5",
+    "Rating": "745",
+    "RatingDeviation": "81",
+    "Popularity": "99",
+    "NbPlays": "967",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/oRbGqAC6#37",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "CbvEX",
+    "FEN": "4r1k1/1p2Bpp1/p5bp/4P3/P6Q/1Bq5/2P1RPPP/6K1 w - - 0 32",
+    "Moves": "e7d6 c3a1 e2e1 a1e1",
+    "Rating": "982",
+    "RatingDeviation": "78",
+    "Popularity": "80",
+    "NbPlays": "243",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Xw0PkRLX#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CbvXU",
+    "FEN": "r3k2r/p2nb1pp/b1N1pp2/2Pp2P1/3P1P2/q2B1N2/P4P1P/R2Q1K1R w kq - 1 18",
+    "Moves": "d3a6 a3a6 f1g2 a6c6",
+    "Rating": "992",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "315",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/xxIHjxas#35",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "CbvrI",
+    "FEN": "rnb1k2r/pp3ppp/2p1p3/q2P4/3P1n2/2P2N1P/P2QPPP1/R3KB1R w KQkq - 0 10",
+    "Moves": "d2f4 a5c3 f4d2 c3a1",
+    "Rating": "932",
+    "RatingDeviation": "84",
+    "Popularity": "84",
+    "NbPlays": "521",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/BKWT0lbb#19",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Ragozin_Defense"
+  },
+  {
+    "PuzzleId": "CbwFE",
+    "FEN": "1k5r/ppQ2p2/3p2q1/3P3p/b3rPp1/1N6/PP4PP/2RR2K1 b - - 0 24",
+    "Moves": "b8a8 c7c8 h8c8 c1c8",
+    "Rating": "880",
+    "RatingDeviation": "97",
+    "Popularity": "67",
+    "NbPlays": "43",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/ooXWzfmU/black#48",
+    "OpeningTags": ""
+  }
+]

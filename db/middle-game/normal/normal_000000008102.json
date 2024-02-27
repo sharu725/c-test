@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "NcOLu",
+    "FEN": "3rk3/1p1qn2r/p1pP1Bpp/5bp1/8/N5QP/PPP3P1/1K1RR3 w - - 3 23",
+    "Moves": "d6e7 d7d1 e1d1 d8d1",
+    "Rating": "1340",
+    "RatingDeviation": "369",
+    "Popularity": "54",
+    "NbPlays": "5",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/7WsS6YyF#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NcQmM",
+    "FEN": "Q5r1/p1p1kp1p/1p2p3/2b1P3/3q1Bn1/2NP4/PP4PP/R4R1K w - - 1 18",
+    "Moves": "a8g8 d4g1 f1g1 g4f2",
+    "Rating": "1390",
+    "RatingDeviation": "123",
+    "Popularity": "39",
+    "NbPlays": "108",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short smotheredMate",
+    "GameUrl": "https://lichess.org/CLrfv1Je#35",
+    "OpeningTags": "French_Defense French_Defense_La_Bourdonnais_Variation"
+  },
+  {
+    "PuzzleId": "NcSGl",
+    "FEN": "5rk1/p4pp1/1p2p2p/3PN3/P3QP2/1n2P3/1B1bq1PP/5RK1 w - - 3 26",
+    "Moves": "d5e6 d2e3 e4e3 e2e3",
+    "Rating": "1212",
+    "RatingDeviation": "120",
+    "Popularity": "-67",
+    "NbPlays": "16",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/XebdKmlf#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NcSzt",
+    "FEN": "r3kr2/ppp3p1/2npp1qp/2b1p3/4P3/P2PBQ1P/1PP2PP1/R3K1NR w KQq - 2 12",
+    "Moves": "f3g3 g6g3 f2g3 c5e3",
+    "Rating": "1212",
+    "RatingDeviation": "74",
+    "Popularity": "86",
+    "NbPlays": "505",
+    "Themes": "capturingDefender crushing middlegame short",
+    "GameUrl": "https://lichess.org/0qUgqtA0#23",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "NcTf6",
+    "FEN": "r2qR1k1/3b1pbp/2np1np1/p5B1/P7/1BQ2N2/1PP2PPP/R5K1 b - - 0 18",
+    "Moves": "d8e8 g5f6 g7f6 c3f6",
+    "Rating": "1342",
+    "RatingDeviation": "85",
+    "Popularity": "76",
+    "NbPlays": "36",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/TX6QGW00/black#36",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Williams_Variation"
+  },
+  {
+    "PuzzleId": "NcVZ5",
+    "FEN": "5rk1/5ppp/3p4/q3b3/1r2Q3/3R3N/P4PBP/3R2K1 w - - 4 32",
+    "Moves": "e4f5 e5h2 g1h2 a5f5",
+    "Rating": "1248",
+    "RatingDeviation": "82",
+    "Popularity": "86",
+    "NbPlays": "51",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/dVcq94Qe#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NcW1h",
+    "FEN": "5rk1/6pp/3N4/2r1Pp2/p4P2/1b1K2P1/1Rn3BP/5R2 w - - 6 26",
+    "Moves": "f1c1 c2b4 d3d2 c5c1 d2c1 b4d3",
+    "Rating": "1395",
+    "RatingDeviation": "93",
+    "Popularity": "82",
+    "NbPlays": "57",
+    "Themes": "attraction crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/rXyGOiaX#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NcZMt",
+    "FEN": "r4r2/ppp2b2/2n2p1k/3p2p1/3Pp1q1/P1P1PPPN/1PQ3P1/2K2N1R b - - 0 20",
+    "Moves": "g4e6 h3f4 h6g7 f4e6",
+    "Rating": "1356",
+    "RatingDeviation": "140",
+    "Popularity": "71",
+    "NbPlays": "28",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/rERikdON/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "NcaYS",
+    "FEN": "r1bq1rk1/p2np1bp/2p2pp1/3NP3/5P2/4B3/PPPQB1PP/R3K2R b KQ - 0 13",
+    "Moves": "c6d5 d2d5 e7e6 d5a8",
+    "Rating": "1291",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1368",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/rtHTXb5r/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "TvWK1",
+    "FEN": "7r/pp4k1/n2p2p1/2pPp3/2P1PpNq/P1N2P2/1P1Q1PKr/R5R1 w - - 6 23",
+    "Moves": "g4h2 h4h3 g2h1 h3h2",
+    "Rating": "1830",
+    "RatingDeviation": "76",
+    "Popularity": "46",
+    "NbPlays": "71",
+    "Themes": "master mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/xPZKxPb0#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TvWOE",
+    "FEN": "r2qk2r/pp1bbppp/3p1n2/1BpPn3/4PB2/2N2P2/PP2N1PP/R2QK2R b KQkq - 0 10",
+    "Moves": "e8g8 f4e5 d6e5 d5d6 d7b5 d6e7 d8e7 c3b5",
+    "Rating": "1965",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "2265",
+    "Themes": "advancedPawn advantage middlegame trappedPiece veryLong",
+    "GameUrl": "https://lichess.org/DMk1Q2ZR/black#20",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "TvXv1",
+    "FEN": "r1bq1rk1/ppp1npp1/4p2p/4P1N1/3P4/2P3P1/P4PP1/R2QKB1R b KQ - 2 13",
+    "Moves": "h6g5 d1h5 f7f5 e5f6 f8f6 h5h8 g8f7 h8d8",
+    "Rating": "1828",
+    "RatingDeviation": "147",
+    "Popularity": "81",
+    "NbPlays": "19",
+    "Themes": "crushing enPassant kingsideAttack middlegame skewer veryLong",
+    "GameUrl": "https://lichess.org/LmWXyRsx/black#26",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "TvYu8",
+    "FEN": "r4rk1/5pp1/p2R1n1p/Qp6/8/2N4P/PPq2PP1/3R2K1 b - - 3 22",
+    "Moves": "c2b2 d6d2 b2c3 a5c3",
+    "Rating": "1812",
+    "RatingDeviation": "111",
+    "Popularity": "79",
+    "NbPlays": "16",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/pJFfLEjG/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TvZcT",
+    "FEN": "1nrr1bk1/p4ppp/qp1P4/3RN1P1/7P/PQ6/1P3P2/1K1R4 b - - 4 28",
+    "Moves": "b8d7 e5f7 a6c4 b3c4 c8c4 f7d8",
+    "Rating": "1855",
+    "RatingDeviation": "75",
+    "Popularity": "85",
+    "NbPlays": "261",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/WxqKdxWK/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Tva7l",
+    "FEN": "1r2bnk1/5p1p/p3p1pB/3pP2P/Pb1P4/4QP2/2r1N1PK/5R2 w - - 0 29",
+    "Moves": "e3f4 b4d2 f4d2 c2d2",
+    "Rating": "1871",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "400",
+    "Themes": "advantage master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/fewFKXad#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TvalK",
+    "FEN": "2b1r3/pp3ppp/8/3pn1k1/4Q3/4P2N/PPP1K1Bq/R7 b - - 1 25",
+    "Moves": "h2h3 e4f4 g5g6 g2h3",
+    "Rating": "1804",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "101",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/P8LZdrmA/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "TvcOK",
+    "FEN": "r5k1/ppq2ppp/2p3b1/4r2n/1PPp4/P2B1NPP/2Q2KP1/R6R w - - 0 21",
+    "Moves": "f3e5 c7e5 h1e1 e5g3",
+    "Rating": "1991",
+    "RatingDeviation": "131",
+    "Popularity": "-18",
+    "NbPlays": "12",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/rY3SITCi#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Tvcfm",
+    "FEN": "1r4k1/5pp1/1pB1n2p/4P2n/Q2PR3/5q2/P6P/6RK w - - 4 29",
+    "Moves": "g1g2 f3f1 g2g1 h5g3 h2g3 f1h3",
+    "Rating": "1808",
+    "RatingDeviation": "86",
+    "Popularity": "77",
+    "NbPlays": "34",
+    "Themes": "long mate mateIn3 middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/qOgSCG59#57",
+    "OpeningTags": ""
+  }
+]

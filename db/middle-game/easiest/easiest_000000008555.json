@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PLAqv",
+    "FEN": "r3r1k1/1bq1bpp1/p1n2B1p/1p6/2p5/P1P2N2/1PBNQPPP/R3R1K1 b - - 0 17",
+    "Moves": "e7f6 e2e8 a8e8 e1e8",
+    "Rating": "598",
+    "RatingDeviation": "92",
+    "Popularity": "92",
+    "NbPlays": "130",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/VoizoZfv/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "PLBkO",
+    "FEN": "r3kb1r/1bqp1pp1/p1n1p2p/1pP5/1P2P1n1/3BBN2/P1PNQPPP/R4RK1 w kq - 1 11",
+    "Moves": "f3d4 c7h2",
+    "Rating": "887",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "155",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/bLYv5HO1#21",
+    "OpeningTags": "Polish_Defense Polish_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "PLD8y",
+    "FEN": "2r1k1nr/5pb1/2n1b2p/pp1P2p1/4Bp2/2P2N1P/PPN1K1P1/R1B4R b k - 0 16",
+    "Moves": "e6d5 e4d5",
+    "Rating": "833",
+    "RatingDeviation": "132",
+    "Popularity": "63",
+    "NbPlays": "33",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/MqRqqF8w/black#32",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  },
+  {
+    "PuzzleId": "PLDDu",
+    "FEN": "r2q1rk1/2p1bppp/p7/1p1n4/3P4/1P1Q1P1P/PBB2P2/R3R1K1 b - - 1 19",
+    "Moves": "d5b4 d3h7",
+    "Rating": "930",
+    "RatingDeviation": "126",
+    "Popularity": "45",
+    "NbPlays": "28",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/snB6ef4I/black#38",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Closed"
+  },
+  {
+    "PuzzleId": "PLEdN",
+    "FEN": "r4r1k/1pp3qn/1pn1Q2p/4p3/3pP2N/3P4/PPP2PPP/R4RK1 b - - 4 19",
+    "Moves": "a8e8 h4g6 g7g6 e6g6",
+    "Rating": "997",
+    "RatingDeviation": "83",
+    "Popularity": "93",
+    "NbPlays": "464",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/KJhpC0xt/black#38",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "PLFJF",
+    "FEN": "2r3nk/p1bpqp1p/P3p1np/1P2P2B/2Q2P2/2N3P1/1P5P/R4RK1 w - - 3 27",
+    "Moves": "a1c1 c7b6 g1h1 c8c4",
+    "Rating": "957",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "453",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/f83IdQlz#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PLFlz",
+    "FEN": "4r1k1/p1qn1pp1/Ppp1rn1p/3p4/3P4/3B3P/1PPQNPP1/4RRK1 w - - 2 20",
+    "Moves": "e2f4 e6e1 f1e1 e8e1 d2e1 c7f4",
+    "Rating": "981",
+    "RatingDeviation": "78",
+    "Popularity": "83",
+    "NbPlays": "155",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/oULmayxD#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PLHW3",
+    "FEN": "6k1/1ppb3n/5B2/4pP1N/3pP2P/3n4/2r3B1/5RK1 b - - 0 29",
+    "Moves": "h7f6 h5f6 g8f7 f6d7",
+    "Rating": "668",
+    "RatingDeviation": "102",
+    "Popularity": "74",
+    "NbPlays": "271",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Vm5RHVoq/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PLHjf",
+    "FEN": "rn5r/pp2ppkp/2p3p1/q2pNb1P/3P1Q2/2P5/P1P1PPP1/R3KB1R w KQ - 5 13",
+    "Moves": "g2g4 a5c3 f4d2 c3a1",
+    "Rating": "978",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "664",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/oLEh1X6H#25",
+    "OpeningTags": "East_Indian_Defense East_Indian_Defense_Other_variations"
+  }
+]

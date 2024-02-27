@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "U64Yq",
+    "FEN": "1k5r/pp2bRpp/2q5/4p3/2B4P/PP1pn1P1/3QN3/R6K w - - 2 27",
+    "Moves": "h1h2 c6g2",
+    "Rating": "1563",
+    "RatingDeviation": "96",
+    "Popularity": "49",
+    "NbPlays": "195",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/lPpYVJRD#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "U6696",
+    "FEN": "3rk2r/pp2bppp/3p4/1P2p3/3n4/q1NQ4/P1PB1PPP/2RR2K1 b k - 6 19",
+    "Moves": "e8g8 c3d5 a3d3 d5e7 g8h8 c2d3",
+    "Rating": "1526",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "1030",
+    "Themes": "advantage long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/4BTildwE/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Chekhover_Variation"
+  },
+  {
+    "PuzzleId": "U68qZ",
+    "FEN": "r2q1rk1/pp1bbppp/5n2/2p1p1B1/4P3/1BN5/PPP2PPP/R2Q1RK1 w - - 0 12",
+    "Moves": "c3d5 f6d5 d1d5 e7g5",
+    "Rating": "1457",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "233",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/t3tmngeP#23",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "U69qI",
+    "FEN": "3r2k1/6b1/p5p1/6Q1/q2p4/1pn2B2/5PK1/4R3 b - - 1 37",
+    "Moves": "d8d7 g5g6 d7f7 f3c6 a4b4 e1e8 f7f8 g6e6",
+    "Rating": "1524",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "1",
+    "Themes": "equality exposedKing middlegame veryLong",
+    "GameUrl": "https://lichess.org/URiMTWrP/black#74",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "U6BYO",
+    "FEN": "r4rk1/p1q3pp/2pbpp2/3pNb2/N2PPB2/2P4P/PP4P1/R2Q1RK1 b - - 0 15",
+    "Moves": "f6e5 d4e5 d6e5 f4e5 c7e5 e4f5",
+    "Rating": "1509",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "5068",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/0VcaMvxa/black#30",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Apocalypse_Attack"
+  },
+  {
+    "PuzzleId": "U6C3H",
+    "FEN": "r4kr1/ppN2pqp/2n1b3/2b5/2p5/5N2/PP3PPP/R1BQR1K1 w - - 1 14",
+    "Moves": "e1e6 g7g2",
+    "Rating": "1441",
+    "RatingDeviation": "88",
+    "Popularity": "80",
+    "NbPlays": "264",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4TsBGW7T#27",
+    "OpeningTags": "Italian_Game Italian_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "U6CPw",
+    "FEN": "r2qr1k1/4bppp/p1p5/2n1P3/4Q3/4PN1P/PB3PP1/R4RK1 w - - 0 18",
+    "Moves": "e4c6 a8c8 f3d4 c8c6",
+    "Rating": "1466",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "122",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/nJFvYXyi#35",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "U6CuO",
+    "FEN": "3r1knr/p5pp/B1pNpp2/4P3/P3P3/4qP2/4N1PP/3QK2R w K - 4 23",
+    "Moves": "d1d2 e3d2 e1d2 f6e5 d2c3 d8d6",
+    "Rating": "1407",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "510",
+    "Themes": "advantage capturingDefender long middlegame pin",
+    "GameUrl": "https://lichess.org/5RKBZOk8#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "U6DJE",
+    "FEN": "4R1B1/6p1/2Pb2rk/1P2pq2/3pRp1p/3P1Q1P/5Pr1/5K2 w - - 0 41",
+    "Moves": "f3g2 g6g2 f1g2 f5g6 g2f1 g6e8",
+    "Rating": "1491",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "8221",
+    "Themes": "attraction crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/ddarOwFL#81",
+    "OpeningTags": ""
+  }
+]

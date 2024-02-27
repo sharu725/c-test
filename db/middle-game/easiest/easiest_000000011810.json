@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ZDLIV",
+    "FEN": "1r3r1k/pp4bb/3p1p1q/3Bp3/4Pp2/2NP3P/PP4Q1/4R1RK b - - 1 29",
+    "Moves": "h6h4 g2g7",
+    "Rating": "663",
+    "RatingDeviation": "99",
+    "Popularity": "76",
+    "NbPlays": "488",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/j4uWiLQH/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZDMVH",
+    "FEN": "5k1r/3R1pp1/p2P4/2p2P2/3n4/1r3bB1/K6P/6R1 b - - 1 33",
+    "Moves": "f3d5 d7d8",
+    "Rating": "841",
+    "RatingDeviation": "100",
+    "Popularity": "57",
+    "NbPlays": "25",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/nchowtxM/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZDMsC",
+    "FEN": "r1b1k2r/pp2bppp/2N1p2q/2Pp4/Q2P4/3BP3/PP3PPP/R4RK1 b kq - 0 16",
+    "Moves": "b7c6 a4c6 c8d7 c6a8",
+    "Rating": "806",
+    "RatingDeviation": "78",
+    "Popularity": "96",
+    "NbPlays": "716",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/KvDy4crc/black#32",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Other_variations"
+  },
+  {
+    "PuzzleId": "ZDNur",
+    "FEN": "8/1p1rk1bp/2r3p1/8/4pN2/2N5/PP3B1P/1K1R4 w - - 2 32",
+    "Moves": "c3e4 d7d1",
+    "Rating": "759",
+    "RatingDeviation": "87",
+    "Popularity": "70",
+    "NbPlays": "123",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/JtfsAHAi#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZDNxx",
+    "FEN": "r2q1r2/1pp1p1kp/6pQ/3n4/p2P4/8/PPP1NPP1/2KR3R b - - 1 16",
+    "Moves": "g7g8 h6h7",
+    "Rating": "900",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "265",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/dRI70Fej/black#32",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "ZDOVW",
+    "FEN": "5r2/3p3k/b6p/p4q2/3Qp3/1BN2P2/PP4PP/2R2RK1 w - - 1 27",
+    "Moves": "f3e4 f5f1 c1f1 f8f1",
+    "Rating": "721",
+    "RatingDeviation": "90",
+    "Popularity": "97",
+    "NbPlays": "488",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/M2OHiHnJ#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZDObt",
+    "FEN": "r4r1k/4bppp/p2p4/3Qp3/1qN1P3/R7/1PP2PPP/4R1K1 w - - 5 20",
+    "Moves": "a3b3 b4e1",
+    "Rating": "741",
+    "RatingDeviation": "87",
+    "Popularity": "95",
+    "NbPlays": "670",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/vhXrIU2v#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZDSIi",
+    "FEN": "rk4nr/1p1R2p1/p3P3/3B2p1/1b6/8/P4PPP/2R3K1 b - - 4 22",
+    "Moves": "a8a7 d7d8",
+    "Rating": "975",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "312",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/RzcvtsLu/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZDVH5",
+    "FEN": "rB1qk2r/pp3ppp/4pn2/3p4/1b1P4/2NQP3/PP3PPP/R3K1NR b KQkq - 0 9",
+    "Moves": "a8b8 d3b5 f6d7 b5b4",
+    "Rating": "823",
+    "RatingDeviation": "94",
+    "Popularity": "95",
+    "NbPlays": "240",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/UYukbgGH/black#18",
+    "OpeningTags": "Slav_Defense Slav_Defense_Exchange_Variation"
+  }
+]

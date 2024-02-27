@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "BLSeQ",
+    "FEN": "Bn2k2r/p3bpp1/1ppq4/5p1p/P5n1/2N5/1P1PQPPP/R1B1R1K1 w k - 1 16",
+    "Moves": "h2h3 d6h2 g1f1 h2h1",
+    "Rating": "782",
+    "RatingDeviation": "82",
+    "Popularity": "98",
+    "NbPlays": "1293",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/nORwy7QJ#31",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "BLTNO",
+    "FEN": "r4rk1/2q2pp1/3pp2p/p1p4N/PpPnP3/4Q2P/1PP2PP1/1R3RK1 w - - 0 23",
+    "Moves": "e3g3 d4e2 g1h1 e2g3",
+    "Rating": "833",
+    "RatingDeviation": "94",
+    "Popularity": "82",
+    "NbPlays": "172",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/e74aNwlS#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BLUlb",
+    "FEN": "r2q2k1/2p2rpp/p2b4/1p6/8/2P2P1P/P1P2P2/R1BQR1K1 w - - 0 18",
+    "Moves": "d1d5 d6h2 g1h2 d8d5",
+    "Rating": "883",
+    "RatingDeviation": "82",
+    "Popularity": "94",
+    "NbPlays": "92",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/tsNXRF3a#35",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "BLUm4",
+    "FEN": "r3k2r/2p2pp1/p1np1n1p/1p2p3/4P3/2PPBN1q/PPB4N/R5QK b kq - 2 18",
+    "Moves": "f6g4 g1g4 h3g4 h2g4",
+    "Rating": "923",
+    "RatingDeviation": "80",
+    "Popularity": "67",
+    "NbPlays": "345",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/aBmVmVw0/black#36",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "BLVt4",
+    "FEN": "r2qr1kQ/pb3p1p/1p2p1p1/2np2P1/2P2P2/1P2P2R/P3KPB1/7R b - - 2 20",
+    "Moves": "g8h8 h3h7 h8g8 h7h8 g8g7 h1h7",
+    "Rating": "944",
+    "RatingDeviation": "78",
+    "Popularity": "96",
+    "NbPlays": "1359",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/51XhpzhP/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BLXDF",
+    "FEN": "3R4/1p2rpk1/8/8/n4NPR/3P3P/PPr4K/1b6 w - - 1 38",
+    "Moves": "h2g3 e7e3",
+    "Rating": "707",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "138",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/E5l1L0pj#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "BLaUe",
+    "FEN": "rnb4k/pp3Rpn/2pp4/4p2Q/4P3/2PPP2P/P5PK/1Nq5 b - - 2 16",
+    "Moves": "c1e3 f7f8",
+    "Rating": "963",
+    "RatingDeviation": "89",
+    "Popularity": "95",
+    "NbPlays": "131",
+    "Themes": "mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/2HFroDZh/black#32",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "BLbCm",
+    "FEN": "r1b1k2r/1p2nppp/pb1ppq2/8/3nP3/P1NB1N2/1PP2PPP/R1BQ1RK1 w kq - 2 11",
+    "Moves": "c1g5 d4f3 d1f3 f6g5",
+    "Rating": "994",
+    "RatingDeviation": "170",
+    "Popularity": "54",
+    "NbPlays": "13",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/lI4YMUJs#21",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Franco-Sicilian_Variation"
+  },
+  {
+    "PuzzleId": "BLcRj",
+    "FEN": "r4qk1/ppp3pp/3pb3/2b3N1/2P2rn1/1P1Q2N1/PB3PPP/3R1RK1 b - - 5 17",
+    "Moves": "f4f2 d3h7",
+    "Rating": "957",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "524",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/LTcBlpDh/black#34",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  }
+]

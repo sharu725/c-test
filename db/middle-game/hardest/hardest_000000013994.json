@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "T1nAr",
+    "FEN": "r4rk1/p2n1p1p/1ppqppbQ/8/3P2P1/1B3N1P/P1P2P2/1R2R1K1 b - - 4 19",
+    "Moves": "f8d8 h3h4 d6f8 h6f8 d7f8 h4h5",
+    "Rating": "2195",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1673",
+    "Themes": "advantage kingsideAttack long middlegame quietMove",
+    "GameUrl": "https://lichess.org/sYnhEcf3/black#38",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "T1npm",
+    "FEN": "4r2k/pp1b2pp/1q1P4/5p2/5Q2/P7/6PP/1B1RrR1K b - - 5 31",
+    "Moves": "b6e3 d1e1 e3e1 b1f5 g7g5 f4d4 e1e5 d4e5 e8e5 f5d7",
+    "Rating": "2372",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "125",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/PM7dA2w1/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "T1o9T",
+    "FEN": "2r3k1/2rq1pp1/p1N1pn1p/1pRn4/4P3/7P/PPQ2PP1/1BR3K1 b - - 0 28",
+    "Moves": "d5b4 c6e7 d7e7 c5c7 b4c2 c7e7",
+    "Rating": "2115",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "4345",
+    "Themes": "attraction crushing discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/jEvhKsVW/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "T1oTO",
+    "FEN": "2k4r/p2r1pbp/5qp1/1Rp5/Q1P5/P6P/5PP1/5RK1 b - - 5 22",
+    "Moves": "h8d8 f1b1 f6d6 b5c5",
+    "Rating": "2270",
+    "RatingDeviation": "174",
+    "Popularity": "33",
+    "NbPlays": "9",
+    "Themes": "crushing middlegame quietMove short",
+    "GameUrl": "https://lichess.org/EANV109k/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "T1oZm",
+    "FEN": "2r2rk1/ppq2ppp/2n5/8/3Np1b1/R3P3/1PQPBPPP/2B2RK1 b - - 1 13",
+    "Moves": "g4e2 d4e2 c6d4 e2d4 c7c2 d4c2",
+    "Rating": "2011",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "2345",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/ZGOpwW4W/black#26",
+    "OpeningTags": "Anderssens_Opening Anderssens_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "T1shl",
+    "FEN": "r4rk1/p3bpp1/1p1qp2p/4NP2/3P4/4Q3/PP4PP/3R1R1K b - - 0 20",
+    "Moves": "a8c8 f5f6 e7f6 f1f6",
+    "Rating": "2020",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "805",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/jARbIomp/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "T1t6K",
+    "FEN": "r4rk1/8/p2qb2p/1p2b1p1/3pP3/N2Q2P1/PP3PP1/1BR2RK1 w - - 0 25",
+    "Moves": "f2f4 g5f4 g3f4 f8f4 f1f4 e5f4",
+    "Rating": "2277",
+    "RatingDeviation": "83",
+    "Popularity": "81",
+    "NbPlays": "43",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/rgWx7aQA#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "T1tix",
+    "FEN": "2kr4/1ppn2p1/4p1r1/PQ2p1q1/3Pp2p/2P1P2P/R5P1/2B2RK1 b - - 0 21",
+    "Moves": "d7b8 a2b2 e5d4 b5b7",
+    "Rating": "2036",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "110",
+    "Themes": "crushing middlegame quietMove short",
+    "GameUrl": "https://lichess.org/DXWHCVjs/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "T1vB0",
+    "FEN": "rn3rk1/pp3p1R/3pb1p1/q7/4PQ2/2P2N2/P1P2PP1/2KR1B2 b - - 0 15",
+    "Moves": "a5c3 f4h6 f8c8 f1d3 c3a3 c1d2",
+    "Rating": "2329",
+    "RatingDeviation": "79",
+    "Popularity": "85",
+    "NbPlays": "76",
+    "Themes": "crushing long middlegame quietMove",
+    "GameUrl": "https://lichess.org/FYi9ou1J/black#30",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  }
+]

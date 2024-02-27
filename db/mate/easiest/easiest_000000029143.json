@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "uhsmT",
+    "FEN": "rnbqnk1r/p4p2/3N3p/2pQ2p1/1p6/1PR3B1/P3PPPP/4KBNR b K - 0 15",
+    "Moves": "b4c3 d5f7",
+    "Rating": "923",
+    "RatingDeviation": "84",
+    "Popularity": "95",
+    "NbPlays": "293",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/e52kjpUX/black#30",
+    "OpeningTags": "Benko_Gambit Benko_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "uhuFj",
+    "FEN": "3r1r1k/p5bp/5pp1/q2Rp2n/8/1B2Q3/PPP2PPP/R1B3K1 w - - 1 21",
+    "Moves": "d5a5 d8d1 e3e1 d1e1",
+    "Rating": "893",
+    "RatingDeviation": "143",
+    "Popularity": "54",
+    "NbPlays": "13",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/L6QTm0V0#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uhuzJ",
+    "FEN": "3r2k1/1R3ppp/1pp1p3/6P1/1P1N4/r3nP2/7P/4R1K1 b - - 5 29",
+    "Moves": "d8d4 b7b8 d4d8 b8d8",
+    "Rating": "818",
+    "RatingDeviation": "98",
+    "Popularity": "75",
+    "NbPlays": "183",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/ipqkVJvw/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uhwl7",
+    "FEN": "r3k1nr/2qp4/p1b1ppp1/1p6/4P1B1/P1N1B1b1/1PP4P/R2Q1RK1 w kq - 0 18",
+    "Moves": "h2g3 c7g3",
+    "Rating": "809",
+    "RatingDeviation": "95",
+    "Popularity": "87",
+    "NbPlays": "349",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/tflY0h0R#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Katalimov_Variation"
+  },
+  {
+    "PuzzleId": "uhxb2",
+    "FEN": "r1b1k2r/pp1n1pp1/4p2p/2p1P3/2P4B/2P5/P3BPPP/3RK2R b Kkq - 2 13",
+    "Moves": "d7e5 d1d8",
+    "Rating": "609",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "115",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/UFyIvPyI/black#26",
+    "OpeningTags": "Nimzo-Indian_Defense Nimzo-Indian_Defense_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "uhy0r",
+    "FEN": "6R1/r1k2p2/1pbq1Pp1/p1p1p1P1/P1PpP1B1/1P6/4K1Q1/8 b - - 9 50",
+    "Moves": "a7b7 g8c8",
+    "Rating": "755",
+    "RatingDeviation": "95",
+    "Popularity": "94",
+    "NbPlays": "460",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/3bWYDxbz/black#100",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "uhzSE",
+    "FEN": "8/8/R5k1/5p2/3bpB2/3r2P1/4K3/8 b - - 14 56",
+    "Moves": "g6h5 a6h6 h5g4 h6h4",
+    "Rating": "983",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "493",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/zhdRF1N3/black#112",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ui0X9",
+    "FEN": "7k/1p1Q2p1/pN2P1q1/P6p/8/4b1P1/1Pr4P/1R3R1K w - - 2 38",
+    "Moves": "e6e7 g6e4 f1f3 e4f3",
+    "Rating": "985",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "932",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/fY5z7vx4#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ui0d6",
+    "FEN": "8/2qP3R/6Q1/3R4/1P6/5P1P/P1r2k2/7K w - - 1 74",
+    "Moves": "h7f7 c2c1 d5d1 c1d1 g6g1 d1g1",
+    "Rating": "925",
+    "RatingDeviation": "94",
+    "Popularity": "91",
+    "NbPlays": "172",
+    "Themes": "endgame exposedKing long mate mateIn3",
+    "GameUrl": "https://lichess.org/Tk0jhgNV#147",
+    "OpeningTags": ""
+  }
+]

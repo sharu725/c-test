@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HLCT2",
+    "FEN": "r2qk3/1pp2p2/p4P1r/8/8/3B3b/PPPQ1np1/4R1K1 b q - 1 20",
+    "Moves": "e8d7 d3b5 d7c8 d2d8 c8d8 e1e8",
+    "Rating": "2322",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "212",
+    "Themes": "attraction discoveredAttack doubleCheck long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/StnP1HKO/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HLGQ3",
+    "FEN": "6k1/pR4pp/2Qbp1r1/8/2pP1P2/2PqP1P1/r2B3P/1R4K1 b - - 0 30",
+    "Moves": "a2d2 c6e8 d6f8 e8f7 g8h8 f7f8",
+    "Rating": "2322",
+    "RatingDeviation": "83",
+    "Popularity": "90",
+    "NbPlays": "596",
+    "Themes": "deflection kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/crkStXdy/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HLWIu",
+    "FEN": "1k2r1nr/bpp1q1p1/p2pN1Q1/P2P1p2/2B1P3/2N5/1P1B1PP1/R3R1K1 w - - 0 20",
+    "Moves": "e4f5 h8h1 g1h1 e7h4 h1g1 h4f2 g1h2 f2h4",
+    "Rating": "2207",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "5428",
+    "Themes": "attraction fork mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/35XS1KSM#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HLZTa",
+    "FEN": "3rk2N/p1p3pp/2p2q1n/2b5/4P1b1/3Q4/PPP2PPP/RNB2RK1 w - - 1 12",
+    "Moves": "d3c3 f6f2 f1f2 d8d1 c3e1 d1e1",
+    "Rating": "2047",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "3538",
+    "Themes": "fork long mate mateIn3 middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/YeJOcEEh#23",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "HM3Ik",
+    "FEN": "8/p3rp2/Pp5k/2p2RRp/3p3P/8/2P2PPK/4r3 b - - 10 45",
+    "Moves": "e1e4 g5h5 h6g7 f5g5 g7f6 h5h6",
+    "Rating": "2078",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "6706",
+    "Themes": "endgame long mate mateIn3 rookEndgame",
+    "GameUrl": "https://lichess.org/hun5D5pM/black#90",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HM3sv",
+    "FEN": "3N2k1/6P1/6K1/1p6/p7/P1n5/8/8 b - - 1 65",
+    "Moves": "b5b4 d8f7 b4b3 f7h6",
+    "Rating": "2173",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "2473",
+    "Themes": "endgame knightEndgame mate mateIn2 quietMove short",
+    "GameUrl": "https://lichess.org/zy9CT4ZC/black#130",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HM4RL",
+    "FEN": "r4rk1/Bpp2pp1/p2p3p/3Pp3/1PP1P1nn/2N2N1q/P2QBP2/R1R3K1 w - - 1 18",
+    "Moves": "f3h4 h3h2 g1f1 h2h1",
+    "Rating": "2130",
+    "RatingDeviation": "83",
+    "Popularity": "70",
+    "NbPlays": "66",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/ARiIoV3W#35",
+    "OpeningTags": "Mikenas_Defense Mikenas_Defense_Lithuanian_Variation"
+  },
+  {
+    "PuzzleId": "HMFsc",
+    "FEN": "r4r2/pp3pk1/6b1/4N1Q1/8/8/PPq3PP/5R1K b - - 7 27",
+    "Moves": "c2e2 f1f7 f8f7 g5g6 g7h8 e5f7",
+    "Rating": "2082",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "969",
+    "Themes": "attraction long mate mateIn3 middlegame pin",
+    "GameUrl": "https://lichess.org/COzUNvL0/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HMGlQ",
+    "FEN": "rnb1k1nr/pp3ppp/2p5/3PP3/3b3q/8/PPP1K1PP/RNBQ1BNR w kq - 0 7",
+    "Moves": "g1f3 h4e4 e2d2 e4e3",
+    "Rating": "2063",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "4094",
+    "Themes": "mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/mTbPEw1G#13",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit"
+  }
+]

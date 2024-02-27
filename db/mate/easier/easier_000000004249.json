@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "G0kFE",
+    "FEN": "r1b2k1r/pp2qppp/1n1Q4/1B6/8/8/PPP2PPP/1K1RR3 b - - 9 16",
+    "Moves": "e7d6 e1e8",
+    "Rating": "1063",
+    "RatingDeviation": "129",
+    "Popularity": "70",
+    "NbPlays": "47",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/fnsKzbw6/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Taimanov_Variation"
+  },
+  {
+    "PuzzleId": "G0liR",
+    "FEN": "r3r1k1/ppN2ppp/5q2/8/6Q1/2P5/PP3bPP/R1B2RK1 w - - 0 17",
+    "Moves": "f1f2 e8e1 f2f1 e1f1",
+    "Rating": "1162",
+    "RatingDeviation": "87",
+    "Popularity": "54",
+    "NbPlays": "84",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/mSqR9K4R#33",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "G0nOa",
+    "FEN": "r3r1k1/pp1n1ppp/2p5/8/3Pb2q/2N5/PPPB1PP1/R2QR1K1 w - - 0 16",
+    "Moves": "g2g3 h4h1",
+    "Rating": "1100",
+    "RatingDeviation": "154",
+    "Popularity": "89",
+    "NbPlays": "37",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/FH6ROY6f#31",
+    "OpeningTags": "Russian_Game Russian_Game_Classical_Attack"
+  },
+  {
+    "PuzzleId": "G0nOt",
+    "FEN": "2rb3k/p1p4r/2R2p2/8/8/PPQ1PnNq/1B3R1P/7K w - - 6 33",
+    "Moves": "c6f6 h3h2 f2h2 h7h2",
+    "Rating": "1104",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "7818",
+    "Themes": "arabianMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/S4YZBVf2#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G0nUX",
+    "FEN": "r3r1k1/pb2ppbp/5np1/1N1qB3/3p4/3B4/PPP2PPP/R1Q1R1K1 w - - 2 15",
+    "Moves": "b5c7 d5g2",
+    "Rating": "1109",
+    "RatingDeviation": "221",
+    "Popularity": "57",
+    "NbPlays": "6",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/BF7ic8H9#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "G0roc",
+    "FEN": "r5rk/pp6/2b2Nqp/3R4/2p5/2Q5/P1P3PP/6RK w - - 5 31",
+    "Moves": "d5d6 c6g2 g1g2 g6g2",
+    "Rating": "1075",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "192",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/JZHPW6jl#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G0tKc",
+    "FEN": "3R4/r5pk/p6p/r1N5/3P1n2/8/5P1P/4R1K1 w - - 2 36",
+    "Moves": "e1e8 a5a1 e8e1 a1e1",
+    "Rating": "1021",
+    "RatingDeviation": "76",
+    "Popularity": "76",
+    "NbPlays": "268",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/nhTfuiE6#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G0tpf",
+    "FEN": "6r1/p4pkQ/2p1p3/2P4R/1P1q2rp/6P1/P6P/5R1K b - - 1 33",
+    "Moves": "g7f8 h7f7",
+    "Rating": "1170",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "463",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/yn8HqRJy/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "G0vMU",
+    "FEN": "2r3rk/1p3p2/pp3Pp1/4p1Bp/2q1PPPQ/2P4R/PP2b2P/R6K b - - 0 28",
+    "Moves": "e5f4 h4h5 g6h5 h3h5",
+    "Rating": "1143",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "2605",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/qrpFi8ZK/black#56",
+    "OpeningTags": ""
+  }
+]

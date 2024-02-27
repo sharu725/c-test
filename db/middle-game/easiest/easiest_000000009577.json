@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "SSwKW",
+    "FEN": "r4k1r/2pqbp2/p1n3bN/1p6/3PB3/P4Q1P/1P3PP1/3RR1K1 b - - 0 25",
+    "Moves": "g6e4 f3f7",
+    "Rating": "850",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "476",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4GrCPPC4/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "SSyXH",
+    "FEN": "r1bq1rk1/1p2N1bp/1p4p1/4p3/2B1P3/P4P2/1P1nN1P1/R3K2R b KQ - 1 19",
+    "Moves": "g8h8 e7g6",
+    "Rating": "867",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "265",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/AHFpRrqm/black#38",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "SSyY8",
+    "FEN": "5r1k/p4pp1/3qp2p/7R/3P2Q1/2P4P/Pr4B1/5RK1 w - - 2 33",
+    "Moves": "g2e4 d6h2",
+    "Rating": "861",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "179",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/CqZ3BGQG#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ST10f",
+    "FEN": "4r1k1/pp2r1pp/2p2p2/8/1PP5/P2b2Q1/1B3PPP/2RRq1K1 w - - 6 31",
+    "Moves": "d1e1 e7e1 c1e1 e8e1",
+    "Rating": "600",
+    "RatingDeviation": "96",
+    "Popularity": "57",
+    "NbPlays": "43",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/QQcWlGAs#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ST3S8",
+    "FEN": "r1bq1rk1/ppp1n1p1/3p1b1p/3Pp3/2P1N2P/3B1N2/PPQ2PP1/R3K2R b KQ - 0 13",
+    "Moves": "e7g6 e4f6 f8f6 d3g6",
+    "Rating": "726",
+    "RatingDeviation": "80",
+    "Popularity": "94",
+    "NbPlays": "498",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/TqUgqNcc/black#26",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "ST4PH",
+    "FEN": "r7/pp4p1/2p3k1/4p3/4N1b1/3P1P2/PPP1n1Pr/R1B2R1K w - - 0 24",
+    "Moves": "h1h2 a8h8 c1h6 h8h6",
+    "Rating": "907",
+    "RatingDeviation": "86",
+    "Popularity": "91",
+    "NbPlays": "631",
+    "Themes": "anastasiaMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/LTRnV6ge#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ST4lh",
+    "FEN": "r2q1b1r/pp2kppp/4p3/1B2Pb2/3P4/8/P1P3PP/R1BQK2R w KQ - 2 13",
+    "Moves": "h2h4 d8a5 c1d2 a5b5",
+    "Rating": "987",
+    "RatingDeviation": "91",
+    "Popularity": "92",
+    "NbPlays": "399",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/wHVLelno#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "ST4sl",
+    "FEN": "3k1r1N/pp4Qp/1b6/8/2np4/8/P4qPP/3RR2K w - - 1 28",
+    "Moves": "e1e7 f2f1 d1f1 f8f1",
+    "Rating": "904",
+    "RatingDeviation": "80",
+    "Popularity": "89",
+    "NbPlays": "435",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/Ez9BlsvZ#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ST5NM",
+    "FEN": "r3k2r/pp2pp1p/2p1b3/2p4Q/1q2P3/3P3P/PbP2PP1/R1B2KNR w kq - 0 14",
+    "Moves": "c1b2 b4b2",
+    "Rating": "900",
+    "RatingDeviation": "171",
+    "Popularity": "75",
+    "NbPlays": "11",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/amnTev9i#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  }
+]

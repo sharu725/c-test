@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "csUAI",
+    "FEN": "7k/r2qp2n/p2p2Qp/2pP2pN/8/3PP3/1b4PP/5RK1 b - - 3 28",
+    "Moves": "a7a8 f1f7 h7f8 g6h6 h8g8 f7g7 b2g7 h6g7",
+    "Rating": "2110",
+    "RatingDeviation": "135",
+    "Popularity": "85",
+    "NbPlays": "24",
+    "Themes": "exposedKing kingsideAttack mate mateIn4 middlegame veryLong",
+    "GameUrl": "https://lichess.org/lM9TXw55/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "csURG",
+    "FEN": "6rr/1p2kp2/p1pb3q/4pQp1/4P3/P2P2P1/1PP2PB1/R1B2RK1 w - - 3 20",
+    "Moves": "f2f3 d6c5 f1f2 h6h2 g1f1 h2g3",
+    "Rating": "2349",
+    "RatingDeviation": "93",
+    "Popularity": "89",
+    "NbPlays": "457",
+    "Themes": "crushing exposedKing kingsideAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/TI43H0do#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "csUwT",
+    "FEN": "1r4k1/5pp1/2pp1n1p/4q3/PpBbP3/1Pr4P/R3QPP1/2B1R1K1 w - - 0 27",
+    "Moves": "c1b2 c3h3 g2h3 e5g3 g1f1 g3h3",
+    "Rating": "2251",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "171",
+    "Themes": "crushing kingsideAttack long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/gMnEqPR5#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "csWLg",
+    "FEN": "6k1/3b4/p3q1p1/Pp2p1P1/1Pp1Q3/1r2B1R1/4N3/4K3 w - - 8 46",
+    "Moves": "g3g1 d7c6 e2d4 c6e4",
+    "Rating": "2015",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1183",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/qGO2E9xI#91",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "csWbW",
+    "FEN": "1r4k1/p1p2ppp/b7/8/3qN3/P2p1Q2/4rPPP/R1B2R1K w - - 2 25",
+    "Moves": "e4g5 d4a1 f3f7 g8h8 f7h5 h7h6",
+    "Rating": "2166",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "624",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/6Tpu40VL#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "csXIF",
+    "FEN": "r3r1k1/1p2qppp/2pp1n2/p1b2N2/2P2Pn1/PP2PR2/1B1QN1PP/R5K1 b - - 6 18",
+    "Moves": "c5e3 f3e3 e7e3 f5e3",
+    "Rating": "2003",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "109",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/rRoOkJme/black#36",
+    "OpeningTags": "English_Opening English_Opening_Kings_English_Variation"
+  },
+  {
+    "PuzzleId": "csYML",
+    "FEN": "2r1r1k1/ppp2pp1/4q2p/2bNP3/5R1P/5QP1/PPP3K1/5R2 b - - 4 23",
+    "Moves": "e8f8 d5f6 g7f6 f4f6",
+    "Rating": "2064",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "1673",
+    "Themes": "advantage kingsideAttack master middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/9hOoJaJm/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "csYr6",
+    "FEN": "2r2r1k/8/7p/1bPqppp1/p2p4/4RP2/1B1Q2PP/2R3K1 b - - 1 33",
+    "Moves": "c8c5 c1c5 d5c5 e3e5 c5e5 b2d4 e5d4 d2d4",
+    "Rating": "2148",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "981",
+    "Themes": "advantage middlegame pin sacrifice veryLong",
+    "GameUrl": "https://lichess.org/TUCY0DMW/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "csaIw",
+    "FEN": "r1bqkb1r/1p3p2/p1nppn2/7p/3NP1pP/2N3B1/PPPQBPP1/R3K2R w KQkq - 2 12",
+    "Moves": "e1c1 f8h6 g3f4 h6f4 d2f4 c6d4",
+    "Rating": "2251",
+    "RatingDeviation": "82",
+    "Popularity": "84",
+    "NbPlays": "83",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/EUGzHYl3#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Scheveningen_Variation"
+  }
+]

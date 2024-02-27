@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "4PblQ",
+    "FEN": "r1bqr1k1/pp4pp/8/2ppN3/Q2Pn3/8/PP3PPP/RN3RK1 b - - 1 14",
+    "Moves": "d8g5 a4e8",
+    "Rating": "685",
+    "RatingDeviation": "90",
+    "Popularity": "76",
+    "NbPlays": "193",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/gR26vxfx/black#28",
+    "OpeningTags": "Italian_Game Italian_Game_Classical_Variation"
+  },
+  {
+    "PuzzleId": "4Pc3C",
+    "FEN": "2Q4k/6pp/1q6/4p3/3r4/6K1/PP5P/3R4 b - - 1 29",
+    "Moves": "b6d8 c8d8 d4d8 d1d8",
+    "Rating": "764",
+    "RatingDeviation": "97",
+    "Popularity": "83",
+    "NbPlays": "445",
+    "Themes": "backRankMate endgame mate mateIn2 short xRayAttack",
+    "GameUrl": "https://lichess.org/yqiaKYKW/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4PcF2",
+    "FEN": "8/kp6/2p5/KP1p4/8/5R2/8/3r4 b - - 0 41",
+    "Moves": "c6c5 b5b6 a7b8 f3f8",
+    "Rating": "961",
+    "RatingDeviation": "86",
+    "Popularity": "93",
+    "NbPlays": "328",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/ywIwzGd9/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4Pcdn",
+    "FEN": "r3rk2/1p3pbQ/p5p1/1b2PpN1/3P4/P1q1B3/5PPR/4RK2 w - - 12 26",
+    "Moves": "f1g1 c3e1",
+    "Rating": "836",
+    "RatingDeviation": "85",
+    "Popularity": "76",
+    "NbPlays": "90",
+    "Themes": "hangingPiece kingsideAttack master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/vEl630Av#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4Pd7N",
+    "FEN": "6k1/5r2/2R3K1/8/8/8/8/8 b - - 14 71",
+    "Moves": "f7d7 c6c8 d7d8 c8d8",
+    "Rating": "600",
+    "RatingDeviation": "109",
+    "Popularity": "73",
+    "NbPlays": "770",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/IaaXGb1w/black#142",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4Pe03",
+    "FEN": "6Qk/2qb3p/pr4pB/2pPp3/2P1n3/7P/4B1P1/R4RK1 b - - 0 30",
+    "Moves": "h8g8 f1f8",
+    "Rating": "527",
+    "RatingDeviation": "83",
+    "Popularity": "100",
+    "NbPlays": "358",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/25fUShJ2/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4PeNj",
+    "FEN": "3rkbr1/ppp4p/2p5/4P1p1/1Q2qp2/8/PP3PPP/R1B3K1 w - - 0 17",
+    "Moves": "b4e4 d8d1 e4e1 d1e1",
+    "Rating": "598",
+    "RatingDeviation": "100",
+    "Popularity": "59",
+    "NbPlays": "170",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/vOOC1uxI#33",
+    "OpeningTags": "Italian_Game Italian_Game_Rousseau_Gambit"
+  },
+  {
+    "PuzzleId": "4PfXL",
+    "FEN": "3k3r/p1pn2pp/bpB5/7q/4PP2/2b5/PP3QPP/2B3KR w - - 0 20",
+    "Moves": "b2c3 h5d1 f2e1 d1e1",
+    "Rating": "999",
+    "RatingDeviation": "84",
+    "Popularity": "88",
+    "NbPlays": "48",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/U94z52Y7#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4PhQh",
+    "FEN": "r3k2r/p4ppp/1p1Bp1q1/3b4/8/1P2PQ2/P2P1PPP/2R2RK1 w kq - 0 18",
+    "Moves": "f3e2 g6g2",
+    "Rating": "857",
+    "RatingDeviation": "92",
+    "Popularity": "86",
+    "NbPlays": "384",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/uyfaUVVw#35",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Classical_Variation"
+  }
+]

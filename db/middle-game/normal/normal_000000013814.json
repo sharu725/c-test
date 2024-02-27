@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "eMULN",
+    "FEN": "R5k1/1p3p2/7p/1b1PP1p1/5NPb/4BP2/1Pr4r/6K1 b - - 1 35",
+    "Moves": "g8g7 f4h5 g7h7 h5f6 h7g6 a8g8",
+    "Rating": "1382",
+    "RatingDeviation": "76",
+    "Popularity": "84",
+    "NbPlays": "1053",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/xpqTODIW/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eMUmh",
+    "FEN": "2r2k2/1pNRbpp1/p3p3/8/Q4p1r/4q3/PPP5/1K1R4 b - - 3 27",
+    "Moves": "f4f3 d7d8 c8d8 d1d8 e7d8 a4e8",
+    "Rating": "1396",
+    "RatingDeviation": "104",
+    "Popularity": "85",
+    "NbPlays": "35",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/lfl97ZYQ/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eMWAl",
+    "FEN": "r1b2rk1/p3pp1p/1pNq2p1/2nP4/2PQ4/P6P/2R2PP1/4RBK1 b - - 3 28",
+    "Moves": "c8d7 c6e7 d6e7 e1e7",
+    "Rating": "1288",
+    "RatingDeviation": "86",
+    "Popularity": "79",
+    "NbPlays": "35",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/yKW9erou/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eMWOw",
+    "FEN": "1r4k1/5np1/bp2Q3/p5N1/3q4/8/6PP/4R2K b - - 0 33",
+    "Moves": "d4f6 e6e8 b8e8 e1e8",
+    "Rating": "1238",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "868",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/CICgzyBl/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eMXs9",
+    "FEN": "r4rk1/pp3p1p/6p1/n2p1bN1/5P1P/bPPN4/1BQ3P1/qBKR3R b - - 2 19",
+    "Moves": "a3b2 c2b2 a1b2 c1b2",
+    "Rating": "1236",
+    "RatingDeviation": "87",
+    "Popularity": "63",
+    "NbPlays": "37",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/xrnX5wsu/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "eMY3R",
+    "FEN": "r2r4/1b3p1k/2q1p1pB/2p1Pn2/p1P2Q2/6RP/PP3PP1/1B2R1K1 b - - 1 30",
+    "Moves": "f5g3 f4f7 h7h6 f7g6",
+    "Rating": "1317",
+    "RatingDeviation": "141",
+    "Popularity": "85",
+    "NbPlays": "26",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/NLe8sa8m/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eMY3Z",
+    "FEN": "1r4rk/1b4qp/p2pp2b/2p2n2/2PNNP2/1P5P/P2Q1BBK/4RR2 w - - 1 24",
+    "Moves": "d4e6 g7g2",
+    "Rating": "1318",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "1079",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/XFwAEmcd#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "eMaKr",
+    "FEN": "r2q1r1k/4bpp1/p1pp1n1p/1p3P2/2n1BP2/2N4Q/PPP3PP/R1B2RK1 w - - 1 16",
+    "Moves": "e4c6 d8b6 g1h1 b6c6",
+    "Rating": "1291",
+    "RatingDeviation": "78",
+    "Popularity": "28",
+    "NbPlays": "67",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/5H3j2thQ#31",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "eMbCr",
+    "FEN": "r2qr1k1/pQ3ppp/8/2n5/4B3/2PP2P1/P2K1P1P/R6R w - - 1 20",
+    "Moves": "b7a8 c5e4 a8e4 e8e4",
+    "Rating": "1333",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1153",
+    "Themes": "advantage capturingDefender middlegame pin short",
+    "GameUrl": "https://lichess.org/Cfy5jXQt#39",
+    "OpeningTags": ""
+  }
+]

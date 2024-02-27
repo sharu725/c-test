@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "evpmR",
+    "FEN": "1rr3k1/R1q2ppp/5n2/5N2/6P1/2p5/5PP1/Q1R3K1 b - - 3 31",
+    "Moves": "b8b7 a7b7 c7b7 f5d6 b7d7 d6c8",
+    "Rating": "2247",
+    "RatingDeviation": "77",
+    "Popularity": "76",
+    "NbPlays": "67",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/DJKxy4z8/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "evq1n",
+    "FEN": "r2q1rk1/bb3pp1/p1np1n1B/1ppNp3/4P3/P2P1N1P/BPPQ1PP1/R4RK1 b - - 0 15",
+    "Moves": "g7h6 d2h6 f6h7 h3h4",
+    "Rating": "2350",
+    "RatingDeviation": "104",
+    "Popularity": "62",
+    "NbPlays": "22",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/URJ1UtK6/black#30",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Spanish_Variation"
+  },
+  {
+    "PuzzleId": "evqE4",
+    "FEN": "3r2k1/pp3pp1/2n4p/3N1nqP/1P4P1/P3PP2/6K1/3QRB2 w - - 5 38",
+    "Moves": "f3f4 d8d5 f4g5 d5d1 e1d1 f5e3 g2g3 e3d1",
+    "Rating": "2091",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "703",
+    "Themes": "advantage attraction exposedKing fork middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/PCWDgw3z#75",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "evrDC",
+    "FEN": "r3r1k1/5ppp/pqn5/1pbp4/3N1Q2/P1P1BP1P/1P4P1/R4RK1 w - - 1 22",
+    "Moves": "f1e1 e8e3 e1e3 c6d4 c3d4 c5d4",
+    "Rating": "2064",
+    "RatingDeviation": "83",
+    "Popularity": "82",
+    "NbPlays": "63",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/TTV4bjaf#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "evro6",
+    "FEN": "2r5/ppq3kB/8/2B1n1p1/8/1PPQ2nP/P7/3R2K1 w - - 1 30",
+    "Moves": "c5d6 c7b6 d3d4 g3e2 g1f2 e2d4",
+    "Rating": "2038",
+    "RatingDeviation": "82",
+    "Popularity": "95",
+    "NbPlays": "8811",
+    "Themes": "crushing exposedKing fork long master middlegame pin",
+    "GameUrl": "https://lichess.org/aMUEIMbj#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "evrzD",
+    "FEN": "2kr1b1r/ppp4p/3p4/4p3/1PBnPq2/P2P1PN1/2P2P1P/R2Q2RK w - - 3 21",
+    "Moves": "g3e2 f4f3 g1g2 f3e2 d1e2 d4e2",
+    "Rating": "2064",
+    "RatingDeviation": "82",
+    "Popularity": "85",
+    "NbPlays": "39",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/ecnQithu#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "evs4r",
+    "FEN": "rn1qk2r/1p3pbp/p2pbnp1/2pN2B1/2Q1P3/5N2/PPP2PPP/2KR1B1R b kq - 3 10",
+    "Moves": "e8g8 e4e5 e6d5 d1d5",
+    "Rating": "2123",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "776",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/xybwu7Hd/black#20",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "evum3",
+    "FEN": "1kr5/1pr5/4QBp1/pN1p2P1/4bq2/2Pp3P/1R3P2/3R2K1 w - - 9 43",
+    "Moves": "f6e5 f4f3 e5c7 c8c7 e6e8 c7c8 e8e5 b8a8 b5c7 c8c7 e5h8 a8a7",
+    "Rating": "2282",
+    "RatingDeviation": "91",
+    "Popularity": "90",
+    "NbPlays": "345",
+    "Themes": "crushing defensiveMove middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/wHJU09Rr#85",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "evvKF",
+    "FEN": "5q1k/pp2b1pp/2n3r1/2p1pr2/4QnN1/2P1BN1P/PP3PP1/R3RK2 b - - 11 23",
+    "Moves": "h7h5 g4e5 c6e5 f3e5",
+    "Rating": "2118",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "107",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/2Y9GsnBh/black#46",
+    "OpeningTags": ""
+  }
+]

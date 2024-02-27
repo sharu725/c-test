@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "rMNyY",
+    "FEN": "2r3k1/Q4ppp/8/4N3/5q2/5R2/2br1PPP/4R1K1 b - - 2 31",
+    "Moves": "f4e5 a7f7 g8h8 f7f8 c8f8 f3f8",
+    "Rating": "1347",
+    "RatingDeviation": "82",
+    "Popularity": "71",
+    "NbPlays": "173",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/EtG64uqt/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rMQpg",
+    "FEN": "1r6/5pkb/pr2p2p/1P2P3/2p1NP2/8/6BP/1RR3K1 w - - 0 44",
+    "Moves": "e4f6 h7b1 f6d7 b6b5 d7b8 b5b8",
+    "Rating": "1345",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "905",
+    "Themes": "advantage capturingDefender long middlegame",
+    "GameUrl": "https://lichess.org/zK6PnqvY#87",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rMR0a",
+    "FEN": "r2q2k1/4pp1p/3p2p1/2n5/8/rPN1P2P/P3QPP1/R3R1K1 w - - 3 23",
+    "Moves": "e1c1 c5b3 a2b3 a3a1 c1a1 a8a1",
+    "Rating": "1362",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "430",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/e1A07FjB#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rMRGZ",
+    "FEN": "7r/pp1rkppp/2n5/1q2P3/Q1b5/5N2/PP3PPP/R1R3K1 w - - 0 21",
+    "Moves": "a4c4 d7d1 c1d1 b5c4",
+    "Rating": "1271",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "8982",
+    "Themes": "advantage deflection master middlegame short",
+    "GameUrl": "https://lichess.org/ae8JTUBF#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rMRT7",
+    "FEN": "r3k2r/p4ppp/2p2n2/n1b5/B2q1p2/5Q1P/PPPP2P1/RNB1K2R w KQkq - 1 13",
+    "Moves": "c2c3 d4a4",
+    "Rating": "1313",
+    "RatingDeviation": "113",
+    "Popularity": "60",
+    "NbPlays": "27",
+    "Themes": "advantage hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/5PiO3HDq#25",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  },
+  {
+    "PuzzleId": "rMSO9",
+    "FEN": "2r5/pp6/1qk1b1Q1/3p3p/8/1PP5/1P3nPP/RNB2R1K w - - 3 24",
+    "Moves": "h1g1 f2h3 g1h1 b6g1 f1g1 h3f2",
+    "Rating": "1393",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "3437",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice smotheredMate",
+    "GameUrl": "https://lichess.org/Dk6EYGmN#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rMSbr",
+    "FEN": "r1b1k1r1/1p1p1pb1/p3p2p/2p2p2/P1N1P1q1/3PQN2/1PP2PPP/R3R1K1 w q - 0 17",
+    "Moves": "e4f5 g7d4 g2g3 d4e3",
+    "Rating": "1213",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "7761",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/pLLrdvDL#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "rMSxV",
+    "FEN": "5k1r/pbr2p2/5p2/3q4/3p2BN/2P3P1/PP1Q1P2/R3R1K1 w - - 2 26",
+    "Moves": "g4f3 d5f3 h4f3 b7f3 e1e8 f8e8 d2e2 f3e2",
+    "Rating": "1273",
+    "RatingDeviation": "299",
+    "Popularity": "-100",
+    "NbPlays": "3",
+    "Themes": "crushing middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/XGyumoxh#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "rMU2E",
+    "FEN": "r2qkr2/ppp2p1Q/5b2/3Pp3/8/7P/PPP3P1/R1B2RK1 w q - 0 19",
+    "Moves": "c1h6 f8h8 h7e4 h8h6",
+    "Rating": "1254",
+    "RatingDeviation": "92",
+    "Popularity": "75",
+    "NbPlays": "31",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/wHvycQgE#37",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "JEuYx",
+    "FEN": "r2qk2r/1bp2ppp/pp1bp3/4N3/3PpP2/P3P2P/1PPBQ1P1/R3K2R b KQkq - 1 13",
+    "Moves": "f7f6 e2h5 g7g6 e5g6 h7g6 h5h8",
+    "Rating": "1212",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1888",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/pDMqlUQh/black#26",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "JEvSf",
+    "FEN": "r6r/ppp1k1bp/2np1R2/6q1/3PP1b1/2N5/PPP3PP/R1B2QK1 b - - 0 12",
+    "Moves": "g5f6 c3d5 e7e6 d5f6",
+    "Rating": "1303",
+    "RatingDeviation": "150",
+    "Popularity": "50",
+    "NbPlays": "16",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/UM3mFqWM/black#24",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  },
+  {
+    "PuzzleId": "JEvxa",
+    "FEN": "r3kb1r/1p3ppp/3p4/pq1np3/2P5/1P2BN2/P4PPP/R2QK2R b KQkq - 0 14",
+    "Moves": "b5b4 e3d2 b4c5 c4d5",
+    "Rating": "1397",
+    "RatingDeviation": "77",
+    "Popularity": "73",
+    "NbPlays": "98",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/ZsIszl3o/black#28",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "JEwRP",
+    "FEN": "5q1k/7p/6p1/1Q1N3n/3bP3/1P1p1P2/1Pr3PP/2R2R1K w - - 1 32",
+    "Moves": "b5d3 h5g3 h2g3 f8h6",
+    "Rating": "1354",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "1276",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/t2VF3Awm#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JEyrd",
+    "FEN": "3r3k/p1pnqpbp/1p2p3/6N1/P1N3Q1/7P/1P3PP1/3R2K1 b - - 5 25",
+    "Moves": "d7e5 d1d8 e7d8 c4e5",
+    "Rating": "1248",
+    "RatingDeviation": "226",
+    "Popularity": "-100",
+    "NbPlays": "5",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/Hs5wmGbA/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JF16N",
+    "FEN": "k2rr3/p1p3Qp/2p5/3p4/P5n1/B1P1q3/6PP/1R5K b - - 9 27",
+    "Moves": "g4h2 g7c7 e3b6 b1b6",
+    "Rating": "1379",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "182",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/vLSDhyAx/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JF18Y",
+    "FEN": "r3k2r/bpq2ppp/p3p3/1P1Nn3/P4Q2/8/1BP2PPP/R3K2R b KQkq - 0 15",
+    "Moves": "e5d3 c2d3 c7f4 d5f4",
+    "Rating": "1393",
+    "RatingDeviation": "91",
+    "Popularity": "83",
+    "NbPlays": "26",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/ylZ3688C/black#30",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "JF1QV",
+    "FEN": "r5k1/1pq3b1/p2p2Q1/2pP2p1/b1P1R3/8/1P3PPP/4R1K1 b - - 1 25",
+    "Moves": "a4c2 e4e8 a8e8 e1e8",
+    "Rating": "1296",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "8831",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/h9yktvRG/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "JF5V1",
+    "FEN": "2r2rk1/pp1n1pbp/1q2bnp1/4p3/Q7/1N2PN2/PP2BPPP/R1B2RK1 b - - 9 14",
+    "Moves": "f6e4 a4e4 e6b3 a2b3",
+    "Rating": "1274",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "753",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/GbSPaYcm/black#28",
+    "OpeningTags": "Neo-Grunfeld_Defense Neo-Grunfeld_Defense_Non-_or_Delayed_Fianchetto"
+  }
+]

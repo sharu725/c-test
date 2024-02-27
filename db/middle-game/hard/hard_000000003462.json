@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "91whE",
+    "FEN": "1k2r3/ppp2p2/6pQ/4q3/5r2/1P1B1P2/P1P2PKP/R6R w - - 0 24",
+    "Moves": "d3e4 e8h8 h6h8 e5h8",
+    "Rating": "1628",
+    "RatingDeviation": "76",
+    "Popularity": "57",
+    "NbPlays": "392",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/0NY2vJZy#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "91wwG",
+    "FEN": "r2qbr2/2p3pk/p3pb1p/1p5P/3PNBQ1/4P3/PPP2P2/R3K1R1 w Q - 1 22",
+    "Moves": "f4c7 d8c7 e4f6 f8f6 g4e4 f6f5 e4a8 c7c2",
+    "Rating": "1607",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/qLgVBPoW#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "91xqJ",
+    "FEN": "q4rk1/2p3pp/2n2R2/1pP3N1/1P2Qp2/8/P2r2PP/4R1K1 b - - 1 24",
+    "Moves": "f8f6 e4h7 g8f8 h7h8",
+    "Rating": "1742",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "225",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/SNtxatQO/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "91za1",
+    "FEN": "2k4r/1pp3pp/p3bP2/8/3n3N/2rP2B1/2P3PP/2KRR3 w - - 1 23",
+    "Moves": "g3e5 c3c2 c1b1 e6a2 b1a1 d4b3",
+    "Rating": "1686",
+    "RatingDeviation": "79",
+    "Popularity": "73",
+    "NbPlays": "43",
+    "Themes": "long mate mateIn3 middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/PaKpyWIn#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "91zl4",
+    "FEN": "r2q1rk1/p3bppp/B1p1bn2/8/3P1B2/P1p2N2/1PQ2PPP/R3K2R w KQ - 0 15",
+    "Moves": "c2c3 f6d5 c3d2 d5f4",
+    "Rating": "1791",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1257",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/3FkianGJ#29",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "920TO",
+    "FEN": "r1bq2kQ/p2nb1p1/1p2p3/2ppP1P1/5r2/2P1P3/PP3PP1/R3K2R b KQ - 1 16",
+    "Moves": "g8f7 g5g6 f7g6 h8h5",
+    "Rating": "1785",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "1286",
+    "Themes": "attraction mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/8c4aGIwX/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "9211R",
+    "FEN": "r1bqr1k1/p2p1pbp/2p1p1p1/2B1P3/2B2n2/2N5/PPP2PPP/R2QR1K1 w - - 3 13",
+    "Moves": "d1d2 d8g5 d2f4 g5f4",
+    "Rating": "1671",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "152",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ymvIVpMU#25",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "921Wo",
+    "FEN": "r1b1qrk1/ppp3p1/3b3p/3p1pN1/4p3/2P1P1PQ/PP2BPP1/2KR3R b - - 1 17",
+    "Moves": "h6g5 h3h7 g8f7 e2h5 f7f6 h5e8",
+    "Rating": "1741",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "122",
+    "Themes": "advantage kingsideAttack long middlegame skewer",
+    "GameUrl": "https://lichess.org/vWgtWDJu/black#34",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "922nR",
+    "FEN": "r3k2r/pppnqpp1/1b3n2/4P1Bp/8/2N2b2/PP2BPPP/R2Q1RK1 w kq - 0 13",
+    "Moves": "g5f6 f3e2 f6e7 e2d1",
+    "Rating": "1621",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "999",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/1VZl08U6#25",
+    "OpeningTags": "Russian_Game Russian_Game_Other_variations"
+  }
+]

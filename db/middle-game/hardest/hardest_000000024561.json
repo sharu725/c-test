@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "onjon",
+    "FEN": "3rk2r/pp2bpp1/2bppn1p/q7/4P2B/2N2N2/PPPQ1PPP/1K1RR3 b k - 1 13",
+    "Moves": "e8g8 c3d5 a5d5 e4d5",
+    "Rating": "2009",
+    "RatingDeviation": "82",
+    "Popularity": "85",
+    "NbPlays": "40",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/w8QgCkar/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Chekhover_Variation"
+  },
+  {
+    "PuzzleId": "onmDs",
+    "FEN": "r3q3/pp3pkp/2nprnp1/1N2p3/4P3/5N1P/PP1Q1PP1/1R2R1K1 b - - 3 16",
+    "Moves": "c6d4 f3d4 e5d4 b5c7",
+    "Rating": "2099",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "710",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/fBYm6XEZ/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "onn4H",
+    "FEN": "3q2rk/1p3nrp/5p2/p2P2PQ/P1p1P3/5PR1/1P6/1B4RK b - - 2 36",
+    "Moves": "f7g5 e4e5 d8e8 h5e8",
+    "Rating": "2317",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1773",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/OtN1YXfj/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "onoNI",
+    "FEN": "3r2k1/pp3pp1/1b1q1np1/6B1/2Q3PN/P2p3P/1PP2P2/4R1K1 w - - 0 23",
+    "Moves": "c4d3 b6f2 g1f2 d6h2 h4g2 d8d3",
+    "Rating": "2011",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "8862",
+    "Themes": "advantage attraction discoveredAttack kingsideAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/otGkXJqy#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ononm",
+    "FEN": "2k2b2/pp3pp1/2p1p2r/3rP2p/1P1q1P2/P3B3/2P1Q1PP/R2R3K b - - 3 18",
+    "Moves": "d4e4 c2c4 d5d1 a1d1",
+    "Rating": "2156",
+    "RatingDeviation": "74",
+    "Popularity": "80",
+    "NbPlays": "116",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/ABh3umnz/black#36",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "onpPu",
+    "FEN": "r4rk1/p5p1/2pb1p2/1p1p1QnR/8/1PP1qP2/PB4P1/1K5R b - - 1 25",
+    "Moves": "f8d8 b2c1 e3e6 f5g6 g5f7 h5h7",
+    "Rating": "2160",
+    "RatingDeviation": "209",
+    "Popularity": "33",
+    "NbPlays": "6",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/PCTQNRrw/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "onqTC",
+    "FEN": "rn2r1k1/pp2ppb1/3p2pB/3P3p/4q2P/5B2/PP1Q1PP1/R3R1K1 b - - 0 16",
+    "Moves": "e4h4 h6g7 g8g7 e1e4 h4f6 e4f4",
+    "Rating": "2375",
+    "RatingDeviation": "99",
+    "Popularity": "52",
+    "NbPlays": "25",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/LZe1Auk1/black#32",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "onsXf",
+    "FEN": "2r2rk1/1b1p1p2/pq2p1pQ/1p4P1/6p1/3P1N2/PP1NKP2/7R b - - 3 25",
+    "Moves": "b7f3 d2f3 g4f3 e2d1 c8c1 d1c1",
+    "Rating": "2094",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "113",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/fPu3N7PB/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ontT8",
+    "FEN": "2rr4/2p2pkp/Np2p1p1/3b1n2/PP6/2PB4/5PPP/R3R1K1 b - - 0 22",
+    "Moves": "d5g2 d3f5 g2b7 f5e4 b7a6 b4b5 a6b5 a4b5",
+    "Rating": "2351",
+    "RatingDeviation": "81",
+    "Popularity": "84",
+    "NbPlays": "72",
+    "Themes": "advantage middlegame trappedPiece veryLong",
+    "GameUrl": "https://lichess.org/pIxeg9ca/black#44",
+    "OpeningTags": ""
+  }
+]

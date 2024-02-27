@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HNZTv",
+    "FEN": "1r4k1/p4ppp/4p3/1Q6/2r5/7P/5PP1/R2R2K1 b - - 0 25",
+    "Moves": "b8b5 d1d8",
+    "Rating": "600",
+    "RatingDeviation": "104",
+    "Popularity": "59",
+    "NbPlays": "280",
+    "Themes": "backRankMate endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/WD68MfE1/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HNaHi",
+    "FEN": "8/1k6/p1p4p/6p1/2PB4/1P1rp3/4r1PP/4R1K1 w - - 0 32",
+    "Moves": "e1e2 d3d1 e2e1 d1e1",
+    "Rating": "667",
+    "RatingDeviation": "98",
+    "Popularity": "68",
+    "NbPlays": "117",
+    "Themes": "endgame fork mate mateIn2 short",
+    "GameUrl": "https://lichess.org/K0rfuGEN#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HNamk",
+    "FEN": "2r4k/pp1b2Rp/3qp1pP/3pQ1N1/6P1/P2P4/1P2NP2/5K2 b - - 0 32",
+    "Moves": "d6e5 g5f7",
+    "Rating": "816",
+    "RatingDeviation": "79",
+    "Popularity": "99",
+    "NbPlays": "1299",
+    "Themes": "endgame master masterVsMaster mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/hnWmDCIZ/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HNbMk",
+    "FEN": "r1b3k1/ppq4p/6pB/3Qbp2/8/8/PP4PP/3R3K b - - 1 23",
+    "Moves": "c7f7 d5d8 f7e8 d8e8",
+    "Rating": "812",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "99",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/G5XcZgt9/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HNcf5",
+    "FEN": "r4rk1/1p3ppp/p7/2pN4/P4BP1/3P2bq/1PP2P2/R2Q1R1K w - - 3 20",
+    "Moves": "h1g1 h3h2",
+    "Rating": "914",
+    "RatingDeviation": "81",
+    "Popularity": "95",
+    "NbPlays": "273",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/f18GeWt8#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HNciV",
+    "FEN": "r2q2k1/pbp1b1p1/1p1pP2n/4pp1Q/2P4P/2NnP1R1/PP1K1PP1/R7 b - - 1 18",
+    "Moves": "g8h7 h5g6 h7h8 g6g7",
+    "Rating": "883",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "1561",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/MA6QRXXO/black#36",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Queens_Knight_Variation"
+  },
+  {
+    "PuzzleId": "HNdvG",
+    "FEN": "r3r1k1/p3q1pp/1p3n2/2Pp1bB1/3P4/NQ6/PP3PPP/R4RK1 w - - 0 19",
+    "Moves": "f1e1 e7e1 a1e1 e8e1",
+    "Rating": "565",
+    "RatingDeviation": "83",
+    "Popularity": "100",
+    "NbPlays": "56",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/y8MucwiC#37",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HNe0z",
+    "FEN": "2krr3/pp1nqp2/2p4p/3p2p1/P1NPP3/5Q2/1P3PPP/R3R1K1 w - - 0 18",
+    "Moves": "e4d5 e7e1 a1e1 e8e1",
+    "Rating": "703",
+    "RatingDeviation": "93",
+    "Popularity": "71",
+    "NbPlays": "72",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/pNsLdmx6#35",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "HNeoX",
+    "FEN": "r6r/p1p2pk1/1p2p1p1/6q1/P2PQ3/R1P2R2/2P2PPP/6K1 w - - 3 24",
+    "Moves": "c3c4 g5c1 e4e1 c1e1",
+    "Rating": "756",
+    "RatingDeviation": "82",
+    "Popularity": "90",
+    "NbPlays": "400",
+    "Themes": "endgame kingsideAttack mate mateIn2 short",
+    "GameUrl": "https://lichess.org/Iu7ZShLE#47",
+    "OpeningTags": ""
+  }
+]

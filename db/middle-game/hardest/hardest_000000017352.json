@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ZwMbE",
+    "FEN": "5r1k/pQ4pp/3b4/8/3P4/P1B2pPq/1P2rP1P/2R3RK w - - 1 27",
+    "Moves": "c1f1 e2e7 b7a6 f8f6",
+    "Rating": "2199",
+    "RatingDeviation": "160",
+    "Popularity": "-50",
+    "NbPlays": "15",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/mknZJxGR#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZwPJ6",
+    "FEN": "2r1r1k1/pQ1R1Rpp/1p2p3/2b1q3/8/1B5P/P4PP1/6K1 b - - 2 27",
+    "Moves": "c5e7 f7e7 c8c1 d7d1 c1d1 b3d1 e5e1 g1h2 e8e7 b7e7",
+    "Rating": "2289",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "142",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/eWZXjGY4/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZwQRH",
+    "FEN": "2k1r2r/ppp3p1/3p2q1/3n1p2/3P4/P4Bn1/1P3PPN/R2QR1K1 w - - 0 23",
+    "Moves": "e1e8 g6e8 f2g3 e8e3 g1h1 e3h6",
+    "Rating": "2116",
+    "RatingDeviation": "78",
+    "Popularity": "84",
+    "NbPlays": "59",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/v6ciaZIu#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZwQqG",
+    "FEN": "r1b1n2k/pp1r1p1p/4p2q/3p2NB/3P3Q/4P3/P4P1P/R4R1K b - - 0 24",
+    "Moves": "e8g7 g5f7 d7f7 h4d8 g7e8 h5f7",
+    "Rating": "2285",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "242",
+    "Themes": "crushing fork intermezzo long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/aFmPNN2Q/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZwQva",
+    "FEN": "r5k1/pb4pp/1p1p1q2/2p5/3n3P/3P4/PPPQBP2/2K3RR w - - 0 20",
+    "Moves": "h1h3 f6f2 g1e1 a8e8",
+    "Rating": "2045",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1703",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/qumiBgX0#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZwRDD",
+    "FEN": "r4rk1/ppp1qpp1/3p3p/4nP2/5Pn1/2NB4/PPP3PP/R2Q1RK1 b - - 0 14",
+    "Moves": "g4h2 f5f6 e7f6 f4e5 f6h4 d1e1 h4e1 f1e1",
+    "Rating": "2356",
+    "RatingDeviation": "89",
+    "Popularity": "81",
+    "NbPlays": "59",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/oOhfhn11/black#28",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "ZwRnA",
+    "FEN": "r4r2/pbpN1kpQ/1p2pp1p/6q1/3P3P/2P3P1/PPB1nP1K/R4R2 b - - 2 23",
+    "Moves": "g5d5 c2g6 f7e7 h7g7 e7d6 f2f3",
+    "Rating": "2197",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "819",
+    "Themes": "crushing defensiveMove deflection long middlegame",
+    "GameUrl": "https://lichess.org/Rhm2J9CA/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZwT8Z",
+    "FEN": "r3k1r1/p3q3/1n2Pb2/3p2B1/b1pP4/2P2NN1/P2Q1R2/4R1K1 w q - 1 27",
+    "Moves": "e1f1 f6g5 f3g5 e7g5 d2g5 g8g5",
+    "Rating": "2189",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "110",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/Q7yeMc3s#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZwTg2",
+    "FEN": "2kr3r/p1p2pp1/1p3nqp/8/2Q5/2P1BP2/P4P1P/1R3R1K w - - 0 18",
+    "Moves": "e3b6 a7b6 c4a6 c8d7 a6a4 d7e7",
+    "Rating": "2125",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1033",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/ueKgASE4#35",
+    "OpeningTags": "Scotch_Game Scotch_Game_Goring_Gambit"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "v2Coq",
+    "FEN": "2kr3r/pp1n1ppp/2p5/2b2P2/2B1QBP1/3P3P/P1q5/1R3R1K b - - 2 22",
+    "Moves": "h8e8 e4c6 b7c6 c4a6",
+    "Rating": "1922",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "6288",
+    "Themes": "mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/owvoKkMl/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "v2Gfn",
+    "FEN": "r3k1nr/1p2qpp1/p3p2p/3pP3/1P1b4/P6P/R3QPPN/1N3R1K b kq - 3 18",
+    "Moves": "e7g5 h2f3 g5f4 g2g3 f4f5 f3d4",
+    "Rating": "1819",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1893",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/AiEAZeup/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "v2HWx",
+    "FEN": "r6r/1pp1k1pp/1bn2n2/pQ1ppqN1/PP6/2PP4/3N1PPP/R1B2RK1 w - - 1 15",
+    "Moves": "d2f3 c6a7 b5b6 c7b6",
+    "Rating": "1978",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "860",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/h6A1Jmoc#29",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Piano"
+  },
+  {
+    "PuzzleId": "v2IQF",
+    "FEN": "r4rk1/pp3pbp/2p3p1/4p3/3nP2B/P1NPn2P/BP3RP1/5RK1 w - - 2 21",
+    "Moves": "f2f7 e3f1 f7f1 g8h8",
+    "Rating": "1859",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1333",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/xINIG1MU#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "v2ISK",
+    "FEN": "r4rk1/p1b2pp1/1pnq3p/3p3b/1P2n3/P3PN1P/2QNBPP1/R1B2RK1 w - - 1 17",
+    "Moves": "c1b2 e4d2 c2d2 h5f3",
+    "Rating": "1994",
+    "RatingDeviation": "75",
+    "Popularity": "97",
+    "NbPlays": "280",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/UcIoB2Pe#33",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "v2IlG",
+    "FEN": "r1b2r2/pp2Nkb1/8/2p1B1p1/2n4p/7P/qP2QPP1/2KR1BNR w - - 0 20",
+    "Moves": "e2f3 f7e7 f1c4 a2c4 f3c3 c4c3",
+    "Rating": "1849",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "1299",
+    "Themes": "advantage hangingPiece long middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/iBTmPv29#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "v2Jfd",
+    "FEN": "r4q1k/pbpp1ppp/1pn5/3QPP2/2B1P3/2P5/P1P3PP/R4RK1 w - - 2 15",
+    "Moves": "d5f7 f8c5 g1h1 c6e5",
+    "Rating": "1862",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "76",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/sNlGchPp#29",
+    "OpeningTags": "Vienna_Game Vienna_Game_Anderssen_Defense"
+  },
+  {
+    "PuzzleId": "v2KCA",
+    "FEN": "2k2b1r/pppr1p2/2n1p1p1/1N1n1b1p/2B5/3PBP2/PPP1N1PP/2K1R2R w - - 3 15",
+    "Moves": "e2d4 d5e3 d4c6 b7c6",
+    "Rating": "1911",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "8158",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ESx00SDr#29",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Gubinsky-Melts_Defense"
+  },
+  {
+    "PuzzleId": "v2LHt",
+    "FEN": "2k2nr1/pp6/2B5/4r1qP/2Q4b/P3P3/1P4P1/R4RK1 b - - 0 27",
+    "Moves": "e5c5 f1f8 g8f8 c4e6 c8b8 e6d6 b8a8 d6f8",
+    "Rating": "1872",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "7697",
+    "Themes": "crushing fork middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/p2xBHiZX/black#54",
+    "OpeningTags": ""
+  }
+]

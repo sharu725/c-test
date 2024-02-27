@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "100Q2",
+    "FEN": "1r3rk1/p1q2ppp/p3p3/2p2n2/3P2P1/1P1Q1P2/P3N3/R3K2R b KQ - 0 22",
+    "Moves": "f5g3 d3h7",
+    "Rating": "777",
+    "RatingDeviation": "81",
+    "Popularity": "100",
+    "NbPlays": "104",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/6tke1MwD/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "100t9",
+    "FEN": "r4rk1/1b3pp1/p1Nqp2p/1p1B4/3P4/8/PPQ2PPP/2R1R1K1 b - - 0 21",
+    "Moves": "d6d5 c6e7 g8h8 e7d5",
+    "Rating": "966",
+    "RatingDeviation": "85",
+    "Popularity": "84",
+    "NbPlays": "233",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/AHrjvtBG/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "101e5",
+    "FEN": "r3k2r/pp3ppp/2n2b2/qB2pP2/3pN3/8/PPPQ1PPP/R3K2R b KQkq - 3 13",
+    "Moves": "a5b5 e4d6 e8e7 d6b5",
+    "Rating": "907",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "153",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/yFP8zTkt/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "102St",
+    "FEN": "4r1rk/2qb2pp/p1Nbp3/1p3p2/2pPpP1N/P1P1P1P1/1P1B2QP/R4RK1 b - - 0 19",
+    "Moves": "d7c6 h4g6 h7g6 g2h3",
+    "Rating": "986",
+    "RatingDeviation": "80",
+    "Popularity": "86",
+    "NbPlays": "101",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/711MXraA/black#38",
+    "OpeningTags": "Bird_Opening Bird_Opening_Lasker_Variation"
+  },
+  {
+    "PuzzleId": "102k0",
+    "FEN": "r2q1rk1/pp4p1/4P2p/3p1Pn1/2p4b/2PQ1P2/P1B1R2P/R1B3K1 w - - 0 21",
+    "Moves": "d3d4 g5f3 g1h1 f3d4",
+    "Rating": "974",
+    "RatingDeviation": "104",
+    "Popularity": "95",
+    "NbPlays": "239",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/DzshkeBf#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "104Ex",
+    "FEN": "1r3r2/5pk1/1pRq1npp/1B4Q1/P2P4/5P2/1P2NKPP/R7 b - - 0 24",
+    "Moves": "h6g5 c6d6",
+    "Rating": "694",
+    "RatingDeviation": "92",
+    "Popularity": "75",
+    "NbPlays": "91",
+    "Themes": "crushing hangingPiece middlegame oneMove",
+    "GameUrl": "https://lichess.org/JAtq3vke/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "104TD",
+    "FEN": "2kr1b1r/ppp2p1p/5p2/3pQ3/1q1P4/8/PPP2PPP/RN2R1K1 w - - 0 13",
+    "Moves": "e5f6 b4e1",
+    "Rating": "667",
+    "RatingDeviation": "90",
+    "Popularity": "87",
+    "NbPlays": "300",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/dvSrxSv9#25",
+    "OpeningTags": "Englund_Gambit_Declined Englund_Gambit_Declined_Reversed_French"
+  },
+  {
+    "PuzzleId": "107bN",
+    "FEN": "1k1r3B/ppp2Q1p/3bB2n/8/4p3/1P5b/P1PP1PqP/RN2KR2 w Q - 3 15",
+    "Moves": "f7f6 g2f1",
+    "Rating": "856",
+    "RatingDeviation": "91",
+    "Popularity": "96",
+    "NbPlays": "670",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/9qkRf0RR#29",
+    "OpeningTags": "Kings_Pawn_Opening Kings_Pawn_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "107bq",
+    "FEN": "r4rk1/pp3pp1/2pp1n1p/4p3/2PnP3/2NP1BPq/PP3P1P/R2QK2R w KQ - 0 15",
+    "Moves": "c3e2 d4f3",
+    "Rating": "975",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "582",
+    "Themes": "hangingPiece mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/UiUQ3Vbm#29",
+    "OpeningTags": "English_Opening English_Opening_The_Whale"
+  }
+]

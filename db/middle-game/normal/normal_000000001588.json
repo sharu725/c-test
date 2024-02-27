@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "4dkE0",
+    "FEN": "r3k3/pp1qbpp1/3p1np1/2pP2B1/8/2N2N1r/PPP1QP2/R3R1K1 w q - 2 15",
+    "Moves": "g5f6 d7g4 g1f1 h3h1 f3g1 g4g1",
+    "Rating": "1260",
+    "RatingDeviation": "78",
+    "Popularity": "68",
+    "NbPlays": "72",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/Vx9ncta2#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Franco-Sicilian_Variation"
+  },
+  {
+    "PuzzleId": "4dkJU",
+    "FEN": "2rq1rk1/5pp1/p1n1p2p/1p1pPn2/3P4/4B2P/PP1QBPP1/2R2RK1 b - - 1 17",
+    "Moves": "c6a5 c1c8 d8c8 d2a5",
+    "Rating": "1264",
+    "RatingDeviation": "77",
+    "Popularity": "80",
+    "NbPlays": "184",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/F0rwCy23/black#34",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "4dm3P",
+    "FEN": "r2qr1k1/ppp2p2/3p2pp/3Nbb2/2PnN3/P2B3P/1P1Q1PP1/3RR1K1 b - - 7 22",
+    "Moves": "c7c6 e4f6 d8f6 d5f6",
+    "Rating": "1254",
+    "RatingDeviation": "76",
+    "Popularity": "72",
+    "NbPlays": "113",
+    "Themes": "advantage fork master middlegame short",
+    "GameUrl": "https://lichess.org/Ii1UAnpH/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4dmt0",
+    "FEN": "r3r1k1/pp3pbp/2p2np1/q3p3/2P1P3/1P3N2/PBQ2PPP/R3R1K1 w - - 2 16",
+    "Moves": "f3e5 e8e5 b2e5 a5e5",
+    "Rating": "1342",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "5559",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/3gFGt3Ut#31",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "4dp4M",
+    "FEN": "2k4r/ppq2pp1/2p1p3/3p2p1/P2P1P1r/2P4P/1P1BQPP1/1R3R1K w - - 0 21",
+    "Moves": "f4g5 h4h3 g2h3 h8h3 h1g1 c7h2",
+    "Rating": "1294",
+    "RatingDeviation": "352",
+    "Popularity": "43",
+    "NbPlays": "7",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/2dh11UU2#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4dpOd",
+    "FEN": "5r1k/1pp4p/p5p1/5n2/6P1/5P2/Pb2rBBP/1R3RK1 b - - 0 28",
+    "Moves": "f5d6 b1b2 e2b2 f2d4 h8g8 d4b2",
+    "Rating": "1301",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "11690",
+    "Themes": "attraction crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/XJXiZReH/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4dr2r",
+    "FEN": "3r1Bk1/p2qbp2/1pp3p1/2p1p3/4Pn2/2PP1P2/PP1N1PQP/RR4K1 w - - 1 18",
+    "Moves": "f8e7 f4g2 g1g2 d7e7",
+    "Rating": "1394",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "607",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/echtt1VF#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "4dvNc",
+    "FEN": "3rq1k1/pp1n1pp1/2p4p/2QnPb2/8/PBP2P2/2P4P/R1B1R1K1 w - - 3 22",
+    "Moves": "c5c4 d7e5 e1e5 e8e5",
+    "Rating": "1371",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "257",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/Ec6WwVaD#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "4dvRb",
+    "FEN": "3r1rk1/pb3ppp/1p2p3/1Nb5/2P5/1P1B1qN1/P2QK1Pn/3RR3 w - - 0 23",
+    "Moves": "g2f3 b7f3",
+    "Rating": "1235",
+    "RatingDeviation": "77",
+    "Popularity": "85",
+    "NbPlays": "356",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/UAtKg2zT#45",
+    "OpeningTags": ""
+  }
+]

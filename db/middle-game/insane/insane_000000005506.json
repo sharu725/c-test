@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "UN19V",
+    "FEN": "3R1r1k/1bq1b1p1/p3n2p/PpP2N1P/1P6/5P2/2PBQ1P1/R3K3 b Q - 0 25",
+    "Moves": "f8d8 e2e6 e7f6 e1c1 b7c8 e6e4 c8f5 e4f5",
+    "Rating": "2424",
+    "RatingDeviation": "86",
+    "Popularity": "79",
+    "NbPlays": "56",
+    "Themes": "advantage castling hangingPiece middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/ApQz0aHh/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UNBNG",
+    "FEN": "5rk1/Q4pbp/p2P2pq/P1p1p2n/2B1P3/5P2/1r2NP1P/R4RK1 w - - 1 26",
+    "Moves": "d6d7 b2e2 d7d8r f8d8 a7f7 g8h8 c4e2 h5f4 f7e7 f4e2",
+    "Rating": "2483",
+    "RatingDeviation": "86",
+    "Popularity": "84",
+    "NbPlays": "346",
+    "Themes": "advantage master middlegame veryLong",
+    "GameUrl": "https://lichess.org/96myF7cN#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UNDhE",
+    "FEN": "5rk1/p1p1qppp/2B5/2nQPb2/8/N7/PrP2PPP/R4RK1 w - - 1 15",
+    "Moves": "a3c4 f5e6 d5d4 b2b4",
+    "Rating": "2512",
+    "RatingDeviation": "85",
+    "Popularity": "93",
+    "NbPlays": "510",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/8fkdF9Fq#29",
+    "OpeningTags": "Scotch_Game Scotch_Game_Scotch_Gambit"
+  },
+  {
+    "PuzzleId": "UNEQA",
+    "FEN": "5rk1/pp2rp1p/3P2p1/8/1PB2R2/P1Q2n2/1B2pq1P/R6K w - - 0 28",
+    "Moves": "c3f3 e2e1q c4f1 f2b2 d6e7 e1e7",
+    "Rating": "2711",
+    "RatingDeviation": "95",
+    "Popularity": "93",
+    "NbPlays": "1115",
+    "Themes": "advancedPawn advantage discoveredAttack long middlegame promotion",
+    "GameUrl": "https://lichess.org/rLeIIYbh#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UNES6",
+    "FEN": "4r1k1/1p2rpp1/p6p/3p2q1/3Qn3/2P4R/PP3PPN/5RK1 b - - 5 27",
+    "Moves": "e4d2 f2f4 g5g6 d4d2 e7e2 d2d5",
+    "Rating": "2473",
+    "RatingDeviation": "92",
+    "Popularity": "82",
+    "NbPlays": "63",
+    "Themes": "advantage interference long middlegame",
+    "GameUrl": "https://lichess.org/eHvETj9D/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UNGbX",
+    "FEN": "rn3rk1/pp3ppp/2pP4/8/2B1P1b1/2N2R2/PqP3PP/1R1Q3K b - - 2 15",
+    "Moves": "g4f3 d1f3 b2a3 b1b7 g8h8 e4e5",
+    "Rating": "2410",
+    "RatingDeviation": "96",
+    "Popularity": "49",
+    "NbPlays": "39",
+    "Themes": "advantage defensiveMove long middlegame skewer",
+    "GameUrl": "https://lichess.org/fs5hTj5w/black#30",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "UNITC",
+    "FEN": "rr3k2/2b2pRp/2p2q2/3p1N2/pp1P4/4PP1P/1PQ5/4R1K1 w - - 0 32",
+    "Moves": "g7h7 f6g6 g1f2 c7g3 f2e2 g6h7",
+    "Rating": "2511",
+    "RatingDeviation": "96",
+    "Popularity": "87",
+    "NbPlays": "830",
+    "Themes": "crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/DKwNtHk8#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UNKk0",
+    "FEN": "6k1/1pp3p1/1pn2rrp/4pp2/2N4q/2PP1P1P/PP4P1/R2QR2K w - - 1 22",
+    "Moves": "c4e5 g6g2 h1g2 c6e5 e1e5 f6g6 g2f1 h4h3",
+    "Rating": "2544",
+    "RatingDeviation": "99",
+    "Popularity": "91",
+    "NbPlays": "85",
+    "Themes": "crushing deflection intermezzo kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/5xucEfbF#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UNLf1",
+    "FEN": "2b3k1/4nrpp/r7/p1B2p1P/2P2P2/1Pqp1Q2/P5P1/3R1RK1 b - - 6 29",
+    "Moves": "a6c6 d1d3 c3f6 d3d8 f7f8 c5e7",
+    "Rating": "2671",
+    "RatingDeviation": "125",
+    "Popularity": "90",
+    "NbPlays": "31",
+    "Themes": "crushing deflection long middlegame",
+    "GameUrl": "https://lichess.org/d2O4vvqq/black#58",
+    "OpeningTags": ""
+  }
+]

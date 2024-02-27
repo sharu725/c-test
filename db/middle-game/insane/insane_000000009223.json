@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "oreAQ",
+    "FEN": "r3kb1r/pp3ppp/3p4/8/Q3n3/2P5/P2q1PPP/R4RK1 b kq - 1 15",
+    "Moves": "e8e7 a4e4 e7f6 a1d1 d2c3 d1d3",
+    "Rating": "2507",
+    "RatingDeviation": "100",
+    "Popularity": "85",
+    "NbPlays": "303",
+    "Themes": "advantage hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/YBIS1kmq/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "orhze",
+    "FEN": "r3k2r/pp1n1ppp/4pn2/3p4/8/3BP3/qBPQ1PPP/1R3RK1 b kq - 0 14",
+    "Moves": "e8g8 d2b4 a7a5 b4b5",
+    "Rating": "2512",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "107",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/4f7dzC7v/black#28",
+    "OpeningTags": "Rapport-Jobava_System Rapport-Jobava_System_Other_variations"
+  },
+  {
+    "PuzzleId": "orl2b",
+    "FEN": "3r1r1k/p1pN1p1p/1n1b2p1/8/8/1PQ1P3/q1P2P1P/2B2RK1 b - - 5 21",
+    "Moves": "h8g8 c1b2 a2b2 d7f6 g8g7 c3b2",
+    "Rating": "2749",
+    "RatingDeviation": "94",
+    "Popularity": "81",
+    "NbPlays": "110",
+    "Themes": "crushing intermezzo long middlegame quietMove sacrifice",
+    "GameUrl": "https://lichess.org/dym4P6vZ/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "os4Fa",
+    "FEN": "2r1r1k1/2p3pp/1b3qn1/pp1PN3/8/PPQ3P1/1B3P1P/2R1R1K1 w - - 1 28",
+    "Moves": "e5g6 b6f2 g1g2 f2e1 c3f6 g7f6 d5d6 e1d2",
+    "Rating": "2787",
+    "RatingDeviation": "112",
+    "Popularity": "90",
+    "NbPlays": "569",
+    "Themes": "advantage fork middlegame veryLong",
+    "GameUrl": "https://lichess.org/eeXe4KZQ#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "os7Y1",
+    "FEN": "b2r2k1/6pp/p2pp3/1p6/1P1PPn2/P1QBq3/6PP/4NR1K b - - 8 30",
+    "Moves": "a8e4 f1f3 f4d5 f3e3 d5c3 d3e4",
+    "Rating": "2560",
+    "RatingDeviation": "82",
+    "Popularity": "93",
+    "NbPlays": "3516",
+    "Themes": "advantage long master middlegame trappedPiece",
+    "GameUrl": "https://lichess.org/T9fw4rVv/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "os8uu",
+    "FEN": "1r4k1/2q1bnpb/p1p4p/P1Ppp3/R4PPP/1r1NP1B1/4B3/3Q1RK1 b - - 0 27",
+    "Moves": "e7c5 d3c5 b3b1 c5a6 c7a7 a6b8 b1d1 e2d1",
+    "Rating": "2607",
+    "RatingDeviation": "84",
+    "Popularity": "78",
+    "NbPlays": "160",
+    "Themes": "advantage fork hangingPiece middlegame veryLong",
+    "GameUrl": "https://lichess.org/Jw6jUupI/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "os9ko",
+    "FEN": "r3r3/p1k1Nppp/3p1p2/1p1P4/2p1PP2/1PPbQ3/Pq1N1KPP/R6R w - - 1 21",
+    "Moves": "e7c6 e8e4 h1b1 b2c2 c6b4 e4e3 b4c2 e3e2",
+    "Rating": "2733",
+    "RatingDeviation": "98",
+    "Popularity": "94",
+    "NbPlays": "70",
+    "Themes": "crushing middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/GbG985n2#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "osBOn",
+    "FEN": "8/p3nkqr/1p1r2b1/2p1ppQ1/4PP2/P1P1B1RB/1P5K/6R1 b - - 1 36",
+    "Moves": "f5e4 f4e5 d6d3 g1f1 f7e8 f1f6",
+    "Rating": "2555",
+    "RatingDeviation": "86",
+    "Popularity": "50",
+    "NbPlays": "46",
+    "Themes": "advantage exposedKing long middlegame",
+    "GameUrl": "https://lichess.org/dzfVt5Uh/black#72",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "osBm7",
+    "FEN": "5rk1/p4p1p/1p2rBp1/4n3/5R1P/2Pq2Q1/PP4P1/5RK1 w - - 3 29",
+    "Moves": "g3g5 h7h6 g5h6 d3e3 g1h1 e6f6 h6f8 g8f8",
+    "Rating": "2512",
+    "RatingDeviation": "79",
+    "Popularity": "98",
+    "NbPlays": "65",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/YlpAahru#57",
+    "OpeningTags": ""
+  }
+]

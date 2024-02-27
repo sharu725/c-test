@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "dQeat",
+    "FEN": "3r1b1r/1pp1q3/2k5/Q4Bp1/P1bP3p/2B1P3/4pP1P/R3K2R w KQ - 5 31",
+    "Moves": "c3b4 e7b4 a5b4 f8b4",
+    "Rating": "1194",
+    "RatingDeviation": "99",
+    "Popularity": "86",
+    "NbPlays": "25",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/4eSvvons#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dQf9F",
+    "FEN": "r3k2r/pppbqppp/2n5/4P3/4PB2/2P5/P1P1B1PP/R2Q1RK1 w kq - 3 13",
+    "Moves": "e2c4 e7c5 g1h1 c5c4",
+    "Rating": "1137",
+    "RatingDeviation": "78",
+    "Popularity": "64",
+    "NbPlays": "106",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/lfSTtoik#25",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "dQiq0",
+    "FEN": "1n1k1b1r/r4P2/2pp4/1p2p2p/p3P1b1/P2P2RP/BPPN4/R5K1 b - - 0 23",
+    "Moves": "g4d7 g3g8 d8e7 g8h8",
+    "Rating": "1002",
+    "RatingDeviation": "81",
+    "Popularity": "93",
+    "NbPlays": "1614",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/KTfg3cWr/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dQjKM",
+    "FEN": "r4rk1/1p2Q2p/p1p3p1/8/3q4/8/PPP2PPP/RNB1R1K1 w - - 1 17",
+    "Moves": "c1h6 d4f2 g1h1 f2f1 e1f1 f8f1",
+    "Rating": "1057",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "645",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/TL7gSdoP#33",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Open"
+  },
+  {
+    "PuzzleId": "dQkfh",
+    "FEN": "2kr3r/ppp2pp1/3p3p/3Ppq2/1PPb2n1/P2P3P/3B1PP1/1R1QK2R w K - 0 18",
+    "Moves": "h3g4 f5f2",
+    "Rating": "1046",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "612",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/7FsreKCO#35",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "dQkhu",
+    "FEN": "rnq1k2r/1p2bpp1/3p1n1p/p1pPp3/P1P1P3/2NB2Nb/1P3PP1/R1BQ1R1K w kq - 0 13",
+    "Moves": "g2h3 c8h3 h1g1 f6g4 d1g4 h3g4",
+    "Rating": "1167",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "328",
+    "Themes": "advantage kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/jF0bm17g#25",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Old_Benoni"
+  },
+  {
+    "PuzzleId": "dQlF4",
+    "FEN": "rn3rk1/pbp2ppp/1p1pp2q/8/3PP1Q1/2PB1N2/P1P2PPP/1R2K2R w K - 0 11",
+    "Moves": "b1b5 h6c1 e1e2 c1h1",
+    "Rating": "1032",
+    "RatingDeviation": "82",
+    "Popularity": "88",
+    "NbPlays": "35",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/9JuER4wp#21",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "dQlto",
+    "FEN": "6k1/1p1q1pp1/p2p1b1p/2p2P2/5PQ1/PB5P/1PP2PK1/R1B1r3 w - - 1 22",
+    "Moves": "c2c3 d7c6 g4f3 e1g1 g2g1 c6f3",
+    "Rating": "1169",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "904",
+    "Themes": "crushing deflection long middlegame",
+    "GameUrl": "https://lichess.org/G1cEY5TY#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "dQmDk",
+    "FEN": "r1bn1r1k/1pp3pp/pn6/3PBp2/1PP4q/8/PQ3PBP/R3R1K1 b - - 1 21",
+    "Moves": "f8g8 e5g7 g8g7 e1e8",
+    "Rating": "1002",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1800",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/w2fyeILf/black#42",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "lDq87",
+    "FEN": "5rk1/5ppp/B1Q1p3/3p1b2/1q1Pn3/1P2P3/P4PPP/3RK2R w K - 3 21",
+    "Moves": "e1e2 e4c3 e2f3 h7h5 h2h3 h5h4",
+    "Rating": "2381",
+    "RatingDeviation": "109",
+    "Popularity": "37",
+    "NbPlays": "13",
+    "Themes": "advantage defensiveMove fork long master middlegame quietMove",
+    "GameUrl": "https://lichess.org/18RE69Wx#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lDs2k",
+    "FEN": "r4r2/pp1n1k2/3QRb2/2pP4/2P5/qP6/P4P1P/R5K1 b - - 0 24",
+    "Moves": "f8g8 g1h1 g8g7 d6d7 f7g8 e6e8 a8e8 d7e8",
+    "Rating": "2241",
+    "RatingDeviation": "79",
+    "Popularity": "84",
+    "NbPlays": "170",
+    "Themes": "crushing defensiveMove exposedKing master masterVsMaster middlegame veryLong",
+    "GameUrl": "https://lichess.org/FQL59ZTi/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lDs3o",
+    "FEN": "1rn4k/1q2b3/2r3p1/2P1p1Pp/4Pp1P/2QN1P2/Pp3B2/1K1R4 b - - 1 42",
+    "Moves": "b7c7 d3e5 h8h7 d1d7",
+    "Rating": "2204",
+    "RatingDeviation": "82",
+    "Popularity": "85",
+    "NbPlays": "280",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/EIrAfoCR/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lDtSp",
+    "FEN": "2krr3/ppp2Rpp/3p4/3Pp1q1/1n2P3/3PP1P1/PP2Q2P/5RK1 b - - 2 18",
+    "Moves": "e8e7 f1f5 g5g6 f7e7",
+    "Rating": "2095",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "5243",
+    "Themes": "advantage master middlegame short",
+    "GameUrl": "https://lichess.org/Cu8sz36k/black#36",
+    "OpeningTags": "Mieses_Opening Mieses_Opening_Other_variations"
+  },
+  {
+    "PuzzleId": "lDyA4",
+    "FEN": "4r3/6rk/4P1p1/3pBq2/3Q4/P1P4P/6RK/8 b - - 2 51",
+    "Moves": "e8e6 e5g7 e6e4 d4f6",
+    "Rating": "2293",
+    "RatingDeviation": "81",
+    "Popularity": "90",
+    "NbPlays": "755",
+    "Themes": "crushing endgame master short",
+    "GameUrl": "https://lichess.org/qrfh46tj/black#102",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lDzRc",
+    "FEN": "r4r1k/pp4pB/2n1b3/2n4Q/8/4qN2/PPP3PP/R4R1K b - - 4 17",
+    "Moves": "c5d7 h7f5 e3h6 h5h6 g7h6 f5e6",
+    "Rating": "2264",
+    "RatingDeviation": "91",
+    "Popularity": "85",
+    "NbPlays": "26",
+    "Themes": "advantage discoveredAttack kingsideAttack long master middlegame",
+    "GameUrl": "https://lichess.org/Gu9y3kxP/black#34",
+    "OpeningTags": "French_Defense French_Defense_Steinitz_Variation"
+  },
+  {
+    "PuzzleId": "lEA8C",
+    "FEN": "r4k1r/1p2b1p1/p2p1n1p/q7/2P2Bb1/1BN2P2/PP2QP1P/3R2K1 b - - 0 19",
+    "Moves": "g4f5 c3d5 f6d5 d1d5 a5d5 c4d5",
+    "Rating": "2205",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "730",
+    "Themes": "advantage long master middlegame",
+    "GameUrl": "https://lichess.org/Tk3AUrCp/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Moscow_Variation"
+  },
+  {
+    "PuzzleId": "lEAtz",
+    "FEN": "6k1/6pp/1p2p1r1/p1b5/P1P1qPN1/2QrP1R1/1B5P/4R1K1 w - - 3 30",
+    "Moves": "g4h6 g8f8 c3g7 g6g7",
+    "Rating": "2259",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "3743",
+    "Themes": "advantage defensiveMove master middlegame short",
+    "GameUrl": "https://lichess.org/QU7ybIf3#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lECqd",
+    "FEN": "r2q1rk1/ppp1b1p1/3p2np/3Ppb1n/2P3PP/2N1BP2/PP1QN3/2R1KB1R b K - 0 14",
+    "Moves": "e7h4 e1d1 f5g4 f3g4",
+    "Rating": "2365",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "3233",
+    "Themes": "advantage defensiveMove master opening short",
+    "GameUrl": "https://lichess.org/R5oiKRZY/black#28",
+    "OpeningTags": "Nimzowitsch_Defense Nimzowitsch_Defense_Kennedy_Variation"
+  }
+]

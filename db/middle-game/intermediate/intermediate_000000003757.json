@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "90yJR",
+    "FEN": "2r2r1k/1q4pp/2b5/3nBp2/3Q4/1P3P1P/P5P1/R3R1K1 b - - 6 26",
+    "Moves": "b7b6 e5g7 h8g8 d4b6 d5b6 g7f8",
+    "Rating": "1541",
+    "RatingDeviation": "77",
+    "Popularity": "78",
+    "NbPlays": "62",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/HYcBQ62n/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "90zqa",
+    "FEN": "1r1q1rk1/2p2pbp/p5p1/2Q1p2b/8/P1NP4/1PPN1P1P/R1B1K1R1 w Q - 2 16",
+    "Moves": "c3d5 b8b5 d5e7 g8h8",
+    "Rating": "1566",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "570",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/nqjmRErV#31",
+    "OpeningTags": "Bishops_Opening Bishops_Opening_Berlin_Defense"
+  },
+  {
+    "PuzzleId": "90zss",
+    "FEN": "r1bq1rk1/4ppbp/p1N3p1/1p1nP3/8/2PQB2P/PP1N2P1/4RRK1 b - - 2 18",
+    "Moves": "d8d7 d3d5 d7d5 c6e7 g8h8 e7d5",
+    "Rating": "1583",
+    "RatingDeviation": "128",
+    "Popularity": "80",
+    "NbPlays": "21",
+    "Themes": "attraction capturingDefender crushing deflection fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/GGO8aUmK/black#36",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Dragon_Variation"
+  },
+  {
+    "PuzzleId": "9102w",
+    "FEN": "r1b4r/p1p2k1p/2np2p1/P2n2Q1/5P1N/P1q5/3N2PP/2B1R2K b - - 1 21",
+    "Moves": "c3f6 g5d5 c8e6 d5c6",
+    "Rating": "1585",
+    "RatingDeviation": "75",
+    "Popularity": "83",
+    "NbPlays": "227",
+    "Themes": "advantage fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/vs8v5JwR/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "910E4",
+    "FEN": "r1b2r1k/pp3ppB/2n1p3/2P5/3q1P2/P7/1PQ3PP/RN3R1K w - - 3 19",
+    "Moves": "f1f3 g7g6 h7g6 f7g6",
+    "Rating": "1586",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "94",
+    "Themes": "advantage middlegame quietMove short trappedPiece",
+    "GameUrl": "https://lichess.org/hc7gvkrz#37",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Other_variations"
+  },
+  {
+    "PuzzleId": "911nP",
+    "FEN": "r1q2rk1/p3bpp1/1p3n2/2p3Q1/8/4PN2/PB3PPP/2RR2K1 b - - 6 19",
+    "Moves": "c8g4 b2f6 g4g5 f6g5",
+    "Rating": "1514",
+    "RatingDeviation": "77",
+    "Popularity": "77",
+    "NbPlays": "102",
+    "Themes": "crushing master middlegame pin short",
+    "GameUrl": "https://lichess.org/M8KGbNWT/black#38",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Bogoljubov_Variation"
+  },
+  {
+    "PuzzleId": "9120x",
+    "FEN": "r4rk1/ppp3p1/2n3q1/4pb2/7Q/2N1B3/PPP2PPP/R4RK1 w - - 2 18",
+    "Moves": "c3d5 f5e4 h4g5 g6g5 e3g5 e4d5",
+    "Rating": "1504",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1393",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/LOfwckRO#35",
+    "OpeningTags": "Zukertort_Opening Zukertort_Opening_Tennison_Gambit"
+  },
+  {
+    "PuzzleId": "913c2",
+    "FEN": "4rr1k/1pb3p1/p1p4p/2P2p2/2QP4/4PP2/P1B1KP1q/1R5R b - - 3 25",
+    "Moves": "h2g2 b1g1 e8e3 e2e3",
+    "Rating": "1418",
+    "RatingDeviation": "97",
+    "Popularity": "-50",
+    "NbPlays": "63",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/VqRvFbvG/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "9143z",
+    "FEN": "1r2r2k/1pqR2p1/p6p/2b1Np2/8/1P1P4/PB1P1PPP/1K5R b - - 3 25",
+    "Moves": "c7a5 e5g6 h8h7 d7g7",
+    "Rating": "1506",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1231",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/67Y5YYh5/black#50",
+    "OpeningTags": ""
+  }
+]

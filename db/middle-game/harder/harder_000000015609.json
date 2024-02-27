@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "lDOaj",
+    "FEN": "r3k2r/2nq1p2/8/p1bpPpN1/Pp3P2/1Pp4P/2Q3PK/2B1RR2 b kq - 1 25",
+    "Moves": "d5d4 e5e6 f7e6 c2f5 e8c8 f5c5",
+    "Rating": "1959",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "101",
+    "Themes": "master middlegame",
+    "GameUrl": "https://lichess.org/6JHyjgOR/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lDQdC",
+    "FEN": "4r3/bpp1r1pk/p5p1/2P3P1/1P3P1q/P2Q3P/8/R2B1RK1 w - - 3 29",
+    "Moves": "d1c2 e7e3 d3g6 h7h8 g6h7 h4h7 c2h7 h8h7",
+    "Rating": "1852",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1350",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/V6afAvGf#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lDQog",
+    "FEN": "4r2k/ppq3p1/7p/3Q3P/P3P1P1/2r5/7N/R4RK1 w - - 3 35",
+    "Moves": "f1f3 c3f3 h2f3 c7g3 g1h1 g3f3",
+    "Rating": "1817",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "4763",
+    "Themes": "crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/UL7EMYlu#69",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lDUm6",
+    "FEN": "r2q1k1r/pp1n2pp/2pbBn2/4p3/4P3/1QN5/PPP2PPP/R1B1K2R w KQ - 0 11",
+    "Moves": "c1g5 d7c5 b3c4 b7b5",
+    "Rating": "1859",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "474",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/JeqsCrXe#21",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "lDWlZ",
+    "FEN": "r3k1r1/pbp2pPQ/1p6/8/2pq4/8/PPP3PP/RNB2RK1 w q - 3 16",
+    "Moves": "g1h1 b7g2 h1g2 g8g7 h7g7 d4g7",
+    "Rating": "1977",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "185",
+    "Themes": "advantage attraction fork long middlegame",
+    "GameUrl": "https://lichess.org/NB29e2LH#31",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "lDXMC",
+    "FEN": "r4r2/pp3pbk/1np2qp1/4p2P/4P2P/4Q3/PPP2P1N/2KN1BR1 b - - 0 17",
+    "Moves": "g7h6 e3h6 h7h6 h2g4 h6h5 g4f6",
+    "Rating": "1918",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "1961",
+    "Themes": "attraction crushing fork long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/f2IMdR57/black#34",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "lDXRo",
+    "FEN": "r3r1k1/1bq3pp/p5n1/1p1P1R2/2PBp3/P1Q5/2P3PP/1R4K1 b - - 3 24",
+    "Moves": "b5c4 d5d6 c7d6 b1b7",
+    "Rating": "1861",
+    "RatingDeviation": "74",
+    "Popularity": "87",
+    "NbPlays": "452",
+    "Themes": "advantage deflection middlegame short",
+    "GameUrl": "https://lichess.org/6V54DOZg/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lDY3A",
+    "FEN": "4rqk1/p2r1ppp/1pp1b2B/3pR3/8/1P4Q1/P1P2PPP/4R1K1 b - - 1 21",
+    "Moves": "d7e7 h6g7 f8g7 e5g5 f7f6 g5g7",
+    "Rating": "1835",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "65",
+    "Themes": "advantage attraction kingsideAttack long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/SDwhynzs/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lDaYL",
+    "FEN": "r3r3/ppp2kpp/3P1n2/2b3q1/2Np2b1/1Q6/PPP2PPP/R3R1K1 b - - 0 16",
+    "Moves": "g4f3 c4e5 f7f8 b3f7",
+    "Rating": "1875",
+    "RatingDeviation": "80",
+    "Popularity": "71",
+    "NbPlays": "215",
+    "Themes": "doubleCheck fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/OOrc3S41/black#32",
+    "OpeningTags": "Scotch_Game Scotch_Game_Haxo_Gambit"
+  }
+]

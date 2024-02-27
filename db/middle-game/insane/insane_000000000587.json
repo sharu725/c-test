@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "3HFRR",
+    "FEN": "3r2qk/ppp2pN1/5P1p/4pQ2/4Bb1P/2P2K2/PP4R1/3r4 b - - 7 35",
+    "Moves": "d1d2 g2g4 d2h2 g4f4 d8d2 f5e5",
+    "Rating": "2743",
+    "RatingDeviation": "86",
+    "Popularity": "85",
+    "NbPlays": "141",
+    "Themes": "capturingDefender crushing long middlegame",
+    "GameUrl": "https://lichess.org/5oB6YpPf/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3HGSP",
+    "FEN": "r2q1rk1/ppp2ppp/5B2/3n4/2B3b1/2P2N2/P4PPP/R2Q1RK1 b - - 0 13",
+    "Moves": "g4f3 f6d8 f3d1 c4d5",
+    "Rating": "2432",
+    "RatingDeviation": "97",
+    "Popularity": "87",
+    "NbPlays": "721",
+    "Themes": "capturingDefender crushing middlegame short",
+    "GameUrl": "https://lichess.org/rv4pjbl0/black#26",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "3HOO8",
+    "FEN": "1r4k1/3n1pPp/2q1pP2/p2p4/P1pP2B1/1rP4P/2Q3P1/4RRK1 w - - 5 30",
+    "Moves": "g4f5 e6f5 c2f5 b3b6",
+    "Rating": "2579",
+    "RatingDeviation": "87",
+    "Popularity": "58",
+    "NbPlays": "44",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/FlPY6EQr#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3HQUR",
+    "FEN": "2rr2k1/2q1bppp/p7/1pnB2P1/3B3P/P4P2/1PPQ4/2KR3R w - - 1 21",
+    "Moves": "d5a2 c5e6 a2e6 d8d4 e6c8 d4d2",
+    "Rating": "2523",
+    "RatingDeviation": "80",
+    "Popularity": "93",
+    "NbPlays": "1624",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/YuFQQmsv#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3HR2D",
+    "FEN": "r3r1k1/ppq2ppp/5b1B/2p2P2/2P1p1Q1/2P5/PP4PP/R4RK1 w - - 0 19",
+    "Moves": "h6g7 h7h5 g4h5 g8g7",
+    "Rating": "2556",
+    "RatingDeviation": "112",
+    "Popularity": "90",
+    "NbPlays": "1060",
+    "Themes": "advantage deflection middlegame short",
+    "GameUrl": "https://lichess.org/jcP3QGQ8#37",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_McDonnell_Attack"
+  },
+  {
+    "PuzzleId": "3HRQq",
+    "FEN": "3r2k1/1q3pbp/p1bp2p1/8/4PN2/1r2B1KP/1PRQ2B1/3R4 w - - 1 27",
+    "Moves": "f4d5 c6d5 e4d5 d8e8 d1e1 b7e7 g2f3 b3e3 e1e3 e7e3 d2e3 e8e3 c2c8 g7f8",
+    "Rating": "2751",
+    "RatingDeviation": "93",
+    "Popularity": "81",
+    "NbPlays": "116",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/r5XfAF1c#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3HTzk",
+    "FEN": "5rk1/pp3p2/1bp4Q/3p3B/1P2r3/2q2N1P/P4PP1/R3R1K1 w - - 0 24",
+    "Moves": "f3g5 e4e1 g1h2 c3e5 g2g3 e5f5",
+    "Rating": "2794",
+    "RatingDeviation": "114",
+    "Popularity": "89",
+    "NbPlays": "468",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/oEbWb36A#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3HVIF",
+    "FEN": "2rq1r2/pb1nb1pk/1pn1pp2/2ppP1N1/3P1P1P/2P3P1/PP4K1/R1BQ2NR b - - 1 14",
+    "Moves": "f6g5 h4g5 h7g8 h1h8 g8h8 d1h5 h8g8 g5g6 d7f6 e5f6 f8f6 h5h7 g8f8 h7h8",
+    "Rating": "2470",
+    "RatingDeviation": "83",
+    "Popularity": "93",
+    "NbPlays": "3446",
+    "Themes": "attraction discoveredAttack mate mateIn5 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/MowkraMF/black#28",
+    "OpeningTags": "French_Defense French_Defense_Tarrasch_Variation"
+  },
+  {
+    "PuzzleId": "3HWCL",
+    "FEN": "r3kb1r/p5p1/1qN1bn1p/2pp4/Q2P1B2/2N5/PP3PPP/4R1K1 b kq - 1 19",
+    "Moves": "e8d7 c6a7 d7e7 a7c6",
+    "Rating": "2439",
+    "RatingDeviation": "100",
+    "Popularity": "90",
+    "NbPlays": "1138",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/ZvYKIwBm/black#38",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  }
+]

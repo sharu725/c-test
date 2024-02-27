@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "fbMct",
+    "FEN": "r4Q1k/ppp3q1/n5Bp/3P4/2P5/1P4Pb/PB5P/5RK1 b - - 0 27",
+    "Moves": "a8f8 f1f8",
+    "Rating": "1287",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "5376",
+    "Themes": "master mate mateIn1 middlegame oneMove pin superGM",
+    "GameUrl": "https://lichess.org/NoKT4Vqc/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fbN1o",
+    "FEN": "3rkQ1r/1p4p1/pNp3q1/2B4p/4P3/3P3b/PPP3P1/5RK1 b - - 1 25",
+    "Moves": "h8f8 f1f8",
+    "Rating": "1327",
+    "RatingDeviation": "357",
+    "Popularity": "63",
+    "NbPlays": "25",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/PDhn5LyD/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fbWPV",
+    "FEN": "3r1r1k/pp3pRp/2p5/4Bq2/5P2/4n3/PPP1N2P/2KRQ3 w - - 1 20",
+    "Moves": "d1d8 f5c2",
+    "Rating": "1211",
+    "RatingDeviation": "76",
+    "Popularity": "80",
+    "NbPlays": "427",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/RvMPVCaj#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fbXXW",
+    "FEN": "5k1r/5pp1/8/1pbP3p/pp1N1PK1/4r3/PPB3PP/R2R4 w - - 0 27",
+    "Moves": "g4f5 g7g6 f5f6 c5e7",
+    "Rating": "1365",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1897",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/TpU2Uqc7#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fbXY1",
+    "FEN": "1R1K1rk1/r5bp/p7/8/2N1R3/8/PP6/8 w - - 30 54",
+    "Moves": "e4e8 g7f6 d8c8 f8e8",
+    "Rating": "1346",
+    "RatingDeviation": "75",
+    "Popularity": "52",
+    "NbPlays": "108",
+    "Themes": "deflection endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/xt2D6MwA#107",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fbaHb",
+    "FEN": "r4rk1/7p/4n1p1/6q1/2Q2n2/7P/PP1N1PP1/R4RK1 w - - 3 28",
+    "Moves": "d2e4 g5g2",
+    "Rating": "1392",
+    "RatingDeviation": "176",
+    "Popularity": "83",
+    "NbPlays": "43",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/zH4QOP6S#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fbeeN",
+    "FEN": "r5k1/4qp2/3b2pB/1npP2N1/1p4Q1/7P/1P3PP1/4R1K1 w - - 1 26",
+    "Moves": "e1e7 a8a1 g4d1 a1d1 e7e1 d1e1",
+    "Rating": "1287",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "398",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/hPdwPdVk#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "fbfVc",
+    "FEN": "r6r/p1p2pk1/1p2p3/2n3q1/8/2PB4/P1P1QP1P/3R1R1K w - - 2 19",
+    "Moves": "f1g1 h8h2 h1h2 a8h8 d3h7 h8h7 e2h5 h7h5",
+    "Rating": "1269",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "1901",
+    "Themes": "attraction kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/GNcL5zRj#37",
+    "OpeningTags": "Owen_Defense Owen_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "fbiB7",
+    "FEN": "Q1b1r1k1/p4ppp/1q6/4B3/2p2P2/8/PPP2nPP/R4R1K w - - 5 17",
+    "Moves": "h1g1 f2h3 g1h1 b6g1 f1g1 h3f2",
+    "Rating": "1367",
+    "RatingDeviation": "87",
+    "Popularity": "79",
+    "NbPlays": "453",
+    "Themes": "doubleCheck kingsideAttack long mate mateIn3 middlegame sacrifice smotheredMate",
+    "GameUrl": "https://lichess.org/mAIszk33#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "iK28T",
+    "FEN": "rkb2b1r/pp4pp/5p2/3Pp3/2BR4/4B3/PPP2PPP/5RK1 b - - 0 14",
+    "Moves": "e5d4 e3f4 f8d6 f4d6",
+    "Rating": "959",
+    "RatingDeviation": "100",
+    "Popularity": "45",
+    "NbPlays": "269",
+    "Themes": "doubleBishopMate mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/DMFfuWsl/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "iK2Ip",
+    "FEN": "r2q1rk1/2p2ppn/p2pbb1p/1p2P3/5P2/P1PQB3/1PBN2PP/R4RK1 b - - 0 17",
+    "Moves": "d6e5 d3h7",
+    "Rating": "841",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "171",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/kFcyn6Qq/black#34",
+    "OpeningTags": "Italian_Game Italian_Game_Paris_Defense"
+  },
+  {
+    "PuzzleId": "iK2JP",
+    "FEN": "2r3k1/1p3p1p/p1n2Bp1/3p3q/3P4/4QP2/PP3P2/4R1K1 b - - 3 25",
+    "Moves": "h7h6 e3e8 c8e8 e1e8 g8h7 e8h8",
+    "Rating": "899",
+    "RatingDeviation": "87",
+    "Popularity": "76",
+    "NbPlays": "161",
+    "Themes": "endgame long mate mateIn3 sacrifice",
+    "GameUrl": "https://lichess.org/6rFWBiih/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iK3h4",
+    "FEN": "2r3k1/1pq2p1p/p5p1/3p1p2/3P4/1P2P3/PQ1RnPPP/6K1 w - - 0 28",
+    "Moves": "d2e2 c7c1 b2c1 c8c1 e2e1 c1e1",
+    "Rating": "624",
+    "RatingDeviation": "103",
+    "Popularity": "74",
+    "NbPlays": "319",
+    "Themes": "backRankMate endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/zNu7c73U#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iK5pF",
+    "FEN": "8/5k1p/p5p1/2Np4/1P2b1P1/2K1P2P/8/2b2B2 w - - 5 49",
+    "Moves": "c3d4 c1b2",
+    "Rating": "775",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "97",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/D9cFlRLK#97",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iK5pz",
+    "FEN": "r3k2r/ppp3pp/2Nb1n2/1B1p4/4q3/1P2P1Pb/PBPP3P/RN1Q1RK1 w kq - 3 12",
+    "Moves": "b2f6 e4g2",
+    "Rating": "898",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "266",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/wP0Jg613#23",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Modern_Variation"
+  },
+  {
+    "PuzzleId": "iK5zU",
+    "FEN": "4r3/R4pk1/3q2pp/1p1p4/2p5/2Pp1Q1P/1P3PP1/3Rr1K1 w - - 4 31",
+    "Moves": "d1e1 e8e1",
+    "Rating": "919",
+    "RatingDeviation": "83",
+    "Popularity": "96",
+    "NbPlays": "601",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/28KTXYGJ#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "iK6ND",
+    "FEN": "r3r1k1/1bq1bppp/1n3B2/p1pp4/1p1P4/1BP2NN1/PP2RPPP/R3Q1K1 b - - 0 17",
+    "Moves": "e7f6 e2e8 a8e8 e1e8",
+    "Rating": "600",
+    "RatingDeviation": "150",
+    "Popularity": "54",
+    "NbPlays": "19",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/9IBNR6uJ/black#34",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "iK6qH",
+    "FEN": "7k/4N2p/8/2p1n3/p1P3P1/3p4/P2K3r/1R3R2 w - - 4 35",
+    "Moves": "d2c3 h2c2",
+    "Rating": "998",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "137",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/3FbREYwV#69",
+    "OpeningTags": ""
+  }
+]

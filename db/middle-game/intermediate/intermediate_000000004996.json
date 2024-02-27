@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "C0pk1",
+    "FEN": "1k1r2nr/pp4pp/5p2/3Bn3/bb1N1B2/8/PP1N1PPP/R1R3K1 w - - 0 19",
+    "Moves": "c1c4 b4d2 c4a4 d2f4",
+    "Rating": "1583",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "655",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/FyLBa5r9#37",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation"
+  },
+  {
+    "PuzzleId": "C0pnd",
+    "FEN": "r1b2rk1/1p2bpp1/pq1ppn1p/8/P1p1PP1Q/1PNP1N2/1P4PP/R1B2R1K b - - 1 15",
+    "Moves": "c4d3 e4e5",
+    "Rating": "1437",
+    "RatingDeviation": "85",
+    "Popularity": "86",
+    "NbPlays": "34",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/49laOon0/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Grand_Prix_Attack"
+  },
+  {
+    "PuzzleId": "C0qAz",
+    "FEN": "r1b2r1k/ppp1q2B/6Q1/3Pp1B1/P7/2P3p1/1P4P1/R5K1 b - - 0 23",
+    "Moves": "e7h7 g5f6 f8f6 g6f6 h8g8 f6g5 h7g7 g5d8",
+    "Rating": "1525",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality exposedKing middlegame veryLong",
+    "GameUrl": "https://lichess.org/M3VtNVzH/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C0rfl",
+    "FEN": "r1b3k1/pp3rp1/7p/q6P/1n1Q4/1P3P1N/1BP5/1K3B1R b - - 0 23",
+    "Moves": "c8f5 f1c4 f5c2 b1c1 b4d3 c1c2",
+    "Rating": "1492",
+    "RatingDeviation": "86",
+    "Popularity": "68",
+    "NbPlays": "25",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/zeMRFUuE/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C0u2I",
+    "FEN": "r5rk/pp3Q2/3P1p2/b1P1q1B1/4N3/8/PP3K2/R7 b - - 0 31",
+    "Moves": "f6g5 a1h1 e5h2 h1h2",
+    "Rating": "1572",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "266",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/l7jvswJf/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C0xkF",
+    "FEN": "3r1k2/3nRp1p/p2q1np1/2R5/NpP5/1P6/PQ3PPP/6K1 w - - 1 26",
+    "Moves": "e7d7 d6d1 d7d1 d8d1",
+    "Rating": "1552",
+    "RatingDeviation": "81",
+    "Popularity": "89",
+    "NbPlays": "3658",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short xRayAttack",
+    "GameUrl": "https://lichess.org/6uOddClE#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C0yC2",
+    "FEN": "5rk1/p1ppr1pp/1p2p1q1/5n2/3P4/2PQ1N2/PP3PPP/R4RK1 w - - 1 19",
+    "Moves": "g1h1 f5g3 h2g3 g6d3",
+    "Rating": "1455",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "367",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/lcK2UmHt#37",
+    "OpeningTags": "Dutch_Defense Dutch_Defense_Staunton_Gambit"
+  },
+  {
+    "PuzzleId": "C0yEo",
+    "FEN": "3r4/k1p1r1p1/1p3np1/nR1p4/1N1P2P1/P4P1P/3KN3/4R3 b - - 2 26",
+    "Moves": "c7c6 b5a5 b6a5 b4c6",
+    "Rating": "1456",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "8851",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/rHUedlU9/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "C0yP2",
+    "FEN": "r5rk/p1qp1p1B/1pb1pp2/8/2P1P3/2P4Q/P4PPb/R4R1K b - - 3 18",
+    "Moves": "h2f4 h7g6 h8g7 h3h7 g7f8 h7f7",
+    "Rating": "1574",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "9433",
+    "Themes": "discoveredAttack exposedKing kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/k472fb7u/black#36",
+    "OpeningTags": "Torre_Attack Torre_Attack_Classical_Defense"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "jEp73",
+    "FEN": "r1bqr1k1/ppp2ppp/5n2/4B3/8/P2B1Q1P/1PP2PP1/2KR3R b - - 4 13",
+    "Moves": "e8e5 d3h7 g8h7 d1d8",
+    "Rating": "1062",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "827",
+    "Themes": "crushing discoveredAttack kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/3Mmi38h5/black#26",
+    "OpeningTags": "Russian_Game Russian_Game_Three_Knights_Game"
+  },
+  {
+    "PuzzleId": "jErUF",
+    "FEN": "4rrk1/pp3b2/2p3p1/3p2Rp/3PqP1P/4P1Q1/PP6/K5R1 b - - 1 32",
+    "Moves": "e4e3 g5g6 f7g6 g3g6 g8h8 g6h5",
+    "Rating": "1089",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "150",
+    "Themes": "exposedKing kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/YHHxLLxN/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jEsNO",
+    "FEN": "r2qkb1r/1p4pp/p1ppbp2/3N4/2PQP3/8/PP3PPP/R1B2RK1 w kq - 0 12",
+    "Moves": "d5b6 c6c5 d4d3 d8b6",
+    "Rating": "1177",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "142",
+    "Themes": "advantage interference middlegame short",
+    "GameUrl": "https://lichess.org/469z3SKI#23",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Cozio_Defense"
+  },
+  {
+    "PuzzleId": "jEtzr",
+    "FEN": "2rq1rk1/p4ppp/1p2pb2/8/1Q1P4/P3PB2/1P4PP/2R2RK1 b - - 2 18",
+    "Moves": "f6e7 c1c8 e7b4 c8d8 f8d8 a3b4",
+    "Rating": "1095",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "5870",
+    "Themes": "advantage intermezzo long middlegame",
+    "GameUrl": "https://lichess.org/1nlsmOsd/black#36",
+    "OpeningTags": "Queens_Indian_Defense Queens_Indian_Defense_Kasparov-Petrosian_Variation"
+  },
+  {
+    "PuzzleId": "jEu6Y",
+    "FEN": "r4rk1/2p2ppp/p1nb1q2/1p3b2/3P1p2/1BP2N2/P1PBQ1PP/4RRK1 b - - 5 14",
+    "Moves": "f8e8 e2e8 a8e8 e1e8",
+    "Rating": "1039",
+    "RatingDeviation": "79",
+    "Popularity": "87",
+    "NbPlays": "80",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/wY8pTXjF/black#28",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Abbazia_Defense"
+  },
+  {
+    "PuzzleId": "jExvn",
+    "FEN": "2r3k1/p4pp1/5n1p/q1p1Q3/8/3RpP2/2P1B1PP/3R2K1 w - - 0 27",
+    "Moves": "d3d8 c8d8 d1d8 a5d8",
+    "Rating": "1031",
+    "RatingDeviation": "92",
+    "Popularity": "75",
+    "NbPlays": "32",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/OboHvGu3#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jEyBO",
+    "FEN": "6k1/1b3ppp/p7/1p1p4/1PnN4/P1P2Pq1/2Q5/RB2K3 w - - 0 33",
+    "Moves": "e1f1 c4e3 f1e2 e3c2",
+    "Rating": "1041",
+    "RatingDeviation": "78",
+    "Popularity": "78",
+    "NbPlays": "140",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/9I7rFGni#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "jEzDN",
+    "FEN": "r2qkb1r/pQp2ppp/5B2/3p4/8/2N5/PPb1PPPP/4KBNR b Kkq - 0 10",
+    "Moves": "g7f6 b7c6 d8d7 c6a8",
+    "Rating": "1196",
+    "RatingDeviation": "79",
+    "Popularity": "94",
+    "NbPlays": "7769",
+    "Themes": "crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/j53hmygW/black#20",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "jEzrl",
+    "FEN": "r7/1b4k1/1p3b1p/4Np2/2P1p3/6P1/p3PPBP/R2R1NK1 w - - 4 31",
+    "Moves": "d1d5 b7d5 c4d5 f6e5 a1a2 a8a2",
+    "Rating": "1043",
+    "RatingDeviation": "81",
+    "Popularity": "89",
+    "NbPlays": "169",
+    "Themes": "advantage capturingDefender long middlegame",
+    "GameUrl": "https://lichess.org/V6YMicWX#61",
+    "OpeningTags": ""
+  }
+]

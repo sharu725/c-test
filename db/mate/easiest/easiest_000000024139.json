@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ky7ut",
+    "FEN": "4r1k1/5ppp/1p1p2q1/p7/2P2p2/NPB4Q/P5P1/6K1 b - - 1 31",
+    "Moves": "e8e3 h3c8 e3e8 c8e8",
+    "Rating": "924",
+    "RatingDeviation": "88",
+    "Popularity": "93",
+    "NbPlays": "294",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/HF18M4oC/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ky8E4",
+    "FEN": "1k5r/pp2b1p1/2p1q2p/Q1p1pR2/2P1n3/2P5/P5PP/5RK1 b - - 1 20",
+    "Moves": "e6c4 f5f8 h8f8 f1f8 e7f8 a5d8",
+    "Rating": "787",
+    "RatingDeviation": "82",
+    "Popularity": "98",
+    "NbPlays": "1125",
+    "Themes": "long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/efEALImA/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ky9Dv",
+    "FEN": "B4rk1/p2R1ppp/1p2p3/4q3/8/8/PPP2PPP/3R2K1 b - - 0 21",
+    "Moves": "f8a8 d7d8 a8d8 d1d8",
+    "Rating": "665",
+    "RatingDeviation": "105",
+    "Popularity": "67",
+    "NbPlays": "39",
+    "Themes": "backRankMate endgame mate mateIn2 queenRookEndgame short",
+    "GameUrl": "https://lichess.org/94A0SN6Y/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ky9Nx",
+    "FEN": "r3k2r/2qp1pp1/p6p/3Pp3/bb6/5QB1/BPP2PPP/2KR3R w kq - 1 18",
+    "Moves": "d5d6 c7c2",
+    "Rating": "695",
+    "RatingDeviation": "92",
+    "Popularity": "91",
+    "NbPlays": "364",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/IVL2fVLO#35",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "ky9lv",
+    "FEN": "2k4r/ppp2p2/2n1b3/8/3N2p1/2P1P1N1/PP2BPP1/3RRK1q w - - 6 21",
+    "Moves": "g3h1 h8h1",
+    "Rating": "983",
+    "RatingDeviation": "82",
+    "Popularity": "92",
+    "NbPlays": "109",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Hk0p82yl#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kyAlU",
+    "FEN": "8/8/8/8/8/6K1/3pbQ2/7k b - - 1 91",
+    "Moves": "d2d1q f2h2",
+    "Rating": "928",
+    "RatingDeviation": "79",
+    "Popularity": "91",
+    "NbPlays": "414",
+    "Themes": "endgame master mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/zKsnNSQA/black#182",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kyAtC",
+    "FEN": "r3rk2/1bp3pp/p3q3/5pR1/4N3/3P2Q1/PPP2PPP/4R1K1 w - - 0 28",
+    "Moves": "e4c5 e6e1",
+    "Rating": "598",
+    "RatingDeviation": "100",
+    "Popularity": "63",
+    "NbPlays": "371",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/QsanMVZi#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kyBGA",
+    "FEN": "8/1rk2qp1/4p3/2Q5/3R1b1r/8/PPP1b3/1K6 b - - 3 32",
+    "Moves": "c7b8 d4d8",
+    "Rating": "862",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "190",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/x4Rj9M5E/black#64",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "kyBYx",
+    "FEN": "4r1k1/p1p2ppp/b2b1q2/3pN3/Q1n5/2P2PB1/PP4PP/RN5K b - - 4 18",
+    "Moves": "d6e5 a4e8",
+    "Rating": "780",
+    "RatingDeviation": "86",
+    "Popularity": "73",
+    "NbPlays": "76",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/6UrrdNMt/black#36",
+    "OpeningTags": "Italian_Game Italian_Game_Scotch_Gambit"
+  }
+]

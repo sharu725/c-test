@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "aB4No",
+    "FEN": "1r4k1/3n1pbp/p5p1/2pPqb2/2B5/2N2P2/PP1Q3P/2KRR3 b - - 2 23",
+    "Moves": "e5c3 d2c3 g7c3 b2c3 b8b1 c1d2 b1b2 d2e3",
+    "Rating": "1850",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2178",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/nsnUcUGP/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aB87R",
+    "FEN": "r5k1/1p5p/3q1np1/PR1p1p1r/P2Pp3/4P2P/3N1PP1/3Q1RK1 w - - 1 23",
+    "Moves": "d2b3 f6g4 f2f4 e4f3",
+    "Rating": "1845",
+    "RatingDeviation": "86",
+    "Popularity": "69",
+    "NbPlays": "45",
+    "Themes": "crushing enPassant middlegame short",
+    "GameUrl": "https://lichess.org/wQSGshy3#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aBBil",
+    "FEN": "2rq1rk1/p2b1pp1/1pn2n1p/2bpp3/2P2B2/1Q2PN2/PP1NBPPP/2RR2K1 w - - 0 14",
+    "Moves": "c4d5 c6a5 b3d3 e5f4",
+    "Rating": "1927",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1686",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/KwI4Oe7c#27",
+    "OpeningTags": "Horwitz_Defense Horwitz_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "aBBjT",
+    "FEN": "r6r/2p1nkpp/p7/3bN1q1/Q2P1p2/BP2pP2/P2bB1PP/R5K1 b - - 6 23",
+    "Moves": "f7f6 a3e7 f6e7 a4d7 e7f8 d7d5",
+    "Rating": "1840",
+    "RatingDeviation": "73",
+    "Popularity": "96",
+    "NbPlays": "4641",
+    "Themes": "attraction crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/pd3oNcv3/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aBCMG",
+    "FEN": "1r3rk1/p4pb1/2ppb1p1/2n1p1P1/4P3/P1N1B3/1qPQBP2/1R3K1R b - - 1 19",
+    "Moves": "b2a3 b1b8 f8b8 d2d6",
+    "Rating": "1887",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "126",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/BmiJjrCv/black#38",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Chinese_Variation"
+  },
+  {
+    "PuzzleId": "aBCjE",
+    "FEN": "1R2N3/2Br1pbk/6pp/3Pp3/4P3/3n1P2/r5PP/5RK1 w - - 7 30",
+    "Moves": "e8g7 d7c7 g7e8 c7c2",
+    "Rating": "1897",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "3465",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/7hU3Kv8i#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aBGzY",
+    "FEN": "3r1rk1/pb2b1pp/1p2pn2/4N3/3B4/5P1P/PPB3P1/R4RK1 w - - 1 24",
+    "Moves": "a1d1 d8d4 d1d4 e7c5 f1d1 f8d8",
+    "Rating": "1917",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "51",
+    "Themes": "crushing long middlegame pin sacrifice",
+    "GameUrl": "https://lichess.org/MxJdMZ6c#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aBItX",
+    "FEN": "2r2rk1/5pbp/p2Q2p1/4p3/4N3/Pqp2P2/5PKP/2BR4 b - - 1 33",
+    "Moves": "f8d8 d6d8 c8d8 d1d8 g7f8 c1h6",
+    "Rating": "1886",
+    "RatingDeviation": "76",
+    "Popularity": "83",
+    "NbPlays": "294",
+    "Themes": "crushing kingsideAttack long middlegame pin",
+    "GameUrl": "https://lichess.org/G71jhVQH/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "aBJKY",
+    "FEN": "5rk1/1p2bp2/1pp2npp/3p4/3PP2B/r1Nb1P2/1P1N2PP/2KR3R w - - 0 18",
+    "Moves": "h4f6 a3c3 b2c3 e7a3",
+    "Rating": "1879",
+    "RatingDeviation": "87",
+    "Popularity": "94",
+    "NbPlays": "160990",
+    "Themes": "bodenMate clearance master mate mateIn2 middlegame queensideAttack sacrifice short",
+    "GameUrl": "https://lichess.org/AnFInpM7#35",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Three_Knights_Variation"
+  }
+]

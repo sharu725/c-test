@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "3DOZ9",
+    "FEN": "r1b1k3/pppqnp2/3p1b2/3P2NQ/2B1Pp2/2P5/PP4P1/R1B1K3 b Qq - 0 15",
+    "Moves": "f6g5 h5h8 e7g8 h8g8 e8e7 g8g5",
+    "Rating": "938",
+    "RatingDeviation": "81",
+    "Popularity": "94",
+    "NbPlays": "259",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/kawTFeMy/black#30",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Philidor_Gambit"
+  },
+  {
+    "PuzzleId": "3DP1j",
+    "FEN": "r5k1/p4rpp/R3p3/3q1pn1/2pP4/2P1P1P1/2Q1BP1P/R5K1 w - - 11 27",
+    "Moves": "c2a4 g5h3 g1f1 d5h1",
+    "Rating": "967",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "2451",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/3Cng2HZH#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3DVRc",
+    "FEN": "6r1/pb1q1p1k/5prp/1P1pbN1Q/p3P3/P6R/1P3PPP/6K1 b - - 5 29",
+    "Moves": "d5e4 h5h6 g6h6 h3h6",
+    "Rating": "949",
+    "RatingDeviation": "82",
+    "Popularity": "95",
+    "NbPlays": "1538",
+    "Themes": "mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/VO5n1O4q/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3DVfo",
+    "FEN": "8/r1k5/1pnp1qp1/5pN1/p1n2Q2/P7/1PPR1PP1/2KR4 w - - 8 32",
+    "Moves": "d2d3 f6b2",
+    "Rating": "587",
+    "RatingDeviation": "99",
+    "Popularity": "96",
+    "NbPlays": "633",
+    "Themes": "mate mateIn1 middlegame oneMove queensideAttack",
+    "GameUrl": "https://lichess.org/H9nFVNKR#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3DVo2",
+    "FEN": "rn3rk1/ppp1bppp/8/3P4/5Pb1/8/PPPN2PP/R1B1KB1R w KQ - 1 11",
+    "Moves": "h2h3 e7h4 g2g3 h4g3",
+    "Rating": "899",
+    "RatingDeviation": "99",
+    "Popularity": "79",
+    "NbPlays": "781",
+    "Themes": "doubleBishopMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/qKQ0cCo2#21",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit"
+  },
+  {
+    "PuzzleId": "3DWLQ",
+    "FEN": "r3r3/p4ppk/2p4N/1p6/6Q1/1P1p2N1/PP3qPP/R6K w - - 0 25",
+    "Moves": "h6f5 e8e1 a1e1 f2e1 g3f1 e1f1",
+    "Rating": "733",
+    "RatingDeviation": "81",
+    "Popularity": "92",
+    "NbPlays": "762",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/zEMM9lv1#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3DaJC",
+    "FEN": "r2q1r1k/1pp2pp1/1p1p1nnp/1B3N1b/4PB2/2PP2QP/PP4P1/R4RK1 b - - 2 18",
+    "Moves": "g6f4 g3g7",
+    "Rating": "703",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "207",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/Y4t1YO1y/black#36",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "3Dad3",
+    "FEN": "1k5r/pr1P2b1/1pQ2pp1/4q3/4P2p/8/P5PP/2RR3K b - - 0 29",
+    "Moves": "h8d8 c6c8 d8c8 d7c8q",
+    "Rating": "959",
+    "RatingDeviation": "77",
+    "Popularity": "96",
+    "NbPlays": "200",
+    "Themes": "advancedPawn mate mateIn2 middlegame promotion queensideAttack short",
+    "GameUrl": "https://lichess.org/wc8m1aC0/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3DakY",
+    "FEN": "rn2k2r/ppp1nB2/7p/4b1p1/5pb1/2N2N2/PPP3PP/R1BR2K1 b kq - 0 12",
+    "Moves": "e8f7 f3e5 f7f6 e5g4",
+    "Rating": "834",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "1548",
+    "Themes": "advantage fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/9bsbjUNq/black#24",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  }
+]

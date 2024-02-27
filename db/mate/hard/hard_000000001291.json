@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EXYH4",
+    "FEN": "5Q2/5p1k/p3b2p/3pPp2/1p1P4/6pn/1PQBq1PK/4N3 w - - 0 39",
+    "Moves": "h2h3 e2g4",
+    "Rating": "1772",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "1100",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/nxQGDstj#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EXYi0",
+    "FEN": "2R5/5r1p/1pP2r1k/p1p5/2Pb2P1/P2q1p1Q/4R3/5K2 b - - 1 43",
+    "Moves": "h6g6 c8g8 f7g7 h3h5",
+    "Rating": "1706",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "7033",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/HUbDboxw/black#86",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EXhnv",
+    "FEN": "4r2k/1b4p1/p4b1p/q2p4/2pP4/P1R2BB1/2Q2PPP/1N4K1 w - - 0 28",
+    "Moves": "c3e3 a5e1 e3e1 e8e1",
+    "Rating": "1709",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "639",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short xRayAttack",
+    "GameUrl": "https://lichess.org/GPJUyPR3#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EXht0",
+    "FEN": "r1b1kb1r/ppp3p1/2n1p1Qp/3pP1N1/3P4/2P2B2/PPK5/RNB2nq1 b kq - 1 18",
+    "Moves": "e8d7 g6e6 d7d8 g5f7",
+    "Rating": "1607",
+    "RatingDeviation": "77",
+    "Popularity": "61",
+    "NbPlays": "77",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/cXsKKPGX/black#36",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "EXrAb",
+    "FEN": "2b2r2/7k/p1p2bRp/3pqp1P/7N/2n5/P1P2PQ1/2K4R b - - 1 25",
+    "Moves": "c8e6 g6h6 h7h6 g2g6",
+    "Rating": "1667",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "10901",
+    "Themes": "attraction mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/YkQpT1CK/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EY378",
+    "FEN": "8/R7/b4k2/4p2p/5p1P/5P1K/r1r3P1/1R6 b - - 1 40",
+    "Moves": "c2g2 b1b6 f6f5 a7f7",
+    "Rating": "1608",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "189",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/7BQmGU4Y/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EY4PR",
+    "FEN": "3r1rk1/p2R1ppp/1p1Q4/4N3/P4P2/5Kn1/7q/4R3 b - - 5 31",
+    "Moves": "d8d7 d6f8 g8f8 e5d7 f8g8 e1e8",
+    "Rating": "1741",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "11702",
+    "Themes": "attraction backRankMate intermezzo long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/6AkQmtt2/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "EY5VX",
+    "FEN": "r2qkbnr/pp3pp1/3p3p/2p1N3/2BnPPb1/2NP4/PPP3PP/R1BQ1RK1 b kq - 0 8",
+    "Moves": "g4d1 c4f7 e8e7 c3d5",
+    "Rating": "1676",
+    "RatingDeviation": "74",
+    "Popularity": "80",
+    "NbPlays": "339",
+    "Themes": "attackingF2F7 mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/wxyDY7wy/black#16",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  },
+  {
+    "PuzzleId": "EY5yo",
+    "FEN": "r3kb1r/ppp4p/2b1pQ2/6N1/8/qP6/P1PP1nPP/1K1R1B1R b kq - 2 17",
+    "Moves": "f2d1 f6f7 e8d8 g5e6 d8c8 f7c7",
+    "Rating": "1795",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "616",
+    "Themes": "exposedKing long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/9od8shov/black#34",
+    "OpeningTags": "French_Defense French_Defense_Horwitz_Attack"
+  }
+]

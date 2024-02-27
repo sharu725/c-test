@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "tcq8t",
+    "FEN": "r3k2r/1p3ppp/2n1pn2/3pN3/2pP1B2/b1P1P3/P2NBPPP/1R4K1 b kq - 0 15",
+    "Moves": "a8a7 e5c6 b7c6 b1b8 e8e7 b8h8",
+    "Rating": "1049",
+    "RatingDeviation": "82",
+    "Popularity": "93",
+    "NbPlays": "828",
+    "Themes": "advantage long middlegame skewer",
+    "GameUrl": "https://lichess.org/76dvMW4V/black#30",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Steinitz_Countergambit"
+  },
+  {
+    "PuzzleId": "tcsWv",
+    "FEN": "2k1r2r/ppqn4/2p1p3/5pp1/2PP1p2/5Q2/PPB1RPPP/R5K1 w - - 0 20",
+    "Moves": "a1e1 g5g4 f3a3 f4f3",
+    "Rating": "1145",
+    "RatingDeviation": "78",
+    "Popularity": "90",
+    "NbPlays": "1005",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/C4Wp6GIA#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "tct5e",
+    "FEN": "2k4r/ppp2pp1/5n2/2br3p/Nq6/1P3QB1/P1P2PPP/3RR1K1 w - - 0 19",
+    "Moves": "d1d5 b4e1",
+    "Rating": "1155",
+    "RatingDeviation": "79",
+    "Popularity": "33",
+    "NbPlays": "148",
+    "Themes": "hangingPiece kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/SvQeXs4P#37",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "tcvdW",
+    "FEN": "rn1q1rk1/pp2n1pp/2pb1p2/3p1b2/3P3B/2NB1N2/PPP1QPPP/R4RK1 b - - 1 10",
+    "Moves": "b8d7 d3f5 e7f5 e2e6 f8f7 e6f5",
+    "Rating": "1144",
+    "RatingDeviation": "79",
+    "Popularity": "93",
+    "NbPlays": "1028",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/dPeHVc0k/black#20",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "tcxOb",
+    "FEN": "r2q1rk1/ppp1bp2/4b2B/4p3/8/2nP2QP/PPP2PP1/R4RK1 b - - 1 17",
+    "Moves": "g8h7 g3g7",
+    "Rating": "1039",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "226",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/FxlFGReS/black#34",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Spanish_Variation"
+  },
+  {
+    "PuzzleId": "tcxfR",
+    "FEN": "r2q2k1/1b2N1b1/p2p2p1/1p6/4Qrp1/8/PPP3PP/3RN1K1 b - - 1 22",
+    "Moves": "g8h7 e4g6 h7h8 g6h5 g7h6 h5h6",
+    "Rating": "1195",
+    "RatingDeviation": "78",
+    "Popularity": "91",
+    "NbPlays": "499",
+    "Themes": "long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/6NbDMAoU/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "td2qv",
+    "FEN": "r3k2r/3bqp2/p1p3p1/3pPp2/5P1b/2P4Q/PP3B2/RN1K3R b kq - 5 19",
+    "Moves": "h4f6 h3h8 f6h8 h1h8 e7f8 h8f8",
+    "Rating": "1105",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "329",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/A43DZSOz/black#38",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "td2ss",
+    "FEN": "r4rk1/ppp1bppp/4bn2/4N1B1/5R1P/2N5/PPP2P2/2K3R1 b - - 0 16",
+    "Moves": "f8d8 g5f6 e7f6 f4f6",
+    "Rating": "1164",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "1279",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/gLnLRcCu/black#32",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Steinitz_Defense"
+  },
+  {
+    "PuzzleId": "td4Nn",
+    "FEN": "r2q1rk1/ppp1n1pp/2n2p2/2b1p3/4P2N/1P6/PBPNQPPP/3R1RK1 b - - 2 12",
+    "Moves": "d8e8 e2c4 e8f7 c4c5",
+    "Rating": "1167",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "1686",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/XvaQ0mwa/black#24",
+    "OpeningTags": "Nimzo-Larsen_Attack Nimzo-Larsen_Attack_Other_variations"
+  }
+]

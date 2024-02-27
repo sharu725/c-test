@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "15iPn",
+    "FEN": "rb3r1k/1p4pp/6q1/1PP1p3/1B2pp2/1Q2P1Pb/4BP1P/2R1R1K1 w - - 0 23",
+    "Moves": "e3f4 e5f4 c5c6 e4e3",
+    "Rating": "2414",
+    "RatingDeviation": "86",
+    "Popularity": "76",
+    "NbPlays": "169",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/3Kyct35k#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "15iZb",
+    "FEN": "r3r1k1/pp1b1p1p/8/4qP2/7Q/1P1Bp3/P1P1N1PP/5RK1 b - - 8 23",
+    "Moves": "a8c8 f5f6 h7h5 d3f5 d7f5 h4g5 f5g6 g5h6 e5f6 f1f6",
+    "Rating": "2611",
+    "RatingDeviation": "114",
+    "Popularity": "89",
+    "NbPlays": "996",
+    "Themes": "clearance crushing kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/uyVNIrmT/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "15jBL",
+    "FEN": "2r1r1k1/pp1n1pbp/3p4/q2N3P/4P3/8/PPP1Q3/1K4RR b - - 0 22",
+    "Moves": "a5d5 g1g7 g8h8 g7g8 e8g8 e4d5",
+    "Rating": "2456",
+    "RatingDeviation": "161",
+    "Popularity": "44",
+    "NbPlays": "16",
+    "Themes": "advantage kingsideAttack long master masterVsMaster middlegame",
+    "GameUrl": "https://lichess.org/ZmwQELWJ/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "15jkV",
+    "FEN": "2bq1rk1/2p1bppp/p1n1p3/3nP3/Qr1P4/2N1BN2/P3BPPP/2R2RK1 w - - 3 16",
+    "Moves": "a4c6 d5e3 f2e3 c8b7",
+    "Rating": "2680",
+    "RatingDeviation": "83",
+    "Popularity": "92",
+    "NbPlays": "473",
+    "Themes": "advantage master masterVsMaster middlegame short",
+    "GameUrl": "https://lichess.org/H39qP8KH#31",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Vienna_Variation"
+  },
+  {
+    "PuzzleId": "15l2J",
+    "FEN": "r3kb1r/pbqp1p2/1pn2P2/2pBP2p/P4B1p/3P4/1PP3PP/R2QKR2 b Qkq - 4 16",
+    "Moves": "f8h6 d5f7 e8d8 d1h5",
+    "Rating": "2479",
+    "RatingDeviation": "81",
+    "Popularity": "83",
+    "NbPlays": "113",
+    "Themes": "attackingF2F7 crushing middlegame short",
+    "GameUrl": "https://lichess.org/8igD7IEf/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "161An",
+    "FEN": "4r1k1/N2b1ppp/p4q2/2b5/2P5/2NP4/1P2QPPP/R4K1R w - - 5 21",
+    "Moves": "e2f3 f6f3 g2f3 d7h3 f1g1 f7f5 c3e4 f5e4",
+    "Rating": "2706",
+    "RatingDeviation": "96",
+    "Popularity": "95",
+    "NbPlays": "656",
+    "Themes": "crushing middlegame quietMove veryLong",
+    "GameUrl": "https://lichess.org/IKiatkF0#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "163GK",
+    "FEN": "2k4r/p1p5/1p6/nP1pP1P1/5P2/2P3qb/P1Q2R2/R5KB w - - 0 32",
+    "Moves": "f2g2 h3g2 h1g2 a5c4 c2f2 h8h1 g1h1 g3f2",
+    "Rating": "2540",
+    "RatingDeviation": "90",
+    "Popularity": "80",
+    "NbPlays": "216",
+    "Themes": "crushing deflection exposedKing kingsideAttack middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/QohvsoJq#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "163ej",
+    "FEN": "3qk2r/p1p2p2/Q6p/2b1P3/3n2p1/2NP2P1/Pr1N2P1/R3K2R w KQk - 0 18",
+    "Moves": "d2e4 d4c2 e1d1 c2e3 d1c1 b2c2",
+    "Rating": "2475",
+    "RatingDeviation": "77",
+    "Popularity": "95",
+    "NbPlays": "119",
+    "Themes": "crushing exposedKing fork long middlegame",
+    "GameUrl": "https://lichess.org/qR9IOKgR#35",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Falkbeer_Countergambit"
+  },
+  {
+    "PuzzleId": "166oR",
+    "FEN": "3r2k1/ppp2p1p/q3b1pQ/2n1p2P/P3P1P1/5PN1/1P4B1/R6K b - - 0 23",
+    "Moves": "c5d3 h5g6 h7g6 g3h5 g6h5 h6g5",
+    "Rating": "2553",
+    "RatingDeviation": "92",
+    "Popularity": "90",
+    "NbPlays": "537",
+    "Themes": "advantage kingsideAttack long middlegame quietMove sacrifice",
+    "GameUrl": "https://lichess.org/XlputuLc/black#46",
+    "OpeningTags": ""
+  }
+]

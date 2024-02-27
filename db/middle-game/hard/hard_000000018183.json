@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "lDLXS",
+    "FEN": "r5k1/3nrppp/p2q2b1/1ppN4/3pP1P1/1P1P4/P1B1Q3/R1B2R1K w - - 3 29",
+    "Moves": "c1f4 d6d5 e4d5 e7e2",
+    "Rating": "1658",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1553",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/hQ0Zfpv3#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lDO7k",
+    "FEN": "r6r/3nk1p1/p1pb1p1p/1p2p3/4P2B/3R4/PPPN1PPP/2KR4 b - - 1 18",
+    "Moves": "d7c5 d3d6 e7d6 d2b3 d6e7 b3c5",
+    "Rating": "1778",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "3788",
+    "Themes": "advantage deflection discoveredAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/KDpkujS9/black#36",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "lDONS",
+    "FEN": "rn2kb1r/pp3pp1/2p1p2p/7Q/3q4/1PnB1P2/P1PNN1PP/R3K2R b KQkq - 1 14",
+    "Moves": "d4e3 d2c4 e3g5 h5g5 h6g5 e2c3 f8b4 e1d2",
+    "Rating": "1664",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "884",
+    "Themes": "advantage defensiveMove middlegame veryLong",
+    "GameUrl": "https://lichess.org/SgjJvaNQ/black#28",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Mieses-Kotroc_Variation"
+  },
+  {
+    "PuzzleId": "lDPRg",
+    "FEN": "6kb/r3r1n1/8/2p5/Pp1nB1P1/1P5P/5R2/2B1R1K1 b - - 6 41",
+    "Moves": "d4b3 e4d5 g8h7 e1e7",
+    "Rating": "1645",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "4211",
+    "Themes": "advantage discoveredAttack fork middlegame short",
+    "GameUrl": "https://lichess.org/L65GwGU5/black#82",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lDRus",
+    "FEN": "r3k3/2pb1p2/p1nppq2/8/Q2PP3/5P2/PPP3P1/2KR1BN1 w q - 3 18",
+    "Moves": "f1b5 f6g5 c1b1 g5b5 a4b5 a6b5",
+    "Rating": "1778",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "962",
+    "Themes": "advantage long master middlegame",
+    "GameUrl": "https://lichess.org/M9Hrfadq#35",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "lDVgO",
+    "FEN": "r4rk1/2p2pp1/p5np/1p1b1Rq1/3P4/1BP4P/PP4P1/RN3QK1 b - - 6 18",
+    "Moves": "d5g2 f5g5 g2f1 g5g6",
+    "Rating": "1699",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "61",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/WqGP40RI/black#36",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Morphy_Defense"
+  },
+  {
+    "PuzzleId": "lDWZz",
+    "FEN": "r1bq1k2/pp4bQ/4p1P1/3p2P1/3P1r2/N2n4/PP1K1PB1/R6R b - - 2 23",
+    "Moves": "d3f2 h7h8 g7h8 h1h8 f8g7 h8d8",
+    "Rating": "1758",
+    "RatingDeviation": "102",
+    "Popularity": "71",
+    "NbPlays": "32",
+    "Themes": "advantage exposedKing long middlegame sacrifice skewer",
+    "GameUrl": "https://lichess.org/GeK4thpx/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lDZ3h",
+    "FEN": "r3rb2/pbq2pkp/1p2pNnQ/2p2p2/8/PB1P3P/1PPB1PP1/R3R1K1 b - - 5 21",
+    "Moves": "g7f6 d2g5",
+    "Rating": "1723",
+    "RatingDeviation": "103",
+    "Popularity": "64",
+    "NbPlays": "128",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/R8FIr7aX/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lDZGj",
+    "FEN": "3r4/3n4/p4pkn/4pq2/2P1QN2/8/PP4P1/K6R b - - 5 41",
+    "Moves": "g6g7 e4f5 h6f5 f4e6 g7f7 e6d8",
+    "Rating": "1750",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "11219",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/oLlX3IxQ/black#82",
+    "OpeningTags": ""
+  }
+]

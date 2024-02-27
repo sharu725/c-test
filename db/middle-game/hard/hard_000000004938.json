@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "CrLbl",
+    "FEN": "r2q1rk1/1pp2ppp/p1b2n2/2b5/3NP3/2N1B3/PPPQ2PP/R4RK1 b - - 4 12",
+    "Moves": "c6e4 f1f6 d8f6 c3e4",
+    "Rating": "1740",
+    "RatingDeviation": "74",
+    "Popularity": "82",
+    "NbPlays": "122",
+    "Themes": "advantage capturingDefender intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/pJUp7lba/black#24",
+    "OpeningTags": "Vienna_Game Vienna_Game_Vienna_Gambit"
+  },
+  {
+    "PuzzleId": "CrOPC",
+    "FEN": "4kb1r/rB1pnppp/p2q1n2/1p6/3N4/6P1/PPP2P1P/R1BQR1K1 w k - 1 14",
+    "Moves": "d4f5 d6d1 e1d1 e7f5",
+    "Rating": "1727",
+    "RatingDeviation": "78",
+    "Popularity": "77",
+    "NbPlays": "38",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/CqUnIGoG#27",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Kan_Variation"
+  },
+  {
+    "PuzzleId": "CrOUR",
+    "FEN": "r1b2rk1/pp4b1/6p1/q3p1B1/4Q3/2P5/PP2BPPP/R5K1 b - - 0 19",
+    "Moves": "c8f5 e2c4 f8f7 c4f7 g8f7 e4b7",
+    "Rating": "1695",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "2307",
+    "Themes": "attraction crushing exposedKing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/Q0clXpBd/black#38",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CrOY0",
+    "FEN": "r2qk2r/4n1Bp/b4pp1/p2pp3/8/1BPQ4/P1P2PPP/R4RK1 w kq - 2 16",
+    "Moves": "b3a4 e8f7 g7h8 a6d3",
+    "Rating": "1629",
+    "RatingDeviation": "77",
+    "Popularity": "78",
+    "NbPlays": "83",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/kvS9OwY0#31",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_OKelly_Variation"
+  },
+  {
+    "PuzzleId": "CrRBu",
+    "FEN": "6r1/1p5k/p3p1p1/1b1pBq1r/3P1P1P/2P3QR/6R1/6K1 b - - 14 40",
+    "Moves": "b5d3 g3d3 f5d3 h3d3",
+    "Rating": "1602",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "159",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/fefNHlu7/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CrRKn",
+    "FEN": "4b1k1/1pr3p1/pq1npr1p/3p3P/3P2P1/P1N2N2/1P1Q1PK1/2R1R3 w - - 6 27",
+    "Moves": "c3d5 e6d5 c1c7 b6c7",
+    "Rating": "1698",
+    "RatingDeviation": "82",
+    "Popularity": "84",
+    "NbPlays": "40",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/b6o52ldG#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CrTfa",
+    "FEN": "4r2k/pp5p/8/2p1r1pb/3Q1p1q/2NP4/PPP2RB1/4R1K1 w - - 0 31",
+    "Moves": "e1e5 c5d4 e5e8 h5e8",
+    "Rating": "1704",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "1367",
+    "Themes": "crushing hangingPiece master middlegame short",
+    "GameUrl": "https://lichess.org/vHqIFB3J#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "CrU9G",
+    "FEN": "1rq1r1k1/p1pb1pbp/3p2p1/2pN4/4P3/4BP2/PPPQ2PP/1R3RK1 b - - 0 16",
+    "Moves": "b8b2 b1b2 g7b2 c2c3",
+    "Rating": "1668",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "5053",
+    "Themes": "crushing defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/KYAc79PR/black#32",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CrUwe",
+    "FEN": "2r2rk1/5pnp/p3b1p1/1p1pP3/3P1NP1/6QP/PPq2P2/R1B1R1K1 w - - 1 25",
+    "Moves": "e1e2 c2d1 g1h2 c8c1 a1c1 d1c1",
+    "Rating": "1679",
+    "RatingDeviation": "74",
+    "Popularity": "88",
+    "NbPlays": "957",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/vZQwu1Pe#49",
+    "OpeningTags": ""
+  }
+]

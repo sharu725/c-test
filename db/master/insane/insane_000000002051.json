@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "sej4R",
+    "FEN": "7R/7P/8/4pK2/4P3/2p5/2k4r/8 b - - 1 50",
+    "Moves": "h2h5 f5g6 h5h1 h8d8",
+    "Rating": "2736",
+    "RatingDeviation": "94",
+    "Popularity": "88",
+    "NbPlays": "378",
+    "Themes": "crushing defensiveMove endgame master rookEndgame short",
+    "GameUrl": "https://lichess.org/cDE1pEjm/black#100",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sejbc",
+    "FEN": "r5k1/1p2bppp/p1q1pn2/6B1/2PQ4/2N4P/PP3PP1/3R2K1 b - - 0 19",
+    "Moves": "a8d8 d4d8 e7d8 d1d8 f6e8 c3d5 e6d5 c4d5 c6a4 b2b3 a4b5 d5d6 f7f6 d6d7",
+    "Rating": "2798",
+    "RatingDeviation": "105",
+    "Popularity": "88",
+    "NbPlays": "591",
+    "Themes": "advancedPawn crushing master middlegame pin quietMove sacrifice veryLong",
+    "GameUrl": "https://lichess.org/KifWmqHc/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Moscow_Variation"
+  },
+  {
+    "PuzzleId": "seofX",
+    "FEN": "8/5p2/8/1p2k2p/pB1p3P/3K4/5P2/8 b - - 9 42",
+    "Moves": "e5d5 f2f4 d5e6 d3e4",
+    "Rating": "2420",
+    "RatingDeviation": "101",
+    "Popularity": "89",
+    "NbPlays": "502",
+    "Themes": "bishopEndgame crushing endgame master quietMove short",
+    "GameUrl": "https://lichess.org/etGJMcJS/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sf0qb",
+    "FEN": "8/8/1p6/2k3p1/6P1/2K5/1P6/8 b - - 0 42",
+    "Moves": "c5b5 c3d4 b5b4 d4d5",
+    "Rating": "2498",
+    "RatingDeviation": "83",
+    "Popularity": "72",
+    "NbPlays": "115",
+    "Themes": "crushing defensiveMove endgame master pawnEndgame short",
+    "GameUrl": "https://lichess.org/2BUQbCcI/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sfI2o",
+    "FEN": "8/5Qp1/1p3bkp/1q1B1p2/8/8/P4PPP/1r3RK1 b - - 6 31",
+    "Moves": "g6g5 f2f4 g5g4 f7g6 f6g5 d5f3",
+    "Rating": "2427",
+    "RatingDeviation": "80",
+    "Popularity": "81",
+    "NbPlays": "186",
+    "Themes": "crushing endgame long master pin",
+    "GameUrl": "https://lichess.org/6WHH2IJk/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sfMUc",
+    "FEN": "rnb1kb2/pp3p1p/3p1B2/2p5/1qB2P2/P7/2PN2rP/R2QK2R b KQq - 0 15",
+    "Moves": "b4a4 d1h5 g2g6 h5e2",
+    "Rating": "2549",
+    "RatingDeviation": "83",
+    "Popularity": "72",
+    "NbPlays": "116",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/Yh9EslAH/black#30",
+    "OpeningTags": "Trompowsky_Attack Trompowsky_Attack_Poisoned_Pawn_Variation"
+  },
+  {
+    "PuzzleId": "sfQey",
+    "FEN": "3q4/3kb3/2p1b1Q1/p2pPpP1/2pP4/2P1B3/PP6/1KN5 w - - 1 40",
+    "Moves": "g6h7 f5f4 e3f4 d8f8 h7h2 f8f5 b1a1 f5e4",
+    "Rating": "2604",
+    "RatingDeviation": "80",
+    "Popularity": "84",
+    "NbPlays": "83",
+    "Themes": "advantage endgame master veryLong",
+    "GameUrl": "https://lichess.org/P1QFZQo7#79",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "sfTt5",
+    "FEN": "r2qr1k1/ppp2pbp/4b1p1/3Pn3/2B3n1/5N2/PP4PP/RNBQ1RK1 w - - 0 14",
+    "Moves": "f3e5 g7e5 d5e6 e5h2 g1h1 g4f2 h1h2 d8h4 h2g1 f2d1",
+    "Rating": "2651",
+    "RatingDeviation": "114",
+    "Popularity": "91",
+    "NbPlays": "420",
+    "Themes": "advantage fork master opening sacrifice veryLong",
+    "GameUrl": "https://lichess.org/D5c5hVIW#27",
+    "OpeningTags": "Indian_Defense Indian_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "sfoy5",
+    "FEN": "r3k2r/q3p2p/2p1pnpQ/3P4/1p6/1P1B1P2/P5PP/1K1R3R w kq - 1 21",
+    "Moves": "d3g6 h7g6 h6h8 e8d7",
+    "Rating": "2528",
+    "RatingDeviation": "82",
+    "Popularity": "77",
+    "NbPlays": "141",
+    "Themes": "advantage defensiveMove master middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/6lYKtk5s#41",
+    "OpeningTags": ""
+  }
+]

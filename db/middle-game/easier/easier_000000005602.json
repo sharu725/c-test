@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "GzfLX",
+    "FEN": "1r4k1/3Q2pp/p1N1pp2/8/2b1qP2/4P2P/3B1RPK/1r6 b - - 3 35",
+    "Moves": "e4d5 c6e7 g8h8 e7d5",
+    "Rating": "1137",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "1595",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/jWb1LQxX/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GzgRf",
+    "FEN": "r6r/pp6/2k2p2/2p5/3nN3/1B6/PPP2PPP/3R1RK1 w - - 2 29",
+    "Moves": "e4f6 d4e2 g1h1 h8h2 h1h2 a8h8 f6h7 h8h7",
+    "Rating": "1106",
+    "RatingDeviation": "80",
+    "Popularity": "89",
+    "NbPlays": "331",
+    "Themes": "anastasiaMate attraction mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/bpkK8adc#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GzhOn",
+    "FEN": "r1b1r3/ppp1qkpp/5n2/4n3/7Q/2N5/PB2NPPP/R4RK1 b - - 10 14",
+    "Moves": "e5d3 h4c4 c8e6 c4d3",
+    "Rating": "1158",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "6616",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/BvCJAhVO/black#28",
+    "OpeningTags": "Danish_Gambit Danish_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "GzhUA",
+    "FEN": "r4rk1/pp2q1pp/2pb2p1/4n3/P3B3/2P3P1/1PQ2P1P/R1B2RK1 w - - 0 16",
+    "Moves": "f1e1 e5f3 e4f3 e7e1",
+    "Rating": "1057",
+    "RatingDeviation": "96",
+    "Popularity": "69",
+    "NbPlays": "35",
+    "Themes": "crushing discoveredAttack fork middlegame short",
+    "GameUrl": "https://lichess.org/YVIZ1x0l#31",
+    "OpeningTags": "Kings_Indian_Attack Kings_Indian_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "GziYN",
+    "FEN": "r4rk1/p5pp/1p3q2/3bp1NQ/8/2PnB1P1/PP2KP2/R6R b - - 5 22",
+    "Moves": "d5h1 h5h7",
+    "Rating": "1172",
+    "RatingDeviation": "100",
+    "Popularity": "43",
+    "NbPlays": "26",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/SPYGuX7J/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Gzl1f",
+    "FEN": "rnb2r2/pp4pk/2P4p/2q1pp2/2B1p3/4P3/PP1N1PPP/2RQK2R b K - 0 15",
+    "Moves": "b8c6 c4g8 f8g8 c1c5",
+    "Rating": "1024",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "1539",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/DQACFBQV/black#30",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Lasker_Defense"
+  },
+  {
+    "PuzzleId": "GzlKg",
+    "FEN": "r1b1r1k1/pp2qppp/1n3n2/3p4/3P4/PPN2B2/1BQ2PPP/R4RK1 w - - 3 16",
+    "Moves": "f1e1 e7e1 a1e1 e8e1",
+    "Rating": "1086",
+    "RatingDeviation": "124",
+    "Popularity": "0",
+    "NbPlays": "11",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/jivafRk2#31",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Three_Knights_Variation"
+  },
+  {
+    "PuzzleId": "Gzm2M",
+    "FEN": "1kr3nr/pb4pp/1p4q1/nB3p2/P2B4/3P1N2/3Q1PPP/R4RK1 b - - 0 20",
+    "Moves": "b7f3 d2f4 c8c7 f4f3",
+    "Rating": "1194",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "6700",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/M9jJIytc/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "GzoTR",
+    "FEN": "r2qk3/1bp1bpp1/p1n1R3/3p2Nr/Pp1P3p/1P3N2/1BPQ1PPP/R5K1 b q - 0 18",
+    "Moves": "f7e6 g5e6 d8d6 e6g7 e8d7 g7h5",
+    "Rating": "1040",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "2305",
+    "Themes": "advantage exposedKing fork long master middlegame",
+    "GameUrl": "https://lichess.org/SMC78EES/black#36",
+    "OpeningTags": "St_George_Defense St_George_Defense_Other_variations"
+  }
+]

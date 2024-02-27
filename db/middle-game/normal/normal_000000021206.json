@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "zuWIR",
+    "FEN": "r3nnkb/pp2r2p/3p2pB/q1pP2P1/2P1PpB1/2N5/PP1Q4/R3K2R w KQ - 0 20",
+    "Moves": "d2f4 h8c3 b2c3 a5c3",
+    "Rating": "1225",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "6761",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/VTSlKRbz#39",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zuaod",
+    "FEN": "3r2k1/1p1r2pp/p2qpn2/Q1p1p3/2P1P3/P2PB2P/5PP1/R2R2K1 b - - 1 21",
+    "Moves": "f6e4 d3e4 d6d1 a1d1 d7d1 g1h2",
+    "Rating": "1319",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4095",
+    "Themes": "crushing hangingPiece long middlegame",
+    "GameUrl": "https://lichess.org/JPAN425V/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zucLl",
+    "FEN": "r1b2rk1/p2p1ppp/2p2n2/2b1p3/NqB1P3/3QBP2/PPP3PP/R3K2R w KQ - 7 12",
+    "Moves": "d3c3 b4c3 a4c3 c5e3",
+    "Rating": "1389",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "8560",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/EJOlSsVN#23",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lowenthal_Variation"
+  },
+  {
+    "PuzzleId": "zucaE",
+    "FEN": "rnb2rk1/pp4pp/2pbp3/3pNp2/3PnP1q/1P1BP3/PBPN2PP/R2QK2R w KQ - 3 10",
+    "Moves": "e1e2 h4f2",
+    "Rating": "1250",
+    "RatingDeviation": "83",
+    "Popularity": "68",
+    "NbPlays": "60",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/adOk4BRi#19",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Zukertort_Variation"
+  },
+  {
+    "PuzzleId": "zucsF",
+    "FEN": "2kr1b1r/pppq1p2/2np2p1/4pPN1/P3P1p1/2PP4/1P2B1P1/RNBQ1K2 w - - 0 14",
+    "Moves": "e2g4 h8h1 f1e2 h1d1",
+    "Rating": "1305",
+    "RatingDeviation": "75",
+    "Popularity": "89",
+    "NbPlays": "273",
+    "Themes": "advantage middlegame short skewer",
+    "GameUrl": "https://lichess.org/n0BXtQjW#27",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Queens_Knight_Defense"
+  },
+  {
+    "PuzzleId": "zue7j",
+    "FEN": "r2q1rk1/4n2p/p2p1bP1/1p1P1pN1/4p2Q/3B4/PPP2PP1/R3R1K1 b - - 0 20",
+    "Moves": "f6g5 h4h7",
+    "Rating": "1226",
+    "RatingDeviation": "77",
+    "Popularity": "89",
+    "NbPlays": "388",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/5VXe9b0r/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zufi0",
+    "FEN": "r3k1nr/pp3ppp/4q3/1N6/3p2b1/3P4/PP1QBPPP/R3K2R b KQkq - 0 13",
+    "Moves": "g4e2 b5c7 e8f8 c7e6",
+    "Rating": "1390",
+    "RatingDeviation": "77",
+    "Popularity": "82",
+    "NbPlays": "96",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/rSJi6R55/black#26",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Staunton-Cochrane_Variation"
+  },
+  {
+    "PuzzleId": "zug2E",
+    "FEN": "r2qr1k1/p4p1p/1p2p1RB/3n4/2BP3b/2PQ1P2/P4P2/6RK b - - 0 20",
+    "Moves": "f7g6 g1g6 g8h8 h6g7",
+    "Rating": "1265",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1480",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/57PrxceG/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "zuiiV",
+    "FEN": "r2q1rk1/1pp2ppn/1bbp4/4p1P1/p3P1P1/2NP1N2/PPPQ1P2/2K3RR w - - 1 15",
+    "Moves": "h1h7 g8h7 g1h1 h7g8",
+    "Rating": "1249",
+    "RatingDeviation": "77",
+    "Popularity": "58",
+    "NbPlays": "63",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/qZb5x9UV#29",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Classical_Variation"
+  }
+]

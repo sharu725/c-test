@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "esCLI",
+    "FEN": "6k1/ppb3r1/2p3r1/3p4/3PpPq1/BP2P3/P1K2Q2/2R4R b - - 0 35",
+    "Moves": "g4f3 f2h4 f3g2 c2b1",
+    "Rating": "1906",
+    "RatingDeviation": "74",
+    "Popularity": "78",
+    "NbPlays": "810",
+    "Themes": "crushing defensiveMove middlegame quietMove short",
+    "GameUrl": "https://lichess.org/GvCuwecs/black#70",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "esDBN",
+    "FEN": "r6r/4kpp1/p3p3/3pNqp1/2pP1nP1/Q7/PP3P2/R3RK2 b - - 1 24",
+    "Moves": "e7f6 e5d7 f6g6 g4f5",
+    "Rating": "1857",
+    "RatingDeviation": "77",
+    "Popularity": "84",
+    "NbPlays": "200",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/6l6lswl7/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "esDMp",
+    "FEN": "2k1r2r/2p2p2/p1P2n1p/Np2p1p1/4Pq2/3P1P2/PB3P1P/2RQ1RK1 w - - 1 22",
+    "Moves": "a2a4 g5g4 g1h1 g4f3 f1g1 f6g4 g1g4 f4g4",
+    "Rating": "1843",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "227",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/MyOq2ZHU#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "esEX1",
+    "FEN": "2r2rk1/pp1q2pp/8/3P1p1b/1nP1n3/3Q1N1P/P1P1B1PB/R4RK1 w - - 1 17",
+    "Moves": "d3a3 b4c2 a3b2 c2a1 f3e5 d7e8",
+    "Rating": "1991",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "465",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/2ROF84TV#33",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  },
+  {
+    "PuzzleId": "esGk9",
+    "FEN": "r4rk1/pp4q1/1n4pQ/3Pp1N1/2Pn4/1P1B1p2/P4P2/R3K2R w KQ - 6 26",
+    "Moves": "d3g6 g7h6 h1h6 g8g7 h6h1 g7g6",
+    "Rating": "1930",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "522",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/Jjpbq7zB#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "esHXM",
+    "FEN": "2r1r1k1/4q2p/p2p2p1/3P1b2/2P1Np2/5P1P/P2Q2P1/2R1R1K1 w - - 1 31",
+    "Moves": "e4g3 e7a7",
+    "Rating": "1804",
+    "RatingDeviation": "76",
+    "Popularity": "74",
+    "NbPlays": "241",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/ZTXl5H6T#61",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "esIYo",
+    "FEN": "r3r2k/p1p2p2/2p2n1p/4N3/8/2P4P/qP2QP2/3RK1R1 b - - 3 23",
+    "Moves": "e8e5 e2e5 a8e8 d1d8 a2a1 e1e2 a1g1 d8e8",
+    "Rating": "1979",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "2355",
+    "Themes": "crushing hangingPiece middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/wMhT6UXm/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "esJxX",
+    "FEN": "r2q3r/pb1k2pp/8/1p1nR3/8/5Q2/RBPP1PPP/6K1 b - - 0 17",
+    "Moves": "h8e8 e5d5 b7d5 f3d5",
+    "Rating": "1828",
+    "RatingDeviation": "77",
+    "Popularity": "92",
+    "NbPlays": "852",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/yc76m5mX/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Wing_Gambit"
+  },
+  {
+    "PuzzleId": "esMDn",
+    "FEN": "r4rk1/pbqnb1pp/1pn5/2p1Np2/2Np1P2/3P3B/PPP1Q1PP/R1B2RK1 b - - 1 15",
+    "Moves": "e7d6 e5c6 a8e8 c6e5",
+    "Rating": "1868",
+    "RatingDeviation": "102",
+    "Popularity": "83",
+    "NbPlays": "71",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/YyT5vi8U/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Closed"
+  }
+]

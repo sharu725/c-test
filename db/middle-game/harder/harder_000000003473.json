@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ASATL",
+    "FEN": "5rk1/pb2q2p/1p2p1pQ/4P1N1/3P1r2/5P1R/P2R1K1P/8 b - - 6 29",
+    "Moves": "b7f3 h3f3 f4f3 g5f3",
+    "Rating": "1815",
+    "RatingDeviation": "136",
+    "Popularity": "20",
+    "NbPlays": "13",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/vNEyGoaK/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ASBau",
+    "FEN": "3r2k1/p5Bq/2p5/2b3Q1/1p2r3/7P/PPP3P1/5R1K b - - 3 29",
+    "Moves": "d8d5 g7e5 h7g7 g5g7",
+    "Rating": "1932",
+    "RatingDeviation": "78",
+    "Popularity": "86",
+    "NbPlays": "117",
+    "Themes": "discoveredAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/fuzrSAB7/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ASCQq",
+    "FEN": "3rr1k1/2p2pp1/p6p/1p2P3/3b1q2/1PB3N1/1PP1Q1PP/5R1K b - - 3 26",
+    "Moves": "f4h4 g3f5 e8e5 e2e5 d4e5 f5h4 e5c3 b2c3",
+    "Rating": "1997",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "888",
+    "Themes": "advantage middlegame veryLong",
+    "GameUrl": "https://lichess.org/UrtPoPPQ/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ASDAm",
+    "FEN": "rn6/4p1k1/p1q2pp1/8/4B3/2q1QK1P/5PP1/7R b - - 5 28",
+    "Moves": "c3b3 e3b3 c6c5 e4a8",
+    "Rating": "1840",
+    "RatingDeviation": "75",
+    "Popularity": "84",
+    "NbPlays": "366",
+    "Themes": "crushing hangingPiece middlegame short skewer",
+    "GameUrl": "https://lichess.org/VDUdQZ8Q/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ASDl1",
+    "FEN": "r1b2rk1/p5pp/2pqp3/1p4N1/2BP2n1/2PQ2P1/P4P1P/3RR1K1 w - - 0 18",
+    "Moves": "g5e6 b5c4 d3c4 c8e6 e1e6 d6d5",
+    "Rating": "1869",
+    "RatingDeviation": "98",
+    "Popularity": "87",
+    "NbPlays": "27",
+    "Themes": "advantage intermezzo long middlegame",
+    "GameUrl": "https://lichess.org/zVCKSurb#35",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Marshall_Defense"
+  },
+  {
+    "PuzzleId": "ASE66",
+    "FEN": "1n3rk1/1Q3ppp/4p3/qp1pN3/1b1Pn3/4P3/PP1B1PPP/3RK2R w K - 5 15",
+    "Moves": "d2b4 a5b4 e1f1 b4b2 e5d3 b2c2",
+    "Rating": "1854",
+    "RatingDeviation": "93",
+    "Popularity": "68",
+    "NbPlays": "31",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/LsOoGvid#29",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Main_Line"
+  },
+  {
+    "PuzzleId": "ASFbF",
+    "FEN": "r1r3k1/pp1q1pp1/3p1b1p/3Pp3/4Pn2/1QN2N2/PPR2PPP/2R3K1 w - - 2 17",
+    "Moves": "b3b5 d7b5 c3b5 f4e2 c2e2 c8c1",
+    "Rating": "1932",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "7520",
+    "Themes": "advantage deflection long middlegame",
+    "GameUrl": "https://lichess.org/IAEyEtwd#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Old_Sicilian"
+  },
+  {
+    "PuzzleId": "ASGZD",
+    "FEN": "r3kb1r/pppb1ppp/2n1pn2/1B1qN3/Q2P4/4P3/PP3PPP/RNB2RK1 b kq - 10 9",
+    "Moves": "f8d6 b1c3 d5e5 d4e5",
+    "Rating": "1873",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1325",
+    "Themes": "crushing middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/AZNSzPXY/black#18",
+    "OpeningTags": "Queens_Gambit_Accepted Queens_Gambit_Accepted_Old_Variation"
+  },
+  {
+    "PuzzleId": "ASHXK",
+    "FEN": "3r1r1k/pp5p/4pp2/4n1q1/2R2P2/1PQ5/P5PP/4R1K1 b - - 0 23",
+    "Moves": "d8d3 f4g5 d3c3 c4c3",
+    "Rating": "1874",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "1161",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/4bF15kqn/black#46",
+    "OpeningTags": ""
+  }
+]

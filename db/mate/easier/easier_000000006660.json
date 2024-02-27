@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PADeI",
+    "FEN": "4rbkr/2p5/p1pp3p/6p1/7N/2N2QPq/PPP2P2/R1B3K1 w - - 2 19",
+    "Moves": "h4g6 e8e1",
+    "Rating": "1036",
+    "RatingDeviation": "81",
+    "Popularity": "68",
+    "NbPlays": "124",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/IyDO6EwZ#37",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Nurnberg_Variation"
+  },
+  {
+    "PuzzleId": "PADxH",
+    "FEN": "r4rk1/4qRp1/p3n1Qp/1ppnP3/3p4/P2B4/1P1B2PP/5RK1 b - - 1 21",
+    "Moves": "f8f7 g6h7 g8f8 h7h8",
+    "Rating": "1179",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "563",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/L7LNBQeO/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PAGeD",
+    "FEN": "4r3/1pp1q2k/p2p2bP/3P2N1/3Q1rp1/3n4/PPP5/1K3R1R b - - 0 28",
+    "Moves": "e7g5 d4g7",
+    "Rating": "1086",
+    "RatingDeviation": "76",
+    "Popularity": "97",
+    "NbPlays": "2620",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/hD2OqbiJ/black#56",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PAHNa",
+    "FEN": "6k1/5ppp/4p3/3qP3/3P1P2/Q3n3/p4KPP/N1r5 b - - 1 42",
+    "Moves": "d5d4 a3a8 c1c8 a8c8 d4d8 c8d8",
+    "Rating": "1084",
+    "RatingDeviation": "91",
+    "Popularity": "86",
+    "NbPlays": "401",
+    "Themes": "backRankMate endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/TRvYi9qk/black#84",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PAHcR",
+    "FEN": "1r4k1/p4ppp/1q6/4p3/3p4/P1rQ4/1P3PPP/2KRR3 w - - 0 21",
+    "Moves": "b2c3 b6b2",
+    "Rating": "1057",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "2428",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/llLc3XKf#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PAJgS",
+    "FEN": "r6r/ppkb1ppp/2n2n2/1N6/5P2/P7/2PQ2PP/q1B1KB1R b K - 6 18",
+    "Moves": "c7b8 d2d6 b8c8 d6c7",
+    "Rating": "1087",
+    "RatingDeviation": "76",
+    "Popularity": "89",
+    "NbPlays": "396",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/Jbprxvm3/black#36",
+    "OpeningTags": "French_Defense French_Defense_Winawer_Variation"
+  },
+  {
+    "PuzzleId": "PAKQt",
+    "FEN": "1r6/7R/P1p1k3/4p3/8/4KP2/2r5/5R2 w - - 4 33",
+    "Moves": "f1a1 b8b3 e3e4 c2e2",
+    "Rating": "1126",
+    "RatingDeviation": "78",
+    "Popularity": "93",
+    "NbPlays": "890",
+    "Themes": "endgame mate mateIn2 rookEndgame short",
+    "GameUrl": "https://lichess.org/dOd9fS3Z#65",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PAKfu",
+    "FEN": "rnbq1rk1/ppp1b1n1/6B1/3pp1P1/3P3Q/4P3/PPPN1PP1/R3K2R b KQ - 1 13",
+    "Moves": "e7g5 h4h7",
+    "Rating": "1112",
+    "RatingDeviation": "78",
+    "Popularity": "82",
+    "NbPlays": "76",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/M7WjTOsx/black#26",
+    "OpeningTags": "Torre_Attack Torre_Attack_Other_variations"
+  },
+  {
+    "PuzzleId": "PALUO",
+    "FEN": "2r5/4R2R/5kr1/1p1p1p2/7P/8/8/1K6 b - - 0 36",
+    "Moves": "c8c4 h7f7",
+    "Rating": "1159",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "211",
+    "Themes": "endgame mate mateIn1 oneMove rookEndgame",
+    "GameUrl": "https://lichess.org/DhlKrmtF/black#72",
+    "OpeningTags": ""
+  }
+]

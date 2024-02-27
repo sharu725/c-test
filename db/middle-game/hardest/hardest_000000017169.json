@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ZZQGT",
+    "FEN": "1rb2rk1/1p3p2/p2N1R2/3Pn3/P2p3p/4q3/1PQ1B1PP/4R2K b - - 0 30",
+    "Moves": "d4d3 c2c3 d3d2 c3e3 d2e1q f6f1 e1f1 e2f1",
+    "Rating": "2277",
+    "RatingDeviation": "89",
+    "Popularity": "91",
+    "NbPlays": "274",
+    "Themes": "crushing middlegame veryLong",
+    "GameUrl": "https://lichess.org/wfF8v1hC/black#60",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZZQqt",
+    "FEN": "1r3rk1/1bRn1ppp/pp1qpn2/3p4/N2N4/1P4PP/P2QPPB1/2R3K1 b - - 0 20",
+    "Moves": "f8c8 c7b7 c8c1 d2c1 b8b7 c1c8 d7f8 c8b7",
+    "Rating": "2099",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "125",
+    "Themes": "crushing fork middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/dfDNa1wG/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZZRMI",
+    "FEN": "2b3k1/1rP2pbp/1q2p1p1/1r1p4/Q2P4/PNR1P3/1B3PPP/R5K1 w - - 1 30",
+    "Moves": "g2g3 b7a7 a4a7 b6a7",
+    "Rating": "2089",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "7754",
+    "Themes": "advantage middlegame short trappedPiece",
+    "GameUrl": "https://lichess.org/l6Aq47St#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZZS7L",
+    "FEN": "r4r2/pbqn1pk1/1p2p1p1/3p3p/3P3P/2P5/PPBQN1P1/R4R1K b - - 1 21",
+    "Moves": "d7f6 f1f6 g7f6 d2g5 f6g7 e2f4",
+    "Rating": "2067",
+    "RatingDeviation": "77",
+    "Popularity": "91",
+    "NbPlays": "750",
+    "Themes": "attraction crushing long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/exmOQre2/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZZSm1",
+    "FEN": "3rk2r/1p2ppQp/p4qp1/8/6n1/2N5/PPP2PPP/R3R1K1 w k - 3 17",
+    "Moves": "e1e7 e8e7 a1e1 e7d7",
+    "Rating": "2068",
+    "RatingDeviation": "159",
+    "Popularity": "45",
+    "NbPlays": "7",
+    "Themes": "crushing defensiveMove hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/OE0gpCI2#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Nyezhmetdinov-Rossolimo_Attack"
+  },
+  {
+    "PuzzleId": "ZZUY0",
+    "FEN": "2kr3r/pp1bnpQp/1q2p3/3pP2P/1b1p4/PP1P1N2/5PP1/RNBR2K1 b - - 0 17",
+    "Moves": "d8g8 g7f6 b4c3 b1c3",
+    "Rating": "2315",
+    "RatingDeviation": "80",
+    "Popularity": "88",
+    "NbPlays": "564",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/xLATLAGv/black#34",
+    "OpeningTags": "French_Defense French_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "ZZV0r",
+    "FEN": "3r1r1k/pb1q1p1p/1pp3pQ/4P3/4p2b/P6P/BPP1N1P1/R4R1K b - - 1 26",
+    "Moves": "h4e7 a2f7 d7d2 e2f4 f8f7 f4g6 h8g8 g6e7 f7e7 f1f8 d8f8 h6d2",
+    "Rating": "2357",
+    "RatingDeviation": "88",
+    "Popularity": "79",
+    "NbPlays": "45",
+    "Themes": "crushing deflection kingsideAttack middlegame pin veryLong",
+    "GameUrl": "https://lichess.org/prNIDyGj/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZZVLO",
+    "FEN": "1Q3b1r/p4kpp/5n2/q7/5N2/2N1r3/PP4PP/R4RK1 w - - 2 22",
+    "Moves": "f4d5 f8c5 b8h8 e3e8 g1h1 e8h8",
+    "Rating": "2132",
+    "RatingDeviation": "76",
+    "Popularity": "86",
+    "NbPlays": "185",
+    "Themes": "advantage discoveredAttack long middlegame quietMove sacrifice",
+    "GameUrl": "https://lichess.org/VOHZUHKa#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "ZZVnb",
+    "FEN": "2r1r1k1/pp1n1pp1/1qp1p1p1/7n/2Q1P1P1/1P1P1N1P/PB3bBK/R4R2 b - - 0 18",
+    "Moves": "h5g3 f1f2 b6f2 b2d4 g3f1 a1f1",
+    "Rating": "2175",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "3635",
+    "Themes": "advantage long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/MrCOW92R/black#36",
+    "OpeningTags": "Reti_Opening Reti_Opening_Other_variations"
+  }
+]

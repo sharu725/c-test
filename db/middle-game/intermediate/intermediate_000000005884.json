@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "E8tEx",
+    "FEN": "2rr2k1/1b1q1ppp/p1n1p3/1ppn2N1/8/2PP2B1/PPB2PPP/R2QR1K1 b - - 0 17",
+    "Moves": "c6e7 d1h5 e7f5 h5h7",
+    "Rating": "1573",
+    "RatingDeviation": "77",
+    "Popularity": "88",
+    "NbPlays": "148",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/AClO5oSJ/black#34",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Delayed_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "E8tgd",
+    "FEN": "r3k2r/ppp1q3/3p1pN1/2b1p2p/2N1P1n1/3P4/PPP1QPP1/R1B3K1 b kq - 0 17",
+    "Moves": "c5f2 e2f2 g4f2 g6e7",
+    "Rating": "1467",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality middlegame short",
+    "GameUrl": "https://lichess.org/OykhRuR2/black#34",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "E8xbb",
+    "FEN": "r1b2kr1/pp5p/3p1qp1/2pQ4/3NP3/B7/P4PPP/3R2K1 b - - 0 18",
+    "Moves": "c5d4 a3d6 f8g7 d6e5",
+    "Rating": "1462",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1714",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/pb3arqmE/black#36",
+    "OpeningTags": "Italian_Game Italian_Game_Evans_Gambit"
+  },
+  {
+    "PuzzleId": "E8xxN",
+    "FEN": "r1bq1rk1/ppp2pbp/4pnp1/4n1B1/2B5/2N2N2/PPP2PPP/R2Q1RK1 w - - 0 10",
+    "Moves": "d1d8 e5f3 g2f3 f8d8",
+    "Rating": "1489",
+    "RatingDeviation": "75",
+    "Popularity": "87",
+    "NbPlays": "194",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/h8xqRDyh#19",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "E8xzT",
+    "FEN": "r2qr1k1/1p3ppp/p1pp1b2/8/3PPBb1/1PPQ1N2/1P4PP/R4RK1 w - - 0 15",
+    "Moves": "e4e5 d6e5 f3e5 f6e5",
+    "Rating": "1423",
+    "RatingDeviation": "93",
+    "Popularity": "53",
+    "NbPlays": "27",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/26czg02m#29",
+    "OpeningTags": "Kings_Gambit_Declined Kings_Gambit_Declined_Queens_Knight_Defense"
+  },
+  {
+    "PuzzleId": "E8yQk",
+    "FEN": "6r1/pb5p/1p3k2/2p1pN2/2P5/2NBB3/PP6/1R3K1r w - - 4 26",
+    "Moves": "f1f2 g8g2",
+    "Rating": "1462",
+    "RatingDeviation": "92",
+    "Popularity": "82",
+    "NbPlays": "231",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/fQVYngGE#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "E90rK",
+    "FEN": "r1b1kb1r/pp3ppp/2n1pn2/q1P3B1/2PpN3/5N2/PP2PPPP/R2QKB1R w KQkq - 6 8",
+    "Moves": "d1d2 f6e4 d2a5 c6a5",
+    "Rating": "1485",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "4771",
+    "Themes": "crushing hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/VHZhZl1B#15",
+    "OpeningTags": "Tarrasch_Defense Tarrasch_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "E91lT",
+    "FEN": "r7/4qkp1/1p1p1p2/p1pP1PnQ/P1r5/8/1P2N3/1K2B2R b - - 5 33",
+    "Moves": "g7g6 h5g6 f7f8 h1h8",
+    "Rating": "1497",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "2548",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/S7Ru1ssS/black#66",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "E95Su",
+    "FEN": "3q1rk1/p2b1p2/2p2n1Q/3pp3/3P3P/2bB2R1/PrP2PP1/R2K4 b - - 1 18",
+    "Moves": "d7g4 g3g4 f6g4 h6h7",
+    "Rating": "1475",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1171",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/m67wPZFQ/black#36",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  }
+]

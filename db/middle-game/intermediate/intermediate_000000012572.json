@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "UCNQR",
+    "FEN": "4rrk1/2p2P1p/6p1/p7/1qb5/2Q5/PBP3PP/6RK b - - 0 25",
+    "Moves": "c4f7 c3g7",
+    "Rating": "1468",
+    "RatingDeviation": "457",
+    "Popularity": "33",
+    "NbPlays": "5",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/TqFuWBiy/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UCOpp",
+    "FEN": "rnb5/ppkp4/2p2Q2/3Pp3/2P5/4P3/q5PP/1R3RK1 b - - 2 25",
+    "Moves": "a2c4 d5d6",
+    "Rating": "1590",
+    "RatingDeviation": "84",
+    "Popularity": "91",
+    "NbPlays": "9198",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/OJPx2nlU/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UCRQS",
+    "FEN": "4r1k1/p4pbp/1q4p1/2Np4/8/4r1P1/PP1Q2BP/2RR2K1 w - - 2 22",
+    "Moves": "c5d7 e3e1",
+    "Rating": "1475",
+    "RatingDeviation": "91",
+    "Popularity": "78",
+    "NbPlays": "340",
+    "Themes": "doubleCheck mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/DzqvdJ2O#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UCUhA",
+    "FEN": "2r2rk1/4bppp/pq3n2/4Q1B1/1pB1bp2/1P6/P3N1PP/3R1R1K b - - 1 23",
+    "Moves": "b6c7 g5f6 e4g2 h1g2",
+    "Rating": "1544",
+    "RatingDeviation": "149",
+    "Popularity": "87",
+    "NbPlays": "12",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/HIIpAcvB/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UCVSl",
+    "FEN": "r2q1rk1/pp2npbp/3p2p1/nQ1N4/4P3/4BN2/PP3PPP/R4RK1 b - - 0 14",
+    "Moves": "a7a6 d5e7 d8e7 b5a5",
+    "Rating": "1460",
+    "RatingDeviation": "96",
+    "Popularity": "23",
+    "NbPlays": "82",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/aYWvCe5D/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Delayed_Alapin"
+  },
+  {
+    "PuzzleId": "UCVup",
+    "FEN": "6k1/1pp2ppp/4r3/p7/P2P2P1/2P3b1/1P2QBP1/R4KNq w - - 1 24",
+    "Moves": "e2f3 g3f2 f3f2 e6f6 f2f6 g7f6",
+    "Rating": "1500",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "2888",
+    "Themes": "advantage long middlegame pin",
+    "GameUrl": "https://lichess.org/f5QUX701#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UCWrP",
+    "FEN": "5rk1/4Qpp1/NPR1pn2/3pNb1p/3P4/1q2P3/5PPP/1rR3K1 w - - 4 26",
+    "Moves": "b6b7 b3d1 c1d1 b1d1",
+    "Rating": "1528",
+    "RatingDeviation": "79",
+    "Popularity": "88",
+    "NbPlays": "3427",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short xRayAttack",
+    "GameUrl": "https://lichess.org/DZQK5u13#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UCZtA",
+    "FEN": "r4rk1/1pp2pp1/7p/p2pP3/3P2bq/3B4/PP2Q1PP/R1BR2K1 w - - 2 18",
+    "Moves": "e2d2 g4d1 d2d1 h4d4",
+    "Rating": "1469",
+    "RatingDeviation": "369",
+    "Popularity": "-43",
+    "NbPlays": "3",
+    "Themes": "discoveredAttack equality middlegame short",
+    "GameUrl": "https://lichess.org/VCd8QKfN#35",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "UCa5U",
+    "FEN": "r1br2k1/p4pqp/2nP2p1/2p5/1P2P3/P2B4/3B2P1/2RQ1RK1 w - - 0 26",
+    "Moves": "b4c5 g7d4 g1h1 d4d3",
+    "Rating": "1401",
+    "RatingDeviation": "500",
+    "Popularity": "100",
+    "NbPlays": "0",
+    "Themes": "equality fork middlegame short",
+    "GameUrl": "https://lichess.org/B9dyFYoE#51",
+    "OpeningTags": ""
+  }
+]

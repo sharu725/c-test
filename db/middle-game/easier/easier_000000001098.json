@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "3NTMY",
+    "FEN": "r1q2rk1/pp2bppp/4pnN1/1Q1p2B1/3n2P1/2N4P/PP3PB1/2R1K2R b K - 0 15",
+    "Moves": "d4b5 g6e7 g8h8 e7c8",
+    "Rating": "1086",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "279",
+    "Themes": "advantage fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/Ql1w8TyD/black#30",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "3NV9S",
+    "FEN": "5rk1/1b3p1p/1b4p1/1p1qP3/1Prp1B2/3Q1P2/6PP/1BR1R2K w - - 1 26",
+    "Moves": "b1a2 c4c1 f4c1 d5a2",
+    "Rating": "1137",
+    "RatingDeviation": "96",
+    "Popularity": "68",
+    "NbPlays": "44",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/4x5LsD1K#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3NWgy",
+    "FEN": "r2k3r/pppbb1pp/5N2/4n1B1/2P5/P6P/1P3PP1/2KR1B1R w - - 1 16",
+    "Moves": "f6d7 e7g5 c1b1 e5d7",
+    "Rating": "1140",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "102",
+    "Themes": "advantage hangingPiece intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/ugsoo7SP#31",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Albin_Countergambit"
+  },
+  {
+    "PuzzleId": "3NX2I",
+    "FEN": "6k1/1p1bq2p/p2p2pQ/4p2n/P2pP3/3P1RPP/1r6/5RK1 b - - 1 23",
+    "Moves": "b2c2 f3f8 e7f8 f1f8",
+    "Rating": "1091",
+    "RatingDeviation": "87",
+    "Popularity": "69",
+    "NbPlays": "39",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/pqCVgmS2/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3NZXO",
+    "FEN": "r4rk1/5bp1/p2R3p/q1p4P/1p2P3/4QP2/1PP1N3/2K3R1 w - - 0 22",
+    "Moves": "e3h6 a5a1 c1d2 a1g1 e2g1 g7h6",
+    "Rating": "1160",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "344",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/11d8Svmg#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3NZZS",
+    "FEN": "r3r1k1/p1qn1pp1/Bppb1n1p/3p4/3P3B/2N2N1P/PPPQ1PP1/2KR3R w - - 1 14",
+    "Moves": "a6d3 d6f4 d2f4 c7f4",
+    "Rating": "1022",
+    "RatingDeviation": "76",
+    "Popularity": "95",
+    "NbPlays": "4810",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/TmkB1Kl3#27",
+    "OpeningTags": "French_Defense French_Defense_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "3Na3W",
+    "FEN": "1n2r1k1/1p4pp/r1p2n2/p3p3/3pP2Q/q2P1N2/N1P2P2/1K1R2R1 w - - 2 26",
+    "Moves": "h4f6 a6b6 b1a1 a3b2",
+    "Rating": "1093",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1435",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/KvbwHduI#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "3Na8W",
+    "FEN": "r3k1nr/p5pp/q1pB1p2/b7/Q3P3/2P2P2/PP3P1P/RN2K2R w KQkq - 3 13",
+    "Moves": "b1a3 a5c3 b2c3 a6a4",
+    "Rating": "1002",
+    "RatingDeviation": "78",
+    "Popularity": "88",
+    "NbPlays": "104",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/x9FJikF3#25",
+    "OpeningTags": "Scotch_Game Scotch_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "3Na96",
+    "FEN": "1n1q2k1/5ppp/p7/1p2b3/2p5/P1P1BB2/1P2QPP1/R6K w - - 0 22",
+    "Moves": "a1d1 d8h4 h1g1 h4h2 g1f1 h2h1",
+    "Rating": "1124",
+    "RatingDeviation": "83",
+    "Popularity": "57",
+    "NbPlays": "64",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/ekR16mNG#43",
+    "OpeningTags": ""
+  }
+]

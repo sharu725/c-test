@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "m9g6q",
+    "FEN": "3rk2r/p3npRp/1pp1p3/8/3P1Q2/P4P1P/1PP1q3/1K4R1 b k - 6 25",
+    "Moves": "e7g6 f4f7",
+    "Rating": "838",
+    "RatingDeviation": "86",
+    "Popularity": "92",
+    "NbPlays": "768",
+    "Themes": "attackingF2F7 mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/JW9ju8CU/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "m9gtE",
+    "FEN": "r2qk2r/5ppp/p1pb1n2/3p4/6b1/1N2P3/PPP2QPP/RNB2RK1 b kq - 2 13",
+    "Moves": "f6e4 f2f7",
+    "Rating": "597",
+    "RatingDeviation": "88",
+    "Popularity": "95",
+    "NbPlays": "976",
+    "Themes": "attackingF2F7 mate mateIn1 oneMove opening",
+    "GameUrl": "https://lichess.org/7JtLZbWp/black#26",
+    "OpeningTags": "Benoni_Defense Benoni_Defense_Benoni_Gambit_Accepted"
+  },
+  {
+    "PuzzleId": "m9h9V",
+    "FEN": "8/6pk/Q2p3p/2pPp3/2P1P3/P3b1Bq/4P2P/R4r1K w - - 3 28",
+    "Moves": "a1f1 h3f1",
+    "Rating": "652",
+    "RatingDeviation": "78",
+    "Popularity": "100",
+    "NbPlays": "135",
+    "Themes": "endgame mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/IRbQceGa#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "m9jCb",
+    "FEN": "1rr3k1/Q4ppp/3Pp3/4b3/4P3/6PP/Pn2K3/2R5 b - - 0 29",
+    "Moves": "c8c1 a7b8 c1c8 b8c8",
+    "Rating": "601",
+    "RatingDeviation": "102",
+    "Popularity": "54",
+    "NbPlays": "363",
+    "Themes": "backRankMate endgame hangingPiece mate mateIn2 short",
+    "GameUrl": "https://lichess.org/jWxYqkCr/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "m9jUT",
+    "FEN": "5rk1/ppp3pp/8/3P4/8/7b/PPPP2NP/RNB1r1KR w - - 5 16",
+    "Moves": "g2e1 f8f1",
+    "Rating": "611",
+    "RatingDeviation": "104",
+    "Popularity": "82",
+    "NbPlays": "109",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/n0aC2jWH#31",
+    "OpeningTags": "Italian_Game Italian_Game_Two_Knights_Defense"
+  },
+  {
+    "PuzzleId": "m9kFE",
+    "FEN": "r2q4/pb2b1pp/k7/P1p2r1Q/2R5/4BN2/Rp3PPP/1N4K1 w - - 0 21",
+    "Moves": "h5f5 d8d1 f3e1 d1e1",
+    "Rating": "842",
+    "RatingDeviation": "93",
+    "Popularity": "63",
+    "NbPlays": "55",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/2xRtIGXV#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "m9kNN",
+    "FEN": "3B2k1/1Q1b1ppp/p1rbp3/3pq3/P7/1P6/3N1PPP/2R2RK1 w - - 1 25",
+    "Moves": "b7d7 e5h2",
+    "Rating": "837",
+    "RatingDeviation": "75",
+    "Popularity": "100",
+    "NbPlays": "148",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/oajF0a5q#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "m9kWv",
+    "FEN": "r4nk1/ppb3pp/2pqb1n1/6N1/3P4/3B4/PPQBN1PP/R6K w - - 3 18",
+    "Moves": "g5e6 d6h2",
+    "Rating": "982",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "159",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/bFdFBKt4#35",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Accelerated_Move_Order"
+  },
+  {
+    "PuzzleId": "m9kbC",
+    "FEN": "r1bq1rk1/pp3p1n/2p3B1/3p4/3P4/P1P1PP2/2Q2P2/R1B1K2R b KQ - 0 18",
+    "Moves": "f7g6 c2g6 g8h8 g6h7",
+    "Rating": "972",
+    "RatingDeviation": "88",
+    "Popularity": "70",
+    "NbPlays": "64",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/0t9WuMno/black#36",
+    "OpeningTags": "Semi-Slav_Defense Semi-Slav_Defense_Main_Line"
+  }
+]

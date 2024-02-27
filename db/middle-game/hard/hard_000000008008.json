@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "KozOL",
+    "FEN": "4r2r/2Q5/5pk1/p2Pn3/1p2P2P/1P1q3P/5RBK/5R2 w - - 1 36",
+    "Moves": "f1g1 e5g4 h2h1 g4f2",
+    "Rating": "1754",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "2138",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/7SBLeuwd#71",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KozgU",
+    "FEN": "k2r4/pp3Ppp/8/2p2R2/3p1Q2/rq5P/1P4P1/1K1N3R w - - 0 28",
+    "Moves": "f7f8q b3d3 b1c1 a3a1",
+    "Rating": "1751",
+    "RatingDeviation": "114",
+    "Popularity": "80",
+    "NbPlays": "54",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/qhRRkflX#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KozkV",
+    "FEN": "2rq1rk1/1p2bppp/p3p3/8/b2nP1Q1/P2B4/1B1N1PPP/1R2R1K1 b - - 1 18",
+    "Moves": "f7f5 e4f5 e6f5 g4d4 d8d4 b2d4",
+    "Rating": "1616",
+    "RatingDeviation": "83",
+    "Popularity": "82",
+    "NbPlays": "54",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/d7ILpG23/black#36",
+    "OpeningTags": "English_Opening English_Opening_Anglo-Indian_Defense"
+  },
+  {
+    "PuzzleId": "Kp0ud",
+    "FEN": "r2r2k1/ppq2p1p/1nb1pp2/P7/2P5/1Q2PN2/4BPPP/R4RK1 b - - 0 18",
+    "Moves": "c6f3 a5b6 c7b6 b3b6",
+    "Rating": "1610",
+    "RatingDeviation": "119",
+    "Popularity": "29",
+    "NbPlays": "20",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/PWnsXZe5/black#36",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Normal_Defense"
+  },
+  {
+    "PuzzleId": "Kp1Sb",
+    "FEN": "r3k2r/1pp1qp2/p1nbpnb1/3pN1p1/2PP2P1/4PB2/PP1N1P1B/R2QK2R b KQkq - 0 14",
+    "Moves": "c6e5 d4e5 d6e5 h2e5 h8h1 f3h1",
+    "Rating": "1650",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "6596",
+    "Themes": "advantage fork long middlegame",
+    "GameUrl": "https://lichess.org/I3Cv4xHI/black#28",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "Kp3dd",
+    "FEN": "2kr3r/Qpp1bppp/p1q2n2/4p3/5B2/2N5/PPP2PPP/3R1RK1 b - - 1 14",
+    "Moves": "d8d1 a7a8 c8d7 f1d1",
+    "Rating": "1723",
+    "RatingDeviation": "76",
+    "Popularity": "94",
+    "NbPlays": "5072",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/WUfJHuCl/black#28",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Spanish_Variation"
+  },
+  {
+    "PuzzleId": "Kp5NB",
+    "FEN": "3q1r1k/2pnbppp/1p6/rP1Pp2n/4P3/4BP2/N1Q1N1PP/3R1RK1 w - - 1 21",
+    "Moves": "c2b3 a5a3 b3c4 a3e3",
+    "Rating": "1631",
+    "RatingDeviation": "74",
+    "Popularity": "89",
+    "NbPlays": "1106",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/fYMXhlqY#41",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "Kp8LF",
+    "FEN": "3r1rk1/pp3pp1/7p/2pP4/P1P3n1/1q4P1/3Q2BP/1R3R1K b - - 1 29",
+    "Moves": "b3c4 f1f4 c4a6 f4g4",
+    "Rating": "1748",
+    "RatingDeviation": "76",
+    "Popularity": "61",
+    "NbPlays": "95",
+    "Themes": "advantage interference middlegame short",
+    "GameUrl": "https://lichess.org/FDMmjj6w/black#58",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "KpC3O",
+    "FEN": "3r1rk1/ppqn1pp1/2nR3p/1N6/2Q5/5N2/PP3PPP/3R2K1 b - - 2 17",
+    "Moves": "c7b8 d6d7 d8d7 d1d7 c6e5 f3e5",
+    "Rating": "1702",
+    "RatingDeviation": "232",
+    "Popularity": "83",
+    "NbPlays": "4",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/yMswy7Dl/black#34",
+    "OpeningTags": "Philidor_Defense Philidor_Defense_Morphy_Gambit"
+  }
+]

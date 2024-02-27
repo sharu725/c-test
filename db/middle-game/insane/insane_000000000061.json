@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "0LR0T",
+    "FEN": "r3r1k1/p4pbp/2p3p1/Q1B1p3/7P/5P2/bPPKB1P1/1q1R3R b - - 1 20",
+    "Moves": "a8d8 d2e3 d8d1 h1d1 b1c2 d1d8",
+    "Rating": "2595",
+    "RatingDeviation": "84",
+    "Popularity": "92",
+    "NbPlays": "232",
+    "Themes": "advantage defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/8xgG1Rfe/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0LRox",
+    "FEN": "3rr1k1/pp4pp/6q1/8/4ppn1/PPR3N1/1B1PQP2/5K1R w - - 0 25",
+    "Moves": "g3h5 f4f3 e2c4 g8h8 h5f4 g6f5",
+    "Rating": "2705",
+    "RatingDeviation": "86",
+    "Popularity": "94",
+    "NbPlays": "61",
+    "Themes": "crushing defensiveMove long middlegame",
+    "GameUrl": "https://lichess.org/C2J9Ce81#49",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0LUhs",
+    "FEN": "6k1/B4pp1/1pp3bp/2P4n/2BQ1K2/5N1P/P5P1/3q4 w - - 10 39",
+    "Moves": "f4g4 d1c2 f3h4 b6b5 g4f3 b5c4",
+    "Rating": "2799",
+    "RatingDeviation": "90",
+    "Popularity": "84",
+    "NbPlays": "241",
+    "Themes": "advantage long master middlegame",
+    "GameUrl": "https://lichess.org/3ylXjUv6#77",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0LUxw",
+    "FEN": "1k4rr/pppbqp2/3b1n2/4n1Np/2P2P2/P1N1P2P/1PQ1B1P1/R1B2RK1 w - - 1 15",
+    "Moves": "f4e5 e7e5 f1f6 e5h2",
+    "Rating": "2573",
+    "RatingDeviation": "105",
+    "Popularity": "86",
+    "NbPlays": "160",
+    "Themes": "advantage middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/uW1t6a9g#29",
+    "OpeningTags": "Englund_Gambit_Complex Englund_Gambit_Complex_Hartlaub-Charlick_Gambit"
+  },
+  {
+    "PuzzleId": "0LX2b",
+    "FEN": "r3k2r/5p2/2R1p1p1/p1QnP1Np/1q3P1P/1P6/P4K2/6R1 w kq - 5 28",
+    "Moves": "g5e6 b4d2 f2g3 f7e6 c6e6 e8f7",
+    "Rating": "2488",
+    "RatingDeviation": "93",
+    "Popularity": "89",
+    "NbPlays": "659",
+    "Themes": "crushing intermezzo long master middlegame",
+    "GameUrl": "https://lichess.org/sBbcPcpM#55",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0LYAR",
+    "FEN": "2r1k2r/1q1nb1p1/4Rp1p/1B1PpR1Q/4P3/8/PP4PP/7K b k - 9 25",
+    "Moves": "e8f8 d5d6 e7d6 b5c4",
+    "Rating": "2513",
+    "RatingDeviation": "94",
+    "Popularity": "84",
+    "NbPlays": "166",
+    "Themes": "advantage defensiveMove middlegame short",
+    "GameUrl": "https://lichess.org/KMjEoq18/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "0LZBt",
+    "FEN": "r1bqr1k1/pp1n1ppp/3bp3/3pN2Q/3P1P2/4P3/PP1N1PBP/2R1R1K1 b - - 2 15",
+    "Moves": "f7f6 e5f7 g7g6 f7d8 g6h5 d8e6",
+    "Rating": "2610",
+    "RatingDeviation": "89",
+    "Popularity": "91",
+    "NbPlays": "358",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/Z0PIzDHh/black#30",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Symmetrical_Variation"
+  },
+  {
+    "PuzzleId": "0LbkX",
+    "FEN": "3q2k1/Q2B2pp/3bpr2/8/3p4/8/P1r2PPP/RN3RK1 w - - 0 17",
+    "Moves": "d7a4 d6h2 g1h2 f6f2 a4c2 f2f1",
+    "Rating": "2717",
+    "RatingDeviation": "88",
+    "Popularity": "86",
+    "NbPlays": "90",
+    "Themes": "crushing deflection long middlegame",
+    "GameUrl": "https://lichess.org/1csH57vS#33",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "0Lcd3",
+    "FEN": "r1b1k2N/ppp1q1pp/2n2n2/2bp4/2B1P3/8/PPPP1PPP/RNBQK2R w KQq - 0 7",
+    "Moves": "c4b3 c8g4 f2f3 f6e4",
+    "Rating": "2453",
+    "RatingDeviation": "89",
+    "Popularity": "74",
+    "NbPlays": "51",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/Y4HQz9l5#13",
+    "OpeningTags": "Russian_Game Russian_Game_Italian_Variation"
+  }
+]

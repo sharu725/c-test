@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HNPld",
+    "FEN": "2q2rk1/1p3ppp/p3b3/3B4/P3n3/3Q1N2/1P3PPP/5RK1 b - - 0 19",
+    "Moves": "f8d8 d5e6 d8d3 e6c8",
+    "Rating": "1558",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "13281",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/QSIZ90kq/black#38",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Alapin_Variation"
+  },
+  {
+    "PuzzleId": "HNQcL",
+    "FEN": "1r4k1/1r3pbp/3p2p1/Q1nP4/p4P1P/P4B2/1P1R2P1/1K5R w - - 3 29",
+    "Moves": "d2e2 b7b2 e2b2 b8b2 b1c1 c5b3",
+    "Rating": "1450",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "14714",
+    "Themes": "crushing long middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/iHeXvUUJ#57",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HNQfQ",
+    "FEN": "r2qkbnr/pp1n1ppp/4p3/2ppP1B1/3P4/2NQ1N2/PPP2PPP/R3K2R b KQkq - 1 8",
+    "Moves": "g8e7 c3b5",
+    "Rating": "1406",
+    "RatingDeviation": "165",
+    "Popularity": "-78",
+    "NbPlays": "8",
+    "Themes": "crushing middlegame oneMove",
+    "GameUrl": "https://lichess.org/lTpkEdSX/black#16",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Advance_Variation"
+  },
+  {
+    "PuzzleId": "HNQsw",
+    "FEN": "r3k2r/pb2npbp/1p1q2p1/2pNp3/4P3/5B1P/PPPQNPP1/3R1RK1 b kq - 2 14",
+    "Moves": "a8d8 d5f6 g7f6 d2d6 d8d6 d1d6",
+    "Rating": "1424",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "6821",
+    "Themes": "advantage discoveredAttack long middlegame",
+    "GameUrl": "https://lichess.org/gBUYDTuq/black#28",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Smith-Morra_Gambit"
+  },
+  {
+    "PuzzleId": "HNRkp",
+    "FEN": "1r2r2k/ppp1qpp1/3p1n1p/8/2P4Q/P1B1P2P/1P3PP1/R2R2K1 b - - 2 18",
+    "Moves": "f6e4 h4h6 h8g8 h6g7",
+    "Rating": "1524",
+    "RatingDeviation": "79",
+    "Popularity": "55",
+    "NbPlays": "80",
+    "Themes": "kingsideAttack mate mateIn2 middlegame pin short",
+    "GameUrl": "https://lichess.org/ehp49F22/black#36",
+    "OpeningTags": "Englund_Gambit Englund_Gambit_Other_variations"
+  },
+  {
+    "PuzzleId": "HNTtm",
+    "FEN": "2k3rr/1pp3q1/p1pb1p1p/7b/3BP1nN/1P6/P1PNQPP1/R4RK1 b - - 0 19",
+    "Moves": "g4e5 e2h5 g7g5 h5g5",
+    "Rating": "1484",
+    "RatingDeviation": "82",
+    "Popularity": "78",
+    "NbPlays": "43",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/6uGSxXvq/black#38",
+    "OpeningTags": "Ruy_Lopez Ruy_Lopez_Exchange_Variation"
+  },
+  {
+    "PuzzleId": "HNUYS",
+    "FEN": "r2q2rk/1p1b2b1/3p1PQp/p2Np3/P1P1P2P/6R1/1P2K1P1/2R5 b - - 0 23",
+    "Moves": "g7f6 g6h6",
+    "Rating": "1473",
+    "RatingDeviation": "465",
+    "Popularity": "33",
+    "NbPlays": "3",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/KsU8pqI5/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HNUjo",
+    "FEN": "r4r2/p2nppk1/2pp1np1/4P2p/1q4b1/2N2NP1/PP1Q1PBP/2R1R1K1 b - - 0 18",
+    "Moves": "g4f3 e5f6 e7f6 g2f3",
+    "Rating": "1463",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "5861",
+    "Themes": "advantage intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/L4pjWpiE/black#36",
+    "OpeningTags": "Kings_Indian_Defense Kings_Indian_Defense_Fianchetto_Variation"
+  },
+  {
+    "PuzzleId": "HNVKN",
+    "FEN": "r3k1r1/ppqb1pb1/3pp2p/1N6/4P2Q/1B1n1N2/P2P1PPP/2R2RK1 b q - 3 16",
+    "Moves": "c7b6 b5c7 b6c7 c1c7",
+    "Rating": "1572",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "3134",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/YytkgGH4/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Wing_Gambit"
+  }
+]

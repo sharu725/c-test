@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "pgjpK",
+    "FEN": "r5k1/1pp1r2p/p2p1Q2/5P2/2P3B1/4q3/PB1R4/5K2 b - - 0 31",
+    "Moves": "a8f8 f6h8 g8f7 g4h5",
+    "Rating": "1577",
+    "RatingDeviation": "73",
+    "Popularity": "97",
+    "NbPlays": "9391",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/Gb2icCjA/black#62",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pgjza",
+    "FEN": "2krq1nr/2p1pbb1/pQ3p1p/n1Np2p1/3P2P1/2PBPNBP/PP3P2/R3K2R b KQ - 0 16",
+    "Moves": "c7b6 d3a6 a5b7 a6b7",
+    "Rating": "1480",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "468",
+    "Themes": "mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/PnSCYUPX/black#32",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Accelerated_London_System"
+  },
+  {
+    "PuzzleId": "pglkq",
+    "FEN": "rnb5/ppk3p1/2pr1nB1/3pQP2/4p3/2N5/PqP3PP/3R1R1K b - - 1 20",
+    "Moves": "b8d7 c3d5 c6d5 e5b2",
+    "Rating": "1543",
+    "RatingDeviation": "74",
+    "Popularity": "92",
+    "NbPlays": "1403",
+    "Themes": "advantage discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/JUmd8lJn/black#40",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pglrA",
+    "FEN": "r2q1n1r/1b3pk1/p3p3/1p1pP1Pp/2pP1Q2/P5B1/1P2B1P1/R4RK1 b - - 2 25",
+    "Moves": "f8g6 f4f7",
+    "Rating": "1463",
+    "RatingDeviation": "89",
+    "Popularity": "87",
+    "NbPlays": "2215",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/SsXLlYF6/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pglxA",
+    "FEN": "1r1q1rk1/5pp1/3p3p/1p1BbP2/2ppP1Q1/3P2R1/1PP3PP/5RK1 b - - 3 21",
+    "Moves": "e5g3 f5f6 d8f6 f1f6",
+    "Rating": "1517",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "1018",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/Vfiaprqt/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pgmHh",
+    "FEN": "r4rk1/pb3ppp/1qp5/4b3/2p1P3/2N4P/PPP1Q1P1/R1B2R1K w - - 2 15",
+    "Moves": "e2c4 b7a6 c4a6 b6a6",
+    "Rating": "1574",
+    "RatingDeviation": "74",
+    "Popularity": "98",
+    "NbPlays": "870",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/JadrOldw#29",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Lasker-Pelikan_Variation"
+  },
+  {
+    "PuzzleId": "pgnKp",
+    "FEN": "r2q1rk1/2pb2bp/2p2pp1/3n2B1/p2PN3/8/PP2BPPP/R2Q1RK1 w - - 0 16",
+    "Moves": "g5h4 g6g5 h4g3 f6f5 e4c5 f5f4",
+    "Rating": "1560",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "1848",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/79uOMwOT#31",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_Chigorin_Variation"
+  },
+  {
+    "PuzzleId": "pgoG4",
+    "FEN": "5r1k/1b3pp1/p3pq1p/1p1pP3/1P1Pn1Q1/P3P1NR/2r3PP/2B2RK1 b - - 0 27",
+    "Moves": "f6g6 g4g6 f7g6 f1f8",
+    "Rating": "1477",
+    "RatingDeviation": "74",
+    "Popularity": "95",
+    "NbPlays": "18056",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/HjFCMI7A/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "pgp9B",
+    "FEN": "3r2k1/ppp3p1/1b2p3/n6p/4n1N1/2P4P/PP3PP1/RN3R1K w - - 0 18",
+    "Moves": "g4e3 b6e3 f2e3 e4g3 h1g1 g3f1",
+    "Rating": "1592",
+    "RatingDeviation": "75",
+    "Popularity": "96",
+    "NbPlays": "1029",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/kDhKLPS0#35",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Piano"
+  }
+]

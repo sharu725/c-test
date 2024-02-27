@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "PuSEX",
+    "FEN": "3r4/1r2k3/2npp3/1Np1np1P/P5p1/2R5/5BP1/3R2K1 b - - 0 38",
+    "Moves": "c6a5 f2h4 e7f8 h4d8",
+    "Rating": "2017",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "3974",
+    "Themes": "crushing middlegame short skewer",
+    "GameUrl": "https://lichess.org/06GaEXBK/black#76",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PuTQD",
+    "FEN": "5rk1/2p3p1/3pp2p/1Q6/4P1nq/2PP1pR1/PP1B1P1P/R6K w - - 2 24",
+    "Moves": "h2h3 g4f2 h1h2 f2h3 b5h5 h4h5",
+    "Rating": "2096",
+    "RatingDeviation": "76",
+    "Popularity": "91",
+    "NbPlays": "113",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/GByQp7EG#47",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PuTtc",
+    "FEN": "7r/1k2b2p/2pp1np1/1p1Pp3/1n2P3/1BN1BP2/2P1Q2q/R4K2 b - - 2 22",
+    "Moves": "h2h1 e3g1 h8b8 a1a7 b7c8 a7e7",
+    "Rating": "2219",
+    "RatingDeviation": "80",
+    "Popularity": "90",
+    "NbPlays": "2112",
+    "Themes": "advantage long middlegame skewer",
+    "GameUrl": "https://lichess.org/8FsEcG5M/black#44",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PuUSw",
+    "FEN": "r2r2k1/1q2bppp/p2Pp3/2N3P1/1p3Q2/1P3b1P/1P3P2/2RR2K1 b - - 1 24",
+    "Moves": "b7b6 f4f3 e7d6 c5b7",
+    "Rating": "2273",
+    "RatingDeviation": "99",
+    "Popularity": "66",
+    "NbPlays": "89",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/DiaXXXGc/black#48",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PuUgu",
+    "FEN": "r1r3k1/pb3pbp/2p1pnp1/8/2P1P3/2N1BB2/PP4PP/R4RK1 b - - 4 15",
+    "Moves": "c6c5 e4e5 f6g4 f3g4",
+    "Rating": "2013",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "2900",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/z81oUX8S/black#30",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Accelerated_Dragon"
+  },
+  {
+    "PuzzleId": "PuVwm",
+    "FEN": "2rqr1k1/pp2b2p/5p1B/3R3b/7P/PQ2Pn1N/1PP5/2K4R b - - 0 19",
+    "Moves": "d8b6 d5g5 g8h8 h6g7",
+    "Rating": "2061",
+    "RatingDeviation": "80",
+    "Popularity": "91",
+    "NbPlays": "766",
+    "Themes": "doubleCheck kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/XhY2OyjZ/black#38",
+    "OpeningTags": "Rapport-Jobava_System Rapport-Jobava_System_Other_variations"
+  },
+  {
+    "PuzzleId": "PuWqq",
+    "FEN": "r5k1/1b4pp/4p2r/pp1q2b1/3Pp3/1NP1B1Q1/PP3RPP/5RK1 b - - 3 23",
+    "Moves": "g5h4 g3c7 h4f2 f1f2",
+    "Rating": "2315",
+    "RatingDeviation": "84",
+    "Popularity": "86",
+    "NbPlays": "313",
+    "Themes": "crushing middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/QRxGXIYV/black#46",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PuYMr",
+    "FEN": "r1q3k1/p5p1/n1p1p1rp/3p4/3Pp1B1/4P1P1/1PP2QPR/2K2R2 b - - 9 25",
+    "Moves": "g6g4 f2f7 g8h8 f1f6 c8f8 f7f8 a8f8 f6f8",
+    "Rating": "2353",
+    "RatingDeviation": "79",
+    "Popularity": "77",
+    "NbPlays": "102",
+    "Themes": "advantage clearance kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/paGwRQ0b/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "PuZif",
+    "FEN": "r4rk1/1bqnbpp1/p3p2p/1pp1P1N1/3PB3/P1P5/3B1PPP/R2QR1K1 w - - 0 17",
+    "Moves": "d1h5 e7g5 d2g5 b7e4 e1e4 h6g5",
+    "Rating": "2044",
+    "RatingDeviation": "80",
+    "Popularity": "91",
+    "NbPlays": "2173",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/5JkVCxlo#33",
+    "OpeningTags": "Slav_Defense Slav_Defense_Other_variations"
+  }
+]

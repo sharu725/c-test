@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "DX5wh",
+    "FEN": "rqr3k1/1p1b1p2/p3pn1Q/3p2N1/8/2PB4/PP3PPb/R6K b - - 1 27",
+    "Moves": "h2f4 d3h7 f6h7 h6h7 g8f8 h7f7",
+    "Rating": "1489",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "325",
+    "Themes": "kingsideAttack long mate mateIn3 middlegame",
+    "GameUrl": "https://lichess.org/tTPLndXG/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DX6hF",
+    "FEN": "r1b2k1r/pp4pp/2n2bp1/2Q5/2pp4/8/PPP2PPP/R3R1K1 b - - 0 16",
+    "Moves": "f6e7 e1e7 c6e7 a1e1",
+    "Rating": "1436",
+    "RatingDeviation": "75",
+    "Popularity": "95",
+    "NbPlays": "13359",
+    "Themes": "clearance crushing middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/EK3vZkxT/black#32",
+    "OpeningTags": "Sicilian_Defense Sicilian_Defense_Bowdler_Attack"
+  },
+  {
+    "PuzzleId": "DX718",
+    "FEN": "rn1r2k1/p1pb1ppp/4p3/8/4B3/4P1P1/PP2P2P/2KR2NR b - - 0 16",
+    "Moves": "b8c6 d1d7 d8d7 e4c6",
+    "Rating": "1508",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "513",
+    "Themes": "capturingDefender crushing middlegame short",
+    "GameUrl": "https://lichess.org/8A2JC77P/black#32",
+    "OpeningTags": "Queens_Gambit_Declined Queens_Gambit_Declined_Normal_Defense"
+  },
+  {
+    "PuzzleId": "DX7CF",
+    "FEN": "2k3r1/1b1p4/p2qp3/1p6/3nPB2/2NB4/1PP2PP1/R4RK1 w - - 0 19",
+    "Moves": "f4d6 d4f3 g1h1 g8h8 d6h2 h8h2",
+    "Rating": "1506",
+    "RatingDeviation": "77",
+    "Popularity": "81",
+    "NbPlays": "224",
+    "Themes": "arabianMate long mate mateIn3 middlegame pin",
+    "GameUrl": "https://lichess.org/Q8bS9dEN#37",
+    "OpeningTags": "French_Defense French_Defense_Normal_Variation"
+  },
+  {
+    "PuzzleId": "DX7ez",
+    "FEN": "r4rk1/1pp3p1/1pnp3p/4ppq1/1PP1P3/P2Q1P1P/2P3P1/R1B2RK1 b - - 1 17",
+    "Moves": "f5e4 d3d5 g8h8 c1g5",
+    "Rating": "1509",
+    "RatingDeviation": "75",
+    "Popularity": "92",
+    "NbPlays": "1065",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/zK7BL8s2/black#34",
+    "OpeningTags": "Italian_Game Italian_Game_Giuoco_Pianissimo"
+  },
+  {
+    "PuzzleId": "DX8Xs",
+    "FEN": "r2q1rk1/ppp2ppp/4p3/3pB3/4n1P1/2P1P2P/PP3PB1/R2QK2R w KQ - 2 15",
+    "Moves": "f2f3 d8h4 e1e2 h4f2",
+    "Rating": "1499",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "940",
+    "Themes": "crushing middlegame short",
+    "GameUrl": "https://lichess.org/zjYI7zhQ#29",
+    "OpeningTags": "Queens_Pawn_Game Queens_Pawn_Game_London_System"
+  },
+  {
+    "PuzzleId": "DX9cw",
+    "FEN": "6k1/bNpr4/2p2pn1/P3p1pp/1Pb1P3/B1P4P/5PPN/2R1K3 w - - 3 30",
+    "Moves": "c1d1 a7f2 e1f2 d7d1",
+    "Rating": "1445",
+    "RatingDeviation": "74",
+    "Popularity": "91",
+    "NbPlays": "2242",
+    "Themes": "attackingF2F7 crushing deflection middlegame short",
+    "GameUrl": "https://lichess.org/nt5QI3J9#59",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DXBOi",
+    "FEN": "1nr5/1b2npk1/1p1Rp1p1/rB6/8/P1N1PNP1/1P3P2/1K1R4 w - - 3 23",
+    "Moves": "f3e1 c8c3 b2c3 a5b5",
+    "Rating": "1502",
+    "RatingDeviation": "74",
+    "Popularity": "93",
+    "NbPlays": "3186",
+    "Themes": "advantage capturingDefender middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/oJHPd7RI#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "DXBir",
+    "FEN": "4rq1k/pR1R2pp/2n3r1/2pQ4/8/2P3P1/P1P2P1P/6K1 b - - 14 23",
+    "Moves": "e8e7 d7e7 c6e7 b7e7",
+    "Rating": "1423",
+    "RatingDeviation": "85",
+    "Popularity": "75",
+    "NbPlays": "36",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/1yWgfdMi/black#46",
+    "OpeningTags": ""
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "HsOwU",
+    "FEN": "r1r5/p3qpkp/4p1p1/7n/2p2PNP/3BP3/PQ6/1K4R1 b - - 1 26",
+    "Moves": "g7g8 g4h6 g8f8 b2h8",
+    "Rating": "1195",
+    "RatingDeviation": "76",
+    "Popularity": "88",
+    "NbPlays": "230",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/PQtIpRp7/black#52",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HsPvw",
+    "FEN": "r1b2rk1/ppp2ppp/5b2/q7/8/2N5/PPPQ1PPP/R1B1R1K1 b - - 4 13",
+    "Moves": "f8d8 d2d8 f6d8 e1e8",
+    "Rating": "1097",
+    "RatingDeviation": "86",
+    "Popularity": "70",
+    "NbPlays": "52",
+    "Themes": "backRankMate mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/mfhaaQBK/black#26",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "HsQ9Y",
+    "FEN": "5r2/3npk1p/p2pp1p1/1p6/2rNP3/1KP2P2/PP4PP/3RR3 w - - 2 22",
+    "Moves": "d4c2 d7c5 b3a3 c4a4",
+    "Rating": "1021",
+    "RatingDeviation": "75",
+    "Popularity": "99",
+    "NbPlays": "2169",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/uBVwn9GM#43",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HsQMA",
+    "FEN": "1r4k1/p4rp1/bqp1p3/2RpP1B1/3P2P1/P7/1PQ2P2/4K2R b K - 0 25",
+    "Moves": "b6b2 c2h7 g8f8 h7h8",
+    "Rating": "1137",
+    "RatingDeviation": "75",
+    "Popularity": "63",
+    "NbPlays": "72",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/nv6bknEc/black#50",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HsTGa",
+    "FEN": "r2qkb1r/2pnp2p/5pN1/p6Q/8/8/1PPP1PPP/1NB1K2R b Kkq - 0 14",
+    "Moves": "h7g6 h5g6",
+    "Rating": "1077",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "331",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/z1VUBBGL/black#28",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "HsTVL",
+    "FEN": "1k2r3/2R3p1/p1bP2p1/2B5/8/2P5/P4PPP/6K1 w - - 5 32",
+    "Moves": "g1f1 c6b5 c3c4 b5c4 f1g1 e8e1",
+    "Rating": "1024",
+    "RatingDeviation": "77",
+    "Popularity": "98",
+    "NbPlays": "1319",
+    "Themes": "backRankMate endgame long mate mateIn3",
+    "GameUrl": "https://lichess.org/ZrPTgy3E#63",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HsUPd",
+    "FEN": "8/5Nk1/1p3n2/n2pN1p1/3q4/5Q2/3r1PPP/4R1K1 w - - 0 27",
+    "Moves": "f3h3 d4f2 g1h1 f2e1",
+    "Rating": "1071",
+    "RatingDeviation": "76",
+    "Popularity": "82",
+    "NbPlays": "214",
+    "Themes": "fork mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/QvSLYbQU#53",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "HsUxA",
+    "FEN": "r2q1b1r/pp1bk3/2n1pnB1/5p2/1p2pP2/2NP4/P1P3PP/R1BQ1RK1 b - - 0 13",
+    "Moves": "b4c3 c1a3 c6b4 a3b4",
+    "Rating": "1155",
+    "RatingDeviation": "116",
+    "Popularity": "24",
+    "NbPlays": "157",
+    "Themes": "bodenMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/bkSG1kDb/black#26",
+    "OpeningTags": "Bird_Opening Bird_Opening_Dutch_Variation"
+  },
+  {
+    "PuzzleId": "HsVUC",
+    "FEN": "r2qkb1r/pp1nnppp/4p3/1N1pP2b/2Pp4/5N1P/PP2BPP1/R1BQ1RK1 b kq - 1 10",
+    "Moves": "h5f3 b5d6",
+    "Rating": "1092",
+    "RatingDeviation": "80",
+    "Popularity": "89",
+    "NbPlays": "542",
+    "Themes": "mate mateIn1 oneMove opening smotheredMate",
+    "GameUrl": "https://lichess.org/WDLWKn6k/black#20",
+    "OpeningTags": "Caro-Kann_Defense Caro-Kann_Defense_Other_variations"
+  }
+]

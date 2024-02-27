@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "lBULK",
+    "FEN": "4R1k1/ppp2p2/2n3q1/2Q2bB1/7P/3r4/PP4P1/7K b - - 1 27",
+    "Moves": "g8g7 c5f8 g7h7 f8h8",
+    "Rating": "1163",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "526",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/fJnJtBY7/black#54",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lBUVF",
+    "FEN": "1r1r4/k5Bp/2p1B3/4Q3/8/8/P4PPP/1R4K1 w - - 5 26",
+    "Moves": "b1b8 d8d1 e5e1 d1e1",
+    "Rating": "1069",
+    "RatingDeviation": "76",
+    "Popularity": "85",
+    "NbPlays": "383",
+    "Themes": "backRankMate endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/zbCjL6fW#51",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lBUz3",
+    "FEN": "rn2k2r/ppp2ppp/3bp3/7q/2PP4/5b2/PP2BPPP/R1BQ1RK1 w kq - 0 10",
+    "Moves": "e2f3 h5h2",
+    "Rating": "1120",
+    "RatingDeviation": "97",
+    "Popularity": "83",
+    "NbPlays": "97",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4Qx29R9K#19",
+    "OpeningTags": "Scandinavian_Defense Scandinavian_Defense_Modern_Variation"
+  },
+  {
+    "PuzzleId": "lBV3t",
+    "FEN": "3r4/4N1pk/R2P4/p3Pp2/5P2/7P/2q1b3/K5Q1 b - - 4 40",
+    "Moves": "e2a6 g1g6 h7h8 g6h5",
+    "Rating": "1096",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1996",
+    "Themes": "endgame mate mateIn2 short",
+    "GameUrl": "https://lichess.org/WNi6ixKN/black#80",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lBXIs",
+    "FEN": "2r2r1k/p4ppp/2R5/2Q1P2q/5P2/8/PPb3PP/5RK1 b - - 2 21",
+    "Moves": "c8c6 c5f8",
+    "Rating": "1044",
+    "RatingDeviation": "81",
+    "Popularity": "81",
+    "NbPlays": "208",
+    "Themes": "endgame hangingPiece mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/kz7a2LBu/black#42",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lBXMA",
+    "FEN": "2Q1R3/2p2k2/1p3p2/2P4p/8/7n/P5PP/5RqK w - - 7 41",
+    "Moves": "f1g1 h3f2",
+    "Rating": "1091",
+    "RatingDeviation": "158",
+    "Popularity": "31",
+    "NbPlays": "41",
+    "Themes": "endgame mate mateIn1 oneMove smotheredMate",
+    "GameUrl": "https://lichess.org/oqL02fah#81",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lBYNP",
+    "FEN": "5rk1/1pp3pp/p1n1pr2/5q2/3PQ3/2PBR3/PP4PP/4R1K1 w - - 5 23",
+    "Moves": "d3c4 f5f2 g1h1 f2f1 c4f1 f6f1 e1f1 f8f1",
+    "Rating": "1061",
+    "RatingDeviation": "81",
+    "Popularity": "93",
+    "NbPlays": "2593",
+    "Themes": "backRankMate mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/JN7EMAs9#45",
+    "OpeningTags": ""
+  },
+  {
+    "PuzzleId": "lBexZ",
+    "FEN": "r1bq1r2/ppp1bpk1/2np3p/6pQ/4PpN1/P2P3P/BPPN1PP1/R4RK1 b - - 3 14",
+    "Moves": "f8h8 h5f7",
+    "Rating": "1157",
+    "RatingDeviation": "82",
+    "Popularity": "88",
+    "NbPlays": "46",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/1ZIzQ45m/black#28",
+    "OpeningTags": "Italian_Game Italian_Game_Anti-Fried_Liver_Defense"
+  },
+  {
+    "PuzzleId": "lBgcj",
+    "FEN": "b3r1k1/5ppp/1q6/8/QP6/5N1P/5RP1/6K1 b - - 2 36",
+    "Moves": "a8f3 a4e8",
+    "Rating": "1116",
+    "RatingDeviation": "109",
+    "Popularity": "73",
+    "NbPlays": "53",
+    "Themes": "endgame hangingPiece mate mateIn1 oneMove",
+    "GameUrl": "https://lichess.org/Xrm55NGq/black#72",
+    "OpeningTags": ""
+  }
+]
