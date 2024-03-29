@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "q7Km1",
+    "FEN": "r1b1k2r/ppp2p1p/1bnp1nq1/4P3/2BP4/6B1/PPP3PP/RN1Q1R1K b kq - 0 11",
+    "Moves": "f6e4 c4f7 g6f7 f1f7",
+    "Rating": "1341",
+    "RatingDeviation": "88",
+    "Popularity": "57",
+    "NbPlays": "45",
+    "Themes": "advantage attackingF2F7 fork middlegame short",
+    "GameUrl": "https://lichess.org/dMj8MmXP/black#22",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Blachly_Gambit"
+  },
+  {
+    "PuzzleId": "q8Ux6",
+    "FEN": "r1b5/pppq2kp/2np2nQ/4b1B1/4P3/2P5/PP1N2PP/5R1K b - - 3 18",
+    "Moves": "g7h8 f1f8 g6f8 h6f8",
+    "Rating": "1257",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "3549",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/TySqjwsa/black#36",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  },
+  {
+    "PuzzleId": "qAoI8",
+    "FEN": "rn1qkbnr/ppp4p/3p1p2/4N1p1/2B1PpbP/2N5/PPPP2P1/R1BQK2R b KQkq - 3 7",
+    "Moves": "g4d1 c4f7 e8e7 c3d5",
+    "Rating": "1319",
+    "RatingDeviation": "76",
+    "Popularity": "90",
+    "NbPlays": "452",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/m1sChhCa/black#14",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "qEho7",
+    "FEN": "1r2k2r/ppB2pp1/2n2b1p/8/8/1QP1qP1P/PP1N4/R2K3R b k - 0 16",
+    "Moves": "f6g5 h1e1 e3e1 d1e1",
+    "Rating": "1307",
+    "RatingDeviation": "79",
+    "Popularity": "92",
+    "NbPlays": "48",
+    "Themes": "crushing middlegame pin short",
+    "GameUrl": "https://lichess.org/5RKMhDcW/black#32",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Fischer_Defense"
+  },
+  {
+    "PuzzleId": "qITcY",
+    "FEN": "rnbq1rk1/pp1p1ppp/2p4b/3NP1N1/2BP3P/3Qp3/PPP3P1/R4K1R b - - 1 13",
+    "Moves": "c6d5 d3h7",
+    "Rating": "1339",
+    "RatingDeviation": "121",
+    "Popularity": "83",
+    "NbPlays": "25",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/QG0WDRQY/black#26",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Cunningham_Defense"
+  },
+  {
+    "PuzzleId": "qIw2D",
+    "FEN": "2kr4/ppp2ppp/5n2/4b2q/B4pb1/2N5/PPPB1QPP/R4RK1 w - - 0 18",
+    "Moves": "f2a7 e5d4 a7d4 d8d4",
+    "Rating": "1262",
+    "RatingDeviation": "77",
+    "Popularity": "86",
+    "NbPlays": "185",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/XR32h9hb#35",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense"
+  },
+  {
+    "PuzzleId": "qLOTN",
+    "FEN": "rnbqr3/ppp4Q/5b2/4k3/2B4P/6p1/PPP3P1/RN3RK1 b - - 1 16",
+    "Moves": "d8d4 g1h1 d4h4 h7h4 f6h4 f1e1 e5d4 e1e8",
+    "Rating": "1267",
+    "RatingDeviation": "79",
+    "Popularity": "80",
+    "NbPlays": "104",
+    "Themes": "crushing opening skewer veryLong",
+    "GameUrl": "https://lichess.org/4keeCfNo/black#32",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kieseritzky_Gambit"
+  },
+  {
+    "PuzzleId": "qNrgl",
+    "FEN": "r1b1qb1r/ppkn1Rpp/2p1N3/5Q2/3P4/8/PPP1p1PP/RN4K1 b - - 1 17",
+    "Moves": "c7b8 f5f4 d7e5 f4e5 f8d6 e5d6",
+    "Rating": "1336",
+    "RatingDeviation": "75",
+    "Popularity": "80",
+    "NbPlays": "261",
+    "Themes": "long mate mateIn3 middlegame queensideAttack",
+    "GameUrl": "https://lichess.org/vBSwfMPM/black#34",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Schallopp_Defense"
+  },
+  {
+    "PuzzleId": "qOM7S",
+    "FEN": "rnbqkbnr/2pp1ppp/8/pp6/3PPB2/1B6/PPP3PP/RN1QK1NR b KQkq - 0 6",
+    "Moves": "a5a4 b3f7 e8f7 d1h5 g7g6 h5d5",
+    "Rating": "1351",
+    "RatingDeviation": "75",
+    "Popularity": "76",
+    "NbPlays": "295",
+    "Themes": "attackingF2F7 attraction crushing long opening sacrifice",
+    "GameUrl": "https://lichess.org/U3iS9nt2/black#12",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  }
+]

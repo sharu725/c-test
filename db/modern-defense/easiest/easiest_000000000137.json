@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "nkyAd",
+    "FEN": "r4rk1/ppp1ppbp/2n1b1p1/3qP3/2PPpB2/8/PP1Q1PPP/1K1R1BNR b - - 0 11",
+    "Moves": "d5d4 d2d4 c6d4 d1d4",
+    "Rating": "640",
+    "RatingDeviation": "89",
+    "Popularity": "82",
+    "NbPlays": "85",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/1LfxlwTv/black#22",
+    "OpeningTags": "Modern_Defense Modern_Defense_Standard_Line"
+  },
+  {
+    "PuzzleId": "nmUtG",
+    "FEN": "r1b2r1k/ppp1NNpp/n7/8/8/5B2/PPP3PP/3R2K1 b - - 0 18",
+    "Moves": "f8f7 d1d8 f7f8 d8f8",
+    "Rating": "889",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "1590",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/9aMUdHGu/black#36",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense"
+  },
+  {
+    "PuzzleId": "nolrc",
+    "FEN": "rnb2r1k/1p3P1p/p2Q2p1/2p1b1B1/P1B5/2N5/1qP3PP/R4RK1 b - - 1 16",
+    "Moves": "e5d6 g5f6",
+    "Rating": "662",
+    "RatingDeviation": "299",
+    "Popularity": "83",
+    "NbPlays": "15",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/oz2FkNGp/black#32",
+    "OpeningTags": "Modern_Defense Modern_Defense_Standard_Line"
+  },
+  {
+    "PuzzleId": "nqZ1p",
+    "FEN": "r6k/pbp1qBb1/1pn3Pp/5p2/3P4/5p2/PPPQ1PP1/2KR3R b - - 0 18",
+    "Moves": "f3g2 h1h6 g7h6 d2h6",
+    "Rating": "979",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "2406",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/NWA6OCKs/black#36",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "nurxg",
+    "FEN": "r1q2rk1/p2bppbp/p2p2pn/2pN4/3PP3/PP3N1P/1BP2PPK/R2QR3 b - - 1 14",
+    "Moves": "e7e6 d5e7 g8h8 e7c8",
+    "Rating": "922",
+    "RatingDeviation": "81",
+    "Popularity": "78",
+    "NbPlays": "104",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/YFhONJ8d/black#28",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "nxwEZ",
+    "FEN": "r3k2r/ppqnppbp/2p1bnp1/6B1/3PN3/Q1PB1N2/PP3PPP/R4RK1 b kq - 10 11",
+    "Moves": "f6e4 a3e7",
+    "Rating": "981",
+    "RatingDeviation": "75",
+    "Popularity": "98",
+    "NbPlays": "479",
+    "Themes": "master mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/uez31S3g/black#22",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "nyB9L",
+    "FEN": "rnb2rk1/pp3ppp/1b4q1/3P4/2Pp3B/P3nN2/1P1NB1PP/R2Q1R1K w - - 7 15",
+    "Moves": "f3e5 g6g2",
+    "Rating": "934",
+    "RatingDeviation": "77",
+    "Popularity": "100",
+    "NbPlays": "128",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/WTJunyHn#29",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense"
+  },
+  {
+    "PuzzleId": "o1mJL",
+    "FEN": "r4rk1/2q2pbp/2p3p1/p2p4/P2B2nP/1N1PP3/1P3PP1/R2Q1RK1 w - - 1 18",
+    "Moves": "d4g7 c7h2",
+    "Rating": "788",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "147",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/uT2PZUMN#35",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "o2toq",
+    "FEN": "2kr3r/p1qn1pb1/1pp2np1/3pP3/3P4/3B1Q2/PPPN3P/R1B2RK1 w - - 1 15",
+    "Moves": "e5f6 c7h2",
+    "Rating": "963",
+    "RatingDeviation": "77",
+    "Popularity": "94",
+    "NbPlays": "298",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/XPz3vhUi#29",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  }
+]

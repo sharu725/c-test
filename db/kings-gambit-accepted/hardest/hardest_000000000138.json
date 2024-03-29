@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "eto8P",
+    "FEN": "r1bqkb1r/pppp1p1p/2n5/4P3/3Pn1p1/5N2/PPPBQ1PP/RN2KB1R b KQkq - 1 8",
+    "Moves": "g4f3 e2e4 d7d5 e5d6",
+    "Rating": "2031",
+    "RatingDeviation": "106",
+    "Popularity": "81",
+    "NbPlays": "27",
+    "Themes": "advantage discoveredAttack enPassant hangingPiece opening short",
+    "GameUrl": "https://lichess.org/7TBhDLyB/black#16",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  },
+  {
+    "PuzzleId": "euNdQ",
+    "FEN": "2kr3r/p1p1qpbp/1p3np1/4p1B1/2PQ2b1/2N2N2/PPP3PP/R4RK1 w - - 0 15",
+    "Moves": "g5f6 e5d4 f6e7 d4c3",
+    "Rating": "2172",
+    "RatingDeviation": "80",
+    "Popularity": "84",
+    "NbPlays": "39",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ZK0ah7Hy#29",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  },
+  {
+    "PuzzleId": "euk7G",
+    "FEN": "r5k1/ppp3pp/1bn4N/8/2B3Q1/8/P2p2PP/q3rR1K b - - 2 19",
+    "Moves": "g8h8 h6f7 h8g8 f7e5 g8h8 e5g6 h7g6 g4h3",
+    "Rating": "2157",
+    "RatingDeviation": "75",
+    "Popularity": "94",
+    "NbPlays": "5787",
+    "Themes": "discoveredAttack kingsideAttack mate mateIn4 middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/HPTb9auY/black#38",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  },
+  {
+    "PuzzleId": "exeWB",
+    "FEN": "r3kb1r/ppp3pp/2n5/3pP2n/5pbQ/5N2/PPqNB1PP/R1B2R1K b kq - 1 13",
+    "Moves": "c2f5 f3d4 c6d4 e2g4",
+    "Rating": "2001",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "2626",
+    "Themes": "advantage discoveredAttack opening short",
+    "GameUrl": "https://lichess.org/HjTr3Ebw/black#26",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  },
+  {
+    "PuzzleId": "f0MzH",
+    "FEN": "rn1q1rk1/ppp1bppp/8/4P3/3Pp2N/6P1/PPPBQ3/R3K2R b KQ - 0 13",
+    "Moves": "d8d4 h4f5 d4e5 e2h5 e5f5 h5f5",
+    "Rating": "2125",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "7315",
+    "Themes": "crushing fork long middlegame",
+    "GameUrl": "https://lichess.org/RzARaxw4/black#26",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Cunningham_Defense"
+  },
+  {
+    "PuzzleId": "f94V9",
+    "FEN": "rn2k2r/ppp1nppp/5q2/1B1P4/3PQp2/2N3b1/PPP3P1/R1BK3R b kq - 4 11",
+    "Moves": "c7c6 d5c6 b8c6 c3d5 e8c8 d5f6",
+    "Rating": "2147",
+    "RatingDeviation": "77",
+    "Popularity": "80",
+    "NbPlays": "228",
+    "Themes": "crushing long opening",
+    "GameUrl": "https://lichess.org/ylrHPfWu/black#22",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Cunningham_Defense"
+  },
+  {
+    "PuzzleId": "f9wEc",
+    "FEN": "r1bk4/pp6/1qp5/3p4/2Q1P1pr/8/PPP2RP1/RN4K1 w - - 0 19",
+    "Moves": "e4d5 b6f2 g1f2 g4g3 f2g3 h4c4",
+    "Rating": "2388",
+    "RatingDeviation": "91",
+    "Popularity": "88",
+    "NbPlays": "511",
+    "Themes": "advantage attraction discoveredAttack long middlegame sacrifice",
+    "GameUrl": "https://lichess.org/BAN5zJF4#37",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Rosentreter_Gambit"
+  },
+  {
+    "PuzzleId": "f9wfq",
+    "FEN": "2kr3r/Qppqbp2/3p3p/3P4/8/7P/PPP3P1/2KRR3 b - - 0 19",
+    "Moves": "c7c6 a7a8 c8c7 a8a5 c7b8 d5c6 d7c6 e1e7",
+    "Rating": "2335",
+    "RatingDeviation": "111",
+    "Popularity": "87",
+    "NbPlays": "591",
+    "Themes": "advantage deflection middlegame queensideAttack veryLong",
+    "GameUrl": "https://lichess.org/2SeZ4lZb/black#38",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Becker_Defense"
+  },
+  {
+    "PuzzleId": "fBRrr",
+    "FEN": "r3kb1r/pp6/1np1p2p/4N1p1/2P1np2/8/PP1B1qPP/RN1QR2K b kq - 5 17",
+    "Moves": "e4d2 d1h5 e8d8 b1d2",
+    "Rating": "2308",
+    "RatingDeviation": "85",
+    "Popularity": "90",
+    "NbPlays": "546",
+    "Themes": "crushing intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/noHw3h8d/black#34",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Becker_Defense"
+  }
+]

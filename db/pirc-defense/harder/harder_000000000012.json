@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "5R3WO",
+    "FEN": "1r1q1r2/2pnppkp/p2p2p1/Q2b4/3P2P1/5P2/PPP4P/1K1R1BNR b - - 3 15",
+    "Moves": "c7c6 a5d8 f8d8 c2c4 d5e6 d4d5 d7c5 d5e6",
+    "Rating": "1977",
+    "RatingDeviation": "113",
+    "Popularity": "6",
+    "NbPlays": "21",
+    "Themes": "advantage middlegame trappedPiece veryLong",
+    "GameUrl": "https://lichess.org/VYJf8zcu/black#30",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "5TPRr",
+    "FEN": "r1bqkb1r/pppnpppp/3p4/8/2B5/2P2N1P/PPP2PP1/R1BQK2R b KQkq - 2 6",
+    "Moves": "g7g6 c4f7 e8f7 f3g5 f7e8 g5e6",
+    "Rating": "1996",
+    "RatingDeviation": "77",
+    "Popularity": "80",
+    "NbPlays": "99",
+    "Themes": "advantage attackingF2F7 attraction long opening sacrifice",
+    "GameUrl": "https://lichess.org/HZoGutRQ/black#12",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "5UQbc",
+    "FEN": "r4rk1/ppp3bp/3p2p1/3Ppn1P/8/2N4q/PPP2P1N/R1BQ1RK1 w - - 0 15",
+    "Moves": "h5g6 f5h4 d1g4 h4f3 g4f3 f8f3",
+    "Rating": "1945",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "8399",
+    "Themes": "crushing kingsideAttack long middlegame",
+    "GameUrl": "https://lichess.org/lrroNJsC#29",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Classical_Variation"
+  },
+  {
+    "PuzzleId": "5WQE0",
+    "FEN": "rnb3k1/ppp1pp1p/3p1npQ/3N4/2BPP3/7N/PPP2P1q/2KR4 b - - 1 13",
+    "Moves": "b8c6 d5f6 e7f6 c4f7 g8f7 h3g5 f6g5 h6h2",
+    "Rating": "1848",
+    "RatingDeviation": "74",
+    "Popularity": "96",
+    "NbPlays": "5988",
+    "Themes": "attraction crushing discoveredAttack kingsideAttack middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/1EzoB7W5/black#26",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Kholmov_System"
+  },
+  {
+    "PuzzleId": "5XRer",
+    "FEN": "r5k1/pbp1rppp/3p1b2/2pP1q2/P1B2B2/2P2Q1P/1P3PP1/3R1RK1 w - - 3 17",
+    "Moves": "f3g3 e7e4 c4d3 f5f4 d3e4 f4e4",
+    "Rating": "1884",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "86",
+    "Themes": "crushing long middlegame",
+    "GameUrl": "https://lichess.org/4ASnGMh9#33",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "5a10c",
+    "FEN": "r4r1k/ppq1pPbp/2n3p1/2PQNb2/2B2P2/8/PPP3PP/R1BR2K1 w - - 5 16",
+    "Moves": "d5f3 c6e5 f4e5 c7c5 c1e3 c5c4",
+    "Rating": "1906",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "612",
+    "Themes": "advantage discoveredAttack fork long middlegame",
+    "GameUrl": "https://lichess.org/kzyH77Kc#31",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Austrian_Attack"
+  },
+  {
+    "PuzzleId": "5dPvd",
+    "FEN": "r4rk1/pp1q1pbp/3pbnp1/2p1p3/3nPP2/2NPB1PP/PPPQN1BK/R4R2 b - - 0 12",
+    "Moves": "d6d5 f4e5 f6g4 h3g4",
+    "Rating": "1868",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "476",
+    "Themes": "crushing master middlegame short",
+    "GameUrl": "https://lichess.org/MHKD8Kod/black#24",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "5hgAf",
+    "FEN": "4k2r/pp3p1p/2p2bp1/8/5Bq1/2N5/PPP3PP/3RR2K b k - 1 18",
+    "Moves": "e8f8 f4h6 f6g7 d1d8",
+    "Rating": "1850",
+    "RatingDeviation": "87",
+    "Popularity": "75",
+    "NbPlays": "83",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/rGMdndYX/black#36",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "5j7xQ",
+    "FEN": "rn4k1/1p3pbp/p1p3p1/3p4/3Nr2q/P1P1B2b/BP1Q1PP1/R4RK1 w - - 0 16",
+    "Moves": "g2h3 h4h3 f2f3 h3g3 d2g2 g3g2 g1g2 e4e3",
+    "Rating": "1829",
+    "RatingDeviation": "76",
+    "Popularity": "92",
+    "NbPlays": "1428",
+    "Themes": "crushing kingsideAttack middlegame veryLong",
+    "GameUrl": "https://lichess.org/186rOs4v#31",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  }
+]

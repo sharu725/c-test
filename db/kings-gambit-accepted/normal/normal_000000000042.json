@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FSMru",
+    "FEN": "r1bk1b1r/ppppn3/6pp/nN1PN1p1/2B1Pp2/8/PPP3PP/R1B2RK1 b - - 4 12",
+    "Moves": "a5c4 e5f7 d8e8 f7h8",
+    "Rating": "1210",
+    "RatingDeviation": "83",
+    "Popularity": "84",
+    "NbPlays": "41",
+    "Themes": "advantage fork opening short",
+    "GameUrl": "https://lichess.org/yUVjyYfh/black#24",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "FSRBE",
+    "FEN": "rnb2rk1/ppp2ppp/5n2/8/3Pqp2/2P2N2/P1P1B1PP/R1BQR1K1 b - - 2 10",
+    "Moves": "c8f5 e2d3 e4c6 d3f5",
+    "Rating": "1209",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "627",
+    "Themes": "advantage opening short skewer",
+    "GameUrl": "https://lichess.org/Yjc32hDy/black#20",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense"
+  },
+  {
+    "PuzzleId": "FTIc1",
+    "FEN": "rnbqk1nr/pppp2bp/8/4N1p1/3PPp2/8/PPP3P1/RNBQKB1R b KQkq - 2 7",
+    "Moves": "d7d6 d1h5 e8f8 h5f7",
+    "Rating": "1309",
+    "RatingDeviation": "75",
+    "Popularity": "86",
+    "NbPlays": "590",
+    "Themes": "mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/i2dtmn4T/black#14",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  },
+  {
+    "PuzzleId": "FVcZN",
+    "FEN": "rnb1k1nr/1pp2ppp/p2bq3/8/5p2/2N2N2/PPPPB1PP/R1BQR1K1 b kq - 1 8",
+    "Moves": "e6d7 e2b5",
+    "Rating": "1257",
+    "RatingDeviation": "79",
+    "Popularity": "89",
+    "NbPlays": "896",
+    "Themes": "crushing discoveredAttack oneMove opening pin",
+    "GameUrl": "https://lichess.org/cRJ8W27q/black#16",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense"
+  },
+  {
+    "PuzzleId": "FZMkO",
+    "FEN": "rn1qk2r/p5pp/2pbpR2/1p2N3/4p3/8/PPPP2PP/RNBQ2K1 b kq - 0 11",
+    "Moves": "g7f6 d1h5 e8f8 h5f7",
+    "Rating": "1204",
+    "RatingDeviation": "74",
+    "Popularity": "97",
+    "NbPlays": "3872",
+    "Themes": "mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/edOiX194/black#22",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense"
+  },
+  {
+    "PuzzleId": "FaMql",
+    "FEN": "1k3rnb/ppp5/3p1q2/4n3/4Pp2/2NP3Q/PPPBB1P1/2KR4 w - - 0 18",
+    "Moves": "c3d5 e5d3 c1b1 f6b2",
+    "Rating": "1399",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "131",
+    "Themes": "discoveredAttack mate mateIn2 middlegame queensideAttack short",
+    "GameUrl": "https://lichess.org/5ZXNSAxM#35",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  },
+  {
+    "PuzzleId": "FbN7Q",
+    "FEN": "r3kb1r/pPp1q3/5p1n/7p/2b1PBpP/2P5/PP4P1/RN1Q1RK1 b kq - 0 15",
+    "Moves": "a8b8 d1a4 e8f7 a4c4",
+    "Rating": "1343",
+    "RatingDeviation": "76",
+    "Popularity": "93",
+    "NbPlays": "4205",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Hf3EIDnz/black#30",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kieseritzky_Gambit"
+  },
+  {
+    "PuzzleId": "Fc6Hp",
+    "FEN": "r1b1qrk1/ppp2pbp/2np1np1/6B1/2BPP3/2N5/PPPN2PP/R2Q1RK1 b - - 7 10",
+    "Moves": "c6d4 g5f6 g7f6 f1f6",
+    "Rating": "1362",
+    "RatingDeviation": "76",
+    "Popularity": "80",
+    "NbPlays": "171",
+    "Themes": "advantage opening short",
+    "GameUrl": "https://lichess.org/Qu1byB2M/black#20",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  },
+  {
+    "PuzzleId": "Fej5Y",
+    "FEN": "rnb2rk1/ppp2Npp/1b6/4P3/2B2Bn1/2N5/PPP3PP/3R1K1R b - - 0 13",
+    "Moves": "f8f7 d1d8",
+    "Rating": "1205",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "714",
+    "Themes": "master mate mateIn1 middlegame oneMove pin",
+    "GameUrl": "https://lichess.org/0mAlviMD/black#26",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  }
+]

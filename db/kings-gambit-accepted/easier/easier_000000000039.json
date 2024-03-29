@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "FasSZ",
+    "FEN": "rnbqr1k1/pp3ppp/8/3p4/3P1B1b/3B1Np1/PPP3P1/R2Q1RK1 w - - 0 14",
+    "Moves": "f3h4 d8h4",
+    "Rating": "1096",
+    "RatingDeviation": "152",
+    "Popularity": "-75",
+    "NbPlays": "19",
+    "Themes": "advantage oneMove opening",
+    "GameUrl": "https://lichess.org/hNZLqaxl#27",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Cunningham_Defense"
+  },
+  {
+    "PuzzleId": "Fcz9t",
+    "FEN": "r1b1k2r/ppp2p1p/1bnp2qB/8/1PBPP3/2P4P/P5P1/RN1Q1RK1 b kq - 0 12",
+    "Moves": "c8h3 c4f7 g6f7 f1f7",
+    "Rating": "1176",
+    "RatingDeviation": "127",
+    "Popularity": "57",
+    "NbPlays": "38",
+    "Themes": "attackingF2F7 crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/5vSvKQYt/black#24",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  },
+  {
+    "PuzzleId": "FhuWo",
+    "FEN": "r1b1kbnr/ppp2p1p/2np4/6q1/2BPPR2/8/PPP3PP/RNBQ2K1 b kq - 0 8",
+    "Moves": "g5g6 c4f7 g6f7 f4f7",
+    "Rating": "1087",
+    "RatingDeviation": "117",
+    "Popularity": "43",
+    "NbPlays": "50",
+    "Themes": "advantage attackingF2F7 fork opening short",
+    "GameUrl": "https://lichess.org/SX2sSBDP/black#16",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  },
+  {
+    "PuzzleId": "FkXR3",
+    "FEN": "r1b2rk1/pp1nbpp1/2p4p/4PQ2/4N3/3B1N2/PqP3PP/R4R1K b - - 3 15",
+    "Moves": "d7b6 e4f6 e7f6 f5h7",
+    "Rating": "1072",
+    "RatingDeviation": "76",
+    "Popularity": "98",
+    "NbPlays": "1192",
+    "Themes": "kingsideAttack mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/ZUUgWsij/black#30",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Fischer_Defense"
+  },
+  {
+    "PuzzleId": "FmUDj",
+    "FEN": "r5k1/ppB2ppp/8/6qn/2P5/P4Q2/2P1r1PP/R4RK1 b - - 2 19",
+    "Moves": "a8e8 f3f7 g8h8 f7f8 e8f8 f1f8",
+    "Rating": "1083",
+    "RatingDeviation": "81",
+    "Popularity": "91",
+    "NbPlays": "436",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/ahp3CcDg/black#38",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense"
+  },
+  {
+    "PuzzleId": "FoBrS",
+    "FEN": "2kr2nr/pp1q4/5b1p/3p4/3P1Qp1/2N5/PPP2BPP/2KRR3 w - - 0 19",
+    "Moves": "f2g3 f6g5 f4g5 h6g5",
+    "Rating": "1152",
+    "RatingDeviation": "77",
+    "Popularity": "90",
+    "NbPlays": "542",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/17Kb5GAh#37",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Kings_Knights_Gambit"
+  },
+  {
+    "PuzzleId": "FoIPx",
+    "FEN": "5rn1/pppn3p/3pk3/8/3b1p2/3P4/PPP3PP/RNB2R1K w - - 3 19",
+    "Moves": "f1f4 f8f4 c1f4 d4b2",
+    "Rating": "1172",
+    "RatingDeviation": "80",
+    "Popularity": "97",
+    "NbPlays": "15372",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/ubGh21Q9#37",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Lolli_Gambit"
+  },
+  {
+    "PuzzleId": "Fq79j",
+    "FEN": "rn1q1bnr/ppp1k3/3p3p/3P4/4PpQP/8/PPP3P1/RNB1K2R b KQ - 0 11",
+    "Moves": "g8f6 g4e6",
+    "Rating": "1098",
+    "RatingDeviation": "90",
+    "Popularity": "88",
+    "NbPlays": "42",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/KFXnEYN3/black#22",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Fischer_Defense"
+  },
+  {
+    "PuzzleId": "FtZ14",
+    "FEN": "r2qk2r/pp1nbpp1/2p4p/1B2P3/3Q1BP1/5R1P/PPP5/R5K1 w kq - 0 16",
+    "Moves": "b5c4 e7c5 f4e3 c5d4",
+    "Rating": "1018",
+    "RatingDeviation": "76",
+    "Popularity": "96",
+    "NbPlays": "3561",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/bunZcWfN#31",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Fischer_Defense"
+  }
+]

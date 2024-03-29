@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "C5p7m",
+    "FEN": "r3k1nr/3n1p1p/p5p1/1p1p2B1/4B3/8/P1P1QP1P/bN2K3 b kq - 0 18",
+    "Moves": "d5e4 e2e4 e8f8 e4a8",
+    "Rating": "1274",
+    "RatingDeviation": "88",
+    "Popularity": "43",
+    "NbPlays": "25",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/fKw0kVTe/black#36",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "C7PF7",
+    "FEN": "r1b2rn1/1pp3k1/p3p1pp/4P3/2pP1p1q/2N4N/PPPQ1PP1/2KR3R w - - 0 18",
+    "Moves": "h3f4 h4f4 d2f4 f8f4",
+    "Rating": "1307",
+    "RatingDeviation": "187",
+    "Popularity": "28",
+    "NbPlays": "4",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/3b6U09uG#35",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CAosQ",
+    "FEN": "rnb1kbnr/ppp4p/5p2/4N1p1/3P1p1q/2N5/PPP1B1PP/R1BQ1K1R b kq - 3 9",
+    "Moves": "b8d7 e2h5 h4h5 d1h5",
+    "Rating": "1381",
+    "RatingDeviation": "83",
+    "Popularity": "81",
+    "NbPlays": "95",
+    "Themes": "crushing opening short",
+    "GameUrl": "https://lichess.org/xwOfA5Sg/black#18",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense"
+  },
+  {
+    "PuzzleId": "CB2uZ",
+    "FEN": "r3k1nr/pp2pp1p/1qnp2p1/8/Q2NPPb1/8/PP1N2PP/R1B1KB1R w KQkq - 1 10",
+    "Moves": "d4c6 b6e3 f1e2 e3e2",
+    "Rating": "1330",
+    "RatingDeviation": "80",
+    "Popularity": "88",
+    "NbPlays": "79",
+    "Themes": "mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/VWZUHNus#19",
+    "OpeningTags": "Modern_Defense Modern_Defense_Three_Pawns_Attack"
+  },
+  {
+    "PuzzleId": "CCmfn",
+    "FEN": "r4rk1/ppp2pbp/6p1/3Pp3/4P2q/5PnP/PPPQN3/2KR1BR1 w - - 6 16",
+    "Moves": "e2g3 g7h6 d2h6 h4h6",
+    "Rating": "1224",
+    "RatingDeviation": "75",
+    "Popularity": "91",
+    "NbPlays": "1298",
+    "Themes": "advantage master middlegame pin short",
+    "GameUrl": "https://lichess.org/TngZhI4v#31",
+    "OpeningTags": "Modern_Defense Modern_Defense_Pseudo-Austrian_Attack"
+  },
+  {
+    "PuzzleId": "CFIrG",
+    "FEN": "r1b2rk1/pp2n1b1/2n3pp/2pqpp2/3P4/1PP2NNP/P3BPP1/R1BQK2R b KQ - 0 12",
+    "Moves": "c5d4 e2c4 d5c4 b3c4",
+    "Rating": "1251",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1756",
+    "Themes": "advantage master opening pin short",
+    "GameUrl": "https://lichess.org/sujsC8Vi/black#24",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CFzCJ",
+    "FEN": "rnbqkb1r/pp2pp1p/6p1/2ppP3/3P4/2PB4/P1P2PPP/R1BQK1NR w KQkq - 0 7",
+    "Moves": "g1e2 c5c4 d3c4 d5c4",
+    "Rating": "1381",
+    "RatingDeviation": "78",
+    "Popularity": "73",
+    "NbPlays": "140",
+    "Themes": "advantage master opening short trappedPiece",
+    "GameUrl": "https://lichess.org/Yx8iyOBR#13",
+    "OpeningTags": "Modern_Defense Modern_Defense_Norwegian_Defense"
+  },
+  {
+    "PuzzleId": "CGAo1",
+    "FEN": "r2qk2r/pp1b1pbp/2n1p1p1/2p5/2PnP3/2N2N2/PP1BBPPP/R2Q1RK1 w kq - 6 11",
+    "Moves": "d2g5 d4f3 e2f3 d8g5",
+    "Rating": "1237",
+    "RatingDeviation": "76",
+    "Popularity": "81",
+    "NbPlays": "470",
+    "Themes": "crushing kingsideAttack opening short",
+    "GameUrl": "https://lichess.org/azFX34KG#21",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "CICKI",
+    "FEN": "r1bqr1kb/pp5p/3p2pB/4p1N1/2Pn1P2/P7/1P1QB1PP/R4RK1 b - - 0 19",
+    "Moves": "d4f5 d2d5 c8e6 g5e6",
+    "Rating": "1342",
+    "RatingDeviation": "76",
+    "Popularity": "87",
+    "NbPlays": "306",
+    "Themes": "crushing kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/BV46oxEJ/black#38",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  }
+]

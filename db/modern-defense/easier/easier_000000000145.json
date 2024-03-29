@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "mwnnb",
+    "FEN": "2kr2nr/1pp2pbp/p1q3p1/8/3P2b1/5N2/PP1N1PPP/R1BQ1RK1 b - - 0 12",
+    "Moves": "d8d4 f3d4 g4d1 d4c6",
+    "Rating": "1078",
+    "RatingDeviation": "80",
+    "Popularity": "89",
+    "NbPlays": "400",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/CaPjthw8/black#24",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "mxN5n",
+    "FEN": "5rk1/pr2qpbp/3p1np1/1Np1p3/Q1P1PP2/5B2/PP4PP/3R1RK1 w - - 2 19",
+    "Moves": "d1d6 b7b5 c4b5 e7d6",
+    "Rating": "1158",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "2580",
+    "Themes": "advantage capturingDefender intermezzo middlegame short",
+    "GameUrl": "https://lichess.org/fxHzINjK#37",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "myfx9",
+    "FEN": "r1b1k1r1/p2np1bp/2p3p1/q3p1B1/1p6/5P2/PPPQN1PP/1NKRR3 b q - 1 17",
+    "Moves": "d7b6 d2d8 e8f7 d8e7",
+    "Rating": "1185",
+    "RatingDeviation": "110",
+    "Popularity": "50",
+    "NbPlays": "17",
+    "Themes": "mate mateIn2 opening short",
+    "GameUrl": "https://lichess.org/WpfEB81J/black#34",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "n1Hug",
+    "FEN": "r2qk2r/1b1n1p1p/pp3bp1/1Bpp4/3pP3/P2P2NP/1PP3P1/R1BQ1RK1 w kq - 0 16",
+    "Moves": "f1f6 d8f6 b5d7 e8d7",
+    "Rating": "1010",
+    "RatingDeviation": "211",
+    "Popularity": "-100",
+    "NbPlays": "4",
+    "Themes": "advantage hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/2ewKYd71#31",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "n1NgE",
+    "FEN": "2Qq1k1r/p2nppbp/1p2b1p1/1B6/3P1B2/4PN1P/PP3PP1/2R1K2R b K - 0 15",
+    "Moves": "d8c8 c1c8",
+    "Rating": "1187",
+    "RatingDeviation": "89",
+    "Popularity": "67",
+    "NbPlays": "96",
+    "Themes": "backRankMate mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/4eHjaQmg/black#30",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "n27Bq",
+    "FEN": "r3r1k1/ppp2p2/3p2p1/4n3/3QP2q/4B2b/PPB2PP1/RN3RK1 w - - 0 17",
+    "Moves": "g2h3 e5f3 g1g2 f3d4",
+    "Rating": "1037",
+    "RatingDeviation": "80",
+    "Popularity": "75",
+    "NbPlays": "58",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/M64MmIBK#33",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "n51eR",
+    "FEN": "r2qk1nr/pp2ppbp/3p2p1/4n3/2P1P3/2N2B2/PP3PPP/R1BQ1RK1 b kq - 2 10",
+    "Moves": "e5c4 d1a4 e8f8 a4c4",
+    "Rating": "1116",
+    "RatingDeviation": "186",
+    "Popularity": "-53",
+    "NbPlays": "8",
+    "Themes": "advantage fork opening short",
+    "GameUrl": "https://lichess.org/3uHGIRyn/black#20",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "n6xDJ",
+    "FEN": "rnb2rk1/pp2qnbp/2p2pp1/4p3/2BPP3/2N2N2/PPP3PP/R1BQ1RK1 w - - 0 12",
+    "Moves": "d4d5 e7c5 g1h1 c5c4",
+    "Rating": "1109",
+    "RatingDeviation": "77",
+    "Popularity": "87",
+    "NbPlays": "248",
+    "Themes": "advantage fork master opening short",
+    "GameUrl": "https://lichess.org/8HhzJdny#23",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "n7dka",
+    "FEN": "r1bq1r1k/ppp2pb1/2n1pNp1/5BQ1/3P4/2P2N2/PP3PPP/R4RK1 b - - 0 13",
+    "Moves": "e6f5 g5h4 g7h6 h4h6",
+    "Rating": "1101",
+    "RatingDeviation": "77",
+    "Popularity": "75",
+    "NbPlays": "59",
+    "Themes": "kingsideAttack mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/mLZYeysJ/black#26",
+    "OpeningTags": "Modern_Defense Modern_Defense_Standard_Line"
+  }
+]

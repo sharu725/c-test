@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "hONum",
+    "FEN": "r1b3k1/ppp2ppp/2pq4/4r3/8/2N1B3/PPP2PPP/3R1RK1 b - - 3 14",
+    "Moves": "d6g6 d1d8 e5e8 d8e8",
+    "Rating": "654",
+    "RatingDeviation": "93",
+    "Popularity": "66",
+    "NbPlays": "179",
+    "Themes": "backRankMate mate mateIn2 middlegame short",
+    "GameUrl": "https://lichess.org/AsUM2RV2/black#28",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Spanish_Variation"
+  },
+  {
+    "PuzzleId": "hOk9o",
+    "FEN": "3r2k1/ppp2pp1/2n2q1p/8/2Pr4/3BQ2P/P1P2PP1/R3R1K1 b - - 3 19",
+    "Moves": "c6b4 e3e8 d8e8 e1e8",
+    "Rating": "950",
+    "RatingDeviation": "83",
+    "Popularity": "93",
+    "NbPlays": "185",
+    "Themes": "kingsideAttack master mate mateIn2 middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/BoEXDh31/black#38",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Other_variations"
+  },
+  {
+    "PuzzleId": "hSHzC",
+    "FEN": "r3r1k1/pbp2ppp/1p3n2/3q4/3p4/1P1B4/PBPP1PPP/R2Q1RK1 w - - 6 16",
+    "Moves": "d3c4 d5g2",
+    "Rating": "906",
+    "RatingDeviation": "84",
+    "Popularity": "87",
+    "NbPlays": "73",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/dFtF6df9#31",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Spanish_Variation"
+  },
+  {
+    "PuzzleId": "hUNGf",
+    "FEN": "r4r1k/1pp1n1p1/pb5p/4Nb2/1P2n3/PBP5/4NPPP/R1B2RK1 w - - 3 18",
+    "Moves": "g1h1 e4f2 f1f2 b6f2",
+    "Rating": "964",
+    "RatingDeviation": "85",
+    "Popularity": "93",
+    "NbPlays": "951",
+    "Themes": "advantage kingsideAttack middlegame short",
+    "GameUrl": "https://lichess.org/3gPNsdn6#35",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "hUpHN",
+    "FEN": "r4rk1/ppp2pp1/2p3qp/1P1b4/8/B3Q3/P4PPP/R4RK1 w - - 3 17",
+    "Moves": "a3f8 g6g2",
+    "Rating": "894",
+    "RatingDeviation": "76",
+    "Popularity": "100",
+    "NbPlays": "83",
+    "Themes": "kingsideAttack mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/zSOT2vVT#33",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Double_Spanish"
+  },
+  {
+    "PuzzleId": "hVfsj",
+    "FEN": "1r1r4/p2bkp1p/2p3p1/2N1b3/4P3/6P1/PPP2P1P/2KR3R b - - 0 19",
+    "Moves": "e7f8 c5d7 d8d7 d1d7",
+    "Rating": "785",
+    "RatingDeviation": "111",
+    "Popularity": "83",
+    "NbPlays": "24",
+    "Themes": "crushing fork middlegame short",
+    "GameUrl": "https://lichess.org/DKxQ5xrN/black#38",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Scotch_Variation"
+  },
+  {
+    "PuzzleId": "hXJo0",
+    "FEN": "r3kb1r/ppp3pp/3q1p2/4p3/3nN1b1/3P1N2/PPP2PPP/R1BQR1K1 b kq - 2 11",
+    "Moves": "d4f3 g2f3 d6d7 f3g4",
+    "Rating": "972",
+    "RatingDeviation": "83",
+    "Popularity": "91",
+    "NbPlays": "328",
+    "Themes": "advantage opening short",
+    "GameUrl": "https://lichess.org/6DbW7DYZ/black#22",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Italian_Variation"
+  },
+  {
+    "PuzzleId": "hYcop",
+    "FEN": "N1bk4/pp1p1ppp/5q2/6K1/4r3/8/P1P2PPP/R2Q1B1R w - - 1 18",
+    "Moves": "g5h5 f6e5",
+    "Rating": "911",
+    "RatingDeviation": "296",
+    "Popularity": "-33",
+    "NbPlays": "6",
+    "Themes": "mate mateIn1 middlegame oneMove",
+    "GameUrl": "https://lichess.org/K9NEXRSq#35",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Halloween_Gambit"
+  },
+  {
+    "PuzzleId": "hap3P",
+    "FEN": "r1b3k1/p1p2pp1/2ppr2p/8/2Pq1P2/3B4/P1P3PP/R2Q1R1K b - - 2 16",
+    "Moves": "e6f6 d3h7 g8h7 d1d4",
+    "Rating": "960",
+    "RatingDeviation": "83",
+    "Popularity": "69",
+    "NbPlays": "100",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/BtIRenyM/black#32",
+    "OpeningTags": "Four_Knights_Game Four_Knights_Game_Scotch_Variation_Accepted"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "WD8Gz",
+    "FEN": "r2qk1nr/1bpp1pb1/p3p1pp/n2P4/4P3/PB2BN2/2P1NPPP/R2Q1RK1 b kq - 0 12",
+    "Moves": "g7a1 d1a1",
+    "Rating": "702",
+    "RatingDeviation": "92",
+    "Popularity": "20",
+    "NbPlays": "62",
+    "Themes": "advantage middlegame oneMove",
+    "GameUrl": "https://lichess.org/8widl7xe/black#24",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "WGyqd",
+    "FEN": "r2q1rk1/ppp1n1bp/3p1ppB/4p3/3nP3/2NP1BP1/PPPQ1P1P/R4RK1 w - - 2 12",
+    "Moves": "h6g7 d4f3 g1g2 f3d2",
+    "Rating": "972",
+    "RatingDeviation": "78",
+    "Popularity": "94",
+    "NbPlays": "1799",
+    "Themes": "crushing fork hangingPiece middlegame short",
+    "GameUrl": "https://lichess.org/kWIi7Ye4#23",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "WISPo",
+    "FEN": "rnb1k2r/pp3ppp/3p1qn1/4N3/2BP4/8/PPP4p/RN1Q1R1K b kq - 1 13",
+    "Moves": "f6f1 d1f1",
+    "Rating": "699",
+    "RatingDeviation": "99",
+    "Popularity": "90",
+    "NbPlays": "965",
+    "Themes": "advantage hangingPiece oneMove opening",
+    "GameUrl": "https://lichess.org/yOMqu4WZ/black#26",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense"
+  },
+  {
+    "PuzzleId": "WIgIw",
+    "FEN": "rn2k2r/ppp2ppp/3b1n2/8/2Pq1p2/3B1R2/PP4PP/RNBQ3K b kq - 1 10",
+    "Moves": "e8g8 d3h7 f6h7 d1d4",
+    "Rating": "986",
+    "RatingDeviation": "84",
+    "Popularity": "93",
+    "NbPlays": "1294",
+    "Themes": "crushing discoveredAttack kingsideAttack opening short",
+    "GameUrl": "https://lichess.org/rIy1abeC/black#20",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense"
+  },
+  {
+    "PuzzleId": "WJT8c",
+    "FEN": "r3kbnr/ppp1q1p1/2n4p/3pP3/5Bb1/5N2/PPP1B1PP/RN1Q1RK1 w kq - 0 10",
+    "Moves": "e2b5 e7c5 g1h1 c5b5",
+    "Rating": "901",
+    "RatingDeviation": "75",
+    "Popularity": "90",
+    "NbPlays": "436",
+    "Themes": "advantage fork opening short",
+    "GameUrl": "https://lichess.org/bQ1pIXBk#19",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Modern_Defense"
+  },
+  {
+    "PuzzleId": "WT1t8",
+    "FEN": "3r4/ppp1pBbk/5nNp/8/3r1B2/2N5/PPP2PPP/4R1K1 w - - 5 17",
+    "Moves": "e1e7 d4d1 c3d1 d8d1 e7e1 d1e1",
+    "Rating": "778",
+    "RatingDeviation": "98",
+    "Popularity": "82",
+    "NbPlays": "129",
+    "Themes": "backRankMate long mate mateIn3 middlegame sacrifice",
+    "GameUrl": "https://lichess.org/uLMJAeFq#33",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "WTPwn",
+    "FEN": "r3k2r/pp1bpp2/3p4/2qP3p/4Np2/3B1Q1P/PPP3PK/R7 b kq - 3 19",
+    "Moves": "c5d5 e4f6 e7f6 f3d5",
+    "Rating": "966",
+    "RatingDeviation": "87",
+    "Popularity": "94",
+    "NbPlays": "866",
+    "Themes": "crushing discoveredAttack middlegame short",
+    "GameUrl": "https://lichess.org/E2JKnTci/black#38",
+    "OpeningTags": "Modern_Defense Modern_Defense_Standard_Defense"
+  },
+  {
+    "PuzzleId": "WVypO",
+    "FEN": "2kr3r/1ppqpp1p/p1np2p1/8/P1P2P2/N1Q4P/1P2BbP1/2KR3R b - - 1 16",
+    "Moves": "d7f5 e2g4 h7h5 g4f5",
+    "Rating": "967",
+    "RatingDeviation": "80",
+    "Popularity": "97",
+    "NbPlays": "2534",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/JipFNoa6/black#32",
+    "OpeningTags": "Modern_Defense Modern_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "WWf4e",
+    "FEN": "r3k3/pppnppbr/6p1/1N2n2p/2PB4/P7/1P2NPPP/R4RK1 b q - 3 14",
+    "Moves": "c7c6 b5c7 e8f8 c7a8",
+    "Rating": "841",
+    "RatingDeviation": "91",
+    "Popularity": "93",
+    "NbPlays": "601",
+    "Themes": "advantage fork middlegame short",
+    "GameUrl": "https://lichess.org/Lf6T55WQ/black#28",
+    "OpeningTags": "Modern_Defense Modern_Defense_Kotov_Variation"
+  }
+]

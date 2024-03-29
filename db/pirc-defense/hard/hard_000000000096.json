@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "ahZ1F",
+    "FEN": "r2q4/ppp1pk1p/2n1bbp1/3n4/3PN3/4BQ2/PPP2PPP/R4RK1 b - - 9 13",
+    "Moves": "d5e3 e4g5 f7e8 g5e6 e3f1 e6d8",
+    "Rating": "1774",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1052",
+    "Themes": "crushing deflection long middlegame pin",
+    "GameUrl": "https://lichess.org/2VY6xUmP/black#26",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "aiLnt",
+    "FEN": "rn4k1/1b2rp1p/pp1p1qp1/2pn2N1/2B3P1/2P1B2P/P1P2Q2/2KRR3 b - - 1 19",
+    "Moves": "f6f2 e3f2 e7e1 f2e1",
+    "Rating": "1746",
+    "RatingDeviation": "99",
+    "Popularity": "78",
+    "NbPlays": "28",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/kCCXFKDT/black#38",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Austrian_Attack"
+  },
+  {
+    "PuzzleId": "ajl7a",
+    "FEN": "rn1q1r2/pb3pk1/3p1np1/3Pp2p/1p5P/4NP2/PPPQB1P1/R3K1NR b KQ - 2 14",
+    "Moves": "d8a5 e3f5 g6f5 d2g5",
+    "Rating": "1648",
+    "RatingDeviation": "75",
+    "Popularity": "82",
+    "NbPlays": "142",
+    "Themes": "clearance crushing middlegame sacrifice short",
+    "GameUrl": "https://lichess.org/AR80FpRk/black#28",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Byrne_Variation"
+  },
+  {
+    "PuzzleId": "asSCb",
+    "FEN": "rnb1k2r/pp2ppbp/2pp2p1/8/1P1PNP2/1R3N2/q1P3PP/3QKB1R b Kkq - 1 11",
+    "Moves": "e8g8 e4c3 a2b3 c2b3",
+    "Rating": "1654",
+    "RatingDeviation": "73",
+    "Popularity": "95",
+    "NbPlays": "16212",
+    "Themes": "advantage opening short trappedPiece",
+    "GameUrl": "https://lichess.org/TUUMGd55/black#22",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "ay7Wt",
+    "FEN": "3r2k1/pp3ppp/2n1b3/1Bp5/4P3/2b5/PPP2PPP/2K3NR w - - 0 15",
+    "Moves": "b5c6 c3d2 c1b1 b7c6",
+    "Rating": "1661",
+    "RatingDeviation": "75",
+    "Popularity": "93",
+    "NbPlays": "1687",
+    "Themes": "advantage endgame intermezzo short",
+    "GameUrl": "https://lichess.org/Dthv79qT#29",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "ayT4a",
+    "FEN": "rnbqkb1r/pp1npp1p/4P1p1/2P5/2P5/3B4/PP4PP/RNBQK1NR b KQkq - 0 9",
+    "Moves": "d7c5 e6f7 e8f7 d3g6 h7g6 d1d8",
+    "Rating": "1628",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "953",
+    "Themes": "advancedPawn attackingF2F7 attraction crushing discoveredAttack long opening",
+    "GameUrl": "https://lichess.org/xS6IE33U/black#18",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  },
+  {
+    "PuzzleId": "b1GXj",
+    "FEN": "r4rk1/2p2pbp/pp2p1p1/P3P2P/P4PP1/2Nq1b2/B2B4/R2QK2R w KQ - 0 18",
+    "Moves": "d1b1 d3b1 a1b1 f3h1",
+    "Rating": "1611",
+    "RatingDeviation": "143",
+    "Popularity": "24",
+    "NbPlays": "25",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/8NxuTufJ#35",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Austrian_Attack"
+  },
+  {
+    "PuzzleId": "b1L9r",
+    "FEN": "5rk1/p3pp1p/n2p1nPQ/q1pP4/4P3/2N2P2/P1r1N1P1/R3K2R b KQ - 0 15",
+    "Moves": "c2c3 g6h7 g8h8 h6f8 f6g8 h7g8q",
+    "Rating": "1641",
+    "RatingDeviation": "75",
+    "Popularity": "70",
+    "NbPlays": "227",
+    "Themes": "advancedPawn doubleCheck kingsideAttack long mate mateIn3 middlegame promotion",
+    "GameUrl": "https://lichess.org/3z6VEi2p/black#30",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Byrne_Variation"
+  },
+  {
+    "PuzzleId": "b3V9N",
+    "FEN": "r3k3/4ppb1/p2pbnp1/qp2P3/3B1P2/2N5/PPPQ2P1/1K1R1B2 b q - 0 16",
+    "Moves": "f6d5 c3d5 a5d2 d5c7 e8d7 d1d2 d7c7 e5d6",
+    "Rating": "1681",
+    "RatingDeviation": "77",
+    "Popularity": "99",
+    "NbPlays": "466",
+    "Themes": "crushing fork intermezzo middlegame sacrifice veryLong",
+    "GameUrl": "https://lichess.org/ehO1qJKY/black#32",
+    "OpeningTags": "Pirc_Defense Pirc_Defense_Other_variations"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "PuzzleId": "EYi70",
+    "FEN": "r2q3r/ppp1k1bp/3p1np1/6Q1/4P3/2N5/PPP3PP/3R1RK1 b - - 4 15",
+    "Moves": "h8f8 e4e5 e7e8 e5f6 f8f6 g5d5",
+    "Rating": "2308",
+    "RatingDeviation": "95",
+    "Popularity": "80",
+    "NbPlays": "103",
+    "Themes": "advantage long middlegame",
+    "GameUrl": "https://lichess.org/DaqrRWsj/black#30",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Fischer_Defense"
+  },
+  {
+    "PuzzleId": "EaLQH",
+    "FEN": "2kr1b1r/1pNq3p/p1n1p3/2Pb4/Q2P1B2/5P2/PP5P/2KRR3 b - - 0 19",
+    "Moves": "f8g7 c7a8 d8f8 a8b6",
+    "Rating": "2393",
+    "RatingDeviation": "77",
+    "Popularity": "93",
+    "NbPlays": "5622",
+    "Themes": "advantage middlegame quietMove short",
+    "GameUrl": "https://lichess.org/CLr9VbpW/black#38",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Schallopp_Defense"
+  },
+  {
+    "PuzzleId": "EaYlM",
+    "FEN": "r1b2b1r/pppk1B2/7p/3Pn1N1/1q2NBn1/8/PPP5/R2QK2R w KQ - 1 16",
+    "Moves": "c2c3 h6g5 c3b4 h8h1 e1e2 h1d1",
+    "Rating": "2233",
+    "RatingDeviation": "82",
+    "Popularity": "91",
+    "NbPlays": "1543",
+    "Themes": "crushing discoveredAttack exposedKing long middlegame skewer",
+    "GameUrl": "https://lichess.org/Mfk6HtnI#31",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  },
+  {
+    "PuzzleId": "EbquM",
+    "FEN": "r4rk1/pp3ppp/5n2/2b1B3/2q5/2N2Q2/PP4PP/R4R1K b - - 1 15",
+    "Moves": "c5d4 f3f4 d4c3 f4c4",
+    "Rating": "2070",
+    "RatingDeviation": "99",
+    "Popularity": "17",
+    "NbPlays": "36",
+    "Themes": "advantage middlegame short",
+    "GameUrl": "https://lichess.org/7xDuMEFk/black#30",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Abbazia_Defense"
+  },
+  {
+    "PuzzleId": "Ef2Oj",
+    "FEN": "r1b1k2r/pppp1ppp/8/4P3/1b1Nnp1q/2N5/PPPB2PP/R2QKB1R w KQkq - 1 9",
+    "Moves": "g2g3 f4g3 d4f5 g3g2 f5h4 g2h1q",
+    "Rating": "2181",
+    "RatingDeviation": "86",
+    "Popularity": "77",
+    "NbPlays": "48",
+    "Themes": "advancedPawn advantage discoveredAttack exposedKing long opening promotion",
+    "GameUrl": "https://lichess.org/W26o43JG#17",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Schallopp_Defense"
+  },
+  {
+    "PuzzleId": "EiASv",
+    "FEN": "rnbq1k1r/ppp5/4p1Q1/8/5p1b/1P5P/P1PP1nP1/RNB2K1R b - - 0 14",
+    "Moves": "d8f6 c1a3 f6e7 a3e7 h4e7 f1f2",
+    "Rating": "2032",
+    "RatingDeviation": "74",
+    "Popularity": "94",
+    "NbPlays": "8589",
+    "Themes": "advantage exposedKing long opening",
+    "GameUrl": "https://lichess.org/x00OhlM8/black#28",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Cunningham_Defense"
+  },
+  {
+    "PuzzleId": "EibAP",
+    "FEN": "r1bqk2r/ppppnppp/1bn5/6N1/2BPPp2/8/PPP3PP/RNBQ1RK1 b kq - 4 7",
+    "Moves": "e8g8 d1h5 b6d4 g1h1 h7h6 g5f7",
+    "Rating": "2092",
+    "RatingDeviation": "75",
+    "Popularity": "88",
+    "NbPlays": "334",
+    "Themes": "advantage defensiveMove long opening",
+    "GameUrl": "https://lichess.org/A8mKiMzb/black#14",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_MacLeod_Defense"
+  },
+  {
+    "PuzzleId": "ElKeg",
+    "FEN": "1r2k2r/p1p3bp/2ppp3/4P1q1/Q7/2P3P1/P1P5/K4RNR b k - 2 19",
+    "Moves": "e8d7 f1f7 d7e8 g1f3",
+    "Rating": "2248",
+    "RatingDeviation": "82",
+    "Popularity": "81",
+    "NbPlays": "80",
+    "Themes": "advantage middlegame pin short",
+    "GameUrl": "https://lichess.org/lNMtipB1/black#38",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Bishops_Gambit"
+  },
+  {
+    "PuzzleId": "EoAMt",
+    "FEN": "rnbq1rk1/pp3ppp/7b/8/3PN1N1/4p3/PP2B1PP/R2Q1RK1 b - - 9 14",
+    "Moves": "d8b6 e4f6 g7f6 g4f6 b6f6 f1f6",
+    "Rating": "2351",
+    "RatingDeviation": "86",
+    "Popularity": "79",
+    "NbPlays": "51",
+    "Themes": "advantage kingsideAttack long opening sacrifice",
+    "GameUrl": "https://lichess.org/DvrHPGSG/black#28",
+    "OpeningTags": "Kings_Gambit_Accepted Kings_Gambit_Accepted_Abbazia_Defense"
+  }
+]
